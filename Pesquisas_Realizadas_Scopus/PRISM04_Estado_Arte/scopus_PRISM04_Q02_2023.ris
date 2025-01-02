@@ -1,0 +1,43 @@
+﻿TY  - CONF
+AU  - Alves, A.
+AU  - Miranda, P.
+AU  - Mello, R.
+AU  - Nascimento, A.
+TI  - Automatic Simplification of Legal Texts in Portuguese Using Machine Learning
+PY  - 2023
+T2  - Frontiers in Artificial Intelligence and Applications
+VL  - 379
+SP  - 281
+EP  - 286
+DO  - 10.3233/FAIA230975
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85181168745&doi=10.3233%2fFAIA230975&partnerID=40&md5=d7231894bff2c47c225747359f7ffb93
+AD  - Cesar School, Recife, Brazil
+AD  - Ufrpe, Recife, Brazil
+AB  - Texts produced by the Brazilian judiciary have a complex and technical vocabulary, with elaborate use of the Portuguese language and many legal terms difficult to be understood, generating a barrier in communication between the judiciary and the population. In this sense, the Automatic Text Simplification (ATS), activity of the Natural Language Processing (NLP) area, can be applied to improve the readability of these types of text using specialized algorithms, and promote scalability in simplifying them, in view of the great demand in the courts. In this context, this article presents an evaluation of four methods of state of the art in text simplification, evaluated according to readability metrics, to improve the quality of existing texts in the judicial summaries, dataset containing 100 summaries of the Federal Regional Court of the 5th Region (TRF5) and another 100 of the Federal Supreme Court (STF). The methods MUSS(EN), MUSS(PT), Transformers and NMT + Attention were tested, and the results of the simplifications exceeded the FRE readability index of the original texts, making them more readable.  © 2023 The Authors.
+KW  - automatic text simplification
+KW  - machine learning
+KW  - natural language processing
+KW  - Natural language processing systems
+KW  - Quality control
+KW  - Automatic text simplification
+KW  - Language processing
+KW  - Legal texts
+KW  - Machine-learning
+KW  - Natural language processing
+KW  - Natural languages
+KW  - Portuguese languages
+KW  - State of the art
+KW  - Supreme Court
+KW  - Machine learning
+A2  - Sileno G.
+A2  - Spanakis J.
+A2  - van Dijck G.
+PB  - IOS Press BV
+SN  - 09226389 (ISSN); 978-164368472-7 (ISBN)
+LA  - English
+J2  - Front. Artif. Intell. Appl.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 0; Correspondence Address: A. Nascimento; Cesar School, Recife, Brazil; email: andre.camara@ufrpe.br; Conference name: 36th International Conference on Legal Knowledge and Information Systems, JURIX 2023; Conference date: 18 December 2023 through 20 December 2023; Conference code: 195587
+ER  -
+

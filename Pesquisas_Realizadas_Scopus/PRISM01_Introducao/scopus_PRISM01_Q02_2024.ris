@@ -1,0 +1,465 @@
+﻿TY  - JOUR
+AU  - Pagallo, U.
+AU  - O’Sullivan, S.
+AU  - Nevejans, N.
+AU  - Holzinger, A.
+AU  - Friebe, M.
+AU  - Jeanquartier, F.
+AU  - Jean-Quartier, C.
+AU  - Miernik, A.
+TI  - The underuse of AI in the health sector: Opportunity costs, success stories, risks and recommendations
+PY  - 2024
+T2  - Health and Technology
+VL  - 14
+IS  - 1
+SP  - 1
+EP  - 14
+DO  - 10.1007/s12553-023-00806-7
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85179329265&doi=10.1007%2fs12553-023-00806-7&partnerID=40&md5=d0c15663665b9fa822ee79f2a2facde8
+AD  - Law School, University of Turin, Turin, Italy
+AD  - Department of Urology, Faculty of Medicine, University of Freiburg - Medical Centre, Freiburg im Breisgau, Germany
+AD  - Ethics and Procedures Center (CDEP), Faculty of Law of Douai, University of Artois, Arras, France
+AD  - Human-Centered AI Lab, Medical University of Graz, Graz, Austria
+AD  - University of Natural Resources and Life Sciences Vienna, Human-Centered AI Lab, Vienna, Austria
+AD  - Department of Measurements and Electronics, AGH University of Science and Technology, Krak’ow, Poland
+AD  - Faculty of Medicine, Otto-von-Guericke-University, Magdeburg, Germany
+AD  - Center for Innovation and Business Development, FOM University of Applied Sciences, Essen, Germany
+AB  - Purpose: This contribution explores the underuse of artificial intelligence (AI) in the health sector, what this means for practice, and how much the underuse can cost. Attention is drawn to the relevance of an issue that the European Parliament has outlined as a "major threat" in 2020. At its heart is the risk that research and development on trusted AI systems for medicine and digital health will pile up in lab centers without generating further practical relevance. Our analysis highlights why researchers, practitioners and especially policymakers, should pay attention to this phenomenon. Methods: The paper examines the ways in which governments and public agencies are addressing the underuse of AI. As governments and international organizations often acknowledge the limitations of their own initiatives, the contribution explores the causes of the current issues and suggests ways to improve initiatives for digital health. Results: Recommendations address the development of standards, models of regulatory governance, assessment of the opportunity costs of underuse of technology, and the urgency of the problem. Conclusions: The exponential pace of AI advances and innovations makes the risks of underuse of AI increasingly threatening. Graphical Abstract: [Figure not available: see fulltext.] © 2023, The Author(s).
+KW  - AI in Medicine
+KW  - AI Law
+KW  - AI Policy
+KW  - Ethics of AI
+KW  - Regulation of AI
+KW  - Underutilization of AI
+KW  - artificial intelligence
+KW  - disease management
+KW  - female
+KW  - government
+KW  - human
+KW  - international organization
+KW  - law
+KW  - male
+KW  - opportunity cost
+KW  - pharmacoeconomics
+KW  - physician
+KW  - review
+KW  - systematic review
+PB  - Springer Science and Business Media Deutschland GmbH
+SN  - 21907188 (ISSN)
+LA  - English
+J2  - Health Technol.
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 21; Correspondence Address: S. O’Sullivan; Department of Urology, Faculty of Medicine, University of Freiburg - Medical Centre, Freiburg im Breisgau, Germany; email: doctorshaneosullivan@gmail.com; A. Holzinger; Human-Centered AI Lab, Medical University of Graz, Graz, Austria; email: a.holzinger@tugraz.at
+ER  -
+
+TY  - JOUR
+AU  - Gallifant, J.
+AU  - Fiske, A.
+AU  - Levites Strekalova, Y.A.
+AU  - Osorio-Valencia, J.S.
+AU  - Parke, R.
+AU  - Mwavu, R.
+AU  - Martinez, N.
+AU  - Gichoya, J.W.
+AU  - Ghassemi, M.
+AU  - Demner-Fushman, D.
+AU  - McCoy, L.G.
+AU  - Celi, L.A.
+AU  - Pierce, R.
+TI  - Peer review of GPT-4 technical report and systems card
+PY  - 2024
+T2  - PLOS Digital Health
+VL  - 3
+IS  - 1 January
+C7  - e0000417
+DO  - 10.1371/journal.pdig.0000417
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85187799539&doi=10.1371%2fjournal.pdig.0000417&partnerID=40&md5=dc82d204ebe70cc697274ceee3528e64
+AD  - Department of Critical Care, Guy’s & St Thomas’ NHS Trust, London, United Kingdom
+AD  - Massachusetts Institute of Technology, Laboratory for Computational Physiology, Cambridge, MA, United States
+AD  - Institute of History and Ethics in Medicine, Department of Clinical Medicine, TUM School of Medicine and Health, Technical University of Munich, Munich, Germany
+AD  - Department of Health Services Research, Management, and Policy, College of Public Health and Health Professions, University of Florida, Gainesville, FL, United States
+AD  - A.I. and Innovation Committee, Colombian Radiology Association, Medellin, Colombia
+AD  - ScienteLab, Bogota, Colombia
+AD  - Be4tech, Medellin, Colombia
+AD  - Cardiothoracic and Vascular Intensive Care Unit, Auckland City Hospital, Auckland, New Zealand
+AD  - School of Nursing, The University of Auckland, Auckland, New Zealand
+AD  - Faculty of Computing and Informatics, Mbarara University of Science and Technology, Mbarara, Uganda
+AD  - Center for Biomedical Ethics, Stanford University, Stanford, CA, United States
+AD  - Department of Radiology, Emory University School of Medicine, Atlanta, GA, United States
+AD  - Massachusetts Institute of Technology, Electrical Engineering and Computer Science (EECS), Cambridge, MA, United States
+AD  - National Library of Medicine, NIH, HHS, Bethesda, MD, United States
+AD  - Faculty of Medicine and Dentistry, University of Alberta, Edmonton, AB, Canada
+AD  - Division of Pulmonary, Critical Care, and Sleep Medicine, Beth Israel Deaconess Medical Center, Boston, MA, United States
+AD  - Department of Biostatistics, Harvard T.H. Chan School of Public Health, Boston, MA, United States
+AD  - The Law School, Faculty of Humanities, Arts, and Social Sciences, University of Exeter, Exeter, United Kingdom
+AB  - The study provides a comprehensive review of OpenAI’s Generative Pre-trained Transformer 4 (GPT-4) technical report, with an emphasis on applications in high-risk settings like healthcare. A diverse team, including experts in artificial intelligence (AI), natural language processing, public health, law, policy, social science, healthcare research, and bioethics, analyzed the report against established peer review guidelines. The GPT-4 report shows a significant commitment to transparent AI research, particularly in creating a systems card for risk assessment and mitigation. However, it reveals limitations such as restricted access to training data, inadequate confidence and uncertainty estimations, and concerns over privacy and intellectual property rights. Key strengths identified include the considerable time and economic investment in transparent AI research and the creation of a comprehensive systems card. On the other hand, the lack of clarity in training processes and data raises concerns about encoded biases and interests in GPT-4. The report also lacks confidence and uncertainty estimations, crucial in high-risk areas like healthcare, and fails to address potential privacy and intellectual property issues. Furthermore, this study emphasizes the need for diverse, global involvement in developing and evaluating large language models (LLMs) to ensure broad societal benefits and mitigate risks. The paper presents recommendations such as improving data transparency, developing accountability frameworks, establishing confidence standards for LLM outputs in high-risk settings, and enhancing industry research review processes. It concludes that while GPT-4’s report is a step towards open discussions on LLMs, more extensive interdisciplinary reviews are essential for addressing bias, harm, and risk concerns, especially in high-risk domains. The review aims to expand the understanding of LLMs in general and highlights the need for new reflection forms on how LLMs are reviewed, the data required for effective evaluation, and addressing critical issues like bias and risk. © 2024 Gallifant et al. This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+PB  - Public Library of Science
+SN  - 27673170 (ISSN)
+LA  - English
+J2  - PLOS Digit. Health
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 18; Correspondence Address: J. Gallifant; Department of Critical Care, Guy’s & St Thomas’ NHS Trust, London, United Kingdom; email: jgally@mit.edu
+ER  -
+
+TY  - CHAP
+AU  - Boopathi, S.
+TI  - Advancements in Machine Learning and AI for Intelligent Systems in Drone Applications for Smart City Developments
+PY  - 2024
+T2  - Futuristic e-Governance Security With Deep Learning Applications
+SP  - 15
+EP  - 45
+DO  - 10.4018/978-1-6684-9596-4.ch002
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85191427818&doi=10.4018%2f978-1-6684-9596-4.ch002&partnerID=40&md5=ab87db764a3fa3f1b8e1cc1379c292ed
+AD  - Department of Mechanical Engineering, Muthayammal Engineering College, India
+AB  - The chapter explores the integration of drones, machine learning, and artificial intelligence (AI) in smart city development. Drones can revolutionize urban planning, energy efficiency, noise reduction, environmental monitoring, traffic management, infrastructure inspection, public safety, data security, and privacy protection. AI-driven solutions enable data-driven decision-making for resource allocation, sustainability, and predictive modeling. AI optimizes flight paths for energy efficiency, noise reduction strategies enhance drone social acceptance, and autonomous drone navigation is crucial for safe urban deployment. Drones optimize traffic flow, reduce congestion, and enhance safety. AI provides predictive insights into traffic patterns, and drones aid in law enforcement, emergency response, and first responder support. Data security and privacy protection measures are essential for maintaining public trust. © 2024, IGI Global. All rights reserved.
+PB  - IGI Global
+SN  - 978-166849598-8 (ISBN); 978-166849596-4 (ISBN)
+LA  - English
+J2  - Futuristic e-Govern. Secur. With Deep Learn. Appl.
+M3  - Book chapter
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 29
+ER  -
+
+TY  - JOUR
+AU  - Brożek, B.
+AU  - Furman, M.
+AU  - Jakubiec, M.
+AU  - Kucharzyk, B.
+TI  - The black box problem revisited. Real and imaginary challenges for automated legal decision making
+PY  - 2024
+T2  - Artificial Intelligence and Law
+VL  - 32
+IS  - 2
+SP  - 427
+EP  - 440
+DO  - 10.1007/s10506-023-09356-9
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85151500402&doi=10.1007%2fs10506-023-09356-9&partnerID=40&md5=e934302a2d9a5a4210c335521fc16e07
+AD  - Faculty of Law and Administration, Jagiellonian University, Krakow, Poland
+AD  - Copernicus Center for Interdisciplinary Studies, Jagiellonian University, Krakow, Poland
+AB  - This paper addresses the black-box problem in artificial intelligence (AI), and the related problem of explainability of AI in the legal context. We argue, first, that the black box problem is, in fact, a superficial one as it results from an overlap of four different – albeit interconnected – issues: the opacity problem, the strangeness problem, the unpredictability problem, and the justification problem. Thus, we propose a framework for discussing both the black box problem and the explainability of AI. We argue further that contrary to often defended claims the opacity issue is not a genuine problem. We also dismiss the justification problem. Further, we describe the tensions involved in the strangeness and unpredictability problems and suggest some ways to alleviate them. © The Author(s) 2023.
+KW  - AI and law
+KW  - Automated decision-making
+KW  - Black box problem
+KW  - Explainable AI
+KW  - Legal decision-making
+KW  - Artificial intelligence
+KW  - Opacity
+KW  - Artificial intelligence and laws
+KW  - Automated decision making
+KW  - Black box problem
+KW  - Black boxes
+KW  - Decisions makings
+KW  - Explainable artificial intelligence
+KW  - Legal contexts
+KW  - Legal decision-making
+KW  - Real and imaginary
+KW  - Decision making
+PB  - Springer Nature
+SN  - 09248463 (ISSN)
+LA  - English
+J2  - Artif Intell Law
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 17; Correspondence Address: B. Brożek; Faculty of Law and Administration, Jagiellonian University, Krakow, Poland; email: bartosz.brozek@uj.edu.pl; CODEN: AINLE
+ER  -
+
+TY  - JOUR
+AU  - Esmaeilzadeh, P.
+TI  - Challenges and strategies for wide-scale artificial intelligence (AI) deployment in healthcare practices: A perspective for healthcare organizations
+PY  - 2024
+T2  - Artificial Intelligence in Medicine
+VL  - 151
+C7  - 102861
+DO  - 10.1016/j.artmed.2024.102861
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85189066484&doi=10.1016%2fj.artmed.2024.102861&partnerID=40&md5=7c90a8efbffb97cdd78a8eebe2280878
+AD  - Department of Information Systems and Business Analytics, College of Business, Florida International University (FIU), Modesto A. Maidique Campus, 11200 S.W. 8th St, RB 261B, Miami, 33199, FL, United States
+AB  - Healthcare organizations have realized that Artificial intelligence (AI) can provide a competitive edge through personalized patient experiences, improved patient outcomes, early diagnosis, augmented clinician capabilities, enhanced operational efficiencies, or improved medical service accessibility. However, deploying AI-driven tools in the healthcare ecosystem could be challenging. This paper categorizes AI applications in healthcare and comprehensively examines the challenges associated with deploying AI in medical practices at scale. As AI continues to make strides in healthcare, its integration presents various challenges, including production timelines, trust generation, privacy concerns, algorithmic biases, and data scarcity. The paper highlights that flawed business models and wrong workflows in healthcare practices cannot be rectified merely by deploying AI-driven tools. Healthcare organizations should re-evaluate root problems such as misaligned financial incentives (e.g., fee-for-service models), dysfunctional medical workflows (e.g., high rates of patient readmissions), poor care coordination between different providers, fragmented electronic health records systems, and inadequate patient education and engagement models in tandem with AI adoption. This study also explores the need for a cultural shift in viewing AI not as a threat but as an enabler that can enhance healthcare delivery and create new employment opportunities while emphasizing the importance of addressing underlying operational issues. The necessity of investments beyond finance is discussed, emphasizing the importance of human capital, continuous learning, and a supportive environment for AI integration. The paper also highlights the crucial role of clear regulations in building trust, ensuring safety, and guiding the ethical use of AI, calling for coherent frameworks addressing transparency, model accuracy, data quality control, liability, and ethics. Furthermore, this paper underscores the importance of advancing AI literacy within academia to prepare future healthcare professionals for an AI-driven landscape. Through careful navigation and proactive measures addressing these challenges, the healthcare community can harness AI's transformative power responsibly and effectively, revolutionizing healthcare delivery and patient care. The paper concludes with a vision and strategic suggestions for the future of healthcare with AI, emphasizing thoughtful, responsible, and innovative engagement as the pathway to realizing its full potential to unlock immense benefits for healthcare organizations, physicians, nurses, and patients while proactively mitigating risks. © 2024 Elsevier B.V.
+KW  - AI
+KW  - Artificial intelligence
+KW  - Data
+KW  - Deployment challenges
+KW  - Ethics
+KW  - Healthcare
+KW  - Law
+KW  - Artificial Intelligence
+KW  - Delivery of Health Care
+KW  - Electronic Health Records
+KW  - Humans
+KW  - Artificial intelligence
+KW  - Investments
+KW  - Laws and legislation
+KW  - Medical problems
+KW  - Philosophical aspects
+KW  - Quality control
+KW  - Competitive edges
+KW  - Data
+KW  - Deployment challenge
+KW  - Early diagnosis
+KW  - Healthcare
+KW  - Healthcare delivery
+KW  - Healthcare organizations
+KW  - Law
+KW  - Operational efficiencies
+KW  - Patient experiences
+KW  - accuracy
+KW  - algorithm
+KW  - algorithm bias
+KW  - Article
+KW  - artificial intelligence
+KW  - commercial phenomena
+KW  - data quality
+KW  - economic incentive
+KW  - electronic health record
+KW  - employment
+KW  - ethics
+KW  - health care delivery
+KW  - health care organization
+KW  - health care practice
+KW  - hospital readmission
+KW  - human
+KW  - investment
+KW  - legal liability
+KW  - medical practice
+KW  - patient education
+KW  - patient engagement
+KW  - quality control
+KW  - safety
+KW  - trust
+KW  - workflow
+KW  - health care delivery
+KW  - organization and management
+KW  - Diagnosis
+PB  - Elsevier B.V.
+SN  - 09333657 (ISSN)
+C2  - 38555850
+LA  - English
+J2  - Artif. Intell. Med.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 17; CODEN: AIMEE
+ER  -
+
+TY  - JOUR
+AU  - Borgohain, D.J.
+AU  - Bhardwaj, R.K.
+AU  - Verma, M.K.
+TI  - Mapping the literature on the application of artificial intelligence in libraries (AAIL): a scientometric analysis
+PY  - 2024
+T2  - Library Hi Tech
+VL  - 42
+IS  - 1
+SP  - 149
+EP  - 179
+DO  - 10.1108/LHT-07-2022-0331
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85139257686&doi=10.1108%2fLHT-07-2022-0331&partnerID=40&md5=6c06d7e68d3819422e9fd55c208e0ba0
+AD  - Department of Library and Information Science, Mizoram University, Aizawl, India
+AD  - Department of Library, St. Stephen's College, University of Delhi, Delhi, India
+AB  - Purpose: Artificial Intelligence (AI) is an emerging technology and turned into a field of knowledge that has been consistently displacing technologies for a change in human life. It is applied in all spheres of life as reflected in the review of the literature section here. As applicable in the field of libraries too, this study scientifically mapped the papers on AAIL and analyze its growth, collaboration network, trending topics, or research hot spots to highlight the challenges and opportunities in adopting AI-based advancements in library systems and processes. Design/methodology/approach: The study was developed with a bibliometric approach, considering a decade, 2012 to 2021 for data extraction from a premier database, Scopus. The steps followed are (1) identification, selection of keywords, and forming the search strategy with the approval of a panel of computer scientists and librarians and (2) design and development of a perfect algorithm to verify these selected keywords in title-abstract-keywords of Scopus (3) Performing data processing in some state-of-the-art bibliometric visualization tools, Biblioshiny R and VOSviewer (4) discussing the findings for practical implications of the study and limitations. Findings: As evident from several papers, not much research has been conducted on AI applications in libraries in comparison to topics like AI applications in cancer, health, medicine, education, and agriculture. As per the Price law, the growth pattern is exponential. The total number of papers relevant to the subject is 1462 (single and multi-authored) contributed by 5400 authors with 0.271 documents per author and around 4 authors per document. Papers occurred mostly in open-access journals. The productive journal is the Journal of Chemical Information and Modelling (NP = 63) while the highly consistent and impactful is the Journal of Machine Learning Research (z-index=63.58 and CPP = 56.17). In the case of authors, J Chen (z-index=28.86 and CPP = 43.75) is the most consistent and impactful author. At the country level, the USA has recorded the highest number of papers positioned at the center of the co-authorship network but at the institutional level, China takes the 1st position. The trending topics of research are machine learning, large dataset, deep learning, high-level languages, etc. The present information system has a high potential to improve if integrated with AI technologies. Practical implications: The number of scientific papers has increased over time. The evolution of themes like machine learning implicates AI as a broad field of knowledge that converges with other disciplines. The themes like large datasets imply that AI may be applied to analyze and interpret these data and support decision-making in public sector enterprises. Theme named high-level language emerged as a research hotspot which indicated that extensive research has been going on in this area to improve computer systems for facilitating the processing of data with high momentum. These implications are of high strategic worth for policymakers, library stakeholders, researchers and the government as a whole for decision-making. Originality/value: The analysis of collaboration, prolific authors/journals using consistency factor and CPP, testing the relationship between consistency (z-index) and impact (h-index), using state-of-the-art network visualization and cluster analysis techniques make this study novel and differentiates it from the traditional bibliometric analysis. To the best of the author's knowledge, this work is the first attempt to comprehend the research streams and provide a holistic view of research on the application of AI in libraries. The insights obtained from this analysis are instrumental for both academics and practitioners. © 2022, Emerald Publishing Limited.
+KW  - Artificial intelligence
+KW  - Bibliometric mapping
+KW  - Cluster analysis
+KW  - Libraries
+KW  - Network visualization
+KW  - Scopus
+PB  - Emerald Publishing
+SN  - 07378831 (ISSN)
+LA  - English
+J2  - Libr. Hi Tech
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 40; Correspondence Address: M.K. Verma; Department of Library and Information Science, Mizoram University, Aizawl, India; email: manojdlis@mzu.edu.in
+ER  -
+
+TY  - JOUR
+AU  - SaberiKamarposhti, M.
+AU  - Kamyab, H.
+AU  - Krishnan, S.
+AU  - Yusuf, M.
+AU  - Rezania, S.
+AU  - Chelliapan, S.
+AU  - Khorami, M.
+TI  - A comprehensive review of AI-enhanced smart grid integration for hydrogen energy: Advances, challenges, and future prospects
+PY  - 2024
+T2  - International Journal of Hydrogen Energy
+VL  - 67
+SP  - 1009
+EP  - 1025
+DO  - 10.1016/j.ijhydene.2024.01.129
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85183134721&doi=10.1016%2fj.ijhydene.2024.01.129&partnerID=40&md5=30b552f7f630465ece3d87cc66e507a0
+AD  - Faculty of Computing and Informatics (FCI), Multimedia University, Cyberjaya, Selangor, 63100, Malaysia
+AD  - Faculty of Architecture and Urbanism, UTE University, Calle Rumipamba S/N and Bourgeois, Quito, Ecuador
+AD  - Department of Biomaterials, Saveetha Dental College and Hospital, Saveetha Institute of Medical and Technical Sciences, Chennai, 600 077, India
+AD  - Process Systems Engineering Centre (PROSPECT), Faculty of Chemical and Energy Engineering, Faculty of Engineering, Universiti Teknologi Malaysia, SkudaiJohor, Malaysia
+AD  - Department of Civil and Environmental Engineering, Faculty of Engineering, Prince of Songkla University, Hatyai Campus, Songkhla, Hatyai, 90110, Thailand
+AD  - University of Regina, 3737 Wascana Pkwy, Regina, SK S4S 0A2, Canada
+AD  - Centre of Research Impact and Outcome, Chitkara University Institute of Engineering and Technology, Chitkara University, Punjab, India
+AD  - Department of Environment and Energy, Sejong University, Seoul, 05006, South Korea
+AD  - Engineering Department, Razak Faculty of Technology & Informatics, Universiti Teknologi Malaysia, Jalan Sultan Yahya Petra, Kuala Lumpur, 54100, Malaysia
+AD  - Department of Civil Engineering, Islamic Azad University, Central Tehran Branch, Tehran, Iran
+AB  - The convergence of hydrogen energy with artificial intelligence (AI) in smart infrastructure has significant potential to revolutionise the worldwide energy sector. This article thoroughly examines the progress, difficulties, and potential breakthroughs in the integration of AI technology with smart grids to enhance the use of hydrogen energy. The study focuses on utilising AI technologies such as deep learning and machine learning to optimise the processes of generating, distributing, and utilising energy. The discoveries stemming from this investigation facilitate prognostic maintenance, instantaneous decision-making, and effective demand-side management, augmenting the durability and eco-friendliness of energy systems. Nevertheless, this auspicious panorama is surrounded by significant obstacles. Significant issues develop regarding data privacy and security when sensitive information is sent over AI-powered grid systems. Interoperability difficulties necessitate standardising the communication protocols to enable smooth data flow. Additionally, further research is essential to tackle the technological limitations of AI in grid management. This article presents a forward-thinking viewpoint on the incorporation of AI-enhanced smart grid technologies, with a focus on future expectations. Autonomous energy management systems offer improved flexibility, proactive maintenance, and flexible energy distribution. Simultaneously, the combination of Edge AI and decentralisation facilitates the establishment of energy generating and storage facilities at local levels. This helps to make immediate decisions, minimises delays, and improves the durability of the power grid. The report emphasises the pivotal importance of governmental and regulatory factors in directing these advancements. The foundation for a safe and flexible power system is established by data privacy legislation, grid modernisation initiatives, and incentives for hydrogen energy. The essay promotes energy market reforms, technological neutrality, and measures that improve grid resilience as a means of achieving environmental sustainability. The integration of hydrogen energy into smart infrastructure is facilitated by AI, and strategic planning and collaborative design are crucial for achieving a resilient, sustainable, and efficient energy future. This article provides a strategic plan for efficiently handling complexities, leveraging advantageous situations, and collaboratively building an energy industry that is adaptable, productive, and environmentally aware. © 2024 Hydrogen Energy Publications LLC
+KW  - Artificial intelligence (AI)
+KW  - Energy optimisation
+KW  - Grid resilience
+KW  - Hydrogen energy
+KW  - Policy and regulation
+KW  - Smart grid integration
+KW  - Decision making
+KW  - Deep learning
+KW  - Digital storage
+KW  - Durability
+KW  - Electric power distribution
+KW  - Electric utilities
+KW  - Energy management
+KW  - Laws and legislation
+KW  - Strategic planning
+KW  - Sustainable development
+KW  - Artificial intelligence
+KW  - Artificial intelligence technologies
+KW  - Energy optimization
+KW  - Grid integration
+KW  - Grid resilience
+KW  - Hydrogen Energy
+KW  - Policy and regulation
+KW  - Smart grid
+KW  - Smart grid integration
+KW  - Smart infrastructures
+KW  - Smart power grids
+PB  - Elsevier Ltd
+SN  - 03603199 (ISSN)
+LA  - English
+J2  - Int J Hydrogen Energy
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 28; Correspondence Address: M. SaberiKamarposhti; Faculty of Computing and Informatics (FCI), Multimedia University, Selangor, Cyberjaya, 63100, Malaysia; email: msaberik@mmu.edu.my; H. Kamyab; Process Systems Engineering Centre (PROSPECT), Faculty of Chemical and Energy Engineering, Faculty of Engineering, Universiti Teknologi Malaysia, SkudaiJohor, Malaysia; email: khesam2@live.utm.my; CODEN: IJHED
+ER  -
+
+TY  - CONF
+AU  - Senthil Pandi, S.
+AU  - Monesh, M.S.
+AU  - Lingesh, B.
+TI  - A Novel Approach to Detect Face Fraud Detection Using Artificial Intelligence
+PY  - 2024
+T2  - 2nd International Conference on Emerging Trends in Information Technology and Engineering, ic-ETITE 2024
+DO  - 10.1109/ic-ETITE58242.2024.10493594
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85192558528&doi=10.1109%2fic-ETITE58242.2024.10493594&partnerID=40&md5=564655d8dc8c66f3a243251bb003e023
+AD  - Rajalakshmi Engineering College, Department of Cse, Chennai, India
+AB  - The main aim of this research is to identify and prevent fraudulent activities which can be achieved through AI related to facial recognition systems. Nowadays the usage of facial recognition systems is very high, and in the same way the scams by fraudsters are also increased in this research by using AI bots instead of humans. The main motive of this research is to identify the misuse of facial recognition technology. The proposed method using CNN (Convolutional Neural Network) protects the individual privacy of people and their data. It detects whether the character in the image is an AI made or real human. This helps to ensure that only authorized people can use their information. Some of the sectors which use facial recognition systems are security, law enforcement, financial services, education, government services, retail. if unauthorized people access the above-mentioned sectors, the result will be imperiling. This method takes an image as an input and then python is used to process the image, importing a CV library to do this job. Next, we use deep learning models in python to identify whether the character in the image is AI generated or real human. The Computational Intelligence and Photography Lab at Yonsei University assembled a publicly available dataset for this work. Images of both real and fake human faces can be found in the Yonsei University Computational Intelligence and Photography Lab's database. The performance of the proposed system is measured using accuracy, precision and sensitivity. Experimental results shows that CNN based face recognition system outperforms.  © 2024 IEEE.
+KW  - Authorization
+KW  - CNN
+KW  - Data Protection
+KW  - Facial recognition
+KW  - Authorization
+KW  - Face recognition
+KW  - Photography
+KW  - Convolutional neural network
+KW  - Facial recognition
+KW  - Facial recognition systems
+KW  - Financial service
+KW  - Fraud detection
+KW  - Fraudsters
+KW  - Individual privacy
+KW  - Security laws
+KW  - Service educations
+KW  - Yonsei University
+KW  - Deep learning
+PB  - Institute of Electrical and Electronics Engineers Inc.
+SN  - 979-835032820-2 (ISBN)
+LA  - English
+J2  - Int. Conf. Emerg. Trends Inf. Technol. Eng., ic-ETITE
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 25; Conference name: 2nd International Conference on Emerging Trends in Information Technology and Engineering, ic-ETITE 2024; Conference date: 22 February 2024 through 23 February 2024; Conference code: 198961
+ER  -
+
+TY  - JOUR
+AU  - Gholami, A.
+AU  - Yao, Z.
+AU  - Kim, S.
+AU  - Hooper, C.
+AU  - Mahoney, M.W.
+AU  - Keutzer, K.
+TI  - AI and Memory Wall
+PY  - 2024
+T2  - IEEE Micro
+VL  - 44
+IS  - 3
+SP  - 33
+EP  - 39
+DO  - 10.1109/MM.2024.3373763
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85189510648&doi=10.1109%2fMM.2024.3373763&partnerID=40&md5=44c6394e8404673c6e2fc3a6466a5d19
+AD  - Uc Berkeley, Berkeley, 94720, CA, United States
+AD  - Snowflake, Bellevue, 98004, WA, United States
+AB  - The availability of unprecedented unsupervised training data, along with neural scaling laws, has resulted in an unprecedented surge in model size and compute requirements for serving/training large language models. However, the main performance bottleneck is increasingly shifting to memory bandwidth. Over the past 20 years, peak server hardware floating-point operations per second have been scaling at 3.0×Ã - per two years, outpacing the growth of dynamic random-access memory and interconnect bandwidth, which have only scaled at 1.6 and 1.4 times every two years, respectively. This disparity has made memory, rather than compute, the primary bottleneck in AI applications, particularly in serving. Here, we analyze encoder and decoder transformer models and show how memory bandwidth can become the dominant bottleneck for decoder models. We argue for a redesign in model architecture, training, and deployment strategies to overcome this memory limitation.  © 1981-2012 IEEE.
+KW  - Decoding
+KW  - Dynamic random access storage
+KW  - Arithmetic
+KW  - Computational modelling
+KW  - Hardware
+KW  - Memory bandwidths
+KW  - Memory wall
+KW  - Model size
+KW  - Performance bottlenecks
+KW  - Training data
+KW  - Transformer
+KW  - Unsupervised training
+KW  - Bandwidth
+PB  - IEEE Computer Society
+SN  - 02721732 (ISSN)
+LA  - English
+J2  - IEEE Micro
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 21; Correspondence Address: S. Kim; Uc Berkeley, Berkeley, 94720, United States; email: sehoonkim@berkeley.edu; CODEN: IEMID
+ER  -
+
+TY  - JOUR
+AU  - Wong, J.C.
+AU  - Ooi, C.C.
+AU  - Gupta, A.
+AU  - Ong, Y.S.
+TI  - Learning in sinusoidal spaces with physics-informed neural networks
+PY  - 2024
+T2  - IEEE Transactions on Artificial Intelligence
+VL  - 5
+IS  - 3
+SP  - 985
+EP  - 1000
+DO  - 10.1109/TAI.2022.3192362
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85135220159&doi=10.1109%2fTAI.2022.3192362&partnerID=40&md5=994237c22260d8265a44c2bfe871c511
+AD  - Institute of High Performance Computing, Agency for Science Technology and Research, Singapore, 138632, Singapore
+AD  - School of Computer Science and Engineering, Nanyang Technological University, Singapore, 639798, Singapore
+AD  - Singapore Institute of Manufacturing Technology, Agency for Science Technology and Research, Singapore, 138632, Singapore
+AD  - Agency for Science Technology and Research, Singapore, 138632, Singapore
+AD  - Data Science and Artificial Intelligence Research Centre, School of Computer Science and Engineering, Nanyang Technological University, Singapore, 138632, Singapore
+AB  - A physics-informed neural network (PINN) uses physics-Augmented loss functions, e.g., incorporating the residual term from governing partial differential equations (PDEs), to ensure its output is consistent with fundamental physics laws. However, it turns out to be difficult to train an accurate PINN model for many problems in practice. In this article, we present a novel perspective of the merits of learning in sinusoidal spaces with PINNs. By analyzing behavior at model initialization, we first show that a PINN of increasing expressiveness induces an initial bias around flat output functions. Notably, this initial solution can be very close to satisfying many physics PDEs, i.e., falling into a localminimum of the PINN loss that onlyminimizes PDE residuals, while still being far from the true solution that jointly minimizes PDE residuals and the initial and/or boundary conditions. It is difficult for gradient descent optimization to escape from such a local minimum trap, often causing the training to stall. We then prove that the sinusoidalmapping of inputs-in an architecture we label as sf-PINN-is effective to increase input gradient variability, thus avoiding being trapped in such deceptive local minimum. The level of variability can be effectively modulated to match high-frequency patterns in the problem at hand. A key facet of this article is the comprehensive empirical study that demonstrates the efficacy of learning in sinusoidal spaces with PINNs for a wide range of forward and inversemodeling problems spanning multiple physics domains. Impact Statement-Falling under the emerging field of physicsinformed machine learning, PINN models have tremendous potential as a unifying AI framework for assimilating physics theory and measurement data. However, they remain infeasible for broad science and engineering applications due to computational cost and training challenges, especially for more complex problems. Instead of focusing on empirical demonstration of applicability to a specific problem, this paper analyzed and provided novel perspectives on why a typical PINN implementation frequently exhibits training difficulty, even on a seemingly straightforward 1D model problem. Interestingly, the issues uncovered explain how common heuristics for data-fit neural networks (e.g. initialization) cause training difficulties in this new paradigm of PINNs. Critically, we believe this to be among the first work to analytically provide insight into how simply adapting conventional neural network implementations may be broadly problematic for PINNs across different PDEs (physics). Guided by this insight, we then further provide theoretical results on the benefit of learning in sinusoidal space with PINNs. Utilizing sinusoidal spaces initializes sf-PINNs with input gradient distributions that can overcome the trainability issues uncovered, and this is further demonstrated by a comprehensive empirical study for a wide range of forward and inverse modelling problems spanning multiple physics domains. sf-PINNs can significantly improve the model accuracy by a few orders of magnitudes. Our paper also provides a theoretical foundation for unifying and explaining purported benefits from previously published empirical works, thereby advancing our understanding of this new PINN paradigm. © 2024 Institute of Electrical and Electronics Engineers Inc.. All rights reserved.
+KW  - Differential equations
+KW  - physics-informed neural networks (PINNs)
+KW  - sinusoidal spaces
+KW  - Boundary conditions
+KW  - Computation theory
+KW  - Cost engineering
+KW  - Learning systems
+KW  - Neural networks
+KW  - Empirical studies
+KW  - Fundamental physics
+KW  - Local minimums
+KW  - Loss functions
+KW  - Model initialization
+KW  - Model problems
+KW  - Neural network model
+KW  - Neural-networks
+KW  - Physic-informed neural network
+KW  - Sinusoidal space
+KW  - Gradient methods
+PB  - Institute of Electrical and Electronics Engineers Inc.
+SN  - 26914581 (ISSN)
+LA  - English
+J2  - IEEE.  Trans. Artif. Intell.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 18; Correspondence Address: J.C. Wong; Institute of High Performance Computing, Agency for Science Technology and Research, Singapore, 138632, Singapore; email: wongj@ihpc.a-star.edu.sg
+ER  -
+

@@ -1,0 +1,298 @@
+﻿TY  - CPAPER
+AU  - Devlin, J
+AU  - Chang, MW
+AU  - Lee, K
+AU  - Toutanova, K
+A1  - Assoc Computat Linguist
+TI  - BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
+T2  - 2019 CONFERENCE OF THE NORTH AMERICAN CHAPTER OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS: HUMAN LANGUAGE TECHNOLOGIES (NAACL HLT 2019), VOL. 1
+LA  - English
+CP  - Conference of the North-American-Chapter of the Association-for-Computational-Linguistics - Human Language Technologies (NAACL-HLT)
+AB  - We introduce a new language representation model called BERT, which stands for Bidirectional Encoder Representations from Transformers. Unlike recent language representation models (Peters et al., 2018a; Radford et al., 2018), BERT is designed to pretrain deep bidirectional representations from unlabeled text by jointly conditioning on both left and right context in all layers. As a result, the pre-trained BERT model can be fine-tuned with just one additional output layer to create state-of-the-art models for a wide range of tasks, such as question answering and language inference, without substantial task-specific architecture modifications.
+   BERT is conceptually simple and empirically powerful. It obtains new state-of-the-art results on eleven natural language processing tasks, including pushing the GLUE score to 80.5% (7.7% point absolute improvement), MultiNLI accuracy to 86.7% (4.6% absolute improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute improvement) and SQuAD v2.0 Test F1 to 83.1 (5.1 point absolute improvement).
+AD  - Google, AI Language, Mountain View, CA 94043 USAC3  - Google IncorporatedPU  - ASSOC COMPUTATIONAL LINGUISTICS-ACL
+PI  - STROUDSBURG
+PA  - 209 N EIGHTH STREET, STROUDSBURG, PA 18360 USA
+SN  - 978-1-950737-13-0
+PY  - 2019
+SP  - 4171
+EP  - 4186
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)WE  - Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)AN  - WOS:000900116904035
+N1  - Times Cited in Web of Science Core Collection:  31750
+Total Times Cited:  35264
+Cited Reference Count:  54
+ER  -
+
+TY  - JOUR
+AU  - Liu, YH
+AU  - Ott, M
+AU  - Goyal, N
+AU  - Du, JF
+AU  - Joshi, M
+AU  - Chen, DQ
+AU  - Levy, O
+AU  - Lewis, M
+AU  - Zettlemoyer, L
+AU  - Stoyanov, V
+TI  - RoBERTa: A Robustly Optimized BERT Pretraining Approach
+T2  - INFORMATION SYSTEMS RESEARCH
+LA  - English
+AB  - Language model pretraining has led to significant performance gains but careful comparison between different approaches is challenging. Training is computationally expensive, often done on private datasets of different sizes, and, as we will show, hyperparameter choices have significant impact on the final results. We present a replication study of BERT pretraining (Devlin et al., 2019) that carefully measures the impact of many key hyperparameters and training data size. We find that BERT was significantly undertrained, and can match or exceed the performance of every model published after it. Our best model achieves state-of-the-art results on GLUE, RACE and SQuAD. These results highlight the importance of previously overlooked design choices, and raise questions about the source of recently reported improvements. We release our models and code.1
+AD  - Univ Washington, Paul G Allen Sch Comp Sci & Engn, Seattle, WA USAAD  - Facebook AI, Menlo Pk, CA 94025 USAC3  - University of WashingtonC3  - University of Washington SeattleC3  - Facebook IncPU  - INFORMS
+PI  - CATONSVILLE
+PA  - 5521 RESEARCH PARK DR, SUITE 200, CATONSVILLE, MD 21228 USA
+SN  - 1047-7047
+SN  - 1526-5536
+J9  - INFORM SYST RES
+JI  - Inf. Syst. Res.
+DA  - JUL 26
+PY  - 2019
+DO  - 10.48550/arXiv.1907.11692
+WE  - Social Science Citation Index (SSCI)AN  - WOS:001050220600001
+N1  - Times Cited in Web of Science Core Collection:  3206
+Total Times Cited:  3304
+Cited Reference Count:  50
+ER  -
+
+TY  - CPAPER
+AU  - Yang, ZL
+AU  - Dai, ZH
+AU  - Yang, YM
+AU  - Carbonell, J
+AU  - Salakhutdinov, R
+AU  - Le, QV
+ED  - Wallach, H
+ED  - Larochelle, H
+ED  - Beygelzimer, A
+ED  - d'Alche-Buc, F
+ED  - Fox, E
+ED  - Garnett, R
+TI  - XLNet: Generalized Autoregressive Pretraining for Language Understanding
+T2  - ADVANCES IN NEURAL INFORMATION PROCESSING SYSTEMS 32 (NIPS 2019)
+LA  - English
+CP  - 33rd Conference on Neural Information Processing Systems (NeurIPS)
+AB  - With the capability of modeling bidirectional contexts, denoising autoencoding based pretraining like BERT achieves better performance than pretraining approaches based on autoregressive language modeling. However, relying on corrupting the input with masks, BERT neglects dependency between the masked positions and suffers from a pretrain-finetune discrepancy. In light of these pros and cons, we propose XLNet, a generalized autoregressive pretraining method that (1) enables learning bidirectional contexts by maximizing the expected likelihood over all permutations of the factorization order and (2) overcomes the limitations of BERT thanks to its autoregressive formulation. Furthermore, XLNet integrates ideas from Transformer-XL, the state-of-the-art autoregressive model, into pretraining. Empirically, under comparable experiment setting, XLNet outperforms BERT on 20 tasks, often by a large margin, including question answering, natural language inference, sentiment analysis, and document ranking.
+AD  - Carnegie Mellon Univ, Pittsburgh, PA 15213 USAAD  - Google AI Brain Team, Mountain View, CA USAC3  - Carnegie Mellon UniversityFU  - Office of Naval Research [N000141812861]; National Science Foundation (NSF) [IIS1763562]; Nvidia fellowship; Siebel scholarship; NSF [IIS-1546329]; DOE-Office of Science under the grant ASCR [KJ040201]; U.S. Department of Defense (DOD) [N000141812861] Funding Source: U.S. Department of Defense (DOD)
+FX  - The authors would like to thank Qizhe Xie and Adams Wei Yu for providing useful feedback on the project, Jamie Callan for providing the ClueWeb dataset, Youlong Cheng, Yanping Huang and Shibo Wang for providing ideas to improve our TPU implementation, Chenyan Xiong and Zhuyun Dai for clarifying the setting of the document ranking task. ZY and RS were supported by the Office of Naval Research grant N000141812861, the National Science Foundation (NSF) grant IIS1763562, the Nvidia fellowship, and the Siebel scholarship. ZD and YY were supported in part by NSF under the grant IIS-1546329 and by the DOE-Office of Science under the grant ASCR #KJ040201.
+PU  - NEURAL INFORMATION PROCESSING SYSTEMS (NIPS)
+PI  - LA JOLLA
+PA  - 10010 NORTH TORREY PINES RD, LA JOLLA, CALIFORNIA 92037 USA
+SN  - 1049-5258
+J9  - ADV NEUR IN
+PY  - 2019
+VL  - 32
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000534424305072
+N1  - Times Cited in Web of Science Core Collection:  2624
+Total Times Cited:  2665
+Cited Reference Count:  39
+ER  -
+
+TY  - CPAPER
+AU  - Reimers, N
+AU  - Gurevych, I
+A1  - Assoc Computat Linguist
+TI  - Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks
+T2  - 2019 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING AND THE 9TH INTERNATIONAL JOINT CONFERENCE ON NATURAL LANGUAGE PROCESSING (EMNLP-IJCNLP 2019): PROCEEDINGS OF THE CONFERENCE
+LA  - English
+CP  - Conference on Empirical Methods in Natural Language Processing / 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP)
+AB  - BERT (Devlin et al., 2018) and RoBERTa (Liu et al., 2019) has set a new state-of-the-art performance on sentence-pair regression tasks like semantic textual similarity (STS). However, it requires that both sentences are fed into the network, which causes a massive computational overhead: Finding the most similar pair in a collection of 10,000 sentences requires about 50 million inference computations (similar to 65 hours) with BERT. The construction of BERT makes it unsuitable for semantic similarity search as well as for unsupervised tasks like clustering.
+   In this publication, we present Sentence-BERT (SBERT), a modification of the pretrained BERT network that use siamese and triplet network structures to derive semantically meaningful sentence embeddings that can be compared using cosine-similarity. This reduces the effort for finding the most similar pair from 65 hours with BERT / RoBERTa to about 5 seconds with SBERT, while maintaining the accuracy from BERT.
+   We evaluate SBERT and SRoBERTa on common STS tasks and transfer learning tasks, where it outperforms other state-of-the-art sentence embeddings methods.(1)
+AD  - Tech Univ Darmstadt, Dept Comp Sci, Ubiquitous Knowledge Proc Lab UKP TUDA, Darmstadt, GermanyC3  - Technical University of DarmstadtFU  - German Research Foundation through the German-Israeli Project Cooperation (DIP) [DA 1600/1-1, GU 798/17-1]; German Federal Ministry of Education and Research (BMBF) [03VP02540]
+FX  - This work has been supported by the German Research Foundation through the German-Israeli Project Cooperation (DIP, grant DA 1600/1-1 and grant GU 798/17-1). It has been co-funded by the German Federal Ministry of Education and Research (BMBF) under the promotional references 03VP02540 (ArgumenText).
+PU  - ASSOC COMPUTATIONAL LINGUISTICS-ACL
+PI  - STROUDSBURG
+PA  - 209 N EIGHTH STREET, STROUDSBURG, PA 18360 USA
+SN  - 978-1-950737-90-1
+PY  - 2019
+SP  - 3982
+EP  - 3992
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)WE  - Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)AN  - WOS:000854193304015
+N1  - Times Cited in Web of Science Core Collection:  2551
+Total Times Cited:  2604
+Cited Reference Count:  38
+ER  -
+
+TY  - CPAPER
+AU  - Lu, JS
+AU  - Batra, D
+AU  - Parikh, D
+AU  - Lee, S
+ED  - Wallach, H
+ED  - Larochelle, H
+ED  - Beygelzimer, A
+ED  - d'Alche-Buc, F
+ED  - Fox, E
+ED  - Garnett, R
+TI  - ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks
+T2  - ADVANCES IN NEURAL INFORMATION PROCESSING SYSTEMS 32 (NIPS 2019)
+LA  - English
+CP  - 33rd Conference on Neural Information Processing Systems (NeurIPS)
+AB  - We present ViLBERT (short for Vision-and-Language BERT), a model for learning task-agnostic joint representations of image content and natural language. We extend the popular BERT architecture to a multi-modal two-stream model, processing both visual and textual inputs in separate streams that interact through co-attentional transformer layers. We pretrain our model through two proxy tasks on the large, automatically collected Conceptual Captions dataset and then transfer it to multiple established vision-and-language tasks - visual question answering, visual commonsense reasoning, referring expressions, and caption-based image retrieval - by making only minor additions to the base architecture. We observe significant improvements across tasks compared to existing task-specific models achieving state-of-the-art on all four tasks. Our work represents a shift away from learning groundings between vision and language only as part of task training and towards treating visual grounding as a pretrainable and transferable capability.
+AD  - Georgia Inst Technol, Atlanta, GA 30332 USAAD  - Oregon State Univ, Corvallis, OR 97331 USAAD  - Facebook AI Res, Menlo Pk, CA USAC3  - University System of GeorgiaC3  - Georgia Institute of TechnologyC3  - Oregon State UniversityC3  - Facebook IncFU  - NSF; AFRL; DARPA; ONR YIPs; ARO PECASE
+FX  - The Georgia Tech effort was supported in part by NSF, AFRL, DARPA, ONR YIPs, ARO PECASE. The views and conclusions contained herein are those of the authors and should not be interpreted as necessarily representing the official policies or endorsements, either expressed or implied, of the U.S. Government, or any sponsor.
+PU  - NEURAL INFORMATION PROCESSING SYSTEMS (NIPS)
+PI  - LA JOLLA
+PA  - 10010 NORTH TORREY PINES RD, LA JOLLA, CALIFORNIA 92037 USA
+SN  - 1049-5258
+J9  - ADV NEUR IN
+PY  - 2019
+VL  - 32
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000534424300002
+N1  - Times Cited in Web of Science Core Collection:  1744
+Total Times Cited:  1879
+Cited Reference Count:  47
+ER  -
+
+TY  - CPAPER
+AU  - Beltagy, I
+AU  - Lo, K
+AU  - Cohan, A
+A1  - Assoc Computat Linguist
+TI  - SCIBERT: A Pretrained Language Model for Scientific Text
+T2  - 2019 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING AND THE 9TH INTERNATIONAL JOINT CONFERENCE ON NATURAL LANGUAGE PROCESSING (EMNLP-IJCNLP 2019): PROCEEDINGS OF THE CONFERENCE
+LA  - English
+CP  - Conference on Empirical Methods in Natural Language Processing / 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP)
+KW  - CORPUS
+AB  - Obtaining large-scale annotated data for NLP tasks in the scientific domain is challenging and expensive. We release SCIBERT, a pretrained language model based on BERT (Devlin et al., 2019) to address the lack of highquality, large-scale labeled scientific data. SCIBERT leverages unsupervised pretraining on a large multi-domain corpus of scientific publications to improve performance on downstream scientific NLP tasks. We evaluate on a suite of tasks including sequence tagging, sentence classification and dependency parsing, with datasets from a variety of scientific domains. We demonstrate statistically significant improvements over BERT and achieve new state-of-the-art results on several of these tasks.
+AD  - Allen Inst Artificial Intelligence, Seattle, WA 98103 USAFU  - Google Cloud
+FX  - We thank the anonymous reviewers for their comments and suggestions. We also thank Waleed Ammar, Noah Smith, Yoav Goldberg, Daniel King, Doug Downey, and DanWeld for their helpful discussions and feedback. All experiments were performed on beaker.org and supported in part by credits from Google Cloud.
+PU  - ASSOC COMPUTATIONAL LINGUISTICS-ACL
+PI  - STROUDSBURG
+PA  - 209 N EIGHTH STREET, STROUDSBURG, PA 18360 USA
+SN  - 978-1-950737-90-1
+PY  - 2019
+SP  - 3615
+EP  - 3620
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)WE  - Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)AN  - WOS:000854193303089
+N1  - Times Cited in Web of Science Core Collection:  1394
+Total Times Cited:  1536
+Cited Reference Count:  30
+ER  -
+
+TY  - CPAPER
+AU  - Houlsby, N
+AU  - Giurgiu, A
+AU  - Jastrzebski, S
+AU  - Morrone, B
+AU  - de Laroussilhe, Q
+AU  - Gesmundo, A
+AU  - Attariyan, M
+AU  - Gelly, S
+ED  - Chaudhuri, K
+ED  - Salakhutdinov, R
+TI  - Parameter-Efficient Transfer Learning for NLP
+T2  - INTERNATIONAL CONFERENCE ON MACHINE LEARNING, VOL 97
+LA  - English
+CP  - 36th International Conference on Machine Learning (ICML)
+AB  - Fine-tuning large pre-trained models is an effective transfer mechanism in NLP. However, in the presence of many downstream tasks, fine-tuning is parameter inefficient: an entire new model is required for every task. As an alternative, we propose transfer with adapter modules. Adapter modules yield a compact and extensible model; they add only a few trainable parameters per task, and new tasks can be added without revisiting previous ones. The parameters of the original network remain fixed, yielding a high degree of parameter sharing. To demonstrate adapter's effectiveness, we transfer the recently proposed BERT Transformer model to 26 diverse text classification tasks, including the GLUE benchmark. Adapters attain near state-of-the-art performance, whilst adding only a few parameters per task. On GLUE, we attain within 0.4% of the performance of full fine-tuning, adding only 3.6% parameters per task. By contrast, fine-tuning trains 100% of the parameters per task.
+AD  - Jagiellonian Univ, Krakow, PolandC3  - Jagiellonian UniversityPU  - JMLR-JOURNAL MACHINE LEARNING RESEARCH
+PI  - SAN DIEGO
+PA  - 1269 LAW ST, SAN DIEGO, CA, UNITED STATES
+SN  - 2640-3498
+J9  - PR MACH LEARN RES
+PY  - 2019
+VL  - 97
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000684034302095
+N1  - Times Cited in Web of Science Core Collection:  1111
+Total Times Cited:  1200
+Cited Reference Count:  52
+ER  -
+
+TY  - CPAPER
+AU  - Reimers, N
+AU  - Schiller, B
+AU  - Beck, T
+AU  - Daxenberger, J
+AU  - Stab, C
+AU  - Gurevych, I
+A1  - ACL
+ED  - Korhonen, A
+ED  - Traum, D
+ED  - Marquez, L
+TI  - Classification and Clustering of Arguments with Contextualized Word Embeddings
+T2  - 57TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2019)
+LA  - English
+CP  - 57th Annual Meeting of the Association-for-Computational-Linguistics (ACL)
+AB  - We experiment with two recent contextualized word embedding methods (ELMo and BERT) in the context of open-domain argument search. For the first time, we show how to leverage the power of contextualized word embeddings to classify and cluster topic-dependent arguments, achieving impressive results on both tasks and across multiple datasets. For argument classification, we improve the state-of-the-art for the UKP Sentential Argument Mining Corpus by 20.8 percentage points and for the IBM Debater - Evidence Sentences dataset by 7.4 percentage points. For the understudied task of argument clustering, we propose a pre-training step which improves by 7.8 percentage points over strong baselines on a novel dataset, and by 12.3 percentage points for the Argument Facet Similarity (AFS) Corpus.(1)
+AD  - Tech Univ Darmstadt, Ubiquitous Knowledge Proc Lab UKP TUDA, Dept Comp Sci, Darmstadt, GermanyC3  - Technical University of DarmstadtFU  - German Research Foundation through the German-Israeli Project Cooperation (DIP) [DA 1600/1-1, GU 798/17-1, GU 798/25-1, SPP-1999]; German Federal Ministry of Education and Research (BMBF) [01UG1816B, 03VP02540]
+FX  - The authors would like to sincerely thank Joy Mahapatra, who carried out the initial annotation study. This work has been supported by the German Research Foundation through the German-Israeli Project Cooperation (DIP, grant DA 1600/1-1 and grant GU 798/17-1) and within the project "Open Argument Mining" (GU 798/25-1), associated with the Priority Program "Robust Argumentation Machines (RATIO)" (SPP-1999). It has been co-funded by the German Federal Ministry of Education and Research (BMBF) under the promotional references 01UG1816B (CEDIFOR) and 03VP02540 (ArgumenText).
+PU  - ASSOC COMPUTATIONAL LINGUISTICS-ACL
+PI  - STROUDSBURG
+PA  - 209 N EIGHTH STREET, STROUDSBURG, PA 18360 USA
+SN  - 978-1-950737-48-2
+PY  - 2019
+SP  - 567
+EP  - 578
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)WE  - Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)AN  - WOS:000493046101007
+N1  - Times Cited in Web of Science Core Collection:  827
+Total Times Cited:  1066
+Cited Reference Count:  22
+ER  -
+
+TY  - CPAPER
+AU  - Petroni, F
+AU  - Rocktäschel, T
+AU  - Lewis, P
+AU  - Bakhtin, A
+AU  - Wu, YX
+AU  - Miller, AH
+AU  - Riedel, S
+A1  - Assoc Computat Linguist
+TI  - Language Models as Knowledge Bases?
+T2  - 2019 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING AND THE 9TH INTERNATIONAL JOINT CONFERENCE ON NATURAL LANGUAGE PROCESSING (EMNLP-IJCNLP 2019): PROCEEDINGS OF THE CONFERENCE
+LA  - English
+CP  - Conference on Empirical Methods in Natural Language Processing / 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP)
+AB  - Recent progress in pretraining language models on large textual corpora led to a surge of improvements for downstream NLP tasks. Whilst learning linguistic knowledge, these models may also be storing relational knowledge present in the training data, and may be able to answer queries structured as "fillin-the-blank" cloze statements. Language models have many advantages over structured knowledge bases: they require no schema engineering, allow practitioners to query about an open class of relations, are easy to extend to more data, and require no human supervision to train. We present an in-depth analysis of the relational knowledge already present (without fine-tuning) in a wide range of state-of-theart pretrained language models. We find that (i) without fine-tuning, BERT contains relational knowledge competitive with traditional NLP methods that have some access to oracle knowledge, (ii) BERT also does remarkably well on open-domain question answering against a supervised baseline, and (iii) certain types of factual knowledge are learned much more readily than others by standard language model pretraining approaches. The surprisingly strong ability of these models to recall factual knowledge without any fine-tuning demonstrates their potential as unsupervised open-domain QA systems. The code to reproduce our analysis is available at https: //github.com/facebookresearch/LAMA
+AD  - Facebook AI Res, Menlo Pk, CA 94025 USAAD  - UCL, London, EnglandC3  - Facebook IncC3  - University of LondonC3  - University College LondonPU  - ASSOC COMPUTATIONAL LINGUISTICS-ACL
+PI  - STROUDSBURG
+PA  - 209 N EIGHTH STREET, STROUDSBURG, PA 18360 USA
+SN  - 978-1-950737-90-1
+PY  - 2019
+SP  - 2463
+EP  - 2473
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)WE  - Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)AN  - WOS:000854193302058
+N1  - Times Cited in Web of Science Core Collection:  761
+Total Times Cited:  860
+Cited Reference Count:  38
+ER  -
+
+TY  - CPAPER
+AU  - Sun, C
+AU  - Qiu, XP
+AU  - Xu, YG
+AU  - Huang, XJ
+ED  - Sun, M
+ED  - Huang, X
+ED  - Ji, H
+ED  - Liu, Z
+ED  - Liu, Y
+TI  - How to Fine-Tune BERT for Text Classification?
+T2  - CHINESE COMPUTATIONAL LINGUISTICS, CCL 2019
+LA  - English
+CP  - 18th China National Conference on Computational Linguistics (CCL)
+KW  - Transfer learning
+KW  - BERT
+KW  - Text classification
+AB  - Language model pre-training has proven to be useful in learning universal language representations. As a state-of-the-art language model pre-training model, BERT (Bidirectional Encoder Representations from Transformers) has achieved amazing results in many language understanding tasks. In this paper, we conduct exhaustive experiments to investigate different fine-tuning methods of BERT on text classification task and provide a general solution for BERT fine-tuning. Finally, the proposed solution obtains new state-of-the-art results on eight widely-studied text classification datasets.
+AD  - Fudan Univ, Sch Comp Sci, Shanghai Key Lab Intelligent Informat Proc, 825 Zhangheng Rd, Shanghai, Peoples R ChinaC3  - Fudan UniversityFU  - China National Key RD Program [2018YFC0831103]
+FX  - The research work is supported by China National Key R&D Program No. 2018YFC0831103.
+PU  - SPRINGER INTERNATIONAL PUBLISHING AG
+PI  - CHAM
+PA  - GEWERBESTRASSE 11, CHAM, CH-6330, SWITZERLAND
+SN  - 2945-9133
+SN  - 1611-3349
+SN  - 978-3-030-32381-3
+SN  - 978-3-030-32380-6
+J9  - LECT NOTES ARTIF INT
+PY  - 2019
+VL  - 11856
+SP  - 194
+EP  - 206
+DO  - 10.1007/978-3-030-32381-3_16
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000578465600016
+N1  - Times Cited in Web of Science Core Collection:  689
+Total Times Cited:  775
+Cited Reference Count:  29
+ER  -
+

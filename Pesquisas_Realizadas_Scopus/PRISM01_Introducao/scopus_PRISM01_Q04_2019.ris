@@ -1,0 +1,332 @@
+﻿TY  - CONF
+AU  - Sil, R.
+AU  - Roy, A.
+AU  - Bhushan, B.
+AU  - Mazumdar, A.K.
+TI  - Artificial Intelligence and Machine Learning based Legal Application: The State-of-the-Art and Future Research Trends
+PY  - 2019
+T2  - Proceedings - 2019 International Conference on Computing, Communication, and Intelligent Systems, ICCCIS 2019
+VL  - 2019-January
+C7  - 8974479
+SP  - 57
+EP  - 62
+DO  - 10.1109/ICCCIS48478.2019.8974479
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85084431872&doi=10.1109%2fICCCIS48478.2019.8974479&partnerID=40&md5=4caa05348b23a410682efe0dcf932fb8
+AD  - Adamas University, Dept. of Comp. Sc. Engineering, Kolkata, India
+AD  - HMRITM, Dept. of Comp. Sc. Engineering, New Delhi, India
+AD  - Adamas University, Dept. of Comp. Sc. Engineering, India
+AB  - The advancement of science and technology has facilitated adaptation of human intelligence into its computerized platform for logical analysis of any event. This porting of human intelligence to machine is known as Artificial Intelligence (AI). AI enhances human life since inception with the help of these intelligent machines, human potentials will be augmented in multiple spheres. An enormous improvement in this area of AI has been noticed in the past two decades that has given rise to expert systems. AI has huge impact on different fields of business, engineering, law, medicine, science, weather forecasting, etc. to enhance the quality and efficiency in our day to day life to solve complex problems. For the past few decades, AI has been playing an emerging role in the legal field and will definitely have an effect on the legal practices over the next few years. AI has the potential to analyses legal information based on semantics and make legal predictions from the legal data set, and hence it helps the judiciary system in automation thereby increasing the efficiency within affordable budget. For better understanding of the concept, in this paper authors have performed relevant survey on this field. © 2019 IEEE.
+KW  - Artificial Intelligence (AI)
+KW  - automation
+KW  - efficiency
+KW  - Legal Applications
+KW  - Machine Learning (ML)
+KW  - quality
+KW  - Budget control
+KW  - Efficiency
+KW  - Expert systems
+KW  - Intelligent systems
+KW  - Machine learning
+KW  - Semantics
+KW  - Complex problems
+KW  - Human intelligence
+KW  - Intelligent machine
+KW  - Legal information
+KW  - Logical analysis
+KW  - Research trends
+KW  - Science and Technology
+KW  - State of the art
+KW  - Weather forecasting
+PB  - Institute of Electrical and Electronics Engineers Inc.
+SN  - 978-172814826-7 (ISBN)
+LA  - English
+J2  - Proc. - Int. Conf. Comput., Commun., Intell. Syst., ICCCIS
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 53; Conference name: 2019 International Conference on Computing, Communication, and Intelligent Systems, ICCCIS 2019; Conference date: 18 October 2019 through 19 October 2019; Conference code: 157287
+ER  -
+
+TY  - JOUR
+AU  - Rogers, J.
+AU  - Bell, F.
+TI  - The Ethical AI Lawyer: What is Required of Lawyers When They Use Automated Systems?
+PY  - 2019
+T2  - Law, Technology and Humans
+VL  - 1
+IS  - 1
+SP  - 80
+EP  - 99
+DO  - 10.5204/lthj.v1i0.1324
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85116751225&doi=10.5204%2flthj.v1i0.1324&partnerID=40&md5=ac9e7164443f3d4a8f2795eb6d449ea0
+AD  - University of New South Wales, Australia
+AB  - This article focuses on individual lawyers’ responsible use of artificial intelligence (AI) in their practice. More specifically, it examines the ways in which a lawyer’s ethical capabilities and motivations are tested by the rapid growth of automated systems, both to identify the ethical risks posed by AI tools in legal services, and to uncover what is required of lawyers when they use this technology. To do so, we use psychologist James Rest’s Four-component Model of Morality (FCM), which represents the necessary elements for lawyers to engage in professional conduct when utilising AI. We examine issues associated with automation that most seriously challenge each component in context, as well as the skills and resolve lawyers need to adhere to their ethical duties. Importantly, this approach is grounded in social psychology. That is, by looking at human ‘thinking and doing’ (i.e., lawyers’ motivations and capacity when using AI), this offers a different, complementary perspective to the typical, legislative approach in which the law is analysed for regulatory gaps. © The Author/s 2019
+KW  - AI
+KW  - Artificial Intelligence
+KW  - Lawyers
+KW  - legal practice
+KW  - professional ethics
+PB  - Queensland University of Technology
+SN  - 26524074 (ISSN)
+LA  - English
+J2  - Law. Tech. Hum.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 7
+ER  -
+
+TY  - JOUR
+AU  - Horowitz, M.C.
+TI  - When speed kills: Lethal autonomous weapon systems, deterrence and stability
+PY  - 2019
+T2  - Journal of Strategic Studies
+VL  - 42
+IS  - 6
+SP  - 764
+EP  - 788
+DO  - 10.1080/01402390.2019.1621174
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85071152864&doi=10.1080%2f01402390.2019.1621174&partnerID=40&md5=cf8f976331a394ac3544a153f49c4b26
+AD  - Political Science, University of Pennsylvania, Philadelphia, PA, United States
+AB  - While the applications of artificial intelligence (AI) for militaries are broad, lethal autonomous weapon systems (LAWS) represent one possible usage of narrow AI by militaries. Research and development on LAWS by major powers, middle powers and non-state actors makes exploring the consequences for the security environment a crucial task. This article draws on classic research in security studies and examples from military history to assess the potential development and deployment of LAWS, as well as how they could influence arms races, the stability of deterrence, including strategic stability, the risk of crisis instability and wartime escalation. It focuses on these questions through the lens of two characteristics of LAWS: the potential for increased operational speed and the potential for decreased human control over battlefield choices. It also examines how these issues interact with the large uncertainty parameter associated with potential AI-based military capabilities at present, both in terms of the range of the possible and the opacity of their programming. © 2019, © 2019 Informa UK Limited, trading as Taylor & Francis Group.
+KW  - arms races
+KW  - automation
+KW  - crisis stability
+KW  - deterrence
+KW  - Robotics
+KW  - warfare
+KW  - arms race
+KW  - artificial intelligence
+KW  - military application
+KW  - robotics
+KW  - security
+KW  - war
+PB  - Routledge
+SN  - 01402390 (ISSN)
+LA  - English
+J2  - J. Strateg. Stud.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 68; Correspondence Address: M.C. Horowitz; Political Science, University of Pennsylvania, Philadelphia, United States; email: horom@sas.upenn.edu
+ER  -
+
+TY  - JOUR
+AU  - Dymitruk, M.
+TI  - The right to a fair trial in automated civil proceedings
+PY  - 2019
+T2  - Masaryk University Journal of Law and Technology
+VL  - 13
+IS  - 1
+SP  - 27
+EP  - 44
+DO  - 10.5817/MUJLT2019-1-2
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85070986202&doi=10.5817%2fMUJLT2019-1-2&partnerID=40&md5=8e607d83b97ab5ed75d30fa469c03d14
+AD  - Research Centre on Legal and Economic Issues of Electronic Communication, Faculty of Law, Administration and Economics, University of Wrocław, Poland
+AB  - Challenges associated with the use of artificial intelligence (AI) in law are one of the most hotly debated issues today. This paper draws attention to the question of how to safeguard the right to a fair trial in the light of rapidly changing technologies significantly affecting the judiciary and enabling automation of the civil procedure. The paper does not intend to comprehensively address all aspects related to the right to a fair trial in the context of the automation of civil proceedings but rather seeks to analyse some legal concerns from the perspective of the Article 6 of the European Convention on Human Rights and the case-law of the European Court of Human Rights. Section 1 discusses the issues of using artificial intelligence in the justice and automation of the judicial proceedings. Section 2 is devoted to the judge supporting system based on artificial intelligence and psychological requirements of its practical use. Section 3 presents the right to a fair trial in civil cases established by the Article 6 of the European Convention on Human Rights, while subsequent sections characterize its elements with respect to the possibility to automate civil proceedings: a right to have case heard within a reasonable time in section 4 and a right to a reasoned judgment in section 5. © 2019, Masaryk University Journal of Law and Technology. All rights reserved.
+KW  - Artificial intelligence
+KW  - Automation
+KW  - Civil proceedings
+KW  - Right to a fair trial
+PB  - Masaryk University Journal of Law and Technology
+SN  - 18025943 (ISSN)
+LA  - English
+J2  - Masaryk Univ. J. Law Technol.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 14; Correspondence Address: M. Dymitruk; Research Centre on Legal and Economic Issues of Electronic Communication, Faculty of Law, Administration and Economics, University of Wrocław, Poland; email: maria.dymitruk@uwr.edu.pl
+ER  -
+
+TY  - JOUR
+AU  - Malgieri, G.
+TI  - Automated decision-making in the EU Member States: The right to explanation and other “suitable safeguards” in the national legislations
+PY  - 2019
+T2  - Computer Law and Security Review
+VL  - 35
+IS  - 5
+C7  - 105327
+DO  - 10.1016/j.clsr.2019.05.002
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85068436639&doi=10.1016%2fj.clsr.2019.05.002&partnerID=40&md5=c45de188e1d45457c7c99b2dc478dc61
+AD  - Vrije Universiteit Brussel, Pleinlaan 2, Brussels, 1020, Belgium
+AB  - The aim of this paper is to analyse the very recently approved national Member States’ laws that have implemented the GDPR in the field of automated decision-making (prohibition, exceptions, safeguards): all national legislations have been analysed and in particular 9 Member States Law address the case of automated decision making providing specific exemptions and relevant safeguards, as requested by Article 22(2)(b) of the GDPR (Belgium, The Netherlands, France, Germany, Hungary, Slovenia, Austria, the United Kingdom, Ireland). The approaches are very diverse: the scope of the provision can be narrow (just automated decisions producing legal or similarly detrimental effects) or wide (any decision with a significant impact) and even specific safeguards proposed are very diverse. After this overview, this article will also address the following questions: are Member States free to broaden the scope of automated decision-making regulation? Are ‘positive decisions’ allowed under Article 22, GDPR, as some Member States seem to affirm? Which safeguards can better guarantee rights and freedoms of the data subject? In particular, while most Member States refers just to the three safeguards mentioned at Article 22(3) (i.e. subject's right to express one's point of view; right to obtain human intervention; right to contest the decision), three approaches seem very innovative: a) some States guarantee a right to legibility/explanation about the algorithmic decisions (France and Hungary); b) other States (Ireland and United Kingdom) regulate human intervention on algorithmic decisions through an effective accountability mechanism (e.g. notification, explanation of why such contestation has not been accepted, etc.); c) another State (Slovenia) require an innovative form of human rights impact assessments on automated decision-making. © 2019 The Authors
+KW  - AI
+KW  - Algorithmic impact assessment
+KW  - Article 22
+KW  - Automated decision-making
+KW  - Data Protection
+KW  - GDPR
+KW  - Legibility
+KW  - Right to contest
+KW  - Right to explanation
+KW  - Suitable safeguards
+KW  - Artificial intelligence
+KW  - Automation
+KW  - Data privacy
+KW  - Laws and legislation
+KW  - Article 22
+KW  - Automated decision making
+KW  - GDPR
+KW  - Impact assessments
+KW  - Legibility
+KW  - Right to contest
+KW  - Right to explanation
+KW  - Decision making
+PB  - Elsevier Ltd
+SN  - 02673649 (ISSN)
+LA  - English
+J2  - Comput Law Secur. Rev.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 89; Correspondence Address: G. Malgieri; Gianclaudio Malgieri, Vrije Universiteit Brussel, Brussels, Pleinlaan 2, 1020, Belgium; email: gianclaudio.malgieri@vub.ac.be; CODEN: CLSRE
+ER  -
+
+TY  - JOUR
+AU  - Simoncini, A.
+TI  - The unconstitutional algorithm: Artificial intelligence and the future of liberties
+ST  - L'algoritmo incostituzionale: Intelligenza artificiale e il futuro delle libertà
+PY  - 2019
+T2  - BioLaw Journal
+VL  - 2019
+IS  - 1
+SP  - 63
+EP  - 89
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85067934708&partnerID=40&md5=22d8ac3cb33174b3ca75dc91ea6319e0
+AD  - Dipartimento di Scienze Giuridiche dell'Università degli Studi di Firenze, Italy
+AB  - Today a growing number of decisions affecting human liberties are taken by algorithms. This evidence raises a vast number of questions concerning the trans-parency of such tools, the legal and ethical framework for algorithmic decision-making and the societal and cognitive impacts of such algorithmic automation. Start-ing from Wiener's fascinating invention of "cybernetics", which demonstrated the original link between this new science and the very idea of "public government", this paper maps the inherent tension between AI and law. It focuses firstly on the impact of "cybernetic revolution" on constitutional law, considering the technological switch from "means" to "subject" and then analyses some cases involving the use of predic-tive algorithms in the fields of criminal and administrative law. The paper then exam-ines and criticizes the standards set by GDPR to provide effective protection for fun-damental liberties. It concludes by calling for a new doctrine of "precautionary con-stitutionalism" through which protection of fundamental rights and the rule of law should be granted within designing new technologies. © 2019 BioLaw Journal - Rivista di BioDiritto.
+KW  - Algorithmic state
+KW  - Artificial intelligence
+KW  - Constitutional law
+KW  - Cybernetics
+KW  - GDPR
+PB  - University of Trento
+SN  - 22844503 (ISSN)
+LA  - Italian
+J2  - BioLaw J.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 23; Correspondence Address: A. Simoncini; Dipartimento di Scienze Giuridiche dell'Università degli Studi di Firenze, Italy; email: andrea.simoncini@unifi.it
+ER  -
+
+TY  - JOUR
+AU  - Lexer, M.G.
+AU  - Scarcella, L.
+TI  - Artificial Intelligence and Labor Markets. A Critical Analysis of Solution Models from a Tax Law and Social Security Law Perspective
+ST  - Intelligenza artificiale e mercato del lavoro. Una analisi critica delle possibili soluzioni nella prospettiva del diritti tributario e della previdenza sociale
+PY  - 2019
+T2  - Rivista Italiana di Informatica e Diritto
+VL  - 2019
+IS  - 1
+SP  - 53
+EP  - 73
+DO  - 10.32091/RIID0004
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85128431915&doi=10.32091%2fRIID0004&partnerID=40&md5=7a5750d439449c7571aa4067b83d82e5
+AD  - Department of Labour Law and Social Security Law, University of Graz, Austria
+AB  - Discussions on how to face problems regarding the changes within labor markets due to technology have so far been led by economists, who have mostly suggested a change within the social security system via the introduction of an unconditional basic income (UBI). Since Finland launched an experiment which examines the introduction of a UBI as a possible solution to these changes at the beginning of 2017, certain legal as well as socio-economic aspects will be pointed out that generally have to be considered by national governments when introducing a UBI. The second part of the essay focuses on possible different designs of the so-called "Robot-tax" which recently has been one of the central point of debate in relation to the overtaking of typically human jobs by AI and their impact on state finances. The two different scenarios, referred to A and B, represent the basis for a possibly necessary adaptation within social security law as well as the tax law sector. The main reason we chose to discuss the possible implementation of a UBI and of a "Robot-tax", instead of other possible measures, is that current discussions, especially within Europe, mainly focus on exactly these instruments. © 2019, Consiglio Nazionale delle Ricerche. All rights reserved.
+KW  - Artificial intelligence
+KW  - Automation
+KW  - Job loss
+KW  - Robot tax
+KW  - Unconditional Basic Income
+PB  - Consiglio Nazionale delle Ricerche
+SN  - 27047318 (ISSN)
+LA  - English
+J2  - Riv. Ital. Inform. Dirit.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 5
+ER  -
+
+TY  - JOUR
+AU  - Narain, K.
+AU  - Swami, A.
+AU  - Srivastava, A.
+AU  - Swami, S.
+TI  - Evolution and control of artificial superintelligence (ASI): a management perspective
+PY  - 2019
+T2  - Journal of Advances in Management Research
+VL  - 16
+IS  - 5
+SP  - 698
+EP  - 714
+DO  - 10.1108/JAMR-01-2019-0006
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85066892963&doi=10.1108%2fJAMR-01-2019-0006&partnerID=40&md5=7d80755350d3d148cc36684a60f475a5
+AD  - Tata Consultancy Services, New Delhi, India
+AD  - Faculty of Engineering, Dayalbagh Educational Institute, Agra, India
+AD  - Indian Railways, New Delhi, India
+AD  - Department of Management, Dayalbagh Educational Institute, Agra, India
+AB  - Purpose: The purpose of this paper is to address both the evolutionary and control aspects associated with the management of artificial superintelligence. Through empirical analysis, the authors examine the diffusion pattern of those high technologies that can be considered as forerunners to the adoption of artificial superintelligence (ASI). Design/methodology/approach: The evolutionary perspective is divided into three parts, based on major developments in this area, namely, robotics, automation and artificial intelligence (AI). The authors then provide several dynamic models of the possible future evolution of superintelligence. These include diffusion modeling, predator–prey models and hostility models. The problem of control in superintelligence is reviewed next, where the authors discuss Asimov’s Laws and IEEE initiative. The authors also provide an empirical analysis of the application of diffusion modeling to three technologies from the industries of manufacturing, communication and energy, which can be considered as potential precursors to the evolution of the field of ASI. The authors conclude with a case study illustrating emerging solutions in the form of long-term social experiments to address the problem of control in superintelligence. Findings: The results from the empirical analysis of the manufacturing, communication and energy sectors suggest that the technology diffusion model fits well with the data of robotics, telecom and solar installations till date. The results suggest a gradual diffusion process, like any other high technology. Thus, there appears to be no threat of “existential catastrophe” (Bostrom, 2014). The case study indicates that any future threat can be pre-empted by some long-term social measures. Originality/value: This paper contributes to the emerging stream of artificial superintelligence. As humanity comes closer to grappling with the important question of the management and control of this technology for the future, it is important that modeling efforts be made to understand the extant perspective of the development of the high-technology diffusion. Presently, there are relatively few such efforts available in the literature. © 2019, Emerald Publishing Limited.
+KW  - Control
+KW  - Dynamic modelling
+KW  - Evolution
+KW  - Superintelligence
+PB  - Emerald Group Holdings Ltd.
+SN  - 09727981 (ISSN)
+LA  - English
+J2  - J. Adv. Manag. Res.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 10; Correspondence Address: S. Swami; Department of Management, Dayalbagh Educational Institute, Agra, India; email: sswami1853@gmail.com
+ER  -
+
+TY  - BOOK
+AU  - Fosch-Villaronga, E.
+TI  - Robots, healthcare, and the law: Regulating automation in personal care
+PY  - 2019
+T2  - Robots, Healthcare, and the Law: Regulating Automation in Personal Care
+SP  - 1
+EP  - 256
+DO  - 10.4324/9780429021930
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85118004215&doi=10.4324%2f9780429021930&partnerID=40&md5=d6e41d0daf84d1cf4c24d14b99d3e264
+AD  - eLaw Center for Law and Digital Technologies at Leiden University in, Netherlands
+AB  - The integration of robotic systems and artificial intelligence into healthcare settings is accelerating. As these technological developments interact socially with children, the elderly, or the disabled, they may raise concerns besides mere physical safety; concerns that include data protection, inappropriate use of emotions, invasion of privacy, autonomy suppression, decrease in human interaction, and cognitive safety. Given the novelty of these technologies and the uncertainties surrounding the impact of care automation, it is unclear how the law should respond. This book investigates the legal and regulatory implications of the growing use of personal care robots for healthcare purposes. It explores the interplay between various aspects of the law, including safety, data protection, responsibility, transparency, autonomy, and dignity; and it examines different robotic and AI systems, such as social therapy robots, physical assistant robots for rehabilitation, and wheeled passenger carriers. Highlighting specific problems and challenges in regulating complex cyber-physical systems in concrete healthcare applications, it critically assesses the adequacy of current industry standards and emerging regulatory initiatives for robots and AI. After analyzing the potential legal and ethical issues associated with personal care robots, it concludes that the primarily principle-based approach of recent law and robotics studies is too abstract to be as effective as required by the personal care context. Instead, it recommends bridging the gap between general legal principles and their applicability in concrete robotic and AI technologies with a risk-based approach using impact assessments. As the first book to compile both legal and regulatory aspects of personal care robots, this book will be a valuable addition to the literature on robotics, artificial intelligence, human–robot interaction, law, and philosophy of technology. © 2020 Eduard Fosch-Villaronga.
+PB  - Taylor and Francis
+SN  - 978-042966687-2 (ISBN)
+LA  - English
+J2  - Robots, Healthcare, and the Law: Regulating Automation in Personal Care
+M3  - Book
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 33
+ER  -
+
+TY  - JOUR
+AU  - Engin, Z.
+AU  - Treleaven, P.
+TI  - Algorithmic Government: Automating Public Services and Supporting Civil Servants in using Data Science Technologies
+PY  - 2019
+T2  - Computer Journal
+VL  - 62
+IS  - 3
+SP  - 448
+EP  - 460
+DO  - 10.1093/comjnl/bxy082
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85062667080&doi=10.1093%2fcomjnl%2fbxy082&partnerID=40&md5=c3cec170e72259dae229830a44820749
+AD  - Department of Computer Science, University College London, London, United Kingdom
+AB  - The data science technologies of artificial intelligence (AI), Internet of Things (IoT), big data and behavioral/predictive analytics, and blockchain are poised to revolutionize government and create a new generation of GovTech start-ups. The impact from the â€ smartification' of public services and the national infrastructure will be much more significant in comparison to any other sector given government's function and importance to every institution and individual. Potential GovTech systems include Chatbots and intelligent assistants for public engagement, Robo-advisors to support civil servants, real-time management of the national infrastructure using IoT and blockchain, automated compliance/regulation, public records securely stored in blockchain distributed ledgers, online judicial and dispute resolution systems, and laws/statutes encoded as blockchain smart contracts. Government is potentially the major â€ client' and also â€ public champion' for these new data technologies. This review paper uses our simple taxonomy of government services to provide an overview of data science automation being deployed by governments world-wide. The goal of this review paper is to encourage the Computer Science community to engage with government to develop these new systems to transform public services and support the work of civil servants. © 2017 The British Computer Society. All rights reserved.
+KW  - artificial intelligence
+KW  - big data
+KW  - blockchain
+KW  - data science
+KW  - government
+KW  - Internet of Things
+KW  - Artificial intelligence
+KW  - Big data
+KW  - Blockchain
+KW  - Data Science
+KW  - Online systems
+KW  - Real time systems
+KW  - Regulatory compliance
+KW  - Dispute resolution
+KW  - government
+KW  - Government services
+KW  - Intelligent assistants
+KW  - Internet of Things (IOT)
+KW  - National infrastructure
+KW  - Real-time management
+KW  - Science technologies
+KW  - Internet of things
+PB  - Oxford University Press
+SN  - 00104620 (ISSN)
+LA  - English
+J2  - Comput J
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 154; Correspondence Address: Z. Engin; Department of Computer Science, University College London, London, United Kingdom; email: z.engin@ucl.ac.uk; CODEN: CMPJA
+ER  -
+

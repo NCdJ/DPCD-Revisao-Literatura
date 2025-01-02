@@ -1,0 +1,364 @@
+﻿TY  - JOUR
+AU  - Dave, T
+AU  - Athaluri, SA
+AU  - Singh, S
+TI  - ChatGPT in medicine: an overview of its applications, advantages, limitations, future prospects, and ethical considerations
+T2  - FRONTIERS IN ARTIFICIAL INTELLIGENCE
+LA  - English
+KW  - ChatGPT
+KW  - artificial intelligence
+KW  - AI
+KW  - natural language processing
+KW  - generative pre-training transformer
+KW  - medicine
+KW  - healthcare
+AB  - This paper presents an analysis of the advantages, limitations, ethical considerations, future prospects, and practical applications of ChatGPT and artificial intelligence (AI) in the healthcare and medical domains. ChatGPT is an advanced language model that uses deep learning techniques to produce human-like responses to natural language inputs. It is part of the family of generative pre-training transformer (GPT) models developed by OpenAI and is currently one of the largest publicly available language models. ChatGPT is capable of capturing the nuances and intricacies of human language, allowing it to generate appropriate and contextually relevant responses across a broad spectrum of prompts. The potential applications of ChatGPT in the medical field range from identifying potential research topics to assisting professionals in clinical and laboratory diagnosis. Additionally, it can be used to help medical students, doctors, nurses, and all members of the healthcare fraternity to know about updates and new developments in their respective fields. The development of virtual assistants to aid patients in managing their health is another important application of ChatGPT in medicine. Despite its potential applications, the use of ChatGPT and other AI tools in medical writing also poses ethical and legal concerns. These include possible infringement of copyright laws, medico-legal complications, and the need for transparency in AI-generated content. In conclusion, ChatGPT has several potential applications in the medical and healthcare fields. However, these applications come with several limitations and ethical considerations which are presented in detail along with future prospects in medicine and healthcare.
+AD  - Bukovinian State Med Univ, Internal Med, Chernovtsy, UkraineAD  - Rangaraya Med Coll, Kakinada, Andhra Pradesh, IndiaAD  - GSVM Med Coll, Kanpur, Uttar Pradesh, IndiaC3  - Bukovinian State Medical UniversityC3  - G.S.V.M. Medical College, KanpurPU  - FRONTIERS MEDIA SA
+PI  - LAUSANNE
+PA  - AVENUE DU TRIBUNAL FEDERAL 34, LAUSANNE, CH-1015, SWITZERLAND
+SN  - 2624-8212
+J9  - FRONT ARTIF INTELL
+JI  - Front. Artif. Intell.
+DA  - MAY 4
+PY  - 2023
+VL  - 6
+C7  - 1169595
+DO  - 10.3389/frai.2023.1169595
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:000989845200001
+N1  - Times Cited in Web of Science Core Collection:  419
+Total Times Cited:  429
+Cited Reference Count:  24
+ER  -
+
+TY  - JOUR
+AU  - Desislavov, R
+AU  - Martínez-Plumed, F
+AU  - Hernández-Orallo, J
+TI  - Trends in AI inference energy consumption: Beyond the performance-vs-parameter laws of deep learning
+T2  - SUSTAINABLE COMPUTING-INFORMATICS & SYSTEMS
+LA  - English
+KW  - Artificial Intelligence
+KW  - Deep learning
+KW  - Inference
+KW  - Energy consumption
+KW  - Performance analysis
+KW  - Performance evaluation
+KW  - AI progress
+AB  - The progress of some AI paradigms such as deep learning is said to be linked to an exponential growth in the number of parameters. There are many studies corroborating these trends, but does this translate into an exponential increase in energy consumption? In order to answer this question we focus on inference costs rather than training costs, as the former account for most of the computing effort, solely because of the multiplicative factors. Also, apart from algorithmic innovations, we account for more specific and powerful hardware (leading to higher FLOPS) that is usually accompanied with important energy efficiency optimisations. We also move the focus from the first implementation of a breakthrough paper towards the consolidated version of the techniques one or two year later. Under this distinctive and comprehensive perspective, we analyse relevant models in the areas of computer vision and natural language processing: for a sustained increase in performance we see a much softer growth in energy consumption than previously anticipated. The only caveat is, yet again, the multiplicative factor, as future AI increases penetration and becomes more pervasive.
+AD  - Univ Politecn Valencia, VRAIN, Valencia, SpainC3  - Universitat Politecnica de ValenciaFU  - MIT-Spain-INDITEX Sustainability Seed Fund; MCIN/AEI/10.13039/501100011033 [PID2021-122830OB-C42]; "ERDF A way of making Europe"; Generalitat Valenciana [INNEST/2021/317, PROMETEO/2019/098]; EU's Horizon 2020 research and innovation programme [952215]; Future of Life Institute, FLI [RFP2-152]; US DARPA [HR00112120007]
+FX  - We thank the reviewers for their insightful remarks, which have helped improve the paper significantly. This work has been partially supported by the MIT-Spain-INDITEX Sustainability Seed Fund under project COST-OMIZE, the grant PID2021-122830OB-C42 funded by MCIN/AEI/10.13039/501100011033 and "ERDF A way of making Europe", Generalitat Valenciana under INNEST/2021/317 and PROMETEO/2019/098, EU's Horizon 2020 research and innovation programme under grant agreement No. 952215 (TAILOR) , the Future of Life Institute, FLI, under grant RFP2-152, US DARPA HR00112120007 (RECoG-AI) .
+PU  - ELSEVIER
+PI  - AMSTERDAM
+PA  - RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN  - 2210-5379
+SN  - 2210-5387
+J9  - SUSTAIN COMPUT-INFOR
+JI  - Sust. Comput.
+DA  - APR
+PY  - 2023
+VL  - 38
+C7  - 100857
+DO  - 10.1016/j.suscom.2023.100857
+C6  - FEB 2023
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000997935500001
+N1  - Times Cited in Web of Science Core Collection:  59
+Total Times Cited:  61
+Cited Reference Count:  110
+ER  -
+
+TY  - JOUR
+AU  - Parsazadeh, M
+AU  - Sharma, S
+AU  - Dahotre, N
+TI  - Towards the next generation of machine learning models in additive manufacturing: A review of process dependent material evolution
+T2  - PROGRESS IN MATERIALS SCIENCE
+LA  - English
+KW  - Additive manufacturing
+KW  - Defect detection
+KW  - Physics informed machine learning
+KW  - Product quality
+KW  - Supervised learning
+KW  - Unsupervised learning
+KW  - POWDER-BED FUSION
+KW  - DIRECT LASER DEPOSITION
+KW  - MELT-POOL
+KW  - PROCESS PARAMETERS
+KW  - DEFECT DETECTION
+KW  - COMPUTER VISION
+KW  - MICROSTRUCTURE EVOLUTION
+KW  - MECHANICAL-PROPERTIES
+KW  - LOGISTIC-REGRESSION
+KW  - METALLIC COMPONENTS
+AB  - Additive manufacturing facilitates producing of complex parts due to its design freedom in a wide range of applications. Despite considerable advancements in additive manufacturing techniques, 3D-printed parts are still suffering from durability, repeatability, and reliability. One main reason, which increases the complexity of the problem and causes defects during manufacturing, is the high number of processing parameters. Machine learning approaches seem to be a promising solution to tackle the challenges in the additive manufacturing field. This paper employs a sys-tematic literature review by employing natural language processing and text mining techniques to analyze the recent advancement in the application of machine learning in porosity detection and prediction in 3D-printed parts. Two methods of text analytics are used to evaluate different av-enues of research in additive manufacturing. Most frequent machine learning methods employed to evaluate the porosity formed in the 3D-printed parts are introduced and classified based on their applications. Recent advancements in developing hybrid machine learning models reveal the importance of physical domain knowledge (e.g., thermomechanical laws and constraints) in these models and their accuracy. Eventually, challenges and opportunities that exist for the next generation of machine learning techniques in the AM field are identified and summarized.
+AD  - Univ North Texas, Ctr Agile & Adapt Addit Mfg, 3940 N ELM St, Denton, TX 76207 USAAD  - Univ North Texas, Dept Mat Sci & Engn, 3940 N ELM St, Denton, TX 76207 USAC3  - University of North Texas SystemC3  - University of North Texas DentonC3  - University of North Texas SystemC3  - University of North Texas DentonFU  - State of Texas Appropriation [190405-105-805008-220]
+FX  - The authors acknowledge the infrastructure and support of the Center for Agile and Adaptive and Additive Manufacturing (CAAAM) funded through State of Texas Appropriation: 190405-105-805008-220.
+PU  - PERGAMON-ELSEVIER SCIENCE LTD
+PI  - OXFORD
+PA  - THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN  - 0079-6425
+SN  - 1873-2208
+J9  - PROG MATER SCI
+JI  - Prog. Mater. Sci.
+DA  - JUN
+PY  - 2023
+VL  - 135
+C7  - 101102
+DO  - 10.1016/j.pmatsci.2023.101102
+C6  - MAR 2023
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000953798200001
+N1  - Times Cited in Web of Science Core Collection:  46
+Total Times Cited:  48
+Cited Reference Count:  291
+ER  -
+
+TY  - JOUR
+AU  - Khlaif, ZN
+AU  - Mousa, A
+AU  - Hattab, MK
+AU  - Itmazi, J
+AU  - Hassan, AA
+AU  - Sanmugam, M
+AU  - Ayyoub, A
+TI  - The Potential and Concerns of Using AI in Scientific Research: ChatGPT Performance Evaluation
+T2  - JMIR MEDICAL EDUCATION
+LA  - English
+KW  - artificial intelligence
+KW  - AI
+KW  - ChatGPT
+KW  - scientific research
+KW  - research ethics
+KW  - CRIMES
+AB  - Background: Artificial intelligence (AI) has many applications in various aspects of our daily life, including health, criminal, education, civil, business, and liability law. One aspect of AI that has gained significant attention is natural language processing (NLP), which refers to the ability of computers to understand and generate human language.Objective: This study aims to examine the potential for, and concerns of, using AI in scientific research. For this purpose, high-impact research articles were generated by analyzing the quality of reports generated by ChatGPT and assessing the application's impact on the research framework, data analysis, and the literature review. The study also explored concerns around ownership and the integrity of research when using AI-generated text.Methods: A total of 4 articles were generated using ChatGPT, and thereafter evaluated by 23 reviewers. The researchers developed an evaluation form to assess the quality of the articles generated. Additionally, 50 abstracts were generated using ChatGPT and their quality was evaluated. The data were subjected to ANOVA and thematic analysis to analyze the qualitative data provided by the reviewers.Results: When using detailed prompts and providing the context of the study, ChatGPT would generate high-quality research that could be published in high-impact journals. However, ChatGPT had a minor impact on developing the research framework and data analysis. The primary area needing improvement was the development of the literature review. Moreover, reviewers expressed concerns around ownership and the integrity of the research when using AI-generated text. Nonetheless, ChatGPT has a strong potential to increase human productivity in research and can be used in academic writing.Conclusions: AI-generated text has the potential to improve the quality of high-impact research articles. The findings of this study suggest that decision makers and researchers should focus more on the methodology part of the research, which includes research design, developing research tools, and analyzing data in depth, to draw strong theoretical and practical implications, thereby establishing a revolution in scientific research in the era of AI. The practical implications of this study can be used in different fields such as medical education to deliver materials to develop the basic competencies for both medicine students and faculty members.
+AD  - An Najah Natl Univ, Fac Humanities & Educ Sci, POB 7, Nablus, PalestineAD  - An Najah Natl Univ, Artificial Intelligence & Virtual Real Res Ctr, Dept Elect & Comp Engn, Nablus, PalestineAD  - An Najah Natl Univ, Fac Law & Polit Sci, Nablus, PalestineAD  - Palestine Ahliya Univ, Coll Engn & Informat Technol, Dept Informat Technol, Bethlahem, PalestineAD  - Univ Sains Malaysia, Ctr Instruct Technol & Multimedia, George Town, MalaysiaC3  - An Najah National UniversityC3  - An Najah National UniversityC3  - An Najah National UniversityC3  - Universiti Sains MalaysiaPU  - JMIR PUBLICATIONS, INC
+PI  - TORONTO
+PA  - 130 QUEENS QUAY East, Unit 1100, TORONTO, ON M5A 0P6, CANADA
+SN  - 2369-3762
+J9  - JMIR MED EDUC
+JI  - JMIR Med. Educ.
+PY  - 2023
+VL  - 9
+C7  - e47049
+DO  - 10.2023/1/e47049
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001085472500001
+N1  - Times Cited in Web of Science Core Collection:  31
+Total Times Cited:  32
+Cited Reference Count:  51
+ER  -
+
+TY  - JOUR
+AU  - Aguado-Correa, F
+AU  - de la Vega-Jiménez, JJ
+AU  - López-Jiménez, JM
+AU  - Padilla-Garrido, N
+AU  - Rabadán-Martín, I
+TI  - Evaluation of non-financial information and its contribution to advancing the sustainable development goals within the Spanish banking sector
+T2  - EUROPEAN RESEARCH ON MANAGEMENT AND BUSINESS ECONOMICS
+LA  - English
+KW  - Sustainability
+KW  - Banks
+KW  - Non-financial information report
+KW  - SDGs
+KW  - Natural language processing
+KW  - DISCLOSURE
+KW  - PERFORMANCE
+KW  - GOVERNANCE
+AB  - Non-financial information and its contribution to the achievement of each Sustainable Development Goal (SDG) are assuming great relevance in the business world, in which it is not enough to be economically sus-tainable without also being sustainable from ethical, environmental, and social points of view. An analysis of how the financial sector contributes to the achievement of the SDGs is crucial in two ways. Firstly, due to the relevance and the magnitude of this sector itself; secondly, and more importantly in our view, because of the financial leverage of the banking sector that has a mandate to facilitate the transition of all economic sectors towards sustainability, guided by the 2030 Agenda. However, despite the expectations placed on banking entities, there is a research gap on their disclosure practices and on the SDG-related information that they report. In addition, the academic literature centered on the analysis of SDG-related disclosures through artifi-cial intelligence is very scarce. To fill this gap, the objective of our study is, on the one hand, to analyze whether there is greater homogeneity in the disclosure of non-financial information in the Spanish banking sector following the transposition of Directive 2014/95/EU into Spanish Law. On the other hand, it is to evalu-ate the contribution of banking entities to the SDGs. To do so, the non-financial information reports of 12 Spanish banks are analyzed, completing a comparative evaluation and using artificial intelligence to identify mentions of each SDG and its targets. The Technique for Order Preference by Similarity to Ideal Solution (TOPSIS) was also used to rank the banking entities in accordance with their contribution to each SDG. The results reflected the plurality, in both breadth and quality, in the disclosure of non-financial information and in the contribution to the SDGs. The only point in common between all the entities that were studied was the use of the GRI disclosure framework and the identification of the priority SDGs, positioning SDGs 8, 13, and 4 in priority positions. The banks with higher bank capitalization levels occupied the top of the ranking of contributions to the SDGs. Differences were presented for all other aspects, even to the point of highlight-ing that some entities or independent verifiers had not offered all the information. In conclusion, greater efforts to improve the quality of non-financial reporting and further development of the common regulatory framework will be fundamental for better comparability between the reports from banking entities. Further-more, this study shows that natural language processing can be applied to better measure companies' align-ment with the SDGs based on the text of their non-financial reports.(c) 2022 The Author(s). Published by Elsevier Espana, S.L.U. on behalf of AEDEM. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+AD  - Univ Huelva, Fac Business Sci & Tourism, Dept Financial Econ Accounting & Operat Managemen, Plaza Merced 11, Huelva 21071, SpainAD  - Univ Malaga, Fac Law, Dept Civil Law Ecclesiast State Law State & Roman, Campus Teatinos, Malaga 29071, SpainAD  - Univ Huelva, Fac Business Sci & Tourism, Dept Econ, Plaza Merced 11, Huelva 21071, SpainC3  - Universidad de HuelvaC3  - Universidad de MalagaC3  - Universidad de HuelvaPU  - ELSEVIER SCI LTD
+PI  - London
+PA  - 125 London Wall, London, ENGLAND
+SN  - 2444-8834
+SN  - 2444-8842
+J9  - EUR RES MANAG BUS EC
+JI  - EUR. RES. MANAG. BUS.ECON.
+DA  - JAN-APR
+PY  - 2023
+VL  - 29
+IS  - 1
+C7  - 100211
+DO  - 10.1016/j.iedeen.2022.100211
+C6  - JAN 2023
+WE  - Social Science Citation Index (SSCI)AN  - WOS:000968809500001
+N1  - Times Cited in Web of Science Core Collection:  16
+Total Times Cited:  16
+Cited Reference Count:  100
+ER  -
+
+TY  - JOUR
+AU  - Cejas, OA
+AU  - Azeem, MI
+AU  - Abualhaija, S
+AU  - Briand, LC
+TI  - NLP-Based Automated Compliance Checking of Data Processing Agreements Against GDPR
+T2  - IEEE TRANSACTIONS ON SOFTWARE ENGINEERING
+LA  - English
+KW  - Requirements engineering (RE)
+KW  - the general data protection regulation (GDPR)
+KW  - regulatory compliance
+KW  - natural language processing (NLP)
+KW  - data processing agreement (DPA)
+KW  - privacy
+KW  - LEGAL REQUIREMENTS
+KW  - KNOWLEDGE
+AB  - When the entity processing personal data (the processor) differs from the one collecting personal data (the controller), processing personal data is regulated in Europe by the General Data Protection Regulation (GDPR) through data processing agreements (DPAs). Checking the compliance of DPAs contributes to the compliance verification of software systems as DPAs are an important source of requirements for software development involving the processing of personal data. However, manually checking whether a given DPA complies with GDPR is challenging as it requires significant time and effort for understanding and identifying DPA-relevant compliance requirements in GDPR and then verifying these requirements in the DPA. Legal texts introduce additional complexity due to convoluted language and inherent ambiguity leading to potential misunderstandings. In this paper, we propose an automated solution to check the compliance of a given DPA against GDPR. In close interaction with legal experts, we first built two artifacts: (i) the "shall" requirements extracted from the GDPR provisions relevant to DPA compliance and (ii) a glossary table defining the legal concepts in the requirements. Then, we developed an automated solution that leverages natural language processing (NLP) technologies to check the compliance of a given DPA against these "shall" requirements. Specifically, our approach automatically generates phrasal-level representations for the textual content of the DPA and compares them against predefined representations of the "shall" requirements. By comparing these two representations, the approach not only assesses whether the DPA is GDPR compliant but it further provides recommendations about missing information in the DPA. Over a dataset of 30 actual DPAs, the approach correctly finds 618 out of 750 genuine violations while raising 76 false violations, and further correctly identifies 524 satisfied requirements. The approach has thus an average precision of 89.1%, a recall of 82.4%, and an accuracy of 84.6%. Compared to a baseline that relies on off-the-shelf NLP tools, our approach provides an average accuracy gain of approximate to 20 percentage points. The accuracy of our approach can be improved to approximate to 94% with limited manual verification effort.
+AD  - Univ Luxembourg, SnT Ctr Secur Reliabil & Trust, L-4365 Esch Sur Alzette, LuxembourgAD  - Univ Ottawa, Sch Elect Engn & Comp Sci, Ottawa, ON K1N 6N5, CanadaC3  - University of LuxembourgC3  - University of OttawaFU  - Linklaters, Luxembourg's National Research Fund (FNR); NSERC of Canada;  [BRIDGES/19/IS/13759068/ARTAGO]
+FX  - This work was supported in part by Linklaters, Luxembourg's National Research Fund (FNR) under Grant BRIDGES/19/IS/13759068/ARTAGO, and in part by the NSERC of Canada under the Discovery andCRC programs. Recommended for acceptance by P. Spoletini.
+PU  - IEEE COMPUTER SOC
+PI  - LOS ALAMITOS
+PA  - 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN  - 0098-5589
+SN  - 1939-3520
+J9  - IEEE T SOFTWARE ENG
+JI  - IEEE Trans. Softw. Eng.
+DA  - SEPT 1
+PY  - 2023
+VL  - 49
+IS  - 9
+SP  - 4282
+EP  - 4303
+DO  - 10.1109/TSE.2023.3288901
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001070689400002
+N1  - Times Cited in Web of Science Core Collection:  10
+Total Times Cited:  10
+Cited Reference Count:  115
+ER  -
+
+TY  - JOUR
+AU  - Hosseini, P
+AU  - Khoshsirat, S
+AU  - Jalayer, M
+AU  - Das, S
+AU  - Zhou, HG
+TI  - Application of text mining techniques to identify actual wrong-way driving (WWD) crashes in police reports
+T2  - INTERNATIONAL JOURNAL OF TRANSPORTATION SCIENCE AND TECHNOLOGY
+LA  - English
+KW  - Wrong-Way Driving Crashes
+KW  - Crash Report Narratives
+KW  - Text Mining
+KW  - Text Classification
+KW  - CLASSIFIERS
+AB  - Wrong-way driving (WWD) has been a long-lasting issue for transportation agencies and law enforcement, since it causes pivotal threats to road users. Notwithstanding being rare, crashes occurring due to WWD are more severe than other types of crashes. In order to analyze WWD crashes, there is a need to obtain WWD incidents or crash data. However, it is time-consuming to identify actual WWD crashes from potential WWD crashes in large crash databases. It often involves large man-hours to review hardcopy of crash narratives in the police reports. Otherwise, it may cause an overestimation or underestimation of WWD crash frequencies. To fill this gap, the present study, as the first-of-its-kind, aims at identifying actual WWD crashes from potential WWD crashes in police reports by using machine learning methods. Recently, Bidirectional Encoder Representations from Transformers (BERT) models have shown promising results in natural language processing. In this study, we implemented the BERT model as well as five conventional classification algorithms, including Naive Bayes (NB), Support Vector Machine (SVM), Decision Tree (DT), Random Forest (RF), and Single Layer Perceptron (SLP) to classify crash report narratives as actual WWD and non-WWD crashes. Cross-validation and different performance metrics were used to evaluate the performance of each classification algorithm. Results indicated that the BERT model outperformed in identifying actual WWD crashes in comparison with other algorithms with an accuracy of 81.59%. The BERT classification algorithm can be implemented to reduce the time needed to identify actual WWD crashes from crash report narratives. (c) 2022 Tongji University and Tongji University Press. Publishing Services by Elsevier B.V. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/ licenses/by-nc-nd/4.0/).
+AD  - Rowan Univ, Ctr Res & Educ Adv Transportat Engn Syst CREATEs, Dept Civil & Environm Engn, 201 Mull Hill Rd, Glassboro, NJ 08028 USAAD  - Univ Delaware, Dept Comp & Informat Sci, 18 Amstel Ave, Newark, DE 19716 USAAD  - Texas State Univ, Ingram Sch Engn, Civil Engn Program, RFM 5202,601 Univ Dr, San Marcos, TX 78666 USAAD  - Auburn Univ, Dept Civil Engn, 224 Harbert Engn Ctr, Auburn, AL 36849 USAC3  - Rowan UniversityC3  - University of DelawareC3  - Texas State University SystemC3  - Texas State University San MarcosC3  - Auburn University SystemC3  - Auburn UniversityPU  - KEAI PUBLISHING LTD
+PI  - BEIJING
+PA  - 16 DONGHUANGCHENGGEN NORTH ST, Building 5, Room 411, BEIJING, DONGCHENG DISTRICT 100009, PEOPLES R CHINA
+SN  - 2046-0430
+SN  - 2046-0449
+J9  - INT J TRANSP SCI TEC
+JI  - Int. J. Transp. Sci. Technol.
+DA  - DEC
+PY  - 2023
+VL  - 12
+IS  - 4
+SP  - 1038
+EP  - 1051
+DO  - 10.1016/j.ijtst.2022.12.002
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001107108100001
+N1  - Times Cited in Web of Science Core Collection:  8
+Total Times Cited:  8
+Cited Reference Count:  46
+ER  -
+
+TY  - JOUR
+AU  - Gerlich, M
+AU  - Elsayed, W
+AU  - Sokolovskiy, K
+TI  - Artificial intelligence as toolset for analysis of public opinion and social interaction in marketing: identification of micro and nano influencers
+T2  - FRONTIERS IN COMMUNICATION
+LA  - English
+KW  - artificial intelligence
+KW  - emotion analysis
+KW  - intelligent opinion analysis
+KW  - microblogging
+KW  - natural language processing
+KW  - sarcasm detection
+KW  - sentiment analysis
+KW  - social data analysis
+AB  - In the conditions of digitalization, which has penetrated all spheres of human life and society, artificial intelligence (AI) and ultra-precise neural networks influence our thinking and form consumer demand and loyalty. Modern AI applications cover all the essential areas of activity: education, manufacturing, marketing, management, law, medicine, and e-commerce. The study aims to build a methodology for analyzing the influence of public opinion in social networks, particularly micro and nano influencers, through AI and machine learning on the effectiveness of companies' marketing activities. The authors studied the stages of consumer interaction with marketing profits and highlighted the role of AI technologies in each of them. They showed that public opinion was the main driving force for effective sales of products on the Internet. Based on empirical data, a strong direct relationship was found between the number of influencers and the dynamics of marketing profit: it was revealed that the correlation coefficients between the marketing profit index and the number of micro and nano influencers were 0.86-0.99 in all surveyed companies implementing AI technologies, regardless of the market niche. Based on the expert method, the company's marketing system is investigated. An integral indicator of its effectiveness is introduced, consisting of sub-indices of analysis, diffusion and marketing information management. The authors considered the factors of profit from marketing activities of five companies actively implementing AI in brand promotion, including those using the leadership opinions of influencers. The applied value of the developed methodology is the possibility of using it to construct Internet marketing strategies by companies. By permanently monitoring the relationship between the marketing profit index and the degree of brand popularization in social networks, companies can manage sales at all stages of consumer communications, optimizing the costs of influencers promoting products on different social platforms. The prospects for further research are to study the relationship between the degree of interactivity of the influencer with the audience, the content posted by it with the conversion rate and sales volumes; grouping and identification of influencers based on the clustering method.
+AD  - SBS Swiss Business Sch, Management Dept, Zurich, SwitzerlandAD  - Ajman Univ, Coll Humanities & Sci, Dept Sociol, Ajman, U Arab EmiratesAD  - Ajman Univ, Humanities & Social Sci Res Ctr HSSRC, Ajman, U Arab EmiratesAD  - Humanitarian & Tech Acad, Dept Gen Subjects, Kokshetau, KazakhstanC3  - SBS Swiss Business SchoolC3  - Ajman UniversityC3  - Ajman UniversityC3  - Kokshetau Humanitarian & Technical AcademyPU  - FRONTIERS MEDIA SA
+PI  - LAUSANNE
+PA  - AVENUE DU TRIBUNAL FEDERAL 34, LAUSANNE, CH-1015, SWITZERLAND
+SN  - 2297-900X
+J9  - FRONT COMMUN
+JI  - Front. Commun.
+DA  - JUN 15
+PY  - 2023
+VL  - 8
+C7  - 1075654
+DO  - 10.3389/fcomm.2023.1075654
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001018212500001
+N1  - Times Cited in Web of Science Core Collection:  8
+Total Times Cited:  8
+Cited Reference Count:  31
+ER  -
+
+TY  - CPAPER
+AU  - Blair-Stanek, A
+AU  - Holzenberger, N
+AU  - Van Durme, B
+A1  - ACM
+TI  - Can GPT-3 Perform Statutory Reasoning?
+T2  - PROCEEDINGS OF THE 19TH INTERNATIONAL CONFERENCE ON ARTIFICIAL INTELLIGENCE AND LAW, ICAIL 2023
+LA  - English
+CP  - 19th International Conference on Artificial Intelligence and Law (ICAIL)
+KW  - natural language processing
+KW  - reasoning
+KW  - law
+KW  - statutes
+KW  - GPT-3
+AB  - Statutory reasoning is the task of reasoning with facts and statutes, which are rules written in natural language by a legislature. It is a basic legal skill. In this paper we explore the capabilities of the most capable GPT-3 model, text-davinci-003, on an established statutory-reasoning dataset called SARA. We consider a variety of approaches, including dynamic few-shot prompting, chain-of-thought prompting, and zero-shot prompting. While we achieve results with GPT-3 that are better than the previous best published results, we also identify several types of clear errors it makes. We investigate why these errors happen. We discover that GPT-3 has imperfect prior knowledge of the actual U.S. statutes on which SARA is based. More importantly, we create simple synthetic statutes, which GPT-3 is guaranteed not to have seen during training. We find GPT-3 performs poorly at answering straightforward questions about these simple synthetic statutes.
+AD  - Univ Maryland, Sch Law, Baltimore, MD 21201 USAAD  - Inst Polytech Paris, Palaiseau, FranceAD  - Johns Hopkins Univ, Baltimore, MD USAC3  - University System of MarylandC3  - University of Maryland BaltimoreC3  - Institut Polytechnique de ParisC3  - Johns Hopkins UniversityFU  - U.S. National Science Foundation [2204926]
+FX  - This work has been supported by the U.S. National Science Foundation under grant No. 2204926. Any opinions, findings, and conclusions or recommendations expressed in this article are those of the authors and do not necessarily reflect the views of the National Science Foundation.
+PU  - ASSOC COMPUTING MACHINERY
+PI  - NEW YORK
+PA  - 1601 Broadway, 10th Floor, NEW YORK, NY, UNITED STATES
+SN  - 979-8-4007-0197-9
+PY  - 2023
+SP  - 22
+EP  - 31
+DO  - 10.1145/3594536.3595163
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)WE  - Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)AN  - WOS:001139079400003
+N1  - Times Cited in Web of Science Core Collection:  7
+Total Times Cited:  7
+Cited Reference Count:  27
+ER  -
+
+TY  - JOUR
+AU  - Cui, JY
+AU  - Shen, XY
+AU  - Wen, SC
+TI  - A Survey on Legal Judgment Prediction: Datasets, Metrics, Models and Challenges
+T2  - IEEE ACCESS
+LA  - English
+KW  - Law
+KW  - Task analysis
+KW  - Surveys
+KW  - Benchmark testing
+KW  - Natural language processing
+KW  - Measurement
+KW  - Biological system modeling
+KW  - Neural networks
+KW  - Legal judgment prediction
+KW  - natural language processing
+KW  - survey
+KW  - benchmark datasets
+KW  - neural network
+KW  - QUANTITATIVE-ANALYSIS
+AB  - Legal judgment prediction (LJP) applies Natural Language Processing (NLP) techniques to predict judgment results based on fact descriptions automatically. The present work addresses the growing interest in the application of NLP techniques to the task of LJP. Despite the current performance gap between machines and humans, promising results have been achieved in a variety of benchmark datasets, owing to recent advances in NLP research and the availability of large-scale public datasets. To provide a comprehensive survey of existing LJP tasks, datasets, models, and evaluations, this study presents the following contributions: 1) an analysis of 43 LJP datasets constructed in 9 different languages, together with a classification method of LJP based on three different attributes; 2) a summary of 16 evaluation metrics categorized into 4 different types to evaluate the performance of LJP models for different outputs; 3) a review of 8 legal-domain pretrained models in 4 languages, highlighting four major research directions for LJP; 4) state-of-the-art results for 11 representative datasets from different court cases and an in-depth discussion of the open challenges in this area. This study aims to provide a comprehensive review for NLP researchers and legal professionals to understand the advances in LJP over the past years, and to facilitate further joint efforts towards improving the performance of LJP models.
+AD  - Xian Univ Finance & Econ, Sch Informat, Xian 710100, Shaanxi, Peoples R ChinaAD  - Amazon Alexa AI, D-47495 Berlin, GermanyAD  - Guangxi Transport Vocat & Tech Coll, ASEAN Int Sch, Nanning 530023, Guangxi, Peoples R ChinaC3  - Xi'an University of Finance & EconomicsFU  - Science Foundation of the China (Xi'an) Institute for Silk Road Research [2019YB05, 2019YA07]; Innovation Training Project of Shaanxi College Students [S202011560030]; Research Foundation of the Xi'an University of Finance and Economics [18FCJH02]; Education Department of Guangxi Zhuang Autonomous Region; Guangxi Transport Vocational and Technical College
+FX  - This work was supported in part by the Science Foundation of the China (Xi'an) Institute for Silk Road Research under Grant 2019YB05 and Grant 2019YA07, in part by the Innovation Training Project of Shaanxi College Students under Grant S202011560030, in part by the Research Foundation of the Xi'an University of Finance and Economics under Grant 18FCJH02, in part by the Education Department of Guangxi Zhuang Autonomous Region, and in part by the Guangxi Transport Vocational and Technical College.
+PU  - IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI  - PISCATAWAY
+PA  - 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN  - 2169-3536
+J9  - IEEE ACCESS
+JI  - IEEE Access
+PY  - 2023
+VL  - 11
+SP  - 102050
+EP  - 102071
+DO  - 10.1109/ACCESS.2023.3317083
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001078582700001
+N1  - Times Cited in Web of Science Core Collection:  7
+Total Times Cited:  7
+Cited Reference Count:  97
+ER  -
+

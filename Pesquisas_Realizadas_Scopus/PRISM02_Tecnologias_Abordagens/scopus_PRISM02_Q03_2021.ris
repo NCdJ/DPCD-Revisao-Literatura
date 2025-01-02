@@ -1,0 +1,411 @@
+﻿TY  - CONF
+AU  - You, C.
+AU  - Chen, N.
+AU  - Zou, Y.
+TI  - MRD-Net: Multi-Modal Residual Knowledge Distillation for Spoken Question Answering
+PY  - 2021
+T2  - IJCAI International Joint Conference on Artificial Intelligence
+SP  - 3985
+EP  - 3991
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85115731218&partnerID=40&md5=6a4178b20d716b2b9026d38e7af77ff4
+AD  - Department of Electrical Engineering, Yale University, United States
+AD  - ADSPLAB, School of ECE, Peking University, Shenzhen, China
+AD  - Peng Cheng Laboratory, Shenzhen, China
+AB  - Spoken question answering (SQA) has recently drawn considerable attention in the speech community. It requires systems to find correct answers from the given spoken passages simultaneously. The common SQA systems consist of the automatic speech recognition (ASR) module and text-based question answering module. However, previous methods suffer from severe performance degradation due to ASR errors. To alleviate this problem, this work proposes a novel multi-modal residual knowledge distillation method (MRD-Net), which further distills knowledge at the acoustic level from the audio-assistant (Audio-A). Specifically, we utilize the teacher (T) trained on manual transcriptions to guide the training of the student (S) on ASR transcriptions. We also show that introducing an Audio-A helps this procedure by learning residual errors between T and S. Moreover, we propose a simple yet effective attention mechanism to adaptively leverage audio-text features as the new deep attention knowledge to boost the network performance. Extensive experiments demonstrate that the proposed MRD-Net achieves superior results compared with state-of-the-art methods on three spoken question answering benchmark datasets. © 2021 International Joint Conferences on Artificial Intelligence. All rights reserved.
+KW  - Artificial intelligence
+KW  - Audio acoustics
+KW  - Character recognition
+KW  - Distillation
+KW  - Knowledge management
+KW  - Personnel training
+KW  - Acoustic levels
+KW  - Automatic speech recognition
+KW  - Distillation method
+KW  - Multi-modal
+KW  - Performance degradation
+KW  - Question Answering
+KW  - Question answering systems
+KW  - Recognition error
+KW  - Speech-recognition modules
+KW  - Teachers'
+KW  - Speech recognition
+A2  - Zhou Z.-H.
+PB  - International Joint Conferences on Artificial Intelligence
+SN  - 10450823 (ISSN); 978-099924119-6 (ISBN)
+LA  - English
+J2  - IJCAI Int. Joint Conf. Artif. Intell.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 23; Correspondence Address: Y. Zou; ADSPLAB, School of ECE, Peking University, Shenzhen, China; email: zouyx@pku.edu.cn; Conference name: 30th International Joint Conference on Artificial Intelligence, IJCAI 2021; Conference date: 19 August 2021 through 27 August 2021; Conference code: 177242
+ER  -
+
+TY  - JOUR
+AU  - Arnaout, H.
+AU  - Razniewski, S.
+AU  - Weikum, G.
+AU  - Pan, J.Z.
+TI  - Negative statements considered useful
+PY  - 2021
+T2  - Journal of Web Semantics
+VL  - 71
+C7  - 100661
+DO  - 10.1016/j.websem.2021.100661
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85116194939&doi=10.1016%2fj.websem.2021.100661&partnerID=40&md5=6eda9f8927afc10e0450b3606b1407db
+AD  - Max Planck Institute for Informatics, Saarland Informatics Campus, Saarbrücken, 66123, Germany
+AD  - School of Informatics, The University of Edinburgh, Informatics Forum, Edinburgh, EH8 9AB, Scotland, United Kingdom
+AB  - Knowledge bases (KBs) about notable entities and their properties are an important asset in applications such as search, question answering and dialog. All popular KBs capture virtually only positive statements, and abstain from taking any stance on statements not stored in the KB. This paper makes the case for explicitly stating salient statements that do not hold. Negative statements are useful to overcome limitations of question answering systems that are mainly geared for positive questions; they can also contribute to informative summaries of entities. Due to the abundance of such invalid statements, any effort to compile them needs to address ranking by saliency. We present a statistical inference method for compiling and ranking negative statements, based on expectations from positive statements of related entities in peer groups. Experimental results, with a variety of datasets, show that the method can effectively discover notable negative statements, and extrinsic studies underline their usefulness for entity summarization. Datasets and code are released as resources for further research. © 2021 Elsevier B.V.
+KW  - Information extraction
+KW  - Knowledge bases
+KW  - Negative knowledge
+KW  - Ranking
+KW  - Statistical inference
+KW  - Artificial intelligence
+KW  - Inference methods
+KW  - Information extraction
+KW  - Negative knowledge
+KW  - Peer groups
+KW  - Property
+KW  - Question Answering
+KW  - Question answering systems
+KW  - Ranking
+KW  - Related entities
+KW  - Statistical inference
+KW  - Statistical methods
+PB  - Elsevier B.V.
+SN  - 15708268 (ISSN)
+LA  - English
+J2  - J. Web Semant.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 8; Correspondence Address: H. Arnaout; Max Planck Institute for Informatics, Saarland Informatics Campus, Saarbrücken, 66123, Germany; email: harnaout@mpi-inf.mpg.de
+ER  -
+
+TY  - JOUR
+AU  - Elfadil, S.S.A.N.
+AU  - Jarajreh, M.
+AU  - Algarni, S.
+TI  - Question Answering Systems: A Systematic Literature Review
+PY  - 2021
+T2  - International Journal of Advanced Computer Science and Applications
+VL  - 12
+IS  - 3
+SP  - 495
+EP  - 502
+DO  - 10.14569/IJACSA.2021.0120359
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85103703478&doi=10.14569%2fIJACSA.2021.0120359&partnerID=40&md5=c5ea238f32d7792407c3662e592b319c
+AD  - Department of Computer Science, Fahad Bin Sultan University, Tabuk, Saudi Arabia
+AD  - Computer Engineering Department, Fahad Bin Sultan University, Tabuk, Saudi Arabia
+AD  - Business Administration Department, Fahad Bin Sultan University, Tabuk, Saudi Arabia
+AB  - Question answering systems (QAS) are developed to answer questions presented in natural language by extracting the answer. The development of QAS is aimed at making the Web more suited to human use by eliminating the need to sift through a lot of search results manually to determine the correct answer to a question. Accordingly, the aim of this study was to provide an overview of the current state of QAS research. It also aimed at highlighting the key limitations and gaps in the existing body of knowledge relating to QAS. Furthermore, it intended to identify the most effective methods utilized in the design of QAS. The systematic review of literature research method was selected as the most appropriate methodology for studying the research topic. This method differs from the conventional literature review as it is more comprehensive and objective. Based on the findings, QAS is a highly active area of research, with scholars taking diverse approaches in the development of their systems. Some of the limitations observed in these studies encompass the focused nature of current QAS, weaknesses associated with models that are used as building blocks for QAS, the need for standard datasets and question formats hence limiting the applicability of the QAS in practical settings, and the failure of researchers to examine their QAS solutions comprehensively. The most effective methods for designing QAS include focusing on syntax and context, utilizing word encoding and knowledge systems, leveraging deep learning, and using elements such as machine learning and artificial intelligence. Going forward, modular designs ought to be encouraged to foster collaboration in the creation of QAS. © 2021
+KW  - artificial intelligence
+KW  - deep learning
+KW  - knowledge systems
+KW  - machine learning
+KW  - Question answering systems
+KW  - syntax
+KW  - systematic literature review
+KW  - Deep learning
+KW  - Knowledge management
+KW  - Natural language processing systems
+KW  - 'current
+KW  - Body of knowledge
+KW  - Deep learning
+KW  - Human use
+KW  - Knowledge system
+KW  - Natural languages
+KW  - Question answering systems
+KW  - Systematic literature review
+KW  - Systematic Review
+KW  - Systems research
+KW  - Syntactics
+PB  - Science and Information Organization
+SN  - 2158107X (ISSN)
+LA  - English
+J2  - Intl. J. Adv.  Comput. Sci. Appl.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 7
+ER  -
+
+TY  - CONF
+AU  - Lauriola, I.
+AU  - Moschitti, A.
+TI  - Answer Sentence Selection Using Local and Global Context in Transformer Models
+PY  - 2021
+T2  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 12656 LNCS
+SP  - 298
+EP  - 312
+DO  - 10.1007/978-3-030-72113-8_20
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85107362873&doi=10.1007%2f978-3-030-72113-8_20&partnerID=40&md5=7bf2ac0434fc9b19261363b81984e69f
+AD  - Amazon Alexa AI, Manhattan Beach, CA, United States
+AB  - An essential task for the design of Question Answering systems is the selection of the sentence containing (or constituting) the answer from documents relevant to the asked question. Previous neural models have experimented with using additional text together with the target sentence to learn a selection function but these methods were not powerful enough to effectively encode contextual information. In this paper, we analyze the role of contextual information for the sentence selection task in Transformer based architectures, leveraging two types of context, local and global. The former describes the paragraph containing the sentence, aiming at solving implicit references, whereas the latter describes the entire document containing the candidate sentence, providing content-based information. The results on three different benchmarks show that the combination of the local and global context in a Transformer model significantly improves the accuracy in Answer Sentence Selection. © 2021, Springer Nature Switzerland AG.
+KW  - Answer Sentence Selection
+KW  - Deep learning
+KW  - Pre-trained Transformer
+KW  - Question Answering
+KW  - Artificial intelligence
+KW  - Computer science
+KW  - Computers
+KW  - Content-based information
+KW  - Contextual information
+KW  - Global context
+KW  - Question answering systems
+KW  - Selection function
+KW  - Sentence selection
+KW  - Transformer modeling
+KW  - Transformer models
+KW  - Information retrieval
+A2  - Hiemstra D.
+A2  - Moens M.
+A2  - Mothe J.
+A2  - Perego R.
+A2  - Potthast M.
+A2  - Sebastiani F.
+PB  - Springer Science and Business Media Deutschland GmbH
+SN  - 03029743 (ISSN); 978-303072112-1 (ISBN)
+LA  - English
+J2  - Lect. Notes Comput. Sci.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 13; Correspondence Address: I. Lauriola; Amazon Alexa AI, Manhattan Beach, United States; email: lauivano@amazon.com; Conference name: 43rd European Conference on Information Retrieval Research, ECIR 2021; Conference date: 28 March 2021 through 1 April 2021; Conference code: 257049
+ER  -
+
+TY  - JOUR
+AU  - Chen, Y.
+AU  - Tang, Z.
+TI  - Research on the Construction of Intelligent Community Emergency Service Platform Based on Convolutional Neural Network
+PY  - 2021
+T2  - Scientific Programming
+VL  - 2021
+C7  - 5089236
+DO  - 10.1155/2021/5089236
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85122866794&doi=10.1155%2f2021%2f5089236&partnerID=40&md5=156237d4adb9df296e3115c6c79a3bf8
+AD  - School of Humanities and Social Science, Guangxi Medical University, Guangxi, Nanning, 530021, China
+AB  - Aiming at the shortcomings of the existing community emergency service platform, such as single function, poor scalability, and strong subjectivity, an intelligent community emergency service platform based on convolutional neural network was constructed. Firstly, the requirements analysis of the emergency service platform was carried out, and the functional demand of the emergency service platform was analyzed from the aspects of community environment, safety, infrastructure, health management, emergency response, and so on. Secondly, through logistics network, big data, cloud computing, artificial intelligence, and all kinds of applications, the intelligent community emergency service platform was designed. Finally, a semantic matching emergency question answering system based on convolutional neural network was developed to provide key technical support for the emergency preparation stage of intelligent community. The results show that the intelligent community emergency service platform plays an important role in preventing community emergency events and taking active and effective measures to ensure the health and safety of community residents.  © 2021 Yu Chen and Zhong Tang.
+KW  - Convolution
+KW  - Neural networks
+KW  - Semantics
+KW  - Cloud-computing
+KW  - Convolutional neural network
+KW  - Data clouds
+KW  - Emergency response
+KW  - Functional demands
+KW  - Health management
+KW  - Intelligent community
+KW  - Logistics network
+KW  - Requirement analysis
+KW  - Service platforms
+KW  - Emergency services
+PB  - Hindawi Limited
+SN  - 10589244 (ISSN)
+LA  - English
+J2  - Sci. Program
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 10; Correspondence Address: Z. Tang; School of Humanities and Social Science, Guangxi Medical University, Nanning, Guangxi, 530021, China; email: tangzhong@stu.gxmu.edu.cn; CODEN: SCIPE
+ER  -
+
+TY  - CONF
+AU  - Yadav, S.
+AU  - Sarrouti, M.
+AU  - Gupta, D.
+TI  - NLM at MEDIQA 2021: Transfer Learning-based Approaches for Consumer Question and Multi-Answer Summarization
+PY  - 2021
+T2  - Proceedings of the 20th Workshop on Biomedical Language Processing, BioNLP 2021
+SP  - 291
+EP  - 301
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85111217209&partnerID=40&md5=ad0177f443b437465100c154f78d2b70
+AD  - LHNCBC, U.S. National Library of Medicine, MD, United States
+AB  - The quest for seeking health information has swamped the web with consumers’ health-related questions, which makes the need for efficient and reliable question answering systems more pressing. The consumers’ questions, however, are very descriptive and contain several peripheral information (like patient’s medical history, demographic information, etc.), that are often not required for answering the question. Furthermore, it contributes to the challenges of understanding natural language questions for automatic answer retrieval. Also, it is crucial to provide the consumers with the exact and relevant answers, rather than the entire pool of answer documents to their question. One of the cardinal tasks in achieving robust consumer health question answering systems is the question summarization and multi-document answer summarization. This paper describes the participation of the U.S. National Library of Medicine (NLM) in Consumer Question and Multi-Answer Summarization tasks of the MEDIQA 2021 challenge at NAACL-BioNLP workshop. In this work, we exploited the capabilities of pre-trained transformer models and introduced a transfer learning approach for the abstractive Question Summarization and extractive Multi-Answer Summarization tasks by first pre-training our model on a task-specific summarization dataset followed by fine-tuning it for both the tasks via incorporating medical entities. We achieved the second, sixth and the fourth position for the Question Summarization task in terms ROUGE-1, ROUGE-2 and ROUGE-L scores respectively. © 2021 Association for Computational Linguistics
+KW  - Artificial intelligence
+KW  - Computational linguistics
+KW  - Health
+KW  - Learning systems
+KW  - Consumer healths
+KW  - Demographic information
+KW  - Health informations
+KW  - Learning-based approach
+KW  - Medical history
+KW  - National library of medicines
+KW  - Natural language questions
+KW  - Pressung
+KW  - Question answering systems
+KW  - Transfer learning
+KW  - Natural language processing systems
+A2  - Demner-Fushman D.
+A2  - Cohen K.B.
+A2  - Ananiadou S.
+A2  - Tsujii J.
+PB  - Association for Computational Linguistics (ACL)
+SN  - 978-195408540-4 (ISBN)
+LA  - English
+J2  - Proc. Workshop Biomed. Lang. Process., BioNLP
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 15; Conference name: 20th Workshop on Biomedical Language Processing, BioNLP 2021; Conference code: 174277
+ER  -
+
+TY  - JOUR
+AU  - Aithal, S.G.
+AU  - Rao, A.B.
+AU  - Singh, S.
+TI  - Automatic question-answer pairs generation and question similarity mechanism in question answering system
+PY  - 2021
+T2  - Applied Intelligence
+VL  - 51
+IS  - 11
+SP  - 8484
+EP  - 8497
+DO  - 10.1007/s10489-021-02348-9
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85103999557&doi=10.1007%2fs10489-021-02348-9&partnerID=40&md5=5d77f9f4aa91ead63813a5872b6fabf3
+AD  - Department of Information and Communication Technology, Manipal Institute of Technology, MAHE, Manipal, 576104, India
+AB  - With the swift growth of the information over the past few years, taking full benefit is increasingly essential. Question Answering System is one of the promising methods to access this much information. The Question Answering System lacks humans’ common sense and reasoning power and cannot identify unanswerable questions and irrelevant questions. These questions are answered by making unreliable and incorrect guesses. In this paper, we address this limitation by proposing a Question Similarity mechanism. Before a question is posed to a Question-Answering system, it is compared with possible generated questions of the given paragraph, and then a Question Similarity Score is generated. The Question Similarity mechanism effectively identifies the unanswerable and irrelevant questions. The proposed Question Similarity mechanism incorporates a human way of reasoning to identify unanswerable and irrelevant questions. This mechanism can avoid the unanswerable and irrelevant questions altogether from being posed to the Question Answering system. It helps the Question Answering Systems to focus only on the answerable questions to improve their performance. Along with this, we introduce an application of the Question Answering System that generates the question-answer pairs given a passage and is useful in several fields. © 2021, The Author(s).
+KW  - Question answering
+KW  - Question comprehension
+KW  - Question generation
+KW  - Question similarity
+KW  - Universal sentence encoder
+KW  - Common sense
+KW  - Question answering systems
+KW  - Question-answer pairs
+KW  - Similarity scores
+KW  - Artificial intelligence
+PB  - Springer
+SN  - 0924669X (ISSN)
+LA  - English
+J2  - Appl Intell
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 28; Correspondence Address: S. Singh; Department of Information and Communication Technology, Manipal Institute of Technology, MAHE, Manipal, 576104, India; email: sanjay.singh@manipal.edu; CODEN: APITE
+ER  -
+
+TY  - CONF
+AU  - Tang, Y.
+AU  - Han, H.
+AU  - Yu, X.
+AU  - Zhao, J.
+AU  - Liu, G.
+AU  - Wei, L.
+TI  - An Intelligent Question Answering System based on Power Knowledge Graph
+PY  - 2021
+T2  - IEEE Power and Energy Society General Meeting
+VL  - 2021-July
+DO  - 10.1109/PESGM46819.2021.9638018
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85124156427&doi=10.1109%2fPESGM46819.2021.9638018&partnerID=40&md5=6bc63f693b3b49654cc83b841ec8106f
+AD  - Envision Digital, Redwood City, CA, United States
+AD  - State Grid Sichuan Electric Power Company, Chengdu, Sichuan, China
+AD  - Hitachi ABB Power Grids, San Jose, CA, United States
+AB  - The intelligent question answering (IQA) system can accurately capture users' search intention by understanding the natural language questions, searching relevant content efficiently from a massive knowledge-base, and returning the answer directly to the user. Since the IQA system can save inestimable time and workforce in data search and reasoning, it has received more and more attention in data science and artificial intelligence. This article introduced a domain knowledge graph using the graph database and graph computing technologies from massive heterogeneous data in electric power. It then proposed an IQA system based on the electrical power knowledge graph to extract the intent and constraints of natural interrogation based on the natural language processing (NLP) method, to construct graph data query statements via knowledge reasoning, and to complete the accurate knowledge search and analysis to provide users with an intuitive visualization. This method thoroughly combined knowledge graph and graph computing characteristics, realized high-speed multi-hop knowledge correlation reasoning analysis in tremendous knowledge. The proposed work can also provide a basis for the context-aware intelligent question and answer. © 2021 IEEE.
+KW  - intelligent question answering system
+KW  - intelligent reasoning
+KW  - knowledge graph
+KW  - Natural language processing
+KW  - ontology schema
+KW  - Data visualization
+KW  - Domain Knowledge
+KW  - Natural language processing systems
+KW  - Query processing
+KW  - Search engines
+KW  - Data reasoning
+KW  - Data searches
+KW  - Intelligent question answering systems
+KW  - Intelligent reasoning
+KW  - Knowledge graphs
+KW  - Natural language questions
+KW  - Ontology schema
+KW  - Ontology's
+KW  - Power/knowledge
+KW  - Search intentions
+KW  - Knowledge graph
+PB  - IEEE Computer Society
+SN  - 19449925 (ISSN); 978-166540507-2 (ISBN)
+LA  - English
+J2  - IEEE Power Energy Soc. Gen. Meet.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 20; Conference name: 2021 IEEE Power and Energy Society General Meeting, PESGM 2021; Conference date: 26 July 2021 through 29 July 2021; Conference code: 175685
+ER  -
+
+TY  - CONF
+AU  - Ding, K.
+AU  - Han, H.
+AU  - Li, L.
+AU  - Yi, M.
+TI  - Research on Question Answering System for COVID-19 Based on Knowledge Graph
+PY  - 2021
+T2  - Chinese Control Conference, CCC
+VL  - 2021-July
+SP  - 4659
+EP  - 4664
+DO  - 10.23919/CCC52363.2021.9550437
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85117321254&doi=10.23919%2fCCC52363.2021.9550437&partnerID=40&md5=324754b93b0ee826d94c192044ec36af
+AD  - Institute of Scientific and Technical Information of China, Research Center for Information Science Theory and Methodology, Beijing, 100038, China
+AD  - Key Laboratory of Rich-media Knowledge Organization and Service of Digital Publishing Content, Sapprft, Beijing, China
+AB  - In the con of the COVID-19 epidemic, it is necessary to establish a question answering (QA) system to help people to get information about the epidemic. This paper creats a framework about the question answering system based on knowledge bases (KBQA) for COVID-19. First, we design the schema of the COVID-19 knowledge graph (KG) and extract knowledge from s. Second, a rule-based classifier is created to find the user's intention when they input a question. Then, the matched template is used to transfer the question into Cypher query, and return answer which is retrieved from KG to users. We collected data from Baidu Encyclopedia and extracted triplet knowledge for constructing COVID-19 KG to prove the feasibility of our framework. The experiment on 86 questions shows that the KBQA for COVID-19 can achieve 81.6% accuracy and get a good experience through the feedback of testers. © 2021 Technical Committee on Control Theory, Chinese Association of Automation.
+KW  - COVID-19
+KW  - Knowledge Graph
+KW  - Neo4j
+KW  - Question Answering System
+KW  - Artificial intelligence
+KW  - Query processing
+KW  - COVID-19
+KW  - Knowledge graphs
+KW  - Question answering systems
+KW  - Rule-based classifier
+KW  - User's intentions
+KW  - Knowledge graph
+A2  - Peng C.
+A2  - Sun J.
+PB  - IEEE Computer Society
+SN  - 19341768 (ISSN); 978-988156380-4 (ISBN)
+LA  - English
+J2  - Chinese Control Conf., CCC
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 9; Conference name: 40th Chinese Control Conference, CCC 2021; Conference date: 26 July 2021 through 28 July 2021; Conference code: 172297
+ER  -
+
+TY  - JOUR
+AU  - Zhang, Y.-D.
+AU  - Satapathy, S.C.
+AU  - Wu, D.
+AU  - Guttery, D.S.
+AU  - Górriz, J.M.
+AU  - Wang, S.-H.
+TI  - Improving ductal carcinoma in situ classification by convolutional neural network with exponential linear unit and rank-based weighted pooling
+PY  - 2021
+T2  - Complex and Intelligent Systems
+VL  - 7
+IS  - 3
+SP  - 1295
+EP  - 1310
+DO  - 10.1007/s40747-020-00218-4
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85104884252&doi=10.1007%2fs40747-020-00218-4&partnerID=40&md5=64c5fef9f48e2bd51b2249c33eda0909
+AD  - School of Informatics, University of Leicester, Informatics Building, University Road, Leicester, LE1 7RH, United Kingdom
+AD  - Department of Information Systems, Faculty of Computing and Information Technology, King Abdulaziz University, Jeddah, 21589, Saudi Arabia
+AD  - School of Computer Engg, KIIT Deemed to University, Bhubaneswar, India
+AD  - Leicester Cancer Research Center, University of Leicester, Leicester, LE1 7RH, United Kingdom
+AD  - University of Melbourne, Melbourne, 3010, VIC, Australia
+AD  - Department of Signal Theory, Networking and Communications, University of Granada, Granada, Spain
+AD  - School of Architecture Building and Civil Engineering, Loughborough University, Loughborough, LE11 3TU, United Kingdom
+AB  - Ductal carcinoma in situ (DCIS) is a pre-cancerous lesion in the ducts of the breast, and early diagnosis is crucial for optimal therapeutic intervention. Thermography imaging is a non-invasive imaging tool that can be utilized for detection of DCIS and although it has high accuracy (~ 88%), it is sensitivity can still be improved. Hence, we aimed to develop an automated artificial intelligence-based system for improved detection of DCIS in thermographs. This study proposed a novel artificial intelligence based system based on convolutional neural network (CNN) termed CNN-BDER on a multisource dataset containing 240 DCIS images and 240 healthy breast images. Based on CNN, batch normalization, dropout, exponential linear unit and rank-based weighted pooling were integrated, along with L-way data augmentation. Ten runs of tenfold cross validation were chosen to report the unbiased performances. Our proposed method achieved a sensitivity of 94.08 ± 1.22%, a specificity of 93.58 ± 1.49 and an accuracy of 93.83 ± 0.96. The proposed method gives superior performance than eight state-of-the-art approaches and manual diagnosis. The trained model could serve as a visual question answering system and improve diagnostic accuracy. © 2020, The Author(s).
+KW  - Breast thermography
+KW  - Color jittering
+KW  - Convolutional neural network
+KW  - Data augmentation
+KW  - Deep learning
+KW  - Ductal carcinoma in situ
+KW  - Exponential linear unit
+KW  - Rank-based weighted pooling
+KW  - Thermal images
+KW  - Visual question answering
+PB  - Springer International Publishing
+SN  - 21994536 (ISSN)
+LA  - English
+J2  - Complex Intell. Syst.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 32; Correspondence Address: S.-H. Wang; School of Architecture Building and Civil Engineering, Loughborough University, Loughborough, LE11 3TU, United Kingdom; email: shuihuawang@ieee.org; D.S. Guttery; Leicester Cancer Research Center, University of Leicester, Leicester, LE1 7RH, United Kingdom; email: dsg6@le.ac.uk; J.M. Górriz; Department of Signal Theory, Networking and Communications, University of Granada, Granada, Spain; email: gorriz@ugr.es
+ER  -
+

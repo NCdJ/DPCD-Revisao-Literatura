@@ -1,0 +1,429 @@
+﻿TY  - JOUR
+AU  - Zhang, X.
+AU  - Zhang, Y.
+AU  - Zhang, Q.
+AU  - Ren, Y.
+AU  - Qiu, T.
+AU  - Ma, J.
+AU  - Sun, Q.
+TI  - Extracting comprehensive clinical information for breast cancer using deep learning methods
+PY  - 2019
+T2  - International Journal of Medical Informatics
+VL  - 132
+C7  - 103985
+DO  - 10.1016/j.ijmedinf.2019.103985
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85073146579&doi=10.1016%2fj.ijmedinf.2019.103985&partnerID=40&md5=b7f6466cb659b75130a1d7793d9edc82
+AD  - Peking Union Medical College Hospital, Peking Union Medical College & Chinese Academy of Medical Sciences, Beijing, China
+AD  - Digital China Health Technologies Co. Ltd., Beijing, China
+AD  - National Cancer Center/Cancer Hospital, Peking Union Medical College & Chinese Academy of Medical Sciences, Beijing, China
+AB  - Objective: Breast cancer is the most common malignant tumor among women. The diagnosis and treatment information of breast cancer patients is abundant in multiple types of clinical fields, including clinicopathological data, genotype and phenotype information, treatment information, and prognosis information. However, current studies are mainly focused on extracting information from one specific type of clinical field. This study defines a comprehensive information model to represent the whole-course clinical information of patients. Furthermore, deep learning approaches are used to extract the concepts and their attributes from clinical breast cancer documents by fine-tuning pretrained Bidirectional Encoder Representations from Transformers (BERT) language models. Materials and methods: The clinical corpus that was used in this study was from one 3A cancer hospital in China, consisting of the encounter notes, operation records, pathology notes, radiology notes, progress notes and discharge summaries of 100 breast cancer patients. Our system consists of two components: a named entity recognition (NER) component and a relation recognition component. For each component, we implemented deep learning-based approaches by fine-tuning BERT, which outperformed other state-of-the-art methods on multiple natural language processing (NLP) tasks. A clinical language model is first pretrained using BERT on a large-scale unlabeled corpus of Chinese clinical text. For NER, the context embeddings that were pretrained using BERT were used as the input features of the Bi-LSTM-CRF (Bidirectional long-short-memory-conditional random fields) model and were fine-tuned using the annotated breast cancer notes. Furthermore, we proposed an approach to fine-tune BERT for relation extraction. It was considered to be a classification problem in which the two entities that were mentioned in the input sentence were replaced with their semantic types. Results: Our best-performing system achieved F1 scores of 93.53% for the NER and 96.73% for the relation extraction. Additional evaluations showed that the deep learning-based approaches that fine-tuned BERT did outperform the traditional Bi-LSTM-CRF and CRF machine learning algorithms in NER and the attention-Bi-LSTM and SVM (support vector machines) algorithms in relation recognition. Conclusion: In this study, we developed a deep learning approach that fine-tuned BERT to extract the breast cancer concepts and their attributes. It demonstrated its superior performance compared to traditional machine learning algorithms, thus supporting its uses in broader NER and relation extraction tasks in the medical domain. © 2019 Elsevier B.V.
+KW  - Breast cancer
+KW  - Clinical information extraction
+KW  - Deep learning
+KW  - Fine-tuning BERT
+KW  - Information model
+KW  - Algorithms
+KW  - Breast Neoplasms
+KW  - China
+KW  - Deep Learning
+KW  - Female
+KW  - Humans
+KW  - Natural Language Processing
+KW  - Support Vector Machine
+KW  - Computational linguistics
+KW  - Diagnosis
+KW  - Diseases
+KW  - Information theory
+KW  - Learning algorithms
+KW  - Long short-term memory
+KW  - Machine learning
+KW  - Natural language processing systems
+KW  - Patient treatment
+KW  - Random processes
+KW  - Semantics
+KW  - Support vector machines
+KW  - Breast Cancer
+KW  - Comprehensive information
+KW  - Conditional random field
+KW  - Fine tuning
+KW  - Information Modeling
+KW  - Named entity recognition
+KW  - NAtural language processing
+KW  - State-of-the-art methods
+KW  - Article
+KW  - breast cancer
+KW  - cancer center
+KW  - cancer surgery
+KW  - China
+KW  - deep learning
+KW  - hospital discharge
+KW  - human
+KW  - information model
+KW  - machine learning
+KW  - major clinical study
+KW  - medical documentation
+KW  - pathology
+KW  - priority journal
+KW  - radiology
+KW  - algorithm
+KW  - breast tumor
+KW  - female
+KW  - natural language processing
+KW  - support vector machine
+KW  - Deep learning
+PB  - Elsevier Ireland Ltd
+SN  - 13865056 (ISSN)
+C2  - 31627032
+LA  - English
+J2  - Int. J. Med. Informatics
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 123; Correspondence Address: J. Ma; National Cancer Center/Cancer Hospital, Peking Union Medical College & Chinese Academy of Medical Sciences, Beijing, China; email: majianhui@csco.org.cn; CODEN: IJMIF
+ER  -
+
+TY  - CONF
+AU  - Tan, H.
+AU  - Bansal, M.
+TI  - LXMert: Learning cross-modality encoder representations from transformers
+PY  - 2019
+T2  - EMNLP-IJCNLP 2019 - 2019 Conference on Empirical Methods in Natural Language Processing and 9th International Joint Conference on Natural Language Processing, Proceedings of the Conference
+SP  - 5100
+EP  - 5111
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85083663490&partnerID=40&md5=04b8908c5bdcbdaf988d79880ac86228
+AD  - UNC, Chapel Hill, United States
+AB  - Vision-and-language reasoning requires an understanding of visual concepts, language semantics, and, most importantly, the alignment and relationships between these two modalities. We thus propose the LXMERT (Learning Cross-Modality Encoder Representations from Transformers) framework to learn these vision-and-language connections. In LXMERT, we build a large-scale Transformer model that consists of three encoders: an object relationship encoder, a language encoder, and a cross-modality encoder. Next, to endow our model with the capability of connecting vision and language semantics, we pre-train the model with large amounts of image-and-sentence pairs, via five diverse representative pre-training tasks: masked language modeling, masked object prediction (feature regression and label classification), cross-modality matching, and image question answering. These tasks help in learning both intra-modality and cross-modality relationships. After fine-tuning from our pre-trained parameters, our model achieves the state-of-the-art results on two visual question answering datasets (i.e., VQA and GQA). We also show the generalizability of our pre-trained cross-modality model by adapting it to a challenging visual-reasoning task, NLVR2, and improve the previous best result by 22% absolute (54% to 76%). Lastly, we demonstrate detailed ablation studies to prove that both our novel model components and pretraining strategies significantly contribute to our strong results.1. © 2019 Association for Computational Linguistics
+KW  - Modeling languages
+KW  - Natural language processing systems
+KW  - Semantics
+KW  - Signal encoding
+KW  - Cross modality
+KW  - Language semantics
+KW  - Model components
+KW  - Question Answering
+KW  - State of the art
+KW  - Transformer modeling
+KW  - Visual concept
+KW  - Visual reasoning
+KW  - Visual languages
+PB  - Association for Computational Linguistics
+SN  - 978-195073790-1 (ISBN)
+LA  - English
+J2  - EMNLP-IJCNLP - Conf. Empir. Methods Nat. Lang. Process. Int. Jt. Conf. Nat. Lang. Process., Proc. Conf.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 1164; Conference name: 2019 Conference on Empirical Methods in Natural Language Processing and 9th International Joint Conference on Natural Language Processing, EMNLP-IJCNLP 2019; Conference date: 3 November 2019 through 7 November 2019; Conference code: 159367
+ER  -
+
+TY  - JOUR
+AU  - Gao, Z.
+AU  - Feng, A.
+AU  - Song, X.
+AU  - Wu, X.
+TI  - Target-dependent sentiment classification with BERT
+PY  - 2019
+T2  - IEEE Access
+VL  - 7
+C7  - 8864964
+SP  - 154290
+EP  - 154299
+DO  - 10.1109/ACCESS.2019.2946594
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85077809664&doi=10.1109%2fACCESS.2019.2946594&partnerID=40&md5=64adef5d0222ffeadb825a2e0e85e4c1
+AD  - Department of Computer Science, Chengdu University of Information Technology, Chengdu, 610225, China
+AB  - Research on machine assisted text analysis follows the rapid development of digital media, and sentiment analysis is among the prevalent applications. Traditional sentiment analysis methods require complex feature engineering, and embedding representations have dominated leaderboards for a long time. However, the context-independent nature limits their representative power in rich context, hurting performance in Natural Language Processing (NLP) tasks. Bidirectional Encoder Representations from Transformers (BERT), among other pre-trained language models, beats existing best results in eleven NLP tasks (including sentence-level sentiment classification) by a large margin, which makes it the new baseline of text representation. As a more challenging task, fewer applications of BERT have been observed for sentiment classification at the aspect level. We implement three target-dependent variations of the BERTbase model, with positioned output at the target terms and an optional sentence with the target built in. Experiments on three data collections show that our TD-BERT model achieves new state-of-the-art performance, in comparison to traditional feature engineering methods, embedding-based models and earlier applications of BERT. With the successful application of BERT in many NLP tasks, our experiments try to verify if its context-aware representation can achieve similar performance improvement in aspect-based sentiment analysis. Surprisingly, coupling it with complex neural networks that used to work well with embedding representations does not show much value, sometimes with performance below the vanilla BERT-FC implementation. On the other hand, incorporation of target information shows stable accuracy improvement, and the most effective way of utilizing that information is displayed through the experiment. © 2019 IEEE.
+KW  - BERT
+KW  - Deep learning
+KW  - Neural networks
+KW  - Sentiment analysis
+KW  - Complex networks
+KW  - Deep learning
+KW  - Deep neural networks
+KW  - Digital storage
+KW  - Embeddings
+KW  - Neural networks
+KW  - Accuracy Improvement
+KW  - BERT
+KW  - Complex neural networks
+KW  - Context independent
+KW  - Feature engineerings
+KW  - NAtural language processing
+KW  - Sentiment classification
+KW  - State-of-the-art performance
+KW  - Sentiment analysis
+PB  - Institute of Electrical and Electronics Engineers Inc.
+SN  - 21693536 (ISSN)
+LA  - English
+J2  - IEEE Access
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 328; Correspondence Address: A. Feng; Department of Computer Science, Chengdu University of Information Technology, Chengdu, 610225, China; email: abraham.feng@gmail.com
+ER  -
+
+TY  - CONF
+AU  - Yang, J.
+AU  - Zhang, Q.
+AU  - Ni, B.
+AU  - Li, L.
+AU  - Liu, J.
+AU  - Zhou, M.
+AU  - Tian, Q.
+TI  - Modeling point clouds with self-attention and gumbel subset sampling
+PY  - 2019
+T2  - Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition
+VL  - 2019-June
+C7  - 8954194
+SP  - 3318
+EP  - 3327
+DO  - 10.1109/CVPR.2019.00344
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85075823682&doi=10.1109%2fCVPR.2019.00344&partnerID=40&md5=1ebd8bcff5e62d7d8f2160de9339fbf1
+AD  - Shanghai Jiao Tong University, China
+AD  - MoE Key Lab of Artificial Intelligence, AI Institute, Shanghai Jiao Tong University, United States
+AD  - Huawei Noahs Ark Lab
+AB  - Geometric deep learning is increasingly important thanks to the popularity of 3D sensors. Inspired by the recent advances in NLP domain, the self-attention transformer is introduced to consume the point clouds. We develop Point Attention Transformers (PATs), using a parameter-efficient Group Shuffle Attention (GSA) to replace the costly Multi-Head Attention. We demonstrate its ability to process size-varying inputs, and prove its permutation equivariance. Besides, prior work uses heuristics dependence on the input data (e.g., Furthest Point Sampling) to hierarchically select subsets of input points. Thereby, we for the first time propose an end-to-end learnable and task-agnostic sampling operation, named Gumbel Subset Sampling (GSS), to select a representative subset of input points. Equipped with Gumbel-Softmax, it produces a 'soft' continuous subset in training phase, and a 'hard' discrete subset in test phase. By selecting representative subsets in a hierarchical fashion, the networks learn a stronger representation of the input sets with lower computation cost. Experiments on classification and segmentation benchmarks show the effectiveness and efficiency of our methods. Furthermore, we propose a novel application, to process event camera stream as point clouds, and achieve a state-of-the-art performance on DVS128 Gesture Dataset. © 2019 IEEE.
+KW  - 3D from Multiview and Sensors
+KW  - Deep Learning
+KW  - Computer vision
+KW  - Deep learning
+KW  - Camera streams
+KW  - Computation costs
+KW  - Effectiveness and efficiencies
+KW  - Multi-views
+KW  - Novel applications
+KW  - Point sampling
+KW  - State-of-the-art performance
+KW  - Training phase
+KW  - Set theory
+PB  - IEEE Computer Society
+SN  - 10636919 (ISSN); 978-172813293-8 (ISBN)
+LA  - English
+J2  - Proc IEEE Comput Soc Conf Comput Vision Pattern Recognit
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 323; Correspondence Address: B. Ni; Shanghai Jiao Tong University, China; email: nibingbing@sjtu.edu.cn; Conference name: 32nd IEEE/CVF Conference on Computer Vision and Pattern Recognition, CVPR 2019; Conference date: 16 June 2019 through 20 June 2019; Conference code: 156730; CODEN: PIVRE
+ER  -
+
+TY  - CONF
+AU  - Zafrir, O.
+AU  - Boudoukh, G.
+AU  - Izsak, P.
+AU  - Wasserblat, M.
+TI  - Q8BERT: Quantized 8Bit BERT
+PY  - 2019
+T2  - Proceedings - 5th Workshop on Energy Efficient Machine Learning and Cognitive Computing, EMC2-NIPS 2019
+C7  - 9463531
+SP  - 36
+EP  - 39
+DO  - 10.1109/EMC2-NIPS53020.2019.00016
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85095066609&doi=10.1109%2fEMC2-NIPS53020.2019.00016&partnerID=40&md5=672a3896c47e1697636d933bf57f0180
+AD  - AI Lab NLP, Intel Labs, Haifa, Israel
+AB  - Recently, pre-trained Transformer [1] based language models such as BERT [2] and GPT [3], have shown great improvement in many Natural Language Processing (NLP) tasks. However, these models contain a large amount of parameters. The emergence of even larger and more accurate models such as GPT2 [4] and Megatron11http://github.com/NVIDIA/Megatron-LM, suggest a trend of large pre-trained Transformer models. However, using these large models in production environments is a complex task requiring a large amount of compute, memory and power resources. In this work we show how to perform quantization-aware training during the fine-tuning phase of BERT in order to compress BERT by 4x with minimal accuracy loss. Furthermore, the produced quantized model can accelerate inference speed if it is optimized for 8bit Integer supporting hardware.  © 2019 IEEE.
+KW  - bert
+KW  - language-modeling
+KW  - nlp
+KW  - quantization
+KW  - quantization-aware-training
+KW  - transformers
+KW  - Integer programming
+KW  - Machine learning
+KW  - Natural language processing systems
+KW  - Accuracy loss
+KW  - Language model
+KW  - Large amounts
+KW  - NAtural language processing
+KW  - Power resources
+KW  - Production environments
+KW  - Quantized models
+KW  - Transformer models
+KW  - Energy efficiency
+PB  - Institute of Electrical and Electronics Engineers Inc.
+SN  - 978-166542418-9 (ISBN)
+LA  - English
+J2  - Proc. - Workshop Energy Effic. Mach. Learn. Cogn. Comput., EMC2-NIPS
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 215; Conference name: 5th Workshop on Energy Efficient Machine Learning and Cognitive Computing, EMC2-NIPS 2019; Conference code: 171033
+ER  -
+
+TY  - CONF
+AU  - Liu, N.F.
+AU  - Gardner, M.
+AU  - Belinkov, Y.
+AU  - Peters, M.E.
+AU  - Smith, N.A.
+TI  - Linguistic knowledge and transferability of contextual representations
+PY  - 2019
+T2  - NAACL HLT 2019 - 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies - Proceedings of the Conference
+VL  - 1
+SP  - 1073
+EP  - 1094
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85076566125&partnerID=40&md5=12ae41add678ed22ea1b3ca38ee405e8
+AD  - Paul G. Allen School of Computer Science and Engineering, University of Washington, Seattle, WA, United States
+AD  - Department of Linguistics, University of Washington, Seattle, WA, United States
+AD  - Allen Institute for Artificial Intelligence, Seattle, WA, United States
+AD  - Harvard John A. Paulson School of Engineering and Applied Sciences, MIT Computer Science and Artificial Intelligence Laboratory, Cambridge, MA, United States
+AB  - Contextual word representations derived from large-scale neural language models are successful across a diverse set of NLP tasks, suggesting that they encode useful and transferable features of language. To shed light on the linguistic knowledge they capture, we study the representations produced by several recent pretrained contextualizers (variants of ELMo, the OpenAI transformer language model, and BERT) with a suite of sixteen diverse probing tasks. We find that linear models trained on top of frozen contextual representations are competitive with state-of-the-art task-specific models in many cases, but fail on tasks requiring fine-grained linguistic knowledge (e.g., conjunct identification). To investigate the transferability of contextual word representations, we quantify differences in the transferability of individual layers within contextualizers, especially between recurrent neural networks (RNNs) and transformers. For instance, higher layers of RNNs are more task-specific, while transformer layers do not exhibit the same monotonic trend. In addition, to better understand what makes contextual word representations transferable, we compare language model pretraining with eleven supervised pretraining tasks. For any given task, pretraining on a closely related task yields better performance than language model pretraining (which is better on average) when the pretraining dataset is fixed. However, language model pretraining on more data gives the best results. © 2019 Association for Computational Linguistics
+KW  - Multilayer neural networks
+KW  - Recurrent neural networks
+KW  - Contextual words
+KW  - Fine grained
+KW  - Language model
+KW  - Linguistic knowledge
+KW  - Monotonic trend
+KW  - Recurrent neural network (RNNs)
+KW  - State of the art
+KW  - Task-specific models
+KW  - Computational linguistics
+PB  - Association for Computational Linguistics (ACL)
+SN  - 978-195073713-0 (ISBN)
+LA  - English
+J2  - NAACL HLT - Conf. N. Am. Chapter Assoc. Comput. Linguistics: Hum. Lang. Technol. - Proc. Conf.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 420; Conference name: 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, NAACL HLT 2019; Conference date: 2 June 2019 through 7 June 2019; Conference code: 159851
+ER  -
+
+TY  - CONF
+AU  - Guo, Q.
+AU  - Qiu, X.
+AU  - Liu, P.
+AU  - Shao, Y.
+AU  - Xue, X.
+AU  - Zhang, Z.
+TI  - Star-transformer
+PY  - 2019
+T2  - NAACL HLT 2019 - 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies - Proceedings of the Conference
+VL  - 1
+SP  - 1315
+EP  - 1325
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85084287078&partnerID=40&md5=c8ebd55a81c9c9799aa985efba72a2be
+AD  - Shanghai Key Laboratory of Intelligent Information Processing, Fudan University, China
+AD  - School of Computer Science, Fudan University, China
+AD  - New York University, United States
+AB  - Although Transformer has achieved great successes on many NLP tasks, its heavy structure with fully-connected attention connections leads to dependencies on large training data. In this paper, we present Star-Transformer, a lightweight alternative by careful sparsification. To reduce model complexity, we replace the fully-connected structure with a star-shaped topology, in which every two non-adjacent nodes are connected through a shared relay node. Thus, complexity is reduced from quadratic to linear, while preserving the capacity to capture both local composition and long-range dependency. The experiments on four tasks (22 datasets) show that Star-Transformer achieved significant improvements against the standard Transformer for the modestly sized datasets. © 2019 Association for Computational Linguistics
+KW  - Computational linguistics
+KW  - Topology
+KW  - Adjacent nodes
+KW  - Connected structures
+KW  - Local compositions
+KW  - Long-range dependencies
+KW  - Model complexity
+KW  - Sparsification
+KW  - Star-shaped
+KW  - Training data
+KW  - Stars
+PB  - Association for Computational Linguistics (ACL)
+SN  - 978-195073713-0 (ISBN)
+LA  - English
+J2  - NAACL HLT - Conf. N. Am. Chapter Assoc. Comput. Linguistics: Hum. Lang. Technol. - Proc. Conf.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 145; Correspondence Address: X. Qiu; Shanghai Key Laboratory of Intelligent Information Processing, Fudan University, China; email: xpqiu@fudan.edu.cn; Conference name: 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, NAACL HLT 2019; Conference date: 2 June 2019 through 7 June 2019; Conference code: 159851
+ER  -
+
+TY  - CONF
+AU  - Michel, P.
+AU  - Levy, O.
+AU  - Neubig, G.
+TI  - Are sixteen heads really better than one?
+PY  - 2019
+T2  - Advances in Neural Information Processing Systems
+VL  - 32
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85086462845&partnerID=40&md5=1e2793f91021f33cad78362b32f5473d
+AD  - Language Technologies Institute, Carnegie Mellon University, Pittsburgh, PA, United States
+AD  - Facebook Artificial Intelligence Research, Seattle, WA, United States
+AB  - Attention is a powerful and ubiquitous mechanism for allowing neural models to focus on particular salient pieces of information by taking their weighted average when making predictions. In particular, multi-headed attention is a driving force behind many recent state-of-the-art natural language processing (NLP) models such as Transformer-based MT models and BERT. These models apply multiple attention mechanisms in parallel, with each attention “head” potentially focusing on different parts of the input, which makes it possible to express sophisticated functions beyond the simple weighted average. In this paper we make the surprising observation that even if models have been trained using multiple heads, in practice, a large percentage of attention heads can be removed at test time without significantly impacting performance. In fact, some layers can even be reduced to a single head. We further examine greedy algorithms for pruning down models, and the potential speed, memory efficiency, and accuracy improvements obtainable therefrom. Finally, we analyze the results with respect to which parts of the model are more reliant on having multiple heads, and provide precursory evidence that training dynamics play a role in the gains provided by multi-head attention1,. © 2019 Neural information processing systems foundation. All rights reserved.
+KW  - Statistical methods
+KW  - Accuracy Improvement
+KW  - Attention mechanisms
+KW  - Driving forces
+KW  - Greedy algorithms
+KW  - Memory efficiency
+KW  - NAtural language processing
+KW  - Neural models
+KW  - Weighted averages
+KW  - Natural language processing systems
+PB  - Neural information processing systems foundation
+SN  - 10495258 (ISSN)
+LA  - English
+J2  - Adv. neural inf. proces. syst.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 573; Conference name: 33rd Annual Conference on Neural Information Processing Systems, NeurIPS 2019; Conference date: 8 December 2019 through 14 December 2019; Conference code: 161263
+ER  -
+
+TY  - CONF
+AU  - Houlsby, N.
+AU  - Giurgiu, A.
+AU  - Jastrzçbski, S.
+AU  - Morrone, B.
+AU  - de Laroussilhe, Q.
+AU  - Gesmundo, A.
+AU  - Attariyan, M.
+AU  - Gelly, S.
+TI  - Parameter-efficient transfer learning for NLP
+PY  - 2019
+T2  - 36th International Conference on Machine Learning, ICML 2019
+VL  - 2019-June
+SP  - 4944
+EP  - 4953
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85074716916&partnerID=40&md5=7da55455678b47674c4a36eccdc5aa5b
+AD  - Google Research
+AD  - Jagiellonian University, Poland
+AB  - Fine-tuning large pre-trained models is an effective transfer mechanism in NLP. However, in the presence of many downstream tasks, fine-tuning is parameter inefficient: an entire new model is required for every task. As an alternative, we propose transfer with adapter modules. Adapter modules yield a compact and extensible model; they add only a few trainable parameters per task, and new tasks can be added without revisiting previous ones. The parameters of the original network remain fixed, yielding a high degree of parameter sharing. To demonstrate adapter's effectiveness, we transfer the recently proposed BERT Transformer model to 26 diverse text classification tasks, including the GLUE benchmark. Adapters attain near state-of-the-art performance, whilst adding only a few parameters per task. On GLUE, we attain within 0.4% of the performance of full fine-tuning, adding only 3.6% parameters per task. By contrast, fine-tuning trains 100% of the parameters per task. Copyright 2019 by the authors.
+KW  - Classification (of information)
+KW  - Glues
+KW  - Gluing
+KW  - Machine learning
+KW  - Natural language processing systems
+KW  - Fine tuning
+KW  - Parameter sharing
+KW  - State-of-the-art performance
+KW  - Text classification
+KW  - Transfer learning
+KW  - Transfer mechanisms
+KW  - Transformer modeling
+KW  - Text processing
+PB  - International Machine Learning Society (IMLS)
+SN  - 978-151088698-8 (ISBN)
+LA  - English
+J2  - Int. Conf. Mach. Learn., ICML
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 480; Correspondence Address: N. Houlsby; Google Research; email: neilhoulsby@google.com; Conference name: 36th International Conference on Machine Learning, ICML 2019; Conference date: 9 June 2019 through 15 June 2019; Conference code: 156104
+ER  -
+
+TY  - CONF
+AU  - Ghazvininejad, M.
+AU  - Levy, O.
+AU  - Liu, Y.
+AU  - Zettlemoyer, L.
+TI  - Mask-predict: Parallel decoding of conditional masked language models
+PY  - 2019
+T2  - EMNLP-IJCNLP 2019 - 2019 Conference on Empirical Methods in Natural Language Processing and 9th International Joint Conference on Natural Language Processing, Proceedings of the Conference
+SP  - 6112
+EP  - 6121
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85084305691&partnerID=40&md5=b69f7acba8e53f4e37c94a61d3881d34
+AD  - Facebook AI Research, Seattle, WA, United States
+AB  - Most machine translation systems generate text autoregressively from left to right. We, instead, use a masked language modeling objective to train a model to predict any subset of the target words, conditioned on both the input text and a partially masked target translation. This approach allows for efficient iterative decoding, where we first predict all of the target words non-autoregressively, and then repeatedly mask out and regenerate the subset of words that the model is least confident about. By applying this strategy for a constant number of iterations, our model improves state-of-the-art performance levels for non-autoregressive and parallel decoding translation models by over 4 BLEU on average. It is also able to reach within about 1 BLEU point of a typical left-to-right transformer model, while decoding significantly faster.1. © 2019 Association for Computational Linguistics
+KW  - Computational linguistics
+KW  - Computer aided language translation
+KW  - Forecasting
+KW  - Modeling languages
+KW  - Natural language processing systems
+KW  - Auto-regressive
+KW  - Least confidents
+KW  - Machine translation systems
+KW  - Number of iterations
+KW  - Parallel decoding
+KW  - State-of-the-art performance
+KW  - Transformer modeling
+KW  - Translation models
+KW  - Iterative decoding
+PB  - Association for Computational Linguistics
+SN  - 978-195073790-1 (ISBN)
+LA  - English
+J2  - EMNLP-IJCNLP - Conf. Empir. Methods Nat. Lang. Process. Int. Jt. Conf. Nat. Lang. Process., Proc. Conf.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 344; Conference name: 2019 Conference on Empirical Methods in Natural Language Processing and 9th International Joint Conference on Natural Language Processing, EMNLP-IJCNLP 2019; Conference date: 3 November 2019 through 7 November 2019; Conference code: 159367
+ER  -
+

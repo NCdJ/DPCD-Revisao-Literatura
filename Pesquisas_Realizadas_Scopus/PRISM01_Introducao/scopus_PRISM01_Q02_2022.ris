@@ -1,0 +1,435 @@
+﻿TY  - JOUR
+AU  - Petersson, L.
+AU  - Larsson, I.
+AU  - Nygren, J.M.
+AU  - Nilsen, P.
+AU  - Neher, M.
+AU  - Reed, J.E.
+AU  - Tyskbo, D.
+AU  - Svedberg, P.
+TI  - Challenges to implementing artificial intelligence in healthcare: a qualitative interview study with healthcare leaders in Sweden
+PY  - 2022
+T2  - BMC Health Services Research
+VL  - 22
+IS  - 1
+C7  - 850
+DO  - 10.1186/s12913-022-08215-8
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85133367171&doi=10.1186%2fs12913-022-08215-8&partnerID=40&md5=26965eb01d7d54b037c0ff980908aa54
+AD  - School of Health and Welfare, Halmstad University, Box 823, Halmstad, 301 18, Sweden
+AD  - Department of Health, Medicine and Caring Sciences, Division of Public Health, Faculty of Health Sciences, Linköping University, Linköping, Sweden
+AD  - Department of Rehabilitation, School of Health Sciences, Jönköping University, Jönköping, Sweden
+AB  - Background: Artificial intelligence (AI) for healthcare presents potential solutions to some of the challenges faced by health systems around the world. However, it is well established in implementation and innovation research that novel technologies are often resisted by healthcare leaders, which contributes to their slow and variable uptake. Although research on various stakeholders’ perspectives on AI implementation has been undertaken, very few studies have investigated leaders’ perspectives on the issue of AI implementation in healthcare. It is essential to understand the perspectives of healthcare leaders, because they have a key role in the implementation process of new technologies in healthcare. The aim of this study was to explore challenges perceived by leaders in a regional Swedish healthcare setting concerning the implementation of AI in healthcare. Methods: The study takes an explorative qualitative approach. Individual, semi-structured interviews were conducted from October 2020 to May 2021 with 26 healthcare leaders. The analysis was performed using qualitative content analysis, with an inductive approach. Results: The analysis yielded three categories, representing three types of challenge perceived to be linked with the implementation of AI in healthcare: 1) Conditions external to the healthcare system; 2) Capacity for strategic change management; 3) Transformation of healthcare professions and healthcare practice. Conclusions: In conclusion, healthcare leaders highlighted several implementation challenges in relation to AI within and beyond the healthcare system in general and their organisations in particular. The challenges comprised conditions external to the healthcare system, internal capacity for strategic change management, along with transformation of healthcare professions and healthcare practice. The results point to the need to develop implementation strategies across healthcare organisations to address challenges to AI-specific capacity building. Laws and policies are needed to regulate the design and execution of effective AI implementation strategies. There is a need to invest time and resources in implementation processes, with collaboration across healthcare, county councils, and industry partnerships. © 2022, The Author(s).
+KW  - Artificial intelligence
+KW  - Digital transformation
+KW  - Healthcare
+KW  - Healthcare leaders
+KW  - Implementation
+KW  - Organizational change
+KW  - Qualitative methods
+KW  - Stakeholders
+KW  - Artificial Intelligence
+KW  - Delivery of Health Care
+KW  - Health Facilities
+KW  - Humans
+KW  - Qualitative Research
+KW  - Sweden
+KW  - article
+KW  - artificial intelligence
+KW  - capacity building
+KW  - change management
+KW  - content analysis
+KW  - health care organization
+KW  - health care practice
+KW  - health care system
+KW  - leadership
+KW  - occupation
+KW  - qualitative analysis
+KW  - semi structured interview
+KW  - Sweden
+KW  - health care delivery
+KW  - health care facility
+KW  - human
+KW  - qualitative research
+KW  - Sweden
+PB  - BioMed Central Ltd
+SN  - 14726963 (ISSN)
+C2  - 35778736
+LA  - English
+J2  - BMC Health Serv. Res.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 116; Correspondence Address: L. Petersson; School of Health and Welfare, Halmstad University, Halmstad, Box 823, 301 18, Sweden; email: lena.petersson@hh.se
+ER  -
+
+TY  - CHAP
+AU  - Floridi, L.
+AU  - Cowls, J.
+TI  - A unified framework of five principles for AI in society
+PY  - 2022
+T2  - Machine Learning and the City: Applications in Architecture and Urban Design
+SP  - 535
+EP  - 545
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85141504141&partnerID=40&md5=264bc29f4a150c9814f88656320f72c2
+AD  - University of Oxford, United Kingdom
+AD  - Alan Turing Institute, United Kingdom
+AB  - Artificial intelligence (AI) is already having a major impact on society. In this chapter, the authors report the results of a fine-grained analysis of several of the highest-profile sets of ethical principles for AI. They assess whether these principles are convergent, with a set of agreed-upon principles, or divergent, with significant disagreement over what constitutes 'ethical AI'. The authors then identify an overarching framework consisting of five core principles for ethical AI. In the ensuing discussion, they note the limitations and assess the implications of this ethical framework for future efforts to create laws, rules, standards, and best practices for ethical AI in a wide range of contexts. The development and use of AI hold the potential for both positive and negative impact on society, to alleviate or to amplify existing inequalities, to cure old problems, or to cause new ones. © 2022 John Wiley & Sons, Inc. All rights reserved.
+KW  - Artificial intelligence
+KW  - Ethical principles
+KW  - Fine-grained analysis
+KW  - Highest-profile sets
+PB  - Wiley Blackwell
+SN  - 978-111981507-5 (ISBN); 978-111974963-9 (ISBN)
+LA  - English
+J2  - mach. Learning and the City: Applications in Architecture and urb. des.
+M3  - Book chapter
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 89
+ER  -
+
+TY  - JOUR
+AU  - Chu, C.H.
+AU  - Nyrup, R.
+AU  - Leslie, K.
+AU  - Shi, J.
+AU  - Bianchi, A.
+AU  - Lyn, A.
+AU  - McNicholl, M.
+AU  - Khan, S.
+AU  - Rahimi, S.
+AU  - Grenier, A.
+TI  - Digital Ageism: Challenges and Opportunities in Artificial Intelligence for Older Adults
+PY  - 2022
+T2  - Gerontologist
+VL  - 62
+IS  - 7
+SP  - 947
+EP  - 955
+DO  - 10.1093/geront/gnab167
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85129235014&doi=10.1093%2fgeront%2fgnab167&partnerID=40&md5=0425f26cc7529ab3de8a4a10c5ae82d2
+AD  - Lawrence S. Bloomberg Faculty of Nursing, University of Toronto, Toronto, ON, Canada
+AD  - Kite - Toronto Rehabilitation Institute, University Health Network, Toronto, ON, Canada
+AD  - Leverhulme Centre for the Future of Intelligence, University of Cambridge, Cambridge, United Kingdom
+AD  - Faculty of Health Disciplines, Athabasca University, Athabasca, AB, Canada
+AD  - Dalla Lana School of Public Health, University of Toronto, Toronto, ON, Canada
+AD  - University Health Network, Toronto, ON, Canada
+AD  - University of Cambridge, Cambridge, United Kingdom
+AD  - London School of Hygiene and Tropical Medicine, University of London, London, United Kingdom
+AD  - Institute of Biomedical Engineering, University of Toronto, Toronto, ON, Canada
+AD  - Department of Family Medicine, McGill University, Montreal, QC, Canada
+AD  - Mila - Quebec Ai Institute, Montréal, QC, Canada
+AD  - Factor-Inwentash Faculty of Social Work, University of Toronto, Toronto, ON, Canada
+AD  - Baycrest Hospital, Toronto, ON, Canada
+AB  - Artificial intelligence (AI) and machine learning are changing our world through their impact on sectors including health care, education, employment, finance, and law. AI systems are developed using data that reflect the implicit and explicit biases of society, and there are significant concerns about how the predictive models in AI systems amplify inequity, privilege, and power in society. The widespread applications of AI have led to mainstream discourse about how AI systems are perpetuating racism, sexism, and classism; yet, concerns about ageism have been largely absent in the AI bias literature. Given the globally aging population and proliferation of AI, there is a need to critically examine the presence of age-related bias in AI systems. This forum article discusses ageism in AI systems and introduces a conceptual model that outlines intersecting pathways of technology development that can produce and reinforce digital ageism in AI systems. We also describe the broader ethical and legal implications and considerations for future directions in digital ageism research to advance knowledge in the field and deepen our understanding of how ageism in AI is fostered by broader cycles of injustice. © 2022 The Author(s). Published by Oxford University Press on behalf of The Gerontological Society of America.
+KW  - Bias
+KW  - Gerontology
+KW  - Machine learning
+KW  - Technology
+KW  - Aged
+KW  - Ageism
+KW  - Artificial Intelligence
+KW  - Delivery of Health Care
+KW  - Humans
+KW  - Machine Learning
+KW  - Racism
+KW  - aged
+KW  - ageism
+KW  - aging
+KW  - artificial intelligence
+KW  - cell proliferation
+KW  - conceptual model
+KW  - female
+KW  - gerontology
+KW  - human
+KW  - human experiment
+KW  - machine learning
+KW  - male
+KW  - review
+KW  - artificial intelligence
+KW  - health care delivery
+KW  - machine learning
+KW  - racism
+PB  - Gerontological Society of America
+SN  - 00169013 (ISSN)
+C2  - 35048111
+LA  - English
+J2  - Gerontologist
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 80; Correspondence Address: C.H. Chu; Lawrence S. Bloomberg Faculty of Nursing, University of Toronto, Health Sciences Building, Toronto, 155 College Street, M5T 1P8, Canada; email: Charlene.chu@utoronto.ca; CODEN: GRNTA
+ER  -
+
+TY  - JOUR
+AU  - van Krieken, E.
+AU  - Acar, E.
+AU  - van Harmelen, F.
+TI  - Analyzing Differentiable Fuzzy Logic Operators
+PY  - 2022
+T2  - Artificial Intelligence
+VL  - 302
+C7  - 103602
+DO  - 10.1016/j.artint.2021.103602
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85120885333&doi=10.1016%2fj.artint.2021.103602&partnerID=40&md5=834405e7bf50124e10452001aaa40284
+AD  - Vrije Universiteit Amsterdam, Netherlands
+AD  - Civic AI Lab, Amsterdam, Netherlands
+AB  - The AI community is increasingly putting its attention towards combining symbolic and neural approaches, as it is often argued that the strengths and weaknesses of these approaches are complementary. One recent trend in the literature is weakly supervised learning techniques that employ operators from fuzzy logics. In particular, these use prior background knowledge described in such logics to help the training of a neural network from unlabeled and noisy data. By interpreting logical symbols using neural networks, this background knowledge can be added to regular loss functions, hence making reasoning a part of learning. We study, both formally and empirically, how a large collection of logical operators from the fuzzy logic literature behave in a differentiable learning setting. We find that many of these operators, including some of the most well-known, are highly unsuitable in this setting. A further finding concerns the treatment of implication in these fuzzy logics, and shows a strong imbalance between gradients driven by the antecedent and the consequent of the implication. Furthermore, we introduce a new family of fuzzy implications (called sigmoidal implications) to tackle this phenomenon. Finally, we empirically show that it is possible to use Differentiable Fuzzy Logics for semi-supervised learning, and compare how different operators behave in practice. We find that, to achieve the largest performance improvement over a supervised baseline, we have to resort to non-standard combinations of logical operators which perform well in learning, but no longer satisfy the usual logical laws. © 2021 The Author(s)
+KW  - Fuzzy logic
+KW  - Learning with constraints
+KW  - Neural-symbolic AI
+KW  - Computer circuits
+KW  - Fuzzy inference
+KW  - Fuzzy neural networks
+KW  - Background knowledge
+KW  - Community IS
+KW  - Fuzzy logic operators
+KW  - Fuzzy-Logic
+KW  - Learning with constraint
+KW  - Logical operators
+KW  - Neural-networks
+KW  - Neural-symbolic AI
+KW  - Recent trends
+KW  - Weakly supervised learning
+KW  - Supervised learning
+PB  - Elsevier B.V.
+SN  - 00043702 (ISSN)
+LA  - English
+J2  - Artif Intell
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 84; Correspondence Address: E. van Krieken; Vrije Universiteit Amsterdam, Netherlands; email: e.van.krieken@vu.nl; CODEN: AINTB
+ER  -
+
+TY  - JOUR
+AU  - Ras, G.
+AU  - Xie, N.
+AU  - van Gerven, M.
+AU  - Doran, D.
+TI  - Explainable Deep Learning: A Field Guide for the Uninitiated
+PY  - 2022
+T2  - Journal of Artificial Intelligence Research
+VL  - 73
+SP  - 329
+EP  - 396
+DO  - 10.1613/JAIR.1.13200
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85124994270&doi=10.1613%2fJAIR.1.13200&partnerID=40&md5=96e6162e9ec014d38963fd4dda76b293
+AD  - Donders Institute for Brain, Cognition and Behaviour, Radboud University Nijmegen, Nijmegen, 6525 HR, Netherlands
+AD  - Amazon Seattle, Washington, United States
+AD  - Tenet3, LLC, Dayton, OH, United States
+AB  - Deep neural networks (DNNs) are an indispensable machine learning tool despite the difficulty of diagnosing what aspects of a model’s input drive its decisions. In countless real-world domains, from legislation and law enforcement to healthcare, such diagnosis is essential to ensure that DNN decisions are driven by aspects appropriate in the context of its use. The development of methods and studies enabling the explanation of a DNN’s decisions has thus blossomed into an active and broad area of research. The field’s complexity is exacerbated by competing definitions of what it means “to explain” the actions of a DNN and to evaluate an approach’s “ability to explain”. This article offers a field guide to explore the space of explainable deep learning for those in the AI/ML field who are uninitiated. The field guide: i) Introduces three simple dimensions defining the space of foundational methods that contribute to explainable deep learning, ii) discusses the evaluations for model explanations, iii) places explainability in the context of other related deep learning research areas, and iv) discusses user-oriented explanation design and future directions. We hope the guide is seen as a starting point for those embarking on this research field. © 2022 AI Access Foundation. All rights reserved.
+KW  - Laws and legislation
+KW  - Active area
+KW  - Broad areas
+KW  - Real world domain
+KW  - Research areas
+KW  - Research fields
+KW  - Simple++
+KW  - User oriented
+KW  - Deep neural networks
+PB  - AI Access Foundation
+SN  - 10769757 (ISSN)
+LA  - English
+J2  - J Artif Intell Res
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 161; CODEN: JAIRF
+ER  -
+
+TY  - JOUR
+AU  - Kiseleva, A.
+AU  - Kotzinos, D.
+AU  - De Hert, P.
+TI  - Transparency of AI in Healthcare as a Multilayered System of Accountabilities: Between Legal Requirements and Technical Limitations
+PY  - 2022
+T2  - Frontiers in Artificial Intelligence
+VL  - 5
+C7  - 879603
+DO  - 10.3389/frai.2022.879603
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85132287233&doi=10.3389%2ffrai.2022.879603&partnerID=40&md5=1a01e44e768b85a42404c642f6761739
+AD  - LSTS Research Group (Law, Science, Technology and Society), Faculty of Law, Vrije Universiteit Brussels, Brussels, Belgium
+AD  - ETIS Research Lab, Faculity of Computer Science, CY Cergy Paris University, Cergy-Pontoise, France
+AB  - The lack of transparency is one of the artificial intelligence (AI)'s fundamental challenges, but the concept of transparency might be even more opaque than AI itself. Researchers in different fields who attempt to provide the solutions to improve AI's transparency articulate different but neighboring concepts that include, besides transparency, explainability and interpretability. Yet, there is no common taxonomy neither within one field (such as data science) nor between different fields (law and data science). In certain areas like healthcare, the requirements of transparency are crucial since the decisions directly affect people's lives. In this paper, we suggest an interdisciplinary vision on how to tackle the issue of AI's transparency in healthcare, and we propose a single point of reference for both legal scholars and data scientists on transparency and related concepts. Based on the analysis of the European Union (EU) legislation and literature in computer science, we submit that transparency shall be considered the “way of thinking” and umbrella concept characterizing the process of AI's development and use. Transparency shall be achieved through a set of measures such as interpretability and explainability, communication, auditability, traceability, information provision, record-keeping, data governance and management, and documentation. This approach to deal with transparency is of general nature, but transparency measures shall be always contextualized. By analyzing transparency in the healthcare context, we submit that it shall be viewed as a system of accountabilities of involved subjects (AI developers, healthcare professionals, and patients) distributed at different layers (insider, internal, and external layers, respectively). The transparency-related accountabilities shall be built-in into the existing accountability picture which justifies the need to investigate the relevant legal frameworks. These frameworks correspond to different layers of the transparency system. The requirement of informed medical consent correlates to the external layer of transparency and the Medical Devices Framework is relevant to the insider and internal layers. We investigate the said frameworks to inform AI developers on what is already expected from them with regards to transparency. We also discover the gaps in the existing legislative frameworks concerning AI's transparency in healthcare and suggest the solutions to fill them in. Copyright © 2022 Kiseleva, Kotzinos and De Hert.
+KW  - accountability
+KW  - artificial intelligence (AI)
+KW  - explainability
+KW  - healthcare
+KW  - informed medical consent
+KW  - interpretability
+KW  - medical devices
+KW  - transparency
+PB  - Frontiers Media S.A.
+SN  - 26248212 (ISSN)
+LA  - English
+J2  - Frontier. Artif. Intell.
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 67; Correspondence Address: A. Kiseleva; LSTS Research Group (Law, Science, Technology and Society), Faculty of Law, Vrije Universiteit Brussels, Brussels, Belgium; email: anastasiya.kiseleva@vub.be
+ER  -
+
+TY  - JOUR
+AU  - Devagiri, J.S.
+AU  - Paheding, S.
+AU  - Niyaz, Q.
+AU  - Yang, X.
+AU  - Smith, S.
+TI  - Augmented Reality and Artificial Intelligence in industry: Trends, tools, and future challenges
+PY  - 2022
+T2  - Expert Systems with Applications
+VL  - 207
+C7  - 118002
+DO  - 10.1016/j.eswa.2022.118002
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85133939651&doi=10.1016%2fj.eswa.2022.118002&partnerID=40&md5=09822ad9b075050dd57e6e59de25fbc3
+AD  - Department of Applied Computing, Michigan Technological University, 1400 Townsend Dr, Houghton, 49931, MI, United States
+AD  - Department of Electrical and Computer Engineering, Purdue University Northwest, 2200 169th Street Hammond, Hammond, 46323, IN, United States
+AD  - Department of Computer Science and Engineering, Fairfield University, 1073 North Benson Road, Fairfield, 06824, CT, United States
+AD  - Department of Cognitive and Learning Sciences, Michigan Technological University, 1400 Townsend Dr, Houghton, 49931, MI, United States
+AB  - Augmented Reality (AR) is an augmented depiction of reality formed by overlaying digital information on an image of objects being seen through a device. Artificial Intelligence (AI) techniques have experienced unprecedented growth and are being applied in various industries. The combination of AR and AI is the next prominent direction in upcoming years with many industries and academia recognizing the importance of their adoption. With the advancements in the silicone industry that push the boundaries of Moore's law, processors will be less expensive, more efficient, and power-optimized in the forthcoming years. This is a tremendous support and necessity for an AR boom, and with the help of AI, there is an excellent potential for smart industries to increase the production speed and workforce training along with improved manufacturing, error handling, assembly, and packaging. In this work, we provide a systematic review of recent advances, tools, techniques, and platforms of AI-empowered AR along with the challenges of using AI in AR applications. This paper will serve as a guideline for future research in the domain of AI-assisted AR in industrial applications. © 2022 Elsevier Ltd
+KW  - Artificial Intelligence
+KW  - Augmented Reality
+KW  - Deep learning
+KW  - Industrial applications
+KW  - Machine learning
+KW  - Deep learning
+KW  - Industrial research
+KW  - Learning systems
+KW  - Silicones
+KW  - Artificial intelligence techniques
+KW  - Deep learning
+KW  - Digital information
+KW  - Future challenges
+KW  - Industry trends
+KW  - Machine-learning
+KW  - Moore Law
+KW  - Power
+KW  - Production speed
+KW  - Workforce training
+KW  - Augmented reality
+PB  - Elsevier Ltd
+SN  - 09574174 (ISSN)
+LA  - English
+J2  - Expert Sys Appl
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 89; Correspondence Address: S. Paheding; Department of Applied Computing, Michigan Technological University, Houghton, 1400 Townsend Dr, 49931, United States; email: spahedin@mtu.edu; CODEN: ESAPE
+ER  -
+
+TY  - JOUR
+AU  - Salas-Pilco, S.Z.
+AU  - Yang, Y.
+TI  - Artificial intelligence applications in Latin American higher education: a systematic review
+PY  - 2022
+T2  - International Journal of Educational Technology in Higher Education
+VL  - 19
+IS  - 1
+C7  - 21
+DO  - 10.1186/s41239-022-00326-w
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85128251992&doi=10.1186%2fs41239-022-00326-w&partnerID=40&md5=eb9e5d513a122496aa9d7276cc207596
+AD  - Faculty of Artificial Intelligence in Education, Central China Normal University, No. 152 Luoyu Road, Hubei, Wuhan, 430079, China
+AD  - Faculty of Artificial Intelligence in Education, Hubei Research Center for Educational Informationization, Central China Normal University, No. 152 Luoyu Road, Hubei, Wuhan, 430079, China
+AB  - Over the last decade, there has been great research interest in the application of artificial intelligence (AI) in various fields, such as medicine, finance, and law. Recently, there has been a research focus on the application of AI in education, where it has great potential. Therefore, a systematic review of the literature on AI in education is therefore necessary. This article considers its usage and applications in Latin American higher education institutions. After identifying the studies dedicated to educational innovations brought about by the application of AI techniques, this review examines AI applications in three educational processes: learning, teaching, and administration. Each study is analyzed for the AI techniques used, such as machine learning, deep learning, and natural language processing, the AI tools and algorithms that are applied, and the main education topic. The results reveal that the main AI applications in education are: predictive modelling, intelligent analytics, assistive technology, automatic content analysis, and image analytics. It is further demonstrated that AI applications help to address important education issues (e.g., detecting students at risk of dropping out) and thereby contribute to ensuring quality education. Finally, the article presents the lessons learned from the review concerning the application of AI technologies in higher education in the Latin American context. © 2022, The Author(s).
+KW  - Algorithm
+KW  - Artificial intelligence (AI)
+KW  - Deep learning
+KW  - Higher education
+KW  - Latin America
+KW  - Machine learning
+KW  - Natural language processing
+KW  - Systematic review
+PB  - Springer Science and Business Media Deutschland GmbH
+SN  - 23659440 (ISSN)
+LA  - English
+J2  - Int. j. educ. technol. high. educ.
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 85; Correspondence Address: S.Z. Salas-Pilco; Faculty of Artificial Intelligence in Education, Central China Normal University, Wuhan, No. 152 Luoyu Road, Hubei, 430079, China; email: sdenkasp@ccnu.edu.cn; Y. Yang; Faculty of Artificial Intelligence in Education, Hubei Research Center for Educational Informationization, Central China Normal University, Wuhan, No. 152 Luoyu Road, Hubei, 430079, China; email: yangyuqin@ccnu.edu.cn
+ER  -
+
+TY  - JOUR
+AU  - Saura, J.R.
+AU  - Ribeiro-Soriano, D.
+AU  - Palacios-Marqués, D.
+TI  - Assessing behavioral data science privacy issues in government artificial intelligence deployment
+PY  - 2022
+T2  - Government Information Quarterly
+VL  - 39
+IS  - 4
+C7  - 101679
+DO  - 10.1016/j.giq.2022.101679
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85126151026&doi=10.1016%2fj.giq.2022.101679&partnerID=40&md5=b394efb88cef8c8bee0c7810059e44ca
+AD  - Rey Juan Carlos University, Madrid, Spain
+AD  - Universitat de Valencia, Valencia, Spain
+AD  - Universitat Politècnica de València, Valencia, Spain
+AB  - In today's global culture where the Internet has established itself as the main tool for communication and commerce, the capability to massively analyze and predict citizens' behavior has become a priority for governments in terms of collective intelligence and security. At the same time, in the context of novel possibilities that artificial intelligence (AI) brings to governments in terms of understanding and developing collective behavior analysis, important concerns related to citizens' privacy have emerged. In order to identify the main uses that governments make of AI and to define citizens' concerns about their privacy, in the present study, we undertook a systematic review of the literature, conducted in-depth interviews, and applied data-mining techniques. Based on our results, we classified and discussed the risks to citizens' privacy according to the types of AI strategies used by governments that may affect collective behavior and cause massive behavior modification. Our results revealed 11 uses of AI strategies used by the government to improve their interaction with citizens, organizations in cities, services provided by public institutions or the economy, among other areas. In relation to citizens' privacy when AI is used by governments, we identified 8 topics related to human behavior predictions, intelligence decision making, decision automation, digital surveillance, data privacy law and regulation, and the risk of behavior modification. The paper concludes with a discussion of the development of regulations focused on the ethical design of citizen data collection, where implications for governments are presented aimed at regulating security, ethics, and data privacy. Additionally, we propose a research agenda composed by 16 research questions to be investigated in further research. © 2022 The Authors
+KW  - Artificial intelligence
+KW  - Behavioral data sciences
+KW  - Collective behavior analysis
+KW  - Governments
+KW  - Privacy
+KW  - Surveillance capitalism
+PB  - Elsevier Ltd
+SN  - 0740624X (ISSN)
+LA  - English
+J2  - Gov. Inf. Q.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 108; Correspondence Address: J.R. Saura; Rey Juan Carlos University, Madrid, Spain; email: joseramon.saura@urjc.es; CODEN: GIQUE
+ER  -
+
+TY  - CONF
+AU  - Ganguli, D.
+AU  - Hernandez, D.
+AU  - Lovitt, L.
+AU  - Askell, A.
+AU  - Bai, Y.
+AU  - Chen, A.
+AU  - Conerly, T.
+AU  - Dassarma, N.
+AU  - Drain, D.
+AU  - Elhage, N.
+AU  - El Showk, S.
+AU  - Fort, S.
+AU  - Hatfield-Dodds, Z.
+AU  - Henighan, T.
+AU  - Johnston, S.
+AU  - Jones, A.
+AU  - Joseph, N.
+AU  - Kernian, J.
+AU  - Kravec, S.
+AU  - Mann, B.
+AU  - Nanda, N.
+AU  - Ndousse, K.
+AU  - Olsson, C.
+AU  - Amodei, D.
+AU  - Brown, T.
+AU  - Kaplan, J.
+AU  - McCandlish, S.
+AU  - Olah, C.
+AU  - Amodei, D.
+AU  - Clark, J.
+TI  - Predictability and Surprise in Large Generative Models
+PY  - 2022
+T2  - ACM International Conference Proceeding Series
+SP  - 1747
+EP  - 1764
+DO  - 10.1145/3531146.3533229
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85132979548&doi=10.1145%2f3531146.3533229&partnerID=40&md5=45263fe1306b40b1e4a5502b03332f04
+AD  - Anthropic, United States
+AB  - Large-scale pre-training has recently emerged as a technique for creating capable, general-purpose, generative models such as GPT-3, Megatron-Turing NLG, Gopher, and many others. In this paper, we highlight a counterintuitive property of such models and discuss the policy implications of this property. Namely, these generative models have a paradoxical combination of predictable loss on a broad training distribution (as embodied in their "scaling laws"), and unpredictable specific capabilities, inputs, and outputs. We believe that the high-level predictability and appearance of useful capabilities drives rapid development of such models, while the unpredictable qualities make it difficult to anticipate the consequences of model deployment. We go through examples of how this combination can lead to socially harmful behavior with examples from the literature and real world observations, and we also perform two novel experiments to illustrate our point about harms from unpredictability. Furthermore, we analyze how these conflicting properties combine to give model developers various motivations for deploying these models, and challenges that can hinder deployment. We conclude with a list of possible interventions the AI community may take to increase the chance of these models having a beneficial impact. We intend for this paper to be useful to policymakers who want to understand and regulate AI systems, technologists who care about the potential policy impact of their work, funders who want to support work addressing these challenges, and academics who want to analyze, critique, and potentially develop large generative models. © 2022 Owner/Author.
+KW  - Artificial intelligence
+KW  - AI systems
+KW  - Generative model
+KW  - Input and outputs
+KW  - Large-scales
+KW  - Policy implications
+KW  - Policy makers
+KW  - Pre-training
+KW  - Property
+KW  - Real-world
+KW  - Public policy
+PB  - Association for Computing Machinery
+SN  - 978-145039352-2 (ISBN)
+LA  - English
+J2  - ACM Int. Conf. Proc. Ser.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 91; Conference name: 5th ACM Conference on Fairness, Accountability, and Transparency, FAccT 2022; Conference date: 21 June 2022 through 24 June 2022; Conference code: 180210
+ER  -
+

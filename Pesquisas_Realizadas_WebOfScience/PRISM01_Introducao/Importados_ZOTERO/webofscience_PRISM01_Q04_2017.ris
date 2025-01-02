@@ -1,0 +1,54 @@
+﻿TY  - CPAPER
+AU  - Pritt, M
+AU  - Chern, G
+A1  - IEEE
+TI  - Satellite Image Classification with Deep Learning
+T2  - 2017 IEEE APPLIED IMAGERY PATTERN RECOGNITION WORKSHOP (AIPR)
+LA  - English
+CP  - IEEE Applied Imagery Pattern Recognition Workshop (AIPR)
+KW  - artificial intelligence
+KW  - AI
+KW  - deep learning
+KW  - machine learning
+KW  - image understanding
+KW  - recognition
+KW  - classification
+KW  - satellite imagery
+AB  - Satellite imagery is important for many applications including disaster response, law enforcement, and environmental monitoring. These applications require the manual identification of objects and facilities in the imagery. Because the geographic expanses to be covered are great and the analysts available to conduct the searches are few, automation is required. Yet traditional object detection and classification algorithms are too inaccurate and unreliable to solve the problem. Deep learning is a family of machine learning algorithms that have shown promise for the automation of such tasks. It has achieved success in image understanding by means of convolutional neural networks. In this paper we apply them to the problem of object and facility recognition in high-resolution, multi-spectral satellite imagery. We describe a deep learning system for classifying objects and facilities from the IARPA Functional Map of the World (fMoW) dataset into 63 different classes. The system consists of an ensemble of convolutional neural networks and additional neural networks that integrate satellite metadata with image features. It is implemented in Python using the Keras and TensorFlow deep learning libraries and runs on a Linux server with an NVIDIA Titan X graphics card. At the time of writing the system is in 2nd place in the fMoW TopCoder competition. Its total accuracy is 83% the F-1 score is 0.797, and it classifies 15 of the classes with accuracies of 95% or better.
+AD  - Lockheed Martin Space, Gaithersburg, MD 20879 USAAD  - Lockheed Martin Space, Palo Alto, CA USAFU  - Mission Systems Capabilities Director at Lockheed Martin
+FX  - We would like to acknowledge our YellowSubmarine teammates in the fMoW challenge, Brian Gonzalez and Ryan Soldin. We would also like to thank Girard Andres, Mission Systems Capabilities Director at Lockheed Martin, for sponsoring the team.
+PU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 1550-5219
+SN  - 978-1-5386-1235-4
+J9  - IEEE APP IMG PAT
+PY  - 2017
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000454739700035
+N1  - Times Cited in Web of Science Core Collection:  30
+Total Times Cited:  30
+Cited Reference Count:  28
+ER  -
+
+TY  - CPAPER
+AU  - Pagallo, U
+ED  - Sierra, C
+TI  - From Automation to Autonomous Systems: A Legal Phenomenology with Problems of Accountability
+T2  - PROCEEDINGS OF THE TWENTY-SIXTH INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE
+LA  - English
+CP  - 26th International Joint Conference on Artificial Intelligence (IJCAI)
+KW  - LAW
+AB  - Over the past decades a considerable amount of work has been devoted to the notion of autonomy and the intelligence of robots and of AI systems: depending on the application, several standards on the "levels of automation" have been proposed. Although current AI systems may have the intelligence of a fridge, or of a toaster, some of such autonomous systems have already challenged basic pillars of society and the law, e.g. whether lethal force should ever be permitted to be "fully automated." The aim of this paper is to show that the normative challenges of AI entail different types of accountability that go hand-in-hand with choices of technological dependence, delegation of cognitive tasks, and trust. The stronger the social cohesion is, the higher the risks that can be socially accepted through the normative assessment of the not fully predictable consequences of tasks and decisions entrusted to AI systems and artificial agents.
+AD  - Univ Turin, Law Sch, Turin, ItalyC3  - University of TurinPU  - IJCAI-INT JOINT CONF ARTIF INTELL
+PI  - FREIBURG
+PA  - ALBERT-LUDWIGS UNIV FREIBURG GEORGES-KOHLER-ALLEE, INST INFORMATIK, GEB 052, FREIBURG, D-79110, GERMANY
+SN  - 978-0-9992411-0-3
+PY  - 2017
+SP  - 17
+EP  - 23
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000764137500003
+N1  - Times Cited in Web of Science Core Collection:  16
+Total Times Cited:  17
+Cited Reference Count:  28
+ER  -
+

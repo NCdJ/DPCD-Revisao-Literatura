@@ -1,0 +1,375 @@
+﻿TY  - CPAPER
+AU  - Hatamizadeh, A
+AU  - Tang, YC
+AU  - Nath, V
+AU  - Yang, D
+AU  - Myronenko, A
+AU  - Landman, B
+AU  - Roth, HR
+AU  - Xu, DG
+A1  - IEEE Comp Soc
+TI  - UNETR: Transformers for 3D Medical Image Segmentation
+T2  - 2022 IEEE WINTER CONFERENCE ON APPLICATIONS OF COMPUTER VISION (WACV 2022)
+LA  - English
+CP  - 22nd IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
+AB  - Fully Convolutional Neural Networks (FCNNs) with contracting and expanding paths have shown prominence for the majority of medical image segmentation applications since the past decade. In FCNNs, the encoder plays an integral role by learning both global and local features and contextual representations which can be utilized for semantic output prediction by the decoder. Despite their success, the locality of convolutional layers in FCNNs, limits the capability of learning long-range spatial dependencies. Inspired by the recent success of transformers for Natural Language Processing (NLP) in long-range sequence learning, we reformulate the task of volumetric (3D) medical image segmentation as a sequence-to-sequence prediction problem. We introduce a novel architecture, dubbed as UNEt TRansformers (UNETR), that utilizes a transformer as the encoder to learn sequence representations of the input volume and effectively capture the global multi-scale information, while also following the successful "U-shaped" network design for the encoder and decoder. The transformer encoder is directly connected to a decoder via skip connections at different resolutions to compute the final semantic segmentation output. We have validated the performance of our method on the Multi Atlas Labeling Beyond The Cranial Vault (BTCV) dataset for multi-organ segmentation and the Medical Segmentation Decathlon (MSD) dataset for brain tumor and spleen segmentation tasks. Our benchmarks demonstrate new state-of-the-art peiformarce on the BTCV leaderboard.
+AD  - NVIDIA, Santa Clara, CA 95051 USAAD  - Vanderbilt Univ, 221 Kirkland Hall, Nashville, TN 37235 USAC3  - Nvidia CorporationC3  - Vanderbilt UniversityPU  - IEEE COMPUTER SOC
+PI  - LOS ALAMITOS
+PA  - 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1264 USA
+SN  - 2472-6737
+SN  - 978-1-6654-0915-5
+J9  - IEEE WINT CONF APPL
+PY  - 2022
+SP  - 1748
+EP  - 1758
+DO  - 10.1109/WACV51458.2022.00181
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000800471201080
+N1  - Times Cited in Web of Science Core Collection:  1036
+Total Times Cited:  1083
+Cited Reference Count:  54
+ER  -
+
+TY  - CPAPER
+AU  - Hatamizadeh, A
+AU  - Nath, V
+AU  - Tang, YC
+AU  - Yang, D
+AU  - Roth, HR
+AU  - Xu, DG
+ED  - Crimi, A
+ED  - Bakas, S
+TI  - Swin UNETR: Swin Transformers for Semantic Segmentation of Brain Tumors in MRI Images
+T2  - BRAINLESION: GLIOMA, MULTIPLE SCLEROSIS, STROKE AND TRAUMATIC BRAIN INJURIES, BRAINLES 2021, PT I
+LA  - English
+CP  - 7th International Brain Lesion Workshop (BrainLes)
+KW  - Image segmentation
+KW  - Vision transformer
+KW  - Swin transformer
+KW  - UNETR
+KW  - Swin UNETR
+KW  - BRATS
+KW  - Brain tumor segmentation
+KW  - CLASSIFICATION
+AB  - Semantic segmentation of brain tumors is a fundamental medical image analysis task involving multiple MRI imaging modalities that can assist clinicians in diagnosing the patient and successively studying the progression of the malignant entity. In recent years, Fully Convolutional Neural Networks (FCNNs) approaches have become the de facto standard for 3D medical image segmentation. The popular "U-shaped" network architecture has achieved state-of-the-art performance benchmarks on different 2D and 3D semantic segmentation tasks and across various imaging modalities. However, due to the limited kernel size of convolution layers in FCNNs, their performance of modeling long-range information is sub-optimal, and this can lead to deficiencies in the segmentation of tumors with variable sizes. On the other hand, transformer models have demonstrated excellent capabilities in capturing such long-range information in multiple domains, including natural language processing and computer vision. Inspired by the success of vision transformers and their variants, we propose a novel segmentation model termed Swin UNEt TRansformers (Swin UNETR). Specifically, the task of 3D brain tumor semantic segmentation is reformulated as a sequence to sequence prediction problem wherein multi-modal input data is projected into a 1D sequence of embedding and used as an input to a hierarchical Swin transformer as the encoder. The swin transformer encoder extracts features at five different resolutions by utilizing shifted windows for computing self-attention and is connected to an FCNN-based decoder at each resolution via skip connections. We have participated in BraTS 2021 segmentation challenge, and our proposed model ranks among the top-performing approaches in the validation phase.
+   Code: https://monai.io/research/swin-unetr.
+AD  - NVIDIA, Santa Clara, CA 95051 USAAD  - Vanderbilt Univ, 221 Kirkland Hall, Nashville, TN 37235 USAC3  - Nvidia CorporationC3  - Vanderbilt UniversityPU  - SPRINGER INTERNATIONAL PUBLISHING AG
+PI  - CHAM
+PA  - GEWERBESTRASSE 11, CHAM, CH-6330, SWITZERLAND
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 978-3-031-08999-2
+SN  - 978-3-031-08998-5
+J9  - LECT NOTES COMPUT SC
+PY  - 2022
+VL  - 12962
+SP  - 272
+EP  - 284
+DO  - 10.1007/978-3-031-08999-2_22
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000878434800022
+N1  - Times Cited in Web of Science Core Collection:  463
+Total Times Cited:  475
+Cited Reference Count:  41
+ER  -
+
+TY  - CPAPER
+AU  - Pang, Y
+AU  - Wang, W
+AU  - Tay, FEH
+AU  - Liu, W
+AU  - Tian, Y
+AU  - Yuan, L
+ED  - Avidan, S
+ED  - Brostow, G
+ED  - Cisse, M
+ED  - Farinella, GM
+ED  - Hassner, T
+TI  - Masked Autoencoders for Point Cloud Self-supervised Learning
+T2  - COMPUTER VISION - ECCV 2022, PT II
+LA  - English
+CP  - 17th European Conference on Computer Vision (ECCV)
+KW  - NETWORK
+AB  - As a promising scheme of self-supervised learning, masked autoencoding has significantly advanced natural language processing and computer vision. Inspired by this, we propose a neat scheme of masked autoencoders for point cloud self-supervised learning, addressing the challenges posed by point cloud's properties, including leakage of location information and uneven information density. Concretely, we divide the input point cloud into irregular point patches and randomly mask them at a high ratio. Then, a standard Transformer based autoencoder, with an asymmetric design and a shifting mask tokens operation, learns high-level latent features from unmasked point patches, aiming to reconstruct the masked point patches. Extensive experiments show that our approach is efficient during pre-training and generalizes well on various downstream tasks. The pre-trained models achieve 85.18% accuracy on ScanObjectNN and 94.04% accuracy on ModelNet40, outperforming all the other self-supervised learning methods. We show with our scheme, a simple architecture entirely based on standard Transformers can surpass dedicated Transformer models from supervised learning. Our approach also advances state-of-the-art accuracies by 1.5%-2.3% in the few-shot classification. Furthermore, our work inspires the feasibility of applying unified architectures from languages and images to the point cloud. Codes are available at https://github.com/Pang-Yatian/Point-MAE.
+AD  - Peking Univ, Sch Elect & Comp Engn, Beijing, Peoples R ChinaAD  - Natl Univ Singapore, Singapore, SingaporeAD  - Zhejiang Univ, Hangzhou, Peoples R ChinaAD  - Tencent Data Platform, Shenzhen, Peoples R ChinaAD  - PengCheng Lab, Shenzhen, Peoples R ChinaC3  - Peking UniversityC3  - National University of SingaporeC3  - Zhejiang UniversityFU  - PKU-Shenzhen Start-Up Research Fund [1270110283]; PengCheng Laboratory
+FX  - This work was supported in part by PKU-Shenzhen Start-Up Research Fund (1270110283) and PengCheng Laboratory.
+PU  - SPRINGER INTERNATIONAL PUBLISHING AG
+PI  - CHAM
+PA  - GEWERBESTRASSE 11, CHAM, CH-6330, SWITZERLAND
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 978-3-031-20085-4
+SN  - 978-3-031-20086-1
+J9  - LECT NOTES COMPUT SC
+PY  - 2022
+VL  - 13662
+SP  - 604
+EP  - 621
+DO  - 10.1007/978-3-031-20086-1_35
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000899248700035
+N1  - Times Cited in Web of Science Core Collection:  144
+Total Times Cited:  147
+Cited Reference Count:  61
+ER  -
+
+TY  - JOUR
+AU  - Liu, S
+AU  - Liu, SQ
+AU  - Liu, Z
+AU  - Peng, X
+AU  - Yang, ZK
+TI  - Automated detection of emotional and cognitive engagement in MOOC discussions to predict learning achievement
+T2  - COMPUTERS & EDUCATION
+LA  - English
+KW  - Cooperative/collaborative learning
+KW  - Distance education and online learning
+KW  - Data science applications in education
+KW  - Evaluation methodologies
+KW  - 21st century abilities
+KW  - RELATIVE INCIDENCE
+KW  - AFFECTIVE STATES
+KW  - ONLINE
+AB  - In the MOOC forum discussions, emotional and cognitive engagement are two prominent aspects of learning engagement. Moreover, emotional and cognitive engagement have an interactive relationship and can jointly predict learning achievement. However, these interwoven relation-ships have not been thoroughly explored. Furthermore, the limitations on detection methods for emotional and cognitive engagement have hindered the practice and theory progress. This study aimed to develop a novel text classification model to automatically detect emotional and cognitive engagement and investigate their complex relationships with achievement, which are beneficial for improving learning engagement and historically low completion rates of MOOCs. Firstly, this study proposed a robust and interpretable NLP model called the bidirectional encoder representation from the transformers-convolutional neural network (BERT-CNN). Compared with models in previous studies, it improved the F1 values of emotional and cognitive engagement recognition tasks by 10% and 8%, respectively. Secondly, this study used BERT-CNN to analyze 8867 learners' discussions in a MOOC forum. Structural equation modeling indicated that emotional and cognitive engagement have an interactive relationship and a combined effect on learning achievement. Specifically, positive and confused emotions contributed more to higher -level cognition than negative emotions. Co-occurring emotion and cognition indicators jointly predicted learning achievement with higher reliability. In summary, this study has significant methodological implications for the automated measurement of emotional and cognitive engagement. Moreover, the study revealed the dominant role of emotional engagement on cognitive engagement and provided suggestions for improving MOOC learners' achievement.
+AD  - Cent China Normal Univ, Fac Artificial Intelligence Educ, Natl Engn Lab Educ Big Data, Wuhan, Peoples R ChinaAD  - Cent China Normal Univ, Fac Artificial Intelligence Educ, Natl Engn Res Ctr E Learning, Wuhan, Peoples R ChinaC3  - Central China Normal UniversityC3  - Central China Normal UniversityFU  - National Natural Science Foundation of China [61977030, 62077017, 61937001, 62107016]; Humanities and Social Sciences Foundation of the Ministry of Education [21YJC880057]; Hubei Pro-vincial Natural Science Foundation of China [2021CFB140]; Self-determined Research Funds of CCNU from the Colleges' Basic Research and Operation of MOE Fundamental Research Funds of the Central Universities [CCNU20TS032, 30106200548, CCNU19ZN012]
+FX  - This work was supported by the National Natural Science Foundation of China (Grant Nos. 61977030, 62077017, 61937001, 62107016) , the Humanities and Social Sciences Foundation of the Ministry of Education (Grant No. 21YJC880057) , the Hubei Pro-vincial Natural Science Foundation of China (Grant No. 2021CFB140) , and the Self-determined Research Funds of CCNU from the Colleges' Basic Research and Operation of MOE Fundamental Research Funds of the Central Universities (Grant Nos. CCNU20TS032, 30106200548, CCNU19ZN012) .
+PU  - PERGAMON-ELSEVIER SCIENCE LTD
+PI  - OXFORD
+PA  - THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN  - 0360-1315
+SN  - 1873-782X
+J9  - COMPUT EDUC
+JI  - Comput. Educ.
+DA  - MAY
+PY  - 2022
+VL  - 181
+C7  - 104461
+DO  - 10.1016/j.compedu.2022.104461
+C6  - FEB 2022
+WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:000793263700008
+N1  - Times Cited in Web of Science Core Collection:  111
+Total Times Cited:  111
+Cited Reference Count:  63
+ER  -
+
+TY  - JOUR
+AU  - Liang, DK
+AU  - Chen, XW
+AU  - Xu, W
+AU  - Zhou, Y
+AU  - Bai, X
+TI  - TransCrowd: weakly-supervised crowd counting with transformers
+T2  - SCIENCE CHINA-INFORMATION SCIENCES
+LA  - English
+KW  - crowd counting
+KW  - visual transformer
+KW  - weakly supervised
+KW  - crowd analysis
+KW  - transformer
+KW  - SCALE
+AB  - The mainstream crowd counting methods usually utilize the convolution neural network (CNN) to regress a density map, requiring point-level annotations. However, annotating each person with a point is an expensive and laborious process. During the testing phase, the point-level annotations are not considered to evaluate the counting accuracy, which means the point-level annotations are redundant. Hence, it is desirable to develop weakly-supervised counting methods that just rely on count-level annotations, a more economical way of labeling. Current weakly-supervised counting methods adopt the CNN to regress a total count of the crowd by an image-to-count paradigm. However, having limited receptive fields for context modeling is an intrinsic limitation of these weakly-supervised CNN-based methods. These methods thus cannot achieve satisfactory performance, with limited applications in the real world. The transformer is a popular sequence-to-sequence prediction model in natural language processing (NLP), which contains a global receptive field. In this paper, we propose TransCrowd, which reformulates the weakly-supervised crowd counting problem from the perspective of sequence-to-count based on transformers. We observe that the proposed TransCrowd can effectively extract the semantic crowd information by using the self-attention mechanism of transformer. To the best of our knowledge, this is the first work to adopt a pure transformer for crowd counting research. Experiments on five benchmark datasets demonstrate that the proposed TransCrowd achieves superior performance compared with all the weakly-supervised CNN-based counting methods and gains highly competitive counting performance compared with some popular fully-supervised counting methods.
+AD  - Huazhong Univ Sci & Technol, Sch Artificial Intelligence & Automat, Wuhan 430074, Peoples R ChinaAD  - Huazhong Univ Sci & Technol, Sch Elect Informat & Commun, Wuhan 430074, Peoples R ChinaAD  - Beijing Univ Posts & Telecommun, Sch Artificial Intelligence, Beijing 100876, Peoples R ChinaC3  - Huazhong University of Science & TechnologyC3  - Huazhong University of Science & TechnologyC3  - Beijing University of Posts & TelecommunicationsFU  - National Key R&D Program of China [2018YFB1004600]
+FX  - This work was supported by National Key R&D Program of China (Grant No. 2018YFB1004600).
+PU  - SCIENCE PRESS
+PI  - BEIJING
+PA  - 16 DONGHUANGCHENGGEN NORTH ST, BEIJING 100717, PEOPLES R CHINA
+SN  - 1674-733X
+SN  - 1869-1919
+J9  - SCI CHINA INFORM SCI
+JI  - Sci. China-Inf. Sci.
+DA  - JUN
+PY  - 2022
+VL  - 65
+IS  - 6
+C7  - 160104
+DO  - 10.1007/s11432-021-3445-y
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000789816900002
+N1  - Times Cited in Web of Science Core Collection:  101
+Total Times Cited:  107
+Cited Reference Count:  70
+ER  -
+
+TY  - JOUR
+AU  - Kalyan, KS
+AU  - Rajasekharan, A
+AU  - Sangeetha, S
+TI  - AMMU: A survey of transformer-based biomedical pretrained language models
+T2  - JOURNAL OF BIOMEDICAL INFORMATICS
+LA  - English
+KW  - Biomedical pretrained language models
+KW  - BioBERT
+KW  - Survey
+KW  - PubMedBERT
+KW  - Transformers
+KW  - Self-supervised learning
+KW  - ELECTRONIC HEALTH RECORDS
+KW  - CORPUS
+KW  - RECOGNITION
+KW  - EXTRACTION
+KW  - DOMAIN
+AB  - Transformer-based pretrained language models (PLMs) have started a new era in modern natural language processing (NLP). These models combine the power of transformers, transfer learning, and self-supervised learning (SSL). Following the success of these models in the general domain, the biomedical research commu-nity has developed various in-domain PLMs starting from BioBERT to the latest BioELECTRA and BioALBERT models. We strongly believe there is a need for a survey paper that can provide a comprehensive survey of various transformer-based biomedical pretrained language models (BPLMs). In this survey, we start with a brief overview of foundational concepts like self-supervised learning, embedding layer and transformer encoder layers. We discuss core concepts of transformer-based PLMs like pretraining methods, pretraining tasks, fine-tuning methods, and various embedding types specific to biomedical domain. We introduce a taxonomy for transformer-based BPLMs and then discuss all the models. We discuss various challenges and present possible solutions. We conclude by highlighting some of the open issues which will drive the research community to further improve transformer-based BPLMs. The list of all the publicly available transformer-based BPLMs along with their links is provided at https://mr-nlp.github.io/posts/2021/05/transformer-based-biomedical-pretra ined-language-models-list/.
+AD  - NIT Trichy, Dept Comp Applicat, Tiruchirappalli 620015, IndiaAD  - Nference ai, Cambridge, MA 02142 USAC3  - National Institute of Technology (NIT System)C3  - National Institute of Technology TiruchirappalliPU  - ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI  - SAN DIEGO
+PA  - 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN  - 1532-0464
+SN  - 1532-0480
+J9  - J BIOMED INFORM
+JI  - J. Biomed. Inform.
+DA  - FEB
+PY  - 2022
+VL  - 126
+C7  - 103982
+DO  - 10.1016/j.jbi.2021.103982
+C6  - JAN 2022
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000742136900002
+N1  - Times Cited in Web of Science Core Collection:  68
+Total Times Cited:  68
+Cited Reference Count:  215
+ER  -
+
+TY  - JOUR
+AU  - Tummala, S
+AU  - Kadry, S
+AU  - Bukhari, SAC
+AU  - Rauf, HT
+TI  - Classification of Brain Tumor from Magnetic Resonance Imaging Using Vision Transformers Ensembling
+T2  - CURRENT ONCOLOGY
+LA  - English
+KW  - brain tumor
+KW  - MRI
+KW  - diagnosis
+KW  - vision transformer
+AB  - The automated classification of brain tumors plays an important role in supporting radiologists in decision making. Recently, vision transformer (ViT)-based deep neural network architectures have gained attention in the computer vision research domain owing to the tremendous success of transformer models in natural language processing. Hence, in this study, the ability of an ensemble of standard ViT models for the diagnosis of brain tumors from T1-weighted (T1w) magnetic resonance imaging (MRI) is investigated. Pretrained and finetuned ViT models (B/16, B/32, L/16, and L/32) on ImageNet were adopted for the classification task. A brain tumor dataset from figshare, consisting of 3064 T1w contrast-enhanced (CE) MRI slices with meningiomas, gliomas, and pituitary tumors, was used for the cross-validation and testing of the ensemble ViT model's ability to perform a three-class classification task. The best individual model was L/32, with an overall test accuracy of 98.2% at 384 x 384 resolution. The ensemble of all four ViT models demonstrated an overall testing accuracy of 98.7% at the same resolution, outperforming individual model's ability at both resolutions and their ensembling at 224 x 224 resolution. In conclusion, an ensemble of ViT models could be deployed for the computer-aided diagnosis of brain tumors based on T1w CE MRI, leading to radiologist relief.
+AD  - SRM Univ AP, Sch Engn & Sci, Dept Elect & Commun Engn, Amaravati 522503, IndiaAD  - Noroff Univ Coll, Dept Appl Data Sci, N-4612 Kristiansand, NorwayAD  - Lebanese Amer Univ, Dept Elect & Comp Engn, POB 36, Byblos, LebanonAD  - Ajman Univ, Coll Engn & Informat Technol, Artificial Intelligence Res Ctr AIRC, Ajman 346, U Arab EmiratesAD  - St Johns Univ, Div Comp Sci Math & Sci, Collins Coll Profess Studies, New York, NY 11439 USAAD  - Staffordshire Univ, Ctr Smart Syst AI & Cybersecur, Stoke On Trent ST4 2DE, Staffs, EnglandC3  - SRM University-APC3  - Lebanese American UniversityC3  - Ajman UniversityC3  - Saint John's UniversityC3  - Staffordshire UniversityPU  - MDPI
+PI  - BASEL
+PA  - ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN  - 1198-0052
+SN  - 1718-7729
+J9  - CURR ONCOL
+JI  - Curr. Oncol.
+DA  - OCT
+PY  - 2022
+VL  - 29
+IS  - 10
+SP  - 7498
+EP  - 7511
+DO  - 10.3390/curroncol29100590
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000872561600001
+N1  - Times Cited in Web of Science Core Collection:  67
+Total Times Cited:  69
+Cited Reference Count:  50
+ER  -
+
+TY  - JOUR
+AU  - Ferruz, N
+AU  - Höcker, B
+TI  - Controllable protein design with language models
+T2  - NATURE MACHINE INTELLIGENCE
+LA  - English
+KW  - MUTATIONS
+KW  - EVOLUTION
+AB  - Both proteins and natural language are essentially based on a sequential code, but feature complex interactions at multiple scales, which can be useful when transferring machine learning models from one domain to another. In this Review, Ferruz and Hocker summarize recent advances in language models, such as transformers, and their application to protein design.
+   The twenty-first century is presenting humankind with unprecedented environmental and medical challenges. The ability to design novel proteins tailored for specific purposes would potentially transform our ability to respond to these issues in a timely manner. Recent advances in the field of artificial intelligence are now setting the stage to make this goal achievable. Protein sequences are inherently similar to natural languages: amino acids arrange in a multitude of combinations to form structures that carry function, the same way as letters form words and sentences carry meaning. Accordingly, it is not surprising that, throughout the history of natural language processing (NLP), many of its techniques have been applied to protein research problems. In the past few years we have witnessed revolutionary breakthroughs in the field of NLP. The implementation of transformer pre-trained models has enabled text generation with human-like capabilities, including texts with specific properties such as style or subject. Motivated by its considerable success in NLP tasks, we expect dedicated transformers to dominate custom protein sequence generation in the near future. Fine-tuning pre-trained models on protein families will enable the extension of their repertoires with novel sequences that could be highly divergent but still potentially functional. The combination of control tags such as cellular compartment or function will further enable the controllable design of novel protein functions. Moreover, recent model interpretability methods will allow us to open the 'black box' and thus enhance our understanding of folding principles. Early initiatives show the enormous potential of generative language models to design functional sequences. We believe that using generative text models to create novel proteins is a promising and largely unexplored field, and we discuss its foreseeable impact on protein design.
+AD  - Univ Bayreuth, Dept Biochem, Bayreuth, GermanyAD  - Univ Girona, Inst Informat & Applicat, Girona, SpainC3  - University of BayreuthC3  - Universitat de GironaFU  - AGAUR Beatriu de Pinos MSCA-COFUND Fellowship [2020-BP-00130]
+FX  - N.F. acknowledges support from an AGAUR Beatriu de Pinos MSCA-COFUND Fellowship (project 2020-BP-00130).
+PU  - NATURE PORTFOLIO
+PI  - BERLIN
+PA  - HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN  - 2522-5839
+J9  - NAT MACH INTELL
+JI  - Nat. Mach. Intell.
+DA  - JUN
+PY  - 2022
+VL  - 4
+IS  - 6
+SP  - 521
+EP  - 532
+DO  - 10.1038/s42256-022-00499-z
+C6  - JUN 2022
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000814485300002
+N1  - Times Cited in Web of Science Core Collection:  67
+Total Times Cited:  73
+Cited Reference Count:  98
+ER  -
+
+TY  - JOUR
+AU  - Geneva, N
+AU  - Zabaras, N
+TI  - Transformers for modeling physical systems
+T2  - NEURAL NETWORKS
+LA  - English
+KW  - Transformers
+KW  - Deep learning
+KW  - Self-attention
+KW  - Physics
+KW  - Koopman
+KW  - Surrogate modeling
+KW  - ENCODER-DECODER NETWORKS
+KW  - SHORT-TERM-MEMORY
+KW  - NEURAL-NETWORK
+KW  - DYNAMICAL-SYSTEMS
+KW  - GAUSSIAN PROCESS
+KW  - IDENTIFICATION
+KW  - EFFICIENT
+AB  - Transformers are widely used in natural language processing due to their ability to model longer-term dependencies in text. Although these models achieve state-of-the-art performance for many language related tasks, their applicability outside of the natural language processing field has been minimal. In this work, we propose the use of transformer models for the prediction of dynamical systems representative of physical phenomena. The use of Koopman based embeddings provides a unique and powerful method for projecting any dynamical system into a vector representation which can then be predicted by a transformer. The proposed model is able to accurately predict various dynamical systems and outperform classical methods that are commonly used in the scientific machine learning literature. (C) 2021 Elsevier Ltd. All rights reserved.
+AD  - Univ Notre Dame, Sci Comp & Artificial Intelligence SCAI Lab, 311 Cushing Hall, Notre Dame, IN 46556 USAC3  - University of Notre DameFU  - Defense Advanced Research Projects Agency (DARPA) under the Physics of Artificial Intel-ligence (PAI) program [HR00111890034]; National Science Foundation (NSF) , USA [DGE-1313583]
+FX  - The anonymous reviewers are thanked for their significant effort in improving and clarifying this manuscript. The work reported here was initiated from the Defense Advanced Research Projects Agency (DARPA) under the Physics of Artificial Intel-ligence (PAI) program (contract HR00111890034) . The authors acknowledge computing resources provided by the AFOSR Office of Scientific Research through the DURIP program and by the University of Notre Dame's Center for Research Computing (CRC) . The work of NG was supported by the National Science Foundation (NSF) , USA Graduate Research Fellowship Program grant No. DGE-1313583.
+PU  - PERGAMON-ELSEVIER SCIENCE LTD
+PI  - OXFORD
+PA  - THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN  - 0893-6080
+SN  - 1879-2782
+J9  - NEURAL NETWORKS
+JI  - Neural Netw.
+DA  - FEB
+PY  - 2022
+VL  - 146
+SP  - 272
+EP  - 289
+DO  - 10.1016/j.neunet.2021.11.022
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000799116300009
+N1  - Times Cited in Web of Science Core Collection:  67
+Total Times Cited:  73
+Cited Reference Count:  73
+ER  -
+
+TY  - JOUR
+AU  - Meng, XC
+AU  - Wang, N
+AU  - Shao, F
+AU  - Li, ST
+TI  - Vision Transformer for Pansharpening
+T2  - IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING
+LA  - English
+KW  - Transformers
+KW  - Pansharpening
+KW  - Lenses
+KW  - Task analysis
+KW  - Wavelet transforms
+KW  - Training
+KW  - Standards
+KW  - Deep learning (DL)
+KW  - pansharpening
+KW  - self-attention
+KW  - transformer
+KW  - FUSION
+KW  - QUALITY
+KW  - IMAGES
+KW  - NETWORK
+AB  - Pansharpening is a fundamental and hot-spot research topic in remote sensing image fusion. In recent years, self-attention-based transformer has attracted considerable attention in natural language processing (NLP) and introduced to attend to computer vision (CV) tasks. Inspired by great success of the vision transformer (ViT) in image classification, we propose an improved and advanced purely transformer-based model for pansharpening. In the proposed method, stacked multispectral (MS) and panchromatic (PAN) images are cropped into patches (i.e., tokens), and after a three-layer self-attention-based encoder, these tokens contain rich information. After upsampled and stitched, a high spatial resolution (HR) MS image is finally obtained. Instead of convolutional neural networks (CNNs) pursuing a short-distance dependency, our proposed method aims to build up a long-distance dependency, to make full use of more useful features. The experiments were conducted on an opening benchmark dataset, including IKONOS with four-band MS/PAN images and WorldView-2 MS images featured by eight bands. In addition, the experiments were performed on reduced and full-resolution datasets from both qualitative and quantitative evaluation aspects. The experimental results indicate the competitive performance of the proposed model than other pansharpening methods, including the state-of-the-art pansharpening algorithms based on CNN.
+AD  - Ningbo Univ, Fac Elect Engn & Comp Sci, Ningbo 315211, Peoples R ChinaAD  - Hunan Univ, Coll Elect & Informat Engn, Changsha 410082, Peoples R ChinaC3  - Ningbo UniversityC3  - Hunan UniversityFU  - National Natural Science Foundation of China [42171326, 62071261, 41801252]; China Postdoctoral Science Foundation [2020M672490]; Natural Science Foundation of Zhejiang Province [LY22F010014]; K. C. Wong Magna Fund in Ningbo University
+FX  - This work was supported in part by the National Natural Science Foundation of China under Grant 42171326, Grant 62071261, and Grant 41801252; in part by the Fellowship of the China Postdoctoral Science Foundation under Grant 2020M672490; in part by the Natural Science Foundation of Zhejiang Province under Grant LY22F010014; and in part by the K. C. Wong Magna Fund in Ningbo University.
+PU  - IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI  - PISCATAWAY
+PA  - 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN  - 0196-2892
+SN  - 1558-0644
+J9  - IEEE T GEOSCI REMOTE
+JI  - IEEE Trans. Geosci. Remote Sensing
+PY  - 2022
+VL  - 60
+C7  - 5409011
+DO  - 10.1109/TGRS.2022.3168465
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000790844500016
+N1  - Times Cited in Web of Science Core Collection:  66
+Total Times Cited:  67
+Cited Reference Count:  65
+ER  -
+

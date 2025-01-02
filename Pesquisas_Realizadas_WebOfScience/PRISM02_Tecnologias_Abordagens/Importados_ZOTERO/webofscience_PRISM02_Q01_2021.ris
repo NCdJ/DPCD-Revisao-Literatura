@@ -1,0 +1,345 @@
+﻿TY  - JOUR
+AU  - Cui, YM
+AU  - Che, WX
+AU  - Liu, T
+AU  - Qin, B
+AU  - Yang, ZQ
+TI  - Pre-Training With Whole Word Masking for Chinese BERT
+T2  - IEEE-ACM TRANSACTIONS ON AUDIO SPEECH AND LANGUAGE PROCESSING
+LA  - English
+KW  - Bit error rate
+KW  - Task analysis
+KW  - Computational modeling
+KW  - Training
+KW  - Analytical models
+KW  - Adaptation models
+KW  - Predictive models
+KW  - Pre-trained language model
+KW  - representation learning
+KW  - natural language processing
+AB  - Bidirectional Encoder Representations from Transformers (BERT) has shown marvelous improvements across various NLP tasks, and its consecutive variants have been proposed to further improve the performance of the pre-trained language models. In this paper, we aim to first introduce the whole word masking (wwm) strategy for Chinese BERT, along with a series of Chinese pre-trained language models. Then we also propose a simple but effective model called MacBERT, which improves upon RoBERTa in several ways. Especially, we propose a new masking strategy called MLM as correction (Mac). To demonstrate the effectiveness of these models, we create a series of Chinese pre-trained language models as our baselines, including BERT, RoBERTa, ELECTRA, RBT, etc. We carried out extensive experiments on ten Chinese NLP tasks to evaluate the created Chinese pre-trained language models as well as the proposed MacBERT. Experimental results show that MacBERT could achieve state-of-the-art performances on many NLP tasks, and we also ablate details with several findings that may help future research. We open-source our pre-trained language models for further facilitating our research community.(1)
+AD  - Harbin Inst Technol, Harbin 150001, Peoples R ChinaAD  - iFLYTEK Res, State Key Lab Cognit Intelligence, Beijing 100010, Peoples R ChinaC3  - Harbin Institute of TechnologyFU  - Google TPU Research Cloud program; National Key R&D Program of China [2020AAA0106501]; NationalNatural Science Foundation of China [61976072, 61772153]
+FX  - The work of Yiming Cui was supported in part by the Google TPU Research Cloud program for Cloud TPU access. This work was supported by the National Key R&D Program of China under Grant 2020AAA0106501 and the NationalNatural Science Foundation of China under Grants 61976072 and 61772153.
+PU  - IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI  - PISCATAWAY
+PA  - 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN  - 2329-9290
+SN  - 2329-9304
+J9  - IEEE-ACM T AUDIO SPE
+JI  - IEEE-ACM Trans. Audio Speech Lang.
+PY  - 2021
+VL  - 29
+SP  - 3504
+EP  - 3514
+DO  - 10.1109/TASLP.2021.3124365
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000728135200002
+N1  - Times Cited in Web of Science Core Collection:  591
+Total Times Cited:  705
+Cited Reference Count:  40
+ER  -
+
+TY  - CPAPER
+AU  - Yuan, K
+AU  - Guo, SP
+AU  - Liu, ZW
+AU  - Zhou, AJ
+AU  - Yu, FW
+AU  - Wu, W
+A1  - IEEE
+TI  - Incorporating Convolution Designs into Visual Transformers
+T2  - 2021 IEEE/CVF INTERNATIONAL CONFERENCE ON COMPUTER VISION (ICCV 2021)
+LA  - English
+CP  - 18th IEEE/CVF International Conference on Computer Vision (ICCV)
+AB  - Motivated by the success of Transformers in natural language processing (NLP) tasks, there emerge some attempts (e.g., ViT and DeiT) to apply Transformers to the vision domain. However, pure Transformer architectures often require a large amount of training data or extra supervision to obtain comparable performance with convolutional neural networks (CNNs). To overcome these limitations, we analyze the potential drawbacks when directly borrowing Transformer architectures from NLP. Then we propose a new Convolution-enhanced image Transformer (CeiT) which combines the advantages of CNNs in extracting low-level features, strengthening locality, and the advantages of Transformers in establishing long-range dependencies. Three modifications are made to the original Transformer: 1) instead of the straightforward tokenization from raw input images, we design an Image-to-Tokens (I2T) module that extracts patches from generated low-level features; 2) the feed-froward network in each encoder block is replaced with a Locally-enhanced Feed-Forward (LeFF) layer that promotes the correlation among neighboring tokens in the spatial dimension; 3) a Layer-wise Class token Attention (LCA) is attached at the top of the Transformer that utilizes the multi-level representations.
+   Experimental results on ImageNet and seven downstream tasks show the effectiveness and generalization ability of CeiT compared with previous Transformers and state-of-the-art CNNs, without requiring a large amount of training data and extra CNN teachers. Besides, CeiT models demonstrate better convergence with 3x fewer training iterations, which can reduce the training cost significantly
+AD  - SenseTime Res, Hong Kong, Peoples R ChinaAD  - HKUST, Hong Kong, Peoples R ChinaAD  - Nanyang Technol Univ, S Lab, Singapore, SingaporeC3  - Hong Kong University of Science & TechnologyC3  - Nanyang Technological UniversityFU  - NTU NAP; RIE2020 Industry Alignment Fund - Industry Collaboration Projects (IAF-ICP) Funding Initiative
+FX  - This study is supported by NTU NAP, and under the RIE2020 Industry Alignment Fund -Industry Collaboration Projects (IAF-ICP) Funding Initiative, as well as cash and in-kind contribution from the industry partner(s).
+PU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 978-1-6654-2812-5
+PY  - 2021
+SP  - 559
+EP  - 568
+DO  - 10.1109/ICCV48922.2021.00062
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000797698900056
+N1  - Times Cited in Web of Science Core Collection:  277
+Total Times Cited:  290
+Cited Reference Count:  52
+ER  -
+
+TY  - JOUR
+AU  - Acheampong, FA
+AU  - Nunoo-Mensah, H
+AU  - Chen, WY
+TI  - Transformer models for text-based emotion detection: a review of BERT-based approaches
+T2  - ARTIFICIAL INTELLIGENCE REVIEW
+LA  - English
+KW  - Natural language processing
+KW  - Sentiment analysis
+KW  - Text-based emotion detection
+KW  - Transformers
+KW  - SENTIMENT ANALYSIS
+KW  - PERSONALITY
+AB  - We cannot overemphasize the essence of contextual information in most natural language processing (NLP) applications. The extraction of context yields significant improvements in many NLP tasks, including emotion recognition from texts. The paper discusses transformer-based models for NLP tasks. It highlights the pros and cons of the identified models. The models discussed include the Generative Pre-training (GPT) and its variants, Transformer-XL, Cross-lingual Language Models (XLM), and the Bidirectional Encoder Representations from Transformers (BERT). Considering BERT's strength and popularity in text-based emotion detection, the paper discusses recent works in which researchers proposed various BERT-based models. The survey presents its contributions, results, limitations, and datasets used. We have also provided future research directions to encourage research in text-based emotion detection using these models.
+AD  - Univ Elect Sci & Technol China, Sch Comp Sci & Technol, Computat Intelligence Lab, Chengdu, Peoples R ChinaAD  - Kwame Nkrumah Univ Sci & Technol, Dept Comp Engn, Connected Devices Lab, Kumasi, GhanaC3  - University of Electronic Science & Technology of ChinaC3  - Kwame Nkrumah University Science & TechnologyPU  - SPRINGER
+PI  - DORDRECHT
+PA  - VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN  - 0269-2821
+SN  - 1573-7462
+J9  - ARTIF INTELL REV
+JI  - Artif. Intell. Rev.
+DA  - DEC
+PY  - 2021
+VL  - 54
+IS  - 8
+SP  - 5789
+EP  - 5829
+DO  - 10.1007/s10462-021-09958-2
+C6  - FEB 2021
+WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:000616046200001
+N1  - Times Cited in Web of Science Core Collection:  215
+Total Times Cited:  231
+Cited Reference Count:  107
+ER  -
+
+TY  - JOUR
+AU  - Le, NQK
+AU  - Ho, QT
+AU  - Nguyen, TTD
+AU  - Ou, YY
+TI  - A transformer architecture based on BERT and 2D convolutional neural network to identify DNA enhancers from sequence information
+T2  - BRIEFINGS IN BIOINFORMATICS
+LA  - English
+KW  - contextualized word embedding
+KW  - BERT
+KW  - convolutional neural network
+KW  - biological sequence
+KW  - DNA enhancer
+KW  - NLP transformer
+AB  - Recently, language representation models have drawn a lot of attention in the natural language processing field due to their remarkable results. Among them, bidirectional encoder representations from transformers (BERT) has proven to be a simple, yet powerful language model that achieved novel state-of-the-art performance. BERT adopted the concept of contextualized word embedding to capture the semantics and context of the words in which they appeared. In this study, we present a novel technique by incorporating BERT-based multilingual model in bioinformatics to represent the information of DNA sequences. We treated DNA sequences as natural sentences and then used BERT models to transform them into fixed-length numerical matrices. As a case study, we applied our method to DNA enhancer prediction, which is a well-known and challenging problem in this field. We then observed that our BERT-based features improved more than 5-10% in terms of sensitivity, specificity, accuracy and Matthews correlation coefficient compared to the current state-of-the-art features in bioinformatics. Moreover, advanced experiments show that deep learning (as represented by 2D convolutional neural networks; CNN) holds potential in learning BERT features better than other traditional machine learning techniques. In conclusion, we suggest that BERT and 2D CNNs could open a new avenue in biological modeling using sequence information.
+AD  - Taipei Med Univ, Profess Master Program Artificial Intelligence Me, Taipei, TaiwanAD  - Can Tho Univ, Coll Informat & Commun Technol, Can Tho, VietnamAD  - Yuan Ze Univ, Dept Comp Sci & Engn, Taoyuan, TaiwanC3  - Taipei Medical UniversityC3  - Can Tho UniversityC3  - Yuan Ze UniversityFU  - Research Grant for Newly Hired Faculty, Taipei Medical University [TMU108-AE1-B26]; Higher Education Sprout Project, Ministry of Education, Taiwan [DP2-109-21121-01-A-06]
+FX  - Research Grant for Newly Hired Faculty, Taipei Medical University (TMU108-AE1-B26) and Higher Education Sprout Project, Ministry of Education, Taiwan (grant number DP2-109-21121-01-A-06).
+PU  - OXFORD UNIV PRESS
+PI  - OXFORD
+PA  - GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+SN  - 1467-5463
+SN  - 1477-4054
+J9  - BRIEF BIOINFORM
+JI  - Brief. Bioinform.
+DA  - SEP
+PY  - 2021
+VL  - 22
+IS  - 5
+C7  - bbab005
+DO  - 10.1093/bib/bbab005
+C6  - FEB 2021
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000709461800047
+N1  - Times Cited in Web of Science Core Collection:  113
+Total Times Cited:  115
+Cited Reference Count:  29
+ER  -
+
+TY  - CPAPER
+AU  - Yu, S
+AU  - Ma, K
+AU  - Bi, Q
+AU  - Bian, C
+AU  - Ning, MN
+AU  - He, NJ
+AU  - Li, YX
+AU  - Liu, HR
+AU  - Zheng, YF
+ED  - DeBruijne, M
+ED  - Cattin, PC
+ED  - Cotin, S
+ED  - Padoy, N
+ED  - Speidel, S
+ED  - Zheng, Y
+ED  - Essert, C
+TI  - MIL-VT: Multiple Instance Learning Enhanced Vision Transformer for Fundus Image Classification
+T2  - MEDICAL IMAGE COMPUTING AND COMPUTER ASSISTED INTERVENTION - MICCAI 2021, PT VIII
+LA  - English
+CP  - International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)
+KW  - Vision Transformer
+KW  - Multiple instance learning
+KW  - Fundus image
+KW  - Deep learning
+AB  - With the advancement and prevailing success of Transformer models in the natural language processing (NLP) field, an increasing number of research works have explored the applicability of Transformer for various vision tasks and reported superior performance compared with convolutional neural networks (CNNs). However, as the proper training of Transformer generally requires an extremely large quantity of data, it has rarely been explored for the medical imaging tasks. In this paper, we attempt to adopt the Vision Transformer for the retinal disease classification tasks, by pre-training the Transformer model on a large fundus image database and then fine-tuning on downstream retinal disease classification tasks. In addition, to fully exploit the feature representations extracted by individual image patches, we propose a multiple instance learning (MIL) based 'MIL head', which can be conveniently attached to the Vision Transformer in a plug-and-play manner and effectively enhances the model performance for the downstream fundus image classification tasks. The proposed MIL-VT framework achieves superior performance over CNN models on two publicly available datasets when being trained and tested under the same setup. The implementation code and pre-trained weights are released for public access (Code link: https://github.com/greentreeys/MIL-VT).
+AD  - Tencent, Tencent Jarvis Lab, Shenzhen, Peoples R ChinaAD  - Capital Med Univ, Beijing Tongren Hosp, Beijing, Peoples R ChinaC3  - TencentC3  - Capital Medical UniversityFU  - Key-Area Research and Development Program of Guangdong Province, China [2018B010111001, 2020AAA0104100]
+FX  - This work was funded by Key-Area Research and Development Program of Guangdong Province, China (No. 2018B010111001), and Scientific and Technical Innovation 2030 - 'New Generation Artificial Intelligence' Project (No.2020AAA0104100).
+PU  - SPRINGER INTERNATIONAL PUBLISHING AG
+PI  - CHAM
+PA  - GEWERBESTRASSE 11, CHAM, CH-6330, SWITZERLAND
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 978-3-030-87237-3
+SN  - 978-3-030-87236-6
+J9  - LECT NOTES COMPUT SC
+PY  - 2021
+VL  - 12908
+SP  - 45
+EP  - 54
+DO  - 10.1007/978-3-030-87237-3_5
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000712019200005
+N1  - Times Cited in Web of Science Core Collection:  88
+Total Times Cited:  90
+Cited Reference Count:  19
+ER  -
+
+TY  - CPAPER
+AU  - Yates, A
+AU  - Nogueira, R
+AU  - Lin, J
+A1  - ASSOC COMP MACHINERY
+TI  - Pretrained Transformers for Text Ranking: BERT and Beyond
+T2  - WSDM '21: PROCEEDINGS OF THE 14TH ACM INTERNATIONAL CONFERENCE ON WEB SEARCH AND DATA MINING
+LA  - English
+CP  - 14th ACM International Conference on Web Search and Data Mining (WSDM)
+AB  - The goal of text ranking is to generate an ordered list of texts retrieved from a corpus in response to a query. Although the most common formulation of text ranking is search, instances of the task can also be found in many natural language processing applications. This tutorial, based on a forthcoming book, provides an overview of text ranking with neural network architectures known as transformers, of which BERT is the best-known example. The combination of transformers and self-supervised pretraining has, without exaggeration, revolutionized the fields of natural language processing (NLP), information retrieval (IR), and beyond. We provide a synthesis of existing work as a single point of entry for both researchers and practitioners. Our coverage is grouped into two categories: transformer models that perform reranking in multi-stage ranking architectures and learned dense representations that perform ranking directly. Two themes pervade our treatment: techniques for handling long documents and techniques for addressing the tradeoff between effectiveness (result quality) and efficiency (query latency). Although transformer architectures and pretraining techniques are recent innovations, many aspects of their application are well understood. Nevertheless, there remain many open research questions, and thus in addition to laying out the foundations of pretrained transformers for text ranking, we also attempt to prognosticate the future.
+AD  - Max Planck Inst Informat, Berlin, GermanyAD  - Univ Waterloo, David R Cheriton Sch Comp Sci, Waterloo, ON, CanadaC3  - Max Planck SocietyC3  - University of WaterlooFU  - Canada First Research Excellence Fund; Natural Sciences and Engineering Research Council (NSERC) of Canada
+FX  - This work was supported in part by the Canada First Research Excellence Fund and the Natural Sciences and Engineering Research Council (NSERC) of Canada.
+PU  - ASSOC COMPUTING MACHINERY
+PI  - NEW YORK
+PA  - 1601 Broadway, 10th Floor, NEW YORK, NY, UNITED STATES
+SN  - 978-1-4503-8297-7
+PY  - 2021
+SP  - 1154
+EP  - 1156
+DO  - 10.1145/3437963.3441667
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000810499000153
+N1  - Times Cited in Web of Science Core Collection:  78
+Total Times Cited:  83
+Cited Reference Count:  41
+ER  -
+
+TY  - JOUR
+AU  - Gao, S
+AU  - Alawad, M
+AU  - Young, MT
+AU  - Gounley, J
+AU  - Schaefferkoetter, N
+AU  - Yoon, HJ
+AU  - Wu, XC
+AU  - Durbin, EB
+AU  - Doherty, J
+AU  - Stroup, A
+AU  - Coyle, L
+AU  - Tourassi, G
+TI  - Limitations of Transformers on Clinical Text Classification
+T2  - IEEE JOURNAL OF BIOMEDICAL AND HEALTH INFORMATICS
+LA  - English
+KW  - Bit error rate
+KW  - Task analysis
+KW  - Cancer
+KW  - MIMICs
+KW  - Biological system modeling
+KW  - Adaptation models
+KW  - Data models
+KW  - BERT
+KW  - clinical text
+KW  - deep learning
+KW  - natural language processing
+KW  - neural networks
+KW  - text classification
+AB  - Bidirectional Encoder Representations from Transformers (BERT) and BERT-based approaches are the current state-of-the-art in many natural language processing (NLP) tasks; however, their application to document classification on long clinical texts is limited. In this work, we introduce four methods to scale BERT, which by default can only handle input sequences up to approximately 400 words long, to perform document classification on clinical texts several thousand words long. We compare these methods against two much simpler architectures - a word-level convolutional neural network and a hierarchical self-attention network - and show that BERT often cannot beat these simpler baselines when classifying MIMIC-III discharge summaries and SEER cancer pathology reports. In our analysis, we show that two key components of BERT - pretraining and WordPiece tokenization - may actually be inhibiting BERT's performance on clinical text classification tasks where the input document is several thousand words long and where correctly identifying labels may depend more on identifying a few key words or phrases rather than understanding the contextual meaning of sequences of text.
+AD  - Oak Ridge Natl Lab, Oak Ridge, TN 37830 USAAD  - Louisiana State Univ, Hlth Sci Ctr, Louisiana Tumor Registry, New Orleans, LA 70112 USAAD  - Univ Kentucky, Kentucky Canc Registry, Lexington, KY 40536 USAAD  - Univ Utah, Hlth Huntsman Canc Inst, Utah Canc Registry, Salt Lake City, UT 84132 USAAD  - New Jersey State Canc Registry, Trenton, NJ 08625 USAAD  - Informat Management Serv Inc, Calverton, MD 20705 USAC3  - United States Department of Energy (DOE)C3  - Oak Ridge National LaboratoryC3  - Louisiana State University SystemC3  - Louisiana State University Health Sciences Center New OrleansC3  - University of KentuckyC3  - Utah System of Higher EducationC3  - University of UtahC3  - Information Management Services, Inc.FU  - U.S. Department of Energy by Argonne National Laboratory [DE-AC02-06-CH11357]; Lawrence Livermore National Laboratory [DEAC52-07NA27344]; Los Alamos National Laboratory [DE-AC5206NA25396]; Oak Ridge National Laboratory [DE-AC05-00OR22725]; Office of Science of the U.S. Department of Energy [DE-AC05-00OR22725]; Exascale Computing Project [17-SC-20SC]
+FX  - Computing Solutions for Cancer (JDACS4C) program established by the U.S. Department of Energy (DOE) and National Cancer Institute (NCI) of the National Institutes of Health, in part by the auspices of the U.S. Department of Energy by Argonne National Laboratory under Contract No. DE-AC02-06-CH11357, in part by Lawrence Livermore National Laboratory under Contract No. DEAC52-07NA27344, in part by Los Alamos National Laboratory under Contract No. DE-AC5206NA25396, and in part by Oak Ridge National Laboratory under Contract No. DE-AC05-00OR22725. This work used resources of Oak Ridge Leadership Computing Facility at Oak Ridge National Laboratory, which was supported by the Office of Science of the U.S. Department of Energy under Contract No. DE-AC05-00OR22725. This work was supported by Exascale Computing Project (17-SC-20SC), a collaborative effort of the U.S. Department of Energy Office of Science and National Nuclear Security Administration.
+PU  - IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI  - PISCATAWAY
+PA  - 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN  - 2168-2194
+SN  - 2168-2208
+J9  - IEEE J BIOMED HEALTH
+JI  - IEEE J. Biomed. Health Inform.
+DA  - SEP
+PY  - 2021
+VL  - 25
+IS  - 9
+SP  - 3596
+EP  - 3607
+DO  - 10.1109/JBHI.2021.3062322
+WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:000692596400038
+N1  - Times Cited in Web of Science Core Collection:  75
+Total Times Cited:  76
+Cited Reference Count:  44
+ER  -
+
+TY  - CPAPER
+AU  - Kim, T
+AU  - Yoo, KM
+AU  - Lee, SG
+A1  - Assoc Computat Linguist
+TI  - Self-Guided Contrastive Learning for BERT Sentence Representations
+T2  - 59TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS AND THE 11TH INTERNATIONAL JOINT CONFERENCE ON NATURAL LANGUAGE PROCESSING, VOL 1 (ACL-IJCNLP 2021)
+LA  - English
+CP  - Joint Conference of 59th Annual Meeting of the Association-for-Computational-Linguistics (ACL) / 11th International Joint Conference on Natural Language Processing (IJCNLP) / 6th Workshop on Representation Learning for NLP (RepL4NLP)
+AB  - Although BERT and its variants have reshaped the NLP landscape, it still remains unclear how best to derive sentence embeddings from such pre-trained Transformers. In this work, we propose a contrastive learning method that utilizes self-guidance for improving the quality of BERT sentence representations. Our method fine-tunes BERT in a self-supervised fashion, does not rely on data augmentation, and enables the usual [CLS] token embeddings to function as sentence vectors. Moreover, we redesign the contrastive learning objective (NT-Xent) and apply it to sentence representation learning. We demonstrate with extensive experiments that our approach is more effective than competitive baselines on diverse sentence-related tasks. We also show it is efficient at inference and robust to domain shifts.
+AD  - Seoul Natl Univ, Dept Comp Sci & Engn, Seoul, South KoreaAD  - NAVER AI Lab, Seongnam, South KoreaC3  - Seoul National University (SNU)C3  - NaverPU  - ASSOC COMPUTATIONAL LINGUISTICS-ACL
+PI  - STROUDSBURG
+PA  - 209 N EIGHTH STREET, STROUDSBURG, PA 18360 USA
+SN  - 978-1-954085-52-7
+PY  - 2021
+SP  - 2528
+EP  - 2540
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)WE  - Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)AN  - WOS:000698663100197
+N1  - Times Cited in Web of Science Core Collection:  75
+Total Times Cited:  79
+Cited Reference Count:  46
+ER  -
+
+TY  - CPAPER
+AU  - Yates, A
+AU  - Nogueira, R
+AU  - Lin, J
+A1  - ASSOC COMP MACHINERY
+TI  - Pretrained Transformers for Text Ranking: BERT and Beyond
+T2  - SIGIR '21 - PROCEEDINGS OF THE 44TH INTERNATIONAL ACM SIGIR CONFERENCE ON RESEARCH AND DEVELOPMENT IN INFORMATION RETRIEVAL
+LA  - English
+CP  - 44th International ACM SIGIR Conference on Research and Development in Information Retrieval
+KW  - Multi-Stage Ranking
+KW  - Learned Dense Representations
+AB  - The goal of text ranking is to generate an ordered list of texts retrieved from a corpus in response to a query. Although the most common formulation of text ranking is search, instances of the task can also be found in many natural language processing applications. This tutorial, based on a forthcoming book, provides an overview of text ranking with neural network architectures known as transformers, of which BERT is the best-known example. The combination of transformers and self-supervised pretraining has, without exaggeration, revolutionized the fields of natural language processing (NLP), information retrieval (IR), and beyond. We provide a synthesis of existing work as a single point of entry for both researchers and practitioners. Our coverage is grouped into two categories: transformer models that perform reranking in multi-stage ranking architectures and learned dense representations that perform ranking directly. Two themes pervade our treatment: techniques for handling long documents and techniques for addressing the tradeoff between effectiveness (result quality) and efficiency (query latency). Although transformer architectures and pretraining techniques are recent innovations, many aspects of their application are well understood. Nevertheless, there remain many open research questions, and thus in addition to laying out the foundations of pretrained transformers for text ranking, we also attempt to prognosticate the future.
+AD  - Max Planck Inst Informat, Saarbrucken, GermanyAD  - Univ Waterloo, David R Cheriton Sch Comp Sci, Waterloo, ON, CanadaC3  - Max Planck SocietyC3  - University of WaterlooFU  - Canada First Research Excellence Fund; Natural Sciences and Engineering Research Council (NSERC) of Canada
+FX  - This work was supported in part by the Canada First Research Excellence Fund and the Natural Sciences and Engineering Research Council (NSERC) of Canada.
+PU  - ASSOC COMPUTING MACHINERY
+PI  - NEW YORK
+PA  - 1601 Broadway, 10th Floor, NEW YORK, NY, UNITED STATES
+SN  - 978-1-4503-8037-9
+PY  - 2021
+SP  - 2666
+EP  - 2668
+DO  - 10.1145/3404835.3462812
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000719807900363
+N1  - Times Cited in Web of Science Core Collection:  74
+Total Times Cited:  75
+Cited Reference Count:  42
+ER  -
+
+TY  - CPAPER
+AU  - Moreira, GDP
+AU  - Rabhi, S
+AU  - Lee, JM
+AU  - Ak, R
+AU  - Oldridge, E
+A1  - ACM
+TI  - Transformers4Rec: Bridging the Gap between NLP and Sequential / Session-Based Recommendation
+T2  - 15TH ACM CONFERENCE ON RECOMMENDER SYSTEMS (RECSYS 2021)
+LA  - English
+CP  - 15th ACM Conference on Recommender Systems (RECSYS)
+AB  - Much of the recent progress in sequential and session-based recommendation has been driven by improvements in model architecture and pretraining techniques originating in the field of Natural Language Processing. Transformer architectures in particular have facilitated building higher-capacity models and provided data augmentation and training techniques which demonstrably improve the effectiveness of sequential recommendation. But with a thousandfold more research going on in NLP, the application of transformers for recommendation understandably lags behind. To remedy this we introduce Transformers4Rec, an open-source library built upon HuggingFace's Transformers library with a similar goal of opening up the advances of NLP based Transformers to the recommender system community and making these advancements immediately accessible for the tasks of sequential and session-based recommendation. Like its core dependency, Transformers4Rec is designed to be extensible by researchers, simple for practitioners, and fast and robust in industrial deployments.
+   In order to demonstrate the usefulness of the library and the applicability of Transformer architectures in next-click prediction for user sessions, where sequence lengths are much shorter than those commonly found in NLP, we have leveraged Transformers4Rec to win two recent session-based recommendation competitions. In addition, we present in this paper the first comprehensive empirical analysis comparing many Transformer architectures and training approaches for the task of session-based recommendation. We demonstrate that the best Transformer architectures have superior performance across two e-commerce datasets while performing similarly to the baselines on two news datasets. We further evaluate in isolation the effectiveness of the different training techniques used in causal language modeling, masked language modeling, permutation language modeling and replacement token detection for a single Transformer architecture, XLNet. We establish that training XLNet with replacement token detection performs well across all datasets. Finally, we explore techniques to include side information such as item and user context features in order to establish best practices and show that the inclusion of side information uniformly improves recommendation performance.
+AD  - NVIDIA, Sao Paulo, BrazilAD  - NVIDIA, Toronto, ON, CanadaAD  - Facebook AI, Menlo Pk, CA USAAD  - NVIDIA, Orlando, FL USAAD  - NVIDIA, Vancouver, BC, CanadaC3  - Facebook IncPU  - ASSOC COMPUTING MACHINERY
+PI  - NEW YORK
+PA  - 1601 Broadway, 10th Floor, NEW YORK, NY, UNITED STATES
+SN  - 978-1-4503-8458-2
+PY  - 2021
+SP  - 143
+EP  - 153
+DO  - 10.1145/3460231.3474255
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000744461300015
+N1  - Times Cited in Web of Science Core Collection:  72
+Total Times Cited:  75
+Cited Reference Count:  67
+ER  -
+

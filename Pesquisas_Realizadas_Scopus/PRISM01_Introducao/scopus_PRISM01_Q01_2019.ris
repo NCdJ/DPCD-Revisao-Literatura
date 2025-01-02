@@ -1,0 +1,422 @@
+﻿TY  - CONF
+AU  - Mitchell, M.
+AU  - Wu, S.
+AU  - Zaldivar, A.
+AU  - Barnes, P.
+AU  - Vasserman, L.
+AU  - Hutchinson, B.
+AU  - Spitzer, E.
+AU  - Raji, I.D.
+AU  - Gebru, T.
+TI  - Model cards for model reporting
+PY  - 2019
+T2  - FAT* 2019 - Proceedings of the 2019 Conference on Fairness, Accountability, and Transparency
+SP  - 220
+EP  - 229
+DO  - 10.1145/3287560.3287596
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85061808500&doi=10.1145%2f3287560.3287596&partnerID=40&md5=733fc9adcafb9bebde767b6cd1b84a54
+AB  - Trained machine learning models are increasingly used to perform high-impact tasks in areas such as law enforcement, medicine, education, and employment. In order to clarify the intended use cases of machine learning models and minimize their usage in contexts for which they are not well suited, we recommend that released models be accompanied by documentation detailing their performance characteristics. In this paper, we propose a framework that we call model cards, to encourage such transparent model reporting. Model cards are short documents accompanying trained machine learning models that provide benchmarked evaluation in a variety of conditions, such as across different cultural, demographic, or phenotypic groups (e.g., race, geographic location, sex, Fitzpatrick skin type [15]) and intersectional groups (e.g., age and race, or sex and Fitzpatrick skin type) that are relevant to the intended application domains. Model cards also disclose the context in which models are intended to be used, details of the performance evaluation procedures, and other relevant information. While we focus primarily on human-centered machine learning models in the application fields of computer vision and natural language processing, this framework can be used to document any trained machine learning model. To solidify the concept, we provide cards for two supervised models: One trained to detect smiling faces in images, and one trained to detect toxic comments in text. We propose model cards as a step towards the responsible democratization of machine learning and related artificial intelligence technology, increasing transparency into how well artificial intelligence technology works. We hope this work encourages those releasing trained machine learning models to accompany model releases with similar detailed evaluation numbers and other relevant documentation. © 2019 Association for Computing Machinery.
+KW  - Datasheets
+KW  - Disaggregated evaluation
+KW  - Documentation
+KW  - Ethical considerations
+KW  - Fairness evaluation
+KW  - ML model evaluation
+KW  - Model cards
+KW  - Learning algorithms
+KW  - Machine learning
+KW  - Natural language processing systems
+KW  - System program documentation
+KW  - Transparency
+KW  - Data sheets
+KW  - Disaggregated evaluation
+KW  - Ethical considerations
+KW  - Fairness evaluation
+KW  - Model evaluation
+KW  - Engineering education
+PB  - Association for Computing Machinery, Inc
+SN  - 978-145036125-5 (ISBN)
+LA  - English
+J2  - FAT* - Proc. Conf. Fairness, Account., Transpar.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 1063; Conference name: 2019 ACM Conference on Fairness, Accountability, and Transparency, FAT* 2019; Conference date: 29 January 2019 through 31 January 2019; Conference code: 144666
+ER  -
+
+TY  - CONF
+AU  - Leitner, E.
+AU  - Rehm, G.
+AU  - Moreno-Schneider, J.
+TI  - Fine-Grained Named Entity Recognition in Legal Documents
+PY  - 2019
+T2  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 11702 LNCS
+SP  - 272
+EP  - 287
+DO  - 10.1007/978-3-030-33220-4_20
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85076234868&doi=10.1007%2f978-3-030-33220-4_20&partnerID=40&md5=116b5b3d746a57575f662e1b2ceb062d
+AD  - DFKI GmbH, Alt-Moabit 91c, Berlin, 10559, Germany
+AB  - This paper describes an approach at Named Entity Recognition (NER) in German language documents from the legal domain. For this purpose, a dataset consisting of German court decisions was developed. The source texts were manually annotated with 19 semantic classes: person, judge, lawyer, country, city, street, landscape, organization, company, institution, court, brand, law, ordinance, European legal norm, regulation, contract, court decision, and legal literature. The dataset consists of approx. 67,000 sentences and contains 54,000 annotated entities. The 19 fine-grained classes were automatically generalised to seven more coarse-grained classes (person, location, organization, legal norm, case-by-case regulation, court decision, and legal literature). Thus, the dataset includes two annotation variants, i.e., coarse- and fine-grained. For the task of NER, Conditional Random Fields (CRFs) and bidirectional Long-Short Term Memory Networks (BiLSTMs) were applied to the dataset as state of the art models. Three different models were developed for each of these two model families and tested with the coarse- and fine-grained annotations. The BiLSTM models achieve the best performance with an 95.46 F1 score for the fine-grained classes and 95.95 for the coarse-grained ones. The CRF models reach a maximum of 93.23 for the fine-grained classes and 93.22 for the coarse-grained ones. The work presented in this paper was carried out under the umbrella of the European project LYNX that develops a semantic platform that enables the development of various document processing and analysis applications for the legal domain. © 2019, The Author(s).
+KW  - BiLSTM
+KW  - CRF
+KW  - Curation technologies
+KW  - Language technology
+KW  - Legal processing
+KW  - Legal technologies
+KW  - LT
+KW  - Named Entity Recognition
+KW  - Natural Language Processing
+KW  - NER
+KW  - NLP
+KW  - Natural language processing systems
+KW  - Random processes
+KW  - Semantics
+KW  - BiLSTM
+KW  - Curation
+KW  - Language technology
+KW  - Named entity recognition
+KW  - NAtural language processing
+KW  - Laws and legislation
+A2  - Acosta M.
+A2  - Sure-Vetter Y.
+A2  - Cudré-Mauroux P.
+A2  - Maleshkova M.
+A2  - Pellegrini T.
+A2  - Sack H.
+PB  - Springer
+SN  - 03029743 (ISSN); 978-303033219-8 (ISBN)
+LA  - English
+J2  - Lect. Notes Comput. Sci.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 96; Correspondence Address: G. Rehm; DFKI GmbH, Berlin, Alt-Moabit 91c, 10559, Germany; email: georg.rehm@dfki.de; Conference name: 15th International Conference on Semantic Systems, SEMANTiCS 2019; Conference date: 9 September 2019 through 12 September 2019; Conference code: 233859
+ER  -
+
+TY  - CONF
+AU  - Gambi, A.
+AU  - Huynh, T.
+AU  - Fraser, G.
+TI  - Generating effective test cases for self-driving cars from police reports
+PY  - 2019
+T2  - ESEC/FSE 2019 - Proceedings of the 2019 27th ACM Joint Meeting European Software Engineering Conference and Symposium on the Foundations of Software Engineering
+SP  - 257
+EP  - 267
+DO  - 10.1145/3338906.3338942
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85071949803&doi=10.1145%2f3338906.3338942&partnerID=40&md5=bfe346d010be23d93f6c992ee93d2f7d
+AD  - University of Passau, Passau, Germany
+AD  - Saarland University/CISPA, Saarbruecken, Germany
+AB  - Autonomous driving carries the promise to drastically reduce the number of car accidents; however, recently reported fatal crashes involving self-driving cars show that such an important goal is not yet achieved. This calls for better testing of the software controlling self-driving cars, which is difficult because it requires producing challenging driving scenarios. To better test self-driving car soft- ware, we propose to specifically test car crash scenarios, which are critical par excellence. Since real car crashes are difficult to test in field operation, we recreate them as physically accurate simulations in an environment that can be used for testing self-driving car software. To cope with the scarcity of sensory data collected during real car crashes which does not enable a full reproduction, we extract the information to recreate real car crashes from the police reports which document them. Our extensive evaluation, consisting of a user study involving 34 participants and a quantitative analysis of the quality of the generated tests, shows that we can generate accurate simulations of car crashes in a matter of minutes. Compared to tests which implement non critical driving scenarios, our tests effectively stressed the test subject in different ways and exposed several shortcomings in its implementation. © 2019 ACM.
+KW  - Automatic test generation
+KW  - Natural language processing
+KW  - Procedural content generation
+KW  - Self-driving cars
+KW  - Accidents
+KW  - Cell proliferation
+KW  - Crashworthiness
+KW  - Law enforcement
+KW  - Natural language processing systems
+KW  - Quality control
+KW  - Software testing
+KW  - Automatic test generation
+KW  - Autonomous driving
+KW  - Car accidents
+KW  - Fatal crashes
+KW  - NAtural language processing
+KW  - Police reports
+KW  - Procedural content generations
+KW  - Self drivings
+KW  - Autonomous vehicles
+A2  - Apel S.
+A2  - Dumas M.
+A2  - Russo A.
+A2  - Pfahl D.
+PB  - Association for Computing Machinery, Inc
+SN  - 978-145035572-8 (ISBN)
+LA  - English
+J2  - ESEC/FSE - Proc. ACM Jt. Meet. Eur. Softw. Eng. Conf. Symp. Found. Softw. Eng.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 74; Conference name: 27th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering, ESEC/FSE 2019; Conference date: 26 August 2019 through 30 August 2019; Conference code: 150532
+ER  -
+
+TY  - JOUR
+AU  - K, S.
+AU  - Thilagam, P.S.
+TI  - Crime base: Towards building a knowledge base for crime entities and their relationships from online news papers
+PY  - 2019
+T2  - Information Processing and Management
+VL  - 56
+IS  - 6
+C7  - 102059
+DO  - 10.1016/j.ipm.2019.102059
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85067561528&doi=10.1016%2fj.ipm.2019.102059&partnerID=40&md5=0c590995d28b4e124b6369e779a88d77
+AD  - Department of Computer Science and Engineering, National Institute of Technology Karnataka, Surathkal, India
+AB  - In the current era of internet, information related to crime is scattered across many sources namely news media, social networks, blogs, and video repositories, etc. Crime reports published in online newspapers are often considered as reliable compared to crowdsourced data like social media and contain crime information not only in the form of unstructured text but also in the form of images. Given the volume and availability of crime-related information present in online newspapers, gathering and integrating crime entities from multiple modalities and representing them as a knowledge base in machine-readable form will be useful for any law enforcement agencies to analyze and prevent criminal activities. Extant research works to generate the crime knowledge base, does not address extraction of all non-redundant entities from text and image data present in multiple newspapers. Hence, this work proposes Crime Base, an entity relationship based system to extract and integrate crime related text and image data from online newspapers with a focus towards reducing duplicity and loss of information in the knowledge base. The proposed system uses a rule-based approach to extract the entities from text and image captions. The entities extracted from text data are correlated using contextual as-well-as semantic similarity measures and image entities are correlated using low-level and high-level image features. The proposed system also presents an integrated view of these entities and their relations in the form of a knowledge base using OWL. The system is tested for a collection of crime related articles from popular Indian online newspapers. © 2019 Elsevier Ltd
+KW  - Information Extraction
+KW  - Integration
+KW  - Knowledge Representation
+KW  - Natural Language Processing
+KW  - Ontology
+KW  - Crime
+KW  - Data mining
+KW  - Image processing
+KW  - Information retrieval
+KW  - Integration
+KW  - Knowledge based systems
+KW  - Knowledge representation
+KW  - Natural language processing systems
+KW  - Newsprint
+KW  - Ontology
+KW  - Semantics
+KW  - Websites
+KW  - Criminal activities
+KW  - Entity-relationship
+KW  - Law-enforcement agencies
+KW  - Machine readable form
+KW  - Multiple modalities
+KW  - NAtural language processing
+KW  - Rule-based approach
+KW  - Semantic similarity measures
+KW  - Computer crime
+PB  - Elsevier Ltd
+SN  - 03064573 (ISSN)
+LA  - English
+J2  - Inf. Process. Manage.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 35; Correspondence Address: S. K; Department of Computer Science and Engineering, National Institute of Technology Karnataka, Surathkal, India; email: srinivas.karur@gmail.com; CODEN: IPMAD
+ER  -
+
+TY  - JOUR
+AU  - Capuano, N.
+AU  - Toti, D.
+TI  - Experimentation of a smart learning system for law based on knowledge discovery and cognitive computing
+PY  - 2019
+T2  - Computers in Human Behavior
+VL  - 92
+SP  - 459
+EP  - 467
+DO  - 10.1016/j.chb.2018.03.034
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85060557552&doi=10.1016%2fj.chb.2018.03.034&partnerID=40&md5=9a759f02e0baa950f0354dd02f3d858f
+AD  - Department of Information, Electrical Engineering and Applied Mathematics, University of Salerno, Fisciano, SA, Italy
+AD  - Department of Sciences, Roma Tre University, Rome, Italy
+AB  - This work presents a Smart Learning system based on Knowledge Discovery and Cognitive Computing techniques aimed at citizens, legal students and experts alike, providing them with the possibility of submitting legal cases expressed in natural language and obtaining legal insight and advice in return. Advanced features implemented within the system include the automatic conceptualization and classification of textual legal cases via natural language processing, the generation of learning paths by relying upon legal ontologies, and additional features for managing legal knowledge bases, including editing, versioning, integration and enrichment. The system has been experimented on a diversified user-base and succeeded in obtaining a positive evaluation with respect to the aspects that were subject of the investigation, including effectiveness, efficiency and usability, thus paving the way to make the system a successful cognitive learning platform for future law professionals and knowledgeable citizens. © 2018 Elsevier Ltd
+KW  - Adaptive learning
+KW  - Cognitive computing
+KW  - Knowledge discovery
+KW  - Natural language processing
+KW  - Online dispute resolution
+KW  - Ontology integration
+KW  - Data mining
+KW  - Laws and legislation
+KW  - Learning systems
+KW  - Ontology
+KW  - Adaptive learning
+KW  - Cognitive Computing
+KW  - NAtural language processing
+KW  - On-line dispute resolution
+KW  - Ontology integration
+KW  - article
+KW  - human
+KW  - human experiment
+KW  - knowledge base
+KW  - knowledge discovery
+KW  - learning
+KW  - natural language processing
+KW  - ontology
+KW  - student
+KW  - Natural language processing systems
+PB  - Elsevier Ltd
+SN  - 07475632 (ISSN)
+LA  - English
+J2  - Comput. Hum. Behav.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 28; Correspondence Address: D. Toti; Department of Sciences, Roma Tre University, Rome, Italy; email: daniele.toti@computationalbiology.it; CODEN: CHBEE
+ER  -
+
+TY  - JOUR
+AU  - Fawei, B.
+AU  - Pan, J.Z.
+AU  - Kollingbaum, M.
+AU  - Wyner, A.Z.
+TI  - A Semi-automated Ontology Construction for Legal Question Answering
+PY  - 2019
+T2  - New Generation Computing
+VL  - 37
+IS  - 4
+SP  - 453
+EP  - 478
+DO  - 10.1007/s00354-019-00070-2
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85073985000&doi=10.1007%2fs00354-019-00070-2&partnerID=40&md5=82153d762ddd3c7e484736b25315330f
+AD  - Department of Computing Science, University of Aberdeen, Aberdeen, United Kingdom
+AD  - School of Law and Department of Computer Science, Swansea University, Swansea, United Kingdom
+AB  - The internet and the development of the semantic web have created the opportunity to provide structured legal data on the web. However, most legal information is in text. It is difficult to automatically determine the right natural language answer about the law to a given natural language question. One approach is to develop systems of legal ontologies and rules. Our example ontology represents semantic information about USA criminal law and procedure as well as the applicable legal rules. The purpose of the ontology is to provide reasoning support to a legal question answering tool that determines entailment between a pair of texts, one known as the background information (Bg) and the other question statement (Q), so whether Bg entails Q based on the application of the legal rules. The key contribution of this paper is the methodology and the semi-automated legal ontology generation tool, a clear and well-structured methodology that serves to develop such criminal law ontologies and rules (CLOR). © 2019, The Author(s).
+KW  - Bar examination
+KW  - Legal rules
+KW  - Ontology
+KW  - Automation
+KW  - Crime
+KW  - Natural language processing systems
+KW  - Automated ontology constructions
+KW  - Background information
+KW  - Legal information
+KW  - Legal rules
+KW  - Natural language questions
+KW  - Natural languages
+KW  - Ontologies and rules
+KW  - Semantic information
+KW  - Ontology
+PB  - Springer Tokyo
+SN  - 02883635 (ISSN)
+LA  - English
+J2  - New Gener Comput
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 37; Correspondence Address: B. Fawei; Department of Computing Science, University of Aberdeen, Aberdeen, United Kingdom; email: r01bjf15@abdn.ac.uk; CODEN: NGCOE
+ER  -
+
+TY  - JOUR
+AU  - Chalkidis, I.
+AU  - Kampas, D.
+TI  - Deep learning in law: early adaptation and legal word embeddings trained on large corpora
+PY  - 2019
+T2  - Artificial Intelligence and Law
+VL  - 27
+IS  - 2
+SP  - 171
+EP  - 198
+DO  - 10.1007/s10506-018-9238-9
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85058167692&doi=10.1007%2fs10506-018-9238-9&partnerID=40&md5=8e1f9ce05a13f38a96c2ac057d0703ee
+AD  - Department of Informatics, Athens University of Economics and Business, Athens, Greece
+AD  - IT for Innovation Services, Luxembourg Institute of Science and Technology, Esch-sur-Alzette, Luxembourg
+AB  - Deep Learning has been widely used for tackling challenging natural language processing tasks over the recent years. Similarly, the application of Deep Neural Networks in legal analytics has increased significantly. In this survey, we study the early adaptation of Deep Learning in legal analytics focusing on three main fields; text classification, information extraction, and information retrieval. We focus on the semantic feature representations, a key instrument for the successful application of deep learning in natural language processing. Additionally, we share pre-trained legal word embeddings using the word2vec model over large corpora, comprised legislations from UK, EU, Canada, Australia, USA, and Japan among others. © 2018, Springer Nature B.V.
+KW  - Deep learning
+KW  - Legal word vectors
+KW  - Natural language processing
+KW  - Binary alloys
+KW  - Classification (of information)
+KW  - Deep learning
+KW  - Deep neural networks
+KW  - Information retrieval
+KW  - Potassium alloys
+KW  - Semantics
+KW  - Text processing
+KW  - Uranium alloys
+KW  - Australia
+KW  - Embeddings
+KW  - Large corpora
+KW  - Semantic features
+KW  - Text classification
+KW  - Word vectors
+KW  - Natural language processing systems
+PB  - Springer Netherlands
+SN  - 09248463 (ISSN)
+LA  - English
+J2  - Artif Intell Law
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 125; Correspondence Address: I. Chalkidis; Department of Informatics, Athens University of Economics and Business, Athens, Greece; email: ihalk@aueb.gr; CODEN: AINLE
+ER  -
+
+TY  - JOUR
+AU  - Waltl, B.
+AU  - Bonczek, G.
+AU  - Scepankova, E.
+AU  - Matthes, F.
+TI  - Semantic types of legal norms in German laws: classification and analysis using local linear explanations
+PY  - 2019
+T2  - Artificial Intelligence and Law
+VL  - 27
+IS  - 1
+SP  - 43
+EP  - 71
+DO  - 10.1007/s10506-018-9228-y
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85050286668&doi=10.1007%2fs10506-018-9228-y&partnerID=40&md5=7f3d1575d2c0156a492ed76dcd7d195f
+AD  - Software Engineering for Business Information Systems, Department of Informatics, Technical University of Munich, Boltzmannstraße 3, Garching bei München, 85748, Germany
+AB  -                              This paper describes the automated classification of legal norms in German statutes with regard to their semantic type. We propose a semantic type taxonomy for norms in the German civil law domain consisting of nine different types focusing on functional aspects, such as Duties, Prohibitions, Permissions, etc. We performed four iterations in classifying legal norms with a rule-based approach using a manually labeled dataset, i.e., tenancy law, of the German Civil Code (n = 601). During this experiment the F                             1                              score continuously improved from 0.52 to 0.78. In contrast, a machine learning based approach for the classification was implemented. A performance of F                             1                             = 0.83 was reached. Traditionally, machine learning classifiers lack of transparency with regard to their decisions. We extended our approach using so-called local linear approximations, which is a novel technique to analyze and inspect a trained classifier’s behavior. We can show that there are significant similarities of manually crafted knowledge, i.e., rules and pattern definitions, and the trained decision structures of machine learning approaches.                          © 2018, Springer Nature B.V.
+KW  - Classifying legal norms
+KW  - Explainable machine learning
+KW  - Local interpretable models
+KW  - Natural language processing
+KW  - Rule-based information extraction
+KW  - Supervised machine learning
+KW  - Artificial intelligence
+KW  - Learning algorithms
+KW  - Natural language processing systems
+KW  - Semantics
+KW  - Supervised learning
+KW  - Automated classification
+KW  - Legal norms
+KW  - Local linear approximation
+KW  - Machine learning approaches
+KW  - Pattern definition
+KW  - Rule based
+KW  - Rule-based approach
+KW  - Supervised machine learning
+KW  - Classification (of information)
+PB  - Springer Netherlands
+SN  - 09248463 (ISSN)
+LA  - English
+J2  - Artif Intell Law
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 30; Correspondence Address: B. Waltl; Software Engineering for Business Information Systems, Department of Informatics, Technical University of Munich, Garching bei München, Boltzmannstraße 3, 85748, Germany; email: b.waltl@tum.de; CODEN: AINLE
+ER  -
+
+TY  - JOUR
+AU  - Dale, R.
+TI  - Law and word order: NLP in legal tech
+PY  - 2019
+T2  - Natural Language Engineering
+VL  - 25
+IS  - 1
+SP  - 211
+EP  - 217
+DO  - 10.1017/S1351324918000475
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85059904475&doi=10.1017%2fS1351324918000475&partnerID=40&md5=19a0c476fa209f71e68f0d82a32a8bf9
+AD  - Language Technology Group, United Kingdom
+AB  - The law has language at its heart, so it's not surprising that software that operates on natural language has played a role in some areas of the legal profession for a long time. But the last few years have seen an increased interest in applying modern techniques to a wider range of problems, so I look here at how natural language processing is being used in the legal sector today. © 2018 Cambridge University Press.
+KW  - Artificial intelligence
+KW  - Software engineering
+KW  - Legal profession
+KW  - Modern techniques
+KW  - Natural languages
+KW  - Word orders
+KW  - Natural language processing systems
+PB  - Cambridge University Press
+SN  - 13513249 (ISSN)
+LA  - English
+J2  - Nat Lang Eng
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 64; Correspondence Address: R. Dale; Language Technology Group, United Kingdom; email: rdale@language-technology.com; CODEN: NLENF
+ER  -
+
+TY  - JOUR
+AU  - Robaldo, L.
+AU  - Villata, S.
+AU  - Wyner, A.
+AU  - Grabmair, M.
+TI  - Introduction for artificial intelligence and law: special issue “natural language processing for legal texts”
+PY  - 2019
+T2  - Artificial Intelligence and Law
+VL  - 27
+IS  - 2
+SP  - 113
+EP  - 115
+DO  - 10.1007/s10506-019-09251-2
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85064342880&doi=10.1007%2fs10506-019-09251-2&partnerID=40&md5=8ae22ae14183de8de9512b356e832f4f
+AD  - University of Luxembourg, Luxembourg city, Luxembourg
+AD  - CNRS, Inria, I3S, Université Côte d’Azur, Sophia Antipolis, France
+AD  - Swansea University, Singleton Park, Swansea, SA2 8PP, United Kingdom
+AD  - Carnegie Mellon University, Pittsburgh, United States
+PB  - Springer Netherlands
+SN  - 09248463 (ISSN)
+LA  - English
+J2  - Artif Intell Law
+M3  - Editorial
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 35; Correspondence Address: L. Robaldo; University of Luxembourg, Luxembourg city, Luxembourg; email: livio.robaldo@uni.lu; CODEN: AINLE
+ER  -
+

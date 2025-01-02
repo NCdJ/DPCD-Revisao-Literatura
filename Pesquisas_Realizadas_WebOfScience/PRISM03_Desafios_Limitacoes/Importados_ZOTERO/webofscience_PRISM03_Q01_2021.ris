@@ -1,0 +1,77 @@
+﻿TY  - JOUR
+AU  - Vu, ST
+AU  - Nguyen, ML
+AU  - Satoh, K
+TI  - Abstract meaning representation for legal documents: an empirical research on a human-annotated dataset
+T2  - ARTIFICIAL INTELLIGENCE AND LAW
+LA  - English
+KW  - Abstract meaning representation
+KW  - Deep neural network
+KW  - Legal document
+KW  - TRANSLATION
+AB  - Natural language processing techniques contribute more and more in analyzing legal documents recently, which supports the implementation of laws and rules using computers. Previous approaches in representing a legal sentence often based on logical patterns that illustrate the relations between concepts in the sentence, often consist of multiple words. Those representations cause the lack of semantic information at the word level. In our work, we aim to tackle such shortcomings by representing legal texts in the form of abstract meaning representation (AMR), a graph-based semantic representation that gains lots of polarity in NLP community recently. We present our study in AMR Parsing (producing AMR from natural language) and AMR-to-text Generation (producing natural language from AMR) specifically for legal domain. We also introduce JCivilCode, a human-annotated legal AMR dataset which was created and verified by a group of linguistic and legal experts. We conduct an empirical evaluation of various approaches in parsing and generating AMR on our own dataset and show the current challenges. Based on our observation, we propose our domain adaptation method applying in the training phase and decoding phase of a neural AMR-to-text generation model. Our method improves the quality of text generated from AMR graph compared to the baseline model. (This work is extended from our two previous papers: "An Empirical Evaluation of AMR Parsing for Legal Documents", published in the Twelfth International Workshop on Juris-informatics (JURISIN) 2018; and "Legal Text Generation from Abstract Meaning Representation", published in the 32nd International Conference on Legal Knowledge and Information Systems (JURIX) 2019.).
+AD  - Japan Adv Inst Sci & Technol, Nomi, Ishikawa 9231292, JapanAD  - Natl Inst Informat, Tokyo 1000003, JapanC3  - Japan Advanced Institute of Science & Technology (JAIST)C3  - Research Organization of Information & Systems (ROIS)C3  - National Institute of Informatics (NII) - JapanFU  - JST CREST Japan [JPMJCR1513]; JSPS Kakenhi [20H04295, 20K2046, 20K20625]; Asian Office of Aerospace R\&D (AOARD), Air Force Office of Scientific Research [FA2386-19-1-4041]; Grants-in-Aid for Scientific Research [20H04295] Funding Source: KAKEN
+FX  - This work was supported by JST CREST Grant Number JPMJCR1513 Japan, JSPS Kakenhi Grant Number 20H04295, 20K2046, and 20K20625. The research also was supported in part by the Asian Office of Aerospace R\&D (AOARD), Air Force Office of Scientific Research (Grant no. FA2386-19-1-4041).
+PU  - SPRINGER
+PI  - DORDRECHT
+PA  - VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN  - 0924-8463
+SN  - 1572-8382
+J9  - ARTIF INTELL LAW
+JI  - Artif. Intell. Law
+DA  - JUN
+PY  - 2022
+VL  - 30
+IS  - 2
+SP  - 221
+EP  - 243
+DO  - 10.1007/s10506-021-09292-6
+C6  - JUL 2021
+WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:000671705100001
+N1  - Times Cited in Web of Science Core Collection:  2
+Total Times Cited:  3
+Cited Reference Count:  53
+ER  -
+
+TY  - CPAPER
+AU  - Razeira, RM
+AU  - Rodello, IA
+ED  - Gervasi, O
+ED  - Murgante, B
+ED  - Misra, S
+ED  - Garau, C
+ED  - Blecic, I
+ED  - Taniar, D
+ED  - Apduhan, BO
+ED  - Rocha, AMAC
+ED  - Tarantino, E
+ED  - Torre, CM
+TI  - A LSTM Recurrent Neural Network Implementation for Classifying Entities on Brazilian Legal Documents
+T2  - COMPUTATIONAL SCIENCE AND ITS APPLICATIONS, ICCSA 2021, PT II
+LA  - English
+CP  - 21st International Conference on Computational Science and Its Applications (ICCSA)
+KW  - Natural Language Processing
+KW  - Named entity recognition
+KW  - Legal documents
+AB  - Although the use of Natural Language Processing and Named Entity Recognition methods to deal with classification problems in the most diverse areas is something well-established, applications in Law offer challenges due to the specific terminology, broader vocabulary and the presence of more complex semantic and syntactic structures compared to spoken Portuguese. In this short paper, we present a Recurrent Neural Network implementation using LSTM to classify entities such as class, subject, value, individuals, among others items, in lawsuits. The initial dataset focused on a sample of 100 thousand lawsuits of Sao Paulo state court, in Brazil. The proposed method achieved an accuracy and F1-score of approximately 90% in the tested data. Such preliminary results indicate that it is possible to create a model capable of generalizing such classifications on a large scale even regarding the specifics of Brazilian legal texts terminology.
+AD  - Univ Sao Paulo, BR-14049900 Ribeirao Preto, SP, BrazilC3  - Universidade de Sao PauloFU  - Huawei do Brasil Telecomunicacoes Ltda [3123/2020]; University of Sao Paulo [668]
+FX  - This project has been partially supported by Huawei do Brasil Telecomunicacoes Ltda (Fundunesp process #3123/2020) and by University of Sao Paulo (Portaria PRP N degrees 668, DE 17 DE OUTUBRO DE 2018).
+PU  - SPRINGER INTERNATIONAL PUBLISHING AG
+PI  - CHAM
+PA  - GEWERBESTRASSE 11, CHAM, CH-6330, SWITZERLAND
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 978-3-030-86960-1
+SN  - 978-3-030-86959-5
+J9  - LECT NOTES COMPUT SC
+PY  - 2021
+VL  - 12950
+SP  - 648
+EP  - 656
+DO  - 10.1007/978-3-030-86960-1_48
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000722379800048
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  1
+Cited Reference Count:  12
+ER  -
+

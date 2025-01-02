@@ -1,0 +1,387 @@
+﻿TY  - JOUR
+AU  - Mökander, J
+AU  - Floridi, L
+TI  - Ethics-Based Auditing to Develop Trustworthy AI
+T2  - MINDS AND MACHINES
+LA  - English
+KW  - Artificial intelligence
+KW  - Auditing
+KW  - Best practice
+KW  - Ethics
+KW  - Governance
+KW  - Process
+AB  - A series of recent developments points towards auditing as a promising mechanism to bridge the gap between principles and practice in AI ethics. Building on ongoing discussions concerning ethics-based auditing, we offer three contributions. First, we argue that ethics-based auditing can improve the quality of decision making, increase user satisfaction, unlock growth potential, enable law-making, and relieve human suffering. Second, we highlight current best practices to support the design and implementation of ethics-based auditing: To be feasible and effective, ethics-based auditing should take the form of a continuous and constructive process, approach ethical alignment from a system perspective, and be aligned with public policies and incentives for ethically desirable behaviour. Third, we identify and discuss the constraints associated with ethics-based auditing. Only by understanding and accounting for these constraints can ethics-based auditing facilitate ethical alignment of AI, while enabling society to reap the full economic and social benefits of automation.
+AD  - Univ Oxford, Oxford Internet Inst, 1 St Giles, Oxford OX1 3JS, EnglandAD  - Alan Turing Inst, British Lib, 96 Euston Rd, London NW1 2DB, EnglandC3  - University of OxfordFU  - Wallenberg Foundation
+FX  - Jakob Mokander was supported by the Wallenberg Foundation.
+PU  - SPRINGER
+PI  - DORDRECHT
+PA  - VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN  - 0924-6495
+SN  - 1572-8641
+J9  - MIND MACH
+JI  - Minds Mach.
+DA  - JUN
+PY  - 2021
+VL  - 31
+IS  - 2
+SP  - 323
+EP  - 327
+DO  - 10.1007/s11023-021-09557-8
+C6  - FEB 2021
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000619696300001
+N1  - Times Cited in Web of Science Core Collection:  45
+Total Times Cited:  46
+Cited Reference Count:  4
+ER  -
+
+TY  - CPAPER
+AU  - Ehsan, U
+AU  - Wintersberger, P
+AU  - Liao, QV
+AU  - Mara, M
+AU  - Streit, M
+AU  - Wachter, S
+AU  - Riener, A
+AU  - Riedl, MO
+A1  - ACM
+TI  - Operationalizing Human-Centered Perspectives in Explainable AI
+T2  - EXTENDED ABSTRACTS OF THE 2021 CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS (CHI'21)
+LA  - English
+CP  - CHI Conference on Human Factors in Computing Systems
+KW  - Explainable Artificial Intelligence
+KW  - Interpretable Machine Learning
+KW  - Interpretability
+KW  - Artificial Intelligence
+KW  - Critical Technical Practice
+KW  - Human-centered Computing
+KW  - Trust in Automation
+KW  - Algorithmic Fairness
+AB  - The realm of Artificial Intelligence (AI)'s impact on our lives is far reaching - with AI systems proliferating high-stakes domains such as healthcare, finance, mobility, law, etc., these systems must be able to explain their decision to diverse end-users comprehensibly. Yet the discourse of Explainable AI (XAI) has been predominantly focused on algorithm-centered approaches, suffering from gaps in meeting user needs and exacerbating issues of algorithmic opacity. To address these issues, researchers have called for human-centered approaches to XAI. There is a need to chart the domain and shape the discourse of XAI with reflective discussions from diverse stakeholders. The goal of this workshop is to examine how human-centered perspectives in XAI can be operationalized at the conceptual, methodological, and technical levels. Encouraging holistic (historical, sociological, and technical) approaches, we put an emphasis on "operationalizing", aiming to produce actionable frameworks, transferable evaluation methods, concrete design guidelines, and articulate a coordinated research agenda for XAI.
+AD  - Georgia Inst Technol, Atlanta, GA 30332 USAAD  - TH Ingolstadt THI, CARISSMA, Ingolstadt, Bavaria, GermanyAD  - IBM Res AI, Yorktown Hts, NY USAAD  - Johannes Kepler Univ Linz, Linz, Upper Austria, AustriaAD  - Univ Oxford, Oxford Internet Inst, Oxford, EnglandAD  - TH Ingolstadt THI, Ingolstadt, Bavaria, GermanyC3  - University System of GeorgiaC3  - Georgia Institute of TechnologyC3  - Johannes Kepler University LinzC3  - University of OxfordFU  - FH-Impuls program of the German Federal Ministry of Education and Research (BMBF) [13FH7I01IA]
+FX  - This work is supported under the FH-Impuls program of the German Federal Ministry of Education and Research (BMBF) under Grant Number 13FH7I01IA (SAFIR). We are grateful to members of the Human-centered AI lab at Georgia Tech for their input during brainstorming of these ideas.
+PU  - ASSOC COMPUTING MACHINERY
+PI  - NEW YORK
+PA  - 1601 Broadway, 10th Floor, NEW YORK, NY, UNITED STATES
+SN  - 978-1-4503-8095-9
+PY  - 2021
+DO  - 10.1145/3411763.3441342
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000759178500033
+N1  - Times Cited in Web of Science Core Collection:  45
+Total Times Cited:  50
+Cited Reference Count:  30
+ER  -
+
+TY  - JOUR
+AU  - Ismail, W
+AU  - Niknejad, N
+AU  - Bahari, M
+AU  - Hendradi, R
+AU  - Zaizi, NJM
+AU  - Zulkifli, MZ
+TI  - Water treatment and artificial intelligence techniques: a systematic literature review research
+T2  - ENVIRONMENTAL SCIENCE AND POLLUTION RESEARCH
+LA  - English
+KW  - Artificial intelligence
+KW  - Water treatment
+KW  - Literature review
+KW  - Water quality
+KW  - WASTE-WATER
+KW  - TREATMENT-PLANT
+KW  - NEURAL-NETWORK
+KW  - QUALITY PARAMETERS
+KW  - PREDICTION
+KW  - OPTIMIZATION
+KW  - REMOVAL
+KW  - MACHINE
+KW  - MODEL
+KW  - PERFORMANCE
+AB  - As clean water can be considered among the essentials of human life, there is always a requirement to seek its foremost and high quality. Water primarily becomes polluted due to organic as well as inorganic pollutants, including nutrients, heavy metals, and constant contamination with organic materials. Predicting the quality of water accurately is essential for its better management along with controlling pollution. With stricter laws regarding water treatment to remove organic and biologic materials along with different pollutants, looking for novel technologic procedures will be necessary for improved control of the treatment processes by water utilities. Linear regression-based models with relative simplicity considering water prediction have been typically used as available statistical models. Nevertheless, in a majority of real problems, particularly those associated with modeling of water quality, non-linear patterns will be observed, requiring non-linear models to address them. Thus, artificial intelligence (AI) can be a good candidate in modeling and optimizing the elimination of pollutants from water in empirical settings with the ability to generate ideal operational variables, due to its recent considerable advancements. Management and operation of water treatment procedures are supported technically by these technologies, leading to higher efficiency compared to sole dependence on human operations. Thus, establishing predictive models for water quality and subsequently, more efficient management of water resources would be critically important, serving as a strong tool. A systematic review methodology has been employed in the present work to investigate the previous studies over the time interval of 2010-2020, while analyzing and synthesizing the literature, particularly regarding AI application in water treatment. A total number of 92 articles had addressed the topic under study using AI. Based on the conclusions, the application of AI can obviously facilitate operations, process automation, and management of water resources in significantly volatile contexts.
+AD  - Univ Sains Islam Malaysia, Fac Sci & Technol, Nilai, Negeri Sembilan, MalaysiaAD  - Univ Airlangga, Fac Sci & Technol, Indonesia Kampus C, Surabaya, IndonesiaAD  - Univ Teknol Malaysia, Fac Engn, Sch Comp, Johor Baharu, MalaysiaAD  - Univ Teknol Malaysia, Azman Hashim Int Business Sch, Johor Baharu, MalaysiaAD  - Int Islamic Univ Malaysia, Kulliyah Sci, Kuantan, Pahang, MalaysiaC3  - Universiti Sains Islam MalaysiaC3  - Airlangga UniversityC3  - Universiti Teknologi MalaysiaC3  - Universiti Teknologi MalaysiaC3  - International Islamic University MalaysiaFU  - Universiti Sains Islam Malaysia and Universitas Airlangga
+FX  - The authors gratefully acknowledge financial support from the Universiti Sains Islam Malaysia and Universitas Airlangga.
+PU  - SPRINGER HEIDELBERG
+PI  - HEIDELBERG
+PA  - TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN  - 0944-1344
+SN  - 1614-7499
+J9  - ENVIRON SCI POLLUT R
+JI  - Environ. Sci. Pollut. Res.
+DA  - JUN
+PY  - 2023
+VL  - 30
+IS  - 28
+SP  - 71794
+EP  - 71812
+DO  - 10.1007/s11356-021-16471-0
+C6  - OCT 2021
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000703856200001
+N1  - Times Cited in Web of Science Core Collection:  19
+Total Times Cited:  19
+Cited Reference Count:  97
+ER  -
+
+TY  - JOUR
+AU  - Vermesan, O
+AU  - John, R
+AU  - Pype, P
+AU  - Daalderop, G
+AU  - Kriegel, K
+AU  - Mitic, G
+AU  - Lorentz, V
+AU  - Bahr, R
+AU  - Sand, HE
+AU  - Bockrath, S
+AU  - Waldhör, S
+TI  - Automotive Intelligence Embedded in Electric Connected Autonomous and Shared Vehicles Technology for Sustainable Green Mobility
+T2  - FRONTIERS IN FUTURE TRANSPORTATION
+LA  - English
+KW  - artificial intelligence
+KW  - electric connected autonomous and shared vehicles
+KW  - internet of vehicles
+KW  - edge computing
+KW  - automotive architectures
+KW  - swarm intelligence
+KW  - vehicle-to-everything communication
+KW  - green mobility
+KW  - EVOLUTION
+AB  - The automotive sector digitalization accelerates the technology convergence of perception, computing processing, connectivity, propulsion, and data fusion for electric connected autonomous and shared (ECAS) vehicles. This brings cutting-edge computing paradigms with embedded cognitive capabilities into vehicle domains and data infrastructure to provide holistic intrinsic and extrinsic intelligence for new mobility applications. Digital technologies are a significant enabler in achieving the sustainability goals of the green transformation of the mobility and transportation sectors. Innovation occurs predominantly in ECAS vehicles' architecture, operations, intelligent functions, and automotive digital infrastructure. The traditional ownership model is moving toward multimodal and shared mobility services. The ECAS vehicle's technology allows for the development of virtual automotive functions that run on shared hardware platforms with data unlocking value, and for introducing new, shared computing-based automotive features. Facilitating vehicle automation, vehicle electrification, vehicle-to-everything (V2X) communication is accomplished by the convergence of artificial intelligence (AI), cellular/wireless connectivity, edge computing, the Internet of things (IoT), the Internet of intelligent things (IoIT), digital twins (DTs), virtual/augmented reality (VR/AR) and distributed ledger technologies (DLTs). Vehicles become more intelligent, connected, functioning as edge micro servers on wheels, powered by sensors/actuators, hardware (HW), software (SW) and smart virtual functions that are integrated into the digital infrastructure. Electrification, automation, connectivity, digitalization, decarbonization, decentralization, and standardization are the main drivers that unlock intelligent vehicles' potential for sustainable green mobility applications. ECAS vehicles act as autonomous agents using swarm intelligence to communicate and exchange information, either directly or indirectly, with each other and the infrastructure, accessing independent services such as energy, high-definition maps, routes, infrastructure information, traffic lights, tolls, parking (micropayments), and finding emergent/intelligent solutions. The article gives an overview of the advances in AI technologies and applications to realize intelligent functions and optimize vehicle performance, control, and decision-making for future ECAS vehicles to support the acceleration of deployment in various mobility scenarios. ECAS vehicles, systems, sub-systems, and components are subjected to stringent regulatory frameworks, which set rigorous requirements for autonomous vehicles. An in-depth assessment of existing standards, regulations, and laws, including a thorough gap analysis, is required. Global guidelines must be provided on how to fulfill the requirements. ECAS vehicle technology trustworthiness, including AI-based HW/SW and algorithms, is necessary for developing ECAS systems across the entire automotive ecosystem. The safety and transparency of AI-based technology and the explainability of the purpose, use, benefits, and limitations of AI systems are critical for fulfilling trustworthiness requirements. The article presents ECAS vehicles' evolution toward domain controller, zonal vehicle, and federated vehicle/edge/cloud-centric based on distributed intelligence in the vehicle and infrastructure level architectures and the role of AI techniques and methods to implement the different autonomous driving and optimization functions for sustainable green mobility.
+AD  - SINTEF Digital AS, Oslo, NorwayAD  - AVL List GmbH, Graz, AustriaAD  - NXP Semicond, Leuven, BelgiumAD  - Siemens AG, Munich, GermanyAD  - Fraunhofer IISB, Erlangen, GermanyAD  - NxTech AS, Fredrikstad, NorwayC3  - Anstalt fur Verbrennungskraftmaschinen ListC3  - NXP SemiconductorsC3  - Siemens AGC3  - Siemens GermanyC3  - University of Erlangen NurembergFU  - European Commission within the European Union [877539]; ECSEL Joint Undertaking project SECREDAS [826060]; ECSEL Joint Undertaking project AI4CSM; ECSEL Joint Undertaking project AI4DI;  [783119];  [101007326]
+FX  - This work was supported by the European Commission within the European Union's Horizon 2020 research and innovation programme funding, ECSEL Joint Undertaking project Architect ECA2030 under Grant Agreement No. 877539, ECSEL Joint Undertaking project AI4DI under Grant Agreement No. 826060, ECSEL Joint Undertaking project SECREDAS under Grant Agreement No 783119 and ECSEL Joint Undertaking project AI4CSM under Grant Agreement No. 101007326.
+PU  - FRONTIERS MEDIA SA
+PI  - LAUSANNE
+PA  - AVENUE DU TRIBUNAL FEDERAL 34, LAUSANNE, CH-1015, SWITZERLAND
+SN  - 2673-5210
+J9  - FRONT FUTURE TRANSP
+JI  - Front. Future Transp.
+DA  - AUG 26
+PY  - 2021
+VL  - 2
+C7  - 688482
+DO  - 10.3389/ffutr.2021.688482
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001034011000001
+N1  - Times Cited in Web of Science Core Collection:  19
+Total Times Cited:  19
+Cited Reference Count:  130
+ER  -
+
+TY  - JOUR
+AU  - Jarrett, A
+AU  - Choo, KKR
+TI  - The impact of automation and artificial intelligence on digital forensics
+T2  - WILEY INTERDISCIPLINARY REVIEWS: FORENSIC SCIENCE
+LA  - English
+KW  - artificial intelligence
+KW  - automation
+KW  - computer forensics
+KW  - deep learning
+KW  - digital forensics
+KW  - forensics
+KW  - machine learning
+AB  - Artificial intelligence (AI; broadly defined to include Machine Learning and Deep Learning) and automation are two current and reciprocal computing disciplines. As such, AI-powered software, programs, operating systems, and devices are developed on a massive scale to automate a wide variety of processes and operations. The principal aims of integrating AI and automation include efficiency, accuracy, and cost-reduction. While there is still an on-going cost associated with automation, the cost is typically many magnitudes smaller than the on-going costs incurred to get the job done manually, which increases the likelihood of generating a high return on investment. One emerging application of AI and automation is digital forensics. For example, US Federal and State Law Enforcement Agencies have started exploring the utility of AI-powered technology to make the job of digital forensics more impactful. This trend can maximize the accuracy of digital forensic investigations, enabling the resolution of more digital investigations. This article is categorized under: Digital and Multimedia Science > Cyber Threat Intelligence Digital and Multimedia Science > Artificial Intelligence Digital and Multimedia Science > Cybercrime Investigation
+AD  - Univ Texas San Antonio, Dept Informat Syst & Cyber Secur, San Antonio, TX 78249 USAC3  - University of Texas SystemC3  - University of Texas at San Antonio (UTSA)PU  - WILEY
+PI  - HOBOKEN
+PA  - 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN  - 2573-9468
+J9  - WIRES FORENSIC SCI
+JI  - Wiley Interdiscip. Rev.-Forensic Sci.
+DA  - NOV-DEC
+PY  - 2021
+VL  - 3
+IS  - 6
+C7  - e1418
+DO  - 10.1002/wfs2.1418
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:000904725800006
+N1  - Times Cited in Web of Science Core Collection:  15
+Total Times Cited:  21
+Cited Reference Count:  46
+ER  -
+
+TY  - JOUR
+AU  - Cabitza, F
+AU  - Campagner, A
+AU  - Sconfienza, LM
+TI  - Studying human-AI collaboration protocols: the case of the Kasparov's law in radiological double reading
+T2  - HEALTH INFORMATION SCIENCE AND SYSTEMS
+LA  - English
+KW  - Kasparov&#8217
+KW  - s Law
+KW  - Interaction protocols
+KW  - Double reading
+KW  - Collective intelligence
+KW  - Hybrid intelligence
+KW  - AUTOMATION BIAS
+KW  - DECISION-MAKING
+KW  - INTELLIGENCE
+KW  - TEAMWORK
+AB  - Purpose The integration of Artificial Intelligence into medical practices has recently been advocated for the promise to bring increased efficiency and effectiveness to these practices. Nonetheless, little research has so far been aimed at understanding the best human-AI interaction protocols in collaborative tasks, even in currently more viable settings, like independent double-reading screening tasks. Methods To this aim, we report about a retrospective case-control study, involving 12 board-certified radiologists, in the detection of knee lesions by means of Magnetic Resonance Imaging, in which we simulated the serial combination of two Deep Learning models with humans in eight double-reading protocols. Inspired by the so-called Kasparov's Laws, we investigate whether the combination of humans and AI models could achieve better performance than AI models alone, and whether weak reader, when supported by fit-for-use interaction protocols, could out-perform stronger readers. Results We discuss two main findings: groups of humans who perform significantly worse than a state-of-the-art AI can significantly outperform it if their judgements are aggregated by majority voting (in concordance with the first part of the Kasparov's law); small ensembles of significantly weaker readers can significantly outperform teams of stronger readers, supported by the same computational tool, when the judgments of the former ones are combined within "fit-for-use" protocols (in concordance with the second part of the Kasparov's law). Conclusion Our study shows that good interaction protocols can guarantee improved decision performance that easily surpasses the performance of individual agents, even of realistic super-human AI systems. This finding highlights the importance of focusing on how to guarantee better co-operation within human-AI teams, so to enable safer and more human sustainable care practices.
+AD  - Univ Milano Bicocca, Viale Sarca 336, I-20126 Milan, ItalyAD  - Univ Milan, Dept Biomed Sci Hlth, Milan, ItalyAD  - IRCCS Ist Ortoped Galeazzi, Milan, ItalyC3  - University of Milano-BicoccaC3  - University of MilanC3  - IRCCS Istituto Ortopedico GaleazziFU  - Universita degli Studi di Milano -Bicocca
+FX  - Open Access funding provided by Universita degli Studi di Milano -Bicocca. None.
+PU  - SPRINGER
+PI  - NEW YORK
+PA  - ONE NEW YORK PLAZA, SUITE 4600, NEW YORK, NY, UNITED STATES
+SN  - 2047-2501
+J9  - HEALTH INF SCI SYST
+JI  - Health Inf. Sci. Syst.
+DA  - FEB 5
+PY  - 2021
+VL  - 9
+IS  - 1
+C7  - 8
+DO  - 10.1007/s13755-021-00138-8
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000615248000001
+N1  - Times Cited in Web of Science Core Collection:  15
+Total Times Cited:  15
+Cited Reference Count:  50
+ER  -
+
+TY  - CPAPER
+AU  - Wong, A
+ED  - MercierLaurent, E
+ED  - Kayalica, MO
+ED  - Owoc, ML
+TI  - Ethics and Regulation of Artificial Intelligence
+T2  - ARTIFICIAL INTELLIGENCE FOR KNOWLEDGE MANAGEMENT, AI4KM 2021
+LA  - English
+CP  - 8th IFIP WG 12.6 International Workshop on Artificial Intelligence for Knowledge Management (AI4KM)
+KW  - AI
+KW  - Robots
+KW  - Automation
+KW  - Regulation
+KW  - Ethics
+KW  - Law
+KW  - Liability
+KW  - Transparency
+KW  - Explainability
+KW  - Data protection
+KW  - Privacy
+KW  - Legal personhood
+KW  - Job transition
+KW  - Employment
+AB  - Over the last few years, the world has deliberated and developed numerous ethical principles and frameworks. It is the general opinion that the time has arrived to move from principles and to operationalize on the ethical practice of AI. It is now recognized that principles and standards can play a universal harmonizing role for the development of AI-related legal norms across the globe. However, how do we translate and embrace these articulated values, principles and actions to guide Nation States around the world to formulate their regulatory systems, policies or other legal instruments regarding AI? Our regulatory systems have attempted to keep abreast of new technologies by recalibrating and adapting our regulatory frameworks to provide for new opportunities and risks, to confer rights and duties, safety and liability frameworks, and to ensure legal certainty for businesses. These past adaptations have been reactive and sometimes piecemeal, often with artificial delineation on rights and responsibilities and with unintended flow-on consequences. Previously, technologies have been deployed more like tools, but as autonomy and self-learning capabilities increase, robots and intelligent AI systems will feel less and less like machines and tools. There is now a significant difference, because machine learning AI systems have the ability 'to learn', adapt their performances and 'make decisions' from data and `life experiences'. This paper presented at the International Joint Conference on Artificial Intelligence - Pacific Rim International Conference on Artificial Intelligence in 2021 provides brief insights on some selected topical developments in ethical principles and frameworks, our regulatory systems and the current debates on some of the risks and challenges from the use and actions of AI, autonomous and intelligent systems [1].
+AD  - AGW Legal & Advisory, Sydney, NSW, AustraliaAD  - IFIP, Laxenburg, AustriaAD  - Australian Comp Soc ACS, Sydney, NSW, AustraliaPU  - SPRINGER INTERNATIONAL PUBLISHING AG
+PI  - CHAM
+PA  - GEWERBESTRASSE 11, CHAM, CH-6330, SWITZERLAND
+SN  - 1868-4238
+SN  - 1868-422X
+SN  - 978-3-030-80847-1
+SN  - 978-3-030-80846-4
+J9  - IFIP ADV INF COMM TE
+PY  - 2021
+VL  - 614
+SP  - 1
+EP  - 18
+DO  - 10.1007/978-3-030-80847-1_1
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000777635100001
+N1  - Times Cited in Web of Science Core Collection:  6
+Total Times Cited:  6
+Cited Reference Count:  43
+ER  -
+
+TY  - JOUR
+AU  - González, AJ
+TI  - Law, Code and Exploitation: How Corporations Regulate the Working Conditions of the Digital Proletariat
+T2  - CRITICAL SOCIOLOGY
+LA  - English
+KW  - digital capitalism
+KW  - law
+KW  - code
+KW  - technology
+KW  - digital proletariat
+AB  - Contrary to what orthodox Marxism claims, the article defends that the legal field has been a fundamental aspect of the capitalist social ordering, and an unavoidable feature to understand how dominated subjectivities are produced and exploited. Expanding Lessig's concept of 'code as law' with Marxist scholarly, the article argues that digital capitalists are reorganising work and the labour force through a form of algorithmic regulation. The article states that algorithms - that is, digital machines - have become not only part of the means of production of the era of automation, but also the code by which capitalists are writing the conditions of existence and exploitation of the digital proletariat. The article bridges recent contributions on labour law, AI and algorithmic regulation with the latest Marxist sociological contributions analysing the relation of work and digital exploitation, opening with it new ways to understand how sociotechnical systems owned by corporations regulate the behaviour not only of the working class but of the wider citizenry.
+AD  - Univ Melbourne, Melbourne, Vic, AustraliaC3  - University of MelbournePU  - SAGE PUBLICATIONS INC
+PI  - THOUSAND OAKS
+PA  - 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN  - 0896-9205
+SN  - 1569-1632
+J9  - CRIT SOCIOL
+JI  - Crit. Sociol.
+DA  - MAR
+PY  - 2022
+VL  - 48
+IS  - 2
+SP  - 361
+EP  - 373
+C7  - 08969205211028964
+DO  - 10.1177/08969205211028964
+C6  - JUN 2021
+WE  - Social Science Citation Index (SSCI)AN  - WOS:000672054100001
+N1  - Times Cited in Web of Science Core Collection:  5
+Total Times Cited:  5
+Cited Reference Count:  65
+ER  -
+
+TY  - CPAPER
+AU  - Mitrou, L
+AU  - Janssen, M
+AU  - Loukis, E
+ED  - Loukis, E
+ED  - Macadar, MA
+ED  - Nielsen, MM
+TI  - Human Control and Discretion in AI-driven Decision-making in Government
+T2  - 14TH INTERNATIONAL CONFERENCE ON THEORY AND PRACTICE OF ELECTRONIC GOVERNANCE (ICEGOV 2021)
+LA  - English
+CP  - 14th International Conference on Theory and Practice of Electronic Governance (ICEGOV)
+KW  - AI
+KW  - discretion
+KW  - decision-making
+KW  - accountability
+KW  - ARTIFICIAL-INTELLIGENCE
+KW  - BIG DATA
+KW  - CHALLENGES
+KW  - ALGORITHMS
+AB  - Traditionally public decision-makers have been given discretion in many of the decisions they have to make in how to comply with legislation and policies. In this way, the context and specific circumstances can be taken into account when making decisions. This enables more acceptable solutions, but at the same time, discretion might result in treating individuals differently. With the advance of AI-based decisions, the role of the decision-makers is changing. The automation might result in fully automated decisions, humans-in-the-loop or AI might only be used as recommender systems in which humans have the discretion to deviate from the suggested decision. The predictability of and the accountability of the decisions might vary in these circumstances, although humans always remain accountable. Hence, there is a need for human-control and the decision-makers should be given sufficient authority to control the system and deal with undesired outcomes. In this direction this paper analyzes the degree of discretion and human control needed in AI-driven decision-making in government. Our analysis is based on the legal requirements set/posed to the administration, by the extensive legal frameworks that have been created for its operation, concerning the rule of law, the fairness - non-discrimination, the justifiability and accountability, and the certainty/predictability.
+AD  - Univ Aegean, Samos, GreeceAD  - Delft Univ Technol, Delft, NetherlandsC3  - University of AegeanC3  - Delft University of TechnologyPU  - ASSOC COMPUTING MACHINERY
+PI  - NEW YORK
+PA  - 1601 Broadway, 10th Floor, NEW YORK, NY, UNITED STATES
+SN  - 978-1-4503-9011-8
+PY  - 2021
+SP  - 10
+EP  - 16
+DO  - 10.1145/3494193.3494195
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)WE  - Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)AN  - WOS:000933151800002
+N1  - Times Cited in Web of Science Core Collection:  4
+Total Times Cited:  4
+Cited Reference Count:  41
+ER  -
+
+TY  - JOUR
+AU  - Kassens-Noor, E
+AU  - Siegel, J
+AU  - Decaminada, T
+TI  - Choosing Ethics Over Morals: A Possible Determinant to Embracing Artificial Intelligence in Future Urban Mobility
+T2  - FRONTIERS IN SUSTAINABLE CITIES
+LA  - English
+KW  - automation
+KW  - morals (morality)
+KW  - ethics
+KW  - autonomy
+KW  - artificial intelligence
+KW  - autonomous vehicle
+KW  - automated
+KW  - GENDER-DIFFERENCES
+KW  - AUTONOMOUS VEHICLES
+KW  - RISK-AVERSION
+KW  - TRUST
+KW  - ADOPTION
+KW  - PREFERENCES
+KW  - ATTITUDES
+KW  - ROBOTS
+KW  - USER
+AB  - Artificial Intelligence (AI) is becoming integral to human life, and the successful wide-scale uptake of autonomous and automated vehicles (AVs) will depend upon people's willingness to adopt and accept AI-based technology and its choices. A person's state of mind, a fundamental belief evolving out of an individual's character, personal choices, intrinsic motivation, and general way of life forming perceptions about how society should be governed, influences AVs perception. The state of mind includes perceptions about governance of autonomous vehicles' artificial intelligence (AVAI) and thus has an impact on a person's willingness to adopt and use AVs. However, one determinant of whether AVAI should be driven by society's ethics or the driver's morals, a "state of mind" variable, has not been studied. We asked 1,473 student, staff, and employee respondents at a university campus whether they prefer an AVAI learn their owners own personal morals (one's own principles) or adopt societal ethics (codes of conduct provided by an external source). Respondents were almost evenly split between whether AVAI should rely on ethics (45.6%) or morals (54.4%). Personal morals and societal ethics are not necessarily distinct and different. Sometimes both overlap and discrepancies are settled in court. However, with an AVAI these decision algorithms must be preprogrammed and the fundamental difference thus is whether an AI should learn from the individual driver (this is the status quo on how we drive today) or from society incorporating millions of drivers' choices. Both are bounded by law. Regardless, to successfully govern artificial intelligence in cities, policy-makers must thus bridge the deep divide between individuals who choose morals over ethics and vice versa.
+AD  - Michigan State Univ, Global Urban Studies, Sch Planning Design & Construct, E Lansing, MI 48824 USAAD  - Michigan State Univ, Global Urban Studies Program, E Lansing, MI 48824 USAAD  - Michigan State Univ, Dept Comp Sci & Engn, E Lansing, MI 48824 USAAD  - Michigan State Univ, Dept Social Sci, Sch Planning Design & Construct, E Lansing, MI 48824 USAC3  - Michigan State UniversityC3  - Michigan State UniversityC3  - Michigan State UniversityC3  - Michigan State UniversityFU  - Center of Business and Social Analytics at Michigan State University
+FX  - This work was supported by the Center of Business and Social Analytics at Michigan State University.
+PU  - FRONTIERS MEDIA SA
+PI  - LAUSANNE
+PA  - AVENUE DU TRIBUNAL FEDERAL 34, LAUSANNE, CH-1015, SWITZERLAND
+SN  - 2624-9634
+J9  - FRONT SUSTAIN CITIES
+JI  - Front. Sustain. Cities
+PY  - 2021
+VL  - 3
+C7  - 723475
+DO  - 10.3389/frsc.2021.723475
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:000751872400110
+N1  - Times Cited in Web of Science Core Collection:  3
+Total Times Cited:  3
+Cited Reference Count:  74
+ER  -
+

@@ -1,0 +1,55 @@
+﻿TY  - JOUR
+AU  - Dale, R
+TI  - Industry Watch Law and Word Order : NLP in Legal Tech
+T2  - NATURAL LANGUAGE ENGINEERING
+LA  - English
+AB  - The law has language at its heart, so it's not surprising that software that operates on natural language has played a role in some areas of the legal profession for a long time. But the last few years have seen an increased interest in applying modern techniques to a wider range of problems, so I look here at how natural language processing is being used in the legal sector today.
+AD  - Language Technol Grp, Sydney, NSW, AustraliaPU  - CAMBRIDGE UNIV PRESS
+PI  - CAMBRIDGE
+PA  - EDINBURGH BLDG, SHAFTESBURY RD, CB2 8RU CAMBRIDGE, ENGLAND
+SN  - 1351-3249
+SN  - 1469-8110
+J9  - NAT LANG ENG
+JI  - Nat. Lang. Eng.
+DA  - JAN
+PY  - 2019
+VL  - 25
+IS  - 1
+SP  - 211
+EP  - 217
+DO  - 10.1017/S1351324918000475
+WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)WE  - Arts &amp; Humanities Citation Index (A&amp;HCI)AN  - WOS:000454302800008
+N1  - Times Cited in Web of Science Core Collection:  39
+Total Times Cited:  42
+Cited Reference Count:  1
+ER  -
+
+TY  - CPAPER
+AU  - Wang, ZY
+AU  - Wang, BX
+AU  - Duan, XY
+AU  - Wu, DY
+AU  - Wang, SJ
+AU  - Hu, GP
+AU  - Hu, T
+A1  - ASSOC COMPUTAT LINGUIST
+TI  - IFlyLegal: A Chinese Legal System for Consultation, Law Searching, and Document Analysis
+T2  - 2019 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING AND THE 9TH INTERNATIONAL JOINT CONFERENCE ON NATURAL LANGUAGE PROCESSING (EMNLP-IJCNLP 2019): PROCEEDINGS OF SYSTEM DEMONSTRATIONS
+LA  - English
+CP  - Conference on Empirical Methods in Natural Language Processing / 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP)
+AB  - Legal Tech is developed to help people with legal services and solve legal problems via machines. To achieve this, one of the key requirements for machines is to utilize legal knowledge and comprehend legal context. This can be fulfilled by natural language processing (NLP) techniques, for instance, text representation, text categorization, question answering (QA) and natural language inference, etc. To this end, we introduce a freely available Chinese Legal Tech system (IFlyLegal) that benefits from multiple NLP tasks. It is an integrated system that performs legal consulting, multiway law searching, and legal document analysis by exploiting techniques such as deep contextual representations and various attention mechanisms. To our knowledge, IFlyLegal is the first Chinese legal system that employs upto-date NLP techniques and caters for needs of different user groups, such as lawyers, judges, procurators, and clients. Since Jan, 2019, we have gathered 2,349 users and 28,238 page views (till June, 23, 2019).
+AD  - iFLYTEK Res, State Key Lab Cognit Intelligence, Beijing, Peoples R ChinaAD  - Harbin Inst Technol, Res Ctr Social Comp & Informat Retrieval, Harbin, Peoples R ChinaAD  - iFLYTEK AI Res Hebei, Langfang, Peoples R ChinaC3  - Harbin Institute of TechnologyFU  - National Key R&D Program of China [2018YFC0807701]
+FX  - The authors would like to thank all the reviewers for their insight reviews. This paper is funded by National Key R&D Program of China (No.2018YFC0807701).
+PU  - ASSOC COMPUTATIONAL LINGUISTICS-ACL
+PI  - STROUDSBURG
+PA  - 209 N EIGHTH STREET, STROUDSBURG, PA 18360 USA
+SN  - 978-1-950737-92-5
+PY  - 2019
+SP  - 97
+EP  - 102
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)WE  - Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)AN  - WOS:000855231500017
+N1  - Times Cited in Web of Science Core Collection:  24
+Total Times Cited:  24
+Cited Reference Count:  12
+ER  -
+

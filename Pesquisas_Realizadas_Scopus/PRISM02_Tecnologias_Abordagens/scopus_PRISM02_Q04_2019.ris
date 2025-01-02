@@ -1,0 +1,116 @@
+﻿TY  - CONF
+AU  - Wang, Z.
+AU  - Wang, B.
+AU  - Duan, X.
+AU  - Wu, D.
+AU  - Wang, S.
+AU  - Hu, G.
+AU  - Liu, T.
+TI  - IFlyLegal: A Chinese legal system for consultation, law searching, and document analysis
+PY  - 2019
+T2  - EMNLP-IJCNLP 2019 - 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing, Proceedings of System Demonstrations
+SP  - 97
+EP  - 102
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85081114954&partnerID=40&md5=41a410707fb24cf3089d50408c13dda5
+AD  - State Key Laboratory of Cognitive Intelligence, iFLYTEK Research, Beijing, China
+AD  - Research Center for Social Computing and Information Retrieval, Harbin Institute of Technology, Harbin, China
+AD  - iFLYTEK AI Research (Hebei), LangFang, China
+AB  - Legal Tech is developed to help people with legal services and solve legal problems via machines. To achieve this, one of the key requirements for machines is to utilize legal knowledge and comprehend legal context. This can be fulfilled by natural language processing (NLP) techniques, for instance, text representation, text categorization, question answering (QA) and natural language inference, etc. To this end, we introduce a freely available Chinese Legal Tech system (IFlyLegal) that benefits from multiple NLP tasks. It is an integrated system that performs legal consulting, multi-way law searching, and legal document analysis by exploiting techniques such as deep contextual representations and various attention mechanisms. To our knowledge, IFlyLegal is the first Chinese legal system that employs up-to-date NLP techniques and caters for needs of different user groups, such as lawyers, judges, procurators, and clients. Since Jan, 2019, we have gathered 2,349 users and 28,238 page views (till June, 23, 2019). © 2019 Association for Computational Linguistics.
+KW  - Laws and legislation
+KW  - Text processing
+KW  - Attention mechanisms
+KW  - Document analysis
+KW  - Integrated systems
+KW  - NAtural language processing
+KW  - Natural languages
+KW  - Question Answering
+KW  - Text categorization
+KW  - Text representation
+KW  - Natural language processing systems
+PB  - Association for Computational Linguistics (ACL)
+SN  - 978-195073792-5 (ISBN)
+LA  - English
+J2  - EMNLP-IJCNLP - Conf. Empir. Methods Nat. Lang. Process. Int. Jt. Conf. Nat. Lang. Process., Proc. Syst. Demonstr.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 9; Conference name: 2019 Conference on Empirical Methods in Natural Language Processing and 9th International Joint Conference on Natural Language Processing, EMNLP-IJCNLP 2019; Conference date: 3 November 2019 through 7 November 2019; Conference code: 160431
+ER  -
+
+TY  - CONF
+AU  - Leitner, E.
+AU  - Rehm, G.
+AU  - Moreno-Schneider, J.
+TI  - Fine-Grained Named Entity Recognition in Legal Documents
+PY  - 2019
+T2  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 11702 LNCS
+SP  - 272
+EP  - 287
+DO  - 10.1007/978-3-030-33220-4_20
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85076234868&doi=10.1007%2f978-3-030-33220-4_20&partnerID=40&md5=116b5b3d746a57575f662e1b2ceb062d
+AD  - DFKI GmbH, Alt-Moabit 91c, Berlin, 10559, Germany
+AB  - This paper describes an approach at Named Entity Recognition (NER) in German language documents from the legal domain. For this purpose, a dataset consisting of German court decisions was developed. The source texts were manually annotated with 19 semantic classes: person, judge, lawyer, country, city, street, landscape, organization, company, institution, court, brand, law, ordinance, European legal norm, regulation, contract, court decision, and legal literature. The dataset consists of approx. 67,000 sentences and contains 54,000 annotated entities. The 19 fine-grained classes were automatically generalised to seven more coarse-grained classes (person, location, organization, legal norm, case-by-case regulation, court decision, and legal literature). Thus, the dataset includes two annotation variants, i.e., coarse- and fine-grained. For the task of NER, Conditional Random Fields (CRFs) and bidirectional Long-Short Term Memory Networks (BiLSTMs) were applied to the dataset as state of the art models. Three different models were developed for each of these two model families and tested with the coarse- and fine-grained annotations. The BiLSTM models achieve the best performance with an 95.46 F1 score for the fine-grained classes and 95.95 for the coarse-grained ones. The CRF models reach a maximum of 93.23 for the fine-grained classes and 93.22 for the coarse-grained ones. The work presented in this paper was carried out under the umbrella of the European project LYNX that develops a semantic platform that enables the development of various document processing and analysis applications for the legal domain. © 2019, The Author(s).
+KW  - BiLSTM
+KW  - CRF
+KW  - Curation technologies
+KW  - Language technology
+KW  - Legal processing
+KW  - Legal technologies
+KW  - LT
+KW  - Named Entity Recognition
+KW  - Natural Language Processing
+KW  - NER
+KW  - NLP
+KW  - Natural language processing systems
+KW  - Random processes
+KW  - Semantics
+KW  - BiLSTM
+KW  - Curation
+KW  - Language technology
+KW  - Named entity recognition
+KW  - NAtural language processing
+KW  - Laws and legislation
+A2  - Acosta M.
+A2  - Sure-Vetter Y.
+A2  - Cudré-Mauroux P.
+A2  - Maleshkova M.
+A2  - Pellegrini T.
+A2  - Sack H.
+PB  - Springer
+SN  - 03029743 (ISSN); 978-303033219-8 (ISBN)
+LA  - English
+J2  - Lect. Notes Comput. Sci.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 96; Correspondence Address: G. Rehm; DFKI GmbH, Berlin, Alt-Moabit 91c, 10559, Germany; email: georg.rehm@dfki.de; Conference name: 15th International Conference on Semantic Systems, SEMANTiCS 2019; Conference date: 9 September 2019 through 12 September 2019; Conference code: 233859
+ER  -
+
+TY  - JOUR
+AU  - Dale, R.
+TI  - Law and word order: NLP in legal tech
+PY  - 2019
+T2  - Natural Language Engineering
+VL  - 25
+IS  - 1
+SP  - 211
+EP  - 217
+DO  - 10.1017/S1351324918000475
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85059904475&doi=10.1017%2fS1351324918000475&partnerID=40&md5=19a0c476fa209f71e68f0d82a32a8bf9
+AD  - Language Technology Group, United Kingdom
+AB  - The law has language at its heart, so it's not surprising that software that operates on natural language has played a role in some areas of the legal profession for a long time. But the last few years have seen an increased interest in applying modern techniques to a wider range of problems, so I look here at how natural language processing is being used in the legal sector today. © 2018 Cambridge University Press.
+KW  - Artificial intelligence
+KW  - Software engineering
+KW  - Legal profession
+KW  - Modern techniques
+KW  - Natural languages
+KW  - Word orders
+KW  - Natural language processing systems
+PB  - Cambridge University Press
+SN  - 13513249 (ISSN)
+LA  - English
+J2  - Nat Lang Eng
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 64; Correspondence Address: R. Dale; Language Technology Group, United Kingdom; email: rdale@language-technology.com; CODEN: NLENF
+ER  -
+

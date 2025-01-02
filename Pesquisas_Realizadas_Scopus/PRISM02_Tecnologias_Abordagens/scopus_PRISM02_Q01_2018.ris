@@ -1,0 +1,273 @@
+﻿TY  - CONF
+AU  - Imamura, K.
+AU  - Sumita, E.
+TI  - NICT Self-Training Approach to Neural Machine Translation at NMT-2018
+PY  - 2018
+T2  - Proceedings of the Annual Meeting of the Association for Computational Linguistics
+SP  - 110
+EP  - 115
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85122024415&partnerID=40&md5=789d5736c80e0f9fa234e482c49cb792
+AD  - National Institute of Information and Communications Technology, 3-5 Hikaridai, Seika-cho, Soraku-gun, Kyoto, 619-0289, Japan
+AB  - This paper describes the NICT neural machine translation system submitted at the NMT-2018 shared task. A characteristic of our approach is the introduction of self-training. Since our self-training does not change the model structure, it does not influence the efficiency of translation, such as the translation speed. The experimental results showed that the translation quality improved not only in the sequence-to-sequence (seq-to-seq) models but also in the transformer models. © 2018 Association for Computational Linguistics
+KW  - Computational linguistics
+KW  - Computer aided language translation
+KW  - Natural language processing systems
+KW  - Machine translation systems
+KW  - Self-training
+KW  - Self-training approaches
+KW  - Sequence models
+KW  - Transformer modeling
+KW  - Translation quality
+KW  - Translation speed
+KW  - Neural machine translation
+PB  - Association for Computational Linguistics (ACL)
+SN  - 0736587X (ISSN); 978-194808740-7 (ISBN)
+LA  - English
+J2  - Proc. Annu. Meet. Assoc. Comput Linguist.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 10; Conference name: ACL 2018 2nd Workshop on Neural Machine Translation and Generation, NMT 2018; Conference code: 173800
+ER  -
+
+TY  - CONF
+AU  - Raganato, A.
+AU  - Tiedemann, J.
+TI  - An Analysis of Encoder Representations in Transformer-Based Machine Translation
+PY  - 2018
+T2  - EMNLP 2018 - 2018 EMNLP Workshop BlackboxNLP: Analyzing and Interpreting Neural Networks for NLP, Proceedings of the 1st Workshop
+SP  - 287
+EP  - 297
+DO  - 10.18653/v1/w18-5431
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85094006423&doi=10.18653%2fv1%2fw18-5431&partnerID=40&md5=e997a453e33e026183c6ec9ad91eaeff
+AD  - Department of Digital Humanities, University of Helsinki, Finland
+AB  - The attention mechanism is a successful technique in modern NLP, especially in tasks like machine translation. The recently proposed network architecture of the Transformer is based entirely on attention mechanisms and achieves new state of the art results in neural machine translation, outperforming other sequence-to-sequence models. However, so far not much is known about the internal properties of the model and the representations it learns to achieve that performance. To study this question, we investigate the information that is learned by the attention mechanism in Transformer models with different translation quality. We assess the representations of the encoder by extracting dependency relations based on self-attention weights, we perform four probing tasks to study the amount of syntactic and semantic captured information and we also test attention in a transfer learning scenario. Our analysis sheds light on the relative strengths and weaknesses of the various encoder representations. We observe that specific attention heads mark syntactic dependency relations and we can also confirm that lower layers tend to learn more about syntax while higher layers tend to encode more semantics. © 2018 Association for Computational Linguistics
+KW  - Computational linguistics
+KW  - Computer aided language translation
+KW  - Network architecture
+KW  - Neural machine translation
+KW  - Semantics
+KW  - Signal encoding
+KW  - Attention mechanisms
+KW  - Dependency relation
+KW  - Learn+
+KW  - Machine translations
+KW  - Performance
+KW  - Property
+KW  - Sequence models
+KW  - State of the art
+KW  - Transformer modeling
+KW  - Translation quality
+KW  - Syntactics
+PB  - Association for Computational Linguistics (ACL)
+SN  - 978-194808771-1 (ISBN)
+LA  - English
+J2  - EMNLP - EMNLP Workshop BlackboxNLP: Anal. Interpreting Neural Networks NLP, Proc. Workshop
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 191; Conference name: 1st Workshop on BlackboxNLP: Analyzing and Interpreting Neural Networks for NLP,  co-located with the 2018 Conference on Empirical Methods in Natural Language Processing, EMNLP 2018; Conference code: 173721
+ER  -
+
+TY  - CONF
+AU  - Lei, T.
+AU  - Zhang, Y.
+AU  - Wang, S.I.
+AU  - Dai, H.
+AU  - Artzi, Y.
+TI  - Simple recurrent units for highly parallelizable recurrence
+PY  - 2018
+T2  - Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing, EMNLP 2018
+SP  - 4470
+EP  - 4481
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85081718759&partnerID=40&md5=ea3bf3752444cd102be25ee169659f72
+AD  - ASAPP Inc
+AD  - Google Brain
+AD  - Princeton University, United States
+AD  - Cornell University, United States
+AB  - Common recurrent neural architectures scale poorly due to the intrinsic difficulty in parallelizing their state computations. In this work, we propose the Simple Recurrent Unit (SRU), a light recurrent unit that balances model capacity and scalability. SRU is designed to provide expressive recurrence, enable highly parallelized implementation, and comes with careful initialization to facilitate training of deep models. We demonstrate the effectiveness of SRU on multiple NLP tasks. SRU achieves 5-9x speed-up over cuDNN-optimized LSTM on classification and question answering datasets, and delivers stronger results than LSTM and convolutional models. We also obtain an average of 0.7 BLEU improvement over the Transformer model (Vaswani et al., 2017) on translation by incorporating SRU into the architecture.1 © 2018 Association for Computational Linguistics
+KW  - Classification (of information)
+KW  - Natural language processing systems
+KW  - Sulfur determination
+KW  - Convolutional model
+KW  - Neural architectures
+KW  - Parallelizing
+KW  - Question Answering
+KW  - Speed up
+KW  - Transformer modeling
+KW  - Long short-term memory
+A2  - Riloff E.
+A2  - Chiang D.
+A2  - Hockenmaier J.
+A2  - Tsujii J.
+PB  - Association for Computational Linguistics
+SN  - 978-194808784-1 (ISBN)
+LA  - English
+J2  - Proc. Conf. Empir. Methods Nat. Lang. Process., EMNLP
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 157; Conference name: 2018 Conference on Empirical Methods in Natural Language Processing, EMNLP 2018; Conference date: 31 October 2018 through 4 November 2018; Conference code: 158085
+ER  -
+
+TY  - CONF
+AU  - Tang, G.
+AU  - Sennrich, R.
+AU  - Nivre, J.
+TI  - An Analysis of Attention Mechanisms: The Case of Word Sense Disambiguation in Neural Machine Translation
+PY  - 2018
+T2  - WMT 2018 - 3rd Conference on Machine Translation, Proceedings of the Conference
+VL  - 1
+SP  - 26
+EP  - 35
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85122316168&partnerID=40&md5=9fdeae812ebd02fa6fdbeebcc1e0f884
+AD  - Department of Linguistics and Philology, Uppsala University, Sweden
+AD  - School of Informatics, University of Edinburgh, United Kingdom
+AD  - Institute of Computational Linguistics, University of Zurich, Switzerland
+AB  - Recent work has shown that the encoder-decoder attention mechanisms in neural machine translation (NMT) are different from the word alignment in statistical machine translation. In this paper, we focus on analyzing encoder-decoder attention mechanisms, in the case of word sense disambiguation (WSD) in NMT models. We hypothesize that attention mechanisms pay more attention to context tokens when translating ambiguous words. We explore the attention distribution patterns when translating ambiguous nouns. Counter-intuitively, we find that attention mechanisms are likely to distribute more attention to the ambiguous noun itself rather than context tokens, in comparison to other nouns. We conclude that attention is not the main mechanism used by NMT models to incorporate contextual information for WSD. The experimental results suggest that NMT models learn to encode contextual information necessary for WSD in the encoder hidden states. For the attention mechanism in Transformer models, we reveal that the first few layers gradually learn to “align” source and target tokens and the last few layers learn to extract features from the related but unaligned context tokens. © 2018 Association for Computational Linguistics.
+KW  - Computational linguistics
+KW  - Computer aided language translation
+KW  - Decoding
+KW  - Natural language processing systems
+KW  - Signal encoding
+KW  - Attention mechanisms
+KW  - Contextual information
+KW  - Distribution patterns
+KW  - Encoder-decoder
+KW  - Hidden state
+KW  - Learn+
+KW  - Machine translation models
+KW  - Statistical machine translation
+KW  - Word alignment
+KW  - Word Sense Disambiguation
+KW  - Neural machine translation
+PB  - Association for Computational Linguistics (ACL)
+SN  - 978-194808781-0 (ISBN)
+LA  - English
+J2  - WMT - Conf. Mach. Transl., Proc. Conf.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 49; Conference name: 3rd Conference on Machine Translation, WMT 2018 at the Conference on Empirical Methods in Natural Language Processing, EMNLP 2018; Conference date: 31 October 2018 through 1 November 2018; Conference code: 173792
+ER  -
+
+TY  - CONF
+AU  - Zhao, P.
+AU  - Dong, X.
+AU  - Liang, J.
+AU  - Li, Z.
+TI  - Optimal power flow algorithm based on self-adaptive filter-trust region method
+PY  - 2018
+T2  - 2017 2nd International Conference on Power and Renewable Energy, ICPRE 2017
+SP  - 286
+EP  - 290
+DO  - 10.1109/ICPRE.2017.8390544
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85050349802&doi=10.1109%2fICPRE.2017.8390544&partnerID=40&md5=9674fae4f13e0f446bd26825086b42a6
+AD  - School of Electrical Engineering, Shandong University, Jinan, 250061, China
+AB  - The Optimal Power Flow (OPF) problem for power systems could be expressed by a Non-Linear Programming (NLP) model, which is difficult to be solved. This study presents a practical algorithm to solve OPF through a successive linear programming (SLP), in which conventional power flow and linearized Sub-Problem (LSP) are solved by alternating iteration. A Self-Adaptive Filter-Trust Region (SAIFT) method is proposed to solve the LSP, in which the acceptance of the current iteration point is decided by a filter, and the step size is controlled by the trust region. The Wolfe linear search method is used to provide the direction of optimization when the consequence is dominated by filter. Furthermore, the linearization strategy of transformer ratio and the dynamic adjustment strategy of step size are proposed, which simplifies the formulation and improves the convergence of the algorithm. Case studies based on Ward-Hale 6-bus system demonstrate the efficacy of the new method in solving the OPF problems. © 2017 IEEE.
+KW  - optimal power flow
+KW  - power system
+KW  - transformer tap
+KW  - trust region
+KW  - wolfe linear search
+KW  - Acoustic generators
+KW  - Adaptive filters
+KW  - Electric load flow
+KW  - Iterative methods
+KW  - Linearization
+KW  - Nonlinear programming
+KW  - Problem solving
+KW  - Linear search
+KW  - Optimal power flows
+KW  - Power System
+KW  - Transformer taps
+KW  - Trust region
+KW  - Adaptive filtering
+PB  - Institute of Electrical and Electronics Engineers Inc.
+SN  - 978-153862156-1 (ISBN)
+LA  - English
+J2  - Int. Conf. Power Renew. Energy, ICPRE
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 0; Correspondence Address: P. Zhao; School of Electrical Engineering, Shandong University, Jinan, 250061, China; email: zhaopenghui1993@163.com; Conference name: 2nd International Conference on Power and Renewable Energy, ICPRE 2017; Conference date: 20 September 2017 through 23 September 2017; Conference code: 137373
+ER  -
+
+TY  - CONF
+AU  - Zhang, J.
+AU  - Luan, H.
+AU  - Sun, M.
+AU  - Zhai, F.
+AU  - Xu, J.
+AU  - Zhang, M.
+AU  - Liu, Y.
+TI  - Improving the transformer translation model with document-level context
+PY  - 2018
+T2  - Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing, EMNLP 2018
+SP  - 533
+EP  - 542
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85081752395&partnerID=40&md5=2bf76f524198439e655d194d060d3154
+AD  - Institute for Artificial Intelligence State Key Laboratory of Intelligent Technology and Systems, Department of Computer Science and Technology, Tsinghua University, Beijing, China
+AD  - Beijing National Research Center for Information Science and Technology, China
+AD  - Sogou Inc., Beijing, China
+AD  - Soochow University, Suzhou, China
+AB  - Although the Transformer translation model (Vaswani et al., 2017) has achieved state-of-the-art performance in a variety of translation tasks, how to use document-level context to deal with discourse phenomena problematic for Transformer still remains a challenge. In this work, we extend the Transformer model with a new context encoder to represent document-level context, which is then incorporated into the original encoder and decoder. As large-scale document-level parallel corpora are usually not available, we introduce a two-step training method to take full advantage of abundant sentence-level parallel corpora and limited document-level parallel corpora. Experiments on the NIST Chinese-English datasets and the IWSLT French-English datasets show that our approach improves over Transformer significantly. 1 © 2018 Association for Computational Linguistics
+KW  - Linguistics
+KW  - Signal encoding
+KW  - Translation (languages)
+KW  - French-english
+KW  - Parallel corpora
+KW  - Sentence level
+KW  - State-of-the-art performance
+KW  - Transformer modeling
+KW  - Translation models
+KW  - Two-step training
+KW  - Natural language processing systems
+A2  - Riloff E.
+A2  - Chiang D.
+A2  - Hockenmaier J.
+A2  - Tsujii J.
+PB  - Association for Computational Linguistics
+SN  - 978-194808784-1 (ISBN)
+LA  - English
+J2  - Proc. Conf. Empir. Methods Nat. Lang. Process., EMNLP
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 173; Conference name: 2018 Conference on Empirical Methods in Natural Language Processing, EMNLP 2018; Conference date: 31 October 2018 through 4 November 2018; Conference code: 158085
+ER  -
+
+TY  - CONF
+AU  - Junczys-Dowmunt, M.
+AU  - Heafield, K.
+AU  - Hoang, H.
+AU  - Grundkiewicz, R.
+AU  - Aue, A.
+TI  - Marian: Cost-effective High-Quality Neural Machine Translation in C++
+PY  - 2018
+T2  - Proceedings of the Annual Meeting of the Association for Computational Linguistics
+SP  - 129
+EP  - 135
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85121997142&partnerID=40&md5=44ed6589faf202243d7c3ab3fef6d3ca
+AD  - Microsoft Translator, 1 Microsoft Way, Redmond, 98121, WA, United States
+AD  - University of Edinburgh, EU, 10 Crichton Street, Edinburgh, United Kingdom
+AB  - This paper describes the submissions of the “Marian” team to the WNMT 2018 shared task. We investigate combinations of teacher-student training, low-precision matrix products, auto-tuning and other methods to optimize the Transformer model on GPU and CPU. By further integrating these methods with the new averaging attention networks, a recently introduced faster Transformer variant, we create a number of high-quality, high-performance models on the GPU and CPU, dominating the Pareto frontier for this shared task. © 2018 Association for Computational Linguistics
+KW  - Computational linguistics
+KW  - Computer aided language translation
+KW  - Cost effectiveness
+KW  - Natural language processing systems
+KW  - Personnel training
+KW  - Autotuning
+KW  - Cost effective
+KW  - High performance modeling
+KW  - High quality
+KW  - Lower precision
+KW  - Matrix products
+KW  - Precision matrix
+KW  - Student training
+KW  - Teachers'
+KW  - Transformer modeling
+KW  - Neural machine translation
+PB  - Association for Computational Linguistics (ACL)
+SN  - 0736587X (ISSN); 978-194808740-7 (ISBN)
+LA  - English
+J2  - Proc. Annu. Meet. Assoc. Comput Linguist.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 33; Conference name: ACL 2018 2nd Workshop on Neural Machine Translation and Generation, NMT 2018; Conference code: 173800
+ER  -
+

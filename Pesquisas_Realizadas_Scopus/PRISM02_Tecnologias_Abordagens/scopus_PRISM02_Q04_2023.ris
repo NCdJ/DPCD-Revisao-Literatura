@@ -1,0 +1,363 @@
+﻿TY  - CONF
+AU  - Darji, H.
+AU  - Mitroviċ, J.
+AU  - Granitzer, M.
+TI  - German BERT Model for Legal Named Entity Recognition
+PY  - 2023
+T2  - International Conference on Agents and Artificial Intelligence
+VL  - 3
+SP  - 723
+EP  - 728
+DO  - 10.5220/0011749400003393
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85164414711&doi=10.5220%2f0011749400003393&partnerID=40&md5=1e2da94d2b094351a49382a61a602d63
+AD  - University of Passau, Innstraße 41, Passau, 94032, Germany
+AB  - The use of BERT, one of the most popular language models, has led to improvements in many Natural Language Processing (NLP) tasks. One such task is Named Entity Recognition (NER) i.e. automatic identification of named entities such as location, person, organization, etc. from a given text. It is also an important base step for many NLP tasks such as information extraction and argumentation mining. Even though there is much research done on NER using BERT and other popular language models, the same is not explored in detail when it comes to Legal NLP or Legal Tech. Legal NLP applies various NLP techniques such as sentence similarity or NER specifically on legal data. There are only a handful of models for NER tasks using BERT language models, however, none of these are aimed at legal documents in German. In this paper, we fine-tune a popular BERT language model trained on German data (German BERT) on a Legal Entity Recognition (LER) dataset. To make sure our model is not overfitting, we performed a stratified 10-fold cross-validation. The results we achieve by fine-tuning German BERT on the LER dataset outperform the BiLSTM-CRF+ model used by the authors of the same LER dataset. Finally, we make the model openly available via HuggingFace. © 2023 by SCITEPRESS – Science and Technology Publications, Lda.
+KW  - Language Models
+KW  - Legal Entity Recognition
+KW  - Legal Language Processing
+KW  - Named Entity Recognition
+KW  - Natural Language Processing
+A2  - Rocha A.
+A2  - Steels L.
+A2  - van den Herik J.
+PB  - Science and Technology Publications, Lda
+SN  - 21843589 (ISSN)
+LA  - English
+J2  - Int. Conf. Agent. Artif. Intell.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 6; Conference name: 15th International Conference on Agents and Artificial Intelligence, ICAART 2023; Conference date: 22 February 2023 through 24 February 2023; Conference code: 301209
+ER  -
+
+TY  - CONF
+AU  - Greco, C.M.
+AU  - Tagarelli, A.
+TI  - Topic Similarities in Rights and Duties across European Constitutions using Transformer-based Language Models
+PY  - 2023
+T2  - CEUR Workshop Proceedings
+VL  - 3594
+SP  - 47
+EP  - 62
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85180771286&partnerID=40&md5=24c6a990a25ffedf8908379fb7d07d88
+AD  - Dept. Computer Engineering, Modeling, Electronics, and Systems Engineering (DIMES), University of Calabria, CS, Rende, 87036, Italy
+AB  - The use of language models in the legal NLP field has brought significant advances in the use of AI systems to support legal professionals. However, most of the efforts so far have focused on processing documents such as legal cases, contracts and statutes. There are several types of legal resources that are still overlooked, and these include constitutions. A constitution establishes the basic principles, structures, functions and powers of a country’s governance. Several portions of the constitutions are devoted to rights and duties of the citizens, which are essential to define and protect the status of citizens as individuals and as members of the society. To this regard, in this work we focus on the range of topics covered in the European constitutions that guarantee rights and duties to citizens. We present the first study providing lexical and semantic similarity analysis of the European constitutions, which especially takes advantage of using several Transformer-based models. © 2023 Copyright for this paper by its authors.
+KW  - artificial intelligence
+KW  - European constitutions
+KW  - law
+KW  - legal language models
+KW  - topic similarity
+KW  - Artificial intelligence
+KW  - Computational linguistics
+KW  - AI systems
+KW  - Basic principles
+KW  - European Constitution
+KW  - Language model
+KW  - Law
+KW  - Legal case
+KW  - Legal language model
+KW  - Power
+KW  - Structure functions
+KW  - Topic similarity
+KW  - Semantics
+A2  - Wehnert S.
+A2  - Wehnert S.
+A2  - Fiorelli M.
+A2  - Picca D.
+A2  - De Luca E.W.
+A2  - De Luca E.W.
+A2  - Stellato A.
+PB  - CEUR-WS
+SN  - 16130073 (ISSN)
+LA  - English
+J2  - CEUR Workshop Proc.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 1; Correspondence Address: C.M. Greco; Dept. Computer Engineering, Modeling, Electronics, and Systems Engineering (DIMES), University of Calabria, Rende, CS, 87036, Italy; email: candida.greco@dimes.unical.it; Conference name: 1st Legal Information Retrieval meets Artificial Intelligence Workshop, LIRAI 2023; Conference code: 195434
+ER  -
+
+TY  - CONF
+AU  - Kalamkar, P.
+AU  - Venugopalan, J.
+AU  - Raghavan, V.
+TI  - Benchmarks for Indian Legal NLP: A Survey
+PY  - 2023
+T2  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 13856 LNAI
+SP  - 33
+EP  - 48
+DO  - 10.1007/978-3-031-36190-6_3
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85172422765&doi=10.1007%2f978-3-031-36190-6_3&partnerID=40&md5=8d14338fcafa98a88c754aec0d6b463a
+AD  - Thoughtworks India Pvt. Ltd., Chennai, India
+AD  - Ek Step Foundation, Bangalore, India
+AB  - Legal text is significantly different from English text (e.g. Wikipedia, News) used for training most natural language processing (NLP) algorithms. As a result, the state of the art algorithms (e.g. GPT-3, BERT derivatives), need additional effort (e.g. fine-tuning and further pre-training) to achieve optimal performance on legal text. Hence there is a need to create separate NLP data sets and benchmarks for legal text which are challenging and focus on tasks specific to legal systems. This will spur innovation in applications of NLP for legal text and will benefit AI community and legal fraternity. This paper focuses on an empirical review of the existing work in the use of NLP in Indian legal text and proposes ideas to create new benchmarks for Indian Legal NLP. © 2023, Springer Nature Switzerland AG.
+KW  - Legal Text Processing
+KW  - Natural Language Processing
+KW  - NLP Benchmarks
+KW  - Artificial intelligence
+KW  - Natural language processing systems
+KW  - Language processing
+KW  - Legal text processing
+KW  - Legal texts
+KW  - Natural language processing
+KW  - Natural language processing benchmark
+KW  - Natural languages
+KW  - Text-processing
+KW  - Wikipedia
+KW  - Text processing
+A2  - Yada K.
+A2  - Takama Y.
+A2  - Mineshima K.
+A2  - Satoh K.
+PB  - Springer Science and Business Media Deutschland GmbH
+SN  - 03029743 (ISSN); 978-303136189-0 (ISBN)
+LA  - English
+J2  - Lect. Notes Comput. Sci.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 0; Correspondence Address: P. Kalamkar; Thoughtworks India Pvt. Ltd., Chennai, India; email: prathamk@thoughtworks.com; Conference name: The 13th International Symposium on Artificial Intelligence supported by the Japanese Society for Artificial Intelligence, JSAI-isAI 2021; Conference date: 13 November 2021 through 15 November 2021; Conference code: 298299
+ER  -
+
+TY  - CONF
+AU  - Ribary, M.
+AU  - Krause, P.
+AU  - Orban, M.
+AU  - Vaccari, E.
+AU  - Wood, T.
+TI  - Prompt Engineering and Provision of Context in Domain Specific Use of GPT
+PY  - 2023
+T2  - Frontiers in Artificial Intelligence and Applications
+VL  - 379
+SP  - 305
+EP  - 310
+DO  - 10.3233/FAIA230979
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85181168104&doi=10.3233%2fFAIA230979&partnerID=40&md5=d76511ebfeffb8ec58b9f86b436942f8
+AD  - Royal Holloway, University of London, United Kingdom
+AD  - University of Surrey, United Kingdom
+AD  - Opl Gunnercooke, Hungary
+AD  - Fast Data Science, United States
+AB  - Large Language Models (LLMs) can appear to generate expert advice on legal matters. However, at closer analysis, some of the advice provided has proven unsound or erroneous. We tested LLMs' performance in the procedural and technical area of insolvency law in which our team has relevant expertise. This paper demonstrates that statistically more accurate results to evaluation questions come from a design which adds a curated knowledge base to produce quality responses when querying LLMs. We evaluated our bot head-to-head on an unseen test set of twelve questions about insolvency law against the unmodified versions of gpt-3.5-turbo and gpt-4 with a mark scheme similar to those used in examinations in law schools. On the 'unseen test set', the Insolvency Bot based on gpt-3.5-turbo outper-formed gpt-3.5-turbo (p = 1.8%), and our gpt-4 based bot outperformed unmodified gpt-4 (p = 0.05%). These promising results can be expanded to cross-jurisdictional queries and be further improved by matching on-point legal information to user queries. Overall, they demonstrate the importance of incorporating trusted knowledge sources into traditional LLMs in answering domain-specific queries.  © 2023 The Authors.
+KW  - chatbot
+KW  - insolvency law (England)
+KW  - legal tech
+KW  - LLMs (GPT)
+KW  - NLP
+KW  - prompt engineering
+KW  - Natural language processing systems
+KW  - Quality control
+KW  - Chatbots
+KW  - Domain specific
+KW  - England
+KW  - Expert advice
+KW  - Insolvency law (england)
+KW  - Language model
+KW  - Large language model (GPT)
+KW  - Legal tech
+KW  - Prompt engineering
+KW  - Test sets
+KW  - Knowledge based systems
+A2  - Sileno G.
+A2  - Spanakis J.
+A2  - van Dijck G.
+PB  - IOS Press BV
+SN  - 09226389 (ISSN); 978-164368472-7 (ISBN)
+LA  - English
+J2  - Front. Artif. Intell. Appl.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 2; Correspondence Address: M. Ribary; Royal Holloway, University of London, United Kingdom; email: marton.ribary@rhul.ac.uk; Conference name: 36th International Conference on Legal Knowledge and Information Systems, JURIX 2023; Conference date: 18 December 2023 through 20 December 2023; Conference code: 195587
+ER  -
+
+TY  - CONF
+AU  - Ivaschenko, A.
+AU  - Golovnin, O.
+AU  - Syusin, I.
+AU  - Krivosheev, A.
+AU  - Aleksandrova, M.
+TI  - Ontology Based Text Understanding and Text Generation for Legal Technology Applications
+PY  - 2023
+T2  - Lecture Notes in Networks and Systems
+VL  - 739 LNNS
+SP  - 1080
+EP  - 1089
+DO  - 10.1007/978-3-031-37963-5_75
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85172231295&doi=10.1007%2f978-3-031-37963-5_75&partnerID=40&md5=2753ffdbe2ece47e6fd320113c4a4251
+AD  - Samara State Medical University, Chapaevskaya, Samara, 89, Russian Federation
+AD  - Samara National Research University, Moskovskoye Shosse, 34, Samara, Russian Federation
+AD  - SEC “Open Code”, Yarmarochnaya 55, Samara, Russian Federation
+AB  - The paper presents a software solution for text understanding and text generation, which finds new opportunities for being applied in the area of Legal Tech. The solution belongs to the problem domain of natural language processing and covers the gaps in legal documentation comparative analysis and generation. Modern trends in information technology implementation in Legal Tech are overviewed and summarized to generate the recommendations of text understanding and text generation solutions, practical implementation and use. Based on the attributes extracted from legal text documents, a subject area ontological model is formed to describe, organize and present the relationships between the facts extracted from documents, for example, normative legal acts, their individual clauses, subparagraphs, specific named entities, facts and their relationships. Experimental research was carried out to extract entities including facts and attributes from a set of administrative regulations which contains 537 documents. The proposed solution demonstrates the benefits of knowledge based text understanding and text generation in Legal Tech. © 2023, The Author(s), under exclusive license to Springer Nature Switzerland AG.
+KW  - Intelligent systems
+KW  - Legal technology
+KW  - Ontology
+KW  - Text generation
+KW  - Text understanding
+KW  - Intelligent systems
+KW  - Knowledge based systems
+KW  - Laws and legislation
+KW  - Natural language processing systems
+KW  - Language processing
+KW  - Legal technology
+KW  - Natural languages
+KW  - Ontology's
+KW  - Ontology-based
+KW  - Problem domain
+KW  - Software solution
+KW  - Technology application
+KW  - Text generations
+KW  - Text understanding
+KW  - Ontology
+A2  - Arai K.
+PB  - Springer Science and Business Media Deutschland GmbH
+SN  - 23673370 (ISSN); 978-303137962-8 (ISBN)
+LA  - English
+J2  - Lect. Notes Networks Syst.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 0; Correspondence Address: A. Ivaschenko; Samara State Medical University, Samara, Chapaevskaya, 89, Russian Federation; email: anton.ivashenko@gmail.com; Conference name: Proceedings of the Computing Conference 2023; Conference date: 22 June 2023 through 23 June 2023; Conference code: 301079
+ER  -
+
+TY  - CONF
+AU  - Darji, H.
+AU  - Mitrović, J.
+AU  - Granitzer, M.
+TI  - Exploring Semantic Similarity Between German Legal Texts and Referred Laws
+PY  - 2023
+T2  - Communications in Computer and Information Science
+VL  - 1718 CCIS
+SP  - 37
+EP  - 50
+DO  - 10.1007/978-3-031-35924-8_3
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85169001968&doi=10.1007%2f978-3-031-35924-8_3&partnerID=40&md5=d428569765e59a82eb241d4ab1641624
+AD  - Chair of Data Science, University of Passau, Innstraße 41, Passau, 94032, Germany
+AB  - The calculation of semantic similarity is an important task in Natural Language Processing (NLP). There is a growing interest in this task in the research community, especially following the advent of new, ever-evolving neural architectures. However, this technique has not been explored in-depth in the realm of automatic processing of legal data, the area we often call Legal NLP or Legal Tech. In this paper, we aim to use semantic similarity to identify the relations between legal sentences that refer to a certain law and the law text itself. The semantic similarity score is calculated using cosine similarity between sentence embeddings. In our work, we use sentence transformers to get the sentence embeddings for our legal text. The results we achieve by using two separate sentence transformers, Cross English & German RoBERTa and all-MiniLM-L6-v2, provide a semantic similarity score of approximately 0.45 and 0.4, respectively. © 2023, The Author(s), under exclusive license to Springer Nature Switzerland AG.
+KW  - Legal language processing
+KW  - NLP
+KW  - Open legal data
+KW  - Semantic similarity
+KW  - Sentence transformers
+KW  - Data handling
+KW  - Natural language processing systems
+KW  - Open Data
+KW  - Semantics
+KW  - Language processing
+KW  - Legal language processing
+KW  - Legal texts
+KW  - Natural language processing
+KW  - Natural languages
+KW  - Open legal data
+KW  - Semantic similarity
+KW  - Sentence transformer
+KW  - Similarity scores
+KW  - Embeddings
+A2  - Fred A.
+A2  - Fred A.
+A2  - Aveiro D.
+A2  - Aveiro D.
+A2  - Dietz J.
+A2  - Bernardino J.
+A2  - Masciari E.
+A2  - Filipe J.
+A2  - Filipe J.
+PB  - Springer Science and Business Media Deutschland GmbH
+SN  - 18650929 (ISSN); 978-303135923-1 (ISBN)
+LA  - English
+J2  - Commun. Comput. Info. Sci.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 1; Correspondence Address: J. Mitrović; Chair of Data Science, University of Passau, Passau, Innstraße 41, 94032, Germany; email: jelena.mitrovic@uni-passau.de; Conference name: 13th International Joint Conference on Knowledge Discovery, Knowledge Engineering and Knowledge Management, IC3K 2021; Conference date: 25 October 2021 through 27 October 2021; Conference code: 297709
+ER  -
+
+TY  - CONF
+AU  - Öztürk, C.E.
+AU  - Özçelik, Ş.B.
+AU  - Koç, A.
+TI  - A Transformer-Based Prior Legal Case Retrieval Method
+ST  - Dönüştürücü Tabanli Emsal Karar Bulma Yöntemi
+PY  - 2023
+T2  - 31st IEEE Conference on Signal Processing and Communications Applications, SIU 2023
+DO  - 10.1109/SIU59756.2023.10223938
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85173471266&doi=10.1109%2fSIU59756.2023.10223938&partnerID=40&md5=44e9d72382e34f280b5fa3e121d8278b
+AD  - Bilkent Üniversitesi, ASELSAN Research Center, Elektrik Ve Elektronik Mühendisliǧi Bölümü, Ankara, Turkey
+AD  - Bilkent Üniversitesi, Hukuk Fakültesi, Ankara, Turkey
+AD  - Bilkent Üniversitesi, Ulusal Manyetik Rezonans Araştirma Merkezi, Elektrik Ve Elektronik Mühendisliǧi Bölümü, Ankara, Turkey
+AB  - In this work, BERTurk-Legal, a transformer-based language model, is introduced to retrieve prior legal cases. BERTurk-Legal is pre-trained on a dataset from the Turkish legal domain. This dataset does not contain any labels related to the prior court case retrieval task. Masked language modeling is used to train BERTurk-Legal in a self-supervised manner. With zero-shot classification, BERTurk-Legal provides state-of-the-art results on the dataset consisting of legal cases of the Court of Cassation of Turkey. The results of the experiments show the necessity of developing language models specific to the Turkish law domain. © 2023 IEEE.
+KW  - deep learning
+KW  - legal NLP
+KW  - legal tech
+KW  - Natural language processing
+KW  - prior legal case retrieval
+KW  - Turkish NLP
+KW  - Classification (of information)
+KW  - Computational linguistics
+KW  - Deep learning
+KW  - Modeling languages
+KW  - Zero-shot learning
+KW  - Case retrieval
+KW  - Deep learning
+KW  - Language processing
+KW  - Legal case
+KW  - Legal NLP
+KW  - Legal tech
+KW  - Natural language processing
+KW  - Natural languages
+KW  - Prior legal case retrieval
+KW  - Turkish NLP
+KW  - Turkishs
+KW  - Natural language processing systems
+PB  - Institute of Electrical and Electronics Engineers Inc.
+SN  - 979-835034355-7 (ISBN)
+LA  - Turkish
+J2  - IEEE Conf. Signal Process. Commun. Appl., SIU
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 0; Conference name: 31st IEEE Conference on Signal Processing and Communications Applications, SIU 2023; Conference date: 5 July 2023 through 8 July 2023; Conference code: 192084
+ER  -
+
+TY  - CONF
+AU  - Khatri, M.
+AU  - Sheik, R.
+AU  - Wadhwa, P.
+AU  - Satija, G.
+AU  - Kumar, Y.
+AU  - Shah, R.R.
+AU  - Kumaraguru, P.
+TI  - CiteCaseLAW: Citation Worthiness Detection in Caselaw for Legal Assistive Writing
+PY  - 2023
+T2  - Frontiers in Artificial Intelligence and Applications
+VL  - 379
+SP  - 257
+EP  - 262
+DO  - 10.3233/FAIA230971
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85181166957&doi=10.3233%2fFAIA230971&partnerID=40&md5=0d6c1efc05c112068730f10cde10e802
+AD  - Iiit Delhi, India
+AD  - Nit, Trichy, India
+AD  - Adobe Mdsr, United States
+AD  - Iiit Hyderabad, India
+AB  - Complex legal language, filled with jargon, nuanced language semantics, and a high level of domain specificity, poses a significant challenge for automation in handling various legal tasks. In the realm of legal document composition, a pivotal component revolves around accurately referencing case laws and other sources to substantiate assertions and arguments. Understanding the legal domain and identifying appropriate citation context or cite-worthy sentences automatically is challenging. Our research is centered on the issue of citation-worthiness identification of a given sentence. This serves as the initial phase in contemporary citation recommendation systems, aimed at alleviating the effort involved in extracting a suitable array of citation contexts. To address this, we first introduce a labeled dataset comprising 178 million sentences, specifically tailored for detecting citation-worthy content within the legal domain. This dataset is curated from the Caselaw Access Project (CAP) (https://case.law/). We proceeded to assess the performance of a range of deep learning models on this novel dataset. Among the models examined, the domain-specific pre-trained model consistently demonstrated superior performance, achieving an 88% F1-score in the task of detecting citation-worthy material. To enhance our insights, we employed inputXGradient explainable AI techniques to dissect the predictions, thereby identifying the tokens that contribute to specific citation classes.  © 2023 The Authors.
+KW  - Citation
+KW  - Classification
+KW  - Legal NLP
+KW  - Deep learning
+KW  - High level languages
+KW  - Assistive
+KW  - Caselaw
+KW  - Citation
+KW  - Citation contexts
+KW  - Domain specificity
+KW  - Language semantics
+KW  - Legal documents
+KW  - Legal domains
+KW  - Legal NLP
+KW  - Performance
+KW  - Semantics
+A2  - Sileno G.
+A2  - Spanakis J.
+A2  - van Dijck G.
+PB  - IOS Press BV
+SN  - 09226389 (ISSN); 978-164368472-7 (ISBN)
+LA  - English
+J2  - Front. Artif. Intell. Appl.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 1; Correspondence Address: M. Khatri; Iiit Delhi, India; email: mannk@iiitd.ac.in; Conference name: 36th International Conference on Legal Knowledge and Information Systems, JURIX 2023; Conference date: 18 December 2023 through 20 December 2023; Conference code: 195587
+ER  -
+

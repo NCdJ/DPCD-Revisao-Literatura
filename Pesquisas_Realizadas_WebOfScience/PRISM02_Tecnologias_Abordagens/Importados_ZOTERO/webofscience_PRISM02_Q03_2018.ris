@@ -1,0 +1,124 @@
+﻿TY  - JOUR
+AU  - Tasar, CO
+AU  - Komesli, M
+AU  - Unalir, MO
+TI  - Systematic mapping study on question answering frameworks over linked data
+T2  - IET SOFTWARE
+LA  - English
+KW  - ontologies (artificial intelligence)
+KW  - database management systems
+KW  - question answering (information retrieval)
+KW  - natural language processing
+KW  - Linked Data
+KW  - question answering frameworks
+KW  - linked data technologies
+KW  - semantic endpoints
+KW  - semantic analysis
+KW  - sentence-level recognition
+KW  - systematic mapping
+KW  - input questions
+KW  - research questions
+KW  - inclusion criteria
+KW  - exclusion criteria
+AB  - Employing linked data technologies and semantic endpoints for question answering systems are expanding approaches among the researchers. Therefore, systems that combine syntactic and semantic analysis and enrich input questions by sentence-level recognition are examined. A systematic mapping study is conducted to identify and analyse the studies from major databases, journals and proceedings of conferences or workshops published between 2010 and 2017. With a set of 14 research questions, inclusion and exclusion criteria are specified. 53 studies are selected as primary studies from an initial set of 845 papers. This study provides a mapping while focusing on the methods and identifying the gaps between required and existing approaches. Popular approaches which have gained the most attention among researchers are given as a conclusion. Moreover, a comparison between the authors' study and related work in the literature is given to point out the differences and the contributions of their study. As the result of the comparison, it is concluded that the study is a novel and original topic on question answering frameworks.
+AD  - Yasar Univ, Dept Software Engn, Fac Engn, Univ Cad 37, TR-35100 Izmir, TurkeyAD  - Yasar Univ, Dept Management Informat Syst, Sch Appl Sci, Univ Cad 37, TR-35100 Izmir, TurkeyAD  - Ege Univ, Fac Engn, Dept Comp Engn, Univ Cad 3, TR-35100 Izmir, TurkeyC3  - Yasar UniversityC3  - Yasar UniversityC3  - Ege UniversityPU  - WILEY
+PI  - HOBOKEN
+PA  - 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN  - 1751-8806
+SN  - 1751-8814
+J9  - IET SOFTW
+JI  - IET Softw.
+DA  - DEC
+PY  - 2018
+VL  - 12
+IS  - 6
+DO  - 10.1049/iet-sen.2018.5105
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000452742700003
+N1  - Times Cited in Web of Science Core Collection:  3
+Total Times Cited:  3
+Cited Reference Count:  32
+ER  -
+
+TY  - CPAPER
+AU  - Sandhini, S
+AU  - Binu, R
+ED  - Vanchipura, R
+ED  - Jiji, KS
+TI  - Classification of question answering systems: A survey
+T2  - EMERGING TRENDS IN ENGINEERING, SCIENCE AND TECHNOLOGY FOR SOCIETY, ENERGY AND ENVIRONMENT
+LA  - English
+CP  - 5th Biennial International Conference on Emerging Trends in Engineering, Science and Technology (ICETEST)
+AB  - Question Answering Systems (QAS) are a unique kind of information retrieval. In Question Answering (QA) the system retrieves the precise answer to the questions asked by the user in natural language. QA is multidisciplinary. It involves information retrieval, natural language processing, linguistics, knowledge representation, databases, software engineering, artificial intelligence and so on. This paper classifies QAS based on different techniques used in answer ranking and answer extraction. The survey also provides the main contributions, experimental results, and limitations of various approaches. Finally, we discuss our perspective on the future direction of QAS.
+AD  - Govt Engn Coll, Comp Sci & Engn Dept, Palakkad, Kerala, IndiaC3  - Government Engineering College PalakkadPU  - CRC PRESS-TAYLOR & FRANCIS GROUP
+PI  - BOCA RATON
+PA  - 6000 BROKEN SOUND PARKWAY NW, STE 300, BOCA RATON, FL 33487-2742 USA
+SN  - 978-1-351-12414-0
+SN  - 978-0-8153-5760-5
+PY  - 2018
+SP  - 779
+EP  - 784
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000469287500106
+N1  - Times Cited in Web of Science Core Collection:  1
+Total Times Cited:  1
+Cited Reference Count:  24
+ER  -
+
+TY  - CPAPER
+AU  - Eicher, B
+A1  - ACM
+TI  - Giving AI a Theory of Mind
+T2  - PROCEEDINGS OF THE 2018 AAAI/ACM CONFERENCE ON AI, ETHICS, AND SOCIETY (AIES'18)
+LA  - English
+CP  - AAAI/ACM Conference on AI, Ethics, and Society (AIES)
+KW  - ethics of artificial intelligence
+KW  - intelligent tutoring systems
+KW  - metacognition
+KW  - theory of mind
+KW  - online education
+KW  - virtual teaching assistant
+KW  - Turing test
+KW  - question-answering systems
+KW  - education access
+AB  - Effective collaboration between humans and artificially intelligent agents will require that the two are equipped to build a sense of mutual understanding with each other. When humans have an intuitive understanding of the motives and intentions of other humans, it is known as Theory of Mind. My work revolves around designing artificial intelligence to leverage this capacity to improve human collaborations with artificial agents.
+AD  - Georgia Inst Technol, Atlanta, GA 30332 USAC3  - University System of GeorgiaC3  - Georgia Institute of TechnologyPU  - ASSOC COMPUTING MACHINERY
+PI  - NEW YORK
+PA  - 1515 BROADWAY, NEW YORK, NY 10036-9998 USA
+SN  - 978-1-4503-6012-8
+PY  - 2018
+SP  - 364
+EP  - 365
+DO  - 10.1145/3278721.3278797
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)WE  - Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)AN  - WOS:000510018100063
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  9
+ER  -
+
+TY  - CPAPER
+AU  - Pan, XH
+AU  - Zhang, T
+ED  - Tseng, J
+ED  - Kotenko, I
+TI  - Research on E-Commerce Automatic Question Answering System Model Based on Data Mining
+T2  - 3RD ANNUAL INTERNATIONAL CONFERENCE ON INFORMATION SYSTEM AND ARTIFICIAL INTELLIGENCE (ISAI2018)
+LA  - English
+CP  - 3rd Annual International Conference on Information System and Artificial Intelligence (ISAI)
+AB  - With the rapid development of the Internet and artificial intelligence, intelligent question answering systems have become current research hotspots because they can provide users with accurate answers and intelligent services. They are gradually entering the e-commerce field to replace some manual work. In this paper, we proposed several models including a user intent recognition model, a pattern of association rule mining model and a model of the entire e-commerce auto answering system. In addition, the application effects of these models were analysed. The models and analysis in this work are useful for constructing e-commerce automatic question answering system or making personalized recommendations and related services.
+AD  - Shanghai Univ Polit Sci & Law, Comp Course Teaching Dept, Shanghai 201701, Peoples R ChinaAD  - Shanghai Univ, Dept Comp Engn & Sci, Shanghai 200444, Peoples R ChinaAD  - Shanghai Inst Adv Commun & Data Sci, Shanghai 200444, Peoples R ChinaC3  - Shanghai University of Political Science & LawC3  - Shanghai UniversityFU  - Natural Science Foundation of Shanghai [17ZR1409800]
+FX  - The authors would like to thank anonymous reviewers for their fruitful feedback and comments that have helped them improve the quality of this work. This research is partially supported by Natural Science Foundation of Shanghai under grant No. 17ZR1409800.
+PU  - IOP PUBLISHING LTD
+PI  - BRISTOL
+PA  - DIRAC HOUSE, TEMPLE BACK, BRISTOL BS1 6BE, ENGLAND
+SN  - 1742-6588
+SN  - 1742-6596
+J9  - J PHYS CONF SER
+PY  - 2018
+VL  - 1069
+C7  - 012105
+DO  - 10.1088/1742-6596/1069/1/012105
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000443503700105
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  9
+ER  -
+

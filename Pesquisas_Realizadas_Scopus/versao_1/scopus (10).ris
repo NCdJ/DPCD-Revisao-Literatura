@@ -1,0 +1,451 @@
+﻿TY  - CONF
+AU  - Vachev, K.
+AU  - Hardalov, M.
+AU  - Karadzhov, G.
+AU  - Georgiev, G.
+AU  - Koychev, I.
+AU  - Nakov, P.
+TI  - Leaf: Multiple-Choice Question Generation
+PY  - 2022
+T2  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 13186 LNCS
+SP  - 321
+EP  - 328
+DO  - 10.1007/978-3-030-99739-7_41
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85128788346&doi=10.1007%2f978-3-030-99739-7_41&partnerID=40&md5=2f9e48c99acae3554260a344c24d84ad
+AD  - Faculty of Mathematics and Informatics, Sofia University “St. Kliment Ohridski”, Sofia, Bulgaria
+AD  - Department of Computer Science and Technology, University of Cambridge, Cambridge, United Kingdom
+AD  - Releva.ai, Sofia, Bulgaria
+AD  - Qatar Computing Research Institute, HBKU, Doha, Qatar
+AB  - Testing with quiz questions has proven to be an effective way to assess and improve the educational process. However, manually creating quizzes is tedious and time-consuming. To address this challenge, we present Leaf, a system for generating multiple-choice questions from factual text. In addition to being very well suited for the classroom, Leaf could also be used in an industrial setting, e.g., to facilitate onboarding and knowledge sharing, or as a component of chatbots, question answering systems, or Massive Open Online Courses (MOOCs). The code and the demo are available on GitHub (https://github.com/KristiyanVachev/Leaf-Question-Generation ). © 2022, The Author(s), under exclusive license to Springer Nature Switzerland AG.
+KW  - Education
+KW  - MOOCs
+KW  - Multiple-choice questions
+KW  - Self-assessment
+KW  - Artificial intelligence
+KW  - Computer aided instruction
+KW  - E-learning
+KW  - Chatbots
+KW  - Educational process
+KW  - Industrial settings
+KW  - Knowledge-sharing
+KW  - Massive open online course
+KW  - Multiple-choice questions
+KW  - Onboarding
+KW  - Question answering systems
+KW  - Self-assessment
+KW  - Online systems
+A2  - Hagen M.
+A2  - Verberne S.
+A2  - Macdonald C.
+A2  - Seifert C.
+A2  - Balog K.
+A2  - Nørvåg K.
+A2  - Setty V.
+PB  - Springer Science and Business Media Deutschland GmbH
+SN  - 03029743 (ISSN); 978-303099738-0 (ISBN)
+LA  - English
+J2  - Lect. Notes Comput. Sci.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 December 2024; Cited By: 16; Correspondence Address: K. Vachev; Faculty of Mathematics and Informatics, Sofia University “St. Kliment Ohridski”, Sofia, Bulgaria; email: kdvachev@uni-sofia.bg; Conference name: 44th European Conference on Information Retrieval, ECIR 2022; Conference date: 10 April 2022 through 14 April 2022; Conference code: 276459
+ER  -
+
+TY  - JOUR
+AU  - Fuad, A.
+AU  - Al-Yahya, M.
+TI  - Recent Developments in Arabic Conversational AI: A Literature Review
+PY  - 2022
+T2  - IEEE Access
+VL  - 10
+SP  - 23842
+EP  - 23859
+DO  - 10.1109/ACCESS.2022.3155521
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85125731549&doi=10.1109%2fACCESS.2022.3155521&partnerID=40&md5=ec9792a9942aedcce2d3cf928699e276
+AD  - Department of Information Technology, College of Computer and Information Sciences, King Saud University, Riyadh, 4545, Saudi Arabia
+AB  - Conversational AI is one of the most active research areas in AI, and it has gained more attention from academia as well as industry. Given recent advancements in several conversational AI systems in addition to the availability of several datasets, the aim of this study is to explore the landscape of Arabic -based conversational AI systems. In this work, we provide a thorough review of recent Arabic conversational AI systems. We group them into three categories based on their functionality: (1) question-answering (QA) systems, (2) task-oriented dialogue systems (DS), and (3) chatbots. Furthermore, we describe the common datasets used in building and evaluating conversational AI systems in Arabic. Few surveys have targeted the conversational AI field for the Arabic language, and we aim to cover this gap with this study. Our contribution focuses on reviewing and analyzing the literature in the field and highlighting future research directions towards human-like conversational AI systems in Arabic.  © 2013 IEEE.
+KW  - Arabic language
+KW  - chatbots
+KW  - Conversational AI systems
+KW  - question answering systems
+KW  - task-oriented dialogue systems
+KW  - Artificial intelligence
+KW  - Job analysis
+KW  - Natural language processing systems
+KW  - Speech processing
+KW  - AI systems
+KW  - Arabic languages
+KW  - Chatbots
+KW  - Conversational AI system
+KW  - Dialogue systems
+KW  - License
+KW  - Natural languages
+KW  - Question answering systems
+KW  - Task analysis
+KW  - Task-oriented
+KW  - Task-oriented dialog system
+KW  - Semantics
+PB  - Institute of Electrical and Electronics Engineers Inc.
+SN  - 21693536 (ISSN)
+LA  - English
+J2  - IEEE Access
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 01 December 2024; Cited By: 13; Correspondence Address: A. Fuad; Department of Information Technology, College of Computer and Information Sciences, King Saud University, Riyadh, 4545, Saudi Arabia; email: aabdulghni@ksu.edu.sa
+ER  -
+
+TY  - JOUR
+AU  - Antoniou, C.
+AU  - Bassiliades, N.
+TI  - A survey on semantic question answering systems
+PY  - 2022
+T2  - Knowledge Engineering Review
+VL  - 37
+IS  - 3
+C7  - e2
+DO  - 10.1017/S0269888921000138
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85123914457&doi=10.1017%2fS0269888921000138&partnerID=40&md5=dc9fad4df0c27ca5d2b1911c2a6bf6b1
+AD  - School of Informatics, Aristotle University of Thessaloniki, Thessaloniki, Greece
+AB  - Recently, many question answering systems that derive answers from linked data repositories have been developed. The purpose of this survey is to identify the common features and approaches of the semantic question answering (SQA) systems, although many different and prototype systems have been designed. The SQA systems use a formal query language like SPARQL and knowledge of a specific vocabulary. This paper analyses different frameworks, architectures, or systems that perform SQA and classifies SQA systems based on different criteria.  © 
+KW  - Artificial intelligence
+KW  - Query languages
+KW  - Surveys
+KW  - Common features
+KW  - Framework/Architecture
+KW  - Paper analysis
+KW  - Prototype system
+KW  - Question Answering
+KW  - Question answering systems
+KW  - System use
+KW  - Semantics
+PB  - Cambridge University Press
+SN  - 02698889 (ISSN)
+LA  - English
+J2  - Knowl Eng Rev
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 01 December 2024; Cited By: 15; CODEN: KEREE
+ER  -
+
+TY  - CONF
+AU  - Yin, J.
+TI  - Research on Question Answering System Based on BERT Model
+PY  - 2022
+T2  - 2022 3rd International Conference on Computer Vision, Image and Deep Learning and International Conference on Computer Engineering and Applications, CVIDL and ICCEA 2022
+SP  - 68
+EP  - 71
+DO  - 10.1109/CVIDLICCEA56201.2022.9824408
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85135417995&doi=10.1109%2fCVIDLICCEA56201.2022.9824408&partnerID=40&md5=e5efb759bd3fc05a3bc3765d9fc1b26d
+AD  - Jiangsu University of Science and Technology, School of Computer, ZhenJiang, China
+AB  - The core of natural language processing is the science of how computers understand and respond to the influence of human language. This is also the main research direction in the field of machine intelligence development. Question answering system is one of the development directions. How to make the answer of question answering system more intelligent is the focus of research in recent years. Based on this, this thesis proposes a question answering system based on the BERT model that combines the co-attention mechanism and the self-attention mechanism. In order to better show the representation of questions and articles at their respective semantic levels, this article will choose BERT language to encode them. Attention and fusion are then performed horizontally and vertically at different levels of granularity between questions and paragraphs. Experiments show that the model has an average EM of 46.56 and an average F1 of 58.90 on all datasets. The average F1 for the development dataset is 54.85, and the average F1 for the test dataset is 62.95. The content answered by the question answering system based on the BERT model is basically reasonable, and the intelligence of the question answering system is effectively improved. © 2022 IEEE.
+KW  - attention mechanism
+KW  - BERT model
+KW  - Question answering system
+KW  - Artificial intelligence
+KW  - Natural language processing systems
+KW  - Statistical tests
+KW  - Attention mechanisms
+KW  - BERT model
+KW  - Development directions
+KW  - Focus of researches
+KW  - Human language
+KW  - Language processing
+KW  - Machine intelligence
+KW  - Natural languages
+KW  - Question answering systems
+KW  - Semantic levels
+KW  - Semantics
+PB  - Institute of Electrical and Electronics Engineers Inc.
+SN  - 978-166545911-2 (ISBN)
+LA  - English
+J2  - Int. Conf. Comput. Vis., Image Deep Learn. Int. Conf. Comput. Eng. Appl., CVIDL ICCEA
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 December 2024; Cited By: 11; Correspondence Address: J. Yin; Jiangsu University of Science and Technology, School of Computer, ZhenJiang, China; email: 1206732070@qq.com; Conference name: 3rd International Conference on Computer Vision, Image and Deep Learning and International Conference on Computer Engineering and Applications, CVIDL and ICCEA 2022; Conference date: 20 May 2022 through 22 May 2022; Conference code: 181070
+ER  -
+
+TY  - JOUR
+AU  - Yang, C.C.
+TI  - Explainable Artificial Intelligence for Predictive Modeling in Healthcare
+PY  - 2022
+T2  - Journal of Healthcare Informatics Research
+VL  - 6
+IS  - 2
+SP  - 228
+EP  - 239
+DO  - 10.1007/s41666-022-00114-1
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85124522335&doi=10.1007%2fs41666-022-00114-1&partnerID=40&md5=f9fbc5269b957f488746c88baa8d5ece
+AD  - College of Computing and Informatics, Drexel University, Philadelphia, United States
+AB  - The principle behind artificial intelligence is mimicking human intelligence in the way that it can perform tasks, recognize patterns, or predict outcomes through learning from the acquired data of various sources. Artificial intelligence and machine learning algorithms have been widely used in autonomous driving, recommender systems in electronic commerce and social media, fintech, natural language understanding, and question answering systems. Artificial intelligence is also gradually changing the landscape of healthcare research (Yu et al. in Biomed Eng 2:719–731, 25). The rule-based approach that relied on the curation of medical knowledge and the construction of robust decision rules had drawn significant attention in diagnosing diseases and clinical decision support since half a century ago. In recent years, machine learning algorithms such as deep learning that can account for complex interactions between features is shown to be promising in predictive modeling in healthcare (Deo in Circulation 132:1920–1930, 26). Although many of these artificial intelligence and machine learning algorithms can achieve remarkably high performance, it is often difficult to be completely adopted in practical clinical environments due to the lack of explainability in some of these algorithms. Explainable artificial intelligence (XAI) is emerging to assist in the communication of internal decisions, behavior, and actions to health care professionals. Through explaining the prediction outcomes, XAI gains the trust of the clinicians as they may learn how to apply the predictive modeling in practical situations instead of blindly following the predictions. There are still many scenarios to explore how to make XAI effective in clinical settings due to the complexity of medical knowledge. © 2022, The Author(s), under exclusive licence to Springer Nature Switzerland AG.
+KW  - Explainable artificial intelligence
+KW  - Healthcare informatics
+KW  - Human–computer interactions
+KW  - Predictive modeling
+KW  - Decision support systems
+KW  - Deep learning
+KW  - Diagnosis
+KW  - Electronic commerce
+KW  - Health care
+KW  - Human computer interaction
+KW  - Learning algorithms
+KW  - Natural language processing systems
+KW  - Artificial intelligence learning
+KW  - Autonomous driving
+KW  - Explainable artificial intelligence
+KW  - Health care informatics
+KW  - Human intelligence
+KW  - Machine learning algorithms
+KW  - Medical knowledge
+KW  - Natural language questions
+KW  - Predictive models
+KW  - Social media
+KW  - Forecasting
+PB  - Springer Science and Business Media Deutschland GmbH
+SN  - 2509498X (ISSN)
+LA  - English
+J2  - J. Healthc. Informatics Res.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 December 2024; Cited By: 86; Correspondence Address: C.C. Yang; College of Computing and Informatics, Drexel University, Philadelphia, United States; email: chris.yang@drexel.edu
+ER  -
+
+TY  - JOUR
+AU  - Zaib, M.
+AU  - Zhang, W.E.
+AU  - Sheng, Q.Z.
+AU  - Mahmood, A.
+AU  - Zhang, Y.
+TI  - Conversational question answering: a survey
+PY  - 2022
+T2  - Knowledge and Information Systems
+VL  - 64
+IS  - 12
+SP  - 3151
+EP  - 3195
+DO  - 10.1007/s10115-022-01744-y
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85137758445&doi=10.1007%2fs10115-022-01744-y&partnerID=40&md5=57b558f5cd815f5908bb19a6b5b1b273
+AD  - School of Computing, Faculty of Science and Engineering, Macquarie University, Sydney, 2109, NSW, Australia
+AD  - School of Computer Science, The University of Adelaide, North Terrace, Adelaide, 5005, SA, Australia
+AB  - Question answering (QA) systems provide a way of querying the information available in various formats including, but not limited to, unstructured and structured data in natural languages. It constitutes a considerable part of conversational artificial intelligence (AI) which has led to the introduction of a special research topic on conversational question answering (CQA), wherein a system is required to understand the given context and then engages in multi-turn QA to satisfy a user’s information needs. While the focus of most of the existing research work is subjected to single-turn QA, the field of multi-turn QA has recently grasped attention and prominence owing to the availability of large-scale, multi-turn QA datasets and the development of pre-trained language models. With a good amount of models and research papers adding to the literature every year recently, there is a dire need of arranging and presenting the related work in a unified manner to streamline future research. This survey is an effort to present a comprehensive review of the state-of-the-art research trends of CQA primarily based on reviewed papers over the recent years. Our findings show that there has been a trend shift from single-turn to multi-turn QA which empowers the field of Conversational AI from different perspectives. This survey is intended to provide an epitome for the research community with the hope of laying a strong foundation for the field of CQA. © 2022, The Author(s).
+KW  - Conversational agents
+KW  - Conversational AI
+KW  - Conversational machine reading comprehension
+KW  - Knowledge base
+KW  - Question answering
+KW  - Knowledge based systems
+KW  - Large dataset
+KW  - Natural language processing systems
+KW  - Conversational agents
+KW  - Conversational artificial intelligence
+KW  - Conversational machine reading comprehension
+KW  - Knowledge base
+KW  - Multi-turn
+KW  - Question Answering
+KW  - Question answering systems
+KW  - Reading comprehension
+KW  - Structured data
+KW  - Unstructured data
+KW  - Surveys
+PB  - Springer Science and Business Media Deutschland GmbH
+SN  - 02191377 (ISSN)
+LA  - English
+J2  - Knowl. Inf. Systems. Syst.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 December 2024; Cited By: 53; Correspondence Address: M. Zaib; School of Computing, Faculty of Science and Engineering, Macquarie University, Sydney, 2109, Australia; email: munazza-zaib@hdr.mq.edu.au; Q.Z. Sheng; School of Computing, Faculty of Science and Engineering, Macquarie University, Sydney, 2109, Australia; email: michael.sheng@mq.edu.au
+ER  -
+
+TY  - JOUR
+AU  - Raza, S.
+AU  - Schwartz, B.
+AU  - Rosella, L.C.
+TI  - CoQUAD: a COVID-19 question answering dataset system, facilitating research, benchmarking, and practice
+PY  - 2022
+T2  - BMC Bioinformatics
+VL  - 23
+IS  - 1
+C7  - 210
+DO  - 10.1186/s12859-022-04751-6
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85131130897&doi=10.1186%2fs12859-022-04751-6&partnerID=40&md5=cbee6ebe9ea6cb0d4c2d0aa62406a7dd
+AD  - Public Health Ontario (PHO), Toronto, ON, Canada
+AD  - Dalla Lana School of Public Health, University of Toronto, Toronto, ON, Canada
+AB  - Background: Due to the growing amount of COVID-19 research literature, medical experts, clinical scientists, and researchers frequently struggle to stay up to date on the most recent findings. There is a pressing need to assist researchers and practitioners in mining and responding to COVID-19-related questions on time. Methods: This paper introduces CoQUAD, a question-answering system that can extract answers related to COVID-19 questions in an efficient manner. There are two datasets provided in this work: a reference-standard dataset built using the CORD-19 and LitCOVID initiatives, and a gold-standard dataset prepared by the experts from a public health domain. The CoQUAD has a Retriever component trained on the BM25 algorithm that searches the reference-standard dataset for relevant documents based on a question related to COVID-19. CoQUAD also has a Reader component that consists of a Transformer-based model, namely MPNet, which is used to read the paragraphs and find the answers related to a question from the retrieved documents. In comparison to previous works, the proposed CoQUAD system can answer questions related to early, mid, and post-COVID-19 topics. Results: Extensive experiments on CoQUAD Retriever and Reader modules show that CoQUAD can provide effective and relevant answers to any COVID-19-related questions posed in natural language, with a higher level of accuracy. When compared to state-of-the-art baselines, CoQUAD outperforms the previous models, achieving an exact match ratio score of 77.50% and an F1 score of 77.10%. Conclusion: CoQUAD is a question-answering system that mines COVID-19 literature using natural language processing techniques to help the research community find the most recent findings and answer any related questions. © 2022, The Author(s).
+KW  - CORD-19
+KW  - COVID-19
+KW  - LitCOVID
+KW  - Long-COVID
+KW  - Pipeline
+KW  - Post-COVID-19
+KW  - Question answering system
+KW  - Transformer model
+KW  - Algorithms
+KW  - Benchmarking
+KW  - COVID-19
+KW  - Humans
+KW  - Language
+KW  - Natural Language Processing
+KW  - Clinical research
+KW  - Natural language processing systems
+KW  - CORD-19
+KW  - COVID-19
+KW  - LitCOVID
+KW  - Long-COVID
+KW  - Medical experts
+KW  - Post-COVID-19
+KW  - Question Answering
+KW  - Question answering systems
+KW  - Reference standard
+KW  - Transformer modeling
+KW  - algorithm
+KW  - benchmarking
+KW  - human
+KW  - language
+KW  - natural language processing
+KW  - Artificial intelligence
+PB  - BioMed Central Ltd
+SN  - 14712105 (ISSN)
+C2  - 35655148
+LA  - English
+J2  - BMC Bioinform.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 December 2024; Cited By: 22; Correspondence Address: S. Raza; Public Health Ontario (PHO), Toronto, Canada; email: shaina.raza@oahpp.ca; CODEN: BBMIC
+ER  -
+
+TY  - CONF
+AU  - Askari, A.
+AU  - Verberne, S.
+AU  - Pasi, G.
+TI  - Expert Finding in Legal Community Question Answering
+PY  - 2022
+T2  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 13186 LNCS
+SP  - 22
+EP  - 30
+DO  - 10.1007/978-3-030-99739-7_3
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85128736818&doi=10.1007%2f978-3-030-99739-7_3&partnerID=40&md5=d54220995645b585b35ec80d443483d3
+AD  - Leiden Institute of Advanced Computer Science, Leiden University, Leiden, Netherlands
+AD  - Department of Informatics, Systems and Communication, University of Milano-Bicocca, Milan, Italy
+AB  - Expert finding has been well-studied in community question answering (QA) systems in various domains. However, none of these studies addresses expert finding in the legal domain, where the goal is for citizens to find lawyers based on their expertise. In the legal domain, there is a large knowledge gap between the experts and the searchers, and the content on the legal QA websites consist of a combination formal and informal communication. In this paper, we propose methods for generating query-dependent textual profiles for lawyers covering several aspects including sentiment, comments, and recency. We combine query-dependent profiles with existing expert finding methods. Our experiments are conducted on a novel dataset gathered from an online legal QA service. We discovered that taking into account different lawyer profile aspects improves the best baseline model. We make our dataset publicly available for future work. © 2022, The Author(s), under exclusive license to Springer Nature Switzerland AG.
+KW  - Data collection
+KW  - Legal expert finding
+KW  - Legal IR
+KW  - Computers
+KW  - Laws and legislation
+KW  - Community question answering
+KW  - Data collection
+KW  - Expert finding
+KW  - Legal community
+KW  - Legal domains
+KW  - Legal expert finding
+KW  - Legal experts
+KW  - Legal IR
+KW  - Legal questions
+KW  - Question answering systems
+KW  - Artificial intelligence
+A2  - Hagen M.
+A2  - Verberne S.
+A2  - Macdonald C.
+A2  - Seifert C.
+A2  - Balog K.
+A2  - Nørvåg K.
+A2  - Setty V.
+PB  - Springer Science and Business Media Deutschland GmbH
+SN  - 03029743 (ISSN); 978-303099738-0 (ISBN)
+LA  - English
+J2  - Lect. Notes Comput. Sci.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 December 2024; Cited By: 13; Correspondence Address: A. Askari; Leiden Institute of Advanced Computer Science, Leiden University, Leiden, Netherlands; email: a.askari@liacs.leidenuniv.nl; Conference name: 44th European Conference on Information Retrieval, ECIR 2022; Conference date: 10 April 2022 through 14 April 2022; Conference code: 276459
+ER  -
+
+TY  - CONF
+AU  - Nagarhalli, T.P.
+AU  - Mhatre, S.
+AU  - Patil, S.
+AU  - Patil, P.
+TI  - The Review of Natural Language Processing Applications with Emphasis on Machine Learning Implementations
+PY  - 2022
+T2  - Proceedings of the International Conference on Electronics and Renewable Systems, ICEARS 2022
+SP  - 1353
+EP  - 1358
+DO  - 10.1109/ICEARS53579.2022.9752326
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85128943216&doi=10.1109%2fICEARS53579.2022.9752326&partnerID=40&md5=06b52d937f9bc5c38883b0a02fad0fbb
+AD  - Vidyavardhini's College of Engineering and Technology, Department of Computer Engineering, Mumbai, India
+AD  - Vidyavardhini's College of Engineering and Technology, Department of Computer Engineering and Tpo, Mumbai, India
+AD  - Industry Institute Interaction Cell, Vidyavardhini's College of Engineering and Technology, Mumbai, India
+AB  - There is a renewed interest in the recent times for research and development in the field and subfield of Artificial Intelligence, and this is especially true for Machine Learning and Natural Language Processing. With its ability to make predictions by relying on the data rather than any explicit instructions Machine Learning and Deep Learning Techniques have been employed and adapted in many fields of study and businesses with great success of the different areas which have been revolutionised by the implementation of Machine Learning and Deep Learning Techniques, Natural Language Processing is one such field of study which has benefited the most by this adaptation of learning techniques. Not only in processing of natural language, the learning techniques have played a very positive role in the different applications of Natural Language Processing as well. The paper proposes to highlight the important role played by the learning technique in improving the accuracy of the different applications of Natural Language Processing. © 2022 IEEE.
+KW  - Artificial Intelligence
+KW  - Deep Learning
+KW  - Dialog System
+KW  - Information Retrieval
+KW  - Machine Learning
+KW  - Machine Translation
+KW  - Natural Language Processing
+KW  - Question Answering System
+KW  - Sentiment Analysis
+KW  - Learning algorithms
+KW  - Search engines
+KW  - Sentiment analysis
+KW  - Deep learning
+KW  - Dialogue systems
+KW  - Learning techniques
+KW  - Machine translations
+KW  - Machine-learning
+KW  - Natural language processing applications
+KW  - On-machines
+KW  - Question answering systems
+KW  - Research and development
+KW  - Sentiment analysis
+KW  - Deep learning
+PB  - Institute of Electrical and Electronics Engineers Inc.
+SN  - 978-166548425-1 (ISBN)
+LA  - English
+J2  - Proc. Int. Conf. Electron. Renew. Syst., ICEARS
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 December 2024; Cited By: 9; Conference name: 2022 International Conference on Electronics and Renewable Systems, ICEARS 2022; Conference date: 16 March 2022 through 18 March 2022; Conference code: 178760
+ER  -
+
+TY  - JOUR
+AU  - Zhang, R.
+AU  - Guo, J.
+AU  - Chen, L.
+AU  - Fan, Y.
+AU  - Cheng, X.
+TI  - A Review on Question Generation from Natural Language Text
+PY  - 2022
+T2  - ACM Transactions on Information Systems
+VL  - 40
+IS  - 1
+C7  - 14
+DO  - 10.1145/3468889
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85123911965&doi=10.1145%2f3468889&partnerID=40&md5=798fbcc6fbe7f19ada6178603ac81fc7
+AD  - CAS Key Lab of Network Data Science and Technology, Institute of Computing Technology, Chinese Academy of Sciences, Beijing, China
+AD  - University of Chinese Academy of Sciences, NO. 6 Kexueyuan South Road, Beijing, 100190, China
+AB  - Question generation is an important yet challenging problem in Artificial Intelligence (AI), which aims to generate natural and relevant questions from various input formats, e.g., natural language text, structure database, knowledge base, and image. In this article, we focus on question generation from natural language text, which has received tremendous interest in recent years due to the widespread applications such as data augmentation for question answering systems. During the past decades, many different question generation models have been proposed, from traditional rule-based methods to advanced neural network-based methods. Since there have been a large variety of research works proposed, we believe it is the right time to summarize the current status, learn from existing methodologies, and gain some insights for future development. In contrast to existing reviews, in this survey, we try to provide a more comprehensive taxonomy of question generation tasks from three different perspectives, i.e., the types of the input context text, the target answer, and the generated question. We take a deep look into existing models from different dimensions to analyze their underlying ideas, major design principles, and training strategies We compare these models through benchmark tasks to obtain an empirical understanding of the existing techniques. Moreover, we discuss what is missing in the current literature and what are the promising and desired future directions. © 2021 Association for Computing Machinery.
+KW  - natural language generation
+KW  - Question generation
+KW  - survey
+KW  - Knowledge based systems
+KW  - Natural language processing systems
+KW  - Data augmentation
+KW  - Input format
+KW  - Natural language generation
+KW  - Natural languages texts
+KW  - Network-based
+KW  - Neural-networks
+KW  - Question answering systems
+KW  - Question generation
+KW  - Rule-based method
+KW  - Text structure
+KW  - Surveys
+PB  - Association for Computing Machinery
+SN  - 10468188 (ISSN)
+LA  - English
+J2  - ACM Trans. Inf. Syst.
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 01 December 2024; Cited By: 45; Correspondence Address: R. Zhang; CAS Key Lab of Network Data Science and Technology, Institute of Computing Technology, Chinese Academy of Sciences, Beijing, China; email: zhangruqing@ict.ac.cn; CODEN: ATISE
+ER  -
+

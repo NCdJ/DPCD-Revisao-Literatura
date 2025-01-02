@@ -1,0 +1,512 @@
+﻿TY  - JOUR
+AU  - Belle, V.
+AU  - Papantonis, I.
+TI  - Principles and Practice of Explainable Machine Learning
+PY  - 2021
+T2  - Frontiers in Big Data
+VL  - 4
+C7  - 688969
+DO  - 10.3389/fdata.2021.688969
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85110354249&doi=10.3389%2ffdata.2021.688969&partnerID=40&md5=8491c3bcc14c78ee4ff21a03530f53f2
+AD  - School of Informatics, University of Edinburgh, Edinburgh, United Kingdom
+AD  - Alan Turing Institute, London, United Kingdom
+AB  - Artificial intelligence (AI) provides many opportunities to improve private and public life. Discovering patterns and structures in large troves of data in an automated manner is a core component of data science, and currently drives applications in diverse areas such as computational biology, law and finance. However, such a highly positive impact is coupled with a significant challenge: how do we understand the decisions suggested by these systems in order that we can trust them? In this report, we focus specifically on data-driven methods—machine learning (ML) and pattern recognition models in particular—so as to survey and distill the results and observations from the literature. The purpose of this report can be especially appreciated by noting that ML models are increasingly deployed in a wide range of businesses. However, with the increasing prevalence and complexity of methods, business stakeholders in the very least have a growing number of concerns about the drawbacks of models, data-specific biases, and so on. Analogously, data science practitioners are often not aware about approaches emerging from the academic literature or may struggle to appreciate the differences between different methods, so end up using industry standards such as SHAP. Here, we have undertaken a survey to help industry practitioners (but also data scientists more broadly) understand the field of explainable machine learning better and apply the right tools. Our latter sections build a narrative around a putative data scientist, and discuss how she might go about explaining her models by asking the right questions. From an organization viewpoint, after motivating the area broadly, we discuss the main developments, including the principles that allow us to study transparent models vs. opaque models, as well as model-specific or model-agnostic post-hoc explainability approaches. We also briefly reflect on deep learning models, and conclude with a discussion about future research directions. © Copyright © 2021 Belle and Papantonis.
+KW  - black-box models
+KW  - explainable AI
+KW  - machine learning
+KW  - survey
+KW  - transparent models
+PB  - Frontiers Media S.A.
+SN  - 2624909X (ISSN)
+LA  - English
+J2  - Frontiers. Big. Data.
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 324; Correspondence Address: I. Papantonis; School of Informatics, University of Edinburgh, Edinburgh, United Kingdom; email: i.papantonis@sms.ed.ac.uk
+ER  -
+
+TY  - JOUR
+AU  - Ada, N.
+AU  - Kazancoglu, Y.
+AU  - Sezer, M.D.
+AU  - Ede-Senturk, C.
+AU  - Ozer, I.
+AU  - Ram, M.
+TI  - Analyzing barriers of circular food supply chains and proposing industry 4.0 solutions
+PY  - 2021
+T2  - Sustainability (Switzerland)
+VL  - 13
+IS  - 12
+C7  - 6812
+DO  - 10.3390/su13126812
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85108822471&doi=10.3390%2fsu13126812&partnerID=40&md5=4699837caf4a46a5acc6095952c93562
+AD  - Department of Business Administration, Ege University, Izmir, 35100, Turkey
+AD  - Department of Logistics Management, Yasar University, Izmir, 35100, Turkey
+AD  - Department of Business Administration, Yasar University, Izmir, 35100, Turkey
+AD  - Department of Mathematics, Computer Science and Engineering, Graphic Era Deemed to be University, Dehradun, 248002, India
+AD  - Institute of Advanced Manufacturing Technologies, Peter the Great St. Petersburg Polytechnic University, Saint Petersburg, 195251, Russian Federation
+AB  - The concept of the circular economy (CE) has gained importance worldwide recently since it offers a wider perspective in terms of promoting sustainable production and consumption with limited resources. However, few studies have investigated the barriers to CE in circular food supply chains. Accordingly, this paper presents a systematic literature review of 136 papers from 2010 to 2020 from WOS and Scopus databases regarding these barriers to understand CE implementation in food supply chains. The barriers are classified under seven categories: “cultural”, “business and business finance”, “regulatory and governmental”, “technological, “managerial”, “supply-chain management”, “knowledge and skills”. The findings show the need to identify barriers preventing the transition to CE. The findings also indicate that these challenges to CE can be overcome through Industry 4.0, which includes a variety of technologies, such as the Internet of Things (IoT), cloud technologies, machine learning, and blockchain. Specifically, machine learning can offer support by making workflows more efficient through the forecasting and analytical capabilities of food supply chains. Blockchain and big data analytics can provide the necessary support to establish legal systems and improve environmental regulations since transparency is a crucial issue for taxation and incentives systems. Thus, CE can be promoted via adequate laws, policies, and innovative technologies. © 2021 by the authors. Licensee MDPI, Basel, Switzerland.
+KW  - Circular economy
+KW  - Food supply chain
+KW  - Industry 4.0
+KW  - Sustainability
+PB  - MDPI AG
+SN  - 20711050 (ISSN)
+LA  - English
+J2  - Sustainability
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 98; Correspondence Address: M.D. Sezer; Department of Business Administration, Yasar University, Izmir, 35100, Turkey; email: deniz.sezer@yasar.edu.tr
+ER  -
+
+TY  - JOUR
+AU  - Liu, X.
+AU  - Tian, S.
+AU  - Tao, F.
+AU  - Yu, W.
+TI  - A review of artificial neural networks in the constitutive modeling of composite materials
+PY  - 2021
+T2  - Composites Part B: Engineering
+VL  - 224
+C7  - 109152
+DO  - 10.1016/j.compositesb.2021.109152
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85111300315&doi=10.1016%2fj.compositesb.2021.109152&partnerID=40&md5=8d317a35bf6c4074dac8919aea19a9aa
+AD  - Department of Industrial, Manufacturing, and Systems Engineering, The University of Texas at Arlington, Arlington, 76019, TX, United States
+AD  - Institute for Predictive Performance Methodologies, University of Texas at Arlington Research Institute, Fort Worth, 76120, TX, United States
+AD  - School of Aeronautics and Astronautics, Purdue University, West Lafayette, 47907, IN, United States
+AB  - Machine learning models are increasingly used in many engineering fields thanks to the widespread digital data, growing computing power, and advanced algorithms. The most popular machine learning model in recent years is artificial neural networks (ANN). Although many ANN models are used in the constitutive modeling of composite materials, there are still some unsolved issues that hinder the acceptance of ANN models in the practical design and analysis of composite materials and structures. Moreover, the emerging machine learning techniques are posing new opportunities and challenges in the data-based design paradigm. This paper aims to give a state-of-the-art literature review of ANN models in the constitutive modeling of composite materials, focusing on discovering unknown constitutive laws and accelerating multiscale modeling. This review focuses on the general frameworks, benefits, and challenges and opportunities of ANN models to the constitutive modeling of composite materials. Moreover, potential applications of ANN-based constitutive models in composite materials and structures are also discussed. This review is intended to initiate discussion of future research scope and new directions to enable efficient, robust, and accurate data-driven design and analysis of composite materials and structures. © 2021 Elsevier Ltd
+KW  - Composite materials
+KW  - Constitutive modeling
+KW  - Multiscale modeling
+KW  - Neural networks
+KW  - Constitutive models
+KW  - Machine learning
+KW  - Neural networks
+KW  - Artificial neural network models
+KW  - Composite materials and structures
+KW  - Composites material
+KW  - Computing power
+KW  - Design and analysis
+KW  - Digital datas
+KW  - Engineering fields
+KW  - Machine learning models
+KW  - Multiscale models
+KW  - Neural-networks
+KW  - Composite materials
+PB  - Elsevier Ltd
+SN  - 13598368 (ISSN)
+LA  - English
+J2  - Compos Part B: Eng
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 246; Correspondence Address: X. Liu; Department of Industrial, Manufacturing, and Systems Engineering, University of Texas at Arlington, Arlington, 76019, United States; email: xin.liu@uta.edu; CODEN: CPBEF
+ER  -
+
+TY  - JOUR
+AU  - Thoral, P.J.
+AU  - Peppink, J.M.
+AU  - Driessen, R.H.
+AU  - Sijbrands, E.J.G.
+AU  - Kompanje, E.J.O.
+AU  - Kaplan, L.
+AU  - Bailey, H.
+AU  - Kesecioglu, J.
+AU  - Cecconi, M.
+AU  - Churpek, M.
+AU  - Clermont, G.
+AU  - Van Der Schaar, M.
+AU  - Ercole, A.
+AU  - Girbes, A.R.J.
+AU  - Elbers, P.W.G.
+TI  - Sharing ICU Patient Data Responsibly Under the Society of Critical Care Medicine/European Society of Intensive Care Medicine Joint Data Science Collaboration: The Amsterdam University Medical Centers Database (AmsterdamUMCdb) Example∗
+PY  - 2021
+T2  - Critical Care Medicine
+VL  - 49
+IS  - 6
+SP  - E563
+EP  - E577
+DO  - 10.1097/CCM.0000000000004916
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85104572371&doi=10.1097%2fCCM.0000000000004916&partnerID=40&md5=31ef7e7296d71364603f1c798577042b
+AD  - Department Of Intensive Care Medicine, Amsterdam Medical Data Science (AMDS), Amsterdam Cardiovascular Sciences (ACS), Amsterdam Infection And Immunity Institute (AI&II), Amsterdam Umc, Vrije Universiteit, Universiteit Van Amsterdam, Amsterdam, Netherlands
+AD  - Department Of Internal Medicine, Erasmus Mc, Rotterdam, Netherlands
+AD  - Department Of Intensive Care Medicine, Erasmus Mc, Rotterdam, Netherlands
+AD  - Division Of Trauma, Surgical Critical Care And Emergency Surgery, Perelman School Of Medicine, University Of Pennsylvania, Philadelphia, PA, United States
+AD  - Department Of Emergency Medicine, Durham Va Medical Center, Durham, NC, United States
+AD  - Executive Committee, Society Of Critical Care Medicine, Mount Prospect, IL, United States
+AD  - Department Of Intensive Care Medicine, University Medical Center Utrecht, Utrecht University, Utrecht, Netherlands
+AD  - Executive Committee, European Society Of Intensive Care Medicine, Brussels, Belgium
+AD  - Department Of Anaesthesia And Intensive Care, Humanitas Research Hospital, Humanitas University, Milan, Italy
+AD  - Department Of Medicine, University Of Wisconsin, Madison, WI, United States
+AD  - Department Of Critical Care Medicine, Crisma Laboratory, University Of Pittsburgh, Pittsburgh, PA, United States
+AD  - University Of Cambridge, Cambridge, United Kingdom
+AD  - Alan Turing Institute, London, United Kingdom
+AD  - Division Of Anaesthesia, University Of Cambridge, Cambridge, United Kingdom
+AD  - Data Science Section, European Society Of Intensive Care Medicine, Brussels, Belgium
+AB  - OBJECTIVES: Critical care medicine is a natural environment for machine learning approaches to improve outcomes for critically ill patients as admissions to ICUs generate vast amounts of data. However, technical, legal, ethical, and privacy concerns have so far limited the critical care medicine community from making these data readily available. The Society of Critical Care Medicine and the European Society of Intensive Care Medicine have identified ICU patient data sharing as one of the priorities under their Joint Data Science Collaboration. To encourage ICUs worldwide to share their patient data responsibly, we now describe the development and release of Amsterdam University Medical Centers Database (AmsterdamUMCdb), the first freely available critical care database in full compliance with privacy laws from both the United States and Europe, as an example of the feasibility of sharing complex critical care data. SETTING: University hospital ICU. SUBJECTS: Data from ICU patients admitted between 2003 and 2016. INTERVENTIONS: We used a risk-based deidentification strategy to maintain data utility while preserving privacy. In addition, we implemented contractual and governance processes, and a communication strategy. Patient organizations, supporting hospitals, and experts on ethics and privacy audited these processes and the database. MEASUREMENTS AND MAIN RESULTS: AmsterdamUMCdb contains approximately 1 billion clinical data points from 23,106 admissions of 20,109 patients. The privacy audit concluded that reidentification is not reasonably likely, and AmsterdamUMCdb can therefore be considered as anonymous information, both in the context of the U.S. Health Insurance Portability and Accountability Act and the European General Data Protection Regulation. The ethics audit concluded that responsible data sharing imposes minimal burden, whereas the potential benefit is tremendous. CONCLUSIONS: Technical, legal, ethical, and privacy challenges related to responsible data sharing can be addressed using a multidisciplinary approach. A risk-based deidentification strategy, that complies with both U.S. and European privacy regulations, should be the preferred approach to releasing ICU patient data. This supports the shared Society of Critical Care Medicine and European Society of Intensive Care Medicine vision to improve critical care outcomes through scientific inquiry of vast and combined ICU datasets.  Copyright © 2021 The Author(s).
+KW  - artificial intelligence
+KW  - big data
+KW  - data anonymization
+KW  - data science
+KW  - database
+KW  - General Data Protection Regulation
+KW  - Health Insurance Portability and Accountability Act
+KW  - machine learning
+KW  - Confidentiality
+KW  - Databases, Factual
+KW  - Health Information Exchange
+KW  - Health Insurance Portability and Accountability Act
+KW  - Hospitals, University
+KW  - Humans
+KW  - Intensive Care Units
+KW  - Netherlands
+KW  - Societies, Medical
+KW  - United States
+KW  - adult
+KW  - anonymised data
+KW  - anonymization
+KW  - article
+KW  - artificial intelligence
+KW  - big data
+KW  - critical care outcome
+KW  - data science
+KW  - ethics
+KW  - Europe
+KW  - feasibility study
+KW  - female
+KW  - health insurance
+KW  - human
+KW  - intensive care medicine
+KW  - machine learning
+KW  - major clinical study
+KW  - male
+KW  - organization
+KW  - patient coding
+KW  - privacy
+KW  - university hospital
+KW  - confidentiality
+KW  - factual database
+KW  - health insurance
+KW  - intensive care unit
+KW  - legislation and jurisprudence
+KW  - medical information system
+KW  - medical society
+KW  - Netherlands
+KW  - organization and management
+KW  - United States
+KW  - university hospital
+PB  - Lippincott Williams and Wilkins
+SN  - 00903493 (ISSN)
+C2  - 33625129
+LA  - English
+J2  - Crit. Care Med.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 112; Correspondence Address: P.J. Thoral; Department Of Intensive Care Medicine, Amsterdam Medical Data Science (AMDS), Amsterdam Cardiovascular Sciences (ACS), Amsterdam Infection And Immunity Institute (AI&II), Amsterdam Umc, Vrije Universiteit, Universiteit Van Amsterdam, Amsterdam, Netherlands; email: p.thoral@amsterdamumc.nl; CODEN: CCMDC
+ER  -
+
+TY  - JOUR
+AU  - Nomura, Y.
+AU  - Imada, M.
+TI  - Dirac-Type Nodal Spin Liquid Revealed by Refined Quantum Many-Body Solver Using Neural-Network Wave Function, Correlation Ratio, and Level Spectroscopy
+PY  - 2021
+T2  - Physical Review X
+VL  - 11
+IS  - 3
+C7  - 031034
+DO  - 10.1103/PhysRevX.11.031034
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85113144069&doi=10.1103%2fPhysRevX.11.031034&partnerID=40&md5=924db16cb3fe6c30595361c4da8e97d0
+AD  - Riken Center for Emergent Matter Science, 2-1 Hirosawa, Wako, 351-0198, Japan
+AD  - Toyota Physical and Chemical Research Institute, 41-1 Yokomichi, Nagakute, Aichi, 480-1192, Japan
+AD  - Research Institute for Science and Engineering, Waseda University, 3-4-1 Okubo, Shinjuku-ku, Tokyo, 169-8555, Japan
+AB  - Pursuing fractionalized particles that do not bear properties of conventional measurable objects, exemplified by bare particles in the vacuum such as electrons and elementary excitations such as magnons, is a challenge in physics. Here we show that a machine-learning method for quantum many-body systems that has achieved state-of-the-art accuracy reveals the existence of a quantum spin liquid (QSL) phase in the region 0.49≲J2/J1≲0.54 convincingly in spin-1/2 frustrated Heisenberg model with the nearest and next-nearest-neighbor exchanges, J1 and J2, respectively, on the square lattice. This is achieved by combining with the cutting-edge computational schemes known as the correlation ratio and level spectroscopy methods to mitigate the finite-size effects. The quantitative one-to-one correspondence between the correlations in the ground state and the excitation spectra found in the present analyses enables the reliable identification and estimation of the QSL and its nature. The spin excitation spectra containing both singlet and triplet gapless Dirac-like dispersions signal the emergence of gapless fractionalized spin-1/2 Dirac-type spinons in the distinctive QSL phase. Unexplored critical behavior with coexisting and dual power-law decays of Néel antiferromagnetic and dimer correlations is revealed. The power-law decay exponents of the two correlations differently vary with J2/J1 in the QSL phase and thus have different values except for a single point satisfying the symmetry of the two correlations. The isomorph of excitations with the cuprate d-wave superconductors revealed here implies a tight connection between the present QSL and superconductivity. This achievement demonstrates that the quantum-state representation using machine-learning techniques, which had mostly been limited to benchmarks, is a promising tool for investigating grand challenges in quantum many-body physics. © 2021 authors. Published by the American Physical Society.
+KW  - Copper compounds
+KW  - Ground state
+KW  - Machine learning
+KW  - Neural networks
+KW  - Particle size analysis
+KW  - Spectroscopic analysis
+KW  - Spin fluctuations
+KW  - Superconducting materials
+KW  - Turing machines
+KW  - Wave functions
+KW  - Computational schemes
+KW  - d-Wave superconductors
+KW  - Elementary excitations
+KW  - Excitation spectrum
+KW  - Frustrated Heisenberg model
+KW  - Machine learning methods
+KW  - Machine learning techniques
+KW  - Quantum many-body systems
+KW  - Excited states
+PB  - American Physical Society
+SN  - 21603308 (ISSN)
+LA  - English
+J2  - Phys. Rev. X
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 99; Correspondence Address: Y. Nomura; Riken Center for Emergent Matter Science, Wako, 2-1 Hirosawa, 351-0198, Japan; email: yusuke.nomura@riken.jp
+ER  -
+
+TY  - JOUR
+AU  - Thompson, N.C.
+AU  - Greenewald, K.
+AU  - Lee, K.
+AU  - Manso, G.F.
+TI  - Deep Learning's Diminishing Returns: The Cost of Improvement is Becoming Unsustainable
+PY  - 2021
+T2  - IEEE Spectrum
+VL  - 58
+IS  - 10
+SP  - 50
+EP  - 55
+DO  - 10.1109/MSPEC.2021.9563954
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85116999813&doi=10.1109%2fMSPEC.2021.9563954&partnerID=40&md5=3e558c4e0e0b949763e779da0b62c0db
+AB  - Deep learning is now being used to translate between languages, predict how proteins fold, analyze medical scans, and play games as complex as Go, to name just a few applications of a technique that is now becoming pervasive. Success in those and other realms has brought this machine-learning technique from obscurity in the early 2000s to dominance today. • Although deep learning's rise to fame is relatively recent, its origins are not. In 1958, back when mainframe computers filled rooms and ran on vacuum tubes, knowledge of the interconnections between neurons in the brain inspired Frank Rosenblatt at Cornell to design the first artificial neural network, which he presciently described as a 'pattern-recognizing device.' But Rosenblatt's ambitions outpaced the capabilities of his era - and he knew it. Even his inaugural paper was forced to acknowledge the voracious appetite of neural networks for computational power, bemoaning that 'as the number of connections in the network increases...the burden on a conventional digital computer soon becomes excessive.' • Fortunately for such artificial neural networks - later rechristened 'deep learning' when they included extra layers of neurons - decades of Moore's Law and other improvements in computer hardware yielded a roughly 10-million-fold increase in the number of computations that a computer could do in a second. So when researchers returned to deep learning in the late 2000s, they wielded tools equal to the challenge.  © 1964-2012 IEEE.
+KW  - Computer hardware
+KW  - Deep learning
+KW  - Electron tubes
+KW  - Multilayer neural networks
+KW  - Brain-inspired
+KW  - Computational power
+KW  - Machine learning techniques
+KW  - Mainframe computer
+KW  - Moore Law
+KW  - Neural-networks
+KW  - Digital computers
+PB  - Institute of Electrical and Electronics Engineers Inc.
+SN  - 00189235 (ISSN)
+LA  - English
+J2  - IEEE Spectrum
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 92; CODEN: IEESA
+ER  -
+
+TY  - JOUR
+AU  - Kashinath, K.
+AU  - Mustafa, M.
+AU  - Albert, A.
+AU  - Wu, J.-L.
+AU  - Jiang, C.
+AU  - Esmaeilzadeh, S.
+AU  - Azizzadenesheli, K.
+AU  - Wang, R.
+AU  - Chattopadhyay, A.
+AU  - Singh, A.
+AU  - Manepalli, A.
+AU  - Chirila, D.
+AU  - Yu, R.
+AU  - Walters, R.
+AU  - White, B.
+AU  - Xiao, H.
+AU  - Tchelepi, H.A.
+AU  - Marcus, P.
+AU  - Anandkumar, A.
+AU  - Hassanzadeh, P.
+TI  - Physics-informed machine learning: Case studies for weather and climate modelling
+PY  - 2021
+T2  - Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences
+VL  - 379
+IS  - 2194
+C7  - 20200093
+DO  - 10.1098/rsta.2020.0093
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85101328211&doi=10.1098%2frsta.2020.0093&partnerID=40&md5=8694e30b31a1251be8061d7bb296298a
+AD  - NERSC, Lawrence Berkeley National Lab, Berkeley, CA, United States
+AD  - Terrafuse Inc., Berkeley, CA, United States
+AD  - Caltech, Pasadena, CA, United States
+AD  - University of California, Berkeley, CA, United States
+AD  - Stanford University, Stanford, CA, United States
+AD  - Purdue University, West Lafayette, IN, United States
+AD  - UC San Diego, San Diego, CA, United States
+AD  - Rice University, Houston, TX, United States
+AD  - Alfred Wegener Institute, Bremerhaven, Germany
+AD  - Northeastern University, Boston, MA, United States
+AD  - Virginia Tech, Blacksburg, VA, United States
+AD  - NVIDIA, Santa Clara, CA, United States
+AB  - Machine learning (ML) provides novel and powerful ways of accurately and efficiently recognizing complex patterns, emulating nonlinear dynamics, and predicting the spatio-temporal evolution of weather and climate processes. Off-the-shelf ML models, however, do not necessarily obey the fundamental governing laws of physical systems, nor do they generalize well to scenarios on which they have not been trained. We survey systematic approaches to incorporating physics and domain knowledge into ML models and distill these approaches into broad categories. Through 10 case studies, we show how these approaches have been used successfully for emulating, downscaling, and forecasting weather and climate processes. The accomplishments of these studies include greater physical consistency, reduced training time, improved data efficiency, and better generalization. Finally, we synthesize the lessons learned and identify scientific, diagnostic, computational, and resource challenges for developing truly robust and reliable physics-informed ML models for weather and climate processes. This article is part of the theme issue 'Machine learning for weather and climate modelling'.  © 2021 The Author(s).
+KW  - neural networks
+KW  - physical constraints
+KW  - physics-informed machine learning
+KW  - turbulent flows
+KW  - weather and climate modeling
+KW  - Machine learning
+KW  - Meteorology
+KW  - Weather forecasting
+KW  - Case-studies
+KW  - Climate process
+KW  - Complex pattern
+KW  - Domain knowledge
+KW  - Down-scaling
+KW  - Physical systems
+KW  - Spatiotemporal evolution
+KW  - Training time
+KW  - article
+KW  - artificial neural network
+KW  - climate
+KW  - forecasting
+KW  - physics
+KW  - turbulent flow
+KW  - weather
+KW  - Climate models
+PB  - Royal Society Publishing
+SN  - 1364503X (ISSN)
+C2  - 33583262
+LA  - English
+J2  - Philos. Trans. R. Soc. A Math. Phys. Eng. Sci.
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 277; Correspondence Address: K. Kashinath; NERSC, Lawrence Berkeley National Lab, Berkeley, United States; email: kkashinath@lbl.gov
+ER  -
+
+TY  - JOUR
+AU  - Thapa, C.
+AU  - Camtepe, S.
+TI  - Precision health data: Requirements, challenges and existing techniques for data security and privacy
+PY  - 2021
+T2  - Computers in Biology and Medicine
+VL  - 129
+C7  - 104130
+DO  - 10.1016/j.compbiomed.2020.104130
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85097345823&doi=10.1016%2fj.compbiomed.2020.104130&partnerID=40&md5=19e6683e1237fba5a761eb494e046e79
+AD  - CSIRO Data61, Sydney, 2122, NSW, Australia
+AB  - Precision health leverages information from various sources, including omics, lifestyle, environment, social media, medical records, and medical insurance claims to enable personalized care, prevent and predict illness, and precise treatments. It extensively uses sensing technologies (e.g., electronic health monitoring devices), computations (e.g., machine learning), and communication (e.g., interaction between the health data centers). As health data contain sensitive private information, including the identity of patient and carer and medical conditions of the patient, proper care is required at all times. Leakage of these private information affects the personal life, including bullying, high insurance premium, and loss of job due to the medical history. Thus, the security, privacy of and trust on the information are of utmost importance. Moreover, government legislation and ethics committees demand the security and privacy of healthcare data. Besides, the public, who is the data source, always expects the security, privacy, and trust of their data. Otherwise, they can avoid contributing their data to the precision health system. Consequently, as the public is the targeted beneficiary of the system, the effectiveness of precision health diminishes. Herein, in the light of precision health data security, privacy, ethical and regulatory requirements, finding the best methods and techniques for the utilization of the health data, and thus precision health is essential. In this regard, firstly, this paper explores the regulations, ethical guidelines around the world, and domain-specific needs. Then it presents the requirements and investigates the associated challenges. Secondly, this paper investigates secure and privacy-preserving machine learning methods suitable for the computation of precision health data along with their usage in relevant health projects. Finally, it illustrates the best available techniques for precision health data security and privacy with a conceptual system model that enables compliance, ethics clearance, consent management, medical innovations, and developments in the health domain. © 2020 Elsevier Ltd
+KW  - Artificial intelligence
+KW  - Ethical guidelines
+KW  - Legal requirements
+KW  - Precision health
+KW  - Privacy
+KW  - Security
+KW  - Computer Security
+KW  - Confidentiality
+KW  - Humans
+KW  - Precision Medicine
+KW  - Privacy
+KW  - Health
+KW  - Insurance
+KW  - Laws and legislation
+KW  - Machine learning
+KW  - Philosophical aspects
+KW  - Privacy by design
+KW  - Best available techniques
+KW  - Consent managements
+KW  - Data security and privacy
+KW  - Government legislations
+KW  - Machine learning methods
+KW  - Private information
+KW  - Regulatory requirements
+KW  - Security and privacy
+KW  - adult
+KW  - artificial intelligence
+KW  - bullying
+KW  - computer security
+KW  - government
+KW  - health insurance
+KW  - human
+KW  - law
+KW  - lifestyle
+KW  - machine learning
+KW  - medical history
+KW  - medical record
+KW  - practice guideline
+KW  - privacy
+KW  - professional standard
+KW  - review
+KW  - social media
+KW  - trust
+KW  - computer security
+KW  - confidentiality
+KW  - personalized medicine
+KW  - Information management
+PB  - Elsevier Ltd
+SN  - 00104825 (ISSN)
+C2  - 33271399
+LA  - English
+J2  - Comput. Biol. Med.
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 166; Correspondence Address: C. Thapa; CSIRO Data61, Sydney, 2122, Australia; email: chandra.thapa@data61.csiro.au; CODEN: CBMDA
+ER  -
+
+TY  - JOUR
+AU  - Krithiga, R.
+AU  - Geetha, P.
+TI  - Breast Cancer Detection, Segmentation and Classification on Histopathology Images Analysis: A Systematic Review
+PY  - 2021
+T2  - Archives of Computational Methods in Engineering
+VL  - 28
+IS  - 4
+SP  - 2607
+EP  - 2619
+DO  - 10.1007/s11831-020-09470-w
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85089292104&doi=10.1007%2fs11831-020-09470-w&partnerID=40&md5=97146289b4a51965e266d3e7d3bf0ecf
+AD  - Department of Computer Science and Engineering, College of Engineering, Anna University, Chennai, Tamil Nadu, India
+AB  - Digital pathology represents a major evolution in modern medicine. Pathological examinations constitute the standard in medical protocols and the law, and call for specific action in the diagnostic process. Advances in digital pathology have made it possible for image analysis to take advantage of the information analysis from hematoxylin and eosin stained images. In spite of concern, it is recorded in the majority of breast cancer datasets, which makes research more difficult in prediction. The objective of our work is to evaluate the performance of the machine learning and deep learning techniques applied to predict breast cancer recurrence rates. This study starts with an overview of tissue preparation, analysis of stained images, and a prognosis for cancer patients. The high accuracy results recorded are compromised in terms of sensitivity and specificity. The missing loss function and class imbalance problems are rarely addressed, and most often the chosen performance measures are context-inappropriate. The challenge that presents itself is to analyse whole slide images for the content imaging required with diagnostic biomarkers, and prognosis support backed by digital pathology. © 2020, CIMNE, Barcelona, Spain.
+KW  - Deep learning
+KW  - Diagnosis
+KW  - Diseases
+KW  - Image analysis
+KW  - Image classification
+KW  - Image segmentation
+KW  - Learning systems
+KW  - Pathology
+KW  - Breast cancer detection
+KW  - Class imbalance problems
+KW  - Diagnostic biomarkers
+KW  - Digital pathologies
+KW  - Learning techniques
+KW  - Performance measure
+KW  - Sensitivity and specificity
+KW  - Whole slide images
+KW  - Medical imaging
+PB  - Springer Science and Business Media B.V.
+SN  - 11343060 (ISSN)
+LA  - English
+J2  - Arch. Comput. Methods Eng.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 81; Correspondence Address: R. Krithiga; Department of Computer Science and Engineering, College of Engineering, Anna University, Chennai, India; email: rkrithigarajesh@gmail.com
+ER  -
+
+TY  - JOUR
+AU  - Chai, D.
+AU  - Wang, L.
+AU  - Chen, K.
+AU  - Yang, Q.
+TI  - Secure Federated Matrix Factorization
+PY  - 2021
+T2  - IEEE Intelligent Systems
+VL  - 36
+IS  - 5
+SP  - 11
+EP  - 20
+DO  - 10.1109/MIS.2020.3014880
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85089404401&doi=10.1109%2fMIS.2020.3014880&partnerID=40&md5=df13bdbab18c4cf63c8bfc0b34d96a82
+AD  - Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+AD  - Peking University, China
+AB  - To protect user privacy and meet law regulations, federated (machine) learning is obtaining vast interests in recent years. The key principle of federated learning is training a machine learning model without needing to know each user's personal raw private data. In this article, we propose a secure matrix factorization framework under the federated learning setting, called FedMF. First, we design a user-level distributed matrix factorization framework where the model can be learned when each user only uploads the gradient information (instead of the raw preference data) to the server. While gradient information seems secure, we prove that it could still leak users' raw data. To this end, we enhance the distributed matrix factorization framework with homomorphic encryption. We implement the prototype of FedMF and test it with a real movie rating dataset. Results verify the feasibility of FedMF. We also discuss the challenges for applying FedMF in practice for future research.  © 2001-2011 IEEE.
+KW  - Distributed system
+KW  - IEEE Intelligent system
+KW  - Security and Privacy Protection
+KW  - Cryptography
+KW  - Factorization
+KW  - Laws and legislation
+KW  - Learning systems
+KW  - Statistical tests
+KW  - Distributed matrix
+KW  - Gradient informations
+KW  - Ho-momorphic encryptions
+KW  - Learning settings
+KW  - Machine learning models
+KW  - Matrix factorizations
+KW  - Movie ratings
+KW  - Preference data
+KW  - Matrix algebra
+PB  - Institute of Electrical and Electronics Engineers Inc.
+SN  - 15411672 (ISSN)
+LA  - English
+J2  - IEEE Intell. Syst.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 197
+ER  -
+

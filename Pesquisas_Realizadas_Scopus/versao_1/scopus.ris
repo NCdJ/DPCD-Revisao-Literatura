@@ -1,0 +1,1237 @@
+﻿TY  - JOUR
+AU  - Greco, C.M.
+AU  - Tagarelli, A.
+TI  - Bringing order into the realm of Transformer-based language models for artificial intelligence and law
+PY  - 2024
+T2  - Artificial Intelligence and Law
+VL  - 32
+IS  - 4
+SP  - 863
+EP  - 1010
+DO  - 10.1007/s10506-023-09374-7
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85177190521&doi=10.1007%2fs10506-023-09374-7&partnerID=40&md5=3822d4420cb24a7e06097a61863aac01
+AD  - Department of Computer Engineering, Modeling, Electronics, and Systems Engineering, (DIMES) - University of Calabria, CS, Rende, 87036, Italy
+AB  - Transformer-based language models (TLMs) have widely been recognized to be a cutting-edge technology for the successful development of deep-learning-based solutions to problems and applications that require natural language processing and understanding. Like for other textual domains, TLMs have indeed pushed the state-of-the-art of AI approaches for many tasks of interest in the legal domain. Despite the first Transformer model being proposed about six years ago, there has been a rapid progress of this technology at an unprecedented rate, whereby BERT and related models represent a major reference, also in the legal domain. This article provides the first systematic overview of TLM-based methods for AI-driven problems and tasks in the legal sphere. A major goal is to highlight research advances in this field so as to understand, on the one hand, how the Transformers have contributed to the success of AI in supporting legal processes, and on the other hand, what are the current limitations and opportunities for further research development. © The Author(s) 2023.
+KW  - AI for law
+KW  - Benchmarks
+KW  - BERT
+KW  - Caselaw data
+KW  - Entailment
+KW  - GPT
+KW  - Inference
+KW  - Language models
+KW  - Legal document review
+KW  - Legal outcome prediction
+KW  - Legal search
+KW  - Retrieval
+KW  - Statutory law data
+KW  - Computational linguistics
+KW  - Cutting
+KW  - Natural language processing systems
+KW  - AI for law
+KW  - Benchmark
+KW  - BERT
+KW  - Caselaw
+KW  - Caselaw data
+KW  - Document review
+KW  - Entailment
+KW  - GPT
+KW  - Inference
+KW  - Language model
+KW  - Legal document review
+KW  - Legal documents
+KW  - Legal outcome prediction
+KW  - Legal search
+KW  - Outcome prediction
+KW  - Retrieval
+KW  - Statutory law data
+KW  - Deep learning
+PB  - Springer Nature
+SN  - 09248463 (ISSN)
+LA  - English
+J2  - Artif Intell Law
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 01 December 2024; Cited By: 4; Correspondence Address: A. Tagarelli; Department of Computer Engineering, Modeling, Electronics, and Systems Engineering, (DIMES) - University of Calabria, Rende, CS, 87036, Italy; email: andrea.tagarelli@unical.it; CODEN: AINLE
+ER  -
+
+TY  - JOUR
+AU  - Tagarelli, A.
+AU  - Simeri, A.
+TI  - Unsupervised law article mining based on deep pre-trained language representation models with application to the Italian civil code
+PY  - 2022
+T2  - Artificial Intelligence and Law
+VL  - 30
+IS  - 3
+SP  - 417
+EP  - 473
+DO  - 10.1007/s10506-021-09301-8
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85114943306&doi=10.1007%2fs10506-021-09301-8&partnerID=40&md5=5553a33c279e9f0fa0ab35d2e8d8e6de
+AD  - Department of Computer Engineering, Modeling, Electronics, and Systems Engineering (DIMES), University of Calabria, CS, Rende, 87036, Italy
+AB  - Modeling law search and retrieval as prediction problems has recently emerged as a predominant approach in law intelligence. Focusing on the law article retrieval task, we present a deep learning framework named LamBERTa, which is designed for civil-law codes, and specifically trained on the Italian civil code. To our knowledge, this is the first study proposing an advanced approach to law article prediction for the Italian legal system based on a BERT (Bidirectional Encoder Representations from Transformers) learning framework, which has recently attracted increased attention among deep learning approaches, showing outstanding effectiveness in several natural language processing and learning tasks. We define LamBERTa models by fine-tuning an Italian pre-trained BERT on the Italian civil code or its portions, for law article retrieval as a classification task. One key aspect of our LamBERTa framework is that we conceived it to address an extreme classification scenario, which is characterized by a high number of classes, the few-shot learning problem, and the lack of test query benchmarks for Italian legal prediction tasks. To solve such issues, we define different methods for the unsupervised labeling of the law articles, which can in principle be applied to any law article code system. We provide insights into the explainability and interpretability of our LamBERTa models, and we present an extensive experimental analysis over query sets of different type, for single-label as well as multi-label evaluation tasks. Empirical evidence has shown the effectiveness of LamBERTa, and also its superiority against widely used deep-learning text classifiers and a few-shot learner conceived for an attribute-aware prediction task. © 2021, The Author(s).
+KW  - BERT
+KW  - Deep learning
+KW  - Deep pre-trained language models
+KW  - Italian civil code
+KW  - Law article retrieval
+KW  - Text classification
+KW  - Computational linguistics
+KW  - Deep learning
+KW  - Forecasting
+KW  - Learning algorithms
+KW  - Learning systems
+KW  - Natural language processing systems
+KW  - Text processing
+KW  - Bidirectional encoder representation from transformer
+KW  - Deep learning
+KW  - Deep pre-trained language model
+KW  - Italian civil code
+KW  - Language model
+KW  - Law article retrieval
+KW  - Learning frameworks
+KW  - Prediction tasks
+KW  - Representation model
+KW  - Text classification
+KW  - Classification (of information)
+PB  - Institute for Ionics
+SN  - 09248463 (ISSN)
+LA  - English
+J2  - Artif Intell Law
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 December 2024; Cited By: 29; Correspondence Address: A. Tagarelli; Department of Computer Engineering, Modeling, Electronics, and Systems Engineering (DIMES), University of Calabria, Rende, CS, 87036, Italy; email: tagarelli@dimes.unical.it; CODEN: AINLE
+ER  -
+
+TY  - JOUR
+AU  - Vu, S.T.
+AU  - Le Nguyen, M.
+AU  - Satoh, K.
+TI  - Abstract meaning representation for legal documents: an empirical research on a human-annotated dataset
+PY  - 2022
+T2  - Artificial Intelligence and Law
+VL  - 30
+IS  - 2
+SP  - 221
+EP  - 243
+DO  - 10.1007/s10506-021-09292-6
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85109623395&doi=10.1007%2fs10506-021-09292-6&partnerID=40&md5=b85e3a6c65b5f3150dfdb9771acb3c6c
+AD  - Japan Advanced Institute of Science and Technology, Ishikawa, 923-1292, Japan
+AD  - National Institute of Informatics, Tokyo, 100-0003, Japan
+AB  - Natural language processing techniques contribute more and more in analyzing legal documents recently, which supports the implementation of laws and rules using computers. Previous approaches in representing a legal sentence often based on logical patterns that illustrate the relations between concepts in the sentence, often consist of multiple words. Those representations cause the lack of semantic information at the word level. In our work, we aim to tackle such shortcomings by representing legal texts in the form of abstract meaning representation (AMR), a graph-based semantic representation that gains lots of polarity in NLP community recently. We present our study in AMR Parsing (producing AMR from natural language) and AMR-to-text Generation (producing natural language from AMR) specifically for legal domain. We also introduce JCivilCode, a human-annotated legal AMR dataset which was created and verified by a group of linguistic and legal experts. We conduct an empirical evaluation of various approaches in parsing and generating AMR on our own dataset and show the current challenges. Based on our observation, we propose our domain adaptation method applying in the training phase and decoding phase of a neural AMR-to-text generation model. Our method improves the quality of text generated from AMR graph compared to the baseline model. (This work is extended from our two previous papers: “An Empirical Evaluation of AMR Parsing for Legal Documents”, published in the Twelfth International Workshop on Juris-informatics (JURISIN) 2018; and “Legal Text Generation from Abstract Meaning Representation”, published in the 32nd International Conference on Legal Knowledge and Information Systems (JURIX) 2019.). © 2021, The Author(s), under exclusive licence to Springer Nature B.V.
+KW  - Abstract meaning representation
+KW  - Deep neural network
+KW  - Legal document
+KW  - Authentication
+KW  - Context free grammars
+KW  - Graphic methods
+KW  - Semantics
+KW  - Syntactics
+KW  - Domain adaptation
+KW  - Empirical evaluations
+KW  - Empirical research
+KW  - International workshops
+KW  - NAtural language processing
+KW  - Natural languages
+KW  - Semantic information
+KW  - Semantic representation
+KW  - Natural language processing systems
+PB  - Springer Science and Business Media B.V.
+SN  - 09248463 (ISSN)
+LA  - English
+J2  - Artif Intell Law
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 December 2024; Cited By: 3; Correspondence Address: S.T. Vu; Japan Advanced Institute of Science and Technology, Ishikawa, 923-1292, Japan; email: sinhvtr@jaist.ac.jp; M. Le Nguyen; Japan Advanced Institute of Science and Technology, Ishikawa, 923-1292, Japan; email: nguyenml@jaist.ac.jp; CODEN: AINLE
+ER  -
+
+TY  - JOUR
+AU  - Păiş, V.
+AU  - Ion, R.
+AU  - Irimia, E.
+AU  - Mititelu, V.B.
+AU  - Badea, V.
+AU  - Tufiș, D.
+TI  - System for the anonymization of Romanian jurisprudence
+PY  - 2024
+T2  - Artificial Intelligence and Law
+DO  - 10.1007/s10506-024-09420-y
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85203605762&doi=10.1007%2fs10506-024-09420-y&partnerID=40&md5=16bff1fded0e6e4ef4d03660e5f3e695
+AD  - Research Institute for Artificial Intelligence “Mihai Drăgănescu”, Romanian Academy, Calea 13 Septembrie, 13, Bucharest, 050711, Romania
+AB  - The transparency of the judicial process and the consistency of judicial decisions can be improved through their publication. Access to jurisprudence is of paramount importance both for law professionals (judges, lawyers, law students) and for the larger public. However, public access must ensure the preservation of privacy for people involved, in accordance with national and international regulations. This paper presents the work behind building an artificial intelligence system for the anonymization of Romanian jurisprudence, allowing it to be accessed through the ReJust portal operated by the Superior Council of Magistracy in Romania. © The Author(s), under exclusive licence to Springer Nature B.V. 2024.
+KW  - Anonymization
+KW  - Jurisprudence
+KW  - Natural language processing
+KW  - Romanian language
+PB  - Springer Nature
+SN  - 09248463 (ISSN)
+LA  - English
+J2  - Artif Intell Law
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 December 2024; Cited By: 0; Correspondence Address: V. Păiş; Research Institute for Artificial Intelligence “Mihai Drăgănescu”, Romanian Academy, Bucharest, Calea 13 Septembrie, 13, 050711, Romania; email: vasile@racai.ro; CODEN: AINLE
+ER  -
+
+TY  - JOUR
+AU  - Medvedeva, M.
+AU  - Vols, M.
+AU  - Wieling, M.
+TI  - Using machine learning to predict decisions of the European Court of Human Rights
+PY  - 2020
+T2  - Artificial Intelligence and Law
+VL  - 28
+IS  - 2
+SP  - 237
+EP  - 266
+DO  - 10.1007/s10506-019-09255-y
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85068235603&doi=10.1007%2fs10506-019-09255-y&partnerID=40&md5=97f6aa9b4062147e74b235d4a283c5af
+AD  - Center for Language and Cognition Groningen, Faculty of Arts, University of Groningen, Groningen, Netherlands
+AD  - Department of Legal Methods, Faculty of Law, University of Groningen, Groningen, Netherlands
+AB  - When courts started publishing judgements, big data analysis (i.e. large-scale statistical analysis of case law and machine learning) within the legal domain became possible. By taking data from the European Court of Human Rights as an example, we investigate how natural language processing tools can be used to analyse texts of the court proceedings in order to automatically predict (future) judicial decisions. With an average accuracy of 75% in predicting the violation of 9 articles of the European Convention on Human Rights our (relatively simple) approach highlights the potential of machine learning approaches in the legal domain. We show, however, that predicting decisions for future cases based on the cases from the past negatively impacts performance (average accuracy range from 58 to 68%). Furthermore, we demonstrate that we can achieve a relatively high classification performance (average accuracy of 65%) when predicting outcomes based only on the surnames of the judges that try the case. © 2019, The Author(s).
+KW  - Case law
+KW  - European Court of Human Rights
+KW  - Judicial decisions
+KW  - Machine learning
+KW  - Natural language processing
+KW  - Forecasting
+KW  - Learning systems
+KW  - Machine learning
+KW  - Natural language processing systems
+KW  - Social aspects
+KW  - Case law
+KW  - Classification performance
+KW  - Human rights
+KW  - Judicial decisions
+KW  - Machine learning approaches
+KW  - NAtural language processing
+KW  - Natural Language Processing Tools
+KW  - Predicting outcomes
+KW  - Learning algorithms
+PB  - Springer
+SN  - 09248463 (ISSN)
+LA  - English
+J2  - Artif Intell Law
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 December 2024; Cited By: 205; Correspondence Address: M. Medvedeva; Center for Language and Cognition Groningen, Faculty of Arts, University of Groningen, Groningen, Netherlands; email: m.medvedeva@rug.nl; CODEN: AINLE
+ER  -
+
+TY  - JOUR
+AU  - Robaldo, L.
+AU  - Villata, S.
+AU  - Wyner, A.
+AU  - Grabmair, M.
+TI  - Introduction for artificial intelligence and law: special issue “natural language processing for legal texts”
+PY  - 2019
+T2  - Artificial Intelligence and Law
+VL  - 27
+IS  - 2
+SP  - 113
+EP  - 115
+DO  - 10.1007/s10506-019-09251-2
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85064342880&doi=10.1007%2fs10506-019-09251-2&partnerID=40&md5=8ae22ae14183de8de9512b356e832f4f
+AD  - University of Luxembourg, Luxembourg city, Luxembourg
+AD  - CNRS, Inria, I3S, Université Côte d’Azur, Sophia Antipolis, France
+AD  - Swansea University, Singleton Park, Swansea, SA2 8PP, United Kingdom
+AD  - Carnegie Mellon University, Pittsburgh, United States
+PB  - Springer Netherlands
+SN  - 09248463 (ISSN)
+LA  - English
+J2  - Artif Intell Law
+M3  - Editorial
+DB  - Scopus
+N1  - Export Date: 01 December 2024; Cited By: 34; Correspondence Address: L. Robaldo; University of Luxembourg, Luxembourg city, Luxembourg; email: livio.robaldo@uni.lu; CODEN: AINLE
+ER  -
+
+TY  - JOUR
+AU  - Nguyen, H.-T.
+AU  - Phi, M.-K.
+AU  - Ngo, X.-B.
+AU  - Tran, V.
+AU  - Nguyen, L.-M.
+AU  - Tu, M.-P.
+TI  - Attentive deep neural networks for legal document retrieval
+PY  - 2024
+T2  - Artificial Intelligence and Law
+VL  - 32
+IS  - 1
+SP  - 57
+EP  - 86
+DO  - 10.1007/s10506-022-09341-8
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85144988188&doi=10.1007%2fs10506-022-09341-8&partnerID=40&md5=548bc19dbdd6896697fe6b5eed566151
+AD  - School of Information Science, Japan Advanced Institute of Science and Technology, Ishikawa, Nomi, Japan
+AD  - Department of Computer Science, Posts and Telecommunications Institute of Technology, Hanoi, Viet Nam
+AB  - Legal text retrieval serves as a key component in a wide range of legal text processing tasks such as legal question answering, legal case entailment, and statute law retrieval. The performance of legal text retrieval depends, to a large extent, on the representation of text, both query and legal documents. Based on good representations, a legal text retrieval model can effectively match the query to its relevant documents. Because legal documents often contain long articles and only some parts are relevant to queries, it is quite a challenge for existing models to represent such documents. In this paper, we study the use of attentive neural network-based text representation for statute law document retrieval. We propose a general approach using deep neural networks with attention mechanisms. Based on it, we develop two hierarchical architectures with sparse attention to represent long sentences and articles, and we name them Attentive CNN and Paraformer. The methods are evaluated on datasets of different sizes and characteristics in English, Japanese, and Vietnamese. Experimental results show that: (i) Attentive neural methods substantially outperform non-neural methods in terms of retrieval performance across datasets and languages; (ii) Pretrained transformer-based models achieve better accuracy on small datasets at the cost of high computational complexity while lighter weight Attentive CNN achieves better accuracy on large datasets; and (iii) Our proposed Paraformer outperforms state-of-the-art methods on COLIEE dataset, achieving the highest recall and F2 scores in the top-N retrieval task. © The Author(s), under exclusive licence to Springer Nature B.V. 2022.
+KW  - Deep neural networks
+KW  - Global attention
+KW  - Hierarchical representation
+KW  - Legal text retrieval
+KW  - Authentication
+KW  - Deep neural networks
+KW  - Information retrieval
+KW  - Natural language processing systems
+KW  - Text processing
+KW  - Document Retrieval
+KW  - Global attention
+KW  - Hierarchical representation
+KW  - Legal documents
+KW  - Legal questions
+KW  - Legal text retrieval
+KW  - Legal texts
+KW  - Question Answering
+KW  - Text retrieval
+KW  - Text-processing
+KW  - Large dataset
+PB  - Springer Nature
+SN  - 09248463 (ISSN)
+LA  - English
+J2  - Artif Intell Law
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 December 2024; Cited By: 4; Correspondence Address: H.-T. Nguyen; School of Information Science, Japan Advanced Institute of Science and Technology, Nomi, Ishikawa, Japan; email: nguyenhathanh@jaist.ac.jp; CODEN: AINLE
+ER  -
+
+TY  - JOUR
+AU  - Muñoz-Soro, J.F.
+AU  - del Hoyo Alonso, R.
+AU  - Montañes, R.
+AU  - Lacueva, F.
+TI  - A neural network to identify requests, decisions, and arguments in court rulings on custody
+PY  - 2024
+T2  - Artificial Intelligence and Law
+DO  - 10.1007/s10506-023-09380-9
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85181925634&doi=10.1007%2fs10506-023-09380-9&partnerID=40&md5=3ce9e52b8c38aecf1f098e0715701065
+AD  - University of Zaragoza, Walqa Technology Park, Huesca, 22197, Spain
+AD  - ITAINNOVA, María de Luna, No 7-8, Zaragoza, 50018, Spain
+AB  - Court rulings are among the most important documents in all legal systems. This article describes a study in which natural language processing is used for the automatic characterization of Spanish judgments that deal with the physical custody (joint or individual) of minors. The model was trained to identify a set of elements: the type of custody requested by the plaintiff, the type of custody decided on by the court, and eight of the most commonly used arguments in this type of judgment. Two jurists independently annotated more than 3000 judgments, which were used to train a model based on transformers. The main difficulties encountered in this task were the complexity of the judicial language and the need to work with appellate court rulings that have a more complicated structure than decisions at first instance. For the complete court rulings, the F1 score of the inter-annotator agreement ranged from 0.60 to 0.86 and the Kappa index from 0.33 to 0.73. The F1 score of the agreement between the model and the annotators ranged from 0.66 to 0.93 and the Kappa index from 0.57 to 0.80. These results in which the model performance exceeds even the inter-annotator agreement show the high ability of transformers to identify abstract entities in legal texts. © 2024, The Author(s).
+KW  - Custody of children
+KW  - Inter-annotator agreement
+KW  - Judicial sentences
+KW  - Natural language processing
+KW  - Neural networks
+KW  - Transformers
+KW  - Laws and legislation
+KW  - Natural language processing systems
+KW  - Neural networks
+KW  - Court rulings
+KW  - Custody of child
+KW  - F1 scores
+KW  - Inter-annotator agreement
+KW  - Judicial sentence
+KW  - Language processing
+KW  - Natural language processing
+KW  - Natural languages
+KW  - Neural-networks
+KW  - Transformer
+KW  - Abstracting
+PB  - Institute for Ionics
+SN  - 09248463 (ISSN)
+LA  - English
+J2  - Artif Intell Law
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 December 2024; Cited By: 1; Correspondence Address: J.F. Muñoz-Soro; University of Zaragoza, Huesca, Walqa Technology Park, 22197, Spain; email: jfm@unizar.es; CODEN: AINLE
+ER  -
+
+TY  - JOUR
+AU  - Medvedeva, M.
+AU  - Wieling, M.
+AU  - Vols, M.
+TI  - Rethinking the field of automatic prediction of court decisions
+PY  - 2023
+T2  - Artificial Intelligence and Law
+VL  - 31
+IS  - 1
+SP  - 195
+EP  - 212
+DO  - 10.1007/s10506-021-09306-3
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85123622461&doi=10.1007%2fs10506-021-09306-3&partnerID=40&md5=5176e34707e3a7ab47e85e504848f4ad
+AD  - Center for Language and Cognition Groningen, University of Groningen, Groningen, Netherlands
+AD  - Department of Legal Methods, University of Groningen, Groningen, Netherlands
+AB  - In this paper, we discuss previous research in automatic prediction of court decisions. We define the difference between outcome identification, outcome-based judgement categorisation and outcome forecasting, and review how various studies fall into these categories. We discuss how important it is to understand the legal data that one works with in order to determine which task can be performed. Finally, we reflect on the needs of the legal discipline regarding the analysis of court judgements. © 2022, The Author(s).
+KW  - Case law
+KW  - Judicial decisions
+KW  - Machine learning
+KW  - Natural language processing
+KW  - Forecasting
+KW  - Learning algorithms
+KW  - Natural language processing systems
+KW  - Automatic prediction
+KW  - Case law
+KW  - Court decisions
+KW  - Court judgement
+KW  - Judicial decision
+KW  - Language processing
+KW  - Machine-learning
+KW  - Natural language processing
+KW  - Natural languages
+KW  - Machine learning
+PB  - Institute for Ionics
+SN  - 09248463 (ISSN)
+LA  - English
+J2  - Artif Intell Law
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 December 2024; Cited By: 41; Correspondence Address: M. Medvedeva; Center for Language and Cognition Groningen, University of Groningen, Groningen, Netherlands; email: m.medvedeva@rug.nl; CODEN: AINLE
+ER  -
+
+TY  - JOUR
+AU  - Bertalan, V.G.F.
+AU  - Ruiz, E.E.S.
+TI  - Using attention methods to predict judicial outcomes
+PY  - 2024
+T2  - Artificial Intelligence and Law
+VL  - 32
+IS  - 1
+SP  - 87
+EP  - 115
+DO  - 10.1007/s10506-022-09342-7
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85144941593&doi=10.1007%2fs10506-022-09342-7&partnerID=40&md5=21bd293b97c865ff2be9031713468e2f
+AD  - Département de Génie Informatique et Génie Logiciel de l’École Polytechnique de Montréal, Université de Montréal, Montréal, Canada
+AD  - Departamento de Computação e Matemática da FFCLRP, Universidade de São Paulo, Ribeirão Preto, Brazil
+AB  - The prediction of legal judgments is one of the most recognized fields in Natural Language Processing, Artificial Intelligence, and Law combined. By legal prediction, we mean intelligent systems capable of predicting specific judicial characteristics such as the judicial outcome, the judicial class, and the prediction of a particular case. In this study, we used an artificial intelligence classifier to predict the decisions of Brazilian courts. To this end, we developed a text crawler to extract data from official Brazilian electronic legal systems, consisting of two datasets of cases of second-degree murder and active corruption. We applied various classifiers, such as Support Vector Machines, Neural Networks, and others, to predict judicial outcomes by analyzing text features from the dataset. Our research demonstrated that Regression Trees, Gated Recurring Units, and Hierarchical Attention Networks tended to have higher metrics across our datasets. As the final goal, we searched the weights of one of the algorithms, Hierarchical Attention Networks, to find samples of the words that might be used to acquit or convict defendants based on their relevance to the algorithm. © The Author(s), under exclusive licence to Springer Nature B.V. 2022.
+KW  - Hierarchical attention networks
+KW  - Legal prediction
+KW  - Machine learning
+KW  - Natural language processing
+KW  - Classification (of information)
+KW  - Crime
+KW  - Intelligent systems
+KW  - Natural language processing systems
+KW  - Support vector machines
+KW  - Artificial intelligence and laws
+KW  - Hierarchical attention network
+KW  - Language processing
+KW  - Legal judgements
+KW  - Legal prediction
+KW  - Legal system
+KW  - Machine-learning
+KW  - Natural language processing
+KW  - Natural languages
+KW  - Support vectors machine
+KW  - Forecasting
+PB  - Springer Nature
+SN  - 09248463 (ISSN)
+LA  - English
+J2  - Artif Intell Law
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 December 2024; Cited By: 1; Correspondence Address: V.G.F. Bertalan; Département de Génie Informatique et Génie Logiciel de l’École Polytechnique de Montréal, Université de Montréal, Montréal, Canada; email: vithor.bertalan@polymtl.ca; CODEN: AINLE
+ER  -
+
+TY  - JOUR
+AU  - Habernal, I.
+AU  - Faber, D.
+AU  - Recchia, N.
+AU  - Bretthauer, S.
+AU  - Gurevych, I.
+AU  - Spiecker genannt Döhmann, I.
+AU  - Burchard, C.
+TI  - Mining legal arguments in court decisions
+PY  - 2024
+T2  - Artificial Intelligence and Law
+VL  - 32
+IS  - 3
+SP  - 1
+EP  - 38
+DO  - 10.1007/s10506-023-09361-y
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85162651026&doi=10.1007%2fs10506-023-09361-y&partnerID=40&md5=ecc9463a87f5520171e9ab1282bc98c0
+AD  - Trustworthy Human Language Technologies, Technical University of Darmstadt, Darmstadt, Germany
+AD  - Faculty of Law, Goethe-Universität Frankfurt am Main, Frankfurt am Main, Germany
+AD  - Ubiquitous Knowledge Processing (UKP) Lab, Technical University of Darmstadt, Darmstadt, Germany
+AD  - Department of Legal, Language, Interpreting and Translation Studies, University of Trieste, Trieste, Italy
+AB  - Identifying, classifying, and analyzing arguments in legal discourse has been a prominent area of research since the inception of the argument mining field. However, there has been a major discrepancy between the way natural language processing (NLP) researchers model and annotate arguments in court decisions and the way legal experts understand and analyze legal argumentation. While computational approaches typically simplify arguments into generic premises and claims, arguments in legal research usually exhibit a rich typology that is important for gaining insights into the particular case and applications of law in general. We address this problem and make several substantial contributions to move the field forward. First, we design a new annotation scheme for legal arguments in proceedings of the European Court of Human Rights (ECHR) that is deeply rooted in the theory and practice of legal argumentation research. Second, we compile and annotate a large corpus of 373 court decisions (2.3M tokens and 15k annotated argument spans). Finally, we train an argument mining model that outperforms state-of-the-art models in the legal NLP domain and provide a thorough expert-based evaluation. All datasets and source codes are available under open lincenses at https://github.com/trusthlt/mining-legal-arguments. © The Author(s) 2023.
+KW  - Argument mining
+KW  - ECHR
+KW  - Legal arguments
+KW  - Tranformers
+KW  - Computation theory
+KW  - Laws and legislation
+KW  - Argument mining
+KW  - Computational approach
+KW  - Court decisions
+KW  - European court of human right
+KW  - Human rights
+KW  - Language processing
+KW  - Legal arguments
+KW  - Legal experts
+KW  - Natural languages
+KW  - Tranformer
+KW  - Natural language processing systems
+PB  - Springer Nature
+SN  - 09248463 (ISSN)
+LA  - English
+J2  - Artif Intell Law
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 December 2024; Cited By: 13; Correspondence Address: I. Habernal; Trustworthy Human Language Technologies, Technical University of Darmstadt, Darmstadt, Germany; email: ivan.habernal@tu-darmstadt.de; CODEN: AINLE
+ER  -
+
+TY  - JOUR
+AU  - Ragazzi, L.
+AU  - Moro, G.
+AU  - Guidi, S.
+AU  - Frisoni, G.
+TI  - LAWSUIT: a LArge expert-Written SUmmarization dataset of ITalian constitutional court verdicts
+PY  - 2024
+T2  - Artificial Intelligence and Law
+DO  - 10.1007/s10506-024-09414-w
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85203380648&doi=10.1007%2fs10506-024-09414-w&partnerID=40&md5=8b03d8f4b5c71487d911e00cec75a851
+AD  - Department of Computer Science and Engineering - DISI, University of Bologna, Via dell’Universitá 50, Cesena, 47522, Italy
+AB  - Large-scale public datasets are vital for driving the progress of abstractive summarization, especially in law, where documents have highly specialized jargon. However, the available resources are English-centered, limiting research advancements in other languages. This paper introduces LAWSUIT, a collection of 14K Italian legal verdicts with expert-authored abstractive maxims drawn from the Constitutional Court of the Italian Republic. LAWSUIT presents an arduous task with lengthy source texts and evenly distributed salient content. We offer extensive experiments with sequence-to-sequence and segmentation-based approaches, revealing that the latter achieve better results in full and few-shot settings. We openly release LAWSUIT to foster the development and automation of real-world legal applications. © The Author(s) 2024.
+KW  - Abstractive summarization
+KW  - Italian legal documents
+KW  - Large-scale dataset
+KW  - Law
+KW  - Natural language processing
+KW  - Large datasets
+KW  - Laws and legislation
+KW  - Natural language processing systems
+KW  - Abstractive summarization
+KW  - Italian legal document
+KW  - Language processing
+KW  - Large-scale datasets
+KW  - Large-scales
+KW  - Law
+KW  - Legal documents
+KW  - Natural language processing
+KW  - Natural languages
+KW  - Public dataset
+PB  - Springer Nature
+SN  - 09248463 (ISSN)
+LA  - English
+J2  - Artif Intell Law
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 December 2024; Cited By: 1; Correspondence Address: L. Ragazzi; Department of Computer Science and Engineering - DISI, University of Bologna, Cesena, Via dell’Universitá 50, 47522, Italy; email: l.ragazzi@unibo.it; G. Moro; Department of Computer Science and Engineering - DISI, University of Bologna, Cesena, Via dell’Universitá 50, 47522, Italy; email: gianluca.moro@unibo.it; CODEN: AINLE
+ER  -
+
+TY  - JOUR
+AU  - Di Porto, F.
+TI  - Algorithmic disclosure rules
+PY  - 2023
+T2  - Artificial Intelligence and Law
+VL  - 31
+IS  - 1
+SP  - 13
+EP  - 51
+DO  - 10.1007/s10506-021-09302-7
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85118673342&doi=10.1007%2fs10506-021-09302-7&partnerID=40&md5=033949916d249e41901d2ba251dda318
+AD  - Department of Economic Sciences, University of Salento, Lecce & Law Faculty, LUISS, Rome, Italy
+AD  - Law Faculty, Hebrew University, Jerusalem, Israel
+AB  - During the past decade, a small but rapidly growing number of Law&Tech scholars have been applying algorithmic methods in their legal research. This Article does it too, for the sake of saving disclosure regulation failure: a normative strategy that has long been considered dead by legal scholars, but conspicuously abused by rule-makers. Existing proposals to revive disclosure duties, however, either focus on the industry policies (e.g. seeking to reduce consumers’ costs of reading) or on rulemaking (e.g. by simplifying linguistic intricacies). But failure may well depend on both. Therefore, this Article develops a `comprehensive approach', suggesting to use computational tools to cope with linguistic and behavioral failures at both the enactment and implementation phases of disclosure duties, thus filling a void in the Law & Tech scholarship. Specifically, it outlines how algorithmic tools can be used in a holistic manner to address the many failures of disclosures from the rulemaking in parliament to consumer screens. It suggests a multi-layered design where lawmakers deploy three tools in order to produce optimal disclosure rules: machine learning, natural language processing, and behavioral experimentation through regulatory sandboxes. To clarify how and why these tasks should be performed, disclosures in the contexts of online contract terms and privacy online are taken as examples. Because algorithmic rulemaking is frequently met with well-justified skepticism, problems of its compatibility with legitimacy, efficacy and proportionality are also discussed. © 2021, The Author(s).
+KW  - Algorithms
+KW  - Consumers
+KW  - Disclosure regulation
+KW  - Due process
+KW  - Failure
+KW  - Information duties
+KW  - Knowledge graph
+KW  - Law and technology
+KW  - Machine learning
+KW  - Natural language processing
+KW  - Regulatory sandboxes
+KW  - Algorithmic languages
+KW  - Knowledge graph
+KW  - Laws and legislation
+KW  - Learning algorithms
+KW  - Linguistics
+KW  - Natural language processing systems
+KW  - Consumer
+KW  - Disclosure regulation
+KW  - Due process
+KW  - Information duty
+KW  - Knowledge graphs
+KW  - Language processing
+KW  - Law and technology
+KW  - Machine-learning
+KW  - Natural language processing
+KW  - Natural languages
+KW  - Regulatory sandbox
+KW  - Machine learning
+PB  - Institute for Ionics
+SN  - 09248463 (ISSN)
+LA  - English
+J2  - Artif Intell Law
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 December 2024; Cited By: 2; Correspondence Address: F. Di Porto; Department of Economic Sciences, University of Salento, Lecce & Law Faculty, LUISS, Rome, Italy; email: fabiana.diporto@unisalento.it; CODEN: AINLE
+ER  -
+
+TY  - JOUR
+AU  - Adler, R.F.
+AU  - Paley, A.
+AU  - Li Zhao, A.L.
+AU  - Pack, H.
+AU  - Servantez, S.
+AU  - Pah, A.R.
+AU  - Hammond, K.
+AU  - Consortium, S.O.
+TI  - A user-centered approach to developing an AI system analyzing U.S. federal court data
+PY  - 2023
+T2  - Artificial Intelligence and Law
+VL  - 31
+IS  - 3
+SP  - 547
+EP  - 570
+DO  - 10.1007/s10506-022-09320-z
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85135263154&doi=10.1007%2fs10506-022-09320-z&partnerID=40&md5=9b481e02a05dcf77278ffd68fa5bc955
+AD  - Northwestern University, Evanston, IL, United States
+AD  - Northeastern Illinois University, Chicago, IL, United States
+AB  - We implemented a user-centered approach to the design of an artificial intelligence (AI) system that provides users with access to information about the workings of the United States federal court system regardless of their technical background. Presently, most of the records associated with the federal judiciary are provided through a federal system that does not support exploration aimed at discovering systematic patterns about court activities. In addition, many users lack the data analytical skills necessary to conduct their own analyses and convert data into information. We conducted interviews, observations, and surveys to uncover the needs of our users and discuss the development of an intuitive platform informed from these needs that makes it possible for legal scholars, lawyers, and journalists to discover answers to more advanced questions about the federal court system. We report on results from usability testing and discuss design implications for AI and law practitioners and researchers. © 2022, The Author(s).
+KW  - Data analytics
+KW  - Natural language processing
+KW  - Notebook interface
+KW  - User-centered design
+KW  - Visualization
+KW  - Data handling
+KW  - Data visualization
+KW  - Laws and legislation
+KW  - Natural language processing systems
+KW  - Surveys
+KW  - User centered design
+KW  - Artificial intelligence systems
+KW  - Data analytics
+KW  - Federal court system
+KW  - Federal courts
+KW  - Language processing
+KW  - Natural language processing
+KW  - Natural languages
+KW  - Notebook interface
+KW  - Technical background
+KW  - User-centered approach
+KW  - Data Analytics
+PB  - Institute for Ionics
+SN  - 09248463 (ISSN)
+LA  - English
+J2  - Artif Intell Law
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 December 2024; Cited By: 1; Correspondence Address: R.F. Adler; Northwestern University, Evanston, United States; email: r-adler@neiu.edu; CODEN: AINLE
+ER  -
+
+TY  - JOUR
+AU  - Coupette, C.
+AU  - Hartung, D.
+AU  - Beckedorf, J.
+AU  - Böther, M.
+AU  - Katz, D.M.
+TI  - Law Smells: Defining and Detecting Problematic Patterns in Legal Drafting
+PY  - 2023
+T2  - Artificial Intelligence and Law
+VL  - 31
+IS  - 2
+SP  - 335
+EP  - 368
+DO  - 10.1007/s10506-022-09315-w
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85131424413&doi=10.1007%2fs10506-022-09315-w&partnerID=40&md5=f7b8734e64b19645d9276e073900c440
+AD  - Max Planck Institute for Informatics, Saarbrücken, Germany
+AD  - Center for Legal Technology and Data Science, Bucerius Law School, Hamburg, Germany
+AD  - CodeX - The Stanford Center for Legal Informatics, Stanford Law School, Stanford, CA, United States
+AD  - Ruprecht-Karls-Universität Heidelberg, Heidelberg, Germany
+AD  - Hasso Plattner Institute, University of Potsdam, Potsdam, Germany
+AD  - Illinois Tech - Chicago Kent College of Law, Chicago, IL, United States
+AB  - Building on the computer science concept of code smells, we initiate the study of law smells, i.e., patterns in legal texts that pose threats to the comprehensibility and maintainability of the law. With five intuitive law smells as running examples—namely, duplicated phrase, long element, large reference tree, ambiguous syntax, and natural language obsession—, we develop a comprehensive law smell taxonomy. This taxonomy classifies law smells by when they can be detected, which aspects of law they relate to, and how they can be discovered. We introduce text-based and graph-based methods to identify instances of law smells, confirming their utility in practice using the United States Code as a test case. Our work demonstrates how ideas from software engineering can be leveraged to assess and improve the quality of legal code, thus drawing attention to an understudied area in the intersection of law and computer science and highlighting the potential of computational legal drafting. © 2022, The Author(s).
+KW  - Law
+KW  - Natural language processing
+KW  - Network analysis
+KW  - Refactoring
+KW  - Software engineering
+KW  - Codes (symbols)
+KW  - Computer software
+KW  - Graphic methods
+KW  - Odors
+KW  - Taxonomies
+KW  - Code smell
+KW  - Graph-based methods
+KW  - Law
+KW  - Legal drafting
+KW  - Legal texts
+KW  - Natural languages
+KW  - Refactorings
+KW  - Test case
+KW  - Natural language processing systems
+PB  - Institute for Ionics
+SN  - 09248463 (ISSN)
+LA  - English
+J2  - Artif Intell Law
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 December 2024; Cited By: 2; Correspondence Address: C. Coupette; Center for Legal Technology and Data Science, Bucerius Law School, Hamburg, Germany; email: coupette@mpi-inf.mpg.de; D. Hartung; CodeX - The Stanford Center for Legal Informatics, Stanford Law School, Stanford, United States; email: dirk.hartung@law-school.de; CODEN: AINLE
+ER  -
+
+TY  - JOUR
+AU  - Boella, G.
+AU  - Di Caro, L.
+AU  - Leone, V.
+TI  - Semi-automatic knowledge population in a legal document management system
+PY  - 2019
+T2  - Artificial Intelligence and Law
+VL  - 27
+IS  - 2
+SP  - 227
+EP  - 251
+DO  - 10.1007/s10506-018-9239-8
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85058469302&doi=10.1007%2fs10506-018-9239-8&partnerID=40&md5=3e6b18e8981c4bcc1d4aa5fcca981509
+AD  - Department of Computer Science, University of Turin, Turin, Italy
+AB  - Every organization has to deal with operational risks, arising from the execution of a company’s primary business functions. In this paper, we describe a legal knowledge management system which helps users understand the meaning of legislative text and the relationship between norms. While much of the knowledge requires the input of legal experts, we focus in this article on NLP applications that semi-automate essential time-consuming and lower-skill tasks—classifying legal documents, identifying cross-references and legislative amendments, linking legal terms to the most relevant definitions, and extracting key elements of legal provisions to facilitate clarity and advanced search options. The use of Natural Language Processing tools to semi-automate such tasks makes the proposal a realistic commercial prospect as it helps keep costs down while allowing greater coverage. © 2018, Springer Nature B.V.
+KW  - Authentication
+KW  - Information services
+KW  - Knowledge based systems
+KW  - Knowledge management
+KW  - Laws and legislation
+KW  - Business functions
+KW  - Commercial prospect
+KW  - Legal documents
+KW  - Legal knowledge
+KW  - Legal provisions
+KW  - Legislative amendments
+KW  - Operational risks
+KW  - Semi-automatics
+KW  - Natural language processing systems
+PB  - Springer Netherlands
+SN  - 09248463 (ISSN)
+LA  - English
+J2  - Artif Intell Law
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 December 2024; Cited By: 21; Correspondence Address: L. Di Caro; Department of Computer Science, University of Turin, Turin, Italy; email: dicaro@di.unito.it; CODEN: AINLE
+ER  -
+
+TY  - JOUR
+AU  - Benedetto, I.
+AU  - Koudounas, A.
+AU  - Vaiani, L.
+AU  - Pastor, E.
+AU  - Cagliero, L.
+AU  - Tarasconi, F.
+AU  - Baralis, E.
+TI  - Boosting court judgment prediction and explanation using legal entities
+PY  - 2024
+T2  - Artificial Intelligence and Law
+DO  - 10.1007/s10506-024-09397-8
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85188087504&doi=10.1007%2fs10506-024-09397-8&partnerID=40&md5=b4d70d4f31a14513489cb92bc0b4bdde
+AD  - Department of Computer and Control Engineering, Politecnico di Torino, Corso Castelfidardo, 39, Turin, 10129, Italy
+AD  - MAIZE SRL, Via San Quintino, 31, Turin, 10121, Italy
+AB  - The automatic prediction of court case judgments using Deep Learning and Natural Language Processing is challenged by the variety of norms and regulations, the inherent complexity of the forensic language, and the length of legal judgments. Although state-of-the-art transformer-based architectures and Large Language Models (LLMs) are pre-trained on large-scale datasets, the underlying model reasoning is not transparent to the legal expert. This paper jointly addresses court judgment prediction and explanation by not only predicting the judgment but also providing legal experts with sentence-based explanations. To boost the performance of both tasks we leverage a legal named entity recognition step, which automatically annotates documents with meaningful domain-specific entity tags and masks the corresponding fine-grained descriptions. In such a way, transformer-based architectures and Large Language Models can attend to in-domain entity-related information in the inference process while neglecting irrelevant details. Furthermore, the explainer can boost the relevance of entity-enriched sentences while limiting the diffusion of potentially sensitive information. We also explore the use of in-context learning and lightweight fine-tuning to tailor LLMs to the legal language style and the downstream prediction and explanation tasks. The results obtained on a benchmark dataset from the Indian judicial system show the superior performance of entity-aware approaches to both judgment prediction and explanation. © The Author(s), under exclusive licence to Springer Nature B.V. 2024.
+KW  - Court judgment prediction
+KW  - eXplainable AI
+KW  - Legal AI
+KW  - Legal named entity recognition
+KW  - Benchmarking
+KW  - Case based reasoning
+KW  - Computational linguistics
+KW  - Deep learning
+KW  - Large datasets
+KW  - Laws and legislation
+KW  - Natural language processing systems
+KW  - Court judgement
+KW  - Court judgment prediction
+KW  - Explainable AI
+KW  - Language model
+KW  - Legal AI
+KW  - Legal entities
+KW  - Legal experts
+KW  - Legal named entity recognition
+KW  - Named entity recognition
+KW  - Performance
+KW  - Forecasting
+PB  - Springer Nature
+SN  - 09248463 (ISSN)
+LA  - English
+J2  - Artif Intell Law
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 December 2024; Cited By: 0; Correspondence Address: I. Benedetto; Department of Computer and Control Engineering, Politecnico di Torino, Turin, Corso Castelfidardo, 39, 10129, Italy; email: irene.benedetto@maize.io; CODEN: AINLE
+ER  -
+
+TY  - JOUR
+AU  - Graham, S.G.
+AU  - Soltani, H.
+AU  - Isiaq, O.
+TI  - Natural language processing for legal document review: categorising deontic modalities in contracts
+PY  - 2023
+T2  - Artificial Intelligence and Law
+DO  - 10.1007/s10506-023-09379-2
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85176581199&doi=10.1007%2fs10506-023-09379-2&partnerID=40&md5=c1465427de02256b786f52d99885b8bc
+AD  - Faculty of Business, Law and Digital Technologies, Solent University, Southampton, United Kingdom
+AD  - Programme Director, Computer & Data Science & AI, University of the Arts London, London, United Kingdom
+AB  - The contract review process can be a costly and time-consuming task for lawyers and clients alike, requiring significant effort to identify and evaluate the legal implications of individual clauses. To address this challenge, we propose the use of natural language processing techniques, specifically text classification based on deontic tags, to streamline the process. Our research question is whether natural language processing techniques, specifically dense vector embeddings, can help semi-automate the contract review process and reduce time and costs for legal professionals reviewing deontic modalities in contracts. In this study, we create a domain-specific dataset and train both baseline and neural network models for contract sentence classification. This approach offers a more efficient and cost-effective solution for contract review, mimicking the work of a lawyer. Our approach achieves an accuracy of 0.90, showcasing its effectiveness in identifying and evaluating individual contract sentences. © 2023, The Author(s), under exclusive licence to Springer Nature B.V.
+KW  - Annotation
+KW  - Deep learning
+KW  - Deontic reasoning
+KW  - Legal text classification
+KW  - Natural language processing
+KW  - Classification (of information)
+KW  - Contracts
+KW  - Deep learning
+KW  - Information retrieval systems
+KW  - Laws and legislation
+KW  - Natural language processing systems
+KW  - Text processing
+KW  - Annotation
+KW  - Deep learning
+KW  - Deontic
+KW  - Deontic reasoning
+KW  - Language processing
+KW  - Legal text classification
+KW  - Legal texts
+KW  - Natural language processing
+KW  - Natural languages
+KW  - Text classification
+KW  - Cost effectiveness
+PB  - Institute for Ionics
+SN  - 09248463 (ISSN)
+LA  - English
+J2  - Artif Intell Law
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 December 2024; Cited By: 1; Correspondence Address: S.G. Graham; Faculty of Business, Law and Digital Technologies, Solent University, Southampton, United Kingdom; email: igeorgette@hotmail.ca; CODEN: AINLE
+ER  -
+
+TY  - JOUR
+AU  - Watson, J.
+AU  - Aglionby, G.
+AU  - March, S.
+TI  - Using machine learning to create a repository of judgments concerning a new practice area: a case study in animal protection law
+PY  - 2023
+T2  - Artificial Intelligence and Law
+VL  - 31
+IS  - 2
+SP  - 293
+EP  - 324
+DO  - 10.1007/s10506-022-09313-y
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85129609144&doi=10.1007%2fs10506-022-09313-y&partnerID=40&md5=807db82bad6237bc6783789323389d53
+AD  - The Psychometrics Centre, Judge Business School, University of Cambridge, Cambridge, United Kingdom
+AD  - Department of Computer Science and Technology, University of Cambridge, Cambridge, United Kingdom
+AD  - Advocates for Animals, London, United Kingdom
+AB  - Judgments concerning animals have arisen across a variety of established practice areas. There is, however, no publicly available repository of judgments concerning the emerging practice area of animal protection law. This has hindered the identification of individual animal protection law judgments and comprehension of the scale of animal protection law made by courts. Thus, we detail the creation of an initial animal protection law repository using natural language processing and machine learning techniques. This involved domain expert classification of 500 judgments according to whether or not they were concerned with animal protection law. 400 of these judgments were used to train various models, each of which was used to predict the classification of the remaining 100 judgments. The predictions of each model were superior to a baseline measure intended to mimic current searching practice, with the best performing model being a support vector machine (SVM) approach that classified judgments according to term frequency—inverse document frequency (TF-IDF) values. Investigation of this model consisted of considering its most influential features and conducting an error analysis of all incorrectly predicted judgments. This showed the features indicative of animal protection law judgments to include terms such as ‘welfare’, ‘hunt’ and ‘cull’, and that incorrectly predicted judgments were often deemed marginal decisions by the domain expert. The TF-IDF SVM was then used to classify non-labelled judgments, resulting in an initial animal protection law repository. Inspection of this repository suggested that there were 175 animal protection judgments between January 2000 and December 2020 from the Privy Council, House of Lords, Supreme Court and upper England and Wales courts. © 2022, The Author(s).
+KW  - Court judgments
+KW  - Document classification
+KW  - Machine learning
+KW  - Support vector machine
+KW  - TF-IDF
+KW  - Animals
+KW  - Information retrieval systems
+KW  - Learning algorithms
+KW  - Natural language processing systems
+KW  - Text processing
+KW  - Case-studies
+KW  - Court judgement
+KW  - Document Classification
+KW  - Domain experts
+KW  - Identification of individuals
+KW  - Language processing
+KW  - Machine-learning
+KW  - Natural languages
+KW  - Support vectors machine
+KW  - Term frequencyinverse document frequency (TF-IDF)
+KW  - Support vector machines
+PB  - Institute for Ionics
+SN  - 09248463 (ISSN)
+LA  - English
+J2  - Artif Intell Law
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 December 2024; Cited By: 6; Correspondence Address: J. Watson; The Psychometrics Centre, Judge Business School, University of Cambridge, Cambridge, United Kingdom; email: j.watson@jbs.cam.ac.uk; CODEN: AINLE
+ER  -
+
+TY  - JOUR
+AU  - Lee, J.-S.
+TI  - InstructPatentGPT: training patent language models to follow instructions with human feedback
+PY  - 2024
+T2  - Artificial Intelligence and Law
+DO  - 10.1007/s10506-024-09401-1
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85192767235&doi=10.1007%2fs10506-024-09401-1&partnerID=40&md5=ecfec2b8dced3d95be24a3a6795ad7a3
+AD  - School of Law, National Yang Ming Chiao Tung University (NYCU), No. 1001, Daxue Rd., East District, Hsinchu, 300093, Taiwan
+AB  - In this research, patent prosecution is conceptualized as a system of reinforcement learning from human feedback. The objective of the system is to increase the likelihood for a language model to generate patent claims that have a higher chance of being granted. To showcase the controllability of the language model, the system learns from granted patents and pre-grant applications with different rewards. The status of “granted” and “pre-grant” are perceived as labeled human feedback implicitly. In addition, specific to patent drafting, the experiments in this research demonstrate the model’s capability to learn from adjusting claim length and inclusion of limiting terms for narrowing claim scope. As proof of concept, the experiments focus on claim ones only and the training data originates from a patent dataset tailored specifically for artificial intelligence. Although the available human feedback in patent prosecution are limited and the quality of generated patent text requires improvement, the experiments following the 3-stage reinforcement learning from human feedback have demonstrated that generative language models are capable of reflecting the human feedback or intent in patent prosecution. To enhance the usability of language models, the implementation in this research utilizes modern techniques that enable execution on a single consumer-grade GPU. The demonstrated proof of concept, which reduces hardware requirements, will prove valuable in the future as more human feedback in patent prosecution become available for broader use, either within patent offices or in the public domain. © The Author(s) 2024.
+KW  - Natural language generation
+KW  - Natural language processing
+KW  - Patent
+KW  - Reinforcement learning from human feedback
+KW  - Computational linguistics
+KW  - Law enforcement
+KW  - Learning algorithms
+KW  - Learning systems
+KW  - Natural language processing systems
+KW  - Patents and inventions
+KW  - Language model
+KW  - Language processing
+KW  - Learn+
+KW  - Natural language generation
+KW  - Natural language processing
+KW  - Natural languages
+KW  - Patent
+KW  - Proof of concept
+KW  - Reinforcement learning from human feedback
+KW  - Reinforcement learnings
+KW  - Reinforcement learning
+PB  - Springer Nature
+SN  - 09248463 (ISSN)
+LA  - English
+J2  - Artif Intell Law
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 December 2024; Cited By: 0; Correspondence Address: J.-S. Lee; School of Law, National Yang Ming Chiao Tung University (NYCU), Hsinchu, No. 1001, Daxue Rd., East District, 300093, Taiwan; email: jasonlee@nycu.edu.tw; CODEN: AINLE
+ER  -
+
+TY  - JOUR
+AU  - Martínez, E.
+TI  - Re-evaluating GPT-4’s bar exam performance
+PY  - 2024
+T2  - Artificial Intelligence and Law
+DO  - 10.1007/s10506-024-09396-9
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85188989228&doi=10.1007%2fs10506-024-09396-9&partnerID=40&md5=3fbd42ec1200ce6e250e24ee43fff5af
+AD  - Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology (MIT), Cambridge, 02138, MA, United States
+AB  - Perhaps the most widely touted of GPT-4’s at-launch, zero-shot capabilities has been its reported 90th-percentile performance on the Uniform Bar Exam. This paper begins by investigating the methodological challenges in documenting and verifying the 90th-percentile claim, presenting four sets of findings that indicate that OpenAI’s estimates of GPT-4’s UBE percentile are overinflated. First, although GPT-4’s UBE score nears the 90th percentile when examining approximate conversions from February administrations of the Illinois Bar Exam, these estimates are heavily skewed towards repeat test-takers who failed the July administration and score significantly lower than the general test-taking population. Second, data from a recent July administration of the same exam suggests GPT-4’s overall UBE percentile was below the 69th percentile, and ∼48th percentile on essays. Third, examining official NCBE data and using several conservative statistical assumptions, GPT-4’s performance against first-time test takers is estimated to be ∼62nd percentile, including ∼42nd percentile on essays. Fourth, when examining only those who passed the exam (i.e. licensed or license-pending attorneys), GPT-4’s performance is estimated to drop to ∼48th percentile overall, and ∼15th percentile on essays. In addition to investigating the validity of the percentile claim, the paper also investigates the validity of GPT-4’s reported scaled UBE score of 298. The paper successfully replicates the MBE score, but highlights several methodological issues in the grading of the MPT + MEE components of the exam, which call into question the validity of the reported essay score. Finally, the paper investigates the effect of different hyperparameter combinations on GPT-4’s MBE performance, finding no significant effect of adjusting temperature settings, and a significant effect of few-shot chain-of-thought prompting over basic zero-shot prompting. Taken together, these findings carry timely insights for the desirability and feasibility of outsourcing legally relevant tasks to AI models, as well as for the importance for AI developers to implement rigorous and transparent capabilities evaluations to help secure safe and trustworthy AI. © The Author(s) 2024.
+KW  - Artificial intelligence
+KW  - Artificial intelligence and law
+KW  - Law and technology
+KW  - Legal analytics
+KW  - Legal NLP
+KW  - Legal profession
+KW  - Machine learning
+KW  - Natural language processing
+KW  - NLP
+KW  - Grading
+KW  - Learning algorithms
+KW  - Machine learning
+KW  - Artificial intelligence and laws
+KW  - Language processing
+KW  - Law and technology
+KW  - Legal analytic
+KW  - Legal NLP
+KW  - Legal profession
+KW  - Machine-learning
+KW  - Natural language processing
+KW  - Natural languages
+KW  - Performance
+KW  - Natural language processing systems
+PB  - Springer Nature
+SN  - 09248463 (ISSN)
+LA  - English
+J2  - Artif Intell Law
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 December 2024; Cited By: 3; Correspondence Address: E. Martínez; Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology (MIT), Cambridge, 02138, United States; email: ericmart@mit.edu; CODEN: AINLE
+ER  -
+
+TY  - JOUR
+AU  - Moro, G.
+AU  - Piscaglia, N.
+AU  - Ragazzi, L.
+AU  - Italiani, P.
+TI  - Multi-language transfer learning for low-resource legal case summarization
+PY  - 2024
+T2  - Artificial Intelligence and Law
+VL  - 32
+IS  - 4
+SP  - 1111
+EP  - 1139
+DO  - 10.1007/s10506-023-09373-8
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85162173474&doi=10.1007%2fs10506-023-09373-8&partnerID=40&md5=7f3399caced0f6004851a730c9235903
+AD  - Department of Computer Science and Engineering - DISI, University of Bologna, Cesena Campus, Via dell’Università 50, Cesena, 47522, Italy
+AD  - Bologna Business School, University of Bologna, Via degli Scalini, 18, Bologna, 40136, Italy
+AB  - Analyzing and evaluating legal case reports are labor-intensive tasks for judges and lawyers, who usually base their decisions on report abstracts, legal principles, and commonsense reasoning. Thus, summarizing legal documents is time-consuming and requires excellent human expertise. Moreover, public legal corpora of specific languages are almost unavailable. This paper proposes a transfer learning approach with extractive and abstractive techniques to cope with the lack of labeled legal summarization datasets, namely a low-resource scenario. In particular, we conducted extensive multi- and cross-language experiments. The proposed work outperforms the state-of-the-art results of extractive summarization on the Australian Legal Case Reports dataset and sets a new baseline for abstractive summarization. Finally, syntactic and semantic metrics assessments have been carried out to evaluate the accuracy and the factual consistency of the machine-generated legal summaries. © The Author(s) 2023.
+KW  - Abstractive summarization
+KW  - Extractive summarization
+KW  - Legal case reports
+KW  - Multi-language
+KW  - NLP
+KW  - Transfer learning
+KW  - Authentication
+KW  - Laws and legislation
+KW  - Abstractive summarization
+KW  - Case reports
+KW  - Commonsense reasoning
+KW  - Extractive summarizations
+KW  - Labour-intensive
+KW  - Legal case
+KW  - Legal case report
+KW  - Legal principles
+KW  - Multi languages
+KW  - Transfer learning
+KW  - Semantics
+PB  - Springer Nature
+SN  - 09248463 (ISSN)
+LA  - English
+J2  - Artif Intell Law
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 December 2024; Cited By: 4; Correspondence Address: G. Moro; Department of Computer Science and Engineering - DISI, University of Bologna, Cesena Campus, Cesena, Via dell’Università 50, 47522, Italy; email: gianluca.moro@unibo.it; L. Ragazzi; Department of Computer Science and Engineering - DISI, University of Bologna, Cesena Campus, Cesena, Via dell’Università 50, 47522, Italy; email: l.ragazzi@unibo.it; CODEN: AINLE
+ER  -
+
+TY  - JOUR
+AU  - Schepers, I.
+AU  - Medvedeva, M.
+AU  - Bruijn, M.
+AU  - Wieling, M.
+AU  - Vols, M.
+TI  - Predicting citations in Dutch case law with natural language processing
+PY  - 2024
+T2  - Artificial Intelligence and Law
+VL  - 32
+IS  - 3
+SP  - 807
+EP  - 837
+DO  - 10.1007/s10506-023-09368-5
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85163620693&doi=10.1007%2fs10506-023-09368-5&partnerID=40&md5=be387beac3985c323ae3e9042fbc2d4a
+AD  - Department of Legal Methods, Faculty of Law, University of Groningen, Groningen, Netherlands
+AD  - Center for Language and Cognition Groningen, Faculty of Arts, University of Groningen, Groningen, Netherlands
+AD  - Center for Law and Digital Technologies, Faculty of Law, University of Leiden, Leiden, Netherlands
+AB  - With the ever-growing accessibility of case law online, it has become challenging to manually identify case law relevant to one’s legal issue. In the Netherlands, the planned increase in the online publication of case law is expected to exacerbate this challenge. In this paper, we tried to predict whether court decisions are cited by other courts or not after being published, thus in a way distinguishing between more and less authoritative cases. This type of system may be used to process the large amounts of available data by filtering out large quantities of non-authoritative decisions, thus helping legal practitioners and scholars to find relevant decisions more easily, and drastically reducing the time spent on preparation and analysis. For the Dutch Supreme Court, the match between our prediction and the actual data was relatively strong (with a Matthews Correlation Coefficient of 0.60). Our results were less successful for the Council of State and the district courts (MCC scores of 0.26 and 0.17, relatively). We also attempted to identify the most informative characteristics of a decision. We found that a completely explainable model, consisting only of handcrafted metadata features, performs almost as well as a less well-explainable system based on all text of the decision. © The Author(s) 2023.
+KW  - Case law
+KW  - Citation analysis
+KW  - Judicial decisions
+KW  - Machine learning
+KW  - Natural language processing
+KW  - Forecasting
+KW  - Learning algorithms
+KW  - Natural language processing systems
+KW  - Case law
+KW  - Citation analysis
+KW  - Judicial decision
+KW  - Language processing
+KW  - Legal issues
+KW  - Machine-learning
+KW  - Natural language processing
+KW  - Natural languages
+KW  - Netherlands
+KW  - Online publications
+KW  - Machine learning
+PB  - Springer Nature
+SN  - 09248463 (ISSN)
+LA  - English
+J2  - Artif Intell Law
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 December 2024; Cited By: 0; Correspondence Address: I. Schepers; Department of Legal Methods, Faculty of Law, University of Groningen, Groningen, Netherlands; email: i.schepers@rug.nl; CODEN: AINLE
+ER  -
+
+TY  - JOUR
+AU  - Fernandes, W.P.D.
+AU  - Silva, L.J.S.
+AU  - Frajhof, I.Z.
+AU  - de Almeida, G.F.C.F.
+AU  - Konder, C.N.
+AU  - Nasser, R.B.
+AU  - de Carvalho, G.R.
+AU  - Barbosa, S.D.J.
+AU  - Lopes, H.C.V.
+TI  - Appellate Court Modifications Extraction for Portuguese
+PY  - 2020
+T2  - Artificial Intelligence and Law
+VL  - 28
+IS  - 3
+SP  - 327
+EP  - 360
+DO  - 10.1007/s10506-019-09256-x
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85068924728&doi=10.1007%2fs10506-019-09256-x&partnerID=40&md5=9dc415baa6308db9c5fe55bdfa437882
+AD  - Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio), Rua Marquês de São Vicente, 225 - Gávea, Rio de Janeiro, 22451-045, RJ, Brazil
+AB  - Appellate Court Modifications Extraction consists of, given an Appellate Court decision, identifying the proposed modifications by the upper Court of the lower Court judge’s decision. In this work, we propose a system to extract Appellate Court Modifications for Portuguese. Information extraction for legal texts has been previously addressed using different techniques and for several languages. Our proposal differs from previous work in two ways: (1) our corpus is composed of Brazilian Appellate Court decisions, in which we look for a set of modifications provided by the Court; and (2) to automatically extract the modifications, we use a traditional Machine Learning approach and a Deep Learning approach, both as alternative solutions and as a combined solution. We tackle the Appellate Court Modifications Extraction task, experimenting with a wide variety of methods. In order to train and evaluate the system, we have built the KauaneJunior corpus, using public data disclosed by the Appellate State Court of Rio de Janeiro jurisprudence database. Our best method, which is a Bidirectional Long Short-Term Memory network combined with Conditional Random Fields, obtained an Fβ=1 score of 94.79%. © 2019, Springer Nature B.V.
+KW  - Conditional Random Fields
+KW  - Deep Learning
+KW  - Gated Recurrent Units
+KW  - Information extraction
+KW  - Law
+KW  - Long Short-Term Memory
+KW  - Machine Learning
+KW  - Modificatory provisions
+KW  - Natural language processing
+KW  - Recurrent Neural Networks
+KW  - Brain
+KW  - Deep learning
+KW  - Deep neural networks
+KW  - Information retrieval
+KW  - Learning algorithms
+KW  - Learning systems
+KW  - Linguistics
+KW  - Long short-term memory
+KW  - Machine learning
+KW  - Random processes
+KW  - Recurrent neural networks
+KW  - Alternative solutions
+KW  - Conditional random field
+KW  - Gated Recurrent Units
+KW  - Learning approach
+KW  - Machine learning approaches
+KW  - Modificatory provisions
+KW  - NAtural language processing
+KW  - Short term memory
+KW  - Natural language processing systems
+PB  - Springer
+SN  - 09248463 (ISSN)
+LA  - English
+J2  - Artif Intell Law
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 December 2024; Cited By: 10; Correspondence Address: W.P.D. Fernandes; Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio), Rio de Janeiro, Rua Marquês de São Vicente, 225 - Gávea, 22451-045, Brazil; email: wfernandes@inf.puc-rio.br; CODEN: AINLE
+ER  -
+
+TY  - JOUR
+AU  - Verheij, B.
+TI  - Artificial intelligence as law: Presidential address to the seventeenth international conference on artificial intelligence and law
+PY  - 2020
+T2  - Artificial Intelligence and Law
+VL  - 28
+IS  - 2
+SP  - 181
+EP  - 206
+DO  - 10.1007/s10506-020-09266-0
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85085014424&doi=10.1007%2fs10506-020-09266-0&partnerID=40&md5=1f6b2e27e2260ed9ba490c8ee29b5c7e
+AD  - Department of Artificial Intelligence, Bernoulli Institute of Mathematics, Computer Science and Artificial Intelligence, University of Groningen, Groningen, Netherlands
+AB  - Information technology is so ubiquitous and AI’s progress so inspiring that also legal professionals experience its benefits and have high expectations. At the same time, the powers of AI have been rising so strongly that it is no longer obvious that AI applications (whether in the law or elsewhere) help promoting a good society; in fact they are sometimes harmful. Hence many argue that safeguards are needed for AI to be trustworthy, social, responsible, humane, ethical. In short: AI should be good for us. But how to establish proper safeguards for AI? One strong answer readily available is: consider the problems and solutions studied in AI & Law. AI & Law has worked on the design of social, explainable, responsible AI aligned with human values for decades already, AI & Law addresses the hardest problems across the breadth of AI (in reasoning, knowledge, learning and language), and AI & Law inspires new solutions (argumentation, schemes and norms, rules and cases, interpretation). It is argued that the study of AI as Law supports the development of an AI that is good for us, making AI & Law more relevant than ever. © 2020, The Author(s).
+KW  - Argumentation
+KW  - Artificial intelligence
+KW  - Knowledge representation and reasoning
+KW  - Law
+KW  - Machine learning
+KW  - Natural language processing
+KW  - Management
+KW  - AI applications
+KW  - Artificial intelligence and laws
+KW  - Human values
+KW  - New solutions
+KW  - Presidential address
+KW  - Problems and Solutions
+KW  - Artificial intelligence
+PB  - Springer
+SN  - 09248463 (ISSN)
+LA  - English
+J2  - Artif Intell Law
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 01 December 2024; Cited By: 40; Correspondence Address: B. Verheij; Department of Artificial Intelligence, Bernoulli Institute of Mathematics, Computer Science and Artificial Intelligence, University of Groningen, Groningen, Netherlands; email: bart.verheij@rug.nl; CODEN: AINLE
+ER  -
+
+TY  - JOUR
+AU  - Shackell, C.
+AU  - De Vine, L.
+TI  - Quantifying the genericness of trademarks using natural language processing: an introduction with suggested metrics
+PY  - 2022
+T2  - Artificial Intelligence and Law
+VL  - 30
+IS  - 2
+SP  - 199
+EP  - 220
+DO  - 10.1007/s10506-021-09291-7
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85107415091&doi=10.1007%2fs10506-021-09291-7&partnerID=40&md5=b0a46f91a4d71b1d87c8e450ffaea564
+AD  - Queensland University of Technology, 2 George St, Brisbane, Australia
+AB  - If a trademark (“mark”) becomes a generic term, it may be cancelled under trademark law, a process known as genericide. Typically, in genericide cases, consumer surveys are brought into evidence to establish a mark’s semantic status as generic or distinctive. Some drawbacks of surveys are cost, delay, small sample size, lack of reproducibility, and observer bias. Today, however, much discourse involving marks is online. As a potential complement to consumer surveys, therefore, we explore an artificial intelligence approach based chiefly on word embeddings: mathematical models of meaning based on distributional semantics that can be trained on texts selected for jurisdictional and temporal relevance. After identifying two main factors in mark genericness, we first offer a simple screening metric based on the ngram frequency of uncapitalized variants of a mark. We then add two word embedding metrics: one addressing contextual similarity of uncapitalized variants, and one comparing the neighborhood density of marks and known generic terms in a category. For clarity and validation, we illustrate our metrics with examples of genericized, somewhat generic, and distinctive marks such as, respectively, DUMPSTER, DOBRO, and ROLEX. © 2021, The Author(s), under exclusive licence to Springer Nature B.V.
+KW  - Generic trademark
+KW  - Genericide
+KW  - Genericness metric
+KW  - Orthographic variation
+KW  - Semantic neighborhood density
+KW  - Word embeddings
+KW  - Artificial intelligence
+KW  - Commerce
+KW  - Embeddings
+KW  - Semantics
+KW  - Surveys
+KW  - Trademarks
+KW  - Consumer survey
+KW  - Distributional semantics
+KW  - Generic term
+KW  - Genericness
+KW  - NAtural language processing
+KW  - Reproducibilities
+KW  - Small Sample Size
+KW  - Temporal relevance
+KW  - Natural language processing systems
+PB  - Springer Science and Business Media B.V.
+SN  - 09248463 (ISSN)
+LA  - English
+J2  - Artif Intell Law
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 December 2024; Cited By: 1; Correspondence Address: C. Shackell; Queensland University of Technology, Brisbane, 2 George St, Australia; email: c.shackell@connect.qut.edu.au; CODEN: AINLE
+ER  -
+
+TY  - JOUR
+AU  - Chalkidis, I.
+AU  - Kampas, D.
+TI  - Deep learning in law: early adaptation and legal word embeddings trained on large corpora
+PY  - 2019
+T2  - Artificial Intelligence and Law
+VL  - 27
+IS  - 2
+SP  - 171
+EP  - 198
+DO  - 10.1007/s10506-018-9238-9
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85058167692&doi=10.1007%2fs10506-018-9238-9&partnerID=40&md5=8e1f9ce05a13f38a96c2ac057d0703ee
+AD  - Department of Informatics, Athens University of Economics and Business, Athens, Greece
+AD  - IT for Innovation Services, Luxembourg Institute of Science and Technology, Esch-sur-Alzette, Luxembourg
+AB  - Deep Learning has been widely used for tackling challenging natural language processing tasks over the recent years. Similarly, the application of Deep Neural Networks in legal analytics has increased significantly. In this survey, we study the early adaptation of Deep Learning in legal analytics focusing on three main fields; text classification, information extraction, and information retrieval. We focus on the semantic feature representations, a key instrument for the successful application of deep learning in natural language processing. Additionally, we share pre-trained legal word embeddings using the word2vec model over large corpora, comprised legislations from UK, EU, Canada, Australia, USA, and Japan among others. © 2018, Springer Nature B.V.
+KW  - Deep learning
+KW  - Legal word vectors
+KW  - Natural language processing
+KW  - Binary alloys
+KW  - Classification (of information)
+KW  - Deep learning
+KW  - Deep neural networks
+KW  - Information retrieval
+KW  - Potassium alloys
+KW  - Semantics
+KW  - Text processing
+KW  - Uranium alloys
+KW  - Australia
+KW  - Embeddings
+KW  - Large corpora
+KW  - Semantic features
+KW  - Text classification
+KW  - Word vectors
+KW  - Natural language processing systems
+PB  - Springer Netherlands
+SN  - 09248463 (ISSN)
+LA  - English
+J2  - Artif Intell Law
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 December 2024; Cited By: 125; Correspondence Address: I. Chalkidis; Department of Informatics, Athens University of Economics and Business, Athens, Greece; email: ihalk@aueb.gr; CODEN: AINLE
+ER  -
+
+TY  - JOUR
+AU  - Waltl, B.
+AU  - Bonczek, G.
+AU  - Scepankova, E.
+AU  - Matthes, F.
+TI  - Semantic types of legal norms in German laws: classification and analysis using local linear explanations
+PY  - 2019
+T2  - Artificial Intelligence and Law
+VL  - 27
+IS  - 1
+SP  - 43
+EP  - 71
+DO  - 10.1007/s10506-018-9228-y
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85050286668&doi=10.1007%2fs10506-018-9228-y&partnerID=40&md5=7f3d1575d2c0156a492ed76dcd7d195f
+AD  - Software Engineering for Business Information Systems, Department of Informatics, Technical University of Munich, Boltzmannstraße 3, Garching bei München, 85748, Germany
+AB  -                              This paper describes the automated classification of legal norms in German statutes with regard to their semantic type. We propose a semantic type taxonomy for norms in the German civil law domain consisting of nine different types focusing on functional aspects, such as Duties, Prohibitions, Permissions, etc. We performed four iterations in classifying legal norms with a rule-based approach using a manually labeled dataset, i.e., tenancy law, of the German Civil Code (n = 601). During this experiment the F                             1                              score continuously improved from 0.52 to 0.78. In contrast, a machine learning based approach for the classification was implemented. A performance of F                             1                             = 0.83 was reached. Traditionally, machine learning classifiers lack of transparency with regard to their decisions. We extended our approach using so-called local linear approximations, which is a novel technique to analyze and inspect a trained classifier’s behavior. We can show that there are significant similarities of manually crafted knowledge, i.e., rules and pattern definitions, and the trained decision structures of machine learning approaches.                          © 2018, Springer Nature B.V.
+KW  - Classifying legal norms
+KW  - Explainable machine learning
+KW  - Local interpretable models
+KW  - Natural language processing
+KW  - Rule-based information extraction
+KW  - Supervised machine learning
+KW  - Artificial intelligence
+KW  - Learning algorithms
+KW  - Natural language processing systems
+KW  - Semantics
+KW  - Supervised learning
+KW  - Automated classification
+KW  - Legal norms
+KW  - Local linear approximation
+KW  - Machine learning approaches
+KW  - Pattern definition
+KW  - Rule based
+KW  - Rule-based approach
+KW  - Supervised machine learning
+KW  - Classification (of information)
+PB  - Springer Netherlands
+SN  - 09248463 (ISSN)
+LA  - English
+J2  - Artif Intell Law
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 December 2024; Cited By: 28; Correspondence Address: B. Waltl; Software Engineering for Business Information Systems, Department of Informatics, Technical University of Munich, Garching bei München, Boltzmannstraße 3, 85748, Germany; email: b.waltl@tum.de; CODEN: AINLE
+ER  -
+

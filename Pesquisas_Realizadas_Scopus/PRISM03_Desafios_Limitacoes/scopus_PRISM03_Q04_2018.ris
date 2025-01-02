@@ -1,0 +1,535 @@
+﻿TY  - JOUR
+AU  - Cath, C.
+TI  - Governing artificial intelligence: Ethical, legal and technical opportunities and challenges
+PY  - 2018
+T2  - Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences
+VL  - 376
+IS  - 2133
+C7  - 0080
+DO  - 10.1098/rsta.2018.0080
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85055079335&doi=10.1098%2frsta.2018.0080&partnerID=40&md5=68363eb30afbc3b77fce2c6dfecb854c
+AD  - Oxford Internet Institute, University of Oxford, 1 St Giles, Oxford, OX1 3JS, United Kingdom
+AD  - Alan Turing Institute, 96 Euston Road, London, NW1 2DB, United Kingdom
+AB  - This paper is the introduction to the special issue entitled: 'Governing artificial intelligence: ethical, legal and technical opportunities and challenges. Artificial intelligence (AI) increasingly permeates every aspect of our society, from the critical, like urban infrastructure, law enforcement, banking, healthcare and humanitarian aid, to the mundane like dating. AI, including embodied AI in robotics and techniques like machine learning, can improve economic, social welfare and the exercise of human rights. Owing to the proliferation of AI in high-risk areas, the pressure is mounting to design and govern AI to be accountable, fair and transparent. How can this be achieved and through which frameworks? This is one of the central questions addressed in this special issue, in which eight authors present in-depth analyses of the ethical, legal-regulatory and technical challenges posed by developing governance regimes for AI systems. It also gives a brief overview of recent developments in AI governance, how much of the agenda for defining AI regulation, ethical frameworks and technical approaches is set, as well as providing some concrete suggestions to further the debate on AI governance. This article is part of the theme issue 'Governing artificial intelligence: ethical, legal, and technical opportunities and challenges'. © 2018 The Author(s) Published by the Royal Society. All rights reserved.
+KW  - Artificial intelligence
+KW  - Culture
+KW  - Ethics
+KW  - Governance
+KW  - Law
+KW  - Technology
+KW  - Artificial intelligence
+KW  - Cell culture
+KW  - Learning systems
+KW  - Philosophical aspects
+KW  - Ethics
+KW  - Governance
+KW  - High-risk areas
+KW  - Human rights
+KW  - In-depth analysis
+KW  - Social welfare
+KW  - Technical challenges
+KW  - Urban infrastructure
+KW  - Laws and legislation
+PB  - Royal Society Publishing
+SN  - 1364503X (ISSN)
+C2  - 30322996
+LA  - English
+J2  - Philos. Trans. R. Soc. A Math. Phys. Eng. Sci.
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 258; Correspondence Address: C. Cath; Oxford Internet Institute, University of Oxford, Oxford, 1 St Giles, OX1 3JS, United Kingdom; email: ccath@turing.ac.uk
+ER  -
+
+TY  - JOUR
+AU  - Ching, T.
+AU  - Himmelstein, D.S.
+AU  - Beaulieu-Jones, B.K.
+AU  - Kalinin, A.A.
+AU  - Do, B.T.
+AU  - Way, G.P.
+AU  - Ferrero, E.
+AU  - Agapow, P.-M.
+AU  - Zietz, M.
+AU  - Hoffman, M.M.
+AU  - Xie, W.
+AU  - Rosen, G.L.
+AU  - Lengerich, B.J.
+AU  - Israeli, J.
+AU  - Lanchantin, J.
+AU  - Woloszynek, S.
+AU  - Carpenter, A.E.
+AU  - Shrikumar, A.
+AU  - Xu, J.
+AU  - Cofer, E.M.
+AU  - Lavender, C.A.
+AU  - Turaga, S.C.
+AU  - Alexandari, A.M.
+AU  - Lu, Z.
+AU  - Harris, D.J.
+AU  - Decaprio, D.
+AU  - Qi, Y.
+AU  - Kundaje, A.
+AU  - Peng, Y.
+AU  - Wiley, L.K.
+AU  - Segler, M.H.S.
+AU  - Boca, S.M.
+AU  - Swamidass, S.J.
+AU  - Huang, A.
+AU  - Gitter, A.
+AU  - Greene, C.S.
+TI  - Opportunities and obstacles for deep learning in biology and medicine
+PY  - 2018
+T2  - Journal of the Royal Society Interface
+VL  - 15
+IS  - 141
+C7  - 20170387
+DO  - 10.1098/rsif.2017.0387
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85045190865&doi=10.1098%2frsif.2017.0387&partnerID=40&md5=7819fb5a55c7648fe86ee5936fd9454e
+AD  - Molecular Biosciences and Bioengineering Graduate Program, University of Hawaii at Manoa, Honolulu, HI, United States
+AD  - Department of Systems Pharmacology and Translational Therapeutics, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, United States
+AD  - Genomics and Computational Biology Graduate Group, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, United States
+AD  - Department of Computational Medicine and Bioinformatics, University of Michigan Medical School, Ann Arbor, MI, United States
+AD  - Harvard Medical School, Boston, MA, United States
+AD  - Computational Biology and Stats, Target Sciences, GlaxoSmithKline, Stevenage, United Kingdom
+AD  - Data Science Institute, Imperial College London, London, United Kingdom
+AD  - Princess Margaret Cancer Centre, Toronto, ON, Canada
+AD  - Department of Medical Biophysics, University of Toronto, Toronto, ON, Canada
+AD  - Department of Computer Science, University of Toronto, Toronto, ON, Canada
+AD  - Electrical Engineering and Computer Science, Vanderbilt University, Nashville, TN, United States
+AD  - Department of Electrical and Computer Engineering, Ecological and Evolutionary Signal-processing and Informatics Laboratory, Drexel University, Philadelphia, PA, United States
+AD  - Computational Biology Department, School of Computer Science, Carnegie Mellon University, Pittsburgh, PA, United States
+AD  - Biophysics Program, Stanford, CA, United States
+AD  - Department of Computer Science, Stanford, CA, United States
+AD  - Department of Genetics, Stanford University, Stanford, CA, United States
+AD  - Department of Computer Science, University of Virginia, Charlottesville, VA, United States
+AD  - Imaging Platform, Broad Institute of Harvard and MIT, Cambridge, MA, United States
+AD  - Toyota Technological Institute at Chicago, Chicago, IL, United States
+AD  - Department of Computer Science, Trinity University, San Antonio, TX, United States
+AD  - Lewis-Sigler Institute for Integrative Genomics, Princeton University, Princeton, NJ, United States
+AD  - Integrative Bioinformatics, National Institute of Environmental Health Sciences, Research Triangle Park, NC, United States
+AD  - Janelia Research Campus, Howard Hughes Medical Institute, Ashburn, VA, United States
+AD  - National Center for Biotechnology Information and National Library of Medicine, National Institutes of Health, Bethesda, MD, United States
+AD  - Department of Wildlife Ecology and Conservation, University of Florida, Gainesville, FL, United States
+AD  - ClosedLoop.ai, Austin, TX, United States
+AD  - Division of Biomedical Informatics and Personalized Medicine, University of Colorado School of Medicine, Aurora, CO, United States
+AD  - Institute of Organic Chemistry, Westfälische Wilhelms-Universität Münster, Münster, Germany
+AD  - Innovation Center for Biomedical Informatics, Washington, DC, United States
+AD  - Department of Pathology and Immunology, Washington University in Saint Louis, St Louis, MO, United States
+AD  - Department of Medicine, Brown University, Providence, RI, United States
+AD  - Department of Biostatistics and Medical Informatics, University of Wisconsin-Madison, Madison, WI, United States
+AD  - Morgridge Institute for Research, Madison, WI, United States
+AB  - Deep learning describes a class of machine learning algorithms that are capable of combining raw inputs into layers of intermediate features. These algorithms have recentlyshown impressive results across avarietyof domains. Biology and medicine are data-rich disciplines, but the data are complex and often ill-understood.Hence, deep learning techniques may be particularly well suited to solve problems of these fields. We examine applications of deep learning to a variety of biomedical problems-patient classification, fundamental biological processes and treatment of patients-And discuss whether deep learning will be able to transform these tasks or if the biomedical sphere poses unique challenges. Following from an extensive literature review, we find that deep learning has yet to revolutionize biomedicine or definitively resolve any of the most pressing challenges in the field, but promising advances have been made on the prior state of the art. Even though improvements over previous baselines have been modest in general, the recent progress indicates that deep learning methods will provide valuable means for speeding up or aiding human investigation. Though progress has been made linking a specific neural network's prediction to input features, understanding how users should interpret these models to make testable hypotheses about the system under study remains an open challenge. Furthermore, the limited amount of labelled data for training presents problems in some domains, as do legal and privacy constraints on work with sensitive health records. Nonetheless, we foresee deep learning enabling changes at both bench and bedside with the potential to transform several areas of biology and medicine. © 2018 The Authors.
+KW  - Algorithms
+KW  - Biomedical Research
+KW  - Biomedical Technology
+KW  - Decision Making
+KW  - Deep Learning
+KW  - Delivery of Health Care
+KW  - Disease
+KW  - Drug Design
+KW  - Electronic Health Records
+KW  - Humans
+KW  - Terminology as Topic
+KW  - Biology
+KW  - Learning algorithms
+KW  - Patient treatment
+KW  - Problem solving
+KW  - ligand
+KW  - microRNA
+KW  - transcription factor
+KW  - Biological process
+KW  - Biology and medicine
+KW  - Biomedical problems
+KW  - Learning methods
+KW  - Learning techniques
+KW  - Literature reviews
+KW  - Privacy constraints
+KW  - State of the art
+KW  - Article
+KW  - biological activity
+KW  - biomedicine
+KW  - clinical decision making
+KW  - clinical trial (topic)
+KW  - cryoelectron microscopy
+KW  - deep learning
+KW  - disease classification
+KW  - diseases
+KW  - drug design
+KW  - drug repositioning
+KW  - electronic health record
+KW  - enhancer region
+KW  - gene expression
+KW  - gene sequence
+KW  - health care
+KW  - human
+KW  - illness trajectory
+KW  - imaging
+KW  - law
+KW  - longitudinal study
+KW  - machine learning
+KW  - major histocompatibility complex
+KW  - metagenomics
+KW  - morphology
+KW  - neuroscience
+KW  - patient coding
+KW  - phenotype
+KW  - prediction
+KW  - privacy
+KW  - promoter region
+KW  - protein binding
+KW  - protein protein interaction
+KW  - protein secondary structure
+KW  - protein tertiary structure
+KW  - RNA binding
+KW  - RNA splicing
+KW  - single cell analysis
+KW  - standardization
+KW  - algorithm
+KW  - decision making
+KW  - genetics
+KW  - health care delivery
+KW  - medical research
+KW  - medical technology
+KW  - nomenclature
+KW  - procedures
+KW  - Deep learning
+PB  - Royal Society Publishing
+SN  - 17425689 (ISSN)
+C2  - 29618526
+LA  - English
+J2  - J. R. Soc. Interface
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 1341; Correspondence Address: C.S. Greene; Department of Systems Pharmacology and Translational Therapeutics, Perelman School of Medicine, University of Pennsylvania, Philadelphia, United States; email: greenescientist@gmail.com
+ER  -
+
+TY  - JOUR
+AU  - Chen, R.
+AU  - Shi, J.
+AU  - Chen, Y.
+AU  - Zang, B.
+AU  - Guan, H.
+AU  - Chen, H.
+TI  - PowerLyra: Differentiated graph computation and partitioning on skewed graphs
+PY  - 2018
+T2  - ACM Transactions on Parallel Computing
+VL  - 5
+IS  - 3
+C7  - 13
+DO  - 10.1145/3298989
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85061273684&doi=10.1145%2f3298989&partnerID=40&md5=73d6f6f640128439ee026e1eb20805a4
+AD  - Institute of Parallel and Distributed Systems, Shanghai Jiao Tong University, 800 Dongchuan Road, Shanghai, 200240, China
+AB  - Natural graphs with skewed distributions raise unique challenges to distributed graph computation and partitioning. Existing graph-parallel systems usually use a “one-size-fits-all” design that uniformly processes all vertices, which either suffer from notable load imbalance and high contention for high-degree vertices (e.g., Pregel and GraphLab) or incur high communication cost and memory consumption even for low-degree vertices (e.g., PowerGraph and GraphX). In this article, we argue that skewed distributions in natural graphs also necessitate differentiated processing on high-degree and low-degree vertices. We then introduce PowerLyra, a new distributed graph processing system that embraces the best of both worlds of existing graph-parallel systems. Specifically, PowerLyra uses centralized computation for low-degree vertices to avoid frequent communications and distributes the computation for high-degree vertices to balance workloads. PowerLyra further provides an efficient hybrid graph partitioning algorithm (i.e., hybrid-cut) that combines edge-cut (for low-degree vertices) and vertex-cut (for high-degree vertices) with heuristics. To improve cache locality of inter-node graph accesses, PowerLyra further provides a locality-conscious data layout optimization. PowerLyra is implemented based on the latest GraphLab and can seamlessly support various graph algorithms running in both synchronous and asynchronous execution modes. A detailed evaluation on three clusters using various graph-analytics and MLDM (Machine Learning and Data Mining) applications shows that PowerLyra outperforms PowerGraph by up to 5.53X (from 1.24X) and 3.26X (from 1.49X) for real-world and synthetic graphs, respectively, and is much faster than other systems like GraphX and Giraph, yet with much less memory consumption. A porting of hybrid-cut to GraphX further confirms the efficiency and generality of PowerLyra. © 2019 Copyright held by the owner/author(s). Publication rights licensed to ACM.
+KW  - Graph computation
+KW  - Graph partitioning
+KW  - Locality-conscious data layout
+KW  - Power-law degree distribution
+KW  - Skewed graph
+KW  - Data mining
+KW  - Graphic methods
+KW  - Learning systems
+KW  - Parallel processing systems
+KW  - Asynchronous executions
+KW  - Centralized computation
+KW  - Data layout optimization
+KW  - Data layouts
+KW  - Graph Partitioning
+KW  - Power law degree distribution
+KW  - Skewed distribution
+KW  - Skewed graph
+KW  - Graph theory
+PB  - Association for Computing Machinery
+SN  - 23294949 (ISSN)
+LA  - English
+J2  - ACM Trans. Parallel Comp.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 115; Correspondence Address: H. Chen; Institute of Parallel and Distributed Systems, Shanghai Jiao Tong University, Shanghai, 800 Dongchuan Road, 200240, China; email: haibochen@sjtu.edu.cn
+ER  -
+
+TY  - JOUR
+AU  - Alarie, B.
+AU  - Niblett, A.
+AU  - Yoon, A.H.
+TI  - How artificial intelligence will affect the practice of law
+PY  - 2018
+T2  - University of Toronto Law Journal
+VL  - 68
+SP  - 106
+EP  - 124
+DO  - 10.3138/utlj.2017-0052
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85043772125&doi=10.3138%2futlj.2017-0052&partnerID=40&md5=4dd9ff3c23c9909b12d57e19301cfbd5
+AD  - Faculty of Law, University of Toronto, Toronto, Canada
+AB  - Artificial intelligence is exerting an influence on all professions and industries. We have autonomous vehicles, instantaneous translation among the world's leading languages, and search engines that rapidly locate information anywhere on the web in a way that is tailored to a user's interests and past search history. Law is not immune from disruption by new technology. Software tools are beginning to affect various aspects of lawyers' work, including those tasks that historically relied upon expert human judgment, such as predicting court outcomes. These new software tools present new challenges and new opportunities. In the short run, we can expect greater legal transparency, more efficient dispute resolution, improved access to justice, and new challenges to the traditional organization of private law firms delivering legal services on a billable hour basis through a leveraged partner-associate model. With new technology, lawyers will be empowered to work more efficiently, deepen and broaden their areas of expertise, and provide more value to clients. These developments will predictably transform both how lawyers do legal work and resolve disputes on behalf of their clients. In the longer term, it is difficult to predict what the impact of artificially intelligent tools will be, as lawyers incorporate them into their practice and expand their range of services on behalf of clients. © 2018 University Of Toronto Press.
+KW  - Law
+KW  - Law Firms
+KW  - Legal Profession
+KW  - Machine Learning
+KW  - Technology
+PB  - University of Toronto Press Inc.
+SN  - 00420220 (ISSN)
+LA  - English
+J2  - Univ. Toronto Law J.
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 95
+ER  -
+
+TY  - JOUR
+AU  - Dean, J.
+AU  - Patterson, D.
+AU  - Young, C.
+TI  - A New Golden Age in Computer Architecture: Empowering the Machine-Learning Revolution
+PY  - 2018
+T2  - IEEE Micro
+VL  - 38
+IS  - 2
+SP  - 21
+EP  - 29
+DO  - 10.1109/MM.2018.112130030
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85041644972&doi=10.1109%2fMM.2018.112130030&partnerID=40&md5=1e81863fee88e38426bd44406f262d68
+AD  - Google, United States
+AB  - The end of Moores law and Dennard scaling has led to the end of rapid improvement in general-purpose program performance. Machine learning (ML), and in particular deep learning, is an attractive alternative for architects to explore. It has recently revolutionized vision, speech, language understanding, and many other fields, and it promises to help with the grand challenges facing our society. The computation at its core is low-precision linear algebra. Thus, ML is both broad enough to apply to many domains and narrow enough to benefit from domain-specific architectures, such as Googles Tensor Processing Unit (TPU). Moreover, the growth in demand for ML computing exceeds Moores law at its peak, just as it is fading. Hence, ML experts and computer architects must work together to design the computing systems required to deliver on the potential of ML. This article offers motivation, suggestions, and warnings to computer architects on how to best contribute to the ML revolution. © 1981-2012 IEEE.
+KW  - hardware
+KW  - machine learning
+KW  - microarchitecture
+KW  - Artificial intelligence
+KW  - Computer hardware
+KW  - Deep learning
+KW  - Frequency modulation
+KW  - Iron
+KW  - Learning systems
+KW  - Linear algebra
+KW  - Models
+KW  - Network architecture
+KW  - Neural networks
+KW  - Object recognition
+KW  - Pattern recognition
+KW  - Pattern recognition systems
+KW  - Architecture styles
+KW  - Computer systems organization
+KW  - Computing methodologies
+KW  - IP networks
+KW  - learning
+KW  - Processor architectures
+KW  - Computer architecture
+PB  - IEEE Computer Society
+SN  - 02721732 (ISSN)
+LA  - English
+J2  - IEEE Micro
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 128; CODEN: IEMID
+ER  -
+
+TY  - JOUR
+AU  - Butterworth, M.
+TI  - The ICO and artificial intelligence: The role of fairness in the GDPR framework
+PY  - 2018
+T2  - Computer Law and Security Review
+VL  - 34
+IS  - 2
+SP  - 257
+EP  - 268
+DO  - 10.1016/j.clsr.2018.01.004
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85042662358&doi=10.1016%2fj.clsr.2018.01.004&partnerID=40&md5=98f4238e9274d2d306b85cb7adcb53f2
+AD  - Fieldfisher LLP, London, United Kingdom
+AB  - The year 2017 has seen many EU and UK legislative initiatives and proposals to consider and address the impact of artificial intelligence on society, covering questions of liability, legal personality and other ethical and legal issues, including in the context of data processing. In March 2017, the Information Commissioner's Office (UK) updated its big data guidance to address the development of artificial intelligence and machine learning, and to provide (GDPR), which will apply from 25 May 2018. This paper situates the ICO's guidance in the context of wider legal and ethical considerations and provides a critique of the position adopted by the ICO. On the ICO's analysis, the key challenge for artificial intelligence processing personal data is in establishing that such processing is fair. This shift reflects the potential for artificial intelligence to have negative social consequences (whether intended or unintended) that are not otherwise addressed by the GDPR. The question of ‘fairness’ is an important one, to address the imbalance between big data organisations and individual data subjects, with a number of ethical and social impacts that need to be evaluated. © 2018 Michael Butterworth
+KW  - Artificial intelligence (AI)
+KW  - Big data analytics
+KW  - Collective rights
+KW  - Data ethics
+KW  - Fairness
+KW  - General Data Protection Regulation (GDPR)
+KW  - Regulations
+KW  - Artificial intelligence
+KW  - Data handling
+KW  - Data privacy
+KW  - Economic and social effects
+KW  - Laws and legislation
+KW  - Learning systems
+KW  - Philosophical aspects
+KW  - Big Data Analytics
+KW  - Collective rights
+KW  - Data ethics
+KW  - Fairness
+KW  - General data protection regulations
+KW  - Regulations
+KW  - Big data
+PB  - Elsevier Ltd
+SN  - 02673649 (ISSN)
+LA  - English
+J2  - Comput Law Secur. Rev.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 74; Correspondence Address: M. Butterworth; Fieldfisher LLP, London, Riverbank House, 2 Swan Lane, EC4R 3TT, United Kingdom; email: michael.butterworth@fieldfisher.com; CODEN: CLSRE
+ER  -
+
+TY  - JOUR
+AU  - Choo, J.
+AU  - Liu, S.
+TI  - Visual Analytics for Explainable Deep Learning
+PY  - 2018
+T2  - IEEE Computer Graphics and Applications
+VL  - 38
+IS  - 4
+SP  - 84
+EP  - 92
+DO  - 10.1109/MCG.2018.042731661
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85049692022&doi=10.1109%2fMCG.2018.042731661&partnerID=40&md5=263495a637e61bede6db4a369a2b1fc7
+AD  - Korea University, South Korea
+AD  - Tsinghua University, China
+AB  - Recently, deep learning has been advancing the state of the art in artificial intelligence to a new level, and humans rely on artificial intelligence techniques more than ever. However, even with such unprecedented advancements, the lack of explanation regarding the decisions made by deep learning models and absence of control over their internal processes act as major drawbacks in critical decision-making processes, such as precision medicine and law enforcement. In response, efforts are being made to make deep learning interpretable and controllable by humans. This article reviews visual analytics, information visualization, and machine learning perspectives relevant to this aim, and discusses potential challenges and future research directions. © 1981-2012 IEEE.
+KW  - computer graphics
+KW  - deep learning
+KW  - explainable deep learning
+KW  - interactive visualization
+KW  - Artificial intelligence
+KW  - Computer graphics
+KW  - Decision making
+KW  - Information systems
+KW  - Interactive computer graphics
+KW  - Visualization
+KW  - Artificial intelligence techniques
+KW  - Decision making process
+KW  - Future research directions
+KW  - Information visualization
+KW  - Interactive visualizations
+KW  - Learning models
+KW  - State of the art
+KW  - Visual analytics
+KW  - Deep learning
+PB  - IEEE Computer Society
+SN  - 02721716 (ISSN)
+C2  - 29975192
+LA  - English
+J2  - IEEE Comput Graphics Appl
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 192; CODEN: ICGAD
+ER  -
+
+TY  - JOUR
+AU  - Veale, M.
+AU  - Binns, R.
+AU  - Edwards, L.
+TI  - Algorithms that remember: Model inversion attacks and data protection law
+PY  - 2018
+T2  - Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences
+VL  - 376
+IS  - 2133
+C7  - 0083
+DO  - 10.1098/rsta.2018.0083
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85055074751&doi=10.1098%2frsta.2018.0083&partnerID=40&md5=feaae762aa817b45bb1420c6b009ddff
+AD  - Department of Science, Technology, Engineering and Public Policy, University College London, London, United Kingdom
+AD  - Department of Computer Science, University of Oxford, Oxford, United Kingdom
+AD  - Newcastle Law School, Newcastle University, Newcastle, United Kingdom
+AB  - Many individuals are concerned about the governance of machine learning systems and the prevention of algorithmic harms. The EU's recent General Data Protection Regulation (GDPR) has been seen as a core tool for achieving better governance of this area. While the GDPR does apply to the use of models in some limited situations, most of its provisions relate to the governance of personal data, while models have traditionally been seen as intellectual property. We present recent work from the information security literature around 'model inversion' and 'membership inference' attacks, which indicates that the process of turning training data into machine-learned systems is not one way, and demonstrate how this could lead some models to be legally classified as personal data. Taking this as a probing experiment, we explore the different rights and obligations this would trigger and their utility, and posit future directions for algorithmic governance and regulation. This article is part of the theme issue 'Governing artificial intelligence: ethical, legal, and technical opportunities and challenges'. © 2018 The Author(s) Published by the Royal Society. All rights reserved.
+KW  - Machine learning
+KW  - Model inversion
+KW  - Model trading
+KW  - Personal data
+KW  - Artificial intelligence
+KW  - Learning systems
+KW  - Core tools
+KW  - General data protection regulations
+KW  - Model inversion
+KW  - Training data
+KW  - Data privacy
+PB  - Royal Society Publishing
+SN  - 1364503X (ISSN)
+C2  - 30322998
+LA  - English
+J2  - Philos. Trans. R. Soc. A Math. Phys. Eng. Sci.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 116; Correspondence Address: M. Veale; Department of Science, Technology, Engineering and Public Policy, University College London, London, United Kingdom; email: m.veale@ucl.ac.uk
+ER  -
+
+TY  - JOUR
+AU  - Edwards, L.
+AU  - Veale, M.
+TI  - Enslaving the Algorithm: From a "right to an Explanation" to a "right to Better Decisions"?
+PY  - 2018
+T2  - IEEE Security and Privacy
+VL  - 16
+IS  - 3
+SP  - 46
+EP  - 54
+DO  - 10.1109/MSP.2018.2701152
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85049158825&doi=10.1109%2fMSP.2018.2701152&partnerID=40&md5=e8108bc6699cbb3cb2faed8ec1ed7b0b
+AD  - University of Strathclyde, United Kingdom
+AD  - University College London, Department of Science, Technology, Engineering and Public Policy (STEaPP), United Kingdom
+AB  - As concerns about unfairness and discrimination in 'black box' machine learning systems rise, a legal 'right to an explanation' has emerged as a compellingly attractive approach for challenge and redress. We outline recent debates on the limited provisions in European data protection law, and introduce and analyze newer explanation rights in French administrative law and the draft modernized Council of Europe Convention 108. While individual rights can be useful, in privacy law they have historically unreasonably burdened the average data subject. 'Meaningful information' about algorithmic logics is more technically possible than commonly thought, but this exacerbates a new 'transparency fallacy' - an illusion of remedy rather than anything substantively helpful. While rights-based approaches deserve a firm place in the toolbox, other forms of governance, such as impact assessments, 'soft law,' judicial review, and model repositories deserve more attention, alongside catalyzing agencies acting for users to control algorithmic system design. © 2018 IEEE.
+KW  - algorithmic accountability
+KW  - data protection
+KW  - GDPR
+KW  - machine learning
+KW  - right to an explanation
+KW  - Artificial intelligence
+KW  - Data privacy
+KW  - Administrative law
+KW  - algorithmic accountability
+KW  - Council of Europe
+KW  - GDPR
+KW  - Impact assessments
+KW  - Model repositories
+KW  - right to an explanation
+KW  - Rights-based approach
+KW  - Learning systems
+PB  - Institute of Electrical and Electronics Engineers Inc.
+SN  - 15407993 (ISSN)
+LA  - English
+J2  - IEEE Secur. Privacy
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 103; Correspondence Address: L. Edwards; University of Strathclyde, United Kingdom; email: lilian.edwards@strath.ac.uk
+ER  -
+
+TY  - JOUR
+AU  - Zhang, S.
+AU  - Lin, G.
+TI  - Robust data-driven discovery of governing physical laws with error bars
+PY  - 2018
+T2  - Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences
+VL  - 474
+IS  - 2217
+C7  - 0305
+DO  - 10.1098/rspa.2018.0305
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85054498998&doi=10.1098%2frspa.2018.0305&partnerID=40&md5=71649cbdc4dc7577629b2ef78f18649a
+AD  - Department of Mathematics, Purdue University, West Lafayette, 47907, IN, United States
+AD  - Department of Mathematics, Purdue Univ., West Lafayette, 47907, IN, United States
+AD  - School of Mechanical Engineering, Purdue University, West Lafayette, 47907, IN, United States
+AB  - Discovering governing physical laws from noisy data is a grand challenge in many science and engineering research areas. We present a new approach to data-driven discovery of ordinary differential equations (ODEs) and partial differential equations (PDEs), in explicit or implicit form. We demonstrate our approach on a wide range of problems, including shallow water equations and Navier–Stokes equations. The key idea is to select candidate terms for the underlying equations using dimensional analysis, and to approximate the weights of the terms with error bars using our threshold sparse Bayesian regression. This new algorithm employs Bayesian inference to tune the hyperparameters automatically. Our approach is effective, robust and able to quantify uncertainties by providing an error bar for each discovered candidate equation. The effectiveness of our algorithm is demonstrated through a collection of classical ODEs and PDEs. Numerical experiments demonstrate the robustness of our algorithm with respect to noisy data and its ability to discover various candidate equations with error bars that represent the quantified uncertainties. Detailed comparisons with the sequential threshold least-squares algorithm and the lasso algorithm are studied from noisy time-series measurements and indicate that the proposed method provides more robust and accurate results. In addition, the data-driven prediction of dynamics with error bars using discovered governing physical laws is more accurate and robust than classical polynomial regressions. © 2018 The Author(s) Published by the Royal Society. All rights reserved.
+KW  - Bayesian inference
+KW  - Data-driven scientific computing
+KW  - Machine learning
+KW  - Parameter estimation
+KW  - Partial differential equations
+KW  - Predictive modelling
+KW  - Relevance vector machine
+KW  - Sparse regression
+KW  - Bayesian networks
+KW  - Errors
+KW  - Inference engines
+KW  - Learning systems
+KW  - Least squares approximations
+KW  - Navier Stokes equations
+KW  - Parameter estimation
+KW  - Partial differential equations
+KW  - Regression analysis
+KW  - Bayesian inference
+KW  - Data driven
+KW  - Predictive modelling
+KW  - Relevance Vector Machine
+KW  - Sparse regression
+KW  - Ordinary differential equations
+PB  - Royal Society Publishing
+SN  - 13645021 (ISSN)
+LA  - English
+J2  - Proc. R. Soc. A Math. Phys. Eng. Sci.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 129; Correspondence Address: G. Lin; Department of Mathematics, Purdue University, West Lafayette, 47907, United States; email: guanglin@purdue.edu
+ER  -
+

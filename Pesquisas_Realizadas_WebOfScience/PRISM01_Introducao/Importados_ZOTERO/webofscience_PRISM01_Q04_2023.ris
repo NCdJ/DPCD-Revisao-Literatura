@@ -1,0 +1,375 @@
+﻿TY  - JOUR
+AU  - Hill, ER
+AU  - Mitchell, C
+AU  - Brigden, T
+AU  - Hall, A
+TI  - Ethical and legal considerations influencing human involvement in the implementation of artificial intelligence in a clinical pathway: A multi-stakeholder perspective
+T2  - FRONTIERS IN DIGITAL HEALTH
+LA  - English
+KW  - artificial intelligence
+KW  - medical ethics
+KW  - law
+KW  - digital pathology
+KW  - healthcare
+KW  - interdisciplinary
+KW  - human involvement
+KW  - HEALTH-CARE
+AB  - Introduction: Ethical and legal factors will have an important bearing on when and whether automation is appropriate in healthcare. There is a developing literature on the ethics of artificial intelligence (AI) in health, including specific legal or regulatory questions such as whether there is a right to an explanation of AI decision-making. However, there has been limited consideration of the specific ethical and legal factors that influence when, and in what form, human involvement may be required in the implementation of AI in a clinical pathway, and the views of the wide range of stakeholders involved. To address this question, we chose the exemplar of the pathway for the early detection of Barrett's Oesophagus (BE) and oesophageal adenocarcinoma, where Gehrung and colleagues have developed a "semiautomated", deep-learning system to analyse samples from the CytospongeTM TFF3 test (a minimally invasive alternative to endoscopy), where AI promises to mitigate increasing demands for pathologists' time and input.
+   Methods: We gathered amultidisciplinary group of stakeholders, including developers, patients, healthcare professionals and regulators, to obtain their perspectives on the ethical and legal issues that may arise using this exemplar.
+   Results: The findings are grouped under six general themes: risk and potential harms; impacts on human experts; equity and bias; transparency and oversight; patient information and choice; accountability, moral responsibility and liability for error. Within these themes, a range of subtle and context-specific elements emerged, highlighting the importance of pre-implementation, interdisciplinary discussions and appreciation of pathway specific considerations.
+   Discussion: To evaluate these findings, we draw on the well-established principles of biomedical ethics identified by Beauchamp and Childress as a lens through which to view these results and their implications for personalised medicine. Our findings are not only relevant to this context but have implications for AI in digital pathology and healthcare more broadly.
+AD  - Univ Cambridge, PHG Fdn, Cambridge, EnglandC3  - University of CambridgeFU  - Cancer Research UK Innovate UK [41662]
+FX  - This work was supported by Cancer Research UK & Innovate UK [grant number 41662].
+PU  - FRONTIERS MEDIA SA
+PI  - LAUSANNE
+PA  - AVENUE DU TRIBUNAL FEDERAL 34, LAUSANNE, CH-1015, SWITZERLAND
+SN  - 2673-253X
+J9  - FRONT DIGIT HEALTH
+JI  - Front. Digit. Health
+DA  - MAR 13
+PY  - 2023
+VL  - 5
+C7  - 1139210
+DO  - 10.3389/fdgth.2023.1139210
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001030162800001
+N1  - Times Cited in Web of Science Core Collection:  15
+Total Times Cited:  15
+Cited Reference Count:  37
+ER  -
+
+TY  - JOUR
+AU  - Wang, ZL
+AU  - Chen, A
+AU  - Tao, KH
+AU  - Han, YQ
+AU  - Li, JJ
+TI  - MatGPT: A Vane of Materials Informatics from Past, Present, to Future
+T2  - ADVANCED MATERIALS
+LA  - English
+KW  - AI for Science
+KW  - artificial intelligence
+KW  - materials informatics
+KW  - materials science
+KW  - CRYSTAL-STRUCTURE PREDICTION
+KW  - MACHINE LEARNING FRAMEWORK
+KW  - NEURAL-NETWORK
+KW  - INORGANIC CRYSTALS
+KW  - STRUCTURE DATABASE
+KW  - GUIDED DISCOVERY
+KW  - OPTIMIZATION
+KW  - SINGLE
+KW  - ELECTROCATALYSTS
+KW  - ELECTROLYTES
+AB  - Combining materials science, artificial intelligence (AI), physical chemistry, and other disciplines, materials informatics is continuously accelerating the vigorous development of new materials. The emergence of "GPT (Generative Pre-trained Transformer) AI" shows that the scientific research field has entered the era of intelligent civilization with "data" as the basic factor and "algorithm + computing power" as the core productivity. The continuous innovation of AI will impact the cognitive laws and scientific methods, and reconstruct the knowledge and wisdom system. This leads to think more about materials informatics. Here, a comprehensive discussion of AI models and materials infrastructures is provided, and the advances in the discovery and design of new materials are reviewed. With the rise of new research paradigms triggered by "AI for Science", the vane of materials informatics: "MatGPT", is proposed and the technical path planning from the aspects of data, descriptors, generative models, pretraining models, directed design models, collaborative training, experimental robots, as well as the efforts and preparations needed to develop a new generation of materials informatics, is carried out. Finally, the challenges and constraints faced by materials informatics are discussed, in order to achieve a more digital, intelligent, and automated construction of materials informatics with the joint efforts of more interdisciplinary scientists.
+   The continuous innovation of artificial intelligence impacts the cognitive laws and scientific methods, and reconstructs the knowledge and wisdom system in materials science. This article provides the thinking of materials informatics in the future, from the data, descriptor, generative model, directed design model, cotraining model, to experimental automation, to achieve a more digital, intelligent, and automated construction of materials informatics.image
+AD  - Shanghai Jiao Tong Univ, Natl Key Lab Sci & Technol Micro Nano Fabricat, Shanghai 200240, Peoples R ChinaAD  - Shanghai Jiao Tong Univ, Dept Micro Nano Elect, Key Lab Thin Film & Microfabricat, Minist Educ, Shanghai 200240, Peoples R ChinaC3  - Shanghai Jiao Tong UniversityC3  - Shanghai Jiao Tong UniversityFU  - National Key R&D Program of China; National Natural Science and Foundation of China [32301040]; Shanghai Science and Technology Project [21JC1403400]; Micro Structure Laborotary (AIMS-Lab);  [2021YFC2100100]
+FX  - The authors are grateful for the financial support provided by the National Key R&D Program of China (No. 2021YFC2100100), National Natural Science and Foundation of China (32301040), and the Shanghai Science and Technology Project (No. 21JC1403400). The authors are also grateful for the developed platforms (such as AlphaMat, UADDCR, ITLFF) in Artificial Intelligence and Micro Structure Laborotary (AIMS-Lab) (https://aimslab.cn/)
+PU  - WILEY-V C H VERLAG GMBH
+PI  - WEINHEIM
+PA  - POSTFACH 101161, 69451 WEINHEIM, GERMANY
+SN  - 0935-9648
+SN  - 1521-4095
+J9  - ADV MATER
+JI  - Adv. Mater.
+DA  - FEB
+PY  - 2024
+VL  - 36
+IS  - 6
+DO  - 10.1002/adma.202306733
+C6  - DEC 2023
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001112112900001
+N1  - Times Cited in Web of Science Core Collection:  13
+Total Times Cited:  13
+Cited Reference Count:  236
+ER  -
+
+TY  - JOUR
+AU  - Kaminski, ME
+TI  - REGULATING THE RISKS OF AI
+T2  - BOSTON UNIVERSITY LAW REVIEW
+LA  - English
+KW  - COST-BENEFIT
+KW  - MANAGEMENT
+KW  - SAFETY
+KW  - BIAS
+KW  - ACCOUNTABILITY
+KW  - COMPLACENCY
+KW  - AUTOMATION
+KW  - ALGORITHM
+KW  - PRIVACY
+KW  - LESSONS
+AB  - Companies and governments now use Artificial Intelligence ("AI") in a wide range of settings. But using AI leads to well-known risks that arguably present challenges for a traditional liability model. It is thus unsurprising that lawmakers in both the United States and the European Union ("EU") have turned to the tools of risk regulation in governing AI systems. This Article describes the growing convergence around risk regulation in AI governance. It then addresses the question: what does it mean to use risk regulation to govern AI systems? The primary contribution of this Article is to offer an analytic framework for understanding the use of risk regulation as AI governance. It aims to surface the shortcomings of risk regulation as a legal approach, and to enable readers to identify which type of risk regulation is at play in a given law. The theoretical contribution of this Article is to encourage researchers to think about what is gained and what is lost by choosing a particular legal tool for constructing the meaning of AI systems in the law. Whatever the value of using risk regulation, constructing AI harms as risks is a choice with consequences. Risk regulation comes with its own policy baggage: a set of tools and troubles that have emerged in other fields. Risk regulation tends to try to fix problems with the technology so it may be used, rather than contemplating that it might sometimes not be appropriate to use it at all. Risk regulation works best on quantifiable problems and struggles with hard-to -quantify harms. It can cloak what are really policy decisions as technical decisions. Risk regulation typically is not structured to make injured people whole. And the version of risk regulation typically deployed to govern AI systems lacks the feedback loops of tort liability. Thus the choice to use risk regulation in the first place channels the law towards a particular approach to AI governance that makes implicit tradeoffs and carries predictable shortcomings. The second, more granular observation this Article makes is that not all risk regulation is the same. That is, once regulators choose to deploy risk regulation, there are still significant variations in what type of risk regulation they might use. Risk regulation is a legal transplant with multiple possible origins. This Article identifies at least four models for AI risk regulation that meaningfully diverge in how they address accountability.
+AD  - Yale Law Sch, Affiliated Fac, Silicon Flatirons Ctr, Colorado Law Sch,Informat Soc Project, New Haven, CT 06511 USAC3  - Yale UniversityPU  - BOSTON UNIV LAW REVIEW
+PI  - BOSTON
+PA  - 765 COMMONWEALTH AVE, BOSTON, MA 02215 USA
+SN  - 0006-8047
+J9  - BOSTON U LAW REV
+JI  - Boston Univ. Law Rev.
+DA  - SEP
+PY  - 2023
+VL  - 103
+IS  - 5
+SP  - 1347
+EP  - 1411
+WE  - Social Science Citation Index (SSCI)AN  - WOS:001107494700001
+N1  - Times Cited in Web of Science Core Collection:  12
+Total Times Cited:  12
+Cited Reference Count:  183
+ER  -
+
+TY  - JOUR
+AU  - Parycek, P
+AU  - Schmid, V
+AU  - Novak, AS
+TI  - Artificial Intelligence (AI) and Automation in Administrative Procedures: Potentials, Limitations, and Framework Conditions
+T2  - JOURNAL OF THE KNOWLEDGE ECONOMY
+LA  - English
+KW  - Artificial intelligence
+KW  - AI
+KW  - Law
+KW  - Automation
+KW  - Digital law
+KW  - Transparency
+KW  - Bias
+KW  - Digital Government
+KW  - E-Government
+KW  - Legal Tech
+KW  - GOVERNMENT
+KW  - SYSTEMS
+KW  - LAW
+AB  - Integrating artificial intelligence (AI) systems into administrative procedures can revolutionize the way processes are conducted and fundamentally change established forms of action and organization in administrative law. However, implementing AI in administrative procedures requires a comprehensive evaluation of the capabilities and limitations of different systems, including considerations of transparency and data availability. Data are a crucial factor in the operation of AI systems and the validity of their predictions. It is essential to ensure that the data used to train AI algorithms are extensive, representative, and free of bias. Transparency is also an important aspect establishing trust and reliability in AI systems, particularly regarding the potential for transparent representation in rule-based and machine-learning AI systems. This paper examines the potential and challenges that arise from integrating AI into administrative procedures. In addition, the paper offers a nuanced perspective on current developments in artificial intelligence and provides a conceptual framework for its potential applications in administrative procedures. Beyond this, the paper highlights essential framework conditions that require continuous monitoring to ensure optimal results in practice.
+AD  - Univ Continuing Educ Krems, Teaching Sci Educ & Digital Transformat CDO, Krems An Der Donau, AustriaAD  - Univ Continuing Educ Krems, Krems An Der Donau, AustriaFU  - Danube University Krems University for Continuing Education
+FX  - Open access funding provided by Danube University Krems University for Continuing Education.
+PU  - SPRINGER
+PI  - NEW YORK
+PA  - ONE NEW YORK PLAZA, SUITE 4600, NEW YORK, NY, UNITED STATES
+SN  - 1868-7865
+SN  - 1868-7873
+J9  - J KNOWL ECON
+JI  - J. Knowl. Econ.
+DA  - JUN
+PY  - 2024
+VL  - 15
+IS  - 2
+SP  - 8390
+EP  - 8415
+DO  - 10.1007/s13132-023-01433-3
+C6  - JUN 2023
+WE  - Social Science Citation Index (SSCI)AN  - WOS:001015490100001
+N1  - Times Cited in Web of Science Core Collection:  7
+Total Times Cited:  7
+Cited Reference Count:  78
+ER  -
+
+TY  - CPAPER
+AU  - Kahr, PK
+AU  - Rooks, G
+AU  - Willemsen, MC
+AU  - Snijders, CCP
+A1  - ACM
+TI  - It Seems Smart, but It Acts Stupid: Development of Trust in AI Advice in a Repeated Legal Decision-Making Task
+T2  - PROCEEDINGS OF 2023 28TH ANNUAL CONFERENCE ON INTELLIGENT USER INTERFACES, IUI 2023
+LA  - English
+CP  - 28th Annual Conference on Intelligent User Interfaces (IUI)
+KW  - Human-AI Interaction
+KW  - Trustworthy AI
+KW  - Trust Development
+KW  - Collaborative Decision-Making
+KW  - AUTOMATION
+KW  - AGENTS
+AB  - Humans increasingly interact with AI systems, and successful interactions rely on individuals trusting such systems (when appropriate). Considering that trust is fragile and often cannot be restored quickly, we focus on how trust develops over time in a human-AI-interaction scenario. In a 2x2 between-subject experiment, we test how model accuracy (high vs. low) and type of explanation (human-like vs. not) affect trust in AI over time. We study a complex decision-making task in which individuals estimate jail time for 20 criminal law cases with AI advice. Results show that trust is significantly higher for high-accuracy models. Also, behavioral trust does not decline, and subjective trust even increases significantly with high accuracy. Human-like explanations did not generally affect trust but boosted trust in high-accuracy models.
+AD  - Eindhoven Univ Technol, NL-5600 MB Eindhoven, NetherlandsAD  - Jheronimus Acad Data Sci, NL-5211 DA Shertogenbosch, NetherlandsC3  - Eindhoven University of TechnologyFU  - European Supply Chain Forum (ESCF); department Industrial Engineering and Innovation Sciences (IEIS); Eindhoven Artificial Intelligence Systems Institute (EAISI); Logistics Community Brabant
+FX  - We thank Luc Siecker, Jane Deijnen, Milo Simons, Lorea Ros, and Ruben van der Werf for their help in conducting the study. In addition, we would like to express our gratitude to the European Supply Chain Forum (ESCF), the department Industrial Engineering and Innovation Sciences (IE&IS), the Eindhoven Artificial Intelligence Systems Institute (EAISI), and the Logistics Community Brabant for sponsoring the research project AI Planner of the Future, which is funding the Ph.D. project "Trust in AI over time" and thus supporting this and future studies.
+PU  - ASSOC COMPUTING MACHINERY
+PI  - NEW YORK
+PA  - 1601 Broadway, 10th Floor, NEW YORK, NY, UNITED STATES
+SN  - 979-8-4007-0106-1
+PY  - 2023
+SP  - 528
+EP  - 539
+DO  - 10.1145/3581641.3584058
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:001302573800037
+N1  - Times Cited in Web of Science Core Collection:  7
+Total Times Cited:  7
+Cited Reference Count:  73
+ER  -
+
+TY  - JOUR
+AU  - Laux, J
+TI  - Institutionalised distrust and human oversight of artificial intelligence: towards a democratic design of AI governance under the European Union AI Act
+T2  - AI & SOCIETY
+LA  - English
+KW  - Artificial intelligence
+KW  - Human oversight
+KW  - AI Act
+KW  - Trust
+KW  - Distrust
+KW  - Institutional design
+KW  - DRIVING AUTOMATION
+KW  - AVIATION
+KW  - BIAS
+AB  - Human oversight has become a key mechanism for the governance of artificial intelligence ("AI"). Human overseers are supposed to increase the accuracy and safety of AI systems, uphold human values, and build trust in the technology. Empirical research suggests, however, that humans are not reliable in fulfilling their oversight tasks. They may be lacking in competence or be harmfully incentivised. This creates a challenge for human oversight to be effective. In addressing this challenge, this article aims to make three contributions. First, it surveys the emerging laws of oversight, most importantly the European Union's Artificial Intelligence Act ("AIA"). It will be shown that while the AIA is concerned with the competence of human overseers, it does not provide much guidance on how to achieve effective oversight and leaves oversight obligations for AI developers underdefined. Second, this article presents a novel taxonomy of human oversight roles, differentiated along whether human intervention is constitutive to, or corrective of a decision made or supported by an AI. The taxonomy allows to propose suggestions for improving effectiveness tailored to the type of oversight in question. Third, drawing on scholarship within democratic theory, this article formulates six normative principles which institutionalise distrust in human oversight of AI. The institutionalisation of distrust has historically been practised in democratic governance. Applied for the first time to AI governance, the principles anticipate the fallibility of human overseers and seek to mitigate them at the level of institutional design. They aim to directly increase the trustworthiness of human oversight and to indirectly inspire well-placed trust in AI governance.
+AD  - Univ Oxford, Oxford Internet Inst, British Acad Postdoctoral Fellow, 1 St Giles, Oxford OX1 3JS, EnglandC3  - University of OxfordFU  - British Academy Postdoctoral Fellowship [PF22\220076]; UK Department of Health and Social Care (via the AI Lab at NHSx); Alfred P. Sloan Foundation [G-2021-16779]; Wellcome Trust [223765/Z/21/Z]; Luminate Group; Wellcome Trust [223765/Z/21/Z] Funding Source: Wellcome Trust
+FX  - This article is a deliverable of the "The Emerging Laws of Oversight" project, supported by a British Academy Postdoctoral Fellowship (grant no. PF22\220076). The article received further financial support through the "Trustworthiness Auditing for AI" project, funded by the UK Department of Health and Social Care (via the AI Lab at <EM><STRONG> </STRONG></EM>NHSx); the Alfred P. Sloan Foundation (grant nr G-2021-16779); the Wellcome Trust (grant nr 223765/Z/21/Z); and the Luminate Group.
+PU  - SPRINGER
+PI  - NEW YORK
+PA  - ONE NEW YORK PLAZA, SUITE 4600, NEW YORK, NY, UNITED STATES
+SN  - 0951-5666
+SN  - 1435-5655
+J9  - AI SOC
+JI  - AI Soc.
+DA  - 2023 OCT 6
+PY  - 2023
+DO  - 10.1007/s00146-023-01777-z
+C6  - OCT 2023
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001079425600001
+N1  - Times Cited in Web of Science Core Collection:  6
+Total Times Cited:  6
+Cited Reference Count:  74
+ER  -
+
+TY  - JOUR
+AU  - Kalpokiene, J
+AU  - Kalpokas, I
+TI  - Creative encounters of a posthuman kind - anthropocentric law, artificial intelligence, and art
+T2  - TECHNOLOGY IN SOCIETY
+LA  - English
+KW  - Anthropocentrism
+KW  - Artificial intelligence
+KW  - Creativity
+KW  - Copyright
+KW  - AGENCY
+AB  - Artificial Intelligence (AI) is becoming an increasingly transformative force in human life. Crucially, its impact is already extending beyond automation of routine tasks and encroaching on creativity - a domain once seen as exclusively human. Hence, this article first surveys the discriminatory and exploitative underpinnings of the anthropocentric thinking that lies beyond attempts at sidelining the creative capacities of AI. Next, four different approaches to creativity and art are analyzed, ultimately conceptualizing art-ness as externally ascribed. Ulti-mately, the article moves to one way of such ascription - copyrightability - demonstrating the anthropocentric thinking behind attempts to both deny and award copyright protection to AI-generated content. Moreover, it transpires that human authors are under threat whichever of such strategies ends up dominant.
+AD  - Vytautas Magnus Univ, Fac Law, Jonavos Str 66-113, LT-44138 Kaunas, LithuaniaAD  - Vytautas Magnus Univ, Dept Publ Commun, Kaunas, LithuaniaC3  - Vytautas Magnus UniversityC3  - Vytautas Magnus UniversityPU  - ELSEVIER SCI LTD
+PI  - London
+PA  - 125 London Wall, London, ENGLAND
+SN  - 0160-791X
+SN  - 1879-3274
+J9  - TECHNOL SOC
+JI  - Technol. Soc.
+DA  - FEB
+PY  - 2023
+VL  - 72
+C7  - 102197
+DO  - 10.1016/j.techsoc.2023.102197
+C6  - JAN 2023
+WE  - Social Science Citation Index (SSCI)AN  - WOS:000924399800001
+N1  - Times Cited in Web of Science Core Collection:  6
+Total Times Cited:  6
+Cited Reference Count:  85
+ER  -
+
+TY  - JOUR
+AU  - Engstrom, DF
+AU  - Haim, A
+TI  - Regulating Government AI and the Challenge of Sociotechnical Design
+T2  - ANNUAL REVIEW OF LAW AND SOCIAL SCIENCE
+LA  - English
+KW  - artificial intelligence
+KW  - government
+KW  - public administration
+KW  - regulation
+KW  - institutional design
+KW  - ARTIFICIAL-INTELLIGENCE
+KW  - DECISION-MAKING
+KW  - RISK-ASSESSMENT
+KW  - STREET-LEVEL
+KW  - BIAS
+KW  - AUTOMATION
+KW  - DISCRETION
+KW  - ACCOUNTABILITY
+KW  - TRANSPARENCY
+KW  - LIMITATIONS
+AB  - Artificial intelligence (AI) is transforming how governments work, from distribution of public benefits, to identifying enforcement targets, to meting out sanctions. But given AI's twin capacity to cause and cure error, bias, and inequity, there is little consensus about how to regulate its use. This review advances debate by lifting up research at the intersection of computer science, organizational behavior, and law. First, pushing past the usual catalogs of algorithmic harms and benefits, we argue that what makes government AI most concerning is its steady advance into discretion-laden policy spaces where we have long tolerated less-than-full legal accountability. The challenge is how, but also whether, to fortify existing public law paradigms without hamstringing government or stymieing useful innovation. Second, we argue that sound regulation must connect emerging knowledge about internal agency practices in designing and implementing AI systems to longer-standing lessons about the limits of external legal constraints in inducing organizations to adopt desired practices. Meaningful accountability requires a more robust understanding of organizational behavior and law as AI permeates bureaucratic routines.
+AD  - Stanford Law Sch, Stanford, CA 94305 USAC3  - Stanford UniversityPU  - ANNUAL REVIEWS
+PI  - PALO ALTO
+PA  - 4139 EL CAMINO WAY, PO BOX 10139, PALO ALTO, CA 94303-0139 USA
+SN  - 1550-3585
+SN  - 1550-3631
+J9  - ANNU REV LAW SOC SCI
+JI  - Annu. Rev. Law. Soc. Sci.
+PY  - 2023
+VL  - 19
+SP  - 277
+EP  - 298
+DO  - 10.1146/annurev-lawsocsci-120522-091626
+WE  - Social Science Citation Index (SSCI)AN  - WOS:001082824100016
+N1  - Times Cited in Web of Science Core Collection:  5
+Total Times Cited:  6
+Cited Reference Count:  168
+ER  -
+
+TY  - JOUR
+AU  - Koch, W
+TI  - AI for Aerospace and Electronic Systems: Technical Dimensions of Responsible Design
+T2  - IEEE AEROSPACE AND ELECTRONIC SYSTEMS MAGAZINE
+LA  - English
+KW  - Ethics
+KW  - Artificial intelligence
+KW  - Weapons
+KW  - Law
+KW  - Intelligent automation
+KW  - Special issues and sections
+KW  - Task analysis
+KW  - artificial intelligence (AI)
+KW  - data fusion
+KW  - resources management
+KW  - targeting cycle
+KW  - ethically-aligned engineering
+AB  - There are still no lessons to be learned from the brutality of the war in Ukraine, except perhaps one: Does not the flood of news show the difference between "combat power " and "combat value "? Even in this modern war, not only the countable and measurable technical material is important. Soldiers who are willing and able to fight, i.e., "citizens in uniform, " also "count "- those who know what they are fighting for, who know their homeland, who know how to defend themselves and their own with quantitatively inferior but technically adequate situation pictures and effective means. What does this insight mean for the complex "technosphere " of aerospace and electronic systems, which are critical in modern warfare and can only be controlled by humans through the world of algorithms, i.e., by artificially intelligent automation?
+AD  - Fraunhofer FKIE, D-53343 Wachtberg, GermanyPU  - IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI  - PISCATAWAY
+PA  - 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN  - 0885-8985
+SN  - 1557-959X
+J9  - IEEE AERO EL SYS MAG
+JI  - IEEE Aerosp. Electron. Syst. Mag.
+DA  - JAN 1
+PY  - 2023
+VL  - 38
+IS  - 1
+SP  - 106
+EP  - 111
+DO  - 10.1109/MAES.2022.3228300
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000922643100018
+N1  - Times Cited in Web of Science Core Collection:  4
+Total Times Cited:  4
+Cited Reference Count:  20
+ER  -
+
+TY  - JOUR
+AU  - De Cooman, J
+TI  - Outsmarting Pac-Man with Artificial Intelligence, or Why AI-Driven Cartel Screening Is Not a Silver Bullet
+T2  - JOURNAL OF EUROPEAN COMPETITION LAW & PRACTICE
+LA  - English
+KW  - AUTOMATION BIAS
+KW  - DECISION-MAKING
+KW  - FUNDAMENTAL RIGHTS
+KW  - LAW
+KW  - COLLUSION
+KW  - DISCRETION
+KW  - MODEL
+KW  - PROBABILITY
+KW  - COMPLACENCY
+KW  - ALGORITHMS
+AD  - Univ Liege ULiege, Liege, BelgiumAD  - Liege Competit & Innovat Inst LCII, Liege, BelgiumPU  - OXFORD UNIV PRESS
+PI  - OXFORD
+PA  - GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+SN  - 2041-7764
+SN  - 2041-7772
+J9  - J EUR COMPET LAW PRA
+JI  - J. Eur. Compet. Law Pract.
+DA  - JUL 12
+PY  - 2023
+VL  - 14
+IS  - 4
+SP  - 186
+EP  - 202
+DO  - 10.1093/jeclap/lpad017
+C6  - MAY 2023
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:000992109400001
+N1  - Times Cited in Web of Science Core Collection:  3
+Total Times Cited:  3
+Cited Reference Count:  273
+ER  -
+

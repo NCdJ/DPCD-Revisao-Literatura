@@ -1,0 +1,136 @@
+﻿TY  - JOUR
+AU  - Licari, D
+AU  - Comandè, G
+TI  - ITALIAN-LEGAL-BERT models for improving natural language processing tasks in the Italian legal domain
+T2  - COMPUTER LAW & SECURITY REVIEW
+LA  - English
+KW  - Italian Legal NLP
+KW  - Legal AI
+KW  - Pre-trained Language Models
+KW  - Italian Legal BERT
+AB  - Legal-BERT models are based on the BERT architecture (or its variants) and have been developed specifically for the legal domain. They have reached the state of the art in complex legal tasks such as legal research, document synthesis, contract analysis, argument extraction, and legal prediction. In this paper, we proposed four versions of Legal-BERT models pre-trained on the Italian legal domain. They aim to improve NLP applications in the Italian legal context. We have shown that they outperforms the Italian "generalpurpose" BERT in several domain-specific tasks, such as named entity recognition, sentence classification, semantic similarity with Bi-encoders, and document classification.
+AD  - St Anna Sch Adv Studies, Piazza Martiri Liberta 33, I-56127 Pisa, ItalyC3  - Scuola Superiore Sant'AnnaPU  - ELSEVIER ADVANCED TECHNOLOGY
+PI  - OXFORD
+PA  - OXFORD FULFILLMENT CENTRE THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN  - 0267-3649
+J9  - COMPUT LAW SECUR REV
+JI  - Comput. Law Secur. Rev.
+DA  - APR
+PY  - 2024
+VL  - 52
+C7  - 105908
+DO  - 10.1016/j.clsr.2023.105908
+C6  - OCT 2023
+WE  - Social Science Citation Index (SSCI)AN  - WOS:001102220200001
+N1  - Times Cited in Web of Science Core Collection:  4
+Total Times Cited:  4
+Cited Reference Count:  38
+ER  -
+
+TY  - CPAPER
+AU  - Kalamkar, P
+AU  - Venugopalan, J
+AU  - Raghavan, V
+ED  - Yada, K
+ED  - Takama, Y
+ED  - Mineshima, K
+ED  - Satoh, K
+TI  - Benchmarks for Indian Legal NLP: A Survey
+T2  - NEW FRONTIERS IN ARTIFICIAL INTELLIGENCE, JSAI-ISAI 2021 WORKSHOPS, JURISIN 2021, LENLS18, SCIDOCA 2021, KANSEI-AI 2021, AND AI-BIZ 2021
+LA  - English
+CP  - International Symposium on Artificial Intelligence (ISAI)
+KW  - Natural Language Processing
+KW  - Legal Text Processing
+KW  - NLP Benchmarks
+AB  - Legal text is significantly different from English text (e.g. Wikipedia, News) used for training most natural language processing (NLP) algorithms. As a result, the state of the art algorithms (e.g. GPT3, BERT derivatives), need additional effort (e.g. fine-tuning and further pre-training) to achieve optimal performance on legal text. Hence there is a need to create separate NLP data sets and benchmarks for legal text which are challenging and focus on tasks specific to legal systems. This will spur innovation in applications of NLP for legal text and will benefit AI community and legal fraternity. This paper focuses on an empirical review of the existing work in the use of NLP in Indian legal text and proposes ideas to create new benchmarks for Indian Legal NLP.
+AD  - Thoughtworks India Pvt Ltd, Chennai, Tamil Nadu, IndiaAD  - Ek Step Fdn, Bangalore, Karnataka, IndiaFU  - EkStep Foundation
+FX  - This paper is funded by EkStep Foundation
+PU  - SPRINGER INTERNATIONAL PUBLISHING AG
+PI  - CHAM
+PA  - GEWERBESTRASSE 11, CHAM, CH-6330, SWITZERLAND
+SN  - 2945-9133
+SN  - 1611-3349
+SN  - 978-3-031-36189-0
+SN  - 978-3-031-36190-6
+J9  - LECT NOTES ARTIF INT
+PY  - 2023
+VL  - 13856
+SP  - 33
+EP  - 48
+DO  - 10.1007/978-3-031-36190-6_3
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:001298764700003
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  42
+ER  -
+
+TY  - CPAPER
+AU  - Khatri, M
+AU  - Sheik, R
+AU  - Wadhwa, P
+AU  - Satija, G
+AU  - Kumar, Y
+AU  - Shah, RR
+AU  - Kumaraguru, P
+ED  - Spanakis, J
+ED  - VanDijck, G
+ED  - Sileno, G
+TI  - CiteCaseLAW: Citation Worthiness Detection in Caselaw for Legal Assistive Writing
+T2  - LEGAL KNOWLEDGE AND INFORMATION SYSTEMS
+LA  - English
+CP  - 36th Annual International Conference on Legal Knowledge and Information Systems (JURIX)
+KW  - Legal NLP
+KW  - Citation
+KW  - Classification
+AB  - Complex legal language, filled with jargon, nuanced language semantics, and a high level of domain specificity, poses a significant challenge for automation in handling various legal tasks. In the realm of legal document composition, a pivotal component revolves around accurately referencing case laws and other sources to substantiate assertions and arguments. Understanding the legal domain and identifying appropriate citation context or cite-worthy sentences automatically is challenging. Our research is centered on the issue of citation-worthiness identification of a given sentence. This serves as the initial phase in contemporary citation recommendation systems, aimed at alleviating the effort involved in extracting a suitable array of citation contexts. To address this, we first introduce a labeled dataset comprising 178 million sentences, specifically tailored for detecting citation-worthy content within the legal domain. This dataset is curated from the Caselaw Access Project (CAP)(2) (https://case.law/). We proceeded to assess the performance of a range of deep learning models on this novel dataset. Among the models examined, the domain-specific pre-trained model consistently demonstrated superior performance, achieving an 88% F1-score in the task of detecting citation-worthy material. To enhance our insights, we employed inputXGradient explainable AI techniques to dissect the predictions, thereby identifying the tokens that contribute to specific citation classes.
+AD  - IIIT Delhi, New Delhi, IndiaAD  - NIT, Tiruchirappalli, IndiaAD  - Adobe MDSR, Bangalore, Karnataka, IndiaAD  - IIIT, Hyderabad, IndiaC3  - Indraprastha Institute of Information Technology DelhiC3  - International Institute of Information Technology HyderabadFU  - Department of Science and Technology, India; Infosys Center for AI; Center for Design and New Media; Center of Excellence in Healthcare at IIIT Delhi
+FX  - We acknowledge the support of the IHUB-ANUBHUTI-IIITD FOUNDATION set up under the NM-ICPS scheme of the Department of Science and Technology, India. Thanking Rajiv Ratn Shah, who is partly supported by the Infosys Center for AI, the Center for Design and New Media, and the Center of Excellence in Healthcare at IIIT Delhi. We also want to thank Dr. Debanjan Mahata for motivating us and providing insights on the task[5].
+PU  - IOS PRESS
+PI  - AMSTERDAM
+PA  - NIEUWE HEMWEG 6B, 1013 BG AMSTERDAM, NETHERLANDS
+SN  - 0922-6389
+SN  - 1879-8314
+SN  - 978-1-64368-472-7
+SN  - 978-1-64368-473-4
+J9  - FRONT ARTIF INTEL AP
+PY  - 2023
+VL  - 379
+SP  - 257
+EP  - 262
+DO  - 10.3233/FAIA230971
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)WE  - Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)AN  - WOS:001175464100031
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  22
+ER  -
+
+TY  - CPAPER
+AU  - Öztürk, CE
+AU  - Özçelik, SB
+AU  - Koç, A
+A1  - IEEE
+TI  - A Transformer-based Prior Legal Case Retrieval Method
+T2  - 2023 31ST SIGNAL PROCESSING AND COMMUNICATIONS APPLICATIONS CONFERENCE, SIU
+LA  - Turkish
+CP  - 31st IEEE Conference on Signal Processing and Communications Applications (SIU)
+KW  - Natural language processing
+KW  - legal tech
+KW  - deep learning
+KW  - prior legal case retrieval
+KW  - legal NLP
+KW  - Turkish NLP
+AB  - In this work, BERTurk-Legal, a transformer-based language model, is introduced to retrieve prior legal cases. BERTurk-Legal is pre-trained on a dataset from the Turkish legal domain. This dataset does not contain any labels related to the prior court case retrieval task. Masked language modeling is used to train BERTurk-Legal in a self-supervised manner. With zero-shot classification, BERTurk-Legal provides state-of-the-art results on the dataset consisting of legal cases of the Court of Cassation of Turkey. The results of the experiments show the necessity of developing language models specific to the Turkish law domain.
+AD  - Bilkent Univ, Elekt & Elekt Muhendisligi Bolumu, ASELSAN Res Ctr, Ankara, TurkiyeAD  - Bilkent Univ, Hukuk Fak, Ankara, TurkiyeAD  - Bilkent Univ, Elekt & Elekt Muhendisligi Bolumu, Ulusal Manyet Rezonans Arastirma Merkezi, Ankara, TurkiyeC3  - Ihsan Dogramaci Bilkent UniversityC3  - AselsanC3  - Ihsan Dogramaci Bilkent UniversityC3  - Ihsan Dogramaci Bilkent UniversityPU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 2165-0608
+SN  - 979-8-3503-4355-7
+J9  - SIG PROCESS COMMUN
+PY  - 2023
+DO  - 10.1109/SIU59756.2023.10223938
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)WE  - Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)AN  - WOS:001062571000166
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  28
+ER  -
+

@@ -1,0 +1,139 @@
+﻿TY  - JOUR
+AU  - Aydin, BI
+AU  - Yilmaz, YS
+AU  - Demirbas, M
+TI  - A crowdsourced "Who wants to be a millionaire?" player
+T2  - CONCURRENCY AND COMPUTATION-PRACTICE & EXPERIENCE
+LA  - English
+CP  - Int Conf on Cloud Edge Comp, Big Data and Blockchain (ICCBB) / Conf on Knowledge Engn in Concurrent and Intelligent Applicat / Conf on Distributed Large Scale Applicat and Environm / Conf Trends and Advances in Collaborat Technologies and Syst
+KW  - crowdsourcing
+KW  - multiple&#8208
+KW  - choicem
+KW  - question answering
+AB  - Question answering is a fundamental problem for artificial intelligence research. State-of-the-art question answering systems, such as search engines, can answer well-formed factual questions. However, they fail on nonfactual and natural language queries. On the other hand, crowdsourcing leverages human intelligence to present solutions for problems, which are hard for computers. In the process of crowdsourcing, aggregating the responses from the crowd is a big challenge of itself. This work presents a model that integrates artificial intelligence with crowdsourcing to answer difficult natural language multiple choice questions. We build a crowdsourced mobile gaming experience for "Who wants to be a millionaire?" TV quiz show to test our methods. We use lightweight artificial intelligence models in aggregating the crowd responses. Our methods are able to answer even the hardest questions with very high accuracy. The experiment results suggest that building a super player for "Who wants to be a millionaire?" is feasible using our models. This study shows that facilitating crowdsourcing with artificial intelligence is an important tool for answering questions, which trouble state-of-the-art question answering systems.
+AD  - Intel Corp, Jones Farm 2 2111 NE 25th Ave, Hillsboro, OR 97124 USAAD  - SUNY Buffalo, Comp Sci & Engn Dept, Buffalo, NY 14260 USAC3  - Intel CorporationC3  - State University of New York (SUNY) SystemC3  - University at Buffalo, SUNYPU  - WILEY
+PI  - HOBOKEN
+PA  - 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN  - 1532-0626
+SN  - 1532-0634
+J9  - CONCURR COMP-PRACT E
+JI  - Concurr. Comput.-Pract. Exp.
+DA  - APR 25
+PY  - 2021
+VL  - 33
+IS  - 8
+C7  - e4168
+DO  - 10.1002/cpe.4168
+WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000636346200018
+N1  - Times Cited in Web of Science Core Collection:  5
+Total Times Cited:  5
+Cited Reference Count:  72
+ER  -
+
+TY  - CPAPER
+AU  - Tammet, T
+AU  - Draheim, D
+AU  - Järv, P
+ED  - Platzer, A
+ED  - Sutcliffe, G
+TI  - Confidences for Commonsense Reasoning
+T2  - AUTOMATED DEDUCTION, CADE 28
+LA  - English
+CP  - 28th International Conference on Automated Deduction (CADE)
+KW  - LOGIC
+AB  - Commonsense reasoning has long been considered one of the holy grails of artificial intelligence. Our goal is to develop a logic-based component for hybrid - machine learning plus logic - commonsense question answering systems. A critical feature for the component is estimating the confidence in the statements derived from knowledge bases containing uncertain contrary and supporting evidence obtained from different sources. Instead of computing exact probabilities or designing a new calculus we focus on extending the methods and algorithms used by the existing automated reasoners for full classical first-order logic. The paper presents the CONFER framework and implementation for confidence estimation of derived answers.
+AD  - Tallinn Univ Technol, Appl Artificial Intelligence Grp, Tallinn, EstoniaAD  - Tallinn Univ Technol, Informat Syst Grp, Tallinn, EstoniaC3  - Tallinn University of TechnologyC3  - Tallinn University of TechnologyPU  - SPRINGER INTERNATIONAL PUBLISHING AG
+PI  - CHAM
+PA  - GEWERBESTRASSE 11, CHAM, CH-6330, SWITZERLAND
+SN  - 2945-9133
+SN  - 1611-3349
+SN  - 978-3-030-79876-5
+SN  - 978-3-030-79875-8
+J9  - LECT NOTES ARTIF INT
+PY  - 2021
+VL  - 12699
+SP  - 507
+EP  - 524
+DO  - 10.1007/978-3-030-79876-5_29
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000693448800029
+N1  - Times Cited in Web of Science Core Collection:  4
+Total Times Cited:  4
+Cited Reference Count:  37
+ER  -
+
+TY  - JOUR
+AU  - Alanazi, SS
+AU  - Elfadil, N
+AU  - Jarajreh, M
+AU  - Algarni, S
+TI  - Question Answering Systems: A Systematic Literature Review
+T2  - INTERNATIONAL JOURNAL OF ADVANCED COMPUTER SCIENCE AND APPLICATIONS
+LA  - English
+KW  - Question answering systems
+KW  - syntax
+KW  - knowledge systems
+KW  - deep learning
+KW  - machine learning
+KW  - systematic literature review
+KW  - artificial intelligence
+AB  - Question answering systems (QAS) are developed to answer questions presented in natural language by extracting the answer. The development of QAS is aimed at making the Web more suited to human use by eliminating the need to sift through a lot of search results manually to determine the correct answer to a question. Accordingly, the aim of this study was to provide an overview of the current state of QAS research. It also aimed at highlighting the key limitations and gaps in the existing body of knowledge relating to QAS. Furthermore, it intended to identify the most effective methods utilized in the design of QAS. The systematic review of literature research method was selected as the most appropriate methodology for studying the research topic. This method differs from the conventional literature review as it is more comprehensive and objective. Based on the findings, QAS is a highly active area of research, with scholars taking diverse approaches in the development of their systems. Some of the limitations observed in these studies encompass the focused nature of current QAS, weaknesses associated with models that are used as building blocks for QAS, the need for standard datasets and question formats hence limiting the applicability of the QAS in practical settings, and the failure of researchers to examine their QAS solutions comprehensively. The most effective methods for designing QAS include focusing on syntax and context, utilizing word encoding and knowledge systems, leveraging deep learning, and using elements such as machine learning and artificial intelligence. Going forward, modular designs ought to be encouraged to foster collaboration in the creation of QAS.
+AD  - Fahad Bin Sultan Univ, Dept Comp Sci, Tabuk, Saudi ArabiaAD  - Fahad Bin Sultan Univ, Comp Engn Dept, Tabuk, Saudi ArabiaAD  - Fahad Bin Sultan Univ, Business Adm Dept, Tabuk, Saudi ArabiaC3  - Fahad Bin Sultan UniversityC3  - Fahad Bin Sultan UniversityC3  - Fahad Bin Sultan UniversityPU  - SCIENCE & INFORMATION SAI ORGANIZATION LTD
+PI  - WEST YORKSHIRE
+PA  - 19 BOLLING RD, BRADFORD, WEST YORKSHIRE, 00000, ENGLAND
+SN  - 2158-107X
+SN  - 2156-5570
+J9  - INT J ADV COMPUT SC
+JI  - Int. J. Adv. Comput. Sci. Appl.
+DA  - MAR
+PY  - 2021
+VL  - 12
+IS  - 3
+SP  - 495
+EP  - 502
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:000639020900060
+N1  - Times Cited in Web of Science Core Collection:  3
+Total Times Cited:  3
+Cited Reference Count:  84
+ER  -
+
+TY  - CPAPER
+AU  - Monteleone, M
+ED  - Bekavac, B
+ED  - Kocijan, K
+ED  - Silberztein, M
+ED  - Sojat, K
+TI  - NooJ for Artificial Intelligence: An Anthropic Approach
+T2  - FORMALISING NATURAL LANGUAGES: APPLICATIONS TO NATURAL LANGUAGE PROCESSING AND DIGITAL HUMANITIES, NOOJ 2020
+LA  - English
+CP  - 14th International Conference on Automatic Processing of Natural-Language Electronic Texts with NooJ (NooJ)
+KW  - NooJ
+KW  - NooJ local grammars
+KW  - NooJ FSA/FSTs
+KW  - Artificial Intelligence
+KW  - Natural Language Processing
+KW  - Lexicon-Grammar
+KW  - Machine Learning
+KW  - Question-answering systems
+KW  - Formal Semantics
+KW  - Fuzzy Logic
+KW  - Ontologies
+AB  - Today, Artificial Intelligence (AI) appears as a topic widely referred to for commercial purposes, while from a technical-scientific point of view, it remains of niche interest. Unfortunately, commercial purposes often lead to confusion in defining the functionalities of human-machine interfaces (HMIs), whereas such AI tools should have to efficiently imitate or replace human beings and body parts in specific cognitive tasks. Instead, AI is often defined too vaguely, that is, not from an anthropic point of view, and therefore, it remains quite distant from the human activities it tries to imitate. Today, AI is categorized among the cognitive sciences, i.e., those sciences that call upon computational neuro-biology (particularly neural networks), mathematical logic (as a part of mathematics and philosophy), and computer science.
+AD  - Univ Salerno, Dipartimento Sci Polit & Comunicaz, Fisciano, ItalyC3  - University of SalernoPU  - SPRINGER INTERNATIONAL PUBLISHING AG
+PI  - CHAM
+PA  - GEWERBESTRASSE 11, CHAM, CH-6330, SWITZERLAND
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 978-3-030-70628-9
+SN  - 978-3-030-70629-6
+J9  - COMM COM INF SC
+PY  - 2021
+VL  - 1389
+SP  - 173
+EP  - 184
+DO  - 10.1007/978-3-030-70629-6_15
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)WE  - Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)AN  - WOS:001294555700015
+N1  - Times Cited in Web of Science Core Collection:  2
+Total Times Cited:  2
+Cited Reference Count:  18
+ER  -
+

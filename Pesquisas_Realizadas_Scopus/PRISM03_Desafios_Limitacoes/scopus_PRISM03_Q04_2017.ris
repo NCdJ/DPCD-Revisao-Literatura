@@ -1,0 +1,378 @@
+﻿TY  - JOUR
+AU  - Saberi, B.
+AU  - Saad, S.
+TI  - Sentiment analysis or opinion mining: A review
+PY  - 2017
+T2  - International Journal on Advanced Science, Engineering and Information Technology
+VL  - 7
+IS  - 5
+SP  - 1660
+EP  - 1666
+DO  - 10.18517/ijaseit.7.5.2137
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85032695832&doi=10.18517%2fijaseit.7.5.2137&partnerID=40&md5=69df3f5ca5b35f81bebc444c42240520
+AD  - Centre for Artificial Intelligence Technology (CAIT), Faculty of Information Science and Technology, Universiti Kebangsaan Malaysia (UKM), Bangi, Selangor, 43600, Malaysia
+AB  - Opinion Mining (OM) or Sentiment Analysis (SA) can be defined as the task of detecting, extracting and classifying opinions on something. It is a type of the processing of the natural language (NLP) to track the public mood to a certain law, policy, or marketing, etc. It involves a way that development for the collection and examination of comments and opinions about legislation, laws, policies, etc., which are posted on the social media. The process of information extraction is very important because it is a very useful technique but also a challenging task. That mean, to extract sentiment from an object in the web-wide, need to automate opinion-mining systems to do it. The existing techniques for sentiment analysis include machine learning (supervised and unsupervised), and lexical-based approaches. Hence, the main aim of this paper presents a survey of sentiment analysis (SA) and opinion mining (OM) approaches, various techniques used that related in this field. As well, it discusses the application areas and challenges for sentiment analysis with insight into the past researcher's works.
+KW  - Lexical-based
+KW  - Machine learning
+KW  - NLP
+KW  - Opinion mining
+KW  - Sentiment analysis
+PB  - Insight Society
+SN  - 20885334 (ISSN)
+LA  - English
+J2  - Int. J. Adv. Sci. Eng. Inf. Technol.
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 76
+ER  -
+
+TY  - CONF
+AU  - Fujiki, D.
+AU  - Mahlke, S.
+AU  - Das, R.
+TI  - In-memory Data Flow Processor
+PY  - 2017
+T2  - Parallel Architectures and Compilation Techniques - Conference Proceedings, PACT
+VL  - 2017-September
+SP  - 375
+DO  - 10.1109/PACT.2017.53
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85043589035&doi=10.1109%2fPACT.2017.53&partnerID=40&md5=ec13d0ae9183867cd1b3b026a9ce2322
+AD  - University of Michigan, United States
+AB  - Recent development of Non-Volatile Memories (NVMs) has opened up a new horizon for in-memory computing. By re-purposing memory structures, certain NVMs have been shown to have in-situ analog computation capability. For example, resistive memories (ReRAMs) store the data in the form of resistance of titanium oxides, and by injecting voltage into the word line and sensing the resultant current on the bit-line, we obtain the dot-product of the input voltages and cell conductances using Kirchhoff's law. Recent works have explored the design space of ReRAM based accelerators for machine learning algorithms by leveraging this dot-product functionality [2]. These ReRAM based accelerators exploit the massive parallelism and relaxed precision requirements, to provide orders of magnitude improvement when compared to current CPU/GPU architectures and custom ASICs, inspite of their high read/write latency. Despite the significant performance gain offered by computational NVMs, previous works have relied on manual mapping of workloads to the memory arrays, making it difficult to configure it for new workloads. We combat this problem by proposing a programmable inmemory processor architecture and programming framework. The architecture consists of memory arrays grouped in tiles, and a custom interconnect to facilitate communication between the arrays. Each array acts as unit of storage as well as processing element. The proposed in-memory processor architecture is simple. The key challenge is developing a programming framework and a rich ISA which can allow diverse data-parallel programs to leverage the underlying computational efficiency. The efficiency of the proposed in-memory processor comes from two sources. First, massive parallelism. NVMs are composed of several thousands of arrays. Each of these arrays are transformed into ALUs which can compute concurrently. Second, reduction in data movement, by avoiding shuffling of data between memory and processor cores. Our goal is to establish the programming semantics and execution models to expose the above benefits of ReRAM computing to general purpose data parallel programs. The proposed programming framework seeks to expose the underling parallelism in the hardware by merging the concepts of data-flow and vector processing (or SIMD). Data-flow explicitly exposes the Instruction Level Parallelism (ILP) in the programs, while vector processing exposes the Data Level Parallelism (DLP) in programs. Google's TensorFlow [1] is a popular programming model for machine learning. We observe that TensorFlow's programming semantics is a perfect marriage of data-flow and vector-processing. Thus, our proposed programming framework starts by requiring the programmers to write programs in TensorFlow. We develop a TensorFlow compiler that generates binary code for our in-memory data-flow processor. The TensorFlow (TF) programs are essentially Data Flow Graphs (DFG) where each operator node can have tensors as operands. A DFG which operates on one element of a vector is referred to as a module by the compiler. The compiler transforms input DFG into a collection data-parallel modules. Modules which operate on same vectors belong to an Instruction Block (IB), and are run concurrently on memory arrays. Our compiler explores several interesting optimizations such as unrolling of high-dimensional tensors, maximizing ILP within a module, pipelining memory reads and writes, and minimizing communication between arrays. To create a programmable in-memory processor, we argue that variety of computation primitives need to be implemented by exploiting the analog computation capability of the ReRAM arrays. Thus we develop a general purpose ISA and design an memory array architecture which can support diverse operations. For instance, we show how to efficiently implement complex operations (such as division, transcendental functions, element-wise vector multiplication, etc) by using analog primitives in ReRAM memory arrays. Furthermore, we discuss efficient network/memory co-design for reduction operations, and scatter/gather operations. In summary, this poster we will present a programming framework, compiler, ISA, and architecture of our proposed general purpose in-memory data flow processor built out of resistive compute memories. Figure X shows our overall framework. We will also present our experimental results across micro-benchmarks and real-world benchmarks from PARSEC and Rodinia. Initial results demonstrate ∼800x and ∼100x speedup when compared to multi-core and GPU execution. © 2017 IEEE.
+KW  - Compiler
+KW  - Dataflow architecture
+KW  - In-memory computing
+KW  - Non-volatile memory
+KW  - Analog computers
+KW  - Array processing
+KW  - Artificial intelligence
+KW  - Computational efficiency
+KW  - Computer architecture
+KW  - Data flow analysis
+KW  - Data handling
+KW  - Data storage equipment
+KW  - Data transfer
+KW  - Digital storage
+KW  - Efficiency
+KW  - Embedded systems
+KW  - Flow graphs
+KW  - Graphic methods
+KW  - Inductive logic programming (ILP)
+KW  - Integrated circuit design
+KW  - Learning algorithms
+KW  - Learning systems
+KW  - Memory architecture
+KW  - Network architecture
+KW  - Parallel architectures
+KW  - Parallel processing systems
+KW  - Product design
+KW  - Program compilers
+KW  - RRAM
+KW  - Semantics
+KW  - Tensors
+KW  - Titanium oxides
+KW  - Vectors
+KW  - Compiler
+KW  - Data-flow architectures
+KW  - Data-level parallelism
+KW  - Instruction level parallelism
+KW  - Memory array architecture
+KW  - Non-volatile memory
+KW  - Processor architectures
+KW  - Transcendental functions
+KW  - Data flow graphs
+PB  - Institute of Electrical and Electronics Engineers Inc.
+SN  - 1089795X (ISSN); 978-146739524-3 (ISBN)
+LA  - English
+J2  - Parallel Archit Compil Tech Conf Proc
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 7; Conference name: 26th International Conference on Parallel Architectures and Compilation Techniques, PACT 2017; Conference date: 9 September 2017 through 13 September 2017; Conference code: 133894
+ER  -
+
+TY  - CONF
+AU  - Aimone, J.B.
+AU  - Parekh, O.
+AU  - Severa, W.
+TI  - Neural computing for scientific computing applications
+PY  - 2017
+T2  - ACM International Conference Proceeding Series
+VL  - 2017-July
+C7  - a7
+DO  - 10.1145/3183584.3183618
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85047005921&doi=10.1145%2f3183584.3183618&partnerID=40&md5=7101b72cc0922edcf088fb430a8e6d2b
+AD  - Center for Computing Research Sandia National Laboratories, P.O. Box 5800, Albuquerque, 87185-1327, NM, United States
+AB  - Neural computing has been identified as a computing alternative in the post-Moore's Law era, however much of its attention has been directed at specialized applications such as machine learning. For scientific computing applications, particularly those that often depend on supercomputing, it is not clear that neural machine learning is the exclusive contribution to be made by neuromorphic platforms. In our presentation, we will discuss ways that looking to the brain as a whole and neurons specifically can provide new sources for inspiration for computing beyond current machine learning applications. Particularly for scientific computing, where approximate methods for computation introduce additional challenges, the development of non-approximate methods for neural computation is potentially quite valuable. In addition, the brain's dramatic ability to utilize context at many different scales and incorporate information from many different modalities is a capability currently poorly realized by neural machine learning approaches yet offers considerable potential impact on scientific applications. © 2017 Association for Computing Machinery.
+KW  - Brain
+KW  - High Performance Computing
+KW  - Neuromorphic Computing
+KW  - Scientific Computing
+KW  - Approximation theory
+KW  - Artificial intelligence
+KW  - Brain
+KW  - Natural sciences computing
+KW  - Approximate methods
+KW  - High performance computing
+KW  - Machine learning applications
+KW  - Machine learning approaches
+KW  - Neural computations
+KW  - Neuromorphic computing
+KW  - Scientific applications
+KW  - Scientific computing applications
+KW  - Learning systems
+PB  - Association for Computing Machinery
+SN  - 978-145036442-3 (ISBN)
+LA  - English
+J2  - ACM Int. Conf. Proc. Ser.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 2; Conference name: 2017 Neuromorphic Computing Symposium, NCS 2017; Conference date: 17 July 2017 through 19 July 2017; Conference code: 136133
+ER  -
+
+TY  - JOUR
+AU  - Kroll, J.A.
+AU  - Huey, J.
+AU  - Barocas, S.
+AU  - Felten, E.W.
+AU  - Reidenberg, J.R.
+AU  - Robinson, D.G.
+AU  - Yu, H.
+TI  - Accountable algorithms
+PY  - 2017
+T2  - University of Pennsylvania Law Review
+VL  - 165
+IS  - 3
+SP  - 633
+EP  - 705
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85012962597&partnerID=40&md5=648224f63df96b351aba9b8513682b88
+AD  - Center for Information Technology Policy, Princeton, United States
+AD  - Fordham Law School, United States
+AD  - Yale Law School, United States
+AD  - Stanford Center for Internet and Society, United States
+AB  - Many important decisions historically made by people are now made by computers. Algorithms count votes, approve loan and credit card applications, target citizens or neighborhoods for police scrutiny, select taxpayers for IRS audit, grant or deny immigration visas, and more. The accountability mechanisms and legal standards that govern such decision processes have not kept pace with technology. The tools currently available to policymakers, legislators, and courts were developed to oversee human decisionmakers and often fail when applied to computers instead. For example, how do you judge the intent of a piece of software? Because automated decision systems can return potentially incorrect, unjustified, or unfair results, additional approaches are needed to make such systems accountable and governable. This Article reveals a new technological toolkit to verify that automated decisions comply with key standards of legal fairness. We challenge the dominant position in the legal literature that transparency will solve these problems. Disclosure of source code is often neither necessary (because of alternative techniques from computer science) nor sufficient (because of the issues analyzing code) to demonstrate the fairness of a process. Furthermore, transparency may be undesirable, such as when it discloses private information or permits tax cheats or terrorists to game the systems determining audits or security screening. The central issue is how to assure the interests of citizens, and society as a whole, in making these processes more accountable. This Article argues that technology is creating new opportunities-subtler and more flexible than total transparency-to design decisionmaking algorithms so that they better align with legal and policy objectives. Doing so will improve not only the current governance of automated decisions, but also-in certain cases-the governance of decisionmaking in general. The implicit (or explicit) biases of human decisionmakers can be difficult to find and root out, but we can peer into the "brain" of an algorithm: computational processes and purpose specifications can be declared prior to use and verified afterward. The technological tools introduced in this Article apply widely. They can be used in designing decisionmaking processes from both the private and public sectors, and they can be tailored to verify different characteristics as desired by decisionmakers, regulators, or the public. By forcing a more careful consideration of the effects of decision rules, they also engender policy discussions and closer looks at legal standards. As such, these tools have far-reaching implications throughout law and society. Part I of this Article provides an accessible and concise introduction to foundational computer science techniques that can be used to verify and demonstrate compliance with key standards of legal fairness for automated decisions without revealing key attributes of the decisions or the processes by which the decisions were reached. Part II then describes how these techniques can assure that decisions are made with the key governance attribute of procedural regularity, meaning that decisions are made under an announced set of rules consistently applied in each case. We demonstrate how this approach could be used to redesign and resolve issues with the State Department's diversity visa lottery. In Part III, we go further and explore how other computational techniques can assure that automated decisions preserve fidelity to substantive legal and policy choices. We show how these tools may be used to assure that certain kinds of unjust discrimination are avoided and that automated decision processes behave in ways that comport with the social or legal standards that govern the decision. We also show how automated decisionmaking may even complicate existing doctrines of disparate treatment and disparate impact, and we discuss some recent computer science work on detecting and removing discrimination in algorithms, especially in the context of big data and machine learning. © 2017 University of Pennsylvania Law Review.astly, in Part IV, we propose an agenda to further synergistic collaboration between computer science, law, and policy to advance the design of automated decision processes for accountability.
+PB  - University of Pennsylvania Law School
+SN  - 00419907 (ISSN)
+LA  - English
+J2  - Univ. Pa. Law Rev.
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 481
+ER  -
+
+TY  - JOUR
+AU  - Kuner, C.
+AU  - Svantesson, D.J.B.
+AU  - Cate, F.H.
+AU  - Lynskey, O.
+AU  - Millard, C.
+TI  - Machine learning with personal data: Is data protection law smart enough to meet the challenge?
+PY  - 2017
+T2  - International Data Privacy Law
+VL  - 7
+IS  - 1
+SP  - 1
+EP  - 2
+DO  - 10.1093/idpl/ipx003
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85042396551&doi=10.1093%2fidpl%2fipx003&partnerID=40&md5=5f7b3bdca2f670576347c3040395353e
+PB  - Oxford University Press
+SN  - 20443994 (ISSN)
+LA  - English
+J2  - Int. Data Privacy Law
+M3  - Editorial
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 41
+ER  -
+
+TY  - JOUR
+AU  - Moran, N.
+AU  - Nieland, S.
+AU  - Tintrup gen. Suntrup, G.
+AU  - Kleinschmit, B.
+TI  - Combining machine learning and ontological data handling for multi-source classification of nature conservation areas
+PY  - 2017
+T2  - International Journal of Applied Earth Observation and Geoinformation
+VL  - 54
+SP  - 124
+EP  - 133
+DO  - 10.1016/j.jag.2016.09.009
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85018650582&doi=10.1016%2fj.jag.2016.09.009&partnerID=40&md5=e3f162af5cee28a5c9ddba6794285f56
+AD  - Geoinformation in Environmental Planning Lab, Technische Universität Berlin, Straße des 17. Juni 145, Berlin, 10623, Germany
+AD  - Dept. Environmental Systems, RLP AgroScience – Institute for Agroecology, Breitenweg 71, Neustadt, 67435, Germany
+AB  - Manual field surveys for nature conservation management are expensive and time-consuming and could be supplemented and streamlined by using Remote Sensing (RS). RS is critical to meet requirements of existing laws such as the EU Habitats Directive (HabDir) and more importantly to meet future challenges. The full potential of RS has yet to be harnessed as different nomenclatures and procedures hinder interoperability, comparison and provenance. Therefore, automated tools are needed to use RS data to produce comparable, empirical data outputs that lend themselves to data discovery and provenance. These issues are addressed by a novel, semi-automatic ontology-based classification method that uses machine learning algorithms and Web Ontology Language (OWL) ontologies that yields traceable, interoperable and observation-based classification outputs. The method was tested on European Union Nature Information System (EUNIS) grasslands in Rheinland-Palatinate, Germany. The developed methodology is a first step in developing observation-based ontologies in the field of nature conservation. The tests show promising results for the determination of the grassland indicators wetness and alkalinity with an overall accuracy of 85% for alkalinity and 76% for wetness. © 2016 Elsevier B.V.
+KW  - Biotope classification
+KW  - EUNIS
+KW  - GEOBIA
+KW  - Grasslands
+KW  - Machine learning
+KW  - Nature conservation
+KW  - Ontology
+KW  - OWL
+KW  - Remote sensing
+KW  - Germany
+KW  - Rhineland-Palatinate
+KW  - artificial intelligence
+KW  - biotope
+KW  - conservation management
+KW  - data processing
+KW  - grassland
+KW  - image classification
+KW  - nature conservation
+KW  - remote sensing
+PB  - Elsevier B.V.
+SN  - 15698432 (ISSN)
+LA  - English
+J2  - Int. J. Appl. Earth Obs. Geoinformation
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 16; Correspondence Address: N. Moran; Geoinformation in Environmental Planning Lab, Technische Universität Berlin, Berlin, Straße des 17. Juni 145, 10623, Germany; email: niklas@niklasmoran.com
+ER  -
+
+TY  - JOUR
+AU  - Pramanik, M.I.
+AU  - Lau, R.Y.K.
+AU  - Yue, W.T.
+AU  - Ye, Y.
+AU  - Li, C.
+TI  - Big data analytics for security and criminal investigations
+PY  - 2017
+T2  - Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery
+VL  - 7
+IS  - 4
+C7  - e1208
+DO  - 10.1002/widm.1208
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85019062819&doi=10.1002%2fwidm.1208&partnerID=40&md5=5fdc44f8f25710627978bbced112b51e
+AD  - Department of Information Systems, College of Business, City University of Hong Kong, Hong Kong
+AD  - Shenzhen Graduate School, Harbin Institute of Technology, Shenzhen, China
+AD  - School of Software, Tsinghua University, Beijing, China
+AB  - Applications of various data analytics technologies to security and criminal investigation during the past three decades have demonstrated the inception, growth, and maturation of criminal analytics. We first identify five cutting-edge data mining technologies such as link analysis, intelligent agents, text mining, neural networks, and machine learning. Then, we explore their recent applications to the criminal analytics domain, and discuss the challenges arising from these innovative applications. We also extend our study to big data analytics which provides some state-of-the-art technologies to reshape criminal investigations. In this paper, we review the recent literature, and examine the potentials of big data analytics for security intelligence under a criminal analytics framework. We examine some common data sources, analytics methods, and applications related to two important aspects of social network analysis namely, structural analysis and positional analysis that lay the foundation of criminal analytics. Another contribution of this paper is that we also advocate a novel criminal analytics methodology that is underpinned by big data analytics. We discuss the merits and challenges of applying big data analytics to the criminal analytics domain. Finally, we highlight the future research directions of big data analytics enhanced criminal investigations. WIREs Data Mining Knowl Discov 2017, 7:e1208. doi: 10.1002/widm.1208. For further resources related to this article, please visit the WIREs website. © 2017 John Wiley & Sons, Ltd
+KW  - Crime
+KW  - Data mining
+KW  - Intelligent agents
+KW  - Law enforcement
+KW  - Learning systems
+KW  - Common datum
+KW  - Criminal investigation
+KW  - Cutting edges
+KW  - Data analytics
+KW  - Future research directions
+KW  - Positional analysis
+KW  - State-of-the-art technology
+KW  - Text mining
+KW  - Big data
+PB  - Wiley-Blackwell
+SN  - 19424787 (ISSN)
+LA  - English
+J2  - Wiley Interdiscip. Rev. Data Min. Knowl. Discov.
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 45; Correspondence Address: M.I. Pramanik; Department of Information Systems, College of Business, City University of Hong Kong, Hong Kong; email: mpramanik2-c@my.cityu.edu.hk
+ER  -
+
+TY  - JOUR
+AU  - Ezrachi, A.
+AU  - Stucke, M.E.
+TI  - Artificial intelligence & collusion: When computers inhibit competition
+PY  - 2017
+T2  - University of Illinois Law Review
+VL  - 2017
+IS  - 5
+SP  - 1775
+EP  - 1810
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85016103040&partnerID=40&md5=bf7b9124272dea42ebb9fada676ef390
+AD  - University of Oxford, United Kingdom
+AD  - Oxford University Centre for Competition Law and Policy, United Kingdom
+AD  - University of Tennessee College of Law, United States
+AD  - Data Competition Institute, United States
+AB  - The development of self-learning and independent computers has long captured our imagination. The HAL 9000 computer, in the 1968 film, 2001: A Space Odyssey, for example, assured, "I am putting myself to the fullest possible use, which is all I think that any conscious entity can ever hope to do." Machine learning raises many challenging legal and ethical questions as to the relationship between man and machine, humans' control - or lack of it - over machines, and accountability for machine activities. While these issues have long captivated our interest, few would envision the day when these developments (and the legal and ethical challenges raised by them) would become an antitrust issue. Sophisticated computers are central to the competitiveness of present and future markets. With the accelerating development of AI, they are set to change the competitive landscape and the nature of competitive restraints. As pricing mechanisms shift to computer pricing algorithms, so too will the types of collusion. We are shifting from the world where executives expressly collude in smoke-filled hotel rooms to a world where pricing algorithms continually monitor and adjust to each other's prices and market data. Our paper addresses these developments and considers the application of competition law to an advanced "computerised trade environment." After discussing the way in which computerised technology is changing the competitive landscape, we explore four scenarios where AI can foster anticompetitive collusion and the legal and ethical challenges each scenario raises.
+PB  - University of Illinois College of Law
+SN  - 02769948 (ISSN)
+LA  - English
+J2  - Univ. Ill. Law Rev.
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 78
+ER  -
+
+TY  - JOUR
+AU  - Chmiela, S.
+AU  - Tkatchenko, A.
+AU  - Sauceda, H.E.
+AU  - Poltavsky, I.
+AU  - Schütt, K.T.
+AU  - Müller, K.-R.
+TI  - Machine learning of accurate energy-conserving molecular force fields
+PY  - 2017
+T2  - Science Advances
+VL  - 3
+IS  - 5
+C7  - e1603015
+DO  - 10.1126/sciadv.1603015
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85041381183&doi=10.1126%2fsciadv.1603015&partnerID=40&md5=1208931568fc6c2799460221ab23ed3c
+AD  - Machine Learning Group, Technische Universität Berlin, Berlin, 10587, Germany
+AD  - Physics and Materials Science Research Unit, University of Luxembourg, Luxembourg, L-1511, Luxembourg
+AD  - Fritz-Haber-Institut der Max-Planck-Gesellschaft, Berlin, 14195, Germany
+AD  - Department of Brain and Cognitive Engineering, Korea University, Anam-dong, Seongbuk-gu, Seoul, 136-713, South Korea
+AD  - Max Planck Institute for Informatics, Stuhlsatzenhausweg, Saarbrücken, 66123, Germany
+AB  - Using conservation of energy-a fundamental property of closed classical and quantum mechanical systems-we develop an efficient gradient-domain machine learning (GDML) approach to construct accurate molecular force fields using a restricted number of samples from ab initio molecular dynamics (AIMD) trajectories. The GDML implementation is able to reproduce global potential energy surfaces of intermediate-sized molecules with an accuracy of 0.3 kcal mol-1 for energies and 1 kcal mol-1 Å-1 for atomic forces using only 1000 conformational geometries for training. We demonstrate this accuracy for AIMD trajectories of molecules, including benzene, toluene, naphthalene, ethanol, uracil, and aspirin. The challenge of constructing conservative force fields is accomplished in our work by learning in a Hilbert space of vector-valued functions that obey the law of energy conservation. The GDML approach enables quantitative molecular dynamics simulations for molecules at a fraction of cost of explicit AIMD calculations, thereby allowing the construction of efficient force fields with the accuracy and transferability of high-level ab initio methods. 2017 © The Authors, some rights reserved;.
+KW  - Artificial intelligence
+KW  - Calculations
+KW  - Learning systems
+KW  - Molecular dynamics
+KW  - Molecules
+KW  - Naphthalene
+KW  - Potential energy
+KW  - Quantum chemistry
+KW  - Quantum theory
+KW  - Vector spaces
+KW  - Vectors
+KW  - Ab initio molecular dynamics
+KW  - Conservation of energy
+KW  - Fundamental properties
+KW  - Global potential energy surfaces
+KW  - Law of energy conservation
+KW  - Molecular dynamics simulations
+KW  - Quantum-mechanical system
+KW  - Vector-valued function
+KW  - Energy conservation
+PB  - American Association for the Advancement of Science
+SN  - 23752548 (ISSN)
+C2  - 28508076
+LA  - English
+J2  - Sci. Adv.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 842; Correspondence Address: A. Tkatchenko; Physics and Materials Science Research Unit, University of Luxembourg, Luxembourg, L-1511, Luxembourg; email: alexandre.tkatchenko@uni.lu
+ER  -
+
+TY  - CONF
+AU  - Stewart, R.
+AU  - Ermon, S.
+TI  - Label-free supervision of neural networks with physics and domain knowledge
+PY  - 2017
+T2  - 31st AAAI Conference on Artificial Intelligence, AAAI 2017
+SP  - 2576
+EP  - 2582
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85030467939&partnerID=40&md5=aef153252b2838334b73a0c6796c1064
+AD  - Department of Computer Science, Stanford University, United States
+AB  - In many machine learning applications, labeled data is scarce and obtaining more labels is expensive. We introduce a new approach to supervising neural networks by specifying constraints that should hold over the output space, rather than direct examples of input-output pairs. These constraints are derived from prior domain knowledge, e.g., from known laws of physics. We demonstrate the effectiveness of this approach on real world and simulated computer vision tasks. We are able to train a convolutional neural network to detect and track objects without any labeled examples. Our approach can significantly reduce the need for labeled training data, but introduces new challenges for encoding prior knowledge into appropriate loss functions. © Copyright 2017, Association for the Advancement of Artificial Intelligence (www.aaai.org). All rights reserved.
+KW  - Learning algorithms
+KW  - Learning systems
+KW  - Neural networks
+KW  - Object detection
+KW  - Convolutional neural network
+KW  - Domain knowledge
+KW  - Labeled training data
+KW  - Laws of physics
+KW  - Loss functions
+KW  - Machine learning applications
+KW  - New approaches
+KW  - Prior knowledge
+KW  - Artificial intelligence
+PB  - AAAI press
+LA  - English
+J2  - AAAI Conf. Artif. Intell., AAAI
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 201; Conference name: 31st AAAI Conference on Artificial Intelligence, AAAI 2017; Conference date: 4 February 2017 through 10 February 2017; Conference code: 130407
+ER  -
+

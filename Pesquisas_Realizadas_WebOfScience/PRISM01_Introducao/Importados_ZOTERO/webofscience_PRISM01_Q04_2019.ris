@@ -1,0 +1,300 @@
+﻿TY  - JOUR
+AU  - Deeks, A
+TI  - THE JUDICIAL DEMAND FOR EXPLAINABLE ARTIFICIAL INTELLIGENCE
+T2  - COLUMBIA LAW REVIEW
+LA  - English
+KW  - COMMON-LAW
+KW  - DECISION-MAKING
+KW  - EXPLANATION
+KW  - AUTOMATION
+KW  - BIAS
+AB  - A recurrent concern about machine learning algorithms is that they operate as "black boxes," making it difficult to identify how and why the algorithms reach particular decisions, recommendations, or predictions. Yet judges are confronting machine learning algorithms with increasing frequency, including in criminal, administrative, and civil cases. This Essay argues that judges should demand explanations for these algorithmic outcomes. One way to address the "black box" problem is to design systems that explain how the algorithms reach their conclusions or predic lions. If and as judges demand these explanations, they will play a seminal role in shaping the nature and form of "explainable AI" (xAI). Using the tools of the common law, courts can develop what xAI should mean in different legal contexts. There are advantages to having courts to play this role: Judicial reasoning that builds from the bottom up, using case-by-case consideration of the facts to produce nuanced decisions, is a pragmatic way to develop rules for xAI. Further, courts are likely to stimulate the production of different forms of xAI that are responsive to distinct legal settings and audiences. More generally, we should favor the greater involvement of public actors in shaping xAI, which to date has largely been left in private hands.
+AD  - Univ Virginia, Law, Law Sch, Charlottesville, VA 22903 USAC3  - University of VirginiaPU  - COLUMBIA JOURNAL TRANSNATIONAL LAW ASSOC
+PI  - NEW YORK
+PA  - COLUMBIA UNIV, SCHOOL LAW, 435 W 116TH ST, NEW YORK, NY 10027 USA
+SN  - 0010-1958
+SN  - 1945-2268
+J9  - COLUMBIA LAW REV
+JI  - Columbia Law Rev.
+DA  - NOV
+PY  - 2019
+VL  - 119
+IS  - 7
+SP  - 1829
+EP  - 1850
+WE  - Social Science Citation Index (SSCI)AN  - WOS:000505471500006
+N1  - Times Cited in Web of Science Core Collection:  103
+Total Times Cited:  112
+Cited Reference Count:  86
+ER  -
+
+TY  - JOUR
+AU  - Engin, Z
+AU  - Treleaven, P
+TI  - Algorithmic Government: Automating Public Services and Supporting Civil Servants in using Data Science Technologies
+T2  - COMPUTER JOURNAL
+LA  - English
+KW  - data science
+KW  - government
+KW  - artificial intelligence
+KW  - blockchain
+KW  - Internet of Things
+KW  - big data
+KW  - BIG DATA
+AB  - The data science technologies of artificial intelligence (AI), Internet of Things (IoT), big data and behavioral/predictive analytics, and blockchain are poised to revolutionize government and create a new generation of GovTech start-ups. The impact from the smartification' of public services and the national infrastructure will be much more significant in comparison to any other sector given government's function and importance to every institution and individual. Potential GovTech systems include Chatbots and intelligent assistants for public engagement, Robo-advisors to support civil servants, real-time management of the national infrastructure using IoT and blockchain, automated compliance/regulation, public records securely stored in blockchain distributed ledgers, online judicial and dispute resolution systems, and laws/statutes encoded as blockchain smart contracts. Government is potentially the major client' and also public champion' for these new data technologies. This review paper uses our simple taxonomy of government services to provide an overview of data science automation being deployed by governments world-wide. The goal of this review paper is to encourage the Computer Science community to engage with government to develop these new systems to transform public services and support the work of civil servants.
+AD  - UCL, Dept Comp Sci, London, EnglandC3  - University of LondonC3  - University College LondonFU  - Engineering and Physical Sciences Research Council (EPSRC) through the UK Regions Digital Research Facility (UK RDRF) project [EP/M023583/1]; EPSRC Impact Acceleration Account Award [EP/K503745/1]; EPSRC [EP/M023583/1] Funding Source: UKRI
+FX  - The authors received funding from the Engineering and Physical Sciences Research Council (EPSRC) through the UK Regions Digital Research Facility (UK RDRF) project (EP/M023583/1) and from the EPSRC Impact Acceleration Account Award to University College London (UCL) 2015-17 (EP/K503745/1).
+PU  - OXFORD UNIV PRESS
+PI  - OXFORD
+PA  - GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+SN  - 0010-4620
+SN  - 1460-2067
+J9  - COMPUT J
+JI  - Comput. J.
+DA  - MAR
+PY  - 2019
+VL  - 62
+IS  - 3
+SP  - 448
+EP  - 460
+DO  - 10.1093/comjnl/bxy082
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000467228900009
+N1  - Times Cited in Web of Science Core Collection:  97
+Total Times Cited:  101
+Cited Reference Count:  67
+ER  -
+
+TY  - JOUR
+AU  - Horowitz, MC
+TI  - When speed kills: Lethal autonomous weapon systems, deterrence and stability
+T2  - JOURNAL OF STRATEGIC STUDIES
+LA  - English
+KW  - Robotics
+KW  - arms races
+KW  - automation
+KW  - warfare
+KW  - deterrence
+KW  - crisis stability
+KW  - STRATEGIC STABILITY
+KW  - ARMS-CONTROL
+KW  - TECHNOLOGIES
+KW  - CRISIS
+KW  - DEBATE
+AB  - While the applications of artificial intelligence (AI) for militaries are broad, lethal autonomous weapon systems (LAWS) represent one possible usage of narrow AI by militaries. Research and development on LAWS by major powers, middle powers and non-state actors makes exploring the consequences for the security environment a crucial task. This article draws on classic research in security studies and examples from military history to assess the potential development and deployment of LAWS, as well as how they could influence arms races, the stability of deterrence, including strategic stability, the risk of crisis instability and wartime escalation. It focuses on these questions through the lens of two characteristics of LAWS: the potential for increased operational speed and the potential for decreased human control over battlefield choices. It also examines how these issues interact with the large uncertainty parameter associated with potential AI-based military capabilities at present, both in terms of the range of the possible and the opacity of their programming.
+AD  - Univ Penn, Polit Sci, Philadelphia, PA 19104 USAC3  - University of PennsylvaniaFU  - Carnegie Corporation of New York
+FX  - This research was supported, in part, by a grant from Carnegie Corporation of New York.
+PU  - ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI  - ABINGDON
+PA  - 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN  - 0140-2390
+SN  - 1743-937X
+J9  - J STRATEGIC STUD
+JI  - J. Strateg. Stud.
+DA  - SEP 19
+PY  - 2019
+VL  - 42
+IS  - 6
+SP  - 764
+EP  - 788
+DO  - 10.1080/01402390.2019.1621174
+WE  - Social Science Citation Index (SSCI)AN  - WOS:000482411600004
+N1  - Times Cited in Web of Science Core Collection:  58
+Total Times Cited:  63
+Cited Reference Count:  66
+ER  -
+
+TY  - JOUR
+AU  - Narain, K
+AU  - Swami, A
+AU  - Srivastava, A
+AU  - Swami, S
+TI  - Evolution and control of artificial superintelligence (ASI): a management perspective
+T2  - JOURNAL OF ADVANCES IN MANAGEMENT RESEARCH
+LA  - English
+KW  - Control
+KW  - Dynamic modelling
+KW  - Evolution
+KW  - Superintelligence
+KW  - PERCEIVED EASE
+KW  - DIFFUSION
+KW  - MODEL
+KW  - PREY
+KW  - ACCEPTANCE
+AB  - Purpose The purpose of this paper is to address both the evolutionary and control aspects associated with the management of artificial superintelligence. Through empirical analysis, the authors examine the diffusion pattern of those high technologies that can be considered as forerunners to the adoption of artificial superintelligence (ASI). Design/methodology/approach The evolutionary perspective is divided into three parts, based on major developments in this area, namely, robotics, automation and artificial intelligence (AI). The authors then provide several dynamic models of the possible future evolution of superintelligence. These include diffusion modeling, predator-prey models and hostility models. The problem of control in superintelligence is reviewed next, where the authors discuss Asimov's Laws and IEEE initiative. The authors also provide an empirical analysis of the application of diffusion modeling to three technologies from the industries of manufacturing, communication and energy, which can be considered as potential precursors to the evolution of the field of ASI. The authors conclude with a case study illustrating emerging solutions in the form of long-term social experiments to address the problem of control in superintelligence. Findings The results from the empirical analysis of the manufacturing, communication and energy sectors suggest that the technology diffusion model fits well with the data of robotics, telecom and solar installations till date. The results suggest a gradual diffusion process, like any other high technology. Thus, there appears to be no threat of "existential catastrophe" (Bostrom, 2014). The case study indicates that any future threat can be pre-empted by some long-term social measures. Originality/value This paper contributes to the emerging stream of artificial superintelligence. As humanity comes closer to grappling with the important question of the management and control of this technology for the future, it is important that modeling efforts be made to understand the extant perspective of the development of the high-technology diffusion. Presently, there are relatively few such efforts available in the literature.
+AD  - Tata Consultancy Serv, New Delhi, IndiaAD  - Dayalbagh Educ Inst, Fac Engn, Elect Engn, Agra, Uttar Pradesh, IndiaAD  - Indian Railways, RPF, New Delhi, IndiaAD  - Dayalbagh Educ Inst, Dept Management, Agra, Uttar Pradesh, IndiaC3  - Tata SonsC3  - Tata Consultancy Services Limited (TCS)C3  - Dayalbagh Educational Institute (DEI)C3  - Dayalbagh Educational Institute (DEI)PU  - EMERALD GROUP PUBLISHING LTD
+PI  - BINGLEY
+PA  - HOWARD HOUSE, WAGON LANE, BINGLEY BD16 1WA, W YORKSHIRE, ENGLAND
+SN  - 0972-7981
+SN  - 2049-3207
+J9  - J ADV MANAG RES
+JI  - J. Adv. Manag. Res.
+DA  - NOV 21
+PY  - 2019
+VL  - 16
+IS  - 5
+SP  - 698
+EP  - 714
+DO  - 10.1108/JAMR-01-2019-0006
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:000497604800004
+N1  - Times Cited in Web of Science Core Collection:  7
+Total Times Cited:  7
+Cited Reference Count:  30
+ER  -
+
+TY  - JOUR
+AU  - Rodin, L
+TI  - Robo-Revolution: A Marxist Approach o Social Uprising in the High-Tech Age
+T2  - SOCIOLOGICESKOE OBOZRENIE
+LA  - English
+KW  - humanoid robots
+KW  - artificial intelligence (AI)
+KW  - technological singularity
+KW  - trans-humanism
+KW  - alienation
+KW  - The Law of the Tendency of the Rate to Profit to Fall
+KW  - LABOR
+AB  - With the increasing role of technological agents in contemporary society, questions surrounding the future of socio-economic organization are intensely debated. A variety of predictions have been made, ranging from conservative views that emphasize the gradual integration of techno-actors into human social collectives to radical outlooks that assume the inevitability of a dramatic historic break This study employs the method of simulation, exploring the ongoing path towards automation with the help of classical Marxism. It seeks to understand whether robots and artificial intelligence (AI) might become new value producers and a revolutionary social class. As demonstrated, the continuity of capitalist relationships may facilitate the formation of new social groups and recast class-based political agendas.
+AD  - Univ Skovde, Social Psychol, Box 408, S-54128 Hogskolan I Skovde, SwedenC3  - University of SkovdePU  - NATL RESEARCH UNIV HIGHER SCH ECONOMICS
+PI  - MOSCOW
+PA  - SHABOLOVKA, 26, MOSCOW, 119049, RUSSIA
+SN  - 1728-192X
+SN  - 1728-1938
+J9  - SOCIOL OBOZR
+JI  - Sociol. Obozr.
+PY  - 2019
+VL  - 18
+IS  - 3
+SP  - 224
+EP  - 244
+DO  - 10.17323/1728-192X-2019-3-224-244
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:000488305800008
+N1  - Times Cited in Web of Science Core Collection:  5
+Total Times Cited:  6
+Cited Reference Count:  84
+ER  -
+
+TY  - JOUR
+AU  - Rogers, J
+AU  - Bell, F
+TI  - The Ethical AI Lawyer: What is Required of Lawyers When They Use Automated Systems?
+T2  - LAW TECHNOLOGY AND HUMANS
+LA  - English
+KW  - Lawyers
+KW  - legal practice
+KW  - professional ethics
+KW  - Artificial Intelligence
+KW  - AI
+KW  - DEFINING ISSUES TEST
+KW  - LEGAL PROFESSION
+KW  - TECHNOLOGY
+KW  - SERVICES
+KW  - FUTURE
+KW  - VALUES
+KW  - FIRMS
+KW  - WORK
+AB  - This article focuses on individual lawyers' responsible use of artificial intelligence (AI) in their practice. More specifically, it examines the ways in which a lawyer's ethical capabilities and motivations are tested by the rapid growth of automated systems, both to identify the ethical risks posed by AI tools in legal services, and to uncover what is required of lawyers when they use this technology. To do so, we use psychologist James Rest's Four-component Model of Morality (FCM), which represents the necessary elements for lawyers to engage in professional conduct when utilising AL We examine issues associated with automation that most seriously challenge each component in context, as well as the skills and resolve lawyers need to adhere to their ethical duties. Importantly, this approach is grounded in social psychology. That is, by looking at human 'thinking and doing' (i.e., lawyers' motivations and capacity when using AI), this offers a different, complementary perspective to the typical, legislative approach in which the law is analysed for regulatory gaps.
+AD  - Univ New South Wales, Kensington, NSW, AustraliaC3  - University of New South Wales SydneyFU  - Law Society of New South Wales (NSW) FLIP Research Stream at UNSW Law
+FX  - This research was undertaken with the support of the Law Society of New South Wales (NSW) FLIP Research Stream at UNSW Law. The authors would like to thank the five anonymous reviewers for their thoughtful comments and Deborah Hartstein for her research assistance.
+PU  - QUEENSLAND UNIV TECHNOLOGY
+PI  - BRISBANE
+PA  - GPO  BOX 2434, BRISBANE, QLD 4001, AUSTRALIA
+SN  - 2652-4074
+J9  - LAW TECHNOL HUMANS
+JI  - Law Technol. Humans
+PY  - 2019
+VL  - 1
+IS  - 1
+SP  - 80
+EP  - 99
+DO  - 10.5204/lthj.v1i0.1324
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:000891994400006
+N1  - Times Cited in Web of Science Core Collection:  5
+Total Times Cited:  5
+Cited Reference Count:  126
+ER  -
+
+TY  - JOUR
+AU  - Simoncini, A
+TI  - THE UNCONSTITUTIONAL ALGORITHM: ARTIFICIAL INTELLIGENCE AND THE FUTURE OF LIBERTIES
+T2  - BIOLAW JOURNAL-RIVISTA DI BIODIRITTO
+LA  - Italian
+KW  - algorithmic state
+KW  - artificial intelligence
+KW  - constitutional law
+KW  - cybernetics
+KW  - GDPR
+AB  - Today a growing number of decisions affecting human liberties are taken by algorithms. This evidence raises a vast number of questions concerning the transparency of such tools, the legal and ethical framework for algorithmic decision-making and the societal and cognitive impacts of such algorithmic automation. Starting from Wiener's fascinating invention of "cybernetics", which demostrated the original link between this new science and the very idea of "public government", this paper maps the inherent tension between AI and law. It focuses firstly on the impact of "cybernetic revolution" on constitutional law, considering the technological switch from "means" to "subject" and then analyses some cases involving the use of predictive algorithms in the fields of criminal and administrative law. The paper then examines and criticizes the standards set by GDPR to provide effective protection for fundamental liberties. It concludes by calling for a new doctrine of "precautionary constitutionalism" through which protection of fundamental rights and the rule of law should be granted within designing new technologies.
+AD  - Univ Firenze, Dipartimento Sci Giurid, Diritto Costituz, Florence, ItalyC3  - University of FlorencePU  - UNIV TRENTO, FAC LAW
+PI  - TRENTO
+PA  - VIA VERDI 53, TRENTO, 38122, ITALY
+SN  - 2284-4503
+J9  - BIOLAW J
+JI  - BioLaw J.
+PY  - 2019
+IS  - 1
+SP  - 63
+EP  - 89
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:000462097000005
+N1  - Times Cited in Web of Science Core Collection:  5
+Total Times Cited:  6
+Cited Reference Count:  60
+ER  -
+
+TY  - JOUR
+AU  - Khamitovich, VD
+AU  - Gaptraufovich, NA
+TI  - Digitization of Law: Some Problematic Aspects
+T2  - JOURNAL OF POLITICS AND LAW
+LA  - English
+KW  - digital economy
+KW  - digitalization of law
+KW  - digital justice
+KW  - transformation of procedural law
+KW  - legal robotics
+KW  - realization of a constitutional right for the judicial defense
+AB  - This article reveals the important practical importance of academic cooperation between legal doctrine and achievements of technical laboratories in terms of defining "points of growth" in questions of digitalization of law and development of legal tools aimed at regulating the technogenic factor on the one hand and legal support of "game-changing" results in a in the conditions of digital economy on the other hand. The important role of the transformation of social regulators, designed to regulate the "infrastructural" and "institutional" incorporation of "digital" technologies into the existing legal system, is noted. The current place of the Russian Federation on readiness for the digital economy is subject to, among other things, insufficient theoretical study as a result of the regulatory framework, which often does not act as a platform for growth, but rather contains many gaps - which have to be overcome at the expense of law enforcement practice. The article notes that the trend of "digitalization" of Russian law is closely linked to the need to maintain the ecosystem of the digital economy and to identify "growth points" and enforce their urgent character based on the state's resource base, defines a positive agenda for "digitalization" of Russian law and raises a number of questions for the Russian science. It is concluded that one of the topical issues in the framework of the "digitalization" of Russian law is legal robotics, which is perceived as the automation of workflows, the existence of interrelated algorithms of actions aimed at generating a predictable result based on some initial simulated and prescribed situation and maximum robotization of legal processes. Using the example of the Kazan Federal University, which proclaimed the promotion of innovative development of the focus areas of the Russian Federation as one of its missions, the achievements obtained as a result of the interaction of legal doctrine and technical laboratories are revealed.
+AD  - Kazan Fed Univ, Kazan, RussiaC3  - Kazan Federal UniversityFU  - RFBR [18-29-16147 MK.]
+FX  - The reported study was funded by RFBR according to the research project No 18-29-16147 MK.
+PU  - CANADIAN CENTER SCIENCE & EDUCATION
+PI  - TORONTO
+PA  - 1120 FINCH AVE W, STE 701-309, TORONTO, ON M3J 3H7, CANADA
+SN  - 1913-9047
+SN  - 1913-9055
+J9  - J POLIT LAW
+JI  - J. Polit. Law
+PY  - 2019
+VL  - 12
+IS  - 5
+SP  - 135
+EP  - 139
+DO  - 10.5539/jpl.v12n5p135
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:000504055900026
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  6
+ER  -
+
+TY  - JOUR
+AU  - Nwogu, NV
+TI  - MINING AT THE CROSSROADS OF LAW AND DEVELOPMENT: A COMPARATIVE REVIEW OF LABOR-RELATED LOCAL CONTENT PROVISIONS IN AFRICA'S MINING LAWS THROUGH THE PRISM OF AUTOMATION
+T2  - WASHINGTON INTERNATIONAL LAW JOURNAL
+LA  - English
+AB  - Africa boasts one-third of the world's mineral resources. Mineral development, if governed by appropriate legal frameworks, is key to facilitating development in Africa. With this realization, the African Union (AU) adopted the Africa Mining Vision (AMV) in 2009, which aims to prioritize African industrialization, safeguard the environment, build and utilize local labor force capacity, facilitate transparency, and improve revenue-sharing mechanisms in Africa. However, at the same time, the dawn of artificial intelligence (AI) and complex levels of automation is making quick inroads into the mineral development sector. This article argues that, in response to the AMV, over half of Africa's governments enacted a new generation of laws that seek to maximize the retention of mining benefits within the country. Focusing on labor-related local content provisions of these laws as an example, it highlights the inclusion or enhancement of provisions on local content aimed at building and utilizing local labor force capacity to address employment challenges in these countries. It concludes that because these reforms do not envisage the dawn of advanced automation, the elements of the law that aim to address growing unemployment may already be ineffective on arrival. Local content provisions on labor speak to the need to hire locally with due attention to efficiency and economy. However, they are in tension with automation, which is also aimed at improving efficiency, economy, and safety, thus quashing the push for increases in local labor force numbers before it can materialize. Closer and specific engagement between industry and government, for example, through collaborative multi-stakeholder sector-planning commissions, is necessary to plan for the impact of automation, and a reframing of local content may be necessary to ensure that the sector's legal framework is responsive to the realities of automation.
+AD  - Amer Univ, Washington Coll Law, Law, Washington, DC 20016 USAC3  - American UniversityPU  - UNIV WASHINGTON
+PI  - SEATTLE
+PA  - 4045 BROOKLYN AVENUE NE, SEATTLE, WA 98105 USA
+SN  - 2377-0872
+J9  - WASH INT LAW J
+JI  - Wash. Int. Law J.
+DA  - JAN
+PY  - 2019
+VL  - 28
+IS  - 1
+SP  - 137
+EP  - 156
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:000468813200004
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  36
+ER  -
+

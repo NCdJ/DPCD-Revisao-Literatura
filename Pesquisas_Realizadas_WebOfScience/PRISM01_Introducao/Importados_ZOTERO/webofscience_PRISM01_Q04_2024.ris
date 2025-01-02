@@ -1,0 +1,356 @@
+﻿TY  - JOUR
+AU  - Bouderhem, R
+TI  - Shaping the future of AI in healthcare through ethics and governance
+T2  - HUMANITIES & SOCIAL SCIENCES COMMUNICATIONS
+LA  - English
+KW  - ARTIFICIAL-INTELLIGENCE
+KW  - BIG DATA
+KW  - COVID-19
+KW  - FRAMEWORK
+KW  - RISK
+AB  - The purpose of this research is to identify and evaluate the technical, ethical and regulatory challenges related to the use of Artificial Intelligence (AI) in healthcare. The potential applications of AI in healthcare seem limitless and vary in their nature and scope, ranging from privacy, research, informed consent, patient autonomy, accountability, health equity, fairness, AI-based diagnostic algorithms to care management through automation for specific manual activities to reduce paperwork and human error. The main challenges faced by states in regulating the use of AI in healthcare were identified, especially the legal voids and complexities for adequate regulation and better transparency. A few recommendations were made to protect health data, mitigate risks and regulate more efficiently the use of AI in healthcare through international cooperation and the adoption of harmonized standards under the World Health Organization (WHO) in line with its constitutional mandate to regulate digital and public health. European Union (EU) law can serve as a model and guidance for the WHO for a reform of the International Health Regulations (IHR).
+AD  - Prince Mohammad Bin Fahd Univ, Coll Law, Al Khobar, Saudi ArabiaAD  - Univ Burgundy, Res Associate CREDIMI FRE 2003, CNRS, Dijon, FranceC3  - Prince Mohammad Bin Fahd UniversityC3  - Centre National de la Recherche Scientifique (CNRS)C3  - Universite de BourgognePU  - SPRINGERNATURE
+PI  - LONDON
+PA  - CAMPUS, 4 CRINAN ST, LONDON, N1 9XW, ENGLAND
+SN  - 2662-9992
+J9  - HUM SOC SCI COMMUN
+JI  - Hum. Soc. Sci. Commun.
+DA  - MAR 15
+PY  - 2024
+VL  - 11
+IS  - 1
+C7  - 416
+DO  - 10.1057/s41599-024-02894-w
+WE  - Social Science Citation Index (SSCI)WE  - Arts &amp; Humanities Citation Index (A&amp;HCI)AN  - WOS:001185882900006
+N1  - Times Cited in Web of Science Core Collection:  7
+Total Times Cited:  7
+Cited Reference Count:  168
+ER  -
+
+TY  - JOUR
+AU  - Ni, B
+AU  - Buehler, MJ
+TI  - MechAgents: Large language model multi-agent collaborations can solve mechanics problems, generate new data, and integrate knowledge
+T2  - EXTREME MECHANICS LETTERS
+LA  - English
+KW  - Multi-agent modeling
+KW  - Large language model (LLM)
+KW  - Elasticity
+KW  - Hyper-elasticity
+KW  - Finite element method
+KW  - GPT-4
+KW  - Physics-inspired machine learning
+KW  - FINITE-ELEMENT-ANALYSIS
+KW  - NEURAL-NETWORKS
+AB  - Solving mechanics problems using numerical methods requires comprehensive intelligent capability of retrieving relevant knowledge and theory, constructing and executing codes, analyzing the results, a task that has thus far mainly been reserved for humans. While emerging AI methods can provide effective approaches to solve end-toend problems, for instance via the use of deep surrogate models or various data analytics strategies, they often lack physical intuition since knowledge is baked into the parametric complement through training, offering less flexibility when it comes to incorporating mathematical or physical insights. By leveraging diverse capabilities of multiple dynamically interacting large language models (LLMs), we can overcome the limitations of conventional approaches and develop a new class of physics-inspired generative machine learning platform, here referred to as MechAgents. A set of AI agents can solve mechanics tasks, here demonstrated for elasticity problems, via autonomous collaborations. A two-agent team can effectively write, execute and self-correct code, in order to apply finite element methods to solve classical elasticity problems in various flavors (different boundary conditions, domain geometries, meshes, small/finite deformation and linear/hyper-elastic constitutive laws, and others). For more complex tasks, we construct a larger group of agents with enhanced division of labor among planning, formulating, coding, executing and criticizing the process and results. The agents mutually correct each other to improve the overall team-work performance in understanding, formulating and validating the solution. Our framework shows the potential of synergizing the intelligence of language models, the reliability of physicsbased modeling, and the dynamic collaborations among diverse agents, opening novel avenues for automation of solving engineering problems.
+AD  - MIT, Lab Atomist & Mol Mech LAMM, 77 Massachusetts Ave, Cambridge, MA 02139 USAAD  - MIT, Schwarzman Coll Comp, Ctr Computat Sci & Engn, 77 Massachusetts Ave, Cambridge, MA 02139 USAC3  - Massachusetts Institute of Technology (MIT)C3  - Massachusetts Institute of Technology (MIT)FU  - USDA [2021-69012-35978]; DOE- SERDP; ARO [W911NF-22-2-0213, W911NF2120130, U01EB014976]; MIT -IBM Watson AI Lab; MIT's Generative AI Initiative; NIH [R01AR077793, N00014-19-1-2375]; ONR [N00014-20-1- 2189, WP22-S1-3475];  [79058LSCSB]
+FX  - We acknowledge support from USDA (2021-69012-35978) , DOE- SERDP (WP22-S1-3475) , ARO (79058LSCSB, W911NF-22-2-0213 and W911NF2120130) as well as the MIT -IBM Watson AI Lab and MIT's Generative AI Initiative. Additional support from NIH (U01EB014976 and R01AR077793) and ONR (N00014-19-1-2375 and N00014-20-1- 2189) is acknowledged.
+PU  - ELSEVIER
+PI  - AMSTERDAM
+PA  - RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN  - 2352-4316
+J9  - EXTREME MECH LETT
+JI  - EXTREME MECH. LETT.
+DA  - MAR
+PY  - 2024
+VL  - 67
+C7  - 102131
+DO  - 10.1016/j.eml.2024.102131
+C6  - FEB 2024
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001187797200001
+N1  - Times Cited in Web of Science Core Collection:  7
+Total Times Cited:  7
+Cited Reference Count:  81
+ER  -
+
+TY  - JOUR
+AU  - Terranova, C
+AU  - Cestonaro, C
+AU  - Fava, L
+AU  - Cinquetti, A
+TI  - AI and professional liability assessment in healthcare. A revolution in legal medicine?
+T2  - FRONTIERS IN MEDICINE
+LA  - English
+KW  - artificial intelligence
+KW  - machine learning
+KW  - legal medicine
+KW  - professional liability
+KW  - tort law
+KW  - causal relationship
+KW  - ARTIFICIAL-INTELLIGENCE
+KW  - INFORMED-CONSENT
+KW  - BIG DATA
+KW  - CARE
+KW  - DEATH
+AB  - The adoption of advanced artificial intelligence (AI) systems in healthcare is transforming the healthcare-delivery landscape. Artificial intelligence may enhance patient safety and improve healthcare outcomes, but it presents notable ethical and legal dilemmas. Moreover, as AI streamlines the analysis of the multitude of factors relevant to malpractice claims, including informed consent, adherence to standards of care, and causation, the evaluation of professional liability might also benefit from its use. Beginning with an analysis of the basic steps in assessing professional liability, this article examines the potential new medical-legal issues that an expert witness may encounter when analyzing malpractice cases and the potential integration of AI in this context. These changes related to the use of integrated AI, will necessitate efforts on the part of judges, experts, and clinicians, and may require new legislative regulations. A new expert witness will be likely necessary in the evaluation of professional liability cases. On the one hand, artificial intelligence will support the expert witness; however, on the other hand, it will introduce specific elements into the activities of healthcare workers. These elements will necessitate an expert witness with a specialized cultural background. Examining the steps of professional liability assessment indicates that the likely path for AI in legal medicine involves its role as a collaborative and integrated tool. The combination of AI with human judgment in these assessments can enhance comprehensiveness and fairness. However, it is imperative to adopt a cautious and balanced approach to prevent complete automation in this field.
+AD  - Univ Padua, Dept Cardiac Thorac Vasc Sci & Publ Hlth, Legal Med & Toxicol, Padua, ItalyC3  - University of PaduaPU  - FRONTIERS MEDIA SA
+PI  - LAUSANNE
+PA  - AVENUE DU TRIBUNAL FEDERAL 34, LAUSANNE, CH-1015, SWITZERLAND
+SN  - 2296-858X
+J9  - FRONT MED-LAUSANNE
+JI  - Front. Med.
+DA  - JAN 8
+PY  - 2024
+VL  - 10
+C7  - 1337335
+DO  - 10.3389/fmed.2023.1337335
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001152674200001
+N1  - Times Cited in Web of Science Core Collection:  6
+Total Times Cited:  6
+Cited Reference Count:  77
+ER  -
+
+TY  - JOUR
+AU  - Abimbola, B
+AU  - Marin, ED
+AU  - Tan, Q
+TI  - Enhancing Legal Sentiment Analysis: A Convolutional Neural Network-Long Short-Term Memory Document-Level Model
+T2  - MACHINE LEARNING AND KNOWLEDGE EXTRACTION
+LA  - English
+KW  - convolutional neural networks
+KW  - deep neural networks
+KW  - long short-term memory
+KW  - sentimental analysis
+KW  - recurrent neural networks
+KW  - LEARNING ALGORITHMS
+AB  - This research investigates the application of deep learning in sentiment analysis of Canadian maritime case law. It offers a framework for improving maritime law and legal analytic policy-making procedures. The automation of legal document extraction takes center stage, underscoring the vital role sentiment analysis plays at the document level. Therefore, this study introduces a novel strategy for sentiment analysis in Canadian maritime case law, combining sentiment case law approaches with state-of-the-art deep learning techniques. The overarching goal is to systematically unearth hidden biases within case law and investigate their impact on legal outcomes. Employing Convolutional Neural Network (CNN)- and long short-term memory (LSTM)-based models, this research achieves a remarkable accuracy of 98.05% for categorizing instances. In contrast, conventional machine learning techniques such as support vector machine (SVM) yield an accuracy rate of 52.57%, na & iuml;ve Bayes at 57.44%, and logistic regression at 61.86%. The superior accuracy of the CNN and LSTM model combination underscores its usefulness in legal sentiment analysis, offering promising future applications in diverse fields like legal analytics and policy design. These findings mark a significant choice for AI-powered legal tools, presenting more sophisticated and sentiment-aware options for the legal profession.
+AD  - Univ Oviedo, Dept Comp Sci, Oviedo 33003, SpainAD  - Athabasca Univ, Fac Sci & Technol, 1 Univ Dr, Athabasca, AB T9S 3A3, CanadaC3  - University of OviedoC3  - Athabasca UniversityPU  - MDPI
+PI  - BASEL
+PA  - ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN  - 2504-4990
+J9  - MACH LEARN KNOW EXTR
+JI  - Mach. Learn. Knowl. Extr.
+DA  - JUN
+PY  - 2024
+VL  - 6
+IS  - 2
+SP  - 877
+EP  - 897
+DO  - 10.3390/make6020041
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001256583800001
+N1  - Times Cited in Web of Science Core Collection:  2
+Total Times Cited:  2
+Cited Reference Count:  42
+ER  -
+
+TY  - JOUR
+AU  - Sanchez-Graells, A
+TI  - Resh(AI)ping Good Administration: Addressing the Mass Effects of Public Sector Digitalisation
+T2  - LAWS
+LA  - English
+KW  - public sector
+KW  - digitalisation
+KW  - automated decision-making
+KW  - good administration
+KW  - mass effects
+KW  - collective interests
+KW  - public trust
+KW  - organisational risk-taking
+KW  - automated redress
+KW  - EU LAW
+KW  - ALGORITHM
+AB  - Public sector digitalisation is transforming public governance at an accelerating rate. Digitalisation is outpacing the evolution of the legal framework. Despite several strands of international efforts to adjust good administration guarantees to new modes of digital public governance, progress has so far been slow and tepid. The increasing automation of decision-making processes puts significant pressure on traditional good administration guarantees, jeopardises individual due process rights, and risks eroding public trust. Automated decision-making has, so far, attracted the bulk of scholarly attention, especially in the European context. However, most analyses seek to reconcile existing duties towards individuals under the right to good administration with the challenges arising from digitalisation. Taking a critical and technology-centred doctrinal approach to developments under the law of the European Union and the Council of Europe, this paper goes beyond current debates to challenge the sufficiency of existing good administration duties. By stressing the mass effects that can derive from automated decision-making by the public sector, the paper advances the need to adapt good administration guarantees to a collective dimension through an extension and a broadening of the public sector's good administration duties: that is, through an extended ex ante control of organisational risk-taking, and a broader ex post duty of automated redress. These legal modifications should be urgently implemented.
+AD  - Univ Bristol, Fac Arts Law & Social Sci, Law Sch, Clifton Campus, Bristol BS8 1RJ, EnglandC3  - University of BristolPU  - MDPI
+PI  - BASEL
+PA  - ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN  - 2075-471X
+J9  - LAWS-BASEL
+JI  - Laws
+DA  - FEB
+PY  - 2024
+VL  - 13
+IS  - 1
+C7  - 9
+DO  - 10.3390/laws13010009
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001168252300001
+N1  - Times Cited in Web of Science Core Collection:  2
+Total Times Cited:  2
+Cited Reference Count:  70
+ER  -
+
+TY  - CPAPER
+AU  - Sterz, S
+AU  - Baum, K
+AU  - Biewer, S
+AU  - Hermanns, H
+AU  - Lauber-Rönsberg, A
+AU  - Meinel, P
+AU  - Langer, M
+A1  - Assoc Computing Machinery
+TI  - On the Quest for Effectiveness in Human Oversight: Interdisciplinary Perspectives
+T2  - PROCEEDINGS OF THE 2024 ACM CONFERENCE ON FAIRNESS, ACCOUNTABILITY, AND TRANSPARENCY, ACM FACCT 2024
+LA  - English
+CP  - 6th ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT)
+KW  - Human Oversight
+KW  - AI Act
+KW  - High-Risk AI
+KW  - Law
+KW  - Psychology
+KW  - DECISION-MAKING
+KW  - AUTOMATION
+KW  - TRUST
+KW  - WORK
+KW  - DESIGN
+KW  - BIAS
+AB  - Human oversight is currently discussed as a potential safeguard to counter some of the negative aspects of high-risk AI applications. This prompts a critical examination of the role and conditions necessary for what is prominently termed effective or meaningful human oversight of these systems. This paper investigates effective human oversight by synthesizing insights from psychological, legal, philosophical, and technical domains. Based on the claim that the main objective of human oversight is risk mitigation, we propose a viable understanding of effectiveness in human oversight: for human oversight to be effective, the oversight person has to have (a) sufficient causal power with regard to the system and its effects, (b) suitable epistemic access to relevant aspects of the situation, (c) self-control, and (d) fitting intentions for their role. Furthermore, we argue that this is equivalent to saying that an oversight person is effective if and only if they are morally responsible and have fitting intentions. Against this backdrop, we suggest facilitators and inhibitors of effectiveness in human oversight when striving for practical applicability. We discuss factors in three domains, namely, the technical design of the system, individual factors of oversight persons, and the environmental circumstances in which they operate. Finally, this paper scrutinizes the upcoming AI Act of the European Union - in particular Article 14 on Human Oversight - as an exemplary regulatory framework in which we study the practicality of our understanding of effective human oversight. By analyzing the provisions and implications of the European AI Act proposal, we pinpoint how far that proposal aligns with our analyses regarding effective human oversight as well as how it might get enriched by our conceptual understanding of effectiveness in human oversight.
+AD  - Saarland Univ, Saarland Informat Campus, Dependable Syst & Software, Saarbrucken, GermanyAD  - German Res Ctr Artificial Intelligence DFKI, NeuroMechanist Modeling, Saarbrucken, GermanyAD  - Tech Univ Dresden, Fac Humanities & Social Sci, IRGET, Dresden, GermanyAD  - Univ Freiburg, Dept Psychol, Freiburg, GermanyC3  - Saarland UniversityC3  - German Research Center for Artificial Intelligence (DFKI)C3  - Technische Universitat DresdenC3  - University of FreiburgFU  - DFG [389792660, TRR 248 - CPEC]; VolkswagenStiftung [AZ 98514, 98513, 98512 - EIS]; European Regional Development Fund; Saarland within the scope of (To)CERTAIN
+FX  - This work is partially funded by DFG grant 389792660 as part of TRR 248 - CPEC, by VolkswagenStiftung as part of grants AZ 98514, 98513 and 98512 - EIS, and by the European Regional Development Fund and the Saarland within the scope of (To)CERTAIN.
+PU  - ASSOC COMPUTING MACHINERY
+PI  - NEW YORK
+PA  - 1601 Broadway, 10th Floor, NEW YORK, NY, UNITED STATES
+SN  - 979-8-4007-0450-5
+PY  - 2024
+SP  - 2495
+EP  - 2507
+DO  - 10.1145/3630106.3659051
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)WE  - Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)AN  - WOS:001253359300165
+N1  - Times Cited in Web of Science Core Collection:  2
+Total Times Cited:  2
+Cited Reference Count:  89
+ER  -
+
+TY  - JOUR
+AU  - Louati, H
+AU  - Louati, A
+AU  - Almekhlafi, A
+AU  - Elsaka, M
+AU  - Alharbi, M
+AU  - Kariri, E
+AU  - Altherwy, YN
+TI  - Adopting Artificial Intelligence to Strengthen Legal Safeguards in Blockchain Smart Contracts: A Strategy to Mitigate Fraud and Enhance Digital Transaction Security
+T2  - JOURNAL OF THEORETICAL AND APPLIED ELECTRONIC COMMERCE RESEARCH
+LA  - English
+KW  - smart contract enforcement
+KW  - AI fraud detection in blockchain
+KW  - legal aspects of artificial intelligence
+KW  - ARCHITECTURES
+KW  - EVOLUTION
+AB  - As blockchain technology increasingly underpins digital transactions, smart contracts have emerged as a pivotal tool for automating these transactions. While smart contracts offer efficiency and security, their automation introduces significant legal challenges. Detecting and preventing fraud is a primary concern. This paper proposes a novel application of artificial intelligence (AI) to address these challenges. We will develop a machine learning model, specifically a Convolutional Neural Network (CNN), to effectively detect and mitigate fraudulent activities within smart contracts. The AI model will analyze both textual and transactional data from smart contracts to identify patterns indicative of fraud. This approach not only enhances the security of digital transactions on blockchain platforms but also informs the development of legal standards and regulatory frameworks necessary for governing these technologies. By training on a dataset of authentic and fraudulent contract examples, the proposed AI model is expected to offer high predictive accuracy, thereby supporting legal practitioners and regulators in real-time monitoring and enforcement. The ultimate goal of this project is to contribute to legal scholarship by providing a robust technological tool that aids in preventing cybercrimes associated with smart contracts, thereby laying a foundation for future legal research and development at the intersection of law, technology, and security.
+AD  - Kingdom Univ, Coll Informat Technol, Riffa 40434, BahrainAD  - Prince Sattam Bin Abdulaziz Univ, Coll Comp Engn & Sci, Dept Informat Syst, Al Kharj 11942, Saudi ArabiaAD  - Kingdom Univ, Coll Law, Dept Private Law, Riffa 40434, BahrainAD  - Prince Sattam Bin Abdulaziz Univ, Coll Comp Engn & Sci, Dept Comp Sci, Al Kharj 11942, Saudi ArabiaC3  - Prince Sattam Bin Abdulaziz UniversityC3  - Prince Sattam Bin Abdulaziz UniversityFU  - Kingdom University [PSAU/2024/R/1445, 2024-3-011]; Prince Sattam bin Abdulaziz University
+FX  - Prince Sattam bin Abdulaziz University, project number PSAU/2024/R/1445. Kingdom University, research grant number 2024-3-011.
+PU  - MDPI
+PI  - BASEL
+PA  - ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN  - 0718-1876
+J9  - J THEOR APPL EL COMM
+JI  - J. Theor. Appl. Electron. Commer. Res.
+DA  - SEP
+PY  - 2024
+VL  - 19
+IS  - 3
+SP  - 2139
+EP  - 2156
+DO  - 10.3390/jtaer19030104
+WE  - Social Science Citation Index (SSCI)AN  - WOS:001323083000001
+N1  - Times Cited in Web of Science Core Collection:  1
+Total Times Cited:  1
+Cited Reference Count:  68
+ER  -
+
+TY  - JOUR
+AU  - Roy, A
+AU  - Marsoof, A
+TI  - Removing the Human from Trademark Law
+T2  - IIC-INTERNATIONAL REVIEW OF INTELLECTUAL PROPERTY AND COMPETITION LAW
+LA  - English
+KW  - Trademarks
+KW  - AI and automation
+KW  - Evolving trademark functions
+KW  - Machine-readable formats
+KW  - Trademark use
+KW  - Machine confusion
+KW  - ARTIFICIAL-INTELLIGENCE
+AB  - This paper envisions a future in which humans begin to entrust interconnected and intelligent devices and machines with the power to make purchasing decisions on their behalf. Artificial Intelligence (AI), together with the Internet of Things (IoT) and blockchain technology, will likely make this possible. What might be the role of trademarks and the law governing their protection in such a future? This paper responds to this question by considering how the use of AI, IoT, and blockchain technology in the retail space will impact the foundational concepts underpinning trademark law. The discussion highlights the difficulty of shifting trademark law away from its human-centric focus, where core doctrines and principles revolve around human interaction and perceptions, towards a system capable of adapting to a future where devices and machines interact with trademarks. Perhaps the time is ripe for legislative innovation in the field of trademarks.
+AD  - Univ Waikato, Te Piringa Fac Law, Hamilton, New ZealandAD  - Nanyang Technol Univ, Coll Business, Div Business Law, Singapore, SingaporeC3  - University of WaikatoC3  - Nanyang Technological UniversityFU  - University of Waikato
+FX  - No Statement Available
+PU  - SPRINGER HEIDELBERG
+PI  - HEIDELBERG
+PA  - TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN  - 0018-9855
+SN  - 2195-0237
+J9  - IIC-INT REV INTELL P
+JI  - Int. Rev. Intellect. Prop. Compet. Law
+DA  - MAY
+PY  - 2024
+VL  - 55
+IS  - 5
+SP  - 727
+EP  - 761
+DO  - 10.1007/s40319-024-01466-4
+C6  - APR 2024
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001207542700005
+N1  - Times Cited in Web of Science Core Collection:  1
+Total Times Cited:  1
+Cited Reference Count:  83
+ER  -
+
+TY  - JOUR
+AU  - Parinandi, S
+AU  - Crosson, J
+AU  - Peterson, K
+AU  - Nadarevic, S
+TI  - Investigating the politics and content of US State artificial intelligence legislation
+T2  - BUSINESS AND POLITICS
+LA  - English
+KW  - federalism
+KW  - legislative politics
+KW  - public policy
+KW  - AI
+KW  - DURATION MODELS
+KW  - AUTOMATION
+KW  - FUTURE
+KW  - JOBS
+AB  - The rapid emergence of artificial intelligence (AI) technology and its application by businesses has created a potential need for governmental regulation. While the federal government of the United States has largely sidestepped the issue of crafting law dictating limitations and expectations regarding the use of AI technology, US state legislatures have begun to take the lead in this area. Nonetheless, we know very little about how state legislatures have approached the design, pursuit, and adoption of AI policy and whether traditional political fault lines have manifested themselves in the AI issue area. Here, we gather data on the state-level adoption of AI policy, as well as roll call voting on AI bills (classified on the basis of consumer protection versus economic development), by state legislatures and analyze the political economy of AI legislation. We find that rising unemployment and inflation are negatively associated with a state's AI policymaking. With respect to individual legislator support, we find that liberal lawmakers and Democrats are more likely to support bills establishing consumer protection requirements on AI usage. The results suggest that economic concerns loom large with AI and that traditional political fault lines may be establishing themselves in this area.
+AD  - Univ Colorado Boulder, Boulder, CO 80309 USAAD  - Purdue Univ, W Lafayette, IN USAC3  - University of Colorado SystemC3  - University of Colorado BoulderC3  - Purdue University SystemC3  - Purdue UniversityPU  - CAMBRIDGE UNIV PRESS
+PI  - CAMBRIDGE
+PA  - EDINBURGH BLDG, SHAFTESBURY RD, CB2 8RU CAMBRIDGE, ENGLAND
+SN  - 1469-3569
+J9  - BUS POLIT
+JI  - Bus. Polit.
+DA  - JUN
+PY  - 2024
+VL  - 26
+IS  - 2
+SP  - 240
+EP  - 262
+DO  - 10.1017/bap.2023.40
+C6  - MAR 2024
+WE  - Social Science Citation Index (SSCI)AN  - WOS:001192295900001
+N1  - Times Cited in Web of Science Core Collection:  1
+Total Times Cited:  1
+Cited Reference Count:  33
+ER  -
+
+TY  - JOUR
+AU  - Martinho, A
+TI  - Surveying Judges about artificial intelligence: profession, judicial adjudication, and legal principles
+T2  - AI & SOCIETY
+LA  - English
+KW  - Artificial Intelligence
+KW  - Law
+KW  - Justice
+KW  - Technology
+KW  - Judges
+KW  - Court
+KW  - Adjudication
+KW  - Legal Principles
+KW  - Positivism
+KW  - CHALLENGES
+AB  - Artificial Intelligence (AI) is set to bring changes to legal systems. These technologies may have positive practical implications when it comes to access, efficiency, and accuracy in Justice. However, there are still many uncertainties and challenges associated with the implementation of AI in the legal space. In this research, we surveyed Judges on critical challenges related to the Judging Profession in the AI paradigm; Automated Adjudication; and Legal Principles. Our results suggest that (i) Judges are hesitant about changes in their profession. They signal the need for adequate training that fosters legal literacy in AI, but are less open to changes in legal writing or their social and institutional role; (ii) Judges believe higher levels of automation only lead to fair outcomes if used in earlier phases of adjudication; (iii) Judges believe and are concerned about AI leading to Techno-Legal Positivism; and (iv) Judges consider that Legal AI technologies may have a positive impact in some legal principles, as long as everyone has equal access to those technologies and cybersecurity and judge on the loop safeguards are in place; and (v) Judges are strongly concerned about the de-humanization of Justice. They consider that assessing evidence, analyzing arguments, and deciding on a legal case should be inherently human. By surveying these practitioners, we aim to foster a responsible, inclusive, and transparent innovation in Justice.
+AD  - Tufts Univ, Data Intens Studies Ctr, Medford, MA 02155 USAC3  - Tufts UniversityPU  - SPRINGER
+PI  - NEW YORK
+PA  - ONE NEW YORK PLAZA, SUITE 4600, NEW YORK, NY, UNITED STATES
+SN  - 0951-5666
+SN  - 1435-5655
+J9  - AI SOC
+JI  - AI Soc.
+DA  - 2024 FEB 23
+PY  - 2024
+DO  - 10.1007/s00146-024-01869-4
+C6  - FEB 2024
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001168315600001
+N1  - Times Cited in Web of Science Core Collection:  1
+Total Times Cited:  1
+Cited Reference Count:  64
+ER  -
+

@@ -1,0 +1,688 @@
+﻿TY  - CONF
+AU  - Hatamizadeh, A.
+AU  - Tang, Y.
+AU  - Nath, V.
+AU  - Yang, D.
+AU  - Myronenko, A.
+AU  - Landman, B.
+AU  - Roth, H.R.
+AU  - Xu, D.
+TI  - UNETR: Transformers for 3D Medical Image Segmentation
+PY  - 2022
+T2  - Proceedings - 2022 IEEE/CVF Winter Conference on Applications of Computer Vision, WACV 2022
+SP  - 1748
+EP  - 1758
+DO  - 10.1109/WACV51458.2022.00181
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85123975952&doi=10.1109%2fWACV51458.2022.00181&partnerID=40&md5=73e6eebab66e62fac3302882ec364d57
+AD  - NVIDIA, United States
+AD  - Vanderbilt University, United States
+AB  - Fully Convolutional Neural Networks (FCNNs) with contracting and expanding paths have shown prominence for the majority of medical image segmentation applications since the past decade. In FCNNs, the encoder plays an integral role by learning both global and local features and contextual representations which can be utilized for semantic output prediction by the decoder. Despite their success, the locality of convolutional layers in FCNNs, limits the capability of learning long-range spatial dependencies. Inspired by the recent success of transformers for Natural Language Processing (NLP) in long-range sequence learning, we reformulate the task of volumetric (3D) medical image segmentation as a sequence-to-sequence prediction problem. We introduce a novel architecture, dubbed as UNEt TRansformers (UNETR), that utilizes a transformer as the encoder to learn sequence representations of the input volume and effectively capture the global multi-scale information, while also following the successful "U-shaped"network design for the encoder and decoder. The transformer encoder is directly connected to a decoder via skip connections at different resolutions to compute the final semantic segmentation output. We have validated the performance of our method on the Multi Atlas Labeling Beyond The Cranial Vault (BTCV) dataset for multi-organ segmentation and the Medical Segmentation Decathlon (MSD) dataset for brain tumor and spleen segmentation tasks. Our benchmarks demonstrate new state-of-the-art performance on the BTCV leaderboard.  © 2022 IEEE.
+KW  - Medical Imaging/Imaging for Bioinformatics/Biological and Cell Microscopy
+KW  - Benchmarking
+KW  - Bioinformatics
+KW  - Convolution
+KW  - Convolutional neural networks
+KW  - Decoding
+KW  - Natural language processing systems
+KW  - Semantic Segmentation
+KW  - Semantics
+KW  - Signal encoding
+KW  - 3D medical image
+KW  - Convolutional neural network
+KW  - Global feature
+KW  - Local feature
+KW  - Long-range spatials
+KW  - Medical image segmentation
+KW  - Medical imaging/imaging for bioinformatic/biological and cell microscopy
+KW  - Sequence learning
+KW  - Spatial dependencies
+KW  - Volumetric 3D
+KW  - Medical imaging
+PB  - Institute of Electrical and Electronics Engineers Inc.
+SN  - 978-166540915-5 (ISBN)
+LA  - English
+J2  - Proc. - IEEE/CVF Winter Conf. Appl. Comput. Vis., WACV
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 1052; Conference name: 22nd IEEE/CVF Winter Conference on Applications of Computer Vision, WACV 2022; Conference date: 4 January 2022 through 8 January 2022; Conference code: 177326
+ER  -
+
+TY  - CONF
+AU  - Pang, Y.
+AU  - Wang, W.
+AU  - Tay, F.E.H.
+AU  - Liu, W.
+AU  - Tian, Y.
+AU  - Yuan, L.
+TI  - Masked Autoencoders for Point Cloud Self-supervised Learning
+PY  - 2022
+T2  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 13662 LNCS
+SP  - 604
+EP  - 621
+DO  - 10.1007/978-3-031-20086-1_35
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85142748029&doi=10.1007%2f978-3-031-20086-1_35&partnerID=40&md5=3fe4f29b01fd9342559771ae0d15a6b9
+AD  - School of Electronic and Computer Engineering, Peking University, Beijing, China
+AD  - National University of Singapore, Singapore, Singapore
+AD  - Zhejiang University, Hangzhou, China
+AD  - Tencent Data Platform, Shenzhen, China
+AD  - PengCheng Laboratory, Shenzhen, China
+AB  - As a promising scheme of self-supervised learning, masked autoencoding has significantly advanced natural language processing and computer vision. Inspired by this, we propose a neat scheme of masked autoencoders for point cloud self-supervised learning, addressing the challenges posed by point cloud’s properties, including leakage of location information and uneven information density. Concretely, we divide the input point cloud into irregular point patches and randomly mask them at a high ratio. Then, a standard Transformer based autoencoder, with an asymmetric design and a shifting mask tokens operation, learns high-level latent features from unmasked point patches, aiming to reconstruct the masked point patches. Extensive experiments show that our approach is efficient during pre-training and generalizes well on various downstream tasks. The pre-trained models achieve 85.18% accuracy on ScanObjectNN and 94.04% accuracy on ModelNet40, outperforming all the other self-supervised learning methods. We show with our scheme, a simple architecture entirely based on standard Transformers can surpass dedicated Transformer models from supervised learning. Our approach also advances state-of-the-art accuracies by 1.5%–2.3% in the few-shot classification. Furthermore, our work inspires the feasibility of applying unified architectures from languages and images to the point cloud. Codes are available at https://github.com/Pang-Yatian/Point-MAE. © 2022, The Author(s), under exclusive license to Springer Nature Switzerland AG.
+KW  - Computer architecture
+KW  - Learning algorithms
+KW  - Learning systems
+KW  - Natural language processing systems
+KW  - Asymmetric design
+KW  - Auto encoders
+KW  - Information density
+KW  - Language processing
+KW  - Learn+
+KW  - Location information
+KW  - Natural languages
+KW  - Point-clouds
+KW  - Pre-training
+KW  - Property
+KW  - Supervised learning
+A2  - Avidan S.
+A2  - Brostow G.
+A2  - Cissé M.
+A2  - Farinella G.M.
+A2  - Hassner T.
+PB  - Springer Science and Business Media Deutschland GmbH
+SN  - 03029743 (ISSN); 978-303120085-4 (ISBN)
+LA  - English
+J2  - Lect. Notes Comput. Sci.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 154; Correspondence Address: L. Yuan; School of Electronic and Computer Engineering, Peking University, Beijing, China; email: yuanli-ece@pku.edu.cn; Conference name: 17th European Conference on Computer Vision, ECCV 2022; Conference date: 23 October 2022 through 27 October 2022; Conference code: 285469
+ER  -
+
+TY  - JOUR
+AU  - Ma, Y.
+AU  - Guo, Z.
+AU  - Xia, B.
+AU  - Zhang, Y.
+AU  - Liu, X.
+AU  - Yu, Y.
+AU  - Tang, N.
+AU  - Tong, X.
+AU  - Wang, M.
+AU  - Ye, X.
+AU  - Feng, J.
+AU  - Chen, Y.
+AU  - Wang, J.
+TI  - Identification of antimicrobial peptides from the human gut microbiome using deep learning
+PY  - 2022
+T2  - Nature Biotechnology
+VL  - 40
+IS  - 6
+SP  - 921
+EP  - 931
+DO  - 10.1038/s41587-022-01226-0
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85125517450&doi=10.1038%2fs41587-022-01226-0&partnerID=40&md5=df48de3642b26da7f97d37f2b290d129
+AD  - CAS Key Laboratory of Pathogenic Microbiology and Immunology, Institute of Microbiology, Chinese Academy of Sciences, Beijing, China
+AD  - University of Chinese Academy of Sciences, Beijing, China
+AD  - State Key Laboratory of Microbial Resources, Institute of Microbiology, Chinese Academy of Sciences, Beijing, China
+AD  - Institute of Medicinal Biotechnology, Chinese Academy of Medical Sciences & Peking Union Medical College, Beijing, China
+AB  - The human gut microbiome encodes a large variety of antimicrobial peptides (AMPs), but the short lengths of AMPs pose a challenge for computational prediction. Here we combined multiple natural language processing neural network models, including LSTM, Attention and BERT, to form a unified pipeline for candidate AMP identification from human gut microbiome data. Of 2,349 sequences identified as candidate AMPs, 216 were chemically synthesized, with 181 showing antimicrobial activity (a positive rate of >83%). Most of these peptides have less than 40% sequence homology to AMPs in the training set. Further characterization of the 11 most potent AMPs showed high efficacy against antibiotic-resistant, Gram-negative pathogens and demonstrated significant efficacy in lowering bacterial load by more than tenfold against a mouse model of bacterial lung infection. Our study showcases the potential of machine learning approaches for mining functional peptides from metagenome data and accelerating the discovery of promising AMP candidate molecules for in-depth investigations. © 2022, The Author(s), under exclusive licence to Springer Nature America, Inc.
+KW  - Adenosine Monophosphate
+KW  - Animals
+KW  - Anti-Bacterial Agents
+KW  - Antimicrobial Peptides
+KW  - Deep Learning
+KW  - Gastrointestinal Microbiome
+KW  - Humans
+KW  - Mice
+KW  - Peptides
+KW  - Learning algorithms
+KW  - Long short-term memory
+KW  - Natural language processing systems
+KW  - Peptides
+KW  - amikacin
+KW  - amoxicillin plus clavulanic acid
+KW  - ampicillin
+KW  - antimicrobial peptide 1043
+KW  - antimicrobial peptide 1655
+KW  - antimicrobial peptide 2041
+KW  - antimicrobial peptide 240
+KW  - antimicrobial peptide 250
+KW  - antimicrobial peptide 518
+KW  - antimicrobial peptide 575
+KW  - antimicrobial peptide 593
+KW  - antimicrobial peptide 660
+KW  - antimicrobial peptide 67
+KW  - antimicrobial peptide 69
+KW  - aztreonam
+KW  - beta defensin 2
+KW  - cathelicidin bf
+KW  - cefalexin
+KW  - cefazolin
+KW  - cefepime
+KW  - cefoperazone plus sulbactam
+KW  - cefotaxime
+KW  - cefoxitin
+KW  - ceftazidime
+KW  - ceftriaxone
+KW  - cefuroxime
+KW  - chloramphenicol
+KW  - ciprofloxacin
+KW  - defensin np 1
+KW  - ertapenem
+KW  - gentamicin
+KW  - imipenem
+KW  - levofloxacin
+KW  - magainin 2
+KW  - mastoparan like peptide 12c precursor
+KW  - meropenem
+KW  - minocycline
+KW  - nalidixic acid
+KW  - piperacillin plus tazobactam
+KW  - polymyxin B
+KW  - polypeptide antibiotic agent
+KW  - sulfamethoxazole
+KW  - tetracycline
+KW  - ticarcillin
+KW  - tigecycline
+KW  - tobramycin
+KW  - trimethoprim
+KW  - unclassified drug
+KW  - adenosine phosphate
+KW  - antiinfective agent
+KW  - peptide
+KW  - polypeptide antibiotic agent
+KW  - Anti-microbial activity
+KW  - Antimicrobial peptide
+KW  - Computational predictions
+KW  - Human guts
+KW  - Microbiome
+KW  - Neural network model
+KW  - Peptide identification
+KW  - Sequence homology
+KW  - Synthesised
+KW  - Training sets
+KW  - Acinetobacter baumannii
+KW  - amino acid sequence
+KW  - animal experiment
+KW  - animal model
+KW  - animal tissue
+KW  - antibacterial activity
+KW  - antibiotic resistance
+KW  - Article
+KW  - artificial neural network
+KW  - attention layer
+KW  - Bacillus subtilis
+KW  - bacterial load
+KW  - bidirectional encoder representations from transformers model
+KW  - CC50 (cytotoxic concentration)
+KW  - controlled study
+KW  - data mining
+KW  - deep learning
+KW  - drug cytotoxicity
+KW  - drug efficacy
+KW  - drug identification
+KW  - drug mechanism
+KW  - drug potency
+KW  - Enterobacter cloacae
+KW  - erythrocyte
+KW  - Escherichia coli
+KW  - HCT 116 cell line
+KW  - human
+KW  - human cell
+KW  - IC50
+KW  - intermethod comparison
+KW  - intestine flora
+KW  - Klebsiella pneumoniae
+KW  - Klebsiella pneumoniae infection
+KW  - long short term memory network
+KW  - lung infection
+KW  - machine learning
+KW  - metagenome
+KW  - metagenomics
+KW  - minimum inhibitory concentration
+KW  - mouse
+KW  - multidrug resistant Gram negative bacterium
+KW  - natural language processing
+KW  - Needleman Wunsch algorithm
+KW  - nonhuman
+KW  - positivity rate
+KW  - prediction
+KW  - proof of concept
+KW  - Pseudomonas aeruginosa
+KW  - sequence homology
+KW  - Staphylococcus aureus
+KW  - animal
+KW  - chemistry
+KW  - Microorganisms
+PB  - Nature Research
+SN  - 10870156 (ISSN)
+C2  - 35241840
+LA  - English
+J2  - Nat. Biotechnol.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 210; Correspondence Address: J. Wang; CAS Key Laboratory of Pathogenic Microbiology and Immunology, Institute of Microbiology, Chinese Academy of Sciences, Beijing, China; email: junwang@im.ac.cn; Y. Chen; University of Chinese Academy of Sciences, Beijing, China; email: chenyihua@im.ac.cn; CODEN: NABIF
+ER  -
+
+TY  - CONF
+AU  - Hatamizadeh, A.
+AU  - Nath, V.
+AU  - Tang, Y.
+AU  - Yang, D.
+AU  - Roth, H.R.
+AU  - Xu, D.
+TI  - Swin UNETR: Swin Transformers for Semantic Segmentation of Brain Tumors in MRI Images
+PY  - 2022
+T2  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 12962 LNCS
+SP  - 272
+EP  - 284
+DO  - 10.1007/978-3-031-08999-2_22
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85135046823&doi=10.1007%2f978-3-031-08999-2_22&partnerID=40&md5=74a3350816f4cbb29dfe20c6181f0e21
+AD  - NVIDIA, Santa Clara, United States
+AD  - Vanderbilt University, Nashville, United States
+AB  - Semantic segmentation of brain tumors is a fundamental medical image analysis task involving multiple MRI imaging modalities that can assist clinicians in diagnosing the patient and successively studying the progression of the malignant entity. In recent years, Fully Convolutional Neural Networks (FCNNs) approaches have become the de facto standard for 3D medical image segmentation. The popular “U-shaped” network architecture has achieved state-of-the-art performance benchmarks on different 2D and 3D semantic segmentation tasks and across various imaging modalities. However, due to the limited kernel size of convolution layers in FCNNs, their performance of modeling long-range information is sub-optimal, and this can lead to deficiencies in the segmentation of tumors with variable sizes. On the other hand, transformer models have demonstrated excellent capabilities in capturing such long-range information in multiple domains, including natural language processing and computer vision. Inspired by the success of vision transformers and their variants, we propose a novel segmentation model termed Swin UNEt TRansformers (Swin UNETR). Specifically, the task of 3D brain tumor semantic segmentation is reformulated as a sequence to sequence prediction problem wherein multi-modal input data is projected into a 1D sequence of embedding and used as an input to a hierarchical Swin transformer as the encoder. The swin transformer encoder extracts features at five different resolutions by utilizing shifted windows for computing self-attention and is connected to an FCNN-based decoder at each resolution via skip connections. We have participated in BraTS 2021 segmentation challenge, and our proposed model ranks among the top-performing approaches in the validation phase. Code: https://monai.io/research/swin-unetr. © 2022, The Author(s), under exclusive license to Springer Nature Switzerland AG.
+KW  - Brain tumor segmentation
+KW  - BRATS
+KW  - Image segmentation
+KW  - Swin transformer
+KW  - Swin UNETR
+KW  - UNETR
+KW  - Vision transformer
+KW  - Benchmarking
+KW  - Brain
+KW  - Convolution
+KW  - Convolutional neural networks
+KW  - Diagnosis
+KW  - Magnetic resonance imaging
+KW  - Medical imaging
+KW  - Natural language processing systems
+KW  - Network architecture
+KW  - Semantics
+KW  - Signal encoding
+KW  - Tumors
+KW  - Brain tumor segmentation
+KW  - Brain tumors
+KW  - BRATS
+KW  - Convolutional neural network
+KW  - Images segmentations
+KW  - Semantic segmentation
+KW  - Swin transformer
+KW  - Swin UNEt transformer
+KW  - UNETR
+KW  - Vision transformer
+KW  - Semantic Segmentation
+A2  - Crimi A.
+A2  - Bakas S.
+PB  - Springer Science and Business Media Deutschland GmbH
+SN  - 03029743 (ISSN); 978-303108998-5 (ISBN)
+LA  - English
+J2  - Lect. Notes Comput. Sci.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 483; Correspondence Address: A. Hatamizadeh; NVIDIA, Santa Clara, United States; email: ahatamizadeh@nvidia.com; Conference name: 7th International Brain Lesion Workshop, BrainLes 2021, held in conjunction with the Medical Image Computing and Computer Assisted Intervention, MICCAI 2021; Conference date: 27 September 2021 through 27 September 2021; Conference code: 280639
+ER  -
+
+TY  - JOUR
+AU  - Lauriola, I.
+AU  - Lavelli, A.
+AU  - Aiolli, F.
+TI  - An introduction to Deep Learning in Natural Language Processing: Models, techniques, and tools
+PY  - 2022
+T2  - Neurocomputing
+VL  - 470
+SP  - 443
+EP  - 456
+DO  - 10.1016/j.neucom.2021.05.103
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85112567461&doi=10.1016%2fj.neucom.2021.05.103&partnerID=40&md5=3fb8d718445a6b4b81331f75cc483edb
+AD  - Amazon Alexa AI
+AD  - University of Padova, Department of Mathematics, Italy
+AD  - Fondazione Bruno Kessler, Italy
+AB  - Natural Language Processing (NLP) is a branch of artificial intelligence that involves the design and implementation of systems and algorithms able to interact through human language. Thanks to the recent advances of deep learning, NLP applications have received an unprecedented boost in performance. In this paper, we present a survey of the application of deep learning techniques in NLP, with a focus on the various tasks where deep learning is demonstrating stronger impact. Additionally, we explore, describe, and revise the main resources in NLP research, including software, hardware, and popular corpora. Finally, we emphasize the main limits of deep learning in NLP and current research directions. © 2021 Elsevier B.V.
+KW  - Deep Learning
+KW  - Language Models
+KW  - Natural Language Processing
+KW  - Software
+KW  - Transformer
+KW  - Deep learning
+KW  - Deep learning
+KW  - Language modeling
+KW  - Language processing
+KW  - Modelling tools
+KW  - Natural languages
+KW  - Processing model
+KW  - Processing technique
+KW  - Processing tools
+KW  - Software
+KW  - Transformer
+KW  - article
+KW  - deep learning
+KW  - human
+KW  - human experiment
+KW  - natural language processing
+KW  - software
+KW  - Natural language processing systems
+PB  - Elsevier B.V.
+SN  - 09252312 (ISSN)
+LA  - English
+J2  - Neurocomputing
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 333; Correspondence Address: A. Lavelli; Fondazione Bruno Kessler, Italy; email: lavelli@fbk.eu; CODEN: NRCGE
+ER  -
+
+TY  - JOUR
+AU  - Chandrasekaran, D.
+AU  - Mago, V.
+TI  - Evolution of Semantic Similarity-A Survey
+PY  - 2022
+T2  - ACM Computing Surveys
+VL  - 54
+IS  - 2
+C7  - 41
+DO  - 10.1145/3440755
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85105766084&doi=10.1145%2f3440755&partnerID=40&md5=061fb1f65175c86430f220f9f26956e8
+AD  - Lakehead University, 955 Oliver Road, Thunderbay, P7B 5E1, ON, Canada
+AB  - Estimating the semantic similarity between text data is one of the challenging and open research problems in the field of Natural Language Processing (NLP). The versatility of natural language makes it difficult to define rule-based methods for determining semantic similarity measures. To address this issue, various semantic similarity methods have been proposed over the years. This survey article traces the evolution of such methods beginning from traditional NLP techniques such as kernel-based methods to the most recent research work on transformer-based models, categorizing them based on their underlying principles as knowledge-based, corpus-based, deep neural network-based methods, and hybrid methods. Discussing the strengths and weaknesses of each method, this survey provides a comprehensive view of existing systems in place for new researchers to experiment and develop innovative ideas to address the issue of semantic similarity. © 2021 ACM.
+KW  - corpus-based methods
+KW  - knowledge-based methods
+KW  - linguistics
+KW  - Semantic similarity
+KW  - supervised and unsupervised methods
+KW  - word embeddings
+KW  - Deep neural networks
+KW  - Knowledge based systems
+KW  - Natural language processing systems
+KW  - Semantics
+KW  - Corpus-based methods
+KW  - Embeddings
+KW  - Knowledge-based methods
+KW  - Natural languages
+KW  - Research problems
+KW  - Semantic similarity
+KW  - Supervised methods
+KW  - Text data
+KW  - Unsupervised method
+KW  - Word embedding
+KW  - Surveys
+PB  - Association for Computing Machinery
+SN  - 03600300 (ISSN)
+LA  - English
+J2  - ACM Comput Surv
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 197; CODEN: ACSUE
+ER  -
+
+TY  - JOUR
+AU  - Khan, S.
+AU  - Naseer, M.
+AU  - Hayat, M.
+AU  - Zamir, S.W.
+AU  - Khan, F.S.
+AU  - Shah, M.
+TI  - Transformers in Vision: A Survey
+PY  - 2022
+T2  - ACM Computing Surveys
+VL  - 54
+IS  - 10
+C7  - 200
+DO  - 10.1145/3505244
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85146648064&doi=10.1145%2f3505244&partnerID=40&md5=c47712d45818aab5311b5c5e74fe07ed
+AD  - MBZUAI, UAE and Australian National University, Canberra, ACT, Australia
+AD  - Department of DSAI, Faculty of IT, Monash University, Clayton, VIC, Australia
+AD  - Inception Institute of Artificial Intelligence, Masdar City, Abu Dhabi, United Arab Emirates
+AD  - MBZUAI, UAE and CVL, Linköping University, Linköping, Sweden
+AD  - CRCV, University of Central Florida, Orlando, FL, United States
+AB  - Astounding results from Transformer models on natural language tasks have intrigued the vision community to study their application to computer vision problems. Among their salient benefits, Transformers enable modeling long dependencies between input sequence elements and support parallel processing of sequence as compared to recurrent networks, e.g., Long short-term memory. Different from convolutional networks, Transformers require minimal inductive biases for their design and are naturally suited as set-functions. Furthermore, the straightforward design of Transformers allows processing multiple modalities (e.g., images, videos, text, and speech) using similar processing blocks and demonstrates excellent scalability to very large capacity networks and huge datasets. These strengths have led to exciting progress on a number of vision tasks using Transformer networks. This survey aims to provide a comprehensive overview of the Transformer models in the computer vision discipline. We start with an introduction to fundamental concepts behind the success of Transformers, i.e., self-attention, large-scale pre-training, and bidirectional feature encoding. We then cover extensive applications of transformers in vision including popular recognition tasks (e.g., image classification, object detection, action recognition, and segmentation), generative modeling, multi-modal tasks (e.g., visual-question answering, visual reasoning, and visual grounding), video processing (e.g., activity recognition, video forecasting), low-level vision (e.g., image super-resolution, image enhancement, and colorization), and three-dimensional analysis (e.g., point cloud classification and segmentation). We compare the respective advantages and limitations of popular techniques both in terms of architectural design and their experimental value. Finally, we provide an analysis on open research directions and possible future works. We hope this effort will ignite further interest in the community to solve current challenges toward the application of transformer models in computer vision.  © 2022 Association for Computing Machinery.
+KW  - bidirectional encoders
+KW  - convolutional networks
+KW  - deep neural networks
+KW  - literature survey
+KW  - Self-attention
+KW  - self-supervision
+KW  - transformers
+KW  - Computer vision
+KW  - Convolution
+KW  - Image enhancement
+KW  - Image segmentation
+KW  - Large dataset
+KW  - Natural language processing systems
+KW  - Network coding
+KW  - Object detection
+KW  - Object recognition
+KW  - Recurrent neural networks
+KW  - Three dimensional computer graphics
+KW  - Video signal processing
+KW  - Bidirectional encoder
+KW  - Computer vision problems
+KW  - Convolutional networks
+KW  - Literature survey
+KW  - Natural languages
+KW  - Self-attention
+KW  - Self-supervision
+KW  - Transformer
+KW  - Transformer modeling
+KW  - Vision communities
+KW  - Deep neural networks
+PB  - Association for Computing Machinery
+SN  - 03600300 (ISSN)
+LA  - English
+J2  - ACM Comput Surv
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 1231; CODEN: ACSUE
+ER  -
+
+TY  - CONF
+AU  - Wang, Y.
+AU  - Mishra, S.
+AU  - Alipoormolabashi, P.
+AU  - Kordi, Y.
+AU  - Mirzaei, A.
+AU  - Arunkumar, A.
+AU  - Ashok, A.
+AU  - Dhanasekaran, A.S.
+AU  - Naik, A.
+AU  - Stap, D.
+AU  - Pathak, E.
+AU  - Karamanolakis, G.
+AU  - Lai, H.G.
+AU  - Purohit, I.
+AU  - Mondal, I.
+AU  - Anderson, J.
+AU  - Kuznia, K.
+AU  - Doshi, K.
+AU  - Patel, M.
+AU  - Pal, K.K.
+AU  - Moradshahi, M.
+AU  - Parmar, M.
+AU  - Purohit, M.
+AU  - Varshney, N.
+AU  - Kaza, P.R.
+AU  - Verma, P.
+AU  - Puri, R.S.
+AU  - Karia, R.
+AU  - Sampat, S.K.
+AU  - Doshi, S.
+AU  - Mishra, S.
+AU  - Reddy, S.
+AU  - Patro, S.
+AU  - Dixit, T.
+AU  - Shen, X.
+AU  - Baral, C.
+AU  - Choi, Y.
+AU  - Smith, N.A.
+AU  - Hajishirzi, H.
+AU  - Khashabi, D.
+TI  - SUPER-NATURALINSTRUCTIONS: Generalization via Declarative Instructions on 1600+ NLP Tasks
+PY  - 2022
+T2  - Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing, EMNLP 2022
+SP  - 5085
+EP  - 5109
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85143257592&partnerID=40&md5=ef2617c31531791ec03b2a1817a283ed
+AD  - Allen Institute for AI
+AD  - Univ. of Washington, United States
+AD  - Arizona State Univ, United States
+AD  - Sharif Univ. of Tech, Iran
+AD  - Tehran Polytechnic, Iran
+AD  - PSG College of Tech
+AD  - IIT Kharagpur, India
+AD  - Univ. of Amsterdam, Netherlands
+AD  - UC Berkeley, United States
+AD  - Columbia Univ, United States
+AD  - Factored AI
+AD  - Govt. Polytechnic Rajkot, India
+AD  - Microsoft Research
+AD  - Stanford Univ, United States
+AD  - Zycus Infotech
+AD  - Univ. of Massachusetts Amherst, United States
+AD  - National Inst. of Tech. Karnataka, India
+AD  - TCS Research
+AD  - IIT Madras, India
+AD  - National Univ. of Singapore, Singapore
+AD  - Johns Hopkins Univ, United States
+AB  - How well can NLP models generalize to a variety of unseen tasks when provided with task instructions? To address this question, we first introduce SUPER-NATURALINSTRUCTIONS, a benchmark of 1, 616 diverse NLP tasks and their expert-written instructions. Our collection covers 76 distinct task types, including but not limited to classification, extraction, infilling, sequence tagging, text rewriting, and text composition. This large and diverse collection of tasks enables rigorous benchmarking of cross-task generalization under instructions-training models to follow instructions on a subset of tasks and evaluating them on the remaining unseen ones. Furthermore, we build Tk-INSTRUCT, a transformer model trained to follow a variety of in-context instructions (plain language task definitions or k-shot examples). Our experiments show that Tk-INSTRUCT outperforms existing instruction-following models such as InstructGPT by over 9% on our benchmark despite being an order of magnitude smaller. We further analyze generalization as a function of various scaling parameters, such as the number of observed tasks, the number of instances per task, and model sizes. We hope our dataset and model facilitate future progress towards more general-purpose NLP models. © 2022 Association for Computational Linguistics.
+KW  - Classification (of information)
+KW  - Computational linguistics
+KW  - Text processing
+KW  - Generalisation
+KW  - In contexts
+KW  - Infilling
+KW  - Model size
+KW  - Orders of magnitude
+KW  - Scaling parameter
+KW  - Task type
+KW  - Training model
+KW  - Transformer modeling
+KW  - Natural language processing systems
+A2  - Goldberg Y.
+A2  - Kozareva Z.
+A2  - Zhang Y.
+PB  - Association for Computational Linguistics (ACL)
+LA  - English
+J2  - Proc. Conf. Empir. Methods Nat. Lang. Process., EMNLP
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 288; Conference name: 2022 Conference on Empirical Methods in Natural Language Processing, EMNLP 2022; Conference date: 7 December 2022 through 11 December 2022; Conference code: 186895
+ER  -
+
+TY  - JOUR
+AU  - Elnaggar, A.
+AU  - Heinzinger, M.
+AU  - Dallago, C.
+AU  - Rehawi, G.
+AU  - Wang, Y.
+AU  - Jones, L.
+AU  - Gibbs, T.
+AU  - Feher, T.
+AU  - Angerer, C.
+AU  - Steinegger, M.
+AU  - Bhowmik, D.
+AU  - Rost, B.
+TI  - ProtTrans: Toward Understanding the Language of Life Through Self-Supervised Learning
+PY  - 2022
+T2  - IEEE Transactions on Pattern Analysis and Machine Intelligence
+VL  - 44
+IS  - 10
+SP  - 7112
+EP  - 7127
+DO  - 10.1109/TPAMI.2021.3095381
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85138449494&doi=10.1109%2fTPAMI.2021.3095381&partnerID=40&md5=8fd0be18cacc69f9dde8b1485e306e22
+AD  - Technical University of Munich (TUM), Department of Informatics, Bioinformatics & Computational Biology - i12, Garching, Munich, 85748, Germany
+AD  - Med AI Technology (Wu Xi) Ltd., Jiang Su, WuXi, 214000, China
+AD  - Google, Google AI, Mountain View, 94043, CA, United States
+AD  - NVIDIA, Santa Clara, 95051, CA, United States
+AD  - Seoul National University, School of Biological Sciences, Seoul, 08826, South Korea
+AD  - Oak Ridge National Laboratory (ORNL), Oak Ridge, 37830, TN, United States
+AB  - Computational biology and bioinformatics provide vast data gold-mines from protein sequences, ideal for Language Models (LMs) taken from Natural Language Processing (NLP). These LMs reach for new prediction frontiers at low inference costs. Here, we trained two auto-regressive models (Transformer-XL, XLNet) and four auto-encoder models (BERT, Albert, Electra, T5) on data from UniRef and BFD containing up to 393 billion amino acids. The protein LMs (pLMs) were trained on the Summit supercomputer using 5616 GPUs and TPU Pod up-to 1024 cores. Dimensionality reduction revealed that the raw pLM-embeddings from unlabeled data captured some biophysical features of protein sequences. We validated the advantage of using the embeddings as exclusive input for several subsequent tasks: (1) a per-residue (per-token) prediction of protein secondary structure (3-state accuracy Q3=81%-87%); (2) per-protein (pooling) predictions of protein sub-cellular location (ten-state accuracy: Q10=81%) and membrane versus water-soluble (2-state accuracy Q2=91%). For secondary structure, the most informative embeddings (ProtT5) for the first time outperformed the state-of-the-art without multiple sequence alignments (MSAs) or evolutionary information thereby bypassing expensive database searches. Taken together, the results implied that pLMs learned some of the grammar of the language of life. All our models are available through https://github.com/agemagician/ProtTrans.  © 1979-2012 IEEE.
+KW  - Computational biology
+KW  - deep learning
+KW  - high performance computing
+KW  - language modeling
+KW  - machine learning
+KW  - Algorithms
+KW  - Computational Biology
+KW  - Natural Language Processing
+KW  - Proteins
+KW  - Supervised Machine Learning
+KW  - Amino acids
+KW  - Forecasting
+KW  - Long short-term memory
+KW  - Modeling languages
+KW  - Program processors
+KW  - Search engines
+KW  - Supercomputers
+KW  - Three dimensional displays
+KW  - protein
+KW  - Amino-acids
+KW  - Computational biology
+KW  - Computational modelling
+KW  - Deep learning
+KW  - High performance computing
+KW  - Language model
+KW  - Machine-learning
+KW  - Performance computing
+KW  - Task analysis
+KW  - Three-dimensional display
+KW  - algorithm
+KW  - biology
+KW  - chemistry
+KW  - natural language processing
+KW  - procedures
+KW  - supervised machine learning
+KW  - Proteins
+PB  - IEEE Computer Society
+SN  - 01628828 (ISSN)
+C2  - 34232869
+LA  - English
+J2  - IEEE Trans Pattern Anal Mach Intell
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 578; Correspondence Address: A. Elnaggar; Technical University of Munich (TUM), Department of Informatics, Bioinformatics & Computational Biology - i12, Munich, Garching, 85748, Germany; email: ahmed.elnaggar@tum.de; CODEN: ITPID
+ER  -
+
+TY  - CONF
+AU  - Baevski, A.
+AU  - Hsu, W.-N.
+AU  - Xu, Q.
+AU  - Babu, A.
+AU  - Gu, J.
+AU  - Auli, M.
+TI  - data2vec: A General Framework for Self-supervised Learning in Speech, Vision and Language
+PY  - 2022
+T2  - Proceedings of Machine Learning Research
+VL  - 162
+SP  - 1298
+EP  - 1312
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85163088369&partnerID=40&md5=4744ac75d7278d4a1451463931be669e
+AD  - Meta AI, United States
+AD  - SambaNova, United States
+AB  - While the general idea of self-supervised learning is identical across modalities, the actual algorithms and objectives differ widely because they were developed with a single modality in mind. To get us closer to general self-supervised learning, we present data2vec, a framework that uses the same learning method for either speech, NLP or computer vision. The core idea is to predict latent representations of the full input data based on a masked view of the input in a self-distillation setup using a standard Transformer architecture. Instead of predicting modality-specific targets such as words, visual tokens or units of human speech which are local in nature, data2vec predicts contextualized latent representations that contain information from the entire input. Experiments on the major benchmarks of speech recognition, image classification, and natural language understanding demonstrate a new state of the art or competitive performance to predominant approaches. Models and code are available at www.github.com/pytorch/fairseq/tree/master/examples/data2vec. Copyright © 2022 by the author(s)
+KW  - Benchmarking
+KW  - Distillation
+KW  - Learning algorithms
+KW  - Learning systems
+KW  - Speech recognition
+KW  - Competitive performance
+KW  - Human speech
+KW  - Images classification
+KW  - Input datas
+KW  - Learning methods
+KW  - Natural language understanding
+KW  - State-of-the-art performance
+KW  - Supervised learning
+A2  - Chaudhuri K.
+A2  - Jegelka S.
+A2  - Song L.
+A2  - Szepesvari C.
+A2  - Niu G.
+A2  - Sabato S.
+PB  - ML Research Press
+SN  - 26403498 (ISSN)
+LA  - English
+J2  - Proc. Mach. Learn. Res.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 233; Correspondence Address: A. Baevski; Meta AI, United States; email: abaevski@fb.com; M. Auli; Meta AI, United States; email: michaelauli@fb.com; Conference name: 39th International Conference on Machine Learning, ICML 2022; Conference date: 17 July 2022 through 23 July 2022; Conference code: 189002
+ER  -
+

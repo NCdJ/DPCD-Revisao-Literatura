@@ -1,0 +1,483 @@
+﻿TY  - JOUR
+AU  - Saberi, B.
+AU  - Saad, S.
+TI  - Sentiment analysis or opinion mining: A review
+PY  - 2017
+T2  - International Journal on Advanced Science, Engineering and Information Technology
+VL  - 7
+IS  - 5
+SP  - 1660
+EP  - 1666
+DO  - 10.18517/ijaseit.7.5.2137
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85032695832&doi=10.18517%2fijaseit.7.5.2137&partnerID=40&md5=69df3f5ca5b35f81bebc444c42240520
+AD  - Centre for Artificial Intelligence Technology (CAIT), Faculty of Information Science and Technology, Universiti Kebangsaan Malaysia (UKM), Bangi, Selangor, 43600, Malaysia
+AB  - Opinion Mining (OM) or Sentiment Analysis (SA) can be defined as the task of detecting, extracting and classifying opinions on something. It is a type of the processing of the natural language (NLP) to track the public mood to a certain law, policy, or marketing, etc. It involves a way that development for the collection and examination of comments and opinions about legislation, laws, policies, etc., which are posted on the social media. The process of information extraction is very important because it is a very useful technique but also a challenging task. That mean, to extract sentiment from an object in the web-wide, need to automate opinion-mining systems to do it. The existing techniques for sentiment analysis include machine learning (supervised and unsupervised), and lexical-based approaches. Hence, the main aim of this paper presents a survey of sentiment analysis (SA) and opinion mining (OM) approaches, various techniques used that related in this field. As well, it discusses the application areas and challenges for sentiment analysis with insight into the past researcher's works.
+KW  - Lexical-based
+KW  - Machine learning
+KW  - NLP
+KW  - Opinion mining
+KW  - Sentiment analysis
+PB  - Insight Society
+SN  - 20885334 (ISSN)
+LA  - English
+J2  - Int. J. Adv. Sci. Eng. Inf. Technol.
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 21 December 2024; Cited By: 76
+ER  -
+
+TY  - JOUR
+AU  - Ikebata, H.
+AU  - Hongo, K.
+AU  - Isomura, T.
+AU  - Maezono, R.
+AU  - Yoshida, R.
+TI  - Bayesian molecular design with a chemical language model
+PY  - 2017
+T2  - Journal of Computer-Aided Molecular Design
+VL  - 31
+IS  - 4
+SP  - 379
+EP  - 391
+DO  - 10.1007/s10822-016-0008-z
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85014618723&doi=10.1007%2fs10822-016-0008-z&partnerID=40&md5=23d6940e77c06daba16811f3fbd9676f
+AD  - The Graduate University for Advanced Studies (SOKENDAI), Tachikawa, Japan
+AD  - Japan Advanced Institute of Science and Technology (JAIST), Nomi, Japan
+AD  - National Institute for Materials Science (NIMS), Tsukuba, Japan
+AD  - PRESTO, Japan Science and Technology Agency (JST), Kawaguchi, Japan
+AD  - The KAITEKI Institute, Inc., Tokyo, Japan
+AD  - The Institute of Statistical Mathematics (ISM), Research Organization of Information and Systems, Tachikawa, Japan
+AB  - The aim of computational molecular design is the identification of promising hypothetical molecules with a predefined set of desired properties. We address the issue of accelerating the material discovery with state-of-the-art machine learning techniques. The method involves two different types of prediction; the forward and backward predictions. The objective of the forward prediction is to create a set of machine learning models on various properties of a given molecule. Inverting the trained forward models through Bayes’ law, we derive a posterior distribution for the backward prediction, which is conditioned by a desired property requirement. Exploring high-probability regions of the posterior with a sequential Monte Carlo technique, molecules that exhibit the desired properties can computationally be created. One major difficulty in the computational creation of molecules is the exclusion of the occurrence of chemically unfavorable structures. To circumvent this issue, we derive a chemical language model that acquires commonly occurring patterns of chemical fragments through natural language processing of ASCII strings of existing compounds, which follow the SMILES chemical language notation. In the backward prediction, the trained language model is used to refine chemical strings such that the properties of the resulting structures fall within the desired property region while chemically unfavorable structures are successfully removed. The present method is demonstrated through the design of small organic molecules with the property requirements on HOMO-LUMO gap and internal energy. The R package iqspr is available at the CRAN repository. © 2017, The Author(s).
+KW  - Bayesian analysis
+KW  - Inverse-QSPR
+KW  - Molecular design
+KW  - Natural language processing
+KW  - Small organic molecules
+KW  - SMILES
+KW  - Bayes Theorem
+KW  - Computer Simulation
+KW  - Computer-Aided Design
+KW  - Drug Design
+KW  - Machine Learning
+KW  - Models, Chemical
+KW  - Molecular Structure
+KW  - Monte Carlo Method
+KW  - Pharmaceutical Preparations
+KW  - Small Molecule Libraries
+KW  - Software
+KW  - Artificial intelligence
+KW  - Chemical analysis
+KW  - Computational linguistics
+KW  - Forecasting
+KW  - Inverse problems
+KW  - Learning systems
+KW  - Monte Carlo methods
+KW  - Natural language processing systems
+KW  - drug
+KW  - molecular library
+KW  - Bayesian Analysis
+KW  - Inverse-QSPR
+KW  - Language model
+KW  - Language processing
+KW  - Molecular design
+KW  - Natural language processing
+KW  - Natural languages
+KW  - Property
+KW  - Small organic molecules
+KW  - SMILES
+KW  - Article
+KW  - Bayes theorem
+KW  - Bayesian learning
+KW  - Bayesian molecular design
+KW  - chemical language model
+KW  - chemical model
+KW  - language
+KW  - machine learning
+KW  - molecule
+KW  - Monte Carlo method
+KW  - natural language processing
+KW  - prediction
+KW  - priority journal
+KW  - Bayes theorem
+KW  - chemical model
+KW  - chemical structure
+KW  - chemistry
+KW  - computer aided design
+KW  - computer simulation
+KW  - drug design
+KW  - machine learning
+KW  - molecular library
+KW  - software
+KW  - Molecules
+PB  - Springer International Publishing
+SN  - 0920654X (ISSN)
+C2  - 28281211
+LA  - English
+J2  - J. Comp.-Aided Mol. Des.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 21 December 2024; Cited By: 96; Correspondence Address: R. Yoshida; The Institute of Statistical Mathematics (ISM), Research Organization of Information and Systems, Tachikawa, Japan; email: yoshidar@ism.ac.jp; CODEN: JCADE
+ER  -
+
+TY  - CONF
+AU  - Şulea, O.-M.
+AU  - Zampieri, M.
+AU  - Vela, M.
+AU  - Van Genabith, J.
+TI  - Predicting the law area and decisions of French supreme court cases
+PY  - 2017
+T2  - International Conference Recent Advances in Natural Language Processing, RANLP
+VL  - 2017-September
+SP  - 716
+EP  - 722
+DO  - 10.26615/978-954-452-049-6_092
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85045748465&doi=10.26615%2f978-954-452-049-6_092&partnerID=40&md5=147d66c7c52f08d098886a25b8267a91
+AD  - University of Bucharest, Romania
+AD  - University of Wolverhampton, United Kingdom
+AD  - Saarland University, Germany
+AD  - German Research Center for Artificial Intelligence (DFKI), Germany
+AB  - In this paper, we investigate the application of text classification methods to predict the law area and the decision of cases judged by the French Supreme Court. We also investigate the influence of the time period in which a ruling was made over the textual form of the case description and the extent to which it is necessary to mask the judge's motivation for a ruling to emulate a real-world test scenario. We report results of 96% f1 score in predicting a case ruling, 90% f1 score in predicting the law area of a case, and 75.9% f1 score in estimating the time span when a ruling has been issued using a linear Support Vector Machine (SVM) classifier trained on lexical features. © 2018 Association for Computational Linguistics (ACL). All rights reserved.
+KW  - Classification (of information)
+KW  - Deep learning
+KW  - Law enforcement
+KW  - Natural language processing systems
+KW  - Support vector machines
+KW  - Text processing
+KW  - Case description
+KW  - Court case
+KW  - F1 scores
+KW  - Linear Support Vector Machines
+KW  - Real-world tests
+KW  - Supreme Court
+KW  - Test scenario
+KW  - Text classification methods
+KW  - Time span
+KW  - Time-periods
+KW  - Forecasting
+A2  - Angelova G.
+A2  - Bontcheva K.
+A2  - Mitkov R.
+A2  - Nikolova I.
+A2  - Temnikova I.
+PB  - Incoma Ltd
+SN  - 13138502 (ISSN); 978-954452048-9 (ISBN)
+LA  - English
+J2  - Int. Conf. Recent Adv. Nat. Lang. Proces., RANLP
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 21 December 2024; Cited By: 72; Conference name: 11th International Conference on Recent Advances in Natural Language Processing, RANLP 2017; Conference date: 2 September 2017 through 8 September 2017; Conference code: 135740
+ER  -
+
+TY  - CONF
+AU  - Vasyl, L.
+AU  - Victoria, V.
+AU  - Dmytro, D.
+AU  - Roman, H.
+AU  - Zoriana, R.
+TI  - Application of sentence parsing for determining keywords in Ukrainian texts
+PY  - 2017
+T2  - Proceedings of the 12th International Scientific and Technical Conference on Computer Sciences and Information Technologies, CSIT 2017
+VL  - 1
+C7  - 8098797
+SP  - 326
+EP  - 331
+DO  - 10.1109/STC-CSIT.2017.8098797
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85040784016&doi=10.1109%2fSTC-CSIT.2017.8098797&partnerID=40&md5=582f6f61682e49cd3cdb8873b91307d3
+AD  - Information Systems and Network Department, Lviv Polytechnic National University, Lviv, Ukraine
+AD  - Social Communication Department, Lviv Polytechnic National University, Lviv, Ukraine
+AB  - The article presents the use of generative grammars in linguistic modeling. A description of sentence syntax modeling is used to automate the process of analysis and synthesis of natural language texts. The article reveals the features of synthesizing sentences of different languages with the use of generative grammars. The article examines influence of norms and rules of a language on the process of constructing grammars. The use of generative grammars has great potential in the development and creation of automated systems for text content processing, linguistic support for linguistic computer systems etc. In natural languages there are situations where notions, which are dependent on the context, are described as independent of context, i.e. in terms of context-free grammars. This description is complicated by the formation of new categories and rules. The article features the process of introducing new restrictions on these grammar classes through the introduction of new rules. Uncut grammars were received if the number of characters in the right part of the rules were not less than the number of characters in the left one. Then by replacing the only character a context-sensitive grammar was received. A grammar with only one character in the left part of the rule is called a context-free grammar. No further natural restrictions may be applied to the left part of a rule. Based on the importance of automatic processing of text content in modern information media (e.g., information retrieval systems, machine translation, semantic, statistical, optical and acoustic analysis and speech synthesis, automated editing, extracting knowledge from text content, abstracting and annotating text content, indexing text content, teaching and didactic, management of linguistic corpora, various tools for lexicography, etc.), specialists are actively looking for new models, ways of their description and methods of automatic processing of text content. One of such methods lies in developing general principles of syntactic lexicographical systems formation and developing mentioned systems of processing text content for specific languages based in these principles. Any parsing tools consist of two parts: a knowledge base of concrete natural language and parsing algorithm, i.e. a set of standard operators of text content processing based on this knowledge. The source of grammatical knowledge is data of morphological analysis and various tables filled with concepts and linguistic units. They are the result of an empirical study of the text content in natural language by experts aiming at highlighting the basic laws for parsing. © 2017 IEEE.
+KW  - algorithm
+KW  - content monitoring
+KW  - generative grammar
+KW  - linguistic analysis
+KW  - linguistic information system
+KW  - parsing
+KW  - sentence structure scheme
+KW  - text
+KW  - Ukrainian language
+KW  - Algorithms
+KW  - Automation
+KW  - Context free grammars
+KW  - Context sensitive grammars
+KW  - Formal languages
+KW  - Indexing (materials working)
+KW  - Information management
+KW  - Information retrieval
+KW  - Information retrieval systems
+KW  - Knowledge based systems
+KW  - Linguistics
+KW  - Modeling languages
+KW  - Natural language processing systems
+KW  - Search engines
+KW  - Semantics
+KW  - Speech synthesis
+KW  - Speech transmission
+KW  - Syntactics
+KW  - generative grammar
+KW  - Linguistic analysis
+KW  - Linguistic information
+KW  - parsing
+KW  - Sentence structures
+KW  - text
+KW  - Ukrainian language
+KW  - Context free languages
+PB  - Institute of Electrical and Electronics Engineers Inc.
+SN  - 978-153861638-3 (ISBN)
+LA  - English
+J2  - Proc. Int. Sci. Tech. Conf. Comput. Sci. Inf. Technol., CSIT
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 21 December 2024; Cited By: 47; Conference name: 12th International Scientific and Technical Conference on Computer Sciences and Information Technologies, CSIT 2017; Conference date: 5 September 2017 through 8 September 2017; Conference code: 132357
+ER  -
+
+TY  - JOUR
+AU  - Shulayeva, O.
+AU  - Siddharthan, A.
+AU  - Wyner, A.
+TI  - Recognizing cited facts and principles in legal judgements
+PY  - 2017
+T2  - Artificial Intelligence and Law
+VL  - 25
+IS  - 1
+SP  - 107
+EP  - 126
+DO  - 10.1007/s10506-017-9197-6
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85014898719&doi=10.1007%2fs10506-017-9197-6&partnerID=40&md5=0555bcd44aa7b230b0572dbcf35bee13
+AD  - Department of Computing Science, University of Aberdeen, Aberdeen, United Kingdom
+AB  - In common law jurisdictions, legal professionals cite facts and legal principles from precedent cases to support their arguments before the court for their intended outcome in a current case. This practice stems from the doctrine of stare decisis, where cases that have similar facts should receive similar decisions with respect to the principles. It is essential for legal professionals to identify such facts and principles in precedent cases, though this is a highly time intensive task. In this paper, we present studies that demonstrate that human annotators can achieve reasonable agreement on which sentences in legal judgements contain cited facts and principles (respectively, κ= 0.65 and κ= 0.95 for inter- and intra-annotator agreement). We further demonstrate that it is feasible to automatically annotate sentences containing such legal facts and principles in a supervised machine learning framework based on linguistic features, reporting per category precision and recall figures of between 0.79 and 0.89 for classifying sentences in legal judgements as cited facts, principles or neither using a Bayesian classifier, with an overall κ of 0.72 with the human-annotated gold standard. © 2017, The Author(s).
+KW  - Citations
+KW  - Legal judgements
+KW  - Natural language processing
+KW  - Learning algorithms
+KW  - Learning systems
+KW  - Linguistics
+KW  - Supervised learning
+KW  - Bayesian classifier
+KW  - Citations
+KW  - Legal judgements
+KW  - Legal principles
+KW  - Linguistic features
+KW  - NAtural language processing
+KW  - Precision and recall
+KW  - Supervised machine learning
+KW  - Natural language processing systems
+PB  - Springer Netherlands
+SN  - 09248463 (ISSN)
+LA  - English
+J2  - Artif Intell Law
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 21 December 2024; Cited By: 57; Correspondence Address: A. Wyner; Department of Computing Science, University of Aberdeen, Aberdeen, United Kingdom; email: azwyner@abdn.ac.uk; CODEN: AINLE
+ER  -
+
+TY  - CONF
+AU  - Luo, B.
+AU  - Feng, Y.
+AU  - Xu, J.
+AU  - Zhang, X.
+AU  - Zhao, D.
+TI  - Learning to predict charges for criminal cases with legal basis
+PY  - 2017
+T2  - EMNLP 2017 - Conference on Empirical Methods in Natural Language Processing, Proceedings
+SP  - 2727
+EP  - 2736
+DO  - 10.18653/v1/d17-1289
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85057347230&doi=10.18653%2fv1%2fd17-1289&partnerID=40&md5=4ebd68f2f101afbbeec3194acef66e54
+AD  - Institute of Computer Science and Technology, Peking University, China
+AD  - Beijing Institute of Big Data Research, China
+AB  - The charge prediction task is to determine appropriate charges for a given case, which is helpful for legal assistant systems where the user input is fact description. We argue that relevant law articles play an important role in this task, and therefore propose an attention-based neural network method to jointly model the charge prediction task and the relevant article extraction task in a unified framework. The experimental results show that, besides providing legal basis, the relevant articles can also clearly improve the charge prediction results, and our full model can effectively predict appropriate charges for cases with different expression styles. © 2017 Association for Computational Linguistics.
+KW  - Natural language processing systems
+KW  - Criminal case
+KW  - Expression styles
+KW  - Fact descriptions
+KW  - Full model
+KW  - Neural network method
+KW  - Prediction tasks
+KW  - Unified framework
+KW  - User input
+KW  - Forecasting
+PB  - Association for Computational Linguistics (ACL)
+SN  - 978-194562683-8 (ISBN)
+LA  - English
+J2  - EMNLP - Conf. Empir. Methods Nat. Lang. Process., Proc.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 21 December 2024; Cited By: 196; Conference name: 2017 Conference on Empirical Methods in Natural Language Processing, EMNLP 2017; Conference date: 9 September 2017 through 11 September 2017; Conference code: 150071
+ER  -
+
+TY  - JOUR
+AU  - Nissan, E.
+TI  - Digital technologies and artificial intelligence’s present and foreseeable impact on lawyering, judging, policing and law enforcement
+PY  - 2017
+T2  - AI and Society
+VL  - 32
+IS  - 3
+SP  - 441
+EP  - 464
+DO  - 10.1007/s00146-015-0596-5
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84944608649&doi=10.1007%2fs00146-015-0596-5&partnerID=40&md5=08e61642526c01bef39139c6ee06d871
+AD  - Department of Computing, Goldsmiths’ College, University of London, London, United Kingdom
+AD  - 282 Gipsy Road, Welling, Kent, England, DA16 1JJ, United Kingdom
+AB  - ‘AI & Law’ research has been around since the 1970s, even though with shifting emphasis. This is an overview of the contributions of digital technologies, both artificial intelligence and non-AI smart tools, to both the legal professions and the police. For example, we briefly consider text mining and case-automated summarization, tools supporting argumentation, tools concerning sentencing based on the technique of case-based reasoning, the role of abductive reasoning, research into applying AI to legal evidence, tools for fighting crime and tools for identification. © 2015, Springer-Verlag London.
+KW  - AI & Law
+KW  - Argumentation
+KW  - Case-based reasoning
+KW  - Crime scenarios
+KW  - Fraud detection
+KW  - Lawyering
+KW  - Legal evidence
+KW  - Policing
+KW  - Prosecuting
+KW  - Sentencing
+KW  - Artificial intelligence
+KW  - Crime
+KW  - Data mining
+KW  - Law enforcement
+KW  - Laws and legislation
+KW  - Natural language processing systems
+KW  - Argumentation
+KW  - Fraud detection
+KW  - Lawyering
+KW  - Legal evidence
+KW  - Policing
+KW  - Prosecuting
+KW  - Sentencing
+KW  - Case based reasoning
+PB  - Springer London
+SN  - 09515666 (ISSN)
+LA  - English
+J2  - AI Soc.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 21 December 2024; Cited By: 46; Correspondence Address: E. Nissan; Department of Computing, Goldsmiths’ College, University of London, London, United Kingdom; email: ephraim.nissan@hotmail.co.uk
+ER  -
+
+TY  - JOUR
+AU  - Nokhbeh Zaeem, R.
+AU  - Manoharan, M.
+AU  - Yang, Y.
+AU  - Barber, K.S.
+TI  - Modeling and analysis of identity threat behaviors through text mining of identity theft stories
+PY  - 2017
+T2  - Computers and Security
+VL  - 65
+SP  - 50
+EP  - 63
+DO  - 10.1016/j.cose.2016.11.002
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84995920389&doi=10.1016%2fj.cose.2016.11.002&partnerID=40&md5=7f33e7db5fe62ca68df3cd3361cf3ab4
+AD  - The Center for Identity, The University of Texas at Austin, United States
+AB  - Identity theft, fraud, and abuse are problems affecting the entire society. Identity theft is often a “gateway” crime, as criminals use stolen or fraudulent identities to steal money, claim eligibility for services, hack into networks without authorization, and so on. The available data describing identity crimes and their aftermath are often in the form of recorded stories and reports by the news press, fraud examiners, and law enforcement. All of these sources are unstructured. In order to analyze identity theft data, this research proposes an approach which involves the novel collection of online news stories and reports on the topic of identity theft. Our approach pre-processes the raw text and extracts semi-structured information automatically, using text mining techniques. This paper presents statistical analysis of behavioral patterns and resources used by thieves and fraudsters to commit identity theft, including the identity attributes commonly linked to identity crimes, resources thieves employ to conduct identity crimes, and temporal patterns of criminal behavior. Furthermore, the automatically extracted information is validated against manually investigated news stories. Analyses of these results increase empirical understanding of identity threat behaviors, offer early warning signs of identity theft, and thwart future identity theft crimes. © 2016 Elsevier Ltd
+KW  - Identity theft
+KW  - Named entity recognition
+KW  - News stories
+KW  - PII attributes
+KW  - Text mining
+KW  - Character recognition
+KW  - Data mining
+KW  - Gateways (computer networks)
+KW  - Laws and legislation
+KW  - Natural language processing systems
+KW  - Text processing
+KW  - Identity theft
+KW  - Named entity recognition
+KW  - News stories
+KW  - PII attributes
+KW  - Text mining
+KW  - Crime
+PB  - Elsevier Ltd
+SN  - 01674048 (ISSN)
+LA  - English
+J2  - Comput Secur
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 21 December 2024; Cited By: 52; Correspondence Address: R. Nokhbeh Zaeem; The Center for Identity, The University of Texas at Austin, United States; email: razieh@identity.utexas.edu; CODEN: CPSED
+ER  -
+
+TY  - CONF
+AU  - Dubossarsky, H.
+AU  - Grossman, E.
+AU  - Weinshall, D.
+TI  - Outta control: Laws of semantic change and inherent biases in word representation models
+PY  - 2017
+T2  - EMNLP 2017 - Conference on Empirical Methods in Natural Language Processing, Proceedings
+SP  - 1136
+EP  - 1145
+DO  - 10.18653/v1/d17-1118
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85055804860&doi=10.18653%2fv1%2fd17-1118&partnerID=40&md5=8b1205d5178d4ff98c935c50bbedb952
+AD  - Edmond and Lily Safra Center for Brain Sciences, Hebrew University of Jerusalem, Jerusalem, 91904, Israel
+AD  - Department of Linguistics, Hebrew University of Jerusalem, Jerusalem, 91904, Israel
+AD  - School of Computer Science and Engineering, Hebrew University of Jerusalem, Jerusalem, 91904, Israel
+AB  - This article evaluates three proposed laws of semantic change. Our claim is that in order to validate a putative law of semantic change, the effect should be observed in the genuine condition but absent or reduced in a suitably matched control condition, in which no change can possibly have taken place. Our analysis shows that the effects reported in recent literature must be substantially revised: (i) the proposed negative correlation between meaning change and word frequency is shown to be largely an artefact of the models of word representation used; (ii) the proposed negative correlation between meaning change and prototypicality is shown to be much weaker than what has been claimed in prior art; and (iii) the proposed positive correlation between meaning change and polysemy is largely an artefact of word frequency. These empirical observations are corroborated by analytical proofs that show that count representations introduce an inherent dependence on word frequency, and thus word frequency cannot be evaluated as an independent factor with these representations. © 2017 Association for Computational Linguistics.
+KW  - Semantics
+KW  - Matched controls
+KW  - Negative correlation
+KW  - Positive correlations
+KW  - Prior arts
+KW  - Prototypicality
+KW  - Word frequencies
+KW  - Word representations
+KW  - Natural language processing systems
+PB  - Association for Computational Linguistics (ACL)
+SN  - 978-194562683-8 (ISBN)
+LA  - English
+J2  - EMNLP - Conf. Empir. Methods Nat. Lang. Process., Proc.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 21 December 2024; Cited By: 107; Conference name: 2017 Conference on Empirical Methods in Natural Language Processing, EMNLP 2017; Conference date: 9 September 2017 through 11 September 2017; Conference code: 150071
+ER  -
+
+TY  - JOUR
+AU  - Eftimov, T.
+AU  - Korošec, P.
+AU  - Koroušić Seljak, B.
+TI  - Standfood: Standardization of foods using a semi-automatic system for classifying and describing foods according to FoodEx2
+PY  - 2017
+T2  - Nutrients
+VL  - 9
+IS  - 6
+C7  - 542
+DO  - 10.3390/nu9060542
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85019996728&doi=10.3390%2fnu9060542&partnerID=40&md5=df808bbd0a71d602b1cf94f7c8f97d83
+AD  - Computer Systems Department, Jožef Stefan Institute, Jamova cesta 39, Ljubljana, 1000, Slovenia
+AD  - Jožef Stefan International Postgraduate School, Jamova cesta 39, Ljubljana, 1000, Slovenia
+AD  - Faculty of Mathematics, Natural Science and Information Technologies, Glagoljaška ulica 8, Koper, 6000, Slovenia
+AB  - The European Food Safety Authority has developed a standardized food classification and description system called FoodEx2. It uses facets to describe food properties and aspects from various perspectives, making it easier to compare food consumption data from different sources and perform more detailed data analyses. However, both food composition data and food consumption data, which need to be linked, are lacking in FoodEx2 because the process of classification and description has to be manually performed—a process that is laborious and requires good knowledge of the system and also good knowledge of food (composition, processing, marketing, etc.). In this paper, we introduce a semi-automatic system for classifying and describing foods according to FoodEx2, which consists of three parts. The first involves a machine learning approach and classifies foods into four FoodEx2 categories, with two for single foods: raw (r) and derivatives (d), and two for composite foods: simple (s) and aggregated (c). The second uses a natural language processing approach and probability theory to describe foods. The third combines the result from the first and the second part by defining post-processing rules in order to improve the result for the classification part. We tested the system using a set of food items (from Slovenia) manually-coded according to FoodEx2. The new semi-automatic system obtained an accuracy of 89% for the classification part and 79% for the description part, or an overall result of 79% for the whole system. © 2017 by the authors. Licensee MDPI, Basel, Switzerland.
+KW  - Food classification
+KW  - Food description
+KW  - Food standardization
+KW  - FoodEx2
+KW  - Machine learning
+KW  - Natural language processing
+KW  - Consumer Product Safety
+KW  - Food
+KW  - Food Handling
+KW  - Food Quality
+KW  - Food Safety
+KW  - Humans
+KW  - Legislation, Food
+KW  - Slovenia
+KW  - human
+KW  - human experiment
+KW  - machine learning
+KW  - natural language processing
+KW  - ordo
+KW  - probability theory
+KW  - Slovenia
+KW  - standardization
+KW  - food
+KW  - food handling
+KW  - food quality
+KW  - food safety
+KW  - law
+KW  - product safety
+KW  - standards
+PB  - MDPI AG
+SN  - 20726643 (ISSN)
+C2  - 28587103
+LA  - English
+J2  - Nutrients
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 21 December 2024; Cited By: 51; Correspondence Address: T. Eftimov; Computer Systems Department, Jožef Stefan Institute, Ljubljana, Jamova cesta 39, 1000, Slovenia; email: tome.eftimov@ijs.si
+ER  -
+

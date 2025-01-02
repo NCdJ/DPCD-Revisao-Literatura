@@ -1,0 +1,142 @@
+﻿TY  - CONF
+AU  - Núñez-Robinson, D.
+AU  - Talavera-Montalto, J.
+AU  - Ugarte, W.
+TI  - A Comparative Analysis on the Summarization of Legal Texts Using Transformer Models
+PY  - 2022
+T2  - Communications in Computer and Information Science
+VL  - 1675 CCIS
+SP  - 372
+EP  - 386
+DO  - 10.1007/978-3-031-20319-0_28
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85144232675&doi=10.1007%2f978-3-031-20319-0_28&partnerID=40&md5=7db54bd5c81ccb56546368b8e4aa66b7
+AD  - Universidad Peruana de Ciencias Aplicadas, Lima, Peru
+AB  - Transformer models have evolved natural language processing tasks in machine learning and set a new standard for the state of the art. Thanks to the self-attention component, these models have achieved significant improvements in text generation tasks (such as extractive and abstractive text summarization). However, research works involving text summarization and the legal domain are still in their infancy, and as such, benchmarks and a comparative analysis of these state of the art models is important for the future of text summarization of this highly specialized task. In order to contribute to these research works, the researchers propose a comparative analysis of different, fine-tuned Transformer models and datasets in order to provide a better understanding of the task at hand and the challenges ahead. The results show that Transformer models have improved upon the text summarization task, however, consistent and generalized learning is a challenge that still exists when training the models with large text dimensions. Finally, after analyzing the correlation between objective results and human opinion, the team concludes that the Recall-Oriented Understudy for Gisting Evaluation (ROUGE) [13] metrics used in the current state of the art are limited and do not reflect the precise quality of a generated summary. © 2022, The Author(s), under exclusive license to Springer Nature Switzerland AG.
+KW  - Abstractive text summarization
+KW  - Benchmark
+KW  - Deep learning
+KW  - Natural language processing
+KW  - Transformers
+KW  - Learning systems
+KW  - Natural language processing systems
+KW  - Quality control
+KW  - Text processing
+KW  - Abstractive text summarization
+KW  - Benchmark
+KW  - Comparative analyzes
+KW  - Deep learning
+KW  - Language processing
+KW  - Natural language processing
+KW  - Natural languages
+KW  - Text Summarisation
+KW  - Transformer
+KW  - Transformer modeling
+KW  - Deep learning
+A2  - Guarda T.
+A2  - Portela F.
+A2  - Augusto M.F.
+PB  - Springer Science and Business Media Deutschland GmbH
+SN  - 18650929 (ISSN); 978-303120318-3 (ISBN)
+LA  - English
+J2  - Commun. Comput. Info. Sci.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 1; Correspondence Address: W. Ugarte; Universidad Peruana de Ciencias Aplicadas, Lima, Peru; email: willy.ugarte@upc.pe; Conference name: 2nd International Conference on Advanced Research in Technologies, Information, Innovation and Sustainability, ARTIIS 2022; Conference date: 12 September 2022 through 15 September 2022; Conference code: 286829
+ER  -
+
+TY  - JOUR
+AU  - Vu, S.T.
+AU  - Le Nguyen, M.
+AU  - Satoh, K.
+TI  - Abstract meaning representation for legal documents: an empirical research on a human-annotated dataset
+PY  - 2022
+T2  - Artificial Intelligence and Law
+VL  - 30
+IS  - 2
+SP  - 221
+EP  - 243
+DO  - 10.1007/s10506-021-09292-6
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85109623395&doi=10.1007%2fs10506-021-09292-6&partnerID=40&md5=b85e3a6c65b5f3150dfdb9771acb3c6c
+AD  - Japan Advanced Institute of Science and Technology, Ishikawa, 923-1292, Japan
+AD  - National Institute of Informatics, Tokyo, 100-0003, Japan
+AB  - Natural language processing techniques contribute more and more in analyzing legal documents recently, which supports the implementation of laws and rules using computers. Previous approaches in representing a legal sentence often based on logical patterns that illustrate the relations between concepts in the sentence, often consist of multiple words. Those representations cause the lack of semantic information at the word level. In our work, we aim to tackle such shortcomings by representing legal texts in the form of abstract meaning representation (AMR), a graph-based semantic representation that gains lots of polarity in NLP community recently. We present our study in AMR Parsing (producing AMR from natural language) and AMR-to-text Generation (producing natural language from AMR) specifically for legal domain. We also introduce JCivilCode, a human-annotated legal AMR dataset which was created and verified by a group of linguistic and legal experts. We conduct an empirical evaluation of various approaches in parsing and generating AMR on our own dataset and show the current challenges. Based on our observation, we propose our domain adaptation method applying in the training phase and decoding phase of a neural AMR-to-text generation model. Our method improves the quality of text generated from AMR graph compared to the baseline model. (This work is extended from our two previous papers: “An Empirical Evaluation of AMR Parsing for Legal Documents”, published in the Twelfth International Workshop on Juris-informatics (JURISIN) 2018; and “Legal Text Generation from Abstract Meaning Representation”, published in the 32nd International Conference on Legal Knowledge and Information Systems (JURIX) 2019.). © 2021, The Author(s), under exclusive licence to Springer Nature B.V.
+KW  - Abstract meaning representation
+KW  - Deep neural network
+KW  - Legal document
+KW  - Authentication
+KW  - Context free grammars
+KW  - Graphic methods
+KW  - Semantics
+KW  - Syntactics
+KW  - Domain adaptation
+KW  - Empirical evaluations
+KW  - Empirical research
+KW  - International workshops
+KW  - NAtural language processing
+KW  - Natural languages
+KW  - Semantic information
+KW  - Semantic representation
+KW  - Natural language processing systems
+PB  - Springer Science and Business Media B.V.
+SN  - 09248463 (ISSN)
+LA  - English
+J2  - Artif Intell Law
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 3; Correspondence Address: S.T. Vu; Japan Advanced Institute of Science and Technology, Ishikawa, 923-1292, Japan; email: sinhvtr@jaist.ac.jp; M. Le Nguyen; Japan Advanced Institute of Science and Technology, Ishikawa, 923-1292, Japan; email: nguyenml@jaist.ac.jp; CODEN: AINLE
+ER  -
+
+TY  - JOUR
+AU  - Lyu, Y.
+AU  - Wang, Z.
+AU  - Ren, Z.
+AU  - Ren, P.
+AU  - Chen, Z.
+AU  - Liu, X.
+AU  - Li, Y.
+AU  - Li, H.
+AU  - Song, H.
+TI  - Improving legal judgment prediction through reinforced criminal element extraction
+PY  - 2022
+T2  - Information Processing and Management
+VL  - 59
+IS  - 1
+C7  - 102780
+DO  - 10.1016/j.ipm.2021.102780
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85118481517&doi=10.1016%2fj.ipm.2021.102780&partnerID=40&md5=75831b489e6cc026d81f9f52f0fd5d8b
+AD  - Shandong University, Qingdao, China
+AD  - Worcester Polytechnic Institute, Worcester, MA, United States
+AD  - Alibaba Group, Hangzhou, China
+AB  - Legal text mining is targeted at automatically analyzing the texts in the legal domain by employing various natural language processing techniques and has attracted enormous attention from the NLP community. As one of the most crucial tasks of legal text mining, Legal Judgment Prediction (LJP) aims to automatically predict judgment results (e.g., applicable law articles, charges, and terms of penalty) according to fact descriptions on law cases and becomes a promising application of artificial intelligence techniques. Unfortunately, ambiguous fact descriptions and law articles often appear due to a great number of shared words and legal concepts. Prior works are proposed to partially address these problems, focusing on introducing additional attributes to distinguish similar fact descriptions, or differentiating confusing law articles by grouping and distilling law articles. However, existing works still face two severe challenges: (1) indistinguishable fact descriptions with different criminals and targets and (2) misleading law articles with highly similar TF–IDF representations, both of which lead to serious misjudgments for the LJP task. In this paper, we present a novel reinforcement learning (RL) based framework, named Criminal Element Extraction Network (CEEN), to handle above challenges simultaneously. In CEEN, we propose four types of discriminative criminal elements, including the criminal, target, intentionality, and criminal behavior. To discriminate ambiguous fact descriptions, an reinforcement learning based extractor is designed to accurately locate elements for different cases. To enhance law article predictions, distinctive element representations are constructed for each type of criminal element. Finally, with the input of element representations, a multi-task predictor is adopted for the judgment predictions. Experimental results on real-world datasets show that extracting criminal elements is highly useful for predicting the judgment results. © 2021 Elsevier Ltd
+KW  - Attention mechanism
+KW  - Criminal element extraction
+KW  - Legal judgment prediction
+KW  - Legal text mining
+KW  - Neural networks
+KW  - Reinforcement learning
+KW  - Crime
+KW  - Data mining
+KW  - Extraction
+KW  - Forecasting
+KW  - Learning algorithms
+KW  - Natural language processing systems
+KW  - Attention mechanisms
+KW  - Criminal element extraction
+KW  - Element extraction
+KW  - Fact descriptions
+KW  - Legal judgements
+KW  - Legal judgment prediction
+KW  - Legal text mining
+KW  - Legal texts
+KW  - Neural-networks
+KW  - Text-mining
+KW  - Reinforcement learning
+PB  - Elsevier Ltd
+SN  - 03064573 (ISSN)
+LA  - English
+J2  - Inf. Process. Manage.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 40; Correspondence Address: Z. Ren; Shandong University, Qingdao, China; email: zhaochun.ren@sdu.edu.cn; CODEN: IPMAD
+ER  -
+

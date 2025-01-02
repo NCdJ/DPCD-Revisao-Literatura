@@ -1,0 +1,353 @@
+﻿TY  - JOUR
+AU  - Zaretsky, J
+AU  - Kim, JM
+AU  - Baskharoun, S
+AU  - Zhao, YN
+AU  - Austrian, J
+AU  - Aphinyanaphongs, Y
+AU  - Gupta, R
+AU  - Blecker, SB
+AU  - Feldman, J
+TI  - Generative Artificial Intelligence to Transform Inpatient Discharge Summaries to Patient-Friendly Language and Format
+T2  - JAMA NETWORK OPEN
+LA  - English
+KW  - READABILITY
+KW  - UNDERSTANDABILITY
+KW  - INFORMATION
+KW  - ACTIVATION
+AB  - Importance By law, patients have immediate access to discharge notes in their medical records. Technical language and abbreviations make notes difficult to read and understand for a typical patient. Large language models (LLMs [eg, GPT-4]) have the potential to transform these notes into patient-friendly language and format. Objective To determine whether an LLM can transform discharge summaries into a format that is more readable and understandable. Design, Setting, and Participants This cross-sectional study evaluated a sample of the discharge summaries of adult patients discharged from the General Internal Medicine service at NYU (New York University) Langone Health from June 1 to 30, 2023. Patients discharged as deceased were excluded. All discharge summaries were processed by the LLM between July 26 and August 5, 2023. Interventions A secure Health Insurance Portability and Accountability Act-compliant platform, Microsoft Azure OpenAI, was used to transform these discharge summaries into a patient-friendly format between July 26 and August 5, 2023. Main Outcomes and Measures Outcomes included readability as measured by Flesch-Kincaid Grade Level and understandability using Patient Education Materials Assessment Tool (PEMAT) scores. Readability and understandability of the original discharge summaries were compared with the transformed, patient-friendly discharge summaries created through the LLM. As balancing metrics, accuracy and completeness of the patient-friendly version were measured. Results Discharge summaries of 50 patients (31 female [62.0%] and 19 male [38.0%]) were included. The median patient age was 65.5 (IQR, 59.0-77.5) years. Mean (SD) Flesch-Kincaid Grade Level was significantly lower in the patient-friendly discharge summaries (6.2 [0.5] vs 11.0 [1.5]; P < .001). PEMAT understandability scores were significantly higher for patient-friendly discharge summaries (81% vs 13%; P < .001). Two physicians reviewed each patient-friendly discharge summary for accuracy on a 6-point scale, with 54 of 100 reviews (54.0%) giving the best possible rating of 6. Summaries were rated entirely complete in 56 reviews (56.0%). Eighteen reviews noted safety concerns, mostly involving omissions, but also several inaccurate statements (termed hallucinations). Conclusions and Relevance The findings of this cross-sectional study of 50 discharge summaries suggest that LLMs can be used to translate discharge summaries into patient-friendly language and formats that are significantly more readable and understandable than discharge summaries as they appear in electronic health records. However, implementation will require improvements in accuracy, completeness, and safety. Given the safety concerns, initial implementation will require physician review.
+AD  - NYU Langone Hlth, 550 First Ave, New York, NY 10016 USAAD  - NYU New York Univ Langone Hlth, Div Hosp Med, Dept Med, New York, NY USAAD  - NYU Long Isl Sch Med, Dept Med, Mineola, NY USAAD  - NYU Langone Hlth, Dept Populat Hlth, New York, NY USAAD  - NYU Langone Med Ctr Informat Technol, Dept Hlth Informat, New York, NY USAAD  - Predict Analyt Unit, NYU Langone Hlth, New York, NY USAAD  - Long Isl Community Hosp, Dept Internal Med, NYU Langone Hlth, New York, NY USAC3  - NYU Langone Medical CenterC3  - NYU Langone Medical CenterC3  - NYU Langone Medical CenterC3  - NYU Langone Medical CenterPU  - AMER MEDICAL ASSOC
+PI  - CHICAGO
+PA  - 330 N WABASH AVE, STE 39300, CHICAGO, IL 60611-5885 USA
+SN  - 2574-3805
+J9  - JAMA NETW OPEN
+JI  - JAMA Netw. Open
+DA  - MAR 11
+PY  - 2024
+VL  - 7
+IS  - 3
+C7  - e240357
+DO  - 10.1001/jamanetworkopen.2024.0357
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001185758300008
+N1  - Times Cited in Web of Science Core Collection:  17
+Total Times Cited:  18
+Cited Reference Count:  37
+ER  -
+
+TY  - JOUR
+AU  - Bozkurt, A
+TI  - GenAI et al.: Cocreation, Authorship, Ownership, Academic Ethics and Integrity in a Time of Generative AI
+T2  - OPEN PRAXIS
+LA  - English
+KW  - Generative AI
+KW  - GenAI
+KW  - artificial intelligence
+KW  - AI
+KW  - AIEd
+KW  - chatbots
+KW  - conversational agents
+KW  - education
+KW  - teaching
+KW  - learning
+KW  - higher education
+KW  - educational technology
+KW  - GPT
+KW  - generative pre-trained transformer
+KW  - ChatGPT
+KW  - large language models
+KW  - LLMs
+KW  - natural language processing
+KW  - collaboration
+KW  - cocreating
+KW  - academic writing
+KW  - transparency in research
+KW  - authorship
+KW  - ownership
+KW  - ethics
+KW  - academic integrity
+KW  - CHATGPT
+AB  - This paper investigates the complex interplay between generative artificial intelligence (AI) and human intellect in academic writing and publishing. It examines the 'organic versus synthetic' paradox, emphasizing the implications of using generative AI tools in educational and academic integrity contexts. The paper critiques the prevalent 'publish or perish' culture in academia, highlighting the need for systemic reevaluation due to generative AI's emerging role in academic writing and reporting. It delves into the legal and ethical challenges of authorship and ownership, especially in relation to copyright laws and AI -generated content. The paper discusses generative AI's diverse roles and advocates for transparent reporting to uphold academic integrity. Additionally, it calls for a broader examination of generative AI tools and stresses the need for new mechanisms to identify generative AI use and ensure adherence to academic integrity and ethics. The implications of generative AI are also explored, suggesting the need for innovative AI -inclusive strategies in academia. The paper concludes by emphasizing the significance of generative AI in various informationprocessing domains, highlighting the urgency to adapt and transform academic practices in an era of rapid generative AI -driven change.
+AD  - Tripura Univ, Agartala, Tripura, IndiaC3  - Tripura UniversityFU  - Anadolu University [SBA -2023-1852]
+FX  - This paper is funded by Anadolu University with grant number SBA -2023-1852.
+PU  - INT COUNCIL OPEN & DISTANCE EDUCATION
+PI  - OSLO
+PA  - LILLEAKERVEIEN 23, OSLO, 0283, NORWAY
+SN  - 2304-070X
+J9  - OPEN PRAX
+JI  - Open Prax.
+PY  - 2024
+VL  - 16
+IS  - 1
+SP  - 1
+EP  - 10
+DO  - 10.55982/openpraxis.16.1.654
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001204361200009
+N1  - Times Cited in Web of Science Core Collection:  11
+Total Times Cited:  11
+Cited Reference Count:  59
+ER  -
+
+TY  - CPAPER
+AU  - El Ali, A
+AU  - Venkatraj, KP
+AU  - Morosoli, S
+AU  - Naudts, L
+AU  - Helberger, N
+AU  - Cesar, P
+A1  - ASSOC COMPUTING MACHINERY
+TI  - Transparent AI Disclosure Obligations: Who, What, When, Where, Why, How
+T2  - EXTENDED ABSTRACTS OF THE 2024 CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS, CHI 2024
+LA  - English
+CP  - CHI Conference on Human Factors in Computing Sytems (CHI)
+KW  - EU AI Act
+KW  - Article 52
+KW  - generative artificial intelligence
+KW  - disclosures
+KW  - transparency
+KW  - obligations
+KW  - law
+KW  - research questions
+AB  - Advances in Generative Artificial Intelligence (AI) are resulting in AI-generated media output that is (nearly) indistinguishable from human-created content. This can drastically impact users and the media sector, especially given global risks of misinformation. While the currently discussed European AI Act aims at addressing these risks through Article 52's AI transparency obligations, its interpretation and implications remain unclear. In this early work, we adopt a participatory AI approach to derive key questions based on Article 52's disclosure obligations. We ran two workshops with researchers, designers, and engineers across disciplines (N=16), where participants deconstructed Article 52's relevant clauses using the 5W1H framework. We contribute a set of 149 questions clustered into five themes and 18 sub-themes. We believe these can not only help inform future legal developments and interpretations of Article 52, but also provide a starting point for Human-Computer Interaction research to (re-)examine disclosure transparency from a human-centered AI lens.
+AD  - Ctr Wiskunde & Informat, Amsterdam, NetherlandsAD  - Univ Amsterdam, Amsterdam, NetherlandsAD  - Katholieke Univ Leuven, Leuven, BelgiumAD  - Delft Univ Technol, Delft, NetherlandsC3  - University of AmsterdamC3  - KU LeuvenC3  - Delft University of TechnologyFU  - Media & Democracy Lab (Dutch Research Council) [NWA.1332.20.009]
+FX  - We thank all our participants for participating in our workshops, and acknowledge their valuable contributions to this early work. This publication is part of the AI, Media & Democracy Lab (Dutch Research Council project number: NWA.1332.20.009).
+PU  - ASSOC COMPUTING MACHINERY
+PI  - NEW YORK
+PA  - 1601 Broadway, 10th Floor, NEW YORK, NY, UNITED STATES
+SN  - 979-8-4007-0331-7
+PY  - 2024
+DO  - 10.1145/3613905.3650750
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:001227587701133
+N1  - Times Cited in Web of Science Core Collection:  3
+Total Times Cited:  3
+Cited Reference Count:  59
+ER  -
+
+TY  - JOUR
+AU  - Migliorini, S
+TI  - "More than Words": A Legal Approach to the Risks of Commercial Chatbots Powered by Generative Artificial Intelligence
+T2  - EUROPEAN JOURNAL OF RISK REGULATION
+LA  - English
+KW  - Artificial intelligence
+KW  - EU AI Act
+KW  - foundation models
+KW  - generative AI
+KW  - regulation of emerging technology
+AB  - The recent commercial release of a new generation of chatbot systems, particularly those leveraging Transformer-based large language models (LLMs) such as ChatGPT, has caught the world by surprise and sparked debate about their potential consequences for society. While concerns about the existential threat posed by these technologies are often discussed, it is crucial to shift our focus towards the more immediate risks associated with their deployment. Such risks are further compounded by the lack of proactive measures addressing users' literacy and the for-profit model via which these chatbots are distributed. Drawing on research in computer science and other fields, this paper looks at the immediate risks triggered by these products and reflects on the role of law within a broader policy directed at steering generative artificial intelligence technology towards the common good. It also reviews the relevant amendments proposed by the European Parliament to the European Commission's proposal for an AI Act.
+AD  - Univ Macau, Fac Law, Macau, Peoples R ChinaC3  - University of MacauPU  - CAMBRIDGE UNIV PRESS
+PI  - CAMBRIDGE
+PA  - EDINBURGH BLDG, SHAFTESBURY RD, CB2 8RU CAMBRIDGE, ENGLAND
+SN  - 1867-299X
+SN  - 2190-8249
+J9  - EUR J RISK REGUL
+JI  - Eur. J. Risk Regul.
+DA  - SEP
+PY  - 2024
+VL  - 15
+IS  - 3
+SP  - 719
+EP  - 736
+DO  - 10.1017/err.2024.4
+C6  - FEB 2024
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001173990200001
+N1  - Times Cited in Web of Science Core Collection:  2
+Total Times Cited:  2
+Cited Reference Count:  79
+ER  -
+
+TY  - JOUR
+AU  - Khosravi, H
+AU  - Shafie, MR
+AU  - Hajiabadi, M
+AU  - Raihan, AS
+AU  - Ahmed, I
+TI  - Chatbots and ChatGPT: a bibliometric analysis and systematic review of publications in Web of Science and Scopus databases
+T2  - INTERNATIONAL JOURNAL OF DATA MINING MODELLING AND MANAGEMENT
+LA  - English
+KW  - chatbot
+KW  - ChatGPT
+KW  - bibliometrics
+KW  - artificial intelligence
+KW  - natural language processing
+KW  - NLP
+KW  - generative artificial intelligence
+KW  - ARTIFICIAL-INTELLIGENCE
+KW  - BRADFORD LAW
+KW  - SCATTERING
+KW  - FIELD
+AB  - This paper presents a bibliometric analysis of the scientific literature related to chatbots, focusing specifically on ChatGPT. Chatbots have gained increasing attention recently, with an annual growth rate of 19.16% and 27.19% on the Web of Sciences (WoS) and Scopus, respectively. The research consists of two study phases: 1) an analysis of chatbot literature; 2) a comprehensive review of scientific documents on ChatGPT. In the first phase, a bibliometric analysis is conducted on all the published literature from both Scopus (5,839) and WoS (2,531) databases covering the period from 1998 to 2023. Consequently, bibliometric analysis has been carried out on ChatGPT publications, and 45 published studies have been analysed thoroughly based on their methods, novelty, and conclusions. Overall, the study aims to provide guidelines for researchers to conduct their research more effectively in the field of chatbots and specifically highlight significant areas for future investigation into ChatGPT.
+AD  - West Virginia Univ, Dept Ind & Management Syst Engn, Morgantown, WV 26505 USAAD  - Iran Univ Sci & Technol, Dept Elect Engn, Tehran, IranAD  - Iran Univ Sci & Technol, Sch Comp Engn, Tehran, IranC3  - West Virginia UniversityC3  - Iran University Science & TechnologyC3  - Iran University Science & TechnologyPU  - INDERSCIENCE ENTERPRISES LTD
+PI  - GENEVA
+PA  - WORLD TRADE CENTER BLDG, 29 ROUTE DE PRE-BOIS, CASE POSTALE 856, CH-1215 GENEVA, SWITZERLAND
+SN  - 1759-1163
+SN  - 1759-1171
+J9  - INT J DATA MIN MODEL
+JI  - Int. J. Data Min. Model. Manag.
+PY  - 2024
+VL  - 16
+IS  - 2
+DO  - 10.1504/IJDMMM.2024.138824
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001237489300005
+N1  - Times Cited in Web of Science Core Collection:  2
+Total Times Cited:  2
+Cited Reference Count:  94
+ER  -
+
+TY  - JOUR
+AU  - Ye, XB
+AU  - Yan, YH
+AU  - Li, J
+AU  - Jiang, B
+TI  - Privacy and personal data risk governance for generative artificial intelligence: A Chinese perspective
+T2  - TELECOMMUNICATIONS POLICY
+LA  - English
+KW  - Generative AI
+KW  - Privacy and personal data protection
+KW  - Risk governance
+KW  - Chinese law
+KW  - DATA PROTECTION
+AB  - The rapid development of generative artificial intelligence (AI) has attracted global attention and posed challenges to existing data governance frameworks. The increased technical complexity and expanded scale of data usage not only make it more difficult to regulate AI but also present challenges for the current legal system. This article, which takes ChatGPT's training data and working principles as a starting point, examines specific privacy risks, data leakage risks, and personal data risks posed by generative AI. It also analyzes the latest practices in privacy and personal data protection in China. This article finds that while China's governance on privacy and personal data protection takes a macro-micro integration approach and a private-and-public law integration approach, there are shortcomings in the legal system. Given that the current personal data protection system centered on individual control is unsuitable for the modes of data processing by generative AI, and that private law is insufficient in safeguarding data privacy, urgent institutional innovation is needed to achieve the objective of "trustworthy AI."
+AD  - Cent China Normal Univ, Law Sch, Wuhan, Peoples R ChinaAD  - Univ Int Business & Econ, Sch Govt, Beijing, Peoples R ChinaAD  - Univ Int Business & Econ, Sch Law, Beijing, Peoples R ChinaAD  - Hainan Univ, Sch Int Studies, Haikou, Peoples R ChinaAD  - China Univ Polit Sci & Law, Sch Int Law, Beijing, Peoples R ChinaC3  - Central China Normal UniversityC3  - University of International Business & EconomicsC3  - University of International Business & EconomicsC3  - Hainan UniversityC3  - China University of Political Science & LawPU  - ELSEVIER SCI LTD
+PI  - London
+PA  - 125 London Wall, London, ENGLAND
+SN  - 0308-5961
+SN  - 1879-3258
+J9  - TELECOMMUN POLICY
+JI  - Telecommun. Policy
+DA  - NOV
+PY  - 2024
+VL  - 48
+IS  - 10
+C7  - 102851
+DO  - 10.1016/j.telpol.2024.102851
+WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:001359279600001
+N1  - Times Cited in Web of Science Core Collection:  1
+Total Times Cited:  1
+Cited Reference Count:  49
+ER  -
+
+TY  - JOUR
+AU  - Molitorisz, S
+TI  - A legal cure for news choice overload: Regulating algorithms and AI with 'light patterns' to foster autonomy and democracy
+T2  - POLICY AND INTERNET
+LA  - English
+KW  - AI
+KW  - algorithms
+KW  - autonomy
+KW  - caveat venditor
+KW  - democracy
+KW  - digital platforms
+KW  - news choice overload
+KW  - regulation
+KW  - MEDIA
+AB  - Despite an unprecedented abundance of news content, both news avoidance and dissatisfaction are rising. Blending journalism, philosophy and law scholarship, this paper argues that 'news choice overload' causes paralysis and poor outcomes as it transfers power to algorithms, thereby harming autonomy and, in turn, democracy. An analysis of Australian and European regulatory responses shows the need for an algorithmic regulator and a transparency requirement for digital platforms. Further, people's ability to choose autonomously can be fostered by positive interventions, or 'light patterns', including 'diversity nudges' and a shift from caveat emptor to a caveat venditor approach, in which digital platforms are assigned legal responsibility. Recognising that it is autonomy and democracy-not choice per se-that are valuable, such interventions can shift meaningful decision-making back to citizens at a moment when the rise of generative artificial intelligence is giving algorithms yet more power.
+AD  - Univ Technol Sydney, Fac Law, POB 123 Broadway 2007, Sydney, NSW 2007, AustraliaC3  - University of Technology SydneyFX  - No Statement Available
+PU  - WILEY
+PI  - HOBOKEN
+PA  - 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN  - 1944-2866
+J9  - POLICY INTERNET
+JI  - Policy Internet
+DA  - SEP
+PY  - 2024
+VL  - 16
+IS  - 3
+SP  - 643
+EP  - 660
+DO  - 10.1002/poi3.412
+C6  - AUG 2024
+WE  - Social Science Citation Index (SSCI)AN  - WOS:001297678900001
+N1  - Times Cited in Web of Science Core Collection:  1
+Total Times Cited:  1
+Cited Reference Count:  77
+ER  -
+
+TY  - JOUR
+AU  - Head, A
+AU  - Willis, S
+TI  - Assessing law students in a GenAI world to create knowledgeable future lawyers
+T2  - INTERNATIONAL JOURNAL OF THE LEGAL PROFESSION
+LA  - English
+AB  - Assessing law students has always been a challenging task, but the introduction of Generative Artificial Intelligence (GenAI), such as ChatGPT, compounds the problems already caused by increased student numbers, contract cheating and budget cuts in universities. As GenAI rapidly develops, legal educators must find ways to accommodate, and even incorporate, GenAI into their curricula and assessments so that law graduates can understand its capabilities and limitations within legal practice. Simultaneously, many jurisdictions, including Australia, have legislative obligations to deliver law graduates who satisfy legal knowledge-based "eligibility" requirements for admission into practice. This article introduces a knowledge framework for managing GenAI in legal education consisting of three pillars: Substantive Legal Knowledge, GenAI Ethics Knowledge, and GenAI System Knowledge. The authors argue this framework can assist legal educators in designing optimal assessments in an AI-disrupted world. The article employs the knowledge framework to examine the experiences and views of Australian law students' engagement with GenAI outputs in completing a compulsory legal ethics assessment in 2023. This empirical case study demonstrates that effective assessment design incorporating GenAI can enhance law student and graduate outcomes despite the ongoing challenges for legal educators and the profession associated with GenAI.
+AD  - Macquarie Univ, Law Sch, Sydney, AustraliaC3  - Macquarie UniversityPU  - ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI  - ABINGDON
+PA  - 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN  - 0969-5958
+SN  - 1469-9257
+J9  - INT J LEG PROF
+JI  - Int. J. Leg. Prof.
+DA  - SEP 1
+PY  - 2024
+VL  - 31
+IS  - 3
+SP  - 293
+EP  - 310
+DO  - 10.1080/09695958.2024.2379785
+C6  - JUL 2024
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001272888800001
+N1  - Times Cited in Web of Science Core Collection:  1
+Total Times Cited:  1
+Cited Reference Count:  47
+ER  -
+
+TY  - JOUR
+AU  - Vig, S
+TI  - Intersection of generative artificial intelligence and copyright: an Indian perspective
+T2  - JOURNAL OF SCIENCE AND TECHNOLOGY POLICY MANAGEMENT
+LA  - English
+KW  - Artificial intelligence
+KW  - GenAI
+KW  - ChatGPT
+KW  - Copyright
+KW  - IPR
+KW  - Legal framework
+KW  - Large language models
+AB  - Purpose - The main objective of this study is to present a compact overview analysis of intellectual property laws, specifically copyright-related provisions applicable to generative artificial intelligence (GenAI) in the Indian context. Design/methodology/approach - The paper adopts a qualitative research methodology that is grounded in secondary sources of information. The data were gathered from the Scopus database for a systematic literature review. Findings - GenAI technology has given rise to numerous questionable issues within the domain of intellectual property that need resolution in the form of policy solutions. Based on the findings of this paper, it can be deduced that Indian copyright laws are not adequate for addressing the rights pertaining to AI and its creations and outputs. Different countries like the United States, European Union and China have approached the regulation and protection of AI-generated content within the realm of copyright law in different ways. The future of law, as it has been established thus far, seems to be on a path of substantial evolution. Practical implications - The study has implications for policymakers globally as there is a need to create feasible policy solutions that can efficiently safeguard against risks stemming from large language models (LLMs) and other GenAI models, while also promoting innovation, technical advancement and adoption. Originality/value - The paper discusses the copyright-related issues in GenAI technology in the context of an emerging economy, India.
+AD  - Symbiosis Ctr Management Studies, Noida, IndiaAD  - Symbiosis Int Univ, Pune, IndiaC3  - Symbiosis International UniversityC3  - Symbiosis Centre for Management Studies NoidaC3  - Symbiosis International UniversityPU  - EMERALD GROUP PUBLISHING LTD
+PI  - Leeds
+PA  - Floor 5, Northspring 21-23 Wellington Street, Leeds, W YORKSHIRE, ENGLAND
+SN  - 2053-4620
+SN  - 1758-5538
+J9  - J SCI TECHNOL POLICY
+JI  - J. Sci. Technol. Policy Manag.
+DA  - 2024 JUL 9
+PY  - 2024
+DO  - 10.1108/JSTPM-08-2023-0145
+C6  - JUL 2024
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001265093000001
+N1  - Times Cited in Web of Science Core Collection:  1
+Total Times Cited:  1
+Cited Reference Count:  39
+ER  -
+
+TY  - JOUR
+AU  - Schweitzer, S
+AU  - Conrads, M
+TI  - The digital transformation of jurisprudence: an evaluation of ChatGPT-4's applicability to solve cases in business law
+T2  - ARTIFICIAL INTELLIGENCE AND LAW
+LA  - English
+KW  - Legal information systems
+KW  - Large language models
+KW  - Generative artificial intelligence
+KW  - Conversational agents
+KW  - Chatbots
+KW  - Performance assessment
+AB  - In the evolving landscape of legal information systems, ChatGPT-4 and other advanced conversational agents (CAs) offer the potential to disruptively transform the law industry. This study evaluates commercially available CAs within the German legal context, thereby assessing the generalizability of previous U.S.-based findings. Employing a unique corpus of 200 distinct legal tasks, ChatGPT-4 was benchmarked against Google Bard, Google Gemini, and its predecessor, ChatGPT-3.5. Human-expert and automated assessments of 4000 CA-generated responses reveal ChatGPT-4 to be the first CA to surpass the threshold of solving realistic legal tasks and passing a German business law exam. While ChatGPT-4 outperforms ChatGPT-3.5, Google Bard, and Google Gemini in both consistency and quality, the results demonstrate a considerable degree of variability, especially in complex cases with no predefined response options. Based on these findings, legal professionals should manually verify all texts produced by CAs before use. Novices must exercise caution with CA-generated legal advice, given the expertise needed for its assessment.
+AD  - Reutlingen Univ, ESB Business Sch, Alteburgstr 150, D-72762 Reutlingen, GermanyAD  - Univ Bayreuth, Fac Law Business & Econ, Univ Str 30, D-95447 Bayreuth, GermanyC3  - University of BayreuthFU  - Projekt DEAL
+FX  - Open Access funding enabled and organized by Projekt DEAL. The authors received no financial support for the research, authorship, and/or publication of this article.
+PU  - SPRINGER
+PI  - DORDRECHT
+PA  - VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN  - 0924-8463
+SN  - 1572-8382
+J9  - ARTIF INTELL LAW
+JI  - Artif. Intell. Law
+DA  - 2024 JUL 1
+PY  - 2024
+DO  - 10.1007/s10506-024-09406-w
+C6  - JUL 2024
+WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:001259372900001
+N1  - Times Cited in Web of Science Core Collection:  1
+Total Times Cited:  1
+Cited Reference Count:  23
+ER  -
+

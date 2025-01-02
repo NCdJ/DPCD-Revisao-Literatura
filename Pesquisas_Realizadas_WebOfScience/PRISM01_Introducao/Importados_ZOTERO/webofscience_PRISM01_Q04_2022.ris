@@ -1,0 +1,407 @@
+﻿TY  - JOUR
+AU  - Saura, JR
+AU  - Ribeiro-Soriano, D
+AU  - Palacios-Marqués, D
+TI  - Assessing behavioral data science privacy issues in government artificial intelligence deployment
+T2  - GOVERNMENT INFORMATION QUARTERLY
+LA  - English
+KW  - Behavioral data sciences
+KW  - Governments
+KW  - Collective behavior analysis
+KW  - Artificial intelligence
+KW  - Surveillance capitalism
+KW  - Privacy
+KW  - BIG DATA ANALYTICS
+KW  - SOCIAL MEDIA
+KW  - CAMBRIDGE ANALYTICA
+KW  - DECISION-MAKING
+KW  - ETHICAL-ISSUES
+KW  - LEGAL
+KW  - AI
+KW  - TECHNOLOGY
+KW  - CHALLENGES
+KW  - RETRIEVAL
+AB  - In today's global culture where the Internet has established itself as the main tool for communication and commerce, the capability to massively analyze and predict citizens' behavior has become a priority for governments in terms of collective intelligence and security. At the same time, in the context of novel possibilities that artificial intelligence (AI) brings to governments in terms of understanding and developing collective behavior analysis, important concerns related to citizens' privacy have emerged. In order to identify the main uses that governments make of AI and to define citizens' concerns about their privacy, in the present study, we undertook a systematic review of the literature, conducted in-depth interviews, and applied data-mining techniques. Based on our results, we classified and discussed the risks to citizens' privacy according to the types of AI strategies used by governments that may affect collective behavior and cause massive behavior modification. Our results revealed 11 uses of AI strategies used by the government to improve their interaction with citizens, organizations in cities, services provided by public institutions or the economy, among other areas. In relation to citizens' privacy when AI is used by governments, we identified 8 topics related to human behavior predictions, intelligence decision making, decision automation, digital surveillance, data privacy law and regulation, and the risk of behavior modification. The paper concludes with a discussion of the development of regulations focused on the ethical design of citizen data collection, where implications for governments are presented aimed at regulating security, ethics, and data privacy. Additionally, we propose a research agenda composed by 16 research questions to be investigated in further research.
+AD  - Rey Juan Carlos Univ, Madrid, SpainAD  - Univ Valencia, Valencia, SpainAD  - Univ Politecn Valencia, Valencia, SpainC3  - Universidad Rey Juan CarlosC3  - University of ValenciaC3  - Universitat Politecnica de ValenciaFU  - Ministry of Science, Innovation and Universities; European Regional Development [RTI2018-096295-BC22]
+FX  - In gratitude to the Ministry of Science, Innovation and Universities and the European Regional Development. Fund: RTI2018-096295-BC22
+PU  - ELSEVIER INC
+PI  - SAN DIEGO
+PA  - 525 B STREET, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN  - 0740-624X
+SN  - 1872-9517
+J9  - GOV INFORM Q
+JI  - Gov. Inf. Q.
+DA  - OCT
+PY  - 2022
+VL  - 39
+IS  - 4
+C7  - 101679
+DO  - 10.1016/j.giq.2022.101679
+C6  - SEP 2022
+WE  - Social Science Citation Index (SSCI)AN  - WOS:000888846500007
+N1  - Times Cited in Web of Science Core Collection:  73
+Total Times Cited:  74
+Cited Reference Count:  148
+ER  -
+
+TY  - JOUR
+AU  - Spring, M
+AU  - Faulconbridge, J
+AU  - Sarwar, A
+TI  - How information technology automates and augments processes: Insights from Artificial-Intelligence-based systems in professional service operations
+T2  - JOURNAL OF OPERATIONS MANAGEMENT
+LA  - English
+KW  - artificial intelligence
+KW  - customer contact
+KW  - expertise
+KW  - information technology
+KW  - professional services
+KW  - MANAGEMENT
+KW  - PERFORMANCE
+KW  - KNOWLEDGE
+KW  - ORGANIZATIONS
+KW  - BUSINESSES
+KW  - AFFORDANCE
+KW  - CHALLENGES
+KW  - EXPERTISE
+KW  - SEEKING
+KW  - IMPACT
+AB  - This study contributes to the technology management literature on the effects of IT on operations processes by examining the use of systems based on Artificial Intelligence (AI) in professional services. The paper builds on key concepts on AI, information systems, professional work, and professional services operations management. A model is developed to explain how AI-based systems combine with humans to do work, both automating and augmenting the work of the professional, leading to process improvement and extension of the service offering. The study uses case-based research in two law firms and two accountancy firms using AI-based systems. It shows that AI-based systems are used selectively, mainly on high-volume, back-office tasks, across the sequence of stages in the professional service process-diagnosis, inference, and treatment. Automation using AI relieves professionals from repetitive tasks, while AI achieves augmentation by buffering professionals from low-value activity, making their expertise scalable and providing new analytical insights. System use can improve performance in delivering core professional services and enable service extension into additional, high-value advisory work. The model and research approach have potential implications for other emerging areas of technology management in OM.
+AD  - Univ Lancaster, Management Sch, Lancaster LA1 4YX, EnglandAD  - Liverpool Hope Univ, Business Sch, Liverpool, Merseyside, EnglandC3  - Lancaster UniversityC3  - Liverpool Hope UniversityFU  - UK Research and Innovation [ES/S010475/1]
+FX  - UK Research and Innovation, Grant/Award Number: ES/S010475/1
+PU  - WILEY
+PI  - HOBOKEN
+PA  - 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN  - 0272-6963
+SN  - 1873-1317
+J9  - J OPER MANAG
+JI  - J. Oper. Manag.
+DA  - SEP
+PY  - 2022
+VL  - 68
+IS  - 6-7
+SP  - 592
+EP  - 618
+DO  - 10.1002/joom.1215
+WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:000855656600004
+N1  - Times Cited in Web of Science Core Collection:  39
+Total Times Cited:  40
+Cited Reference Count:  77
+ER  -
+
+TY  - CPAPER
+AU  - Ehsan, U
+AU  - Wintersberger, P
+AU  - Liao, QV
+AU  - Watkins, EA
+AU  - Manger, C
+AU  - Daumé, H 
+AU  - Riener, A
+AU  - Riedl, MO
+A1  - ACM
+TI  - Human-Centered Explainable AI (HCXAI): Beyond Opening the Black-Box of AI
+T2  - EXTENDED ABSTRACTS OF THE 2022 CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS, CHI 2022
+LA  - English
+CP  - CHI Conference on Human Factors in Computing Systems (CHI)
+KW  - Explainable Artificial Intelligence
+KW  - Interpretable Machine Learning
+KW  - Interpretability
+KW  - Artificial Intelligence
+KW  - Responsible AI
+KW  - Trust in Automation
+KW  - Algorithmic Fairness
+AB  - Explainability of AI systems is crucial to hold them accountable because they are increasingly becoming consequential in our lives by powering high-stakes decisions in domains like healthcare and law. When it comes to Explainable AI (XAI), understanding who interacts with the black-box of AI is just as important as "opening" it, if not more. Yet the discourse of XAI has been predominantly centered around the black-box, suffering from deficiencies in meeting user needs and exacerbating issues of algorithmic opacity. To address these issues, researchers have called for human-centered approaches to XAI. In this second CHI workshop on Human-centered XAI (HCXAI), we build on the success of the first installment from CHI 2021 to expand the conversation around XAI. We chart the domain and shape the HCXAI discourse with reflective discussions from diverse stakeholders. The goal of the second installment is to go beyond the black box and examine how human-centered perspectives in XAI can be operationalized at the conceptual, methodological, and technical levels. Encouraging holistic (historical, sociological, and technical) approaches, we put an emphasis on "operationalizing", aiming to produce actionable frameworks, transferable evaluation methods, concrete design guidelines, and articulate a coordinated research agenda for XAI.
+AD  - Georgia Inst Technol, Atlanta, GA 30332 USAAD  - TU Wien, Vienna, AustriaAD  - Microsoft Res, Montreal, PQ, CanadaAD  - Princeton Univ, Princeton, NJ 08544 USAAD  - TH Ingolstadt THI, Ingolstadt, Bavaria, GermanyAD  - Univ Maryland, College Pk, MD 20742 USAAD  - Microsoft Res, New York, NY 10012 USAC3  - University System of GeorgiaC3  - Georgia Institute of TechnologyC3  - Technische Universitat WienC3  - Princeton UniversityC3  - University System of MarylandC3  - University of Maryland College ParkC3  - MicrosoftFU  - National Science Foundation [1928586]; FH-Impuls program of the German Federal Ministry of Education and Research (BMBF) [13FH7I06IA]
+FX  - This work is partially supported by the National Science Foundation under Grant No. 1928586 and by the FH-Impuls program of the German Federal Ministry of Education and Research (BMBF) under Grant Number 13FH7I06IA (MIRASOFT).
+PU  - ASSOC COMPUTING MACHINERY
+PI  - NEW YORK
+PA  - 1601 Broadway, 10th Floor, NEW YORK, NY, UNITED STATES
+SN  - 978-1-4503-9156-6
+PY  - 2022
+DO  - 10.1145/3491101.3503727
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:001118038100063
+N1  - Times Cited in Web of Science Core Collection:  39
+Total Times Cited:  42
+Cited Reference Count:  29
+ER  -
+
+TY  - JOUR
+AU  - Amaral, O
+AU  - Abualhaija, S
+AU  - Torre, D
+AU  - Sabetzadeh, M
+AU  - Briand, LC
+TI  - AI-Enabled Automation for Completeness Checking of Privacy Policies
+T2  - IEEE TRANSACTIONS ON SOFTWARE ENGINEERING
+LA  - English
+KW  - Privacy
+KW  - Metadata
+KW  - Law
+KW  - General Data Protection Regulation
+KW  - Software
+KW  - Organizations
+KW  - Europe
+KW  - Requirements engineering
+KW  - legal compliance
+KW  - privacy policies
+KW  - the general data protection regulation (GDPR)
+KW  - artificial intelligence (AI)
+KW  - conceptual modeling
+KW  - qualitative research
+AB  - Technological advances in information sharing have raised concerns about data protection. Privacy policies contain privacy-related requirements about how the personal data of individuals will be handled by an organization or a software system (e.g., a web service or an app). In Europe, privacy policies are subject to compliance with the General Data Protection Regulation (GDPR). A prerequisite for GDPR compliance checking is to verify whether the content of a privacy policy is complete according to the provisions of GDPR. Incomplete privacy policies might result in large fines on violating organization as well as incomplete privacy-related software specifications. Manual completeness checking is both time-consuming and error-prone. In this paper, we propose AI-based automation for the completeness checking of privacy policies. Through systematic qualitative methods, we first build two artifacts to characterize the privacy-related provisions of GDPR, namely a conceptual model and a set of completeness criteria. Then, we develop an automated solution on top of these artifacts by leveraging a combination of natural language processing and supervised machine learning. Specifically, we identify the GDPR-relevant information content in privacy policies and subsequently check them against the completeness criteria. To evaluate our approach, we collected 234 real privacy policies from the fund industry. Over a set of 48 unseen privacy policies, our approach detected 300 of the total of 334 violations of some completeness criteria correctly, while producing 23 false positives. The approach thus has a precision of 92.9% and recall of 89.8%. Compared to a baseline that applies keyword search only, our approach results in an improvement of 24.5% in precision and 38% in recall.
+AD  - Univ Luxembourg, SnT Ctr Secur Reliabil & Trust, L-4365 Esch Sur Alzette, LuxembourgAD  - Univ Ottawa, Sch Elect Engn & Comp Sci, Ottawa, ON K1N 6N5, CanadaAD  - Texas A&M Univ Cent Texas, Dept Comp Informat Syst, Killeen, TX 76549 USAC3  - University of LuxembourgC3  - University of OttawaC3  - Texas A&M University SystemC3  - Texas A&M University Central TexasFU  - Linklaters, Luxembourg's National Research Fund (FNR) [BRIDGES/19/IS/13759068/ARTAGO]; NSERC of Canada
+FX  - This work was supported by Linklaters, Luxembourg's National Research Fund (FNR) under Grant BRIDGES/19/IS/13759068/ARTAGO, and NSERC of Canada under the Discovery, Discovery Accelerator and CRC programs.
+PU  - IEEE COMPUTER SOC
+PI  - LOS ALAMITOS
+PA  - 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN  - 0098-5589
+SN  - 1939-3520
+J9  - IEEE T SOFTWARE ENG
+JI  - IEEE Trans. Softw. Eng.
+DA  - NOV 1
+PY  - 2022
+VL  - 48
+IS  - 11
+SP  - 4647
+EP  - 4674
+DO  - 10.1109/TSE.2021.3124332
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000881981800023
+N1  - Times Cited in Web of Science Core Collection:  25
+Total Times Cited:  25
+Cited Reference Count:  74
+ER  -
+
+TY  - JOUR
+AU  - Wellsandt, S
+AU  - Klein, K
+AU  - Hribernik, K
+AU  - Lewandowski, M
+AU  - Bousdekis, A
+AU  - Mentzas, G
+AU  - Thoben, KD
+TI  - Hybrid-augmented intelligence in predictive maintenance with digital intelligent assistants
+T2  - ANNUAL REVIEWS IN CONTROL
+LA  - English
+KW  - Engineering applications of artificial intelligence
+KW  - Predictive maintenance
+KW  - Human-automation integration
+KW  - Hybrid intelligence systems
+KW  - INDUSTRY 4.0
+KW  - DECISION-MAKING
+AB  - Industrial maintenance strategies increasingly rely on artificial intelligence to predict asset conditions and prescribe maintenance actions. The related maintenance software and human maintenance actors can form a hybrid-augmented intelligence system where each side benefits from and enhances the other side's intelligence. This system requires optimized human-machine interfaces to help users express their knowledge and retrieve information from difficult-to-use software. Therefore, this article proposes a novel approach for maintenance experts and operators to interact with a predictive maintenance system through a digital intelligent assistant. This assistant is artificial intelligence (AI) that could help its users interact with the system via natural language and collect their feedback about the success of maintenance interventions. Implementing hybrid-augmented intelligence in a predictive maintenance system faces several technical, social, economic, organizational, and legal challenges. The benefits, limitations, and risks of hybrid-augmented intelligence must be clear to all employees to advocate its use. AI-focused change management and employee training could be techniques to address these challenges. The success of the proposed approach also relies on the continuous improvement of natural language understanding. Such a process will need conversation-driven development where actual interactions with the assistant provide accurate training data for language and dialog models. Future research has to be interdisciplinary and may cover the integration of explainable AI, suitable AI laws, operationalized trustworthy AI, efficient design for human-computer interaction, and natural language processing adapted to predictive maintenance.
+AD  - Bremer Inst Prod & Logist GmbH Univ Bremen BIBA, Hochschulring 20, D-28359 Bremen, GermanyAD  - Natl Tech Univ Athens NTUA, Inst Commun & Comp Syst ICCS, Informat Management Unit IMU, 9 Iroon Polytech str, Athens 15780, GreeceAD  - Univ Bremen, Fac Prod Engn, Badgasteinerstr 1, D-28359 Bremen, GermanyC3  - University of BremenFU  - European Union [768634]; COALA [957296]; EIT Manufacturing projects RAMEN and DIAMOND; H2020 Societal Challenges Programme [768634] Funding Source: H2020 Societal Challenges Programme
+FX  - This work is partly funded by the European Union's Horizon 2020 research and innovation program via UPTIME (Grant agreement No. 768634), COALA (Grant agreement No. 957296), and the EIT Manufacturing projects RAMEN and DIAMOND.
+PU  - PERGAMON-ELSEVIER SCIENCE LTD
+PI  - OXFORD
+PA  - THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN  - 1367-5788
+SN  - 1872-9088
+J9  - ANNU REV CONTROL
+JI  - Annu. Rev. Control
+PY  - 2022
+VL  - 53
+SP  - 382
+EP  - 390
+DO  - 10.1016/j.arcontrol.2022.04.001
+C6  - MAY 2022
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000807345600025
+N1  - Times Cited in Web of Science Core Collection:  23
+Total Times Cited:  24
+Cited Reference Count:  55
+ER  -
+
+TY  - JOUR
+AU  - Cimadomo, D
+AU  - Soscia, D
+AU  - Casciani, V
+AU  - Innocenti, F
+AU  - Trio, S
+AU  - Chiappetta, V
+AU  - Albricci, L
+AU  - Maggiulli, R
+AU  - Erlich, I
+AU  - Ben-Meir, A
+AU  - Har-Vardi, I
+AU  - Vaiarelli, A
+AU  - Ubaldi, FM
+AU  - Rienzi, L
+TI  - How slow is too slow? A comprehensive portrait of Day 7 blastocysts and their clinical value standardized through artificial intelligence
+T2  - HUMAN REPRODUCTION
+LA  - English
+KW  - Day 7 blastocyst
+KW  - Slow-growing blastocyst
+KW  - PGT-A
+KW  - automation
+KW  - artificial intelligence
+KW  - EMBRYO SELECTION
+KW  - TIME
+KW  - MORPHOLOGY
+KW  - ANEUPLOIDY
+KW  - EUPLOIDY
+KW  - IMPLANTATION
+KW  - PREGNANCY
+KW  - RATES
+KW  - STAGE
+AB  - STUDY QUESTION What is the clinical value of Day 7 blastocysts? SUMMARY ANSWER Ending embryo culture at 144 hours post-insemination (h.p.i.; i.e. 6 days) would involve 7.3% and 4.4% relative reductions in the number of patients obtaining euploid blastocysts and live birth(s) (LBs), respectively. WHAT IS KNOWN ALREADY Many studies showed that Day 7 blastocysts are clinically valuable, although less euploid and less competent than faster-growing embryos. Nevertheless, a large variability exists in: (i) the definition of 'Day 7'; (ii) the criteria to culture embryos to Day 7; (iii) the clinical setting; (iv) the local regulation; and/or (v) the culture strategies and incubators. Here, we aimed to iron out these differences and portray Day 7 blastocysts with the lowest possible risk of bias. To this end, we have also adopted an artificial intelligence (AI)-powered software to automatize developmental timings annotations and standardize embryo morphological assessment. STUDY DESIGN, SIZE AND DURATION Observational study including 1966 blastocysts obtained from 681 patients cultured in a time-lapse incubator between January 2013 and December 2020 at a private Italian IVF center. PARTICIPANTS/MATERIALS, SETTING, METHODS According to Italian Law 40/2004, embryos were not selected based on their morphology and culture to >= 168 h.p.i. is standard care at our center. ICSI, continuous culture with Day 5 media refresh, trophectoderm biopsy without assisted hatching and comprehensive chromosome testing (CCT) to diagnose full-chromosome non-mosaic aneuploidies, were all performed. Blastocysts were clustered in six groups based on the time of biopsy in h.p.i. at 12 hr intervals starting from <120 h.p.i. (set as control) up to >168 h.p.i. Blastocyst quality was assessed using Gardner's scheme and confirmed with AI-powered software. AI was also used to automatically annotate the time of expanding blastocyst (tEB) and the hours elapsing between this moment and the achievement of full expansion when blastocysts were biopsied and vitrified. Also, blastocyst area at tEB and at the time of biopsy was automatically assessed, as well as the hour of the working day when the procedure was performed. The main outcomes were the euploidy rate and the LB rate (LBR) per vitrified-warmed euploid single blastocyst transfer. The results were adjusted for confounders through multivariate logistic regressions. To increase their generalizability, the main outcomes were reported also based on a 144-h.p.i. cutoff (i.e. 6 exact days from ICSI). Based on this cutoff, all the main patient outcomes (i.e. number of patients obtaining blastocysts, euploid blastocysts, LBs, with supernumerary blastocysts without a LB and with surplus blastocysts after an LB) were also reported versus the standard care (>168 h.p.i.). All hypothetical relative reductions were calculated. MAIN RESULTS AND THE ROLE OF CHANCE A total of 14.6% of the blastocysts reached full expansion beyond 144 h.p.i. (5.9% in the range 144-156 h.p.i., 7.9% in the range 156-168 h.p.i. and 0.8% beyond 168 h.p.i.). Slower blastocysts were of a worse quality based on the evaluation of both embryologists and AI. Both later tEB and longer time between tEB and full blastocyst expansion concurred to Day 7 development, quite independently of blastocyst quality. Slower growing blastocysts were slightly larger than faster-growing ones at the time of biopsy, but no difference was reported in the risk of hatching, mainly because two dedicated slots have been set along the working day for these procedures.
+   The lower euploidy rate among Day 7 blastocysts is due to their worse morphology and more advanced oocyte age, rather than to a slower development per se. Conversely, the lower LBR was significant even after adjusting for confounders, with a first relevant decrease for blastocysts biopsied in the range 132-144 h.p.i. (N = 76/208, 36.5% versus N = 114/215, 53.0% in the control, multivariate odds ratio 0.61, 95% CI 0.40-0.92, adjusted-P = 0.02), and a second step for blastocysts biopsied in the range 156-168 h.p.i. (N = 3/21, 14.3%, multivariate odds ratio: 0.24, 95% CI 0.07-0.88, adjusted-P = 0.03). Nevertheless, when the cutoff was set at 144 h.p.i., no significant difference was reported. In this patient population, ending embryo culture at 144 h.p.i. would have caused 10.6%, 7.3%, 4.4%, 13.7% and 5.2% relative reductions in the number of patients obtaining blastocysts, euploid blastocysts, LBs, supernumerary blastocysts without an LB and surplus blastocysts after an LB, respectively. LIMITATIONS, REASONS FOR CAUTION Gestational and perinatal outcomes were not assessed, and a cost-effectiveness analysis is missing. Moreover, we encourage other groups to investigate this topic with different culture and biopsy protocols, as well as in different clinical settings and regulatory contexts. WIDER IMPLICATIONS OF THE FINDINGS In view of the increasing personalization and patient-centeredness of IVF, whenever allowed from the local regulations, the choice to culture embryos to Day 7 should be grounded on the careful evaluation of couples' reproductive history. Patients should be aware that Day 7 blastocysts are less competent than faster-growing ones; still, poor prognosis couples, couples less compliant toward other attempts in case of a failure and couples wishing for more than one child, may benefit from them. AI tools can help improving the generalizability of the evidence worldwide. STUDY FUNDING/COMPETING INTEREST(S) This study did not receive any funding. I.E., A.B.M. and I.H.-V. are employees of Fairtility Ltd.
+AD  - GeneraLife IVF, Clin Valle Giulia, Via G De Notaris 2b, I-00197 Rome, ItalyAD  - Hebrew Univ Jerusalem, Alexander Grass Ctr Bioengn, Sch Comp Sci & Engn, Jerusalem, IsraelAD  - Fairtilty Ltd, Tel Aviv, IsraelAD  - Hadassah Med Org, Dept Obstet & Gynecol, IVF Unit, Jerusalem, IsraelAD  - Hebrew Univ Jerusalem, Fac Med, Jerusalem, IsraelAD  - Soroka Univ, Med Ctr, Dept Obstet & Gynecol, Fertil & IVF Unit, Beer Sheva, IsraelAD  - Ben Gurion Univ Negev, Fac Hlth Sci, Beer Sheva, IsraelAD  - Univ Urbino Carlo Bo, Dept Biomol Sci, Urbino, ItalyC3  - Hebrew University of JerusalemC3  - Hebrew University of JerusalemC3  - Hadassah University Medical CenterC3  - Hebrew University of JerusalemC3  - Ben Gurion UniversityC3  - Soroka Medical CenterC3  - Ben Gurion UniversityC3  - University of UrbinoPU  - OXFORD UNIV PRESS
+PI  - OXFORD
+PA  - GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+SN  - 0268-1161
+SN  - 1460-2350
+J9  - HUM REPROD
+JI  - Hum. Reprod.
+DA  - MAY 30
+PY  - 2022
+VL  - 37
+IS  - 6
+SP  - 1134
+EP  - 1147
+DO  - 10.1093/humrep/deac080
+C6  - APR 2022
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000785596800001
+N1  - Times Cited in Web of Science Core Collection:  23
+Total Times Cited:  23
+Cited Reference Count:  54
+ER  -
+
+TY  - JOUR
+AU  - Gupta, A
+AU  - Singla, T
+AU  - Chennatt, JJ
+AU  - David, LE
+AU  - Ahmed, SS
+AU  - Rajput, D
+TI  - Artificial intelligence: A new tool in surgeon's hand
+T2  - JOURNAL OF EDUCATION AND HEALTH PROMOTION
+LA  - English
+KW  - Artificial intelligence
+KW  - automation
+KW  - deep learning
+KW  - machine learning
+KW  - robotics
+KW  - surgery
+KW  - surgical procedures
+KW  - IMPACT
+AB  - Artificial intelligence (AI) is the future of surgery. Technological advancements are taking place at an incredible pace, largely due to AI or AI-backed systems. It is likely that there will be a massive explosion or "Cambrian explosion " of AI in our everyday life, largely aided by increased funding and resources spent on research and development. AI has also significantly revolutionized the medical field. The concept of machine learning and deep learning in AI is the crux of its success. In surgical practice, AI has numerous applications in the diagnosis of disease, preoperative planning, intraoperative assistance, surgical training and assessment, and robotics. The potential automation of surgery is also a possibility in the next few decades. However, at present, augmentation rather than automation should be the priority. In spite of the allure of AI, it comes with its own price. A robot lacks the "sixth sense " or intuition that is crucial in the practice of surgery and medicine. Empathy and human touch are also inimitable characteristics that cannot be replaced by an AI system. Other limitations include the financial burden and the feasibility of using such technology on a wide scale. Ethical and legal dilemmas such as those involving privacy laws are other issues that should be taken under consideration. Despite all these limitations, with the way technology is progressing, it is inevitable that AI and automation will completely change the way we practice surgery in the near future. Thus, this narrative review article aims to highlight the various applications and pitfalls of AI in the field of surgery.
+AD  - All India Inst Med Sci, Dept Gen Surg, Rishikesh, Uttaranchal, IndiaAD  - All India Inst Med Sci, Dept Surg, Rishikesh 249203, Uttaranchal, IndiaC3  - All India Institute of Medical Sciences (AIIMS) RishikeshC3  - All India Institute of Medical Sciences (AIIMS) RishikeshPU  - WOLTERS KLUWER MEDKNOW PUBLICATIONS
+PI  - MUMBAI
+PA  - WOLTERS KLUWER INDIA PVT LTD , A-202, 2ND FLR, QUBE, C T S  NO 1498A-2 VILLAGE MAROL, ANDHERI EAST, MUMBAI, Maharashtra, INDIA
+SN  - 2277-9531
+SN  - 2319-6440
+J9  - J EDUC HEALTH PROMOT
+JI  - J. Educ. Health Promot.
+DA  - JAN-DEC
+PY  - 2022
+VL  - 11
+IS  - 1
+DO  - 10.4103/jehp.jehp_625_21
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:000789432700015
+N1  - Times Cited in Web of Science Core Collection:  15
+Total Times Cited:  15
+Cited Reference Count:  30
+ER  -
+
+TY  - JOUR
+AU  - Fink, M
+AU  - Finck, M
+TI  - Reasoned A(I)dministration: Explanation Requirements in EU Law and the Automation of Public Administration
+T2  - EUROPEAN LAW REVIEW
+LA  - English
+KW  - Administrative decision-making
+KW  - Artificial intelligence
+KW  - Data protection
+KW  - EU law
+KW  - Reasons
+KW  - DECISION-MAKING
+KW  - PRINCIPLES
+AB  - Mechanisms to control public power have been developed and shaped around human beings as decision-makers at the centre of the public administration. However, technology is radically changing how public administration is organised and reliance on Artificial Intelligence is on the rise across all sectors. While carrying the promise of an increasingly efficient administration, automating (parts of) administrative decision-making processes also poses a challenge to our human-centred systems of control of public power. This article focuses on one of these control mechanisms: the duty to give reasons under EU law, a pillar of administrative law designed to enable individuals to challenge decisions and courts to exercise their powers of review. First, it analyses whether the duty to give reasons can be meaningfully applied when EU bodies rely on AI systems to inform their decision-making. Secondly, it examines the added value of secondary law, in particular the data protection rules applicable to EU institutions and the draft EU Artificial Intelligence Act, in complementing and adapting the duty to give reasons to better fulfil its purpose in a (partially) automated administration. This article concludes that the duty to give reasons provides a useful starting point but leaves a number of aspects unclear. While providing important safeguards, neither EU data protection law nor the draft EU Artificial Intelligence Act currently fill these gaps.
+AD  - Leiden Univ, Leiden, NetherlandsAD  - Cent European Univ, Dept Legal Studies, Budapest, HungaryAD  - Univ Tubingen, Law & Artificial Intelligence, Tubingen, GermanyAD  - Max Planck Inst Innovat & Competit, Munich, GermanyC3  - Leiden UniversityC3  - Leiden University - Excl LUMCC3  - Central European UniversityC3  - Eberhard Karls University of TubingenFU  - Machine Learning Cluster of Excellence [EXC 2064/1, 390727645]; Carl Zeiss Foundation
+FX  - Professor of Law and Artificial Intelligence at the University of Tubingen and Affiliated Fellow, Max Planck Institute for Innovation and Competition. Member of the Machine Learning Cluster of Excellence, EXC number 2064/1 - Project number 390727645. The author gratefully acknowledges funding by the Carl Zeiss Foundation.
+PU  - SWEET MAXWELL LTD
+PI  - ANDOVER
+PA  - NORTH WAY, ANDOVER SP10 5BE, HANTS, ENGLAND
+SN  - 0307-5400
+J9  - EUR LAW REV
+JI  - Eur. Law Rev.
+DA  - JUN
+PY  - 2022
+VL  - 47
+IS  - 3
+SP  - 376
+EP  - 392
+WE  - Social Science Citation Index (SSCI)AN  - WOS:000813406800006
+N1  - Times Cited in Web of Science Core Collection:  9
+Total Times Cited:  9
+Cited Reference Count:  103
+ER  -
+
+TY  - JOUR
+AU  - Marsoof, A
+AU  - Luco, A
+AU  - Tan, H
+AU  - Joty, S
+TI  - Content-filtering AI systems-limitations, challenges and regulatory approaches
+T2  - INFORMATION & COMMUNICATIONS TECHNOLOGY LAW
+LA  - English
+KW  - Content moderation
+KW  - AI and automation
+KW  - AI ethics principles
+KW  - human rights
+KW  - AI regulation
+KW  - FAKE
+AB  - Online service providers, and even governments, have increasingly relied on Artificial Intelligence ('AI') to regulate content on the Internet. In some jurisdictions, the law has incentivised, if not obligated, service providers to adopt measures to detect, track, and remove objectionable content such as terrorist propaganda. Consequently, service providers are being pushed to use AI to moderate online content. However, content-filtering AI systems are subject to limitations that affect their accuracy and transparency. These limitations open the possibility for legitimate content to be removed and objectionable content to remain online. Such an outcome could endanger human well-being and the exercise of our human rights. In view of these challenges, we argue that the design and use of content-filtering AI systems should be regulated. AI ethics principles such as transparency, explainability, fairness, and human-centricity should guide such regulatory efforts.
+AD  - Nanyang Technol Univ, Nanyang Business Sch, Div Business Law, Singapore, SingaporeAD  - Nanyang Technol Univ, Sch Humanities, Singapore, SingaporeAD  - Nanyang Technol Univ, Sch Comp Sci & Engn, Singapore, SingaporeC3  - Nanyang Technological UniversityC3  - Nanyang Technological UniversityC3  - Nanyang Technological UniversityFU  - Micron Technology; NTU Institute of Science and Technology for Humanity, an interdisciplinary research institute at Singapore's Nanyang Technological University (`NTU')
+FX  - We thank Micron Technology and the NTU Institute of Science and Technology for Humanity, an interdisciplinary research institute at Singapore's Nanyang Technological University (`NTU'), for funding the research that underpins this paper. As part of our work, we organised a knowledge sharing session at which we received invaluable insights from eminent scholars and industry experts. In particular, we wish to thank Karen Yeung (Professor of Law, University of Birmingham), Lyria Benett-Moses (Professor of Law, University of New South Wales) and Cansu Canca (Founder and Director of the AI Ethics Lab) for providing us with helpful feedback on our research. We also acknowledge the support of our NTU research assistants, Ang Wan Qi (Renaissance Engineering Program), Peng Yuqi (School of Humanities), Chua Yong Jian, Kenneth (Nanyang Business School) and Lynn Htet Aung (Nanyang Business School/School of Computer Science and Engineering), who diligently assisted us with our research.
+PU  - ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI  - ABINGDON
+PA  - 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN  - 1360-0834
+SN  - 1469-8404
+J9  - INF COMMUN TECHNOL L
+JI  - Inf. Commun. Technol. Law
+DA  - JAN 2
+PY  - 2023
+VL  - 32
+IS  - 1
+SP  - 64
+EP  - 101
+DO  - 10.1080/13600834.2022.2078395
+C6  - MAY 2022
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:000800469700001
+N1  - Times Cited in Web of Science Core Collection:  4
+Total Times Cited:  4
+Cited Reference Count:  149
+ER  -
+
+TY  - JOUR
+AU  - Surden, H
+TI  - Values Embedded in Legal Artificial Intelligence
+T2  - IEEE TECHNOLOGY AND SOCIETY MAGAZINE
+LA  - English
+KW  - Automation
+KW  - Law
+KW  - Government
+KW  - Machine learning
+KW  - Resource management
+AB  - Increasingly, governments are using technological systems in the application and administration of law [6], [22]. For example, officials use computer systems to sentence criminal defendants, approve or deny government benefits, predict the location of future crimes, and disallow border entry [6], [22]. In each instance, technology is used to make substantive decisions about law, individual legal rights, or allocation of government resources. Let us refer to any automation system used in the administration or application of law as a "legal technological system." Notably, some of these legal technological systems use machine learning and other artificial intelligence techniques to achieve their goals [13]. Let us refer to those as "legal AI systems."
+AD  - Univ Colorado, Law, Boulder, CO 80309 USAC3  - University of Colorado SystemC3  - University of Colorado BoulderPU  - IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI  - PISCATAWAY
+PA  - 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN  - 0278-0097
+SN  - 1937-416X
+J9  - IEEE TECHNOL SOC MAG
+JI  - IEEE Technol. Soc. Mag.
+DA  - MAR
+PY  - 2022
+VL  - 41
+IS  - 1
+SP  - 66
+EP  - 74
+DO  - 10.1109/MTS.2022.3147542
+WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:000766601000015
+N1  - Times Cited in Web of Science Core Collection:  3
+Total Times Cited:  4
+Cited Reference Count:  29
+ER  -
+

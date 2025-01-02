@@ -1,0 +1,347 @@
+﻿TY  - JOUR
+AU  - Tomsett, R
+AU  - Preece, A
+AU  - Braines, D
+AU  - Cerutti, F
+AU  - Chakraborty, S
+AU  - Srivastava, M
+AU  - Pearson, G
+AU  - Kaplan, L
+TI  - Rapid Trust Calibration through Interpretable and Uncertainty-Aware AI
+T2  - PATTERNS
+LA  - English
+KW  - ALGORITHM AVERSION
+KW  - AUTOMATION BIAS
+KW  - DECISION AIDS
+KW  - IMPACT
+KW  - JUDGMENT
+KW  - HUMANS
+AB  - Artificial intelligence (AI) systems hold great promise as decision-support tools, but we must be able to identify and understand their inevitable mistakes if they are to fulfill this potential. This is particularly true in domains where the decisions are high-stakes, such as law, medicine, and the military. In this Perspective, we describe the particular challenges for AI decision support posed in military coalition operations. These include having to deal with limited, low-quality data, which inevitably compromises AI performance. We suggest that these problems can be mitigated by taking steps that allow rapid trust calibration so that decision makers understand the AI system's limitations and likely failures and can calibrate their trust in its outputs appropriately. We propose that AI services can achieve this by being both interpretable and uncertainty-aware. Creating such AI systems poses various technical and human factors challenges. We review these challenges and recommend directions for future research.
+AD  - IBM Res Europe, Emerging Technol, Hursley Pk Rd, Hursley SO21 2JN, EnglandAD  - Cardiff Univ, Crime & Secur Res Inst, Friary House,Greyfriars Rd, Cardiff CF10 3AE, WalesAD  - Univ Brescia, Dipartimento Ingn Informaz, Via Branze 38, I-25123 Brescia, ItalyAD  - IBM Thomas J Watson Res Ctr, IBM Res, 1101 Kitchawan Rd, Yorktown Hts, NY 10598 USAAD  - Univ Calif Los Angeles, Elect & Comp Engn Dept, Networked & Embedded Syst Lab, 420 Westwood Plaza, Los Angeles, CA 90095 USAAD  - Def Sci & Technol Lab, Salisbury SP4 0JQ, Wilts, EnglandAD  - CCDC Army Res Lab, 2800 Powder Mill Rd, Adelphi, MD 20783 USAC3  - Cardiff UniversityC3  - University of BresciaC3  - International Business Machines (IBM)C3  - University of California SystemC3  - University of California Los AngelesC3  - Defence Science & Technology LaboratoryFU  - US CCDC Army Research Laboratory; UK Ministry of Defence [W911NF-16-3-0001]
+FX  - We thank the anonymous reviewers for their insightful and helpful comments. This research was sponsored by the US CCDC Army Research Laboratory and the UK Ministry of Defence under Agreement Number W911NF-16-3-0001. The views and conclusions contained in this document are those of the authors and should not be interpreted as representing the official policies, either expressed or implied, of the US Army Research Laboratory, the US Government, the UK Ministry of Defence, or the UK Government. The US and UK Governments are authorized to reproduce and distribute reprints for Government purposes notwithstanding any copyright notation hereon.
+PU  - CELL PRESS
+PI  - CAMBRIDGE
+PA  - 50 HAMPSHIRE ST, FLOOR 5, CAMBRIDGE, MA 02139 USA
+SN  - 2666-3899
+J9  - PATTERNS
+JI  - Patterns
+DA  - JUL 10
+PY  - 2020
+VL  - 1
+IS  - 4
+C7  - 100049
+DO  - 10.1016/j.patter.2020.100049
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:000653827800002
+N1  - Times Cited in Web of Science Core Collection:  70
+Total Times Cited:  79
+Cited Reference Count:  94
+ER  -
+
+TY  - JOUR
+AU  - Engstrom, DF
+AU  - Ho, DE
+TI  - Algorithmic Accountability in the Administrative State
+T2  - YALE JOURNAL ON REGULATION
+LA  - English
+KW  - PUBLIC REGULATION
+KW  - DECISION-MAKING
+KW  - LITIGATION
+KW  - SEPARATION
+KW  - BIAS
+KW  - ARBITRARINESS
+KW  - TRANSPARENCY
+KW  - ADJUDICATION
+KW  - AUTOMATION
+KW  - GOVERNMENT
+AB  - How will artificial intelligence (Al) transform government? Stemming from a major study commissioned by the Administrative Conference of the United States (ACUS), we highlight the promise and trajectory of algorithmic tools used by federal agencies to perform the work of governance. Moving past the abstract mappings of transparency measures and regulatory mechanisms that pervade the current algorithmic accountability literature, our analysis centers around a detailed technical account of a pair of current applications that exemplifi; AI's move to the center of the redistributive and coercive power of the state: the Social Security Administration's use of AI tools to adjudicate disability benefits cases and the Securities and Exchange Commission's use of AI tools to target enforcement efforts under federal securities law. We argue that the next generation of work will need to push past a narrow focus on constitutional law and instead engage with the broader terrain of administrative law, which is far more likely to modulate use of algorithmic governance tools going forward. We demonstrate the shortcomings of conventional ex ante and ex post review under current administrative law doctrines and then consider how those doctrines might adapt in response. Finally, we ask how else to build a sensible accountability structure around public sector use of algorithmic governance tools while maintaining incentives and opportunities for salutary innovation. Reviewing some commonly offered solutions, we propose a further and novel approach to oversight centered on prospective benchmarking. By requiring agencies to reserve a random set of cases for manual decision making, benchmarking offers a concrete and accessible test of the validity and legality of machine outputs, enabling agencies, courts, and the public to learn about, validate, and correct errors in algorithmic decision making.
+AD  - Stanford Law Sch, 559 Nathan Abbott Way, Stanford, CA 94305 USAAD  - Stanford Univ, Stanford Inst Econ Policy Res, 559 Nathan Abbott Way, Stanford, CA 94305 USAC3  - Stanford UniversityC3  - Stanford UniversityPU  - YALE JOURNAL ON REGULATION
+PI  - NEW HAVEN
+PA  - 127 WALL STREET, NEW HAVEN, CT 06511 USA
+SN  - 0741-9457
+SN  - 2376-5925
+J9  - YALE J REGUL
+JI  - Yale J. Regul.
+DA  - SUM
+PY  - 2020
+VL  - 37
+IS  - 3
+SP  - 800
+EP  - 854
+WE  - Social Science Citation Index (SSCI)AN  - WOS:000567989300001
+N1  - Times Cited in Web of Science Core Collection:  30
+Total Times Cited:  34
+Cited Reference Count:  145
+ER  -
+
+TY  - JOUR
+AU  - Koulu, R
+TI  - HUMAN CONTROL OVER AUTOMATION: EU POLICY AND AI ETHICS
+T2  - EUROPEAN JOURNAL OF LEGAL STUDIES
+LA  - English
+KW  - algorithmic governance
+KW  - AI ethics
+KW  - automation
+KW  - human control
+KW  - oversight
+KW  - EU law
+KW  - legal theory
+AB  - In this article I problematize the use of algorithmic decision-making (ADM) applications to automate legal decision-making processes from the perspective of the European Union (EU) policy on trustworthy artificial intelligence (AI). Lately, the use of ADM systems across various fields, ranging from public to private, from criminal justice to credit scoring, has given rise to concerns about the negative consequences that data-driven technologies have in reinforcing and reinterpreting existing societal biases. This development has led to growing demand for ethical AI, often perceived to require human control over automation. By engaging in discussions of human-computer interaction and in post-structural policy analysis, I examine EU policy proposals to address the problematizations of AI through human oversight. I argue that the relevant policy documents do not reflect the results of earlier research which have undeniably demonstrated the shortcomings of human control over automation, which in turn leads to the reproduction of the harmful dichotomy of human versus machine in EU policy. Despite its shortcomings, the emphasis on human oversight reflects broader fears surrounding loss of control, framed as ethical concerns around digital technologies. Critical examination of these fears reveals an inherent connection between human agency and the legitimacy of legal decision-making that socio-legal scholarship needs to address.
+AD  - Univ Helsinki, Legal Tech Lab, Helsinki, FinlandC3  - University of HelsinkiPU  - EUROPEAN UNIV INST
+PI  - FIRENZE
+PA  - COMMUNICATIONS SERV-PUBL UNIT, VILLA SALVIATI, VIA BOLOGNESE 156, FIRENZE, FI 50139, ITALY
+SN  - 1973-2937
+J9  - EUR J LEG STUD
+JI  - Eur. J. Leg. Stud.
+DA  - SPR
+PY  - 2020
+VL  - 12
+IS  - 1
+SP  - 9
+EP  - 46
+DO  - 10.2924/EJLS.2019.019
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:000567158400002
+N1  - Times Cited in Web of Science Core Collection:  23
+Total Times Cited:  24
+Cited Reference Count:  63
+ER  -
+
+TY  - JOUR
+AU  - Carney, T
+TI  - ARTIFICIAL INTELLIGENCE IN WELFARE: STRIKING THE VULNERABILITY BALANCE?
+T2  - MONASH UNIVERSITY LAW REVIEW
+LA  - English
+KW  - SOCIAL INVESTMENT
+KW  - DECISION
+KW  - AUTOMATION
+KW  - FRAUD
+KW  - RULE
+KW  - POLICY
+KW  - RISK
+KW  - LAW
+AB  - Artificial intelligence in public administration is both inevitable and potentially quite beneficial. Its assistive form offers access, efficiency and convenience; while the gains potentially are even larger in its augmentive 'machine learning' form. Offsetting risks include disadvantaging technology poor clients, and poor design which fails adequately to reflect social welfare principles or provide adequate accountability and redress for errors; a risk heightened for machine learning. This paper reviews some of the different forms and settings for AI in social security and argues that the Australian experience to date has been very mixed due to poor or rushed AI designs, poor understanding of client characteristics, and inadequate understanding of dynamics within contracted-out government services settings.
+AD  - Univ Sydney, Eastern Ave, Sydney, NSW 2006, AustraliaAD  - Univ Technol Sydney, Sydney, NSW, AustraliaAD  - ARC Ctr Excellence Automated Decis Making & Soc, Carlton, Vic, AustraliaC3  - University of SydneyC3  - University of Technology SydneyC3  - ARC Centre of Excellence for Automated Decision-Making & SocietyPU  - MONASH UNIV, FAC LAW
+PI  - CLAYTON
+PA  - BLDG 12, WELLINGTON RD, CLAYTON, VIC 3800, AUSTRALIA
+SN  - 0311-3140
+SN  - 1839-3837
+J9  - MONASH UNIV LAW REV
+JI  - Monach Univ. Law Rev.
+PY  - 2020
+VL  - 46
+IS  - 2
+SP  - 23
+EP  - 51
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:000749733700003
+N1  - Times Cited in Web of Science Core Collection:  7
+Total Times Cited:  7
+Cited Reference Count:  108
+ER  -
+
+TY  - CPAPER
+AU  - Golbin, I
+AU  - Rao, AS
+AU  - Hadjarian, A
+AU  - Krittman, D
+ED  - Wu, XT
+ED  - Jermaine, C
+ED  - Xiong, L
+ED  - Hu, XH
+ED  - Kotevska, O
+ED  - Lu, SY
+ED  - Xu, WJ
+ED  - Aluru, S
+ED  - Zhai, CX
+ED  - Al-Masri, E
+ED  - Chen, ZY
+ED  - Saltz, J
+TI  - Responsible AI: A Primer for the Legal Community
+T2  - 2020 IEEE INTERNATIONAL CONFERENCE ON BIG DATA (BIG DATA)
+LA  - English
+CP  - 8th IEEE International Conference on Big Data (Big Data)
+KW  - artificial intelligence
+KW  - ethics
+AB  - Artificial intelligence (AI) is increasingly being adopted for automation and decision-making tasks across all industries, public sector, and law. Applications range from hiring and credit limit decisions, to loan and healthcare claim approvals, to criminal sentencing, and even the selective provision of information by social media companies to different groups of viewers. The increased adoption of AI, affecting so many aspects of our daily lives, highlights the potential risks around automated decision making and the need for better governance and ethical standards when deploying such systems. In response to that need, governments, states, municipalities, private sector organizations, and industry groups around the world have drafted hundreds, perhaps even thousands at this point - of new, regulatory proposals and guidelines; many already in effect and more on the way. The data-driven and often black box nature of these systems does not absolve organizations from the social responsibility or increasingly commonplace regulatory requirements to confirm they work as intended and are deployed in a responsible manner, lest they run the risk of reputational damage, regulatory fines, and/or legal action. The legal community should have a good understanding of the responsible development and deployment of artificial intelligence in order to inform, translate, and advise on the legal implications of AI systems.
+AD  - Emerging Technol PwC, Los Angeles, CA 90001 USAAD  - Global AI Leader PwC, Boston, MA USAAD  - Cybersecur Privacy & Forens PwC, Washington, DC USAAD  - Cybersecur Privacy & Forens PwC, New York, NY USAPU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 2639-1589
+SN  - 978-1-7281-6251-5
+J9  - IEEE INT CONF BIG DA
+PY  - 2020
+SP  - 2121
+EP  - 2126
+DO  - 10.1109/BigData50022.2020.9377738
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000662554702032
+N1  - Times Cited in Web of Science Core Collection:  6
+Total Times Cited:  6
+Cited Reference Count:  43
+ER  -
+
+TY  - JOUR
+AU  - Baclawski, K
+AU  - Bennett, M
+AU  - Berg-Cross, G
+AU  - Fritzsche, D
+AU  - Sharma, R
+AU  - Sharma, R
+AU  - Sowa, JF
+AU  - Sriram, RD
+AU  - Underwood, M
+AU  - Whitten, D
+TI  - Ontology summit 2019 communique: Explanations
+T2  - APPLIED ONTOLOGY
+LA  - English
+KW  - Ontologies
+KW  - context
+KW  - inference
+KW  - commonsense reasoning
+KW  - explainable AI
+KW  - narrative
+KW  - financial explanations
+KW  - medical explanations
+AB  - With the increasing amount of software devoted to industrial automation and process control, it is becoming more important than ever for systems to be able to explain their behavior. In some domains, such as financial services, explainability is mandated by law. In spite of this, explanation today is largely handled in an unsystematic manner, if it is handled at all. The decisions of modern artificially intelligent systems, such as those built on deep neural networks, are especially difficult to explain. The goal of the recent Ontology Summit 2019 was concerned with the role of ontologies for explaining the functioning of a system. More specifically, the Ontology Summit focused on critical explanation gaps and the role of ontologies for dealing with these gaps. The sessions examined current technologies and real needs driven by risks and requirements to meet legal or other standards. The sessions covered explainable artificial intelligence, commonsense reasoning and knowledge, the role of narrative, and explanations in the fields of finance and medicine. The goal of this Communique is to foster research and development of approaches to explanations and to drive towards explanation support which can be incorporated into both knowledge engineering processes and ontology design best practices.
+AD  - Northeastern Univ, Boston, MA 02115 USAAD  - Hypercube Ltd, London, EnglandAD  - RDA US Advisory Grp, Troy, NY USAAD  - Sherwin Williams, Cleveland, OH USAAD  - INCOSE, Scotts Valley, CA USAAD  - Kyndi Inc, San Mateo, CA USAAD  - Natl Inst Stand & Technol, Gaithersburg, MD 20899 USAAD  - Krypton Bros LLC, Port Washington, NY USAAD  - WorldVistA, Creedmoor, NC USAC3  - Northeastern UniversityC3  - National Institute of Standards & Technology (NIST) - USAPU  - IOS PRESS
+PI  - AMSTERDAM
+PA  - NIEUWE HEMWEG 6B, 1013 BG AMSTERDAM, NETHERLANDS
+SN  - 1570-5838
+SN  - 1875-8533
+J9  - APPL ONTOL
+JI  - Appl. Ontol.
+PY  - 2020
+VL  - 15
+IS  - 1
+SP  - 91
+EP  - 107
+DO  - 10.3233/AO-200226
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000515158600005
+N1  - Times Cited in Web of Science Core Collection:  4
+Total Times Cited:  4
+Cited Reference Count:  33
+ER  -
+
+TY  - JOUR
+AU  - Davis, AE
+TI  - The Future of Law Firms (and Lawyers) in the Age of Artificial Intelligence
+T2  - REVISTA DIREITO GV
+LA  - English
+KW  - Artificial Intelligence (AI)
+KW  - Legal Service Providers
+KW  - Lawyers
+KW  - Law Firms
+KW  - Future of Legal Services
+AB  - This article explores the future for lawyers and law firms in the light of the changes that Artificial Intelligence ("AI") is already bringing to the universe of legal services. Part I briefly describes some of the ways AI is already in use in ordinary life - from facial recognition, through medical diagnosis to translation services. Part II describes how AI is transforming what it means to provide legal services in six primary areas: litigation review; expertise automation; legal research; contract analytics; contract and litigation document generation; and predictive analytics. Part III explores who are the providers of these AI driven legal services - often non-lawyer legal service providers - and how these providers are replacing at least some of what clients have traditionally sought from lawyers. Part III also discusses the implications of all these changes both for the future role of lawyers individually, and in particular what services will clients still need lawyers to perform: judgment, empathy, creativity and adaptability. In turn, this Part examines what will these changes mean for the size, shape, composition and economic model of law firms, as well as the implications of these changes for legal education and lawyer training. Part IV identifies the principal legal, ethical, regulatory and risk management issues raised by the use of AI in the provision of legal services. Finally, in Part V the article considers who will be the likely providers of AI based services other than law firms: legal publishers, major accounting firms and venture capital funded businesses.
+AD  - Clide & CO US LLP, New York, NY USAPU  - FUNDACAO GETULIO VARGAS, ESCOLA DIREITO
+PI  - SAO PAULO SP
+PA  - RUA ROCHA, 23 11 ANDAR, SAO PAULO SP, 01330-0000, BRAZIL
+SN  - 1808-2432
+SN  - 2317-6172
+J9  - REV DIREITO GV
+JI  - Rev. Direito GV
+PY  - 2020
+VL  - 16
+IS  - 1
+C7  - e1945
+DO  - 10.1590/2317-6172201945
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:000527400100007
+N1  - Times Cited in Web of Science Core Collection:  3
+Total Times Cited:  3
+Cited Reference Count:  2
+ER  -
+
+TY  - JOUR
+AU  - Jin, YH
+AU  - He, H
+TI  - An Artificial-Intelligence-Based Semantic Assist Framework for Judicial Trials
+T2  - ASIAN JOURNAL OF LAW AND SOCIETY
+LA  - English
+KW  - artificial intelligence
+KW  - legal reason
+KW  - fact extraction and verification
+KW  - semantic similarity
+KW  - sentencing prediction
+AB  - Due to their success in routine tasks such as voice recognition, image classification, and text processing, extensive attention has been aroused on how to use artificial intelligence (AD -based automation tools in the judicial-trial process to improve efficiency. Meanwhile, judicial trial is a complex task that requires accurate insight and subtle analysis of the cases, law, and common knowledge. Applying the results provided by AI-based automation tools directly to the judicialtrial process is controversial due to their irregular logic and low accuracy. Based on this observation, this article investigates the logic underlined in judicial trials and the technical characteristics of AI, and proposes an AI-based semantic assist approach for judicial trials that is logical and transparent to the judges.
+AD  - Shanghai Jiao Tong Univ, Artificial Intelligence Inst, 800 Dongchuan Rd, Shanghai, Peoples R ChinaAD  - Shanghai Jiao Tong Univ, Dept Elect Engn, Shanghai, Peoples R ChinaAD  - Shanghai Jiao Tong Univ, AI Inst, MoE Key Lab Artificial Intelligence, Shanghai, Peoples R ChinaC3  - Shanghai Jiao Tong UniversityC3  - Shanghai Jiao Tong UniversityC3  - Shanghai Jiao Tong UniversityFU  - National Key Research and Development Program of China [2018YFC0830400]
+FX  - This work is supported by National Key Research and Development Program of China (2018YFC0830400).
+PU  - CAMBRIDGE UNIV PRESS
+PI  - CAMBRIDGE
+PA  - EDINBURGH BLDG, SHAFTESBURY RD, CB2 8RU CAMBRIDGE, ENGLAND
+SN  - 2052-9015
+SN  - 2052-9023
+J9  - ASIAN J LAW SOC
+JI  - ASIAN J. LAW SOC.
+DA  - NOV
+PY  - 2020
+VL  - 7
+IS  - 3
+SP  - 531
+EP  - 540
+C7  - PII S2052901520000340
+DO  - 10.1017/als.2020.33
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:000641479000008
+N1  - Times Cited in Web of Science Core Collection:  2
+Total Times Cited:  2
+Cited Reference Count:  43
+ER  -
+
+TY  - JOUR
+AU  - Goldsworthy, D
+TI  - THE FUTURE OF LEGAL EDUCATION IN THE 21st CENTURY
+T2  - ADELAIDE LAW REVIEW
+LA  - English
+KW  - MOOCS
+KW  - AGE
+AB  - Technological progress will continue to fundamentally alter how we relate to each other and to our work, necessarily shaping the future of legal education. In considering its future direction, this article contemplates various perspectives regarding the purpose of legal education, and the pressures that may be brought to bear on pedagogical practices as a result of current and emerging technologies. Situating these considerations within the broader commentary regarding the future of work and the role of human beings in an age of automation, this article argues that the nature and type of skills taught to future lawyers, as well as the substantive knowledge relevant in the 21st century, will depend upon the irreducible value of human beings to the law and legal processes. Tasks that require creativity, complex reasoning or social intelligence (such as the ability to negotiate complex social relationships effectively) will remain the province of human beings. This must inform and shape legal education. Consequently, this article argues that the future of legal education is one that recognises lawyers will increasingly be required to attain a broad, liberal education enabling interdisciplinary insights, creativity and social intelligence.
+AD  - Deakin Law Sch, Burwood, AustraliaC3  - Deakin UniversityPU  - UNIV ADELAIDE
+PI  - ADELAIDE
+PA  - DEPT ENGLISH, ADELAIDE, 5001, AUSTRALIA
+SN  - 0065-1915
+J9  - ADEL LAW REV
+JI  - Adel. Law Rev.
+PY  - 2020
+VL  - 41
+IS  - 1
+SP  - 243
+EP  - 265
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:000558661200008
+N1  - Times Cited in Web of Science Core Collection:  2
+Total Times Cited:  2
+Cited Reference Count:  83
+ER  -
+
+TY  - JOUR
+AU  - Wolf, G
+TI  - EMBRACING THE FUTURE: USING ARTIFICIAL INTELLIGENCE IN AUSTRALIAN HEALTH PRACTITIONER REGULATION
+T2  - JOURNAL OF LAW AND MEDICINE
+LA  - English
+KW  - health technology
+KW  - artificial intelligence
+KW  - regulation of health practitioners
+KW  - ethical safeguards
+KW  - bias
+KW  - privacy protection
+KW  - PROFESSIONAL MISCONDUCT
+KW  - NEW-ZEALAND
+KW  - DOCTORS
+KW  - COMPLAINTS
+KW  - PREVALENCE
+KW  - AUTOMATION
+KW  - OUTCOMES
+KW  - RISKS
+AB  - Artificial intelligence (AI) - computerised technology that imitates aspects of human intelligence - is developing at a rapid pace. It is increasingly used to improve the efficiency and effectiveness of multifarious processes in private industry and public administration. Among the statutory authorities that have begun to explore the potential for AI to assist them are regulators of Australia's health professions. Protection of the public is a chief objective of this area of administrative law. This section considers some possible uses of AI - and particularly its capacities to analyse and draw inferences from data, make predictions and decisions, and automate tasks - that might help regulators achieve this goal. The section also contemplates the implications of AI involvement in the regulation of health practitioners for the rule of law and human rights it protects and recommends measures that might be taken to mitigate risks of their infringement.
+AD  - Deakin Univ, Fac Business & Law, Sch Law, Geelong, Vic, AustraliaC3  - Deakin UniversityPU  - THOMSON REUTERS AUSTRALIA LTD
+PI  - NORTH RYDE
+PA  - THOMSON REUTERS AUSTRALIA LTD, NORTH RYDE, 00000, AUSTRALIA
+SN  - 1320-159X
+J9  - J LAW MED
+JI  - J. Law Med.
+PY  - 2020
+VL  - 28
+IS  - 1
+SP  - 21
+EP  - 44
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:000598178100002
+N1  - Times Cited in Web of Science Core Collection:  2
+Total Times Cited:  2
+Cited Reference Count:  81
+ER  -
+

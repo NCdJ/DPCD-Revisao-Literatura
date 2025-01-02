@@ -1,0 +1,343 @@
+﻿TY  - JOUR
+AU  - O'Sullivan, S
+AU  - Nevejans, N
+AU  - Allen, C
+AU  - Blyth, A
+AU  - Leonard, S
+AU  - Pagallo, U
+AU  - Holzinger, K
+AU  - Holzinger, A
+AU  - Sajid, MI
+AU  - Ashrafian, H
+TI  - Legal, regulatory, and ethical frameworks for development of standards in artificial intelligence (AI) and autonomous robotic surgery
+T2  - INTERNATIONAL JOURNAL OF MEDICAL ROBOTICS AND COMPUTER ASSISTED SURGERY
+LA  - English
+KW  - CLASSIFICATION
+KW  - EVOLUTION
+KW  - SARS
+AB  - Background This paper aims to move the debate forward regarding the potential for artificial intelligence (AI) and autonomous robotic surgery with a particular focus on ethics, regulation and legal aspects (such as civil law, international law, tort law, liability, medical malpractice, privacy and product/device legislation, among other aspects). Methods We conducted an intensive literature search on current or emerging AI and autonomous technologies (eg, vehicles), military and medical technologies (eg, surgical robots), relevant frameworks and standards, cyber security/safety- and legal-systems worldwide. We provide a discussion on unique challenges for robotic surgery faced by proposals made for AI more generally (eg, Explainable AI) and machine learning more specifically (eg, black box), as well as recommendations for developing and improving relevant frameworks or standards. Conclusion We classify responsibility into the following: (1) Accountability; (2) Liability; and (3) Culpability. All three aspects were addressed when discussing responsibility for AI and autonomous surgical robots, be these civil or military patients (however, these aspects may require revision in cases where robots become citizens). The component which produces the least clarity is Culpability, since it is unthinkable in the current state of technology. We envision that in the near future a surgical robot can learn and perform routine operative tasks that can then be supervised by a human surgeon. This represents a surgical parallel to autonomously driven vehicles. Here a human remains in the 'driving seat' as a 'doctor-in-the-loop' thereby safeguarding patients undergoing operations that are supported by surgical machines with autonomous capabilities.
+AD  - Univ Sao Paulo, Dept Pathol, Fac Med, Sao Paulo, BrazilAD  - Univ Artois, Fac Law Douai, Res Ctr Law Eth & Procedures, Arras, FranceAD  - Univ Pittsburgh, Dept Hist & Philosophy Sci, Pittsburgh, PA 15260 USAAD  - Univ South Wales, Fac Comp Engn & Sci, Dept Comp & Math, Pontypridd, M Glam, WalesAD  - Johns Hopkins Univ, Dept Comp Sci, Baltimore, MD 21218 USAAD  - Univ Turin, Dept Jurisprudence, Turin, ItalyAD  - SBA Res gGmbH, Secure Business Austria, Vienna, AustriaAD  - Med Univ Graz, Inst Med Informat Stat, Holzinger Grp, HCI KDD, Graz, AustriaAD  - Wirral Univ Teaching Hosp, Dept Upper GI Surg, Birkenhead, Merseyside, EnglandAD  - Imperial Coll London, Dept Surg & Canc, London, EnglandAD  - Imperial Coll London, Inst Global Hlth Innovat, London, EnglandC3  - Universidade de Sao PauloC3  - Universite d'ArtoisC3  - Pennsylvania Commonwealth System of Higher Education (PCSHE)C3  - University of PittsburghC3  - University of South WalesC3  - Johns Hopkins UniversityC3  - University of TurinC3  - Medical University of GrazC3  - Imperial College LondonC3  - Imperial College LondonFU  - CNPQ (Brazilian National Council for Scientific and Technological Development)
+FX  - CNPQ (Brazilian National Council for Scientific and Technological Development)
+PU  - WILEY
+PI  - HOBOKEN
+PA  - 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN  - 1478-5951
+SN  - 1478-596X
+J9  - INT J MED ROBOT COMP
+JI  - Int. J. Med. Robot. Comput. Assist. Surg.
+DA  - FEB
+PY  - 2019
+VL  - 15
+IS  - 1
+C7  - e1968
+DO  - 10.1002/rcs.1968
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000455272400006
+N1  - Times Cited in Web of Science Core Collection:  183
+Total Times Cited:  188
+Cited Reference Count:  70
+ER  -
+
+TY  - JOUR
+AU  - Schönberger, D
+TI  - Artificial intelligence in healthcare: a critical analysis of the legal and ethical implications
+T2  - INTERNATIONAL JOURNAL OF LAW AND INFORMATION TECHNOLOGY
+LA  - English
+KW  - Artificial intelligence
+KW  - medical law and ethics
+KW  - fairness
+KW  - data protection
+KW  - autonomy
+KW  - accountability
+KW  - negligence
+KW  - liability
+KW  - product liability
+KW  - ACCESS
+KW  - CHALLENGES
+KW  - PROTECTION
+KW  - PRIVACY
+KW  - STIGMA
+KW  - LAW
+KW  - AI
+AB  - Artificial intelligence (AI) is perceived as the most transformative technology of the 21st century. Healthcare has been identified as an early candidate to be revolutionized by AI technologies. Various clinical and patient-facing applications have already reached healthcare practice with the potential to ease the pressure on healthcare staff, bring down costs and ultimately improve the lives of patients. However, various concerns have been raised as regards the unique properties and risks inherent to AI technologies. This article aims at providing an early stage contribution with a holistic view on the 'decision-making' capacities of AI technologies. The possible ethical and legal ramifications will be discussed against the backdrop of the existing frameworks. I will conclude that the present structures are largely fit to deal with the challenges AI technologies are posing. In some areas, sector-specific revisions of the law may be advisable, particularly concerning non-discrimination and product liability.
+AD  - LLM Med Law & Eth, Law, Edinburgh, Midlothian, ScotlandPU  - OXFORD UNIV PRESS
+PI  - OXFORD
+PA  - GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+SN  - 0967-0769
+SN  - 1464-3693
+J9  - INT J LAW INFORM TEC
+JI  - Int. J. Law Inform. Technol.
+DA  - SUM
+PY  - 2019
+VL  - 27
+IS  - 2
+SP  - 171
+EP  - 203
+DO  - 10.1093/ijlit/eaz004
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:000493119500004
+N1  - Times Cited in Web of Science Core Collection:  105
+Total Times Cited:  108
+Cited Reference Count:  140
+ER  -
+
+TY  - JOUR
+AU  - Deeks, A
+TI  - THE JUDICIAL DEMAND FOR EXPLAINABLE ARTIFICIAL INTELLIGENCE
+T2  - COLUMBIA LAW REVIEW
+LA  - English
+KW  - COMMON-LAW
+KW  - DECISION-MAKING
+KW  - EXPLANATION
+KW  - AUTOMATION
+KW  - BIAS
+AB  - A recurrent concern about machine learning algorithms is that they operate as "black boxes," making it difficult to identify how and why the algorithms reach particular decisions, recommendations, or predictions. Yet judges are confronting machine learning algorithms with increasing frequency, including in criminal, administrative, and civil cases. This Essay argues that judges should demand explanations for these algorithmic outcomes. One way to address the "black box" problem is to design systems that explain how the algorithms reach their conclusions or predic lions. If and as judges demand these explanations, they will play a seminal role in shaping the nature and form of "explainable AI" (xAI). Using the tools of the common law, courts can develop what xAI should mean in different legal contexts. There are advantages to having courts to play this role: Judicial reasoning that builds from the bottom up, using case-by-case consideration of the facts to produce nuanced decisions, is a pragmatic way to develop rules for xAI. Further, courts are likely to stimulate the production of different forms of xAI that are responsive to distinct legal settings and audiences. More generally, we should favor the greater involvement of public actors in shaping xAI, which to date has largely been left in private hands.
+AD  - Univ Virginia, Law, Law Sch, Charlottesville, VA 22903 USAC3  - University of VirginiaPU  - COLUMBIA JOURNAL TRANSNATIONAL LAW ASSOC
+PI  - NEW YORK
+PA  - COLUMBIA UNIV, SCHOOL LAW, 435 W 116TH ST, NEW YORK, NY 10027 USA
+SN  - 0010-1958
+SN  - 1945-2268
+J9  - COLUMBIA LAW REV
+JI  - Columbia Law Rev.
+DA  - NOV
+PY  - 2019
+VL  - 119
+IS  - 7
+SP  - 1829
+EP  - 1850
+WE  - Social Science Citation Index (SSCI)AN  - WOS:000505471500006
+N1  - Times Cited in Web of Science Core Collection:  103
+Total Times Cited:  112
+Cited Reference Count:  86
+ER  -
+
+TY  - JOUR
+AU  - Engin, Z
+AU  - Treleaven, P
+TI  - Algorithmic Government: Automating Public Services and Supporting Civil Servants in using Data Science Technologies
+T2  - COMPUTER JOURNAL
+LA  - English
+KW  - data science
+KW  - government
+KW  - artificial intelligence
+KW  - blockchain
+KW  - Internet of Things
+KW  - big data
+KW  - BIG DATA
+AB  - The data science technologies of artificial intelligence (AI), Internet of Things (IoT), big data and behavioral/predictive analytics, and blockchain are poised to revolutionize government and create a new generation of GovTech start-ups. The impact from the smartification' of public services and the national infrastructure will be much more significant in comparison to any other sector given government's function and importance to every institution and individual. Potential GovTech systems include Chatbots and intelligent assistants for public engagement, Robo-advisors to support civil servants, real-time management of the national infrastructure using IoT and blockchain, automated compliance/regulation, public records securely stored in blockchain distributed ledgers, online judicial and dispute resolution systems, and laws/statutes encoded as blockchain smart contracts. Government is potentially the major client' and also public champion' for these new data technologies. This review paper uses our simple taxonomy of government services to provide an overview of data science automation being deployed by governments world-wide. The goal of this review paper is to encourage the Computer Science community to engage with government to develop these new systems to transform public services and support the work of civil servants.
+AD  - UCL, Dept Comp Sci, London, EnglandC3  - University of LondonC3  - University College LondonFU  - Engineering and Physical Sciences Research Council (EPSRC) through the UK Regions Digital Research Facility (UK RDRF) project [EP/M023583/1]; EPSRC Impact Acceleration Account Award [EP/K503745/1]; EPSRC [EP/M023583/1] Funding Source: UKRI
+FX  - The authors received funding from the Engineering and Physical Sciences Research Council (EPSRC) through the UK Regions Digital Research Facility (UK RDRF) project (EP/M023583/1) and from the EPSRC Impact Acceleration Account Award to University College London (UCL) 2015-17 (EP/K503745/1).
+PU  - OXFORD UNIV PRESS
+PI  - OXFORD
+PA  - GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+SN  - 0010-4620
+SN  - 1460-2067
+J9  - COMPUT J
+JI  - Comput. J.
+DA  - MAR
+PY  - 2019
+VL  - 62
+IS  - 3
+SP  - 448
+EP  - 460
+DO  - 10.1093/comjnl/bxy082
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000467228900009
+N1  - Times Cited in Web of Science Core Collection:  97
+Total Times Cited:  101
+Cited Reference Count:  67
+ER  -
+
+TY  - JOUR
+AU  - Katyal, SK
+TI  - Private Accountability in the Age of Artificial Intelligence
+T2  - UCLA LAW REVIEW
+LA  - English
+KW  - DECISION-MAKING
+KW  - INTELLECTUAL PROPERTY
+KW  - IMPLICIT BIAS
+KW  - TRADE SECRETS
+KW  - LAW
+KW  - RISK
+KW  - SELF
+KW  - FREQUENCY
+KW  - ATTRIBUTION
+KW  - PROTECTION
+AB  - In this Article, I explore the impending conflict between the protection of civil rights and artificial intelligence (AI). While both areas of law have amassed rich and well-developed areas of scholarly work and doctrinal support, a growing body of scholars are interrogating the intersection between them. This Article argues that the issues surrounding algorithmic accountability demonstrate a deeper, more structural tension within a new generation of disputes regarding law and technology. As I argue, the true promise of AI does not lie in the information we reveal to one another, but rather in the questions it raises about the interaction of technology, property, and civil rights.
+   For this reason, I argue that we are looking in the wrong place if we look only to the state to address issues of algorithmic accountability. Instead, given the state's reluctance to address the issue, we must turn to other ways to ensure more transparency and accountability that stem from private industry, rather than public regulation. The issue of algorithmic bias represents a crucial new world of civil rights concerns, one that is distinct in nature from the ones that preceded it. Since we are in a world where the activities of private corporations, rather than the state, are raising concerns about privacy, due process, and discrimination, we must focus on the role of private corporations in addressing the issue. Towards this end, I discuss a variety of tools to help eliminate the opacity of AI, including codes of conduct, impact statements, and whistleblower protection, which I argue carries the potential to encourage greater endogeneity in civil rights enforcement. Ultimately, by examining the relationship between private industry and civil rights, we can perhaps develop a new generation of forms of accountability in the process.
+AD  - Univ Calif Berkeley, Berkeley, CA 94720 USAAD  - Berkeley Ctr Law & Technol, Berkeley, CA 94720 USAC3  - University of California SystemC3  - University of California BerkeleyPU  - UNIV CALIF
+PI  - LOS ANGELES
+PA  - SCH LAW 405 HILGARD AVE, LOS ANGELES, CA 90024 USA
+SN  - 0041-5650
+SN  - 1943-1724
+J9  - UCLA LAW REV
+JI  - UCLA Law Rev.
+DA  - JAN
+PY  - 2019
+VL  - 66
+IS  - 1
+SP  - 54
+EP  - 141
+WE  - Social Science Citation Index (SSCI)AN  - WOS:000456765700002
+N1  - Times Cited in Web of Science Core Collection:  88
+Total Times Cited:  94
+Cited Reference Count:  333
+ER  -
+
+TY  - CPAPER
+AU  - Gade, K
+AU  - Geyik, SC
+AU  - Kenthapadi, K
+AU  - Mithal, V
+AU  - Taly, A
+A1  - Assoc Comp Machinery
+TI  - Explainable AI in Industry
+T2  - KDD'19: PROCEEDINGS OF THE 25TH ACM SIGKDD INTERNATIONAL CONFERENCCE ON KNOWLEDGE DISCOVERY AND DATA MINING
+LA  - English
+CP  - 25th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD)
+AB  - Artificial Intelligence is increasingly playing an integral role in determining our day-to-day experiences. Moreover, with proliferation of AI based solutions in areas such as hiring, lending, criminal justice, healthcare, and education, the resulting personal and professional implications of AI are far-reaching. The dominant role played by AI models in these domains has led to a growing concern regarding potential bias in these models, and a demand for model transparency and interpretability [6]. In addition, model explainability is a prerequisite for building trust and adoption of AI systems in high stakes domains requiring reliability and safety such as healthcare [1] and automated transportation, and critical industrial applications with significant economic implications such as predictive maintenance, exploration of natural resources, and climate change modeling.
+   As a consequence, AI researchers and practitioners have focused their attention on explainable AI to help them better trust and understand models at scale [8, 9, 19]. The challenges for the research community include (i) defining model explainability, (ii) formulating explainability tasks for understanding model behavior and developing solutions for these tasks, and finally (iii) designing measures for evaluating the performance of models in explainability tasks.
+   In this tutorial, we will present an overview of model interpretability and explainability in AI [4], key regulations/laws, and techniques/tools for providing explainability as part of AI/ML systems [7]. Then, we will focus on the application of explainability techniques in industry, wherein we present practical challenges/guidelines for using explainability techniques effectively and lessons learned from deploying explainable models for several web-scale machine learning and data mining applications. We will present case studies across different companies, spanning application domains such as search and recommendation systems, sales, lending, and fraud detection. Finally, based on our experiences in industry, we will identify open problems and research directions for the data mining/machine learning community.
+AD  - Fiddler Labs, Mountain View, CA 94043 USAAD  - LinkedIn, Mountain View, CA USAPU  - ASSOC COMPUTING MACHINERY
+PI  - NEW YORK
+PA  - 1515 BROADWAY, NEW YORK, NY 10036-9998 USA
+SN  - 978-1-4503-6201-6
+PY  - 2019
+SP  - 3203
+EP  - 3204
+DO  - 10.1145/3292500.3332281
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000485562503051
+N1  - Times Cited in Web of Science Core Collection:  83
+Total Times Cited:  91
+Cited Reference Count:  20
+ER  -
+
+TY  - JOUR
+AU  - Kaminski, ME
+TI  - BINARY GOVERNANCE: LESSONS FROM THE GDPR'S APPROACH TO ALGORITHMIC ACCOUNTABILITY
+T2  - SOUTHERN CALIFORNIA LAW REVIEW
+LA  - English
+KW  - AUTOMATED DECISION-MAKING
+KW  - DATA PROTECTION
+KW  - PRIVACY
+KW  - PENALTY
+KW  - SURVEILLANCE
+KW  - INFORMATION
+KW  - STANDARDS
+KW  - DEFAULT
+KW  - RULES
+AB  - Algorithms are now used to make significant decisions about individuals, from credit determinations to hiring and firing. But they are largely unregulated under U.S. law. A quickly growing literature has split on how to address algorithmic decision-making, with individual rights and accountability to nonexpert stakeholders and to the public at the crux of the debate. In this Article, I make the case for why both individual rights and public- and stakeholder-facing accountability are not just goods in and of themselves but crucial components of effective governance. Only individual rights can fully address dignitary and justificatory concerns behind calls for regulating algorithmic decision-making. And without some form of public and stakeholder accountability, collaborative public-private approaches to systemic governance of algorithms will fail.
+   In this Article, I identify three categories of concern behind calls for regulating algorithmic decision-making: dignitary, justificatory, and instrumental. Dignitary concerns lead to proposals that we regulate algorithms to protect human dignity and autonomy; justificatory concerns caution that we must assess the legitimacy of algorithmic reasoning; and instrumental concerns lead to calls for regulation to prevent consequent problems such as error and bias. No one regulatory approach can effectively address all three. I therefore propose a two-pronged approach to algorithmic governance: a system of individual due process rights combined with systemic regulation achieved through collaborative governance (the use of private-public partnerships). Only through this binary approach can we effectively address all three concerns raised by algorithmic decision-making, or decision-making by Artificial Intelligence ("AI").
+   The interplay between the two approaches will be complex. Sometimes the two systems will be complementary, and at other times, they will be in tension. The European Union's ("EU's") General Data Protection Regulation ("GDPR") is one such binary system. I explore the extensive collaborative governance aspects of the GDPR and how they interact with its individual rights regime. Understanding the GDPR in this way both illuminates its strengths and weaknesses and provides a model for how to construct a better governance regime for accountable algorithmic, or AI, decision-making. It shows, too, that in the absence of public and stakeholder accountability, individual rights can have a significant role to play in establishing the legitimacy of a collaborative regime.
+AD  - Colorado Law Sch, Law, Boulder, CO 80309 USAAD  - Silicon Flatirons, Boulder, CO 80309 USAAD  - Yale Law Sch, Informat Soc Project, New Haven, CT 06511 USAAD  - Ctr Democracy & Technol, Washington, DC 20005 USAC3  - Yale UniversityPU  - UNIV SOUTHERN CALIF
+PI  - LOS ANGELES
+PA  - LAW CENTER UNIV PARK, LOS ANGELES, CA 90089-0071 USA
+SN  - 0038-3910
+J9  - SOUTH CALIF LAW REV
+JI  - South. Calif. Law Rev.
+DA  - SEP
+PY  - 2019
+VL  - 92
+IS  - 6
+SP  - 1529
+EP  - 1616
+WE  - Social Science Citation Index (SSCI)AN  - WOS:000501476600004
+N1  - Times Cited in Web of Science Core Collection:  80
+Total Times Cited:  84
+Cited Reference Count:  230
+ER  -
+
+TY  - JOUR
+AU  - Buiten, MC
+TI  - Towards Intelligent Regulation of Artificial Intelligence
+T2  - EUROPEAN JOURNAL OF RISK REGULATION
+LA  - English
+AB  - Artificial intelligence (AI) is becoming a part of our daily lives at a fast pace, offering myriad benefits for society. At the same time, there is concern about the unpredictability and uncontrollability of AI. In response, legislators and scholars call for more transparency and explainability of AI. This article considers what it would mean to require transparency of AI. It advocates looking beyond the opaque concept of AI, focusing on the concrete risks and biases of its underlying technology: machine-learning algorithms. The article discusses the biases that algorithms may produce through the input data, the testing of the algorithm and the decision model. Any transparency requirement for algorithms should result in explanations of these biases that are both understandable for the prospective recipients, and technically feasible for producers. Before asking how much transparency the law should require from algorithms, we should therefore consider if the explanation that programmers could offer is useful in specific legal contexts.
+FU  - Deutsche Forschungsgemeinschaft (DFG) [CRC TR 224]
+FX  - The author gratefully acknowledges financial support from Deutsche Forschungsgemeinschaft (DFG) through CRC TR 224 and wishes to thank an anonymous referee and the participants of the McGill Faculty of Law Cipp/Lallemand Seminar.
+PU  - CAMBRIDGE UNIV PRESS
+PI  - CAMBRIDGE
+PA  - EDINBURGH BLDG, SHAFTESBURY RD, CB2 8RU CAMBRIDGE, ENGLAND
+SN  - 1867-299X
+SN  - 2190-8249
+J9  - EUR J RISK REGUL
+JI  - Eur. J. Risk Regul.
+DA  - MAR
+PY  - 2019
+VL  - 10
+IS  - 1
+SP  - 41
+EP  - 59
+DO  - 10.1017/err.2019.8
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:000476750200004
+N1  - Times Cited in Web of Science Core Collection:  78
+Total Times Cited:  87
+Cited Reference Count:  89
+ER  -
+
+TY  - JOUR
+AU  - Malgieri, G
+TI  - Automated decision-making in the EU Member States: The right to explanation and other "suitable safeguards" in the national legislations
+T2  - COMPUTER LAW & SECURITY REVIEW
+LA  - English
+KW  - Right to explanation
+KW  - Automated decision-making
+KW  - AI
+KW  - Legibility
+KW  - Suitable safeguards
+KW  - Data Protection
+KW  - GDPR
+KW  - Article 22
+KW  - Right to contest
+KW  - Algorithmic impact assessment
+AB  - The aim of this paper is to analyse the very recently approved national Member States' laws that have implemented the GDPR in the field of automated decision-making (prohibition, exceptions, safeguards): all national legislations have been analysed and in particular 9 Member States Law address the case of automated decision making providing specific exemptions and relevant safeguards, as requested by Article 22(2)(b) of the GDPR (Belgium, The Netherlands, France, Germany, Hungary, Slovenia, Austria, the United Kingdom, Ireland).
+   The approaches are very diverse: the scope of the provision can be narrow (just automated decisions producing legal or similarly detrimental effects) or wide (any decision with a significant impact) and even specific safeguards proposed are very diverse.
+   After this overview, this article will also address the following questions: are Member States free to broaden the scope of automated decision-making regulation? Are 'positive decisions' allowed under Article 22, GDPR, as some Member States seem to affirm? Which safeguards can better guarantee rights and freedoms of the data subject?
+   In particular, while most Member States refers just to the three safeguards mentioned at Article 22(3) (i.e. subject's right to express one's point of view; right to obtain human intervention; right to contest the decision), three approaches seem very innovative: a) some States guarantee a right to legibility/explanation about the algorithmic decisions (France and Hungary); b) other States (Ireland and United Kingdom) regulate human intervention on algorithmic decisions through an effective accountability mechanism (e.g. notification, explanation of why such contestation has not been accepted, etc.); c) another State (Slovenia) require an innovative form of human rights impact assessments on automated decision-making. (C) 2019 The Authors. Published by Elsevier Ltd.
+AD  - Vrije Univ Brussel, Pl Laan 2, B-1020 Brussels, BelgiumC3  - Vrije Universiteit BrusselFU  - European Union [788039]; PANELFIT
+FX  - This research has been funded by "PANELFIT", European Union's H2020 research and innovation programme under grant agreement No 788039. The author is grateful to Irene Kamara, Gabriela Zanfir-Fortuna, Istvan Borocz, Lina Jasmontaite, Helena Vrabec, Jqdrzej Niklas and many others for the linguistic support in the different EU languages. The author is also grateful to the two anonymous reviewers of this review and to Giovanni Comande, Margot Kaminski and Gianmarco Gori and the participants of APC2018, CPDP2019 and Tilting2019 for the fruitful comments to the previous versions of the drafts. Mistakes are only mine.
+PU  - ELSEVIER ADVANCED TECHNOLOGY
+PI  - OXFORD
+PA  - OXFORD FULFILLMENT CENTRE THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN  - 0267-3649
+J9  - COMPUT LAW SECUR REV
+JI  - Comput. Law Secur. Rev.
+DA  - OCT
+PY  - 2019
+VL  - 35
+IS  - 5
+C7  - 105327
+DO  - 10.1016/j.clsr.2019.05.002
+WE  - Social Science Citation Index (SSCI)AN  - WOS:000491685200002
+N1  - Times Cited in Web of Science Core Collection:  74
+Total Times Cited:  81
+Cited Reference Count:  59
+ER  -
+
+TY  - JOUR
+AU  - Kitto, K
+AU  - Knight, S
+TI  - Practical ethics for building learning analytics
+T2  - BRITISH JOURNAL OF EDUCATIONAL TECHNOLOGY
+LA  - English
+AB  - Artificial intelligence and data analysis (AIDA) are increasingly entering the field of education. Within this context, the subfield of learning analytics (LA) has, since its inception, had a strong emphasis upon ethics, with numerous checklists and frameworks proposed to ensure that student privacy is respected and potential harms avoided. Here, we draw attention to some of the assumptions that underlie previous work in ethics for LA, which we frame as three tensions. These assumptions have the potential of leading to both the overcautious underuse of AIDA as administrators seek to avoid risk, or the unbridled misuse of AIDA as practitioners fail to adhere to frameworks that provide them with little guidance upon the problems that they face in building LA for institutional adoption. We use three edge cases to draw attention to these tensions, highlighting places where existing ethical frameworks fail to inform those building LA solutions. We propose a pilot open database that lists edge cases faced by LA system builders as a method for guiding ethicists working in the field towards places where support is needed to inform their practice. This would provide a middle space where technical builders of systems could more deeply interface with those concerned with policy, law and ethics and so work towards building LA that encourages human flourishing across a lifetime of learning. Practitioner Notes What is already known about this topic Applied ethics has a number of well-established theoretical groundings that we can use to frame the actions of ethical agents, including, deontology, consequentialism and virtue ethics. Learning analytics has developed a number of checklists, frameworks and evaluation methodologies for supporting trusted and ethical development, but these are often not adhered to by practitioners. Laws like the General Data Protection Regulation (GDPR) apply to fields like education, but the complexity of this field can make them difficult to apply. What this paper adds Evidence of tensions and gaps in existing ethical frameworks and checklists to support the ethical development and implementation of learning analytics. A set of three edge cases that demonstrate places where existing work on the ethics of AI in education has failed to provide guidance. A "practical ethics" conceptualisation that draws on virtue ethics to support practitioners in building learning analytics systems. Implications for practice and/or policy Those using AIDA in education should collect and share example edge cases to support development of practical ethics in the field. A multiplicity of ethical approaches are likely to be useful in understanding how to develop and implement learning analytics ethically in practical contexts.
+AD  - Connected Intelligence Ctr, Sydney, NSW, AustraliaAD  - Fac Transdisciplinary Innovat, Ultimo, NSW, AustraliaFU  - Australian Government's Office of Learning and Teaching, Graduate Careers Australia; Australian Technology Network's learning and teaching grants
+FX  - We wish to acknowledge the support of The Australian Government's Office of Learning and Teaching, Graduate Careers Australia and the Australian Technology Network's learning and teaching grants, from which the practical work conducted and edge cases described here were derived. Extensive conversations with collaborators on those projects, colleagues at the Connected Intelligence Centre, members of the Society for Learning Analytics Research and other practitioners around the world helped to seed this work.
+PU  - WILEY
+PI  - HOBOKEN
+PA  - 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN  - 0007-1013
+SN  - 1467-8535
+J9  - BRIT J EDUC TECHNOL
+JI  - Br. J. Educ. Technol.
+DA  - NOV
+PY  - 2019
+VL  - 50
+IS  - 6
+SP  - 2855
+EP  - 2870
+DO  - 10.1111/bjet.12868
+C6  - AUG 2019
+WE  - Social Science Citation Index (SSCI)AN  - WOS:000481106500001
+N1  - Times Cited in Web of Science Core Collection:  62
+Total Times Cited:  69
+Cited Reference Count:  41
+ER  -
+

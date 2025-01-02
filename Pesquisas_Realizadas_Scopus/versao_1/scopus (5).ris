@@ -1,0 +1,501 @@
+﻿TY  - JOUR
+AU  - Vuong, Y.T.-H.
+AU  - Bui, Q.M.
+AU  - Nguyen, H.-T.
+AU  - Nguyen, T.-T.-T.
+AU  - Tran, V.
+AU  - Phan, X.-H.
+AU  - Satoh, K.
+AU  - Nguyen, L.-M.
+TI  - SM-BERT-CR: a deep learning approach for case law retrieval with supporting model
+PY  - 2023
+T2  - Artificial Intelligence and Law
+VL  - 31
+IS  - 3
+SP  - 601
+EP  - 628
+DO  - 10.1007/s10506-022-09319-6
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85135822424&doi=10.1007%2fs10506-022-09319-6&partnerID=40&md5=8c51380eacb14f23099a170a86daf51a
+AD  - School of Information Science, Japan Advanced Institute of Science and Technology, Ishikawa, 923-1292, Japan
+AD  - VNU University of Engineering and Technology, Hanoi, Viet Nam
+AD  - National Institute of Informatics, Tokyo, 100-0003, Japan
+AB  - Case law retrieval is the task of locating truly relevant legal cases given an input query case. Unlike information retrieval for general texts, this task is more complex with two phases (legal case retrieval and legal case entailment) and much harder due to a number of reasons. First, both the query and candidate cases are long documents consisting of several paragraphs. This makes it difficult to model with representation learning that usually has restriction on input length. Second, the concept of relevancy in this domain is defined based on the legal relation that goes beyond the lexical or topical relevance. This is a real challenge because normal text matching will not work. Third, building a large and accurate legal case dataset requires a lot of effort and expertise. This is obviously an obstacle to creating enough data for training deep retrieval models. In this paper, we propose a novel approach called supporting model that can deal with both phases. The underlying idea is the case–case supporting relation and the paragraph–paragraph as well as the decision-paragraph matching strategy. In addition, we propose a method to automatically create a large weak-labeling dataset to overcome the lack of data. The experiments showed that our solution has achieved the state-of-the-art results for both case retrieval and case entailment phases. © 2022, The Author(s), under exclusive licence to Springer Nature B.V.
+KW  - Case law retrieval
+KW  - Deep learning
+KW  - Information retrieval
+KW  - Legal case matching
+KW  - Weak labeling
+KW  - Deep learning
+KW  - Large dataset
+KW  - Learning systems
+KW  - Case law
+KW  - Case law retrieval
+KW  - Case matching
+KW  - Case retrieval
+KW  - Deep learning
+KW  - Labelings
+KW  - Learning approach
+KW  - Legal case
+KW  - Legal case matching
+KW  - Weak labeling
+KW  - Information retrieval
+PB  - Institute for Ionics
+SN  - 09248463 (ISSN)
+LA  - English
+J2  - Artif Intell Law
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 December 2024; Cited By: 11; Correspondence Address: L.-M. Nguyen; School of Information Science, Japan Advanced Institute of Science and Technology, Ishikawa, 923-1292, Japan; email: nguyenml@jaist.ac.jp; CODEN: AINLE
+ER  -
+
+TY  - JOUR
+AU  - Makawana, M.
+AU  - Mehta, R.G.
+TI  - A novel network-based paragraph filtering technique for legal document similarity analysis
+PY  - 2023
+T2  - Artificial Intelligence and Law
+DO  - 10.1007/s10506-023-09375-6
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85174530223&doi=10.1007%2fs10506-023-09375-6&partnerID=40&md5=d9f1992b9b90e74e842e20a16d75561b
+AD  - Department of Computer Science and Engineering, Sardar Vallabhbhai National Institute of Technology, Gujarat, Surat, 395007, India
+AB  - The common law system is a legal system that values precedent, or previous court decisions, in the resolution of current cases. As the availability of legal documents in digital form has increased, it has become more difficult for legal professionals to manually identify relevant past cases due to the vast amount of data. Researchers have developed automated systems for determining the similarity between legal documents to address this issue. Our research explores various representations of a legal document and discusses a novel paragraph filtering process to identify key paragraphs using legal citation information to remove unnecessary text paragraphs without disturbing the concept of the legal document. State-of-the-art techniques like TF-IDF, BERT, Legal Bert, Doc2Vec, and Legal-longformer are used for the performance analysis of the proposed approach with document comparison. It has been shown that a model trained on the proposed filtered paragraphs can achieve better results than a model trained on the complete text and can also shorten the document by over 40%. The proposed filtering strategy could be helpful for models like BERT, where the maximum token length is fixed. © 2023, The Author(s), under exclusive licence to Springer Nature B.V.
+KW  - Co-citation network
+KW  - Co-occurrence network
+KW  - Legal document analysis
+KW  - Paragraph filtering
+KW  - Automation
+KW  - Information filtering
+KW  - Information retrieval systems
+KW  - Co-citation networks
+KW  - Co-occurrence networks
+KW  - Documents analysis
+KW  - Documents similarity
+KW  - Filtering technique
+KW  - Legal document analyse
+KW  - Legal documents
+KW  - Network-based
+KW  - Paragraph filtering
+KW  - Similarity analysis
+KW  - Authentication
+PB  - Institute for Ionics
+SN  - 09248463 (ISSN)
+LA  - English
+J2  - Artif Intell Law
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 December 2024; Cited By: 0; Correspondence Address: M. Makawana; Department of Computer Science and Engineering, Sardar Vallabhbhai National Institute of Technology, Surat, Gujarat, 395007, India; email: ds18co003@coed.svnit.ac.in; CODEN: AINLE
+ER  -
+
+TY  - JOUR
+AU  - Mandal, A.
+AU  - Ghosh, K.
+AU  - Ghosh, S.
+AU  - Mandal, S.
+TI  - Unsupervised approaches for measuring textual similarity between legal court case reports
+PY  - 2021
+T2  - Artificial Intelligence and Law
+VL  - 29
+IS  - 3
+SP  - 417
+EP  - 451
+DO  - 10.1007/s10506-020-09280-2
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85098963328&doi=10.1007%2fs10506-020-09280-2&partnerID=40&md5=94d858c5cacedc14739d4f27a113c98e
+AD  - Department of Computer Science and Technology, Indian Institute of Engineering Science and Technology, Howrah, Shibpur, India
+AD  - Department of Computational and Data Sciences (CDS), Indian Institutes of Science Education and Research, Kolkata, West Bengal, India
+AD  - Department of Computer Science and Engineering, Indian Institute of Technology Kharagpur, Kharagpur, West Bengal, India
+AB  - In the domain of legal information retrieval, an important challenge is to compute similarity between two legal documents. Precedents (statements from prior cases) play an important role in The Common Law system, where lawyers need to frequently refer to relevant prior cases. Measuring document similarity is one of the most crucial aspects of any document retrieval system which decides the speed, scalability and accuracy of the system. Text-based and network-based methods for computing similarity among case reports have already been proposed in prior works but not without a few pitfalls. Since legal citation networks are generally highly disconnected, network based metrics are not suited for them. Till date, only a few text-based and predominant embedding based methods have been employed, for instance, TF-IDF based approaches, Word2Vec (Mikolov et al. 2013) and Doc2Vec (Le and Mikolov 2014) based approaches. We investigate the performance of 56 different methodologies for computing textual similarity across court case statements when applied on a dataset of Indian Supreme Court Cases. Among the 56 different methods, thirty are adaptations of existing methods and twenty-six are our proposed methods. The methods studied include models such as BERT (Devlin et al. 2018) and Law2Vec (Ilias 2019). It is observed that the more traditional methods (such as the TF-IDF and LDA) that rely on a bag-of-words representation performs better than the more advanced context-aware methods (like BERT and Law2Vec) for computing document-level similarity. Finally we nominate, via empirical validation, five of our best performing methods as appropriate for measuring similarity between case reports. Among these five, two are adaptations of existing methods and the other three are our proposed methods. © 2021, The Author(s), under exclusive licence to Springer Nature B.V. part of Springer Nature.
+KW  - BERT
+KW  - Court case reports
+KW  - Court case similarity
+KW  - Doc2vec
+KW  - Law2vec
+KW  - Legal information retrieval
+KW  - Topic modeling
+KW  - Word2vec
+KW  - Artificial intelligence
+KW  - Management
+KW  - Citation networks
+KW  - Document similarity
+KW  - Empirical validation
+KW  - Legal documents
+KW  - Legal information retrieval
+KW  - Measuring similarities
+KW  - Textual similarities
+KW  - Unsupervised approaches
+KW  - Information retrieval
+PB  - Springer Science and Business Media B.V.
+SN  - 09248463 (ISSN)
+LA  - English
+J2  - Artif Intell Law
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 December 2024; Cited By: 35; Correspondence Address: A. Mandal; Department of Computer Science and Technology, Indian Institute of Engineering Science and Technology, Howrah, Shibpur, India; email: amarnamarpan@gmail.com; CODEN: AINLE
+ER  -
+
+TY  - JOUR
+AU  - Trozze, A.
+AU  - Davies, T.
+AU  - Kleinberg, B.
+TI  - Large language models in cryptocurrency securities cases: can a GPT model meaningfully assist lawyers?
+PY  - 2024
+T2  - Artificial Intelligence and Law
+DO  - 10.1007/s10506-024-09399-6
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85189801902&doi=10.1007%2fs10506-024-09399-6&partnerID=40&md5=de547245c9d20ed36273fb12c7a05992
+AD  - Department of Computer Science, University College London, Gower Street, London, WC1E 6EA, United Kingdom
+AD  - Department of Security and Crime Science, University College London, 35 Tavistock Square, London, WC1H 9EZ, United Kingdom
+AD  - School of Law, The Liberty Building, University of Leeds, Leeds, LS2 9JT, United Kingdom
+AD  - Department of Methodology and Statistics, Tilburg University, Warandelaan 2, Tilburg, 5037 AB, Netherlands
+AB  - Large Language Models (LLMs) could be a useful tool for lawyers. However, empirical research on their effectiveness in conducting legal tasks is scant. We study securities cases involving cryptocurrencies as one of numerous contexts where AI could support the legal process, studying GPT-3.5’s legal reasoning and ChatGPT’s legal drafting capabilities. We examine whether a) GPT-3.5 can accurately determine which laws are potentially being violated from a fact pattern, and b) whether there is a difference in juror decision-making based on complaints written by a lawyer compared to ChatGPT. We feed fact patterns from real-life cases to GPT-3.5 and evaluate its ability to determine correct potential violations from the scenario and exclude spurious violations. Second, we had mock jurors assess complaints written by ChatGPT and lawyers. GPT-3.5’s legal reasoning skills proved weak, though we expect improvement in future models, particularly given the violations it suggested tended to be correct (it merely missed additional, correct violations). ChatGPT performed better at legal drafting, and jurors’ decisions were not statistically significantly associated with the author of the document upon which they based their decisions. Because GPT-3.5 cannot satisfactorily conduct legal reasoning tasks, it would be unlikely to be able to help lawyers in a meaningful way at this stage. However, ChatGPT’s drafting skills (though, perhaps, still inferior to lawyers) could assist lawyers in providing legal services. Our research is the first to systematically study an LLM’s legal drafting and reasoning capabilities in litigation, as well as in securities law and cryptocurrency-related misconduct. © The Author(s) 2024.
+KW  - Artificial intelligence (AI)
+KW  - ChatGPT
+KW  - Cryptocurrency
+KW  - Large language models (LLMs)
+KW  - Securities law
+KW  - Computational linguistics
+KW  - Artificial intelligence
+KW  - ChatGPT
+KW  - Decisions makings
+KW  - Empirical research
+KW  - Language model
+KW  - Large language model
+KW  - Legal drafting
+KW  - Legal reasoning
+KW  - Life case
+KW  - Security laws
+KW  - Decision making
+PB  - Springer Nature
+SN  - 09248463 (ISSN)
+LA  - English
+J2  - Artif Intell Law
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 December 2024; Cited By: 2; Correspondence Address: A. Trozze; Department of Computer Science, University College London, London, Gower Street, WC1E 6EA, United Kingdom; email: arianna.trozze@ucl.ac.uk; CODEN: AINLE
+ER  -
+
+TY  - JOUR
+AU  - Yuan, M.
+AU  - Kao, B.
+AU  - Wu, T.-H.
+AU  - Cheung, M.M.K.
+AU  - Chan, H.W.H.
+AU  - Cheung, A.S.Y.
+AU  - Chan, F.W.H.
+AU  - Chen, Y.
+TI  - Bringing legal knowledge to the public by constructing a legal question bank using large-scale pre-trained language model
+PY  - 2024
+T2  - Artificial Intelligence and Law
+VL  - 32
+IS  - 3
+SP  - 769
+EP  - 805
+DO  - 10.1007/s10506-023-09367-6
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85164200862&doi=10.1007%2fs10506-023-09367-6&partnerID=40&md5=4ac8cc75913ec1acfd079c870a9f211a
+AD  - Department of Computer Science, The University of Hong Kong, Pokfulam, Hong Kong
+AD  - Faculty of Law, The University of Hong Kong, Pokfulam, Hong Kong
+AD  - College of Law, The Australian National University, Canberra, 2601, ACT, Australia
+AB  - Access to legal information is fundamental to access to justice. Yet accessibility refers not only to making legal documents available to the public, but also rendering legal information comprehensible to them. A vexing problem in bringing legal information to the public is how to turn formal legal documents such as legislation and judgments, which are often highly technical, to easily navigable and comprehensible knowledge to those without legal education. In this study, we formulate a three-step approach for bringing legal knowledge to laypersons, tackling the issues of navigability and comprehensibility. First, we translate selected sections of the law into snippets (called CLIC-pages), each being a small piece of article that focuses on explaining certain technical legal concept in layperson’s terms. Second, we construct a Legal Question Bank, which is a collection of legal questions whose answers can be found in the CLIC-pages. Third, we design an interactive CLIC Recommender. Given a user’s verbal description of a legal situation that requires a legal solution, CRec interprets the user’s input and shortlists questions from the question bank that are most likely relevant to the given legal situation and recommends their corresponding CLIC pages where relevant legal knowledge can be found. In this paper we focus on the technical aspects of creating an LQB. We show how large-scale pre-trained language models, such as GPT-3, can be used to generate legal questions. We compare machine-generated questions against human-composed questions and find that MGQs are more scalable, cost-effective, and more diversified, while HCQs are more precise. We also show a prototype of CRec and illustrate through an example how our 3-step approach effectively brings relevant legal knowledge to the public. © The Author(s), under exclusive licence to Springer Nature B.V. 2023.
+KW  - Legal knowledge dissemination
+KW  - Machine question generation
+KW  - Navigability and comprehensibility of legal information
+KW  - Pre-trained language model
+KW  - Air navigation
+KW  - Authentication
+KW  - Computational linguistics
+KW  - Knowledge dissemination
+KW  - Language model
+KW  - Legal information
+KW  - Legal knowledge
+KW  - Legal knowledge dissemination
+KW  - Legal questions
+KW  - Machine question generation
+KW  - Navigability and comprehensibility of legal information
+KW  - Pre-trained language model
+KW  - Question banks
+KW  - Cost effectiveness
+PB  - Springer Nature
+SN  - 09248463 (ISSN)
+LA  - English
+J2  - Artif Intell Law
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 December 2024; Cited By: 1; Correspondence Address: M. Yuan; Department of Computer Science, The University of Hong Kong, Pokfulam, Hong Kong; email: mryuan@cs.hku.hk; CODEN: AINLE
+ER  -
+
+TY  - JOUR
+AU  - Bhattacharya, P.
+AU  - Paul, S.
+AU  - Ghosh, K.
+AU  - Ghosh, S.
+AU  - Wyner, A.
+TI  - DeepRhole: deep learning for rhetorical role labeling of sentences in legal case documents
+PY  - 2023
+T2  - Artificial Intelligence and Law
+VL  - 31
+IS  - 1
+SP  - 53
+EP  - 90
+DO  - 10.1007/s10506-021-09304-5
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85118985689&doi=10.1007%2fs10506-021-09304-5&partnerID=40&md5=93621d452e66a706882e9603bd3deeeb
+AD  - Department of Computer Science and Engineering, Indian Institute of Technology Kharagpur, West Bengal, Kharagpur, India
+AD  - Department of Computational and Data Sciences (CDS), Indian Institute of Science Education and Research (IISER) Kolkata, West Bengal, Kolkata, India
+AD  - Law and Computer Science, Swansea University, Swansea, United Kingdom
+AB  - The task of rhetorical role labeling is to assign labels (such as Fact, Argument, Final Judgement, etc.) to sentences of a court case document. Rhetorical role labeling is an important problem in the field of Legal Analytics, since it can aid in various downstream tasks as well as enhances the readability of lengthy case documents. The task is challenging as case documents are highly various in structure and the rhetorical labels are often subjective. Previous works for automatic rhetorical role identification (i) mainly used Conditional Random Fields over manually handcrafted features, and (ii) focused on certain law domains only (e.g., Immigration cases, Rent law), and a particular jurisdiction/country (e.g., US, Canada, India). In this work, we improve upon the prior works on rhetorical role identification by proposing novel Deep Learning models for automatically identifying rhetorical roles, which substantially outperform the prior methods. Additionally, we show the effectiveness of the proposed models over documents from five different law domains, and from two different jurisdictions—the Supreme Court of India and the Supreme Court of the UK. Through extensive experiments over different variations of the Deep Learning models, including Transformer models based on BERT and LegalBERT, we show the robustness of the methods for the task. We also perform an extensive inter-annotator study and analyse the agreement of the predictions of the proposed model with the annotations by domain experts. We find that some rhetorical labels are inherently hard/subjective and both law experts and neural models frequently get confused in predicting them correctly. © 2021, The Author(s), under exclusive licence to Springer Nature B.V.
+KW  - BERT
+KW  - Court case documents
+KW  - Hierarchical BiLSTM
+KW  - Hierarchical BiLSTM CRF
+KW  - Legal document segmentation
+KW  - LegalBERT
+KW  - Rhetorical role labeling
+KW  - Learning systems
+KW  - Random processes
+KW  - BERT
+KW  - Court case
+KW  - Court case document
+KW  - Document segmentation
+KW  - Hierarchical BiLSTM
+KW  - Hierarchical BiLSTM CRF
+KW  - Labelings
+KW  - Legal document segmentation
+KW  - Legal documents
+KW  - LegalBERT
+KW  - Rhetorical role labeling
+KW  - Deep learning
+PB  - Institute for Ionics
+SN  - 09248463 (ISSN)
+LA  - English
+J2  - Artif Intell Law
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 December 2024; Cited By: 15; Correspondence Address: P. Bhattacharya; Department of Computer Science and Engineering, Indian Institute of Technology Kharagpur, Kharagpur, West Bengal, India; email: paheli.cse.iitkgp@gmail.com; CODEN: AINLE
+ER  -
+
+TY  - JOUR
+AU  - Lüders, K.
+AU  - Stohlmann, B.
+TI  - Classifying proportionality - identification of a legal argument
+PY  - 2024
+T2  - Artificial Intelligence and Law
+DO  - 10.1007/s10506-024-09415-9
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85200322192&doi=10.1007%2fs10506-024-09415-9&partnerID=40&md5=a11af4caaa15cf83d44dd3ed64a70b6b
+AD  - Faculty of Law, Humboldt-Universität zu Berlin, Berlin, Germany
+AB  - Proportionality is a central and globally spread argumentation technique in public law. This article provides a conceptual introduction to proportionality and argues that such a domain-specific form of argumentation is particularly interesting for argument mining. As a major contribution of this article, we share a new dataset for which proportionality has been annotated. The dataset consists of 300 German Federal Constitutional Court decisions annotated at the sentence level (54,929 sentences). In addition to separating textual parts, a fine-grained system of proportionality categories was used. Finally, we used these data for a classification task. We built classifiers that predict whether or not proportionality is invoked in a sentence. We employed several models, including neural and deep learning models and transformers. A BERT-BiLSTM-CRF model performed best. © The Author(s) 2024.
+KW  - BERT
+KW  - BiLSTM
+KW  - Constitutional court
+KW  - Legal arguments
+KW  - Proportionality
+KW  - Transformer
+KW  - BERT
+KW  - BiLSTM
+KW  - Constitutional court
+KW  - Court decisions
+KW  - Domain specific
+KW  - Fine grained
+KW  - Legal arguments
+KW  - Proportionality
+KW  - Sentence level
+KW  - Transformer
+KW  - Deep learning
+PB  - Springer Nature
+SN  - 09248463 (ISSN)
+LA  - English
+J2  - Artif Intell Law
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 December 2024; Cited By: 0; Correspondence Address: K. Lüders; Faculty of Law, Humboldt-Universität zu Berlin, Berlin, Germany; email: kilian.lueders@hu-berlin.de; CODEN: AINLE
+ER  -
+
+TY  - JOUR
+AU  - Martínez, E.
+TI  - Re-evaluating GPT-4’s bar exam performance
+PY  - 2024
+T2  - Artificial Intelligence and Law
+DO  - 10.1007/s10506-024-09396-9
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85188989228&doi=10.1007%2fs10506-024-09396-9&partnerID=40&md5=3fbd42ec1200ce6e250e24ee43fff5af
+AD  - Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology (MIT), Cambridge, 02138, MA, United States
+AB  - Perhaps the most widely touted of GPT-4’s at-launch, zero-shot capabilities has been its reported 90th-percentile performance on the Uniform Bar Exam. This paper begins by investigating the methodological challenges in documenting and verifying the 90th-percentile claim, presenting four sets of findings that indicate that OpenAI’s estimates of GPT-4’s UBE percentile are overinflated. First, although GPT-4’s UBE score nears the 90th percentile when examining approximate conversions from February administrations of the Illinois Bar Exam, these estimates are heavily skewed towards repeat test-takers who failed the July administration and score significantly lower than the general test-taking population. Second, data from a recent July administration of the same exam suggests GPT-4’s overall UBE percentile was below the 69th percentile, and ∼48th percentile on essays. Third, examining official NCBE data and using several conservative statistical assumptions, GPT-4’s performance against first-time test takers is estimated to be ∼62nd percentile, including ∼42nd percentile on essays. Fourth, when examining only those who passed the exam (i.e. licensed or license-pending attorneys), GPT-4’s performance is estimated to drop to ∼48th percentile overall, and ∼15th percentile on essays. In addition to investigating the validity of the percentile claim, the paper also investigates the validity of GPT-4’s reported scaled UBE score of 298. The paper successfully replicates the MBE score, but highlights several methodological issues in the grading of the MPT + MEE components of the exam, which call into question the validity of the reported essay score. Finally, the paper investigates the effect of different hyperparameter combinations on GPT-4’s MBE performance, finding no significant effect of adjusting temperature settings, and a significant effect of few-shot chain-of-thought prompting over basic zero-shot prompting. Taken together, these findings carry timely insights for the desirability and feasibility of outsourcing legally relevant tasks to AI models, as well as for the importance for AI developers to implement rigorous and transparent capabilities evaluations to help secure safe and trustworthy AI. © The Author(s) 2024.
+KW  - Artificial intelligence
+KW  - Artificial intelligence and law
+KW  - Law and technology
+KW  - Legal analytics
+KW  - Legal NLP
+KW  - Legal profession
+KW  - Machine learning
+KW  - Natural language processing
+KW  - NLP
+KW  - Grading
+KW  - Learning algorithms
+KW  - Machine learning
+KW  - Artificial intelligence and laws
+KW  - Language processing
+KW  - Law and technology
+KW  - Legal analytic
+KW  - Legal NLP
+KW  - Legal profession
+KW  - Machine-learning
+KW  - Natural language processing
+KW  - Natural languages
+KW  - Performance
+KW  - Natural language processing systems
+PB  - Springer Nature
+SN  - 09248463 (ISSN)
+LA  - English
+J2  - Artif Intell Law
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 December 2024; Cited By: 3; Correspondence Address: E. Martínez; Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology (MIT), Cambridge, 02138, United States; email: ericmart@mit.edu; CODEN: AINLE
+ER  -
+
+TY  - JOUR
+AU  - Greco, C.M.
+AU  - Tagarelli, A.
+TI  - Bringing order into the realm of Transformer-based language models for artificial intelligence and law
+PY  - 2024
+T2  - Artificial Intelligence and Law
+VL  - 32
+IS  - 4
+SP  - 863
+EP  - 1010
+DO  - 10.1007/s10506-023-09374-7
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85177190521&doi=10.1007%2fs10506-023-09374-7&partnerID=40&md5=3822d4420cb24a7e06097a61863aac01
+AD  - Department of Computer Engineering, Modeling, Electronics, and Systems Engineering, (DIMES) - University of Calabria, CS, Rende, 87036, Italy
+AB  - Transformer-based language models (TLMs) have widely been recognized to be a cutting-edge technology for the successful development of deep-learning-based solutions to problems and applications that require natural language processing and understanding. Like for other textual domains, TLMs have indeed pushed the state-of-the-art of AI approaches for many tasks of interest in the legal domain. Despite the first Transformer model being proposed about six years ago, there has been a rapid progress of this technology at an unprecedented rate, whereby BERT and related models represent a major reference, also in the legal domain. This article provides the first systematic overview of TLM-based methods for AI-driven problems and tasks in the legal sphere. A major goal is to highlight research advances in this field so as to understand, on the one hand, how the Transformers have contributed to the success of AI in supporting legal processes, and on the other hand, what are the current limitations and opportunities for further research development. © The Author(s) 2023.
+KW  - AI for law
+KW  - Benchmarks
+KW  - BERT
+KW  - Caselaw data
+KW  - Entailment
+KW  - GPT
+KW  - Inference
+KW  - Language models
+KW  - Legal document review
+KW  - Legal outcome prediction
+KW  - Legal search
+KW  - Retrieval
+KW  - Statutory law data
+KW  - Computational linguistics
+KW  - Cutting
+KW  - Natural language processing systems
+KW  - AI for law
+KW  - Benchmark
+KW  - BERT
+KW  - Caselaw
+KW  - Caselaw data
+KW  - Document review
+KW  - Entailment
+KW  - GPT
+KW  - Inference
+KW  - Language model
+KW  - Legal document review
+KW  - Legal documents
+KW  - Legal outcome prediction
+KW  - Legal search
+KW  - Outcome prediction
+KW  - Retrieval
+KW  - Statutory law data
+KW  - Deep learning
+PB  - Springer Nature
+SN  - 09248463 (ISSN)
+LA  - English
+J2  - Artif Intell Law
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 01 December 2024; Cited By: 4; Correspondence Address: A. Tagarelli; Department of Computer Engineering, Modeling, Electronics, and Systems Engineering, (DIMES) - University of Calabria, Rende, CS, 87036, Italy; email: andrea.tagarelli@unical.it; CODEN: AINLE
+ER  -
+
+TY  - JOUR
+AU  - Tagarelli, A.
+AU  - Simeri, A.
+TI  - Unsupervised law article mining based on deep pre-trained language representation models with application to the Italian civil code
+PY  - 2022
+T2  - Artificial Intelligence and Law
+VL  - 30
+IS  - 3
+SP  - 417
+EP  - 473
+DO  - 10.1007/s10506-021-09301-8
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85114943306&doi=10.1007%2fs10506-021-09301-8&partnerID=40&md5=5553a33c279e9f0fa0ab35d2e8d8e6de
+AD  - Department of Computer Engineering, Modeling, Electronics, and Systems Engineering (DIMES), University of Calabria, CS, Rende, 87036, Italy
+AB  - Modeling law search and retrieval as prediction problems has recently emerged as a predominant approach in law intelligence. Focusing on the law article retrieval task, we present a deep learning framework named LamBERTa, which is designed for civil-law codes, and specifically trained on the Italian civil code. To our knowledge, this is the first study proposing an advanced approach to law article prediction for the Italian legal system based on a BERT (Bidirectional Encoder Representations from Transformers) learning framework, which has recently attracted increased attention among deep learning approaches, showing outstanding effectiveness in several natural language processing and learning tasks. We define LamBERTa models by fine-tuning an Italian pre-trained BERT on the Italian civil code or its portions, for law article retrieval as a classification task. One key aspect of our LamBERTa framework is that we conceived it to address an extreme classification scenario, which is characterized by a high number of classes, the few-shot learning problem, and the lack of test query benchmarks for Italian legal prediction tasks. To solve such issues, we define different methods for the unsupervised labeling of the law articles, which can in principle be applied to any law article code system. We provide insights into the explainability and interpretability of our LamBERTa models, and we present an extensive experimental analysis over query sets of different type, for single-label as well as multi-label evaluation tasks. Empirical evidence has shown the effectiveness of LamBERTa, and also its superiority against widely used deep-learning text classifiers and a few-shot learner conceived for an attribute-aware prediction task. © 2021, The Author(s).
+KW  - BERT
+KW  - Deep learning
+KW  - Deep pre-trained language models
+KW  - Italian civil code
+KW  - Law article retrieval
+KW  - Text classification
+KW  - Computational linguistics
+KW  - Deep learning
+KW  - Forecasting
+KW  - Learning algorithms
+KW  - Learning systems
+KW  - Natural language processing systems
+KW  - Text processing
+KW  - Bidirectional encoder representation from transformer
+KW  - Deep learning
+KW  - Deep pre-trained language model
+KW  - Italian civil code
+KW  - Language model
+KW  - Law article retrieval
+KW  - Learning frameworks
+KW  - Prediction tasks
+KW  - Representation model
+KW  - Text classification
+KW  - Classification (of information)
+PB  - Institute for Ionics
+SN  - 09248463 (ISSN)
+LA  - English
+J2  - Artif Intell Law
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 December 2024; Cited By: 29; Correspondence Address: A. Tagarelli; Department of Computer Engineering, Modeling, Electronics, and Systems Engineering (DIMES), University of Calabria, Rende, CS, 87036, Italy; email: tagarelli@dimes.unical.it; CODEN: AINLE
+ER  -
+
+TY  - JOUR
+AU  - Siqueira, F.A.
+AU  - Pressato, D.
+AU  - Pereira, F.S.F.
+AU  - da Silva, N.F.F.
+AU  - Souza, E.
+AU  - Dias, M.S.
+AU  - de Carvalho, A.C.P.L.F.
+TI  - Segmenting Brazilian legislative text using weak supervision and active learning
+PY  - 2024
+T2  - Artificial Intelligence and Law
+DO  - 10.1007/s10506-024-09419-5
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85204916708&doi=10.1007%2fs10506-024-09419-5&partnerID=40&md5=5db878f91e63256bcccd8b932d2cfb63
+AD  - Institute of Mathematical Sciences and Computation, University of São Paulo, São Paulo, São Carlos, Brazil
+AD  - Federal University of Uberlândia, Minas Gerais, Uberlândia, Brazil
+AD  - Federal University of Goías, Goías, Goiânia, Brazil
+AD  - Rural Federal University of Pernambuco, Pernambuco, Serra Talhada, Brazil
+AD  - Federal University of Catalão, Goías, Catalão, Brazil
+AB  - Legislative houses all over the world are adopting tools based on artificial intelligence to support their work. The incorporation of these tools can improve the analysis of the text of the proposed new laws and speed the preparation and discussion of new laws. The performance of artificial intelligence tools for text processing tasks is largely affected by the corpora used, which should ideally be adapted for the specific domain. When dealing with legislative corpora, text segmentation is often necessary due to the distinct purposes of legislative segments within the overall bill structure. While rule-based approaches can be effective in cases where the data follows a consistent format, they fail when inconsistencies arise in the formatting of legislative bills. In this study, we extensively investigate the use of weak supervision and active learning to accurately segment over 100,000 Brazilian federal legislative bills using a sequence tagging approach. The experiments demonstrated that both BERT and LSTM models achieved high statistical performance without the limitations of rule-based systems. In segmenting long documents beyond the limited context window of BERT, we find that simple moving windows suffice because the required context for accurate legislative segmentation is mostly local. We also conducted an analysis of transfer learning from our monolingual models to French, Italian, German, and English (US) legislative texts. According to our experimental results our models present non-trivial zero-shot and effective out-of-distribution fine-tuning performance, suggesting potential avenues for multilingual legislative segmentation without the need for computationally expensive models. The models, data, and code are publicly available at https://github.com/ulysses-camara/ulysses-segmenter. © The Author(s), under exclusive licence to Springer Nature B.V. 2024.
+KW  - Active Learning
+KW  - Legislative domain
+KW  - Portuguese data
+KW  - Text segmentation
+KW  - Weak supervision
+KW  - Laws and legislation
+KW  - Self-supervised learning
+KW  - Supervised learning
+KW  - Transfer learning
+KW  - Zero-shot learning
+KW  - Active Learning
+KW  - Artificial intelligence tools
+KW  - Legislative domain
+KW  - Performance
+KW  - Portuguese data
+KW  - Rule-based approach
+KW  - Supervision learning
+KW  - Text segmentation
+KW  - Text-processing
+KW  - Weak supervision
+KW  - Active learning
+PB  - Springer Nature
+SN  - 09248463 (ISSN)
+LA  - English
+J2  - Artif Intell Law
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 December 2024; Cited By: 0; Correspondence Address: F.A. Siqueira; Institute of Mathematical Sciences and Computation, University of São Paulo, São Carlos, São Paulo, Brazil; email: felipe.siqueira@usp.br; CODEN: AINLE
+ER  -
+

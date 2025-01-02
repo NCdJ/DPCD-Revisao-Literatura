@@ -1,0 +1,399 @@
+﻿TY  - JOUR
+AU  - Mandal, A.
+AU  - Ghosh, K.
+AU  - Ghosh, S.
+AU  - Mandal, S.
+TI  - Unsupervised approaches for measuring textual similarity between legal court case reports
+PY  - 2021
+T2  - Artificial Intelligence and Law
+VL  - 29
+IS  - 3
+SP  - 417
+EP  - 451
+DO  - 10.1007/s10506-020-09280-2
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85098963328&doi=10.1007%2fs10506-020-09280-2&partnerID=40&md5=94d858c5cacedc14739d4f27a113c98e
+AD  - Department of Computer Science and Technology, Indian Institute of Engineering Science and Technology, Howrah, Shibpur, India
+AD  - Department of Computational and Data Sciences (CDS), Indian Institutes of Science Education and Research, Kolkata, West Bengal, India
+AD  - Department of Computer Science and Engineering, Indian Institute of Technology Kharagpur, Kharagpur, West Bengal, India
+AB  - In the domain of legal information retrieval, an important challenge is to compute similarity between two legal documents. Precedents (statements from prior cases) play an important role in The Common Law system, where lawyers need to frequently refer to relevant prior cases. Measuring document similarity is one of the most crucial aspects of any document retrieval system which decides the speed, scalability and accuracy of the system. Text-based and network-based methods for computing similarity among case reports have already been proposed in prior works but not without a few pitfalls. Since legal citation networks are generally highly disconnected, network based metrics are not suited for them. Till date, only a few text-based and predominant embedding based methods have been employed, for instance, TF-IDF based approaches, Word2Vec (Mikolov et al. 2013) and Doc2Vec (Le and Mikolov 2014) based approaches. We investigate the performance of 56 different methodologies for computing textual similarity across court case statements when applied on a dataset of Indian Supreme Court Cases. Among the 56 different methods, thirty are adaptations of existing methods and twenty-six are our proposed methods. The methods studied include models such as BERT (Devlin et al. 2018) and Law2Vec (Ilias 2019). It is observed that the more traditional methods (such as the TF-IDF and LDA) that rely on a bag-of-words representation performs better than the more advanced context-aware methods (like BERT and Law2Vec) for computing document-level similarity. Finally we nominate, via empirical validation, five of our best performing methods as appropriate for measuring similarity between case reports. Among these five, two are adaptations of existing methods and the other three are our proposed methods. © 2021, The Author(s), under exclusive licence to Springer Nature B.V. part of Springer Nature.
+KW  - BERT
+KW  - Court case reports
+KW  - Court case similarity
+KW  - Doc2vec
+KW  - Law2vec
+KW  - Legal information retrieval
+KW  - Topic modeling
+KW  - Word2vec
+KW  - Artificial intelligence
+KW  - Management
+KW  - Citation networks
+KW  - Document similarity
+KW  - Empirical validation
+KW  - Legal documents
+KW  - Legal information retrieval
+KW  - Measuring similarities
+KW  - Textual similarities
+KW  - Unsupervised approaches
+KW  - Information retrieval
+PB  - Springer Science and Business Media B.V.
+SN  - 09248463 (ISSN)
+LA  - English
+J2  - Artif Intell Law
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 36; Correspondence Address: A. Mandal; Department of Computer Science and Technology, Indian Institute of Engineering Science and Technology, Howrah, Shibpur, India; email: amarnamarpan@gmail.com; CODEN: AINLE
+ER  -
+
+TY  - JOUR
+AU  - Fitsilis, F.
+TI  - Artificial Intelligence (AI) in parliaments–preliminary analysis of the Eduskunta experiment
+PY  - 2021
+T2  - Journal of Legislative Studies
+VL  - 27
+IS  - 4
+SP  - 621
+EP  - 633
+DO  - 10.1080/13572334.2021.1976947
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85114670519&doi=10.1080%2f13572334.2021.1976947&partnerID=40&md5=4a4971a0dce523f0265357b7257fbe1e
+AD  - Scientific Service, Hellenic Parliament, Athens, Greece
+AB  - In April 2021, the Committee for the Future of the Parliament of Finland (Eduskunta) organised an extraordinary hearing, that is, of an artificial intelligence (AI). While some legislatures and research groups had already begun to study the implication of AI in the parliamentary domain, this took the parliamentary world by surprise. It was the first time a parliament has directly interacted with an AI system in an actual parliamentary process. This research note attempts to conduct a preliminary analysis on the experiment and discusses its implications for future actions in the development of parliamentary tools and services using AI-based technologies. Analysis is dedicated to intra-parliamentary workspace, while considering possible effects on the main functions of parliament such as law-making and oversight. The note aims to spark the discussion around the implementation strategy, but also for the regulation of such systems in the parliamentary environment. © 2021 Informa UK Limited, trading as Taylor & Francis Group.
+KW  - artificial intelligence
+KW  - Eduskunta
+KW  - GPT-3
+KW  - Project December
+KW  - simulated personality
+KW  - techno-ethical committee
+PB  - Routledge
+SN  - 13572334 (ISSN)
+LA  - English
+J2  - J. Legis. Stud.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 21; Correspondence Address: F. Fitsilis; Scientific Service, Hellenic Parliament, Athens, Greece; email: fitsilisf@parliament.gr
+ER  -
+
+TY  - CONF
+AU  - Zheng, L.
+AU  - Guha, N.
+AU  - Anderson, B.R.
+AU  - Henderson, P.
+AU  - Ho, D.E.
+TI  - When does pretraining help?: Assessing self-supervised learning for law and the CaseHOLD dataset of 53,000+ legal holdings
+PY  - 2021
+T2  - Proceedings of the 18th International Conference on Artificial Intelligence and Law, ICAIL 2021
+SP  - 159
+EP  - 168
+DO  - 10.1145/3462757.3466088
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85109620027&doi=10.1145%2f3462757.3466088&partnerID=40&md5=9593c72b9e78fb2d3c6462a124aae846
+AD  - Stanford University, Stanford, CA, United States
+AB  - While self-supervised learning has made rapid advances in natural language processing, it remains unclear when researchers should engage in resource-intensive domain-specific pretraining (domain pretraining). The law, puzzlingly, has yielded few documented instances of substantial gains to domain pretraining in spite of the fact that legal language is widely seen to be unique. We hypothesize that these existing results stem from the fact that existing legal NLP tasks are too easy and fail to meet conditions for when domain pretraining can help. To address this, we first present CaseHOLD (Case <u>H</u>oldings <u>O</u>n <u>L</u>egal <u>D</u>ecisions), a new dataset comprised of over 53,000+ multiple choice questions to identify the relevant holding of a cited case. This dataset presents a fundamental task to lawyers and is both legally meaningful and difficult from an NLP perspective (F1 of 0.4 with a BiLSTM baseline). Second, we assess performance gains on CaseHOLD and existing legal NLP datasets. While a Transformer architecture (BERT) pretrained on a general corpus (Google Books and Wikipedia) improves performance, domain pretraining (on a corpus of 3.5M decisions across all courts in the U.S. that is larger than BERT's) with a custom legal vocabulary exhibits the most substantial performance gains with CaseHOLD (gain of 7.2% on F1, representing a 12% improvement on BERT) and consistent performance gains across two other legal tasks. Third, we show that domain pretraining may be warranted when the task exhibits sufficient similarity to the pretraining corpus: the level of performance increase in three legal tasks was directly tied to the domain specificity of the task. Our findings inform when researchers should engage in resource-intensive pretraining and show that Transformer-based architectures, too, learn embeddings suggestive of distinct legal language.  © 2021 Owner/Author.
+KW  - benchmark dataset
+KW  - law
+KW  - natural language processing
+KW  - pretraining
+KW  - Linguistics
+KW  - Supervised learning
+KW  - Consistent performance
+KW  - Domain specific
+KW  - Domain specificity
+KW  - Multiple choice questions
+KW  - NAtural language processing
+KW  - Performance Gain
+KW  - Pre-training
+KW  - Wikipedia
+KW  - Natural language processing systems
+PB  - Association for Computing Machinery, Inc
+SN  - 978-145038526-8 (ISBN)
+LA  - English
+J2  - Proc. Int. Conf. Artif. Intell. Law, ICAIL
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 119; Conference name: 18th International Conference on Artificial Intelligence and Law, ICAIL 2021; Conference date: 21 June 2021 through 25 June 2021; Conference code: 170686
+ER  -
+
+TY  - JOUR
+AU  - Tan, X.
+AU  - Zhuang, M.
+AU  - Lu, X.
+AU  - Mao, T.
+TI  - An Analysis of the Emotional Evolution of Large-Scale Internet Public Opinion Events Based on the BERT-LDA Hybrid Model
+PY  - 2021
+T2  - IEEE Access
+VL  - 9
+C7  - 9329049
+SP  - 15860
+EP  - 15871
+DO  - 10.1109/ACCESS.2021.3052566
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85099723497&doi=10.1109%2fACCESS.2021.3052566&partnerID=40&md5=ac1d068e2600ec8172edb89071c70d7f
+AD  - School of Software Engineering, Shenzhen Institute of Information Technology, Shenzhen, China
+AD  - Business School, Southern University of Science and Technology, Shenzhen, China
+AD  - College of Systems Engineering, National University of Defense Technology, Changsha, China
+AD  - School of Public Management, Xiangtan University, Xiangtan, China
+AB  - The purpose of this article is to analyse the emotional evolution of the netizens in reaction to the events of the Anti-ELAB (Anti-Extradition Law Amendment Bill) movement in Hong Kong. We attempt to investigate evolving laws of large-scale Internet public opinion events and provide relevant agencies with a theoretical basis for a public opinion response mechanism. On the basis of improving the Bidirectional Encoder Representations from Transformers (BERT) pre-training task, we add in-depth pre-training tasks, and based on the optimisation results of the LDA topic embedding, we integrate deeply with the LDA model to dynamically present the fine-grained public sentiment of the event. Through the collection of large-scale text data related to the Anti-ELAB Movement from a well-known forum in Hong Kong, a BERT-LDA hybrid model for large-scale network public opinion analysis is constructed in a complex context. Through empirical analysis, we calculate and reveal the emotional change process of netizens and opinion leaders in the three transition stages of the Anti-ELAB Movement with the evolution of the topic word as the core by visualisation. We also analyse the emotional distribution and evolution trend of public opinion under the 'text topic', and deeply analyse the character and role of opinion leaders in Anti-ELAB public opinion events. The improved BERT-LDA model or sentiment classification AUC value exceeds 99.6% in the sentiment classification task for the Anti-ELAB Movement. © 2013 IEEE.
+KW  - BERT-LDA hybrid model
+KW  - emotional evolution
+KW  - large-scale Internet public opinion
+KW  - the anti-ELAB movement
+KW  - Emotional change
+KW  - Empirical analysis
+KW  - Large scale Internet
+KW  - Large-scale network
+KW  - Public sentiments
+KW  - Response mechanisms
+KW  - Sentiment classification
+KW  - Transition stage
+KW  - Social aspects
+PB  - Institute of Electrical and Electronics Engineers Inc.
+SN  - 21693536 (ISSN)
+LA  - English
+J2  - IEEE Access
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 29; Correspondence Address: M. Zhuang; Business School, Southern University of Science and Technology, Shenzhen, China; email: 201821100562@smail.xtu.edu.cn
+ER  -
+
+TY  - CONF
+AU  - Westermann, H.
+AU  - Savelka, J.
+AU  - Benyekhlef, K.
+TI  - Paragraph Similarity Scoring and Fine-Tuned BERT for Legal Information Retrieval and Entailment
+PY  - 2021
+T2  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 12758 LNAI
+SP  - 269
+EP  - 285
+DO  - 10.1007/978-3-030-79942-7_18
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85112239514&doi=10.1007%2f978-3-030-79942-7_18&partnerID=40&md5=b91a37fc0760f6bec0343048fd9c48f8
+AD  - Cyberjustice Laboratory, Faculté de droit, Université de Montréal, Montréal, H3T 1J7, QC, Canada
+AD  - School of Computer Science, Carnegie Mellon University, Pittsburgh, 15213, PA, United States
+AB  - The assessment of the relevance of legal documents and the application of legal rules embodied in legal documents are some of the key processes in the field of law. In this paper, we present our approach to the 2020 Competition on Legal Information Extraction/Entailment (COLIEE-2020), which provides researchers with the opportunity to find ways of accomplishing these complex tasks using computers. Here, we describe the methods used to build the models for the four tasks that are part of the competition and the results of their application. For Task 1, concerning the prediction of whether a base case cites a candidate case, we devise a method for evaluating the similarity between cases based on individual paragraph similarity. This method can be used to reduce the number of candidate cases by 85%, while maintaining over 80% of the cited cases. We then train a Support Vector Machines model to make the final prediction. The model is the best solution submitted for Task 1. We use a similar method for Task 2. For Task 3, we use an approach based on BM25 measure in combination with the identification of similar previously asked questions. For Task 4, we use a transformer model fine-tuned on existing entailment data sets as well as on the provided domain-specific statutory law data set. © 2021, Springer Nature Switzerland AG.
+KW  - Approximate nearest neighbor
+KW  - BERT
+KW  - BM25
+KW  - Legal entailment
+KW  - Support vector machine
+KW  - Universal sentence encoder
+KW  - Authentication
+KW  - Law enforcement
+KW  - Natural language processing systems
+KW  - Semantics
+KW  - Support vector machines
+KW  - Complex task
+KW  - Data set
+KW  - Domain specific
+KW  - Key process
+KW  - Legal documents
+KW  - Legal information retrieval
+KW  - Legal rules
+KW  - Transformer modeling
+KW  - Predictive analytics
+A2  - Okazaki N.
+A2  - Yada K.
+A2  - Satoh K.
+A2  - Mineshima K.
+PB  - Springer Science and Business Media Deutschland GmbH
+SN  - 03029743 (ISSN); 978-303079941-0 (ISBN)
+LA  - English
+J2  - Lect. Notes Comput. Sci.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 19; Correspondence Address: H. Westermann; Cyberjustice Laboratory, Faculté de droit, Université de Montréal, Montréal, H3T 1J7, Canada; email: hannes.westermann@umontreal.ca; Conference name: 12th International Symposium on Artificial Intelligence supported by the Japanese Society for Artificial Intelligence, JSAI-isAI 2020, International Workshop on Logic and Engineering of Natural Language Semantics, LENLS 2020, 14th International Workshop on Juris-informatics, JURISIN 2020; Conference date: 15 November 2020 through 17 November 2020; Conference code: 261949
+ER  -
+
+TY  - CONF
+AU  - Hendrycks, D.
+AU  - Burns, C.
+AU  - Basart, S.
+AU  - Zou, A.
+AU  - Mazeika, M.
+AU  - Song, D.
+AU  - Steinhardt, J.
+TI  - MEASURING MASSIVE MULTITASK LANGUAGE UNDERSTANDING
+PY  - 2021
+T2  - ICLR 2021 - 9th International Conference on Learning Representations
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85150309440&partnerID=40&md5=b5a9fbb2129ec8d6a35e0d911e90d0fd
+AD  - UC Berkeley, United States
+AD  - Columbia University, United States
+AD  - UChicago, United States
+AD  - UIUC, United States
+AB  - We propose a new test to measure a text model's multitask accuracy. The test covers 57 tasks including elementary mathematics, US history, computer science, law, and more. To attain high accuracy on this test, models must possess extensive world knowledge and problem solving ability. We find that while most recent models have near random-chance accuracy, the very largest GPT-3 model improves over random chance by almost 20 percentage points on average. However, on every one of the 57 tasks, the best models still need substantial improvements before they can reach expert-level accuracy. Models also have lopsided performance and frequently do not know when they are wrong. Worse, they still have near-random accuracy on some socially important subjects such as morality and law. By comprehensively evaluating the breadth and depth of a model's academic and professional understanding, our test can be used to analyze models across many tasks and to identify important shortcomings. © 2021 ICLR 2021 - 9th International Conference on Learning Representations. All rights reserved.
+KW  - Best model
+KW  - High-accuracy
+KW  - Language understanding
+KW  - Percentage points
+KW  - Performance
+KW  - Problem-solving abilities
+KW  - Test models
+KW  - Text modeling
+KW  - World knowledge
+PB  - International Conference on Learning Representations, ICLR
+LA  - English
+J2  - ICLR - Int. Conf. Learn. Represent.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 357; Conference name: 9th International Conference on Learning Representations, ICLR 2021; Conference date: 3 May 2021 through 7 May 2021; Conference code: 186703
+ER  -
+
+TY  - CONF
+AU  - Wehnert, S.
+AU  - Sudhi, V.
+AU  - Dureja, S.
+AU  - Kutty, L.
+AU  - Shahania, S.
+AU  - De Luca, E.W.
+TI  - Legal norm retrieval with variations of the bert model combined with TF-IDF vectorization
+PY  - 2021
+T2  - Proceedings of the 18th International Conference on Artificial Intelligence and Law, ICAIL 2021
+SP  - 285
+EP  - 294
+DO  - 10.1145/3462757.3466104
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85112387185&doi=10.1145%2f3462757.3466104&partnerID=40&md5=45a5e27c532117a94fd8843a78db634a
+AD  - Georg Eckert Institute, Leibniz Institute for International Textbook Research, Germany
+AD  - Otto von Guericke University, Magdeburg, Germany
+AB  - In this work, we examine variations of the BERT model on the statute law retrieval task of the COLIEE competition. This includes approaches to leverage BERT's contextual word embeddings, fine-tuning the model, combining it with TF-IDF vectorization, adding external knowledge to the statutes and data augmentation. Our ensemble of Sentence-BERT with two different TF-IDF representations and document enrichment exhibits the best performance on this task regarding the F2 score. This is followed by a fine-tuned LEGAL-BERT with TF-IDF and data augmentation and our third approach with the BERTScore. As a result, we show that there are significant differences between the chosen BERT approaches and discuss several design decisions in the context of statute law retrieval.  © 2021 ACM.
+KW  - contextual word embeddings
+KW  - data augmentation
+KW  - document enrichment
+KW  - legal information retrieval
+KW  - Knowledge management
+KW  - Law enforcement
+KW  - Contextual words
+KW  - Data augmentation
+KW  - Design decisions
+KW  - External knowledge
+KW  - Fine tuning
+KW  - Legal norms
+KW  - Vectorization
+KW  - Artificial intelligence
+PB  - Association for Computing Machinery, Inc
+SN  - 978-145038526-8 (ISBN)
+LA  - English
+J2  - Proc. Int. Conf. Artif. Intell. Law, ICAIL
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 20; Conference name: 18th International Conference on Artificial Intelligence and Law, ICAIL 2021; Conference date: 21 June 2021 through 25 June 2021; Conference code: 170686
+ER  -
+
+TY  - CONF
+AU  - Yoshioka, M.
+AU  - Aoki, Y.
+AU  - Suzuki, Y.
+TI  - BERT-based ensemble methods with data augmentation for legal textual entailment in COLIEE statute law task
+PY  - 2021
+T2  - Proceedings of the 18th International Conference on Artificial Intelligence and Law, ICAIL 2021
+SP  - 278
+EP  - 284
+DO  - 10.1145/3462757.3466105
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85112367195&doi=10.1145%2f3462757.3466105&partnerID=40&md5=1960d2ab1cfa612fdf059a5a9e42af64
+AD  - Hokkaido University Graduate School of Information Science and Technology, Hokkaido University Sapporo-shi, Hokkaido, Japan
+AD  - Graduate School of Information Science and Technology, Hokkaido University Sapporo-shi, Hokkaido, Japan
+AB  - The Competition on Legal Information Extraction/Entailment (COLIEE) statute law legal textual entailment task (task 4) is a task to make a system judge whether a given question statement is true or not by provided articles. In the last COLIEE 2020, the best performance system used bidirectional encoder representations from transformers (BERT), a deep-learning-based natural language processing tool for handling word semantics by considering their context. However, there are problems related to the small amount of training data and the variability of the questions. In this paper, we propose a BERT-based ensemble method with data augmentation to solve this problem. For the data augmentation, we propose a systematic method to make training data for understanding the syntactic structure of the questions and articles for entailment. In addition, due to the nature of the non-deterministic characteristics of BERT fine-tuning and the variability of the questions, we propose a method to construct multiple BERT fine-tuning models and select an appropriate set of models for ensemble. The accuracy of our proposed method for task 4 was 0.7037, which was the best performance among all submissions.  © 2021 ACM.
+KW  - BERT
+KW  - data augmentation
+KW  - ensemble method
+KW  - textual entailment
+KW  - Deep learning
+KW  - Law enforcement
+KW  - Semantics
+KW  - Syntactics
+KW  - Text processing
+KW  - Data augmentation
+KW  - Ensemble methods
+KW  - Natural Language Processing Tools
+KW  - Performance system
+KW  - Syntactic structure
+KW  - Systematic method
+KW  - Textual entailment
+KW  - Word Semantics
+KW  - Natural language processing systems
+PB  - Association for Computing Machinery, Inc
+SN  - 978-145038526-8 (ISBN)
+LA  - English
+J2  - Proc. Int. Conf. Artif. Intell. Law, ICAIL
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 18; Conference name: 18th International Conference on Artificial Intelligence and Law, ICAIL 2021; Conference date: 21 June 2021 through 25 June 2021; Conference code: 170686
+ER  -
+
+TY  - CONF
+AU  - So, D.R.
+AU  - Mańke, W.
+AU  - Liu, H.
+AU  - Dai, Z.
+AU  - Shazeer, N.
+AU  - Le, Q.V.
+TI  - Primer: Searching for Efficient Transformers for Language Modeling
+PY  - 2021
+T2  - Advances in Neural Information Processing Systems
+VL  - 8
+SP  - 6010
+EP  - 6022
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85131635600&partnerID=40&md5=05e334aa82c8b2ebe9c4672aa16bdc01
+AD  - Google Research, Brain Team
+AB  - Large Transformer models have been central to recent advances in natural language processing. The training and inference costs of these models, however, have grown rapidly and become prohibitively expensive. Here we aim to reduce the costs of Transformers by searching for a more efficient variant. Compared to previous approaches, our search is performed at a lower level, over the primitives that define a Transformer TensorFlow program. We identify an architecture, named Primer, that has a smaller training cost than the original Transformer and other variants for auto-regressive language modeling. Primer's improvements can be mostly attributed to two simple modifications: squaring ReLU activations and adding a depthwise convolution layer after each Q, K, and V projection in self-attention. Experiments show Primer's gains over Transformer increase as compute scale grows and follow a power law with respect to quality at optimal model sizes. We also verify empirically that Primer can be dropped into different codebases to significantly speed up training without additional tuning. For example, at a 500M parameter size, Primer improves the original T5 architecture on C4 auto-regressive language modeling, reducing the training cost by 4X. Furthermore, the reduced training cost means Primer needs much less compute to reach a target one-shot performance. For instance, in a 1.9B parameter configuration similar to GPT-3 XL, Primer uses 1/3 of the training compute to achieve the same one-shot performance as Transformer. We open source our models and several comparisons in T5 to help with reproducibility. © 2021 Neural information processing systems foundation. All rights reserved.
+KW  - Computational linguistics
+KW  - Cost reduction
+KW  - Modeling languages
+KW  - Auto-regressive
+KW  - Language model
+KW  - Model size
+KW  - Optimal model
+KW  - Performance
+KW  - Power-law
+KW  - Simple modifications
+KW  - Small training
+KW  - Training costs
+KW  - Transformer modeling
+KW  - Natural language processing systems
+A2  - Ranzato M.
+A2  - Beygelzimer A.
+A2  - Dauphin Y.
+A2  - Liang P.S.
+A2  - Wortman Vaughan J.
+PB  - Neural information processing systems foundation
+SN  - 10495258 (ISSN); 978-171384539-3 (ISBN)
+LA  - English
+J2  - Adv. neural inf. proces. syst.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 72; Conference name: 35th Conference on Neural Information Processing Systems, NeurIPS 2021; Conference date: 6 December 2021 through 14 December 2021; Conference code: 179642
+ER  -
+
+TY  - CONF
+AU  - Douka, S.
+AU  - Abdine, H.
+AU  - Vazirgiannis, M.
+AU  - Hamdani, R.El.
+AU  - Amariles, D.R.
+TI  - JuriBERT: A Masked-Language Model Adaptation for French Legal Text
+PY  - 2021
+T2  - Natural Legal Language Processing, NLLP 2021 - Proceedings of the 2021 Workshop
+SP  - 95
+EP  - 101
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85130916067&partnerID=40&md5=cd2cac22ab70279b9b4e01bac37c56a8
+AD  - École Polytechnique, AUEB, Greece
+AD  - École Polytechnique, France
+AD  - HEC Paris, France
+AB  - Language models have proven to be very useful when adapted to specific domains. Nonetheless, little research has been done on the adaptation of domain-specific BERT models in the French language. In this paper, we focus on creating a language model adapted to French legal text with the goal of helping law professionals. We conclude that some specific tasks do not benefit from generic language models pre-trained on large amounts of data. We explore the use of smaller architectures in domain-specific sub-languages and their benefits for French legal text. We prove that domain-specific pre-trained models can perform better than their equivalent generalised ones in the legal domain. Finally, we release JuriBERT, a new set of BERT models adapted to the French legal domain. © 2021 Association for Computational Linguistics.
+KW  - Domain specific
+KW  - Language model
+KW  - Language model adaptation
+KW  - Large amounts of data
+KW  - Legal domains
+KW  - Legal texts
+KW  - Specific tasks
+KW  - Computational linguistics
+A2  - Aletras N.
+A2  - Androutsopoulos I.
+A2  - Barrett L.
+A2  - Goanta C.
+A2  - Preotiuc-Pietro D.
+PB  - Association for Computational Linguistics (ACL)
+SN  - 978-195408598-5 (ISBN)
+LA  - English
+J2  - Nat. Leg. Lang. Process., NLLP - Proc. Workshop
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 18; Conference name: 3rd Natural Legal Language Processing, NLLP 2021; Conference code: 182350
+ER  -
+

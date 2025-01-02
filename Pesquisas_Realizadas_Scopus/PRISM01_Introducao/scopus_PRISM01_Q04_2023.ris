@@ -1,0 +1,469 @@
+﻿TY  - CONF
+AU  - Dasawat, S.S.
+AU  - Sharma, S.
+TI  - Cyber Security Integration with Smart New Age Sustainable Startup Business, Risk Management, Automation and Scaling System for Entrepreneurs: An Artificial Intelligence Approach
+PY  - 2023
+T2  - Proceedings of the 7th International Conference on Intelligent Computing and Control Systems, ICICCS 2023
+SP  - 1357
+EP  - 1363
+DO  - 10.1109/ICICCS56967.2023.10142779
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85163848313&doi=10.1109%2fICICCS56967.2023.10142779&partnerID=40&md5=a013d46187741325d4efd0742b897e2a
+AD  - Graphic Era Deemed to Be University, Department of Computer Science and Engineering, Dehradun, India
+AB  - Artificial Intelligence and cybersecurity play a crucial role in the success of a new-age sustainable startup business. In terms of risk management, Artificial Intelligenoe can be used to detect and prevent cyber threats, while also providing valuable insights into potential vulnerabilities. Automation can also improve the efficiency of security processes and help scale the business. However, entrepreneurs must be aware of the potential risks associated with AI and cybersecurity, including the possibility of data breaches and ethical issues. Strong security measures, such encryption and routine software updates, as well as knowledge of the laws and policies governing AI and cybersecurity are necessary to mitigate these dangers. A systematic literature review has been done in this paper. This paper provides an overview of new-age sustainable startup businesses and the importance of emerging technologies in new-age sustainable startup businesses, risk management, automation and scaling of entrepreneurs. Further, this paper tells about the impact of AI and Cyber Security in new age sustainable startup businesses. The advantages and challenges of Artificial Intelligence and Cyber Security in a new-age sustainable startup business are also discussed. © 2023 IEEE.
+KW  - Artificial Intelligence
+KW  - Automation
+KW  - Cyber Security
+KW  - Risk Management
+KW  - Scaling system
+KW  - Sustainable Startup
+KW  - Artificial intelligence
+KW  - Automation
+KW  - Cryptography
+KW  - Cybersecurity
+KW  - Automation systems
+KW  - Business risks
+KW  - Cyber security
+KW  - Management automations
+KW  - New age
+KW  - Risk management systems
+KW  - Risks management
+KW  - Scaling system
+KW  - Startup business
+KW  - Sustainable startup
+KW  - Risk management
+PB  - Institute of Electrical and Electronics Engineers Inc.
+SN  - 979-835039725-3 (ISBN)
+LA  - English
+J2  - Proc. Int. Conf. Intell. Comput. Control Syst., ICICCS
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 19; Correspondence Address: S.S. Dasawat; Graphic Era Deemed to Be University, Department of Computer Science and Engineering, Dehradun, India; email: dasawatshagun@gmail.com; Conference name: 7th International Conference on Intelligent Computing and Control Systems, ICICCS 2023; Conference date: 17 May 2023 through 19 May 2023; Conference code: 189354
+ER  -
+
+TY  - JOUR
+AU  - Ismail, W.
+AU  - Niknejad, N.
+AU  - Bahari, M.
+AU  - Hendradi, R.
+AU  - Zaizi, N.J.M.
+AU  - Zulkifli, M.Z.
+TI  - Water treatment and artificial intelligence techniques: a systematic literature review research
+PY  - 2023
+T2  - Environmental Science and Pollution Research
+VL  - 30
+IS  - 28
+SP  - 71794
+EP  - 71812
+DO  - 10.1007/s11356-021-16471-0
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85116508123&doi=10.1007%2fs11356-021-16471-0&partnerID=40&md5=3b597ed9183768f3cfb207187ad58b2e
+AD  - Faculty of Science and Technology, Universiti Sains Islam Malaysia, Negeri Sembilan, Malaysia
+AD  - Faculty of Science and Technology, Universitas Airlangga, Indonesia Kampus C, Surabaya, Indonesia
+AD  - School of Computing, Faculty of Engineering, Universiti Teknologi Malaysia, Johor Bahru, Malaysia
+AD  - Azman Hashim International Business School, Universiti Teknologi Malaysia, Johor Bahru, Malaysia
+AD  - Kulliyah of Science, International Islamic University Malaysia, Pahang, Kuantan, Malaysia
+AB  - As clean water can be considered among the essentials of human life, there is always a requirement to seek its foremost and high quality. Water primarily becomes polluted due to organic as well as inorganic pollutants, including nutrients, heavy metals, and constant contamination with organic materials. Predicting the quality of water accurately is essential for its better management along with controlling pollution. With stricter laws regarding water treatment to remove organic and biologic materials along with different pollutants, looking for novel technologic procedures will be necessary for improved control of the treatment processes by water utilities. Linear regression-based models with relative simplicity considering water prediction have been typically used as available statistical models. Nevertheless, in a majority of real problems, particularly those associated with modeling of water quality, non-linear patterns will be observed, requiring non-linear models to address them. Thus, artificial intelligence (AI) can be a good candidate in modeling and optimizing the elimination of pollutants from water in empirical settings with the ability to generate ideal operational variables, due to its recent considerable advancements. Management and operation of water treatment procedures are supported technically by these technologies, leading to higher efficiency compared to sole dependence on human operations. Thus, establishing predictive models for water quality and subsequently, more efficient management of water resources would be critically important, serving as a strong tool. A systematic review methodology has been employed in the present work to investigate the previous studies over the time interval of 2010–2020, while analyzing and synthesizing the literature, particularly regarding AI application in water treatment. A total number of 92 articles had addressed the topic under study using AI. Based on the conclusions, the application of AI can obviously facilitate operations, process automation, and management of water resources in significantly volatile contexts. © 2021, The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, part of Springer Nature.
+KW  - Artificial intelligence
+KW  - Literature review
+KW  - Water quality
+KW  - Water treatment
+KW  - Artificial Intelligence
+KW  - Environmental Pollutants
+KW  - Humans
+KW  - Models, Statistical
+KW  - Water Purification
+KW  - Water Quality
+KW  - artificial intelligence
+KW  - literature review
+KW  - prediction
+KW  - water management
+KW  - water planning
+KW  - water quality
+KW  - water treatment
+KW  - artificial intelligence
+KW  - human
+KW  - pollutant
+KW  - statistical model
+KW  - water management
+KW  - water quality
+PB  - Springer Science and Business Media Deutschland GmbH
+SN  - 09441344 (ISSN)
+C2  - 34609681
+LA  - English
+J2  - Environ. Sci. Pollut. Res.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 20; Correspondence Address: R. Hendradi; Faculty of Science and Technology, Universitas Airlangga, Indonesia Kampus C, Surabaya, Indonesia; email: rimuljohendradi@fst.unair.ac.id; N. Niknejad; School of Computing, Faculty of Engineering, Universiti Teknologi Malaysia, Johor Bahru, Malaysia; email: naghmeh@utm.my; CODEN: ESPLE
+ER  -
+
+TY  - JOUR
+AU  - Epstein, Z.
+AU  - Hertzmann, A.
+AU  - Akten, M.
+AU  - Farid, H.
+AU  - Fjeld, J.
+AU  - Frank, M.R.
+AU  - Groh, M.
+AU  - Herman, L.
+AU  - Leach, N.
+AU  - Mahari, R.
+AU  - Pentland, A.
+AU  - Russakovsky, O.
+AU  - Schroeder, H.
+AU  - Smith, A.
+TI  - Art and the science of generative AI
+PY  - 2023
+T2  - Science
+VL  - 380
+IS  - 6650
+SP  - 1110
+EP  - 1111
+DO  - 10.1126/science.adh4451
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85163904509&doi=10.1126%2fscience.adh4451&partnerID=40&md5=56e2fb474ae7033e3da4abf51acf3158
+AD  - Massachusetts Institute of Technology, Cambridge, MA, United States
+AD  - Adobe Research, San Francisco, CA, United States
+AD  - University of Washington, Seattle, WA, United States
+AD  - University of California, San Diego, San Diego, CA, United States
+AD  - University of California, Berkeley, Berkeley, CA, United States
+AD  - Harvard Law School, Cambridge, MA, United States
+AD  - University of Pittsburgh, Pittsburgh, PA, United States
+AD  - University of Oxford, Oxford, United Kingdom
+AD  - Adobe, Inc., London, United Kingdom
+AD  - Florida International University, Miami, FL, United States
+AD  - Princeton University, Princeton, NJ, United States
+AD  - Queen Mary University of London, London, United Kingdom
+KW  - Artificial Intelligence
+KW  - Ecosystem
+KW  - artificial intelligence
+KW  - research work
+KW  - art
+KW  - Article
+KW  - artificial intelligence
+KW  - automation
+KW  - human
+KW  - image quality
+KW  - information processing
+KW  - law
+KW  - legal aspect
+KW  - literature
+KW  - music
+KW  - patent
+KW  - research
+KW  - technology
+KW  - videorecording
+KW  - ecosystem
+PB  - American Association for the Advancement of Science
+SN  - 00368075 (ISSN)
+C2  - 37319193
+LA  - English
+J2  - Sci.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 138; Correspondence Address: Z. Epstein; Massachusetts Institute of Technology, Cambridge, United States; email: zive@mit.edu; CODEN: SCIEA
+ER  -
+
+TY  - JOUR
+AU  - Terranova, C.
+AU  - Cestonaro, C.
+AU  - Fava, L.
+AU  - Cinquetti, A.
+TI  - AI and professional liability assessment in healthcare. A revolution in legal medicine?
+PY  - 2023
+T2  - Frontiers in Medicine
+VL  - 10
+C7  - 1337335
+DO  - 10.3389/fmed.2023.1337335
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85182624134&doi=10.3389%2ffmed.2023.1337335&partnerID=40&md5=4103cca71a0ec5262058cdbd6435047f
+AD  - Legal Medicine and Toxicology, Department of Cardiac, Thoracic, Vascular Sciences and Public Health, University of Padua, Padua, Italy
+AB  - The adoption of advanced artificial intelligence (AI) systems in healthcare is transforming the healthcare-delivery landscape. Artificial intelligence may enhance patient safety and improve healthcare outcomes, but it presents notable ethical and legal dilemmas. Moreover, as AI streamlines the analysis of the multitude of factors relevant to malpractice claims, including informed consent, adherence to standards of care, and causation, the evaluation of professional liability might also benefit from its use. Beginning with an analysis of the basic steps in assessing professional liability, this article examines the potential new medical-legal issues that an expert witness may encounter when analyzing malpractice cases and the potential integration of AI in this context. These changes related to the use of integrated AI, will necessitate efforts on the part of judges, experts, and clinicians, and may require new legislative regulations. A new expert witness will be likely necessary in the evaluation of professional liability cases. On the one hand, artificial intelligence will support the expert witness; however, on the other hand, it will introduce specific elements into the activities of healthcare workers. These elements will necessitate an expert witness with a specialized cultural background. Examining the steps of professional liability assessment indicates that the likely path for AI in legal medicine involves its role as a collaborative and integrated tool. The combination of AI with human judgment in these assessments can enhance comprehensiveness and fairness. However, it is imperative to adopt a cautious and balanced approach to prevent complete automation in this field. Copyright © 2024 Terranova, Cestonaro, Fava and Cinquetti.
+KW  - artificial intelligence
+KW  - causal relationship
+KW  - legal medicine
+KW  - machine learning
+KW  - professional liability
+KW  - tort law
+KW  - artificial intelligence
+KW  - clinician
+KW  - cultural background
+KW  - diagnosis
+KW  - expert witness
+KW  - fairness
+KW  - forensic medicine
+KW  - health care
+KW  - health care delivery
+KW  - health care personnel
+KW  - human
+KW  - informed consent
+KW  - law
+KW  - legal liability
+KW  - machine learning
+KW  - malpractice
+KW  - patient safety
+KW  - short survey
+PB  - Frontiers Media SA
+SN  - 2296858X (ISSN)
+LA  - English
+J2  - Front. Med.
+M3  - Short survey
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 9; Correspondence Address: C. Terranova; Legal Medicine and Toxicology, Department of Cardiac, Thoracic, Vascular Sciences and Public Health, University of Padua, Padua, Italy; email: claudio.terranova@gmail.com
+ER  -
+
+TY  - JOUR
+AU  - Kalpokiene, J.
+AU  - Kalpokas, I.
+TI  - Creative encounters of a posthuman kind – anthropocentric law, artificial intelligence, and art
+PY  - 2023
+T2  - Technology in Society
+VL  - 72
+C7  - 102197
+DO  - 10.1016/j.techsoc.2023.102197
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85146688862&doi=10.1016%2fj.techsoc.2023.102197&partnerID=40&md5=4adb991ab651f617a67c882f5aa572a8
+AD  - PhD Candidate and Junior Research Fellow, Faculty of Law, Vytautas Magnus University, Jonavos Str. 66-113, Kaunas, LT-44138, Lithuania
+AD  - Associate Professor, Department of Public Communication, Vytautas Magnus University, Lithuania
+AB  - Artificial Intelligence (AI) is becoming an increasingly transformative force in human life. Crucially, its impact is already extending beyond automation of routine tasks and encroaching on creativity – a domain once seen as exclusively human. Hence, this article first surveys the discriminatory and exploitative underpinnings of the anthropocentric thinking that lies beyond attempts at sidelining the creative capacities of AI. Next, four different approaches to creativity and art are analyzed, ultimately conceptualizing art-ness as externally ascribed. Ultimately, the article moves to one way of such ascription – copyrightability – demonstrating the anthropocentric thinking behind attempts to both deny and award copyright protection to AI-generated content. Moreover, it transpires that human authors are under threat whichever of such strategies ends up dominant. © 2023 Elsevier Ltd
+KW  - Anthropocentrism
+KW  - Artificial intelligence
+KW  - Copyright
+KW  - Creativity
+KW  - Artificial intelligence
+KW  - Anthropocentrism
+KW  - Artificial arts
+KW  - Copyright protections
+KW  - Creatives
+KW  - Creativity
+KW  - Human lives
+KW  - art
+KW  - artificial intelligence
+KW  - conceptual framework
+KW  - strategic approach
+KW  - Copyrights
+PB  - Elsevier Ltd
+SN  - 0160791X (ISSN)
+LA  - English
+J2  - Technol. Soc.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 13; Correspondence Address: J. Kalpokiene; PhD Candidate and Junior Research Fellow, Faculty of Law, Vytautas Magnus University, Kaunas, Jonavos Str. 66-113, LT-44138, Lithuania; email: julija.kalpokiene@vdu.lt
+ER  -
+
+TY  - JOUR
+AU  - Lukács, A.
+AU  - Váradi, S.
+TI  - GDPR-compliant AI-based automated decision-making in the world of work
+PY  - 2023
+T2  - Computer Law and Security Review
+VL  - 50
+C7  - 105848
+DO  - 10.1016/j.clsr.2023.105848
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85166649330&doi=10.1016%2fj.clsr.2023.105848&partnerID=40&md5=066255eb85faac6d21601c635fa68aba
+AD  - Institute of Industrial Relations and Social Security, University of Szeged, Faculty of Law and Political Sciences, Bocskai u. 10-12., Szeged, H-6721, Hungary
+AD  - Department of International and European Law, University of Szeged, Faculty of Law and Political Sciences, Bocskai u. 10-12., Szeged, H-6721, Hungary
+AB  - Artificial Intelligence is spreading fast in our everyday life and the world of work is no exception. AI is increasingly shaping the employment context: such emerging areas are augmented and automated decision-making. As AI-based decision-making is fuelled by personal data, compliance with data protection frameworks is inevitable. Even though automated decision-making is already addressed by the European norms on data protection – especially the GDPR –, their application in the world of work raises specific questions. The paper examines, in the light of the ‘general’ data protection background, what specific data protection challenges are raised in the field of AI-based automated decision-making in the context of employment. As a result of the research, the paper provides a detailed overview on the European legal framework on the data protection aspects of AI-based automated decision-making in the employment context. It identifies the main challenges, such as the applicability of the existing legal framework to the current use-cases and the specific questions relating to the lawful bases in the world of work, and provides guidelines on how to address these challenges. © 2023 Adrienn Lukács and Szilvia Váradi
+KW  - Artificial intelligence
+KW  - Automated decision-making
+KW  - Data protection
+KW  - GDPR
+KW  - Labour law
+KW  - Automation
+KW  - Data privacy
+KW  - Decision making
+KW  - Employment
+KW  - Laws and legislation
+KW  - 'current
+KW  - Automated decision making
+KW  - Decisions makings
+KW  - GDPR
+KW  - IT Identify
+KW  - Labor laws
+KW  - Legal frameworks
+KW  - Artificial intelligence
+PB  - Elsevier Ltd
+SN  - 02673649 (ISSN)
+LA  - English
+J2  - Comput Law Secur. Rev.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 10; Correspondence Address: S. Váradi; Department of International and European Law, University of Szeged, Faculty of Law and Political Sciences, H-6721, Hungary; email: varadiszilvia@juris.u-szeged.hu; CODEN: CLSRE
+ER  -
+
+TY  - JOUR
+AU  - Syu, J.-H.
+AU  - Lin, J.C.-W.
+AU  - Srivastava, G.
+AU  - Yu, K.
+TI  - A Comprehensive Survey on Artificial Intelligence Empowered Edge Computing on Consumer Electronics
+PY  - 2023
+T2  - IEEE Transactions on Consumer Electronics
+VL  - 69
+IS  - 4
+SP  - 1023
+EP  - 1034
+DO  - 10.1109/TCE.2023.3318150
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85181783398&doi=10.1109%2fTCE.2023.3318150&partnerID=40&md5=1e3dde93b56cae63518aef6a27bf0206
+AD  - National Taiwan University, Department of Computer Science and Information Engineering, Taipei, 10617, Taiwan
+AD  - Silesian University of Technology, Faculty of Automatic Control, Electronics and Computer Science, Department of Distributed Systems and Informatics Devices, Gliwice, 44-100, Poland
+AD  - Brandon University, Department of Mathematics and Computer Science, Brandon, R7A 6A9, Canada
+AD  - China Medical University, Research Centre for Interneural Computing, Taichung, 404, Taiwan
+AD  - Lebanese American University, Department of Computer Science and Mathematics, Beirut, 1102, Lebanon
+AD  - Hosei University, Graduate School of Science and Engineering, Tokyo, 184-8584, Japan
+AD  - Riken Center for Advanced Intelligence Project, Riken, Tokyo, 103-0027, Japan
+AB  - The Internet revolution and Moore's Law drove the rapid expansion of connected consumer electronics. As massive data is generated by Internet of Things (IoT) devices, edge computing has been developed and applied in consumer electronics to provide agile and real-time services. In this paper, we provide an overview of artificial intelligence (AI)-empowered edge computing in consumer electronics. We start with the background of consumer electronics and artificial intelligence and outline key characteristics and challenges, which are used to evaluate the state of research in smart homes, smart buildings, smart healthcare, and intelligent diagnosis. The evaluation shows that research in AI-empowered edge computing for consumer electronics has mainly focused on latency, robustness, and reliability over the past 5 years. However, explainability and load balancing are mentioned less and have great potential for future research. Although AI-empowered edge computing for consumer electronics is a thriving and widely used research area, there are still many unsolved problems and challenges that researchers can address.  © 1975-2011 IEEE.
+KW  - artificial intelligence
+KW  - Consumer electronics
+KW  - edge computing
+KW  - smart buildings
+KW  - smart healthcare
+KW  - smart homes
+KW  - Automation
+KW  - E-learning
+KW  - Edge computing
+KW  - Health care
+KW  - Information services
+KW  - Internet of things
+KW  - Learning systems
+KW  - Machine learning
+KW  - Cloud-computing
+KW  - Edge computing
+KW  - Internet revolution
+KW  - Machine-learning
+KW  - Rapid expansion
+KW  - Smart healthcare
+KW  - Smart homes
+KW  - Wireless fidelities
+KW  - Intelligent buildings
+PB  - Institute of Electrical and Electronics Engineers Inc.
+SN  - 00983063 (ISSN)
+LA  - English
+J2  - IEEE Trans Consum Electron
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 41; Correspondence Address: J.C.-W. Lin; Silesian University of Technology, Faculty of Automatic Control, Electronics and Computer Science, Department of Distributed Systems and Informatics Devices, Gliwice, 44-100, Poland; email: jerry.chun-wei.lin@polsl.pl; CODEN: ITCED
+ER  -
+
+TY  - JOUR
+AU  - Redrup Hill, E.
+AU  - Mitchell, C.
+AU  - Brigden, T.
+AU  - Hall, A.
+TI  - Ethical and legal considerations influencing human involvement in the implementation of artificial intelligence in a clinical pathway: A multi-stakeholder perspective
+PY  - 2023
+T2  - Frontiers in Digital Health
+VL  - 5
+C7  - 1139210
+DO  - 10.3389/fdgth.2023.1139210
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85162047147&doi=10.3389%2ffdgth.2023.1139210&partnerID=40&md5=fdd9b0f69c39f61a428d9e131f593398
+AD  - PHG Foundation, University of Cambridge, Cambridge, United Kingdom
+AB  - Introduction: Ethical and legal factors will have an important bearing on when and whether automation is appropriate in healthcare. There is a developing literature on the ethics of artificial intelligence (AI) in health, including specific legal or regulatory questions such as whether there is a right to an explanation of AI decision-making. However, there has been limited consideration of the specific ethical and legal factors that influence when, and in what form, human involvement may be required in the implementation of AI in a clinical pathway, and the views of the wide range of stakeholders involved. To address this question, we chose the exemplar of the pathway for the early detection of Barrett's Oesophagus (BE) and oesophageal adenocarcinoma, where Gehrung and colleagues have developed a “semi-automated”, deep-learning system to analyse samples from the CytospongeTM TFF3 test (a minimally invasive alternative to endoscopy), where AI promises to mitigate increasing demands for pathologists' time and input. Methods: We gathered a multidisciplinary group of stakeholders, including developers, patients, healthcare professionals and regulators, to obtain their perspectives on the ethical and legal issues that may arise using this exemplar. Results: The findings are grouped under six general themes: risk and potential harms; impacts on human experts; equity and bias; transparency and oversight; patient information and choice; accountability, moral responsibility and liability for error. Within these themes, a range of subtle and context-specific elements emerged, highlighting the importance of pre-implementation, interdisciplinary discussions and appreciation of pathway specific considerations. Discussion: To evaluate these findings, we draw on the well-established principles of biomedical ethics identified by Beauchamp and Childress as a lens through which to view these results and their implications for personalised medicine. Our findings are not only relevant to this context but have implications for AI in digital pathology and healthcare more broadly. 2023 Redrup Hill, Mitchell, Brigden and Hall.
+KW  - artificial intelligence
+KW  - digital pathology
+KW  - healthcare
+KW  - human involvement
+KW  - interdisciplinary
+KW  - law
+KW  - medical ethics
+KW  - Article
+KW  - artificial intelligence
+KW  - clinical practice
+KW  - digital pathology
+KW  - health care
+KW  - human
+KW  - interdisciplinary communication
+KW  - justice
+KW  - legal aspect
+KW  - legal liability
+KW  - medical ethics
+KW  - nonmaleficence
+KW  - patient information
+KW  - risk factor
+KW  - stakeholder engagement
+PB  - Frontiers Media S.A.
+SN  - 2673253X (ISSN)
+LA  - English
+J2  - Front. Digit. Health
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 20; Correspondence Address: E. Redrup Hill; PHG Foundation, University of Cambridge, Cambridge, United Kingdom; email: elizabeth.redrup@phgfoundation.org
+ER  -
+
+TY  - JOUR
+AU  - Azam, N.
+AU  - Michala, L.
+AU  - Ansari, S.
+AU  - Truong, N.B.
+TI  - Data Privacy Threat Modelling for Autonomous Systems: A Survey from the GDPR's Perspective
+PY  - 2023
+T2  - IEEE Transactions on Big Data
+VL  - 9
+IS  - 2
+SP  - 388
+EP  - 414
+DO  - 10.1109/TBDATA.2022.3227336
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85144744350&doi=10.1109%2fTBDATA.2022.3227336&partnerID=40&md5=369cab50eb775b658bf5146dc048a6b6
+AD  - University of Glasgow, School of Computing Science, Glasgow, G12 8QQ, United Kingdom
+AD  - University of Glasgow, James Watt School of Engineering, Glasgow, G12 8QQ, United Kingdom
+AB  - Artificial Intelligence-based applications have been increasingly deployed in every field of life including smart homes, smart cities, healthcare services, and autonomous systems where personal data is collected across heterogeneous sources and processed using 'black-box' algorithms in opaque centralised servers. As a consequence, preserving the data privacy and security of these applications is of utmost importance. In this respect, a modelling technique for identifying potential data privacy threats and specifying countermeasures to mitigate the related vulnerabilities in such AI-based systems plays a significant role in preserving and securing personal data. Various threat modelling techniques have been proposed such as STRIDE, LINDDUN, and PASTA but none of them is sufficient to model the data privacy threats in autonomous systems. Furthermore, they are not designed to model compliance with data protection legislation like the EU/UK General Data Protection Regulation (GDPR), which is fundamental to protecting data owners' privacy as well as to preventing personal data from potential privacy-related attacks. In this article, we survey the existing threat modelling techniques for data privacy threats in autonomous systems and then analyse such techniques from the viewpoint of GDPR compliance. Following the analysis, We employ STRIDE and LINDDUN in autonomous cars, a specific use-case of autonomous systems, to scrutinise the challenges and gaps of the existing techniques when modelling data privacy threats. Prospective research directions for refining data privacy threats & GDPR-compliance modelling techniques for autonomous systems are also presented.  © 2015 IEEE.
+KW  - Autonomous systems
+KW  - data privacy
+KW  - GDPR
+KW  - general data protection regulation
+KW  - threat modelling technique
+KW  - Automation
+KW  - Intelligent buildings
+KW  - Laws and legislation
+KW  - Autonomous system
+KW  - General data protection regulations
+KW  - Modelling techniques
+KW  - Security
+KW  - Threat modeling
+KW  - Threat modeling technique
+KW  - Data privacy
+PB  - Institute of Electrical and Electronics Engineers Inc.
+SN  - 23327790 (ISSN)
+LA  - English
+J2  - IEEE Trans. Big Data
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 7; Correspondence Address: N.B. Truong; University of Glasgow, School of Computing Science, Glasgow, G12 8QQ, United Kingdom; email: nguyen.truong@glasgow.ac.uk
+ER  -
+
+TY  - JOUR
+AU  - Olujimi, P.A.
+AU  - Ade-Ibijola, A.
+TI  - NLP techniques for automating responses to customer queries: a systematic review
+PY  - 2023
+T2  - Discover Artificial Intelligence
+VL  - 3
+IS  - 1
+C7  - 20
+DO  - 10.1007/s44163-023-00065-5
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85168619521&doi=10.1007%2fs44163-023-00065-5&partnerID=40&md5=c76b7c501b617530e0df3a5ebf7d3531
+AD  - Department of Applied Information Systems, College of Business and Economics, University of Johannesburg, Auckland Park, Gauteng, Johannesburg, 2006, South Africa
+AD  - Research Group on Data, Artificial Intelligence, and Innovations for Digital Transformation, Johannesburg Business School, University of Johannesburg, Aukland Park, Gauteng, Johannesburg, 2092, South Africa
+AB  - The demand for automated customer support approaches in customer-centric environments has increased significantly in the past few years. Natural Language Processing (NLP) advancement has enabled conversational AI to comprehend human language and respond to enquiries from customers automatically independent of the intervention of humans. Customers can now access prompt responses from NLP chatbots without interacting with human agents. This application has been implemented in numerous business sectors, including banking, manufacturing, education, law, and healthcare, among others. This study reviewed earlier studies on automating customer queries using NLP approaches. Using a systematic review methodology, 73 articles were analysed from reputable digital resources. The evaluated result offers an in-depth review of prior studies investigating the use of NLP techniques for automated customer service responses, including details on existing studies, benefits, and potential future study topics on the use of NLP techniques for business applications. The implications of the results were discussed and, recommendations made. © The Author(s) 2023.
+KW  - Automated responses
+KW  - Business applications
+KW  - Customer queries
+KW  - NLP
+KW  - Systematic review
+KW  - Automation
+KW  - Natural language processing systems
+KW  - Automated response
+KW  - Business applications
+KW  - Customer queries
+KW  - Customer support
+KW  - Customer-centric
+KW  - Language processing
+KW  - Language processing techniques
+KW  - Natural language processing
+KW  - Natural languages
+KW  - Systematic Review
+KW  - Sales
+PB  - Springer Nature
+SN  - 27310809 (ISSN)
+LA  - English
+J2  - Discov. Artif. Intell.
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 20; Correspondence Address: P.A. Olujimi; Department of Applied Information Systems, College of Business and Economics, University of Johannesburg, Johannesburg, Auckland Park, Gauteng, 2006, South Africa; email: debolujimi@gmail.com
+ER  -
+

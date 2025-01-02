@@ -1,0 +1,440 @@
+﻿TY  - JOUR
+AU  - Deng, L
+AU  - Li, GQ
+AU  - Han, S
+AU  - Shi, LP
+AU  - Xie, Y
+TI  - Model Compression and Hardware Acceleration for Neural Networks: A Comprehensive Survey
+T2  - PROCEEDINGS OF THE IEEE
+LA  - English
+KW  - Neural networks
+KW  - Tensor decomposition
+KW  - Data quantization
+KW  - Acceleration
+KW  - Program processors
+KW  - Machine learning
+KW  - Task analysis
+KW  - Compact neural network
+KW  - data quantization
+KW  - neural network acceleration
+KW  - neural network compression
+KW  - sparse neural network
+KW  - tensor decomposition
+KW  - SINGULAR-VALUE DECOMPOSITION
+KW  - TENSOR DECOMPOSITIONS
+KW  - MEMORY
+KW  - TRAIN
+KW  - COMPUTATION
+KW  - ENERGY
+KW  - ARCHITECTURES
+KW  - PREDICTION
+KW  - ACCURACY
+KW  - CNN
+AB  - Domain-specific hardware is becoming a promising topic in the backdrop of improvement slow down for general-purpose processors due to the foreseeable end of Moore's Law. Machine learning, especially deep neural networks (DNNs), has become the most dazzling domain witnessing successful applications in a wide spectrum of artificial intelligence (AI) tasks. The incomparable accuracy of DNNs is achieved by paying the cost of hungry memory consumption and high computational complexity, which greatly impedes their deployment in embedded systems. Therefore, the DNN compression concept was naturally proposed and widely used for memory saving and compute acceleration. In the past few years, a tremendous number of compression techniques have sprung up to pursue a satisfactory tradeoff between processing efficiency and application accuracy. Recently, this wave has spread to the design of neural network accelerators for gaining extremely high performance. However, the amount of related works is incredibly huge and the reported approaches are quite divergent. This research chaos motivates us to provide a comprehensive survey on the recent advances toward the goal of efficient compression and execution of DNNs without significantly compromising accuracy, involving both the high-level algorithms and their applications in hardware design. In this article, we review the mainstream compression approaches such as compact model, tensor decomposition, data quantization, and network sparsification. We explain their compression principles, evaluation metrics, sensitivity analysis, and joint-way use. Then, we answer the question of how to leverage these methods in the design of neural network accelerators and present the state-of-the-art hardware architectures. In the end, we discuss several existing issues such as fair comparison, testing workloads, automatic compression, influence on security, and framework/hardware-level support, and give promising topics in this field and the possible challenges as well. This article attempts to enable readers to quickly build up a big picture of neural network compression and acceleration, clearly evaluate various methods, and confidently get started in the right way.
+AD  - Tsinghua Univ, Ctr Brain Inspired Comp Res, Dept Precis Instrument, Beijing 100084, Peoples R ChinaAD  - Univ Calif Santa Barbara, Dept Elect & Comp Engn, Santa Barbara, CA 93106 USAAD  - Tsinghua Univ, Beijing Innovat Ctr Future Chip, Beijing 100084, Peoples R ChinaAD  - MIT, Dept Elect Engn & Comp Sci, Cambridge, MA 02139 USAC3  - Tsinghua UniversityC3  - University of California SystemC3  - University of California Santa BarbaraC3  - Tsinghua UniversityC3  - Massachusetts Institute of Technology (MIT)FU  - National Science Foundation [1725447]; Beijing Academy of Artificial Intelligence (BAAI), Tsinghua University Initiative Scientific Research Program; Institute for Guo Qiang, Tsinghua University; Division of Computing and Communication Foundations; Direct For Computer & Info Scie & Enginr [1725447] Funding Source: National Science Foundation
+FX  - This work was supported in part by the National Science Foundation under Grant 1725447; in part by the Beijing Academy of Artificial Intelligence (BAAI), Tsinghua University Initiative Scientific Research Program; and in part by the grant from the Institute for Guo Qiang, Tsinghua University.
+PU  - IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI  - PISCATAWAY
+PA  - 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN  - 0018-9219
+SN  - 1558-2256
+J9  - P IEEE
+JI  - Proc. IEEE
+DA  - APR
+PY  - 2020
+VL  - 108
+IS  - 4
+SP  - 485
+EP  - 532
+DO  - 10.1109/JPROC.2020.2976475
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000528671200003
+N1  - Times Cited in Web of Science Core Collection:  509
+Total Times Cited:  559
+Cited Reference Count:  307
+ER  -
+
+TY  - JOUR
+AU  - Roberts, H
+AU  - Cowls, J
+AU  - Morley, J
+AU  - Taddeo, M
+AU  - Wang, VC
+AU  - Floridi, L
+TI  - The Chinese approach to artificial intelligence: an analysis of policy, ethics, and regulation
+T2  - AI & SOCIETY
+LA  - English
+KW  - Artificial intelligence
+KW  - China
+KW  - Cyber warfare
+KW  - Digital ethics
+KW  - Economic growth
+KW  - Governance
+KW  - Innovation
+KW  - International competition
+KW  - New Generation Artificial Intelligence Development Plan
+KW  - Policy
+KW  - Privacy
+KW  - Social governance
+KW  - HEALTH-CARE
+KW  - LAW
+KW  - GOVERNANCE
+KW  - LANDSCAPE
+KW  - POWER
+KW  - RULE
+AB  - In July 2017, China's State Council released the country's strategy for developing artificial intelligence (AI), entitled 'New Generation Artificial Intelligence Development Plan' ((sic)). This strategy outlined China's aims to become the world leader in AI by 2030, to monetise AI into a trillion-yuan (ca. 150 billion dollars) industry, and to emerge as the driving force in defining ethical norms and standards for AI. Several reports have analysed specific aspects of China's AI policies or have assessed the country's technical capabilities. Instead, in this article, we focus on the socio-political background and policy debates that are shaping China's AI strategy. In particular, we analyse the main strategic areas in which China is investing in AI and the concurrent ethical debates that are delimiting its use. By focusing on the policy backdrop, we seek to provide a more comprehensive and critical understanding of China's AI policy by bringing together debates and analyses of a wide array of policy documents.
+AD  - Univ Oxford, Oxford Internet Inst, 1 St Giles, Oxford OX1 3JS, EnglandAD  - British Lib, Alan Turing Inst, 96 Euston Rd, London NW1 2DB, EnglandAD  - Univ Oxford, Dept Comp Sci, 15 Parks Rd, Oxford OX1 3QD, EnglandC3  - University of OxfordC3  - University of OxfordPU  - SPRINGER
+PI  - NEW YORK
+PA  - ONE NEW YORK PLAZA, SUITE 4600, NEW YORK, NY, UNITED STATES
+SN  - 0951-5666
+SN  - 1435-5655
+J9  - AI SOC
+JI  - AI Soc.
+DA  - MAR
+PY  - 2021
+VL  - 36
+IS  - 1
+SP  - 59
+EP  - 77
+DO  - 10.1007/s00146-020-00992-2
+C6  - JUN 2020
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:000540941600001
+N1  - Times Cited in Web of Science Core Collection:  164
+Total Times Cited:  176
+Cited Reference Count:  165
+ER  -
+
+TY  - JOUR
+AU  - Mehonic, A
+AU  - Abu Sebastian
+AU  - Rajendran, B
+AU  - Simeone, O
+AU  - Vasilaki, E
+AU  - Kenyon, AJ
+TI  - Memristors-From In-Memory Computing, Deep Learning Acceleration, and Spiking Neural Networks to the Future of Neuromorphic and Bio-Inspired Computing
+T2  - ADVANCED INTELLIGENT SYSTEMS
+LA  - English
+KW  - deep learning
+KW  - in-memory computing
+KW  - memristors
+KW  - neuromorphic systems
+KW  - power-efficient artificial intelligence
+KW  - spiking neural networks
+KW  - COMPUTATION
+KW  - OPTIMIZATION
+KW  - ALGORITHMS
+KW  - RESISTANCE
+KW  - ACCURACY
+KW  - CIRCUIT
+KW  - NEURONS
+KW  - STATE
+KW  - OXIDE
+KW  - POWER
+AB  - Machine learning, particularly in the form of deep learning (DL), has driven most of the recent fundamental developments in artificial intelligence (AI). DL is based on computational models that are, to a certain extent, bio-inspired, as they rely on networks of connected simple computing units operating in parallel. The success of DL is supported by three factors: availability of vast amounts of data, continuous growth in computing power, and algorithmic innovations. The approaching demise of Moore's law, and the consequent expected modest improvements in computing power that can be achieved by scaling, raises the question of whether the progress will be slowed or halted due to hardware limitations. This article reviews the case for a novel beyond-complementary metal-oxide-semiconductor (CMOS) technology-memristors-as a potential solution for the implementation of power-efficient in-memory computing, DL accelerators, and spiking neural networks. Central themes are the reliance on non-von-Neumann computing architectures and the need for developing tailored learning and inference algorithms. To argue that lessons from biology can be useful in providing directions for further progress in AI, an example-based reservoir computing is briefly discussed. At the end, speculation is given on the "big picture" view of future neuromorphic and brain-inspired computing systems.
+AD  - UCL, Dept Elect & Elect Engn, Torrington Pl, London WC1E 7JE, EnglandAD  - IBM Res Europe, CH-8803 Zurich, SwitzerlandAD  - Kings Coll London, Dept Engn, London WC2R 2LS, EnglandAD  - Dept Comp Sci Univ Sheffield, Dept Comp Sci, Regent Court DCS 211 Portobello, Sheffield S1 4DP, S Yorkshire, EnglandC3  - University of LondonC3  - University College LondonC3  - University of LondonC3  - King's College LondonFU  - Royal Academy of Engineering; European Research Council (ERC) under the European Union's Horizon 2020 research and innovation program [682675, 725731]; IBM; Cisco; Google; Engineering and Physical Sciences Research Council (EPSRC)
+FX  - A.M. acknowledges funding and support from the Royal Academy of Engineering under the Research Fellowship scheme. A.S. acknowledges funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation program (grant agreement number 682675). B.R. acknowledges partial support from IBM and Cisco. O.S. acknowledges funding from the European Research Council (ERC) under the European Union Horizon 2020 research and innovation program (grant agreement 725731). E.V. would like to acknowledge a Google Faculty Research Award (2017). A.J.K. acknowledges funding from the Engineering and Physical Sciences Research Council (EPSRC).
+PU  - WILEY
+PI  - HOBOKEN
+PA  - 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN  - 2640-4567
+J9  - ADV INTELL SYST-GER
+JI  - Adv. Intell. Syst.
+DA  - NOV
+PY  - 2020
+VL  - 2
+IS  - 11
+C7  - 2000085
+DO  - 10.1002/aisy.202000085
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000669793800002
+N1  - Times Cited in Web of Science Core Collection:  157
+Total Times Cited:  161
+Cited Reference Count:  134
+ER  -
+
+TY  - JOUR
+AU  - Zheng, NN
+AU  - Du, SY
+AU  - Wang, JJ
+AU  - Zhang, H
+AU  - Cui, WT
+AU  - Kang, ZJ
+AU  - Yang, T
+AU  - Lou, B
+AU  - Chi, YT
+AU  - Long, H
+AU  - Ma, M
+AU  - Yuan, Q
+AU  - Zhang, SP
+AU  - Zhang, D
+AU  - Ye, F
+AU  - Xin, JM
+TI  - Predicting COVID-19 in China Using Hybrid AI Model
+T2  - IEEE TRANSACTIONS ON CYBERNETICS
+LA  - English
+KW  - Epidemics
+KW  - Viruses (medical)
+KW  - Predictive models
+KW  - Market research
+KW  - Analytical models
+KW  - Natural language processing
+KW  - Coronavirus disease 2019 (COVID-19) prediction
+KW  - epidemic model
+KW  - hybrid artificial-intelligence (AI) model
+KW  - natural language processing (NLP)
+KW  - OUTBREAK CONTROL
+KW  - EPIDEMIC MODEL
+KW  - EBOLA
+KW  - SEIR
+AB  - The coronavirus disease 2019 (COVID-19) breaking out in late December 2019 is gradually being controlled in China, but it is still spreading rapidly in many other countries and regions worldwide. It is urgent to conduct prediction research on the development and spread of the epidemic. In this article, a hybrid artificial-intelligence (AI) model is proposed for COVID-19 prediction. First, as traditional epidemic models treat all individuals with coronavirus as having the same infection rate, an improved susceptible-infected (ISI) model is proposed to estimate the variety of the infection rates for analyzing the transmission laws and development trend. Second, considering the effects of prevention and control measures and the increase of the public's prevention awareness, the natural language processing (NLP) module and the long short-term memory (LSTM) network are embedded into the ISI model to build the hybrid AI model for COVID-19 prediction. The experimental results on the epidemic data of several typical provinces and cities in China show that individuals with coronavirus have a higher infection rate within the third to eighth days after they were infected, which is more in line with the actual transmission laws of the epidemic. Moreover, compared with the traditional epidemic models, the proposed hybrid AI model can significantly reduce the errors of the prediction results and obtain the mean absolute percentage errors (MAPEs) with 0.52%, 0.38%, 0.05%, and 0.86% for the next six days in Wuhan, Beijing, Shanghai, and countrywide, respectively.
+AD  - Xi An Jiao Tong Univ, Inst Artificial Intelligence & Robot, Xian 710049, Peoples R ChinaAD  - Xi An Jiao Tong Univ, Sch Software, Xian 710049, Peoples R ChinaAD  - Xi An Jiao Tong Univ, Affiliated Hosp 1, Infect Dept, Xian 710061, Peoples R ChinaC3  - Xi'an Jiaotong UniversityC3  - Xi'an Jiaotong UniversityC3  - Xi'an Jiaotong UniversityFU  - National Key Research and Development Program of China [2016YFB1000900]
+FX  - This work was supported by the National Key Research and Development Program of China under Grant 2016YFB1000900. This article was recommended by Associate Editor J. Han.
+PU  - IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI  - PISCATAWAY
+PA  - 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN  - 2168-2267
+SN  - 2168-2275
+J9  - IEEE T CYBERNETICS
+JI  - IEEE T. Cybern.
+DA  - JUL
+PY  - 2020
+VL  - 50
+IS  - 7
+SP  - 2891
+EP  - 2904
+DO  - 10.1109/TCYB.2020.2990162
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000544035300001
+N1  - Times Cited in Web of Science Core Collection:  142
+Total Times Cited:  150
+Cited Reference Count:  38
+ER  -
+
+TY  - JOUR
+AU  - Wang, RP
+AU  - Yang, JQ
+AU  - Mao, JY
+AU  - Wang, ZP
+AU  - Wu, S
+AU  - Zhou, MJ
+AU  - Chen, TY
+AU  - Zhou, Y
+AU  - Han, ST
+TI  - Recent Advances of Volatile Memristors: Devices, Mechanisms, and Applications
+T2  - ADVANCED INTELLIGENT SYSTEMS
+LA  - English
+KW  - functional materials
+KW  - neuromorphic computing
+KW  - switching mechanism
+KW  - temporal response
+KW  - volatile memristors
+KW  - RANDOM NUMBER GENERATOR
+KW  - SYNAPTIC PLASTICITY
+KW  - RESISTIVE MEMORY
+KW  - NEURAL-NETWORKS
+KW  - MOORES LAW
+KW  - SYNAPSES
+KW  - CHALLENGES
+KW  - SELECTOR
+KW  - INTEGRATION
+KW  - OSCILLATOR
+AB  - Due to the rapid development of artificial intelligence (AI) and internet of things (IoTs), neuromorphic computing and hardware security are becoming more and more important. The volatile memristors, which feature spontaneous decay of device conductance, own the distinct combination of high similarity to the biological neurons and synapses and unique physical mechanisms. They are excellent candidates for mimicking the synaptic functions and ideal randomness source of the entropy for hardware-based security. Herein, the recent advances of volatile memristors in devices, mechanisms, and application aspects are summarized. First, a brief introduction is presented to describe the switching type, materials, and temporal response of volatile memristors. Second, the volatile switching mechanisms are discussed and grouped into ion effects, thermal effects, and electrical effects. Third, attention is focused on the applications of volatile memristors for access devices, neuromorphic computing (artificial neurons and synapses), and hardware security (true random number generators and physical unclonable functions). Finally, major challenges and future outlook of volatile memristors for neuromorphic computing and hardware security are discussed.
+AD  - Shenzhen Univ, Coll Elect & Informat Engn, Shenzhen 518060, Peoples R ChinaAD  - Shenzhen Univ, Inst Microscale Optoelect, Shenzhen 518060, Peoples R ChinaAD  - Shenzhen Univ, Inst Adv Study, Shenzhen 518060, Peoples R ChinaC3  - Shenzhen UniversityC3  - Shenzhen UniversityC3  - Shenzhen UniversityFU  - Natural Science Foundation of China [61974093]; Guangdong Natural Science Funds for Distinguished Young Scholar [2018B030306028]; Guangdong Province Special Support Plan for High-Level Talents [2017TQ04X082]; Science and Technology Innovation Commission of Shenzhen [JCYJ20180507182042530, JCYJ20180507182000722]; Natural Science Foundation of SZU [860-000002110420]
+FX  - The authors acknowledge the grants from Natural Science Foundation of China (grant no. 61974093), Guangdong Natural Science Funds for Distinguished Young Scholar (grant no. 2018B030306028), Guangdong Province Special Support Plan for High-Level Talents (grant no. 2017TQ04X082), the Science and Technology Innovation Commission of Shenzhen (grant nos. JCYJ20180507182042530 and JCYJ20180507182000722), and the Natural Science Foundation of SZU (grant no. 860-000002110420).
+PU  - WILEY
+PI  - HOBOKEN
+PA  - 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN  - 2640-4567
+J9  - ADV INTELL SYST-GER
+JI  - Adv. Intell. Syst.
+DA  - SEP
+PY  - 2020
+VL  - 2
+IS  - 9
+C7  - 2000055
+DO  - 10.1002/aisy.202000055
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000669785300004
+N1  - Times Cited in Web of Science Core Collection:  137
+Total Times Cited:  139
+Cited Reference Count:  128
+ER  -
+
+TY  - CPAPER
+AU  - Wieringa, M
+A1  - Assoc Comp Machinery
+TI  - What to account for when accounting for algorithms A systematic literature review on algorithmic accountability
+T2  - FAT* '20: PROCEEDINGS OF THE 2020 CONFERENCE ON FAIRNESS, ACCOUNTABILITY, AND TRANSPARENCY
+LA  - English
+CP  - ACM Conference on Fairness, Accountability, and Transparency (FAT)
+KW  - Algorithmic accountability
+KW  - algorithmic systems
+KW  - data-driven governance
+KW  - accountability theory
+KW  - BIG DATA
+KW  - ARTIFICIAL-INTELLIGENCE
+KW  - GOVERNANCE
+KW  - ETHICS
+KW  - MODEL
+KW  - POWER
+AB  - As research on algorithms and their impact proliferates, so do calls for scrutiny/accountability of algorithms. A systematic review of the work that has been done in the field of 'algorithmic accountability' has so far been lacking. This contribution puts forth such a systematic review, following the PRISMA statement. 242 English articles from the period 2008 up to and including 2018 were collected and extracted from Web of Science and SCOPUS, using a recursive query design coupled with computational methods. The 242 articles were prioritized and ordered using affinity mapping, resulting in 93 'core articles' which are presented in this contribution. The recursive search strategy made it possible to look beyond the term 'algorithmic accountability'. That is, the query also included terms closely connected to the theme (e.g. ethics and AI, regulation of algorithms). This approach allows for a perspective not just from critical algorithm studies, but an interdisciplinary overview drawing on material from data studies to law, and from computer science to governance studies. To structure the material, Bovens's widely accepted definition of accountability serves as a focal point. The material is analyzed on the five points Bovens identified as integral to accountability: its arguments on (1) the actor, (2) the forum, (3) the relationship between the two, (3) the content and criteria of the account, and finally (5) the consequences which may result from the account. The review makes three contributions. First, an integration of accountability theory in the algorithmic accountability discussion. Second, a cross-sectoral overview of the that same discussion viewed in light of accountability theory which pays extra attention to accountability risks in algorithmic systems. Lastly, it provides a definition of algorithmic accountability based on accountability theory and algorithmic accountability literature.
+AD  - Univ Utrecht, Datafied Soc, Utrecht, NetherlandsC3  - Utrecht UniversityPU  - ASSOC COMPUTING MACHINERY
+PI  - NEW YORK
+PA  - 1601 Broadway, 10th Floor, NEW YORK, NY, UNITED STATES
+SN  - 978-1-4503-6936-7
+PY  - 2020
+SP  - 1
+EP  - 18
+DO  - 10.1145/3351095.3372833
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)WE  - Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)AN  - WOS:000620151400016
+N1  - Times Cited in Web of Science Core Collection:  134
+Total Times Cited:  141
+Cited Reference Count:  139
+ER  -
+
+TY  - JOUR
+AU  - Schepman, A
+AU  - Rodway, P
+TI  - Initial validation of the general attitudes towards Artificial Intelligence Scale
+T2  - COMPUTERS IN HUMAN BEHAVIOR REPORTS
+LA  - English
+KW  - Artificial intelligence
+KW  - Psychometrics
+KW  - Questionnaire
+KW  - Index
+KW  - Attitudes
+KW  - Perception
+KW  - TECHNOLOGY READINESS
+KW  - ACCEPTANCE
+KW  - FUTURE
+AB  - A new General Attitudes towards Artificial Intelligence Scale (GAAIS) was developed. The scale underwent initial statistical validation via Exploratory Factor Analysis, which identified positive and negative subscales. Both subscales captured emotions in line with their valence. In addition, the positive subscale reflected societal and personal utility, whereas the negative subscale reflected concerns. The scale showed good psychometric indices and convergent and discriminant validity against existing measures. To cross-validate general attitudes with attitudes towards specific instances of AI applications, summaries of tasks accomplished by specific applications of Artificial Intelligence were sourced from newspaper articles. These were rated for comfortableness and perceived capability. Comfortableness with specific applications was a strong predictor of general attitudes as measured by the GAAIS, but perceived capability was a weaker predictor. Participants viewed AI applications involving big data (e.g. astronomy, law, pharmacology) positively, but viewed applications for tasks involving human judgement, (e.g. medical treatment, psychological counselling) negatively. Applications with a strong ethical dimension led to stronger discomfort than their rated capabilities would predict. The survey data suggested that people held mixed views of AI. The initially validated two-factor GAAIS to measure General Attitudes towards Artificial Intelligence is included in the Appendix.
+AD  - Univ Chester, Sch Psychol, Parkgate Rd, Chester CH1 4BJ, Cheshire, EnglandC3  - University of ChesterPU  - ELSEVIER
+PI  - AMSTERDAM
+PA  - RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN  - 2451-9588
+J9  - COMPUT HUM BEHAV REP
+JI  - Comput. Hum. Behav. Rep.
+DA  - JAN-JUL
+PY  - 2020
+VL  - 1
+C7  - 100014
+DO  - 10.1016/j.chbr.2020.100014
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001035410400006
+N1  - Times Cited in Web of Science Core Collection:  133
+Total Times Cited:  143
+Cited Reference Count:  37
+ER  -
+
+TY  - JOUR
+AU  - Qian, JP
+AU  - Ruiz-Garcia, L
+AU  - Fan, BL
+AU  - Villalba, JIR
+AU  - McCarthy, U
+AU  - Zhang, BH
+AU  - Yu, QY
+AU  - Wu, WB
+TI  - Food traceability system from governmental, corporate, and consumer perspectives in the European Union and China: A comparative review
+T2  - TRENDS IN FOOD SCIENCE & TECHNOLOGY
+LA  - English
+KW  - Traceability
+KW  - Traceability system
+KW  - Food safety
+KW  - Artificial intelligence
+KW  - Blockchain
+KW  - EU
+KW  - China
+KW  - DATA-ACQUISITION SYSTEM
+KW  - COUNTRY-OF-ORIGIN
+KW  - SUPPLY CHAIN
+KW  - IMPLEMENTING TRACEABILITY
+KW  - PURCHASE INTENTIONS
+KW  - COLD CHAIN
+KW  - SAFETY
+KW  - PRODUCTS
+KW  - FIELD
+KW  - FRAMEWORK
+AB  - Background: Food safety has garnered much worldwide attention recently for reasons that are, unfortunately, not always positive. Traceability system (TS) is designed to assure safe and good quality food, while reducing the costs of food recalls. It should encompass all stakeholders, including governments, companies, and consumers, each of whom has an important role in the implementation and guardianship of such systems. The EU and China are amongst the main players implementing TS and are constantly exploring new opportunities and monitoring challenges for TS in a time of shifting consumer demands and rapid new technology innovation.
+   Scope and approach: This article states development stages from TS 1.0 to 3.0. and reviews TS development in a number of key countries and regions. Comparisons between the EU and China are drawn in terms of government, corporate, and consumer involvement in traceability.
+   Key findings and conclusions: A functional TS, while providing bi-directional communication between trading partners, must meet the laws and regulations where it operates. A functional system must also consider consumer value and perception, which varies with geography. There are a variety of promising technologies available on the market today to modernize TS, including artificial intelligence (AI) and blockchain. A key finding of this research is that both the EU and China have developed significant trade links in recent years which will certainly positively impact both economies. Key to underpinning the sustainability of these trade links will be the adoption of common TS to prevent negative associations.
+AD  - Chinese Acad Agr Sci, Minist Agr & Rural Affairs, Inst Agr Resources & Reg Planning, Key Lab Agr Remote Sensing AGRIRS, Beijing 100081, Peoples R ChinaAD  - Univ Politecn Madrid, Dept Agroforestry Engn, Av Complutense S-N, E-28040 Madrid, SpainAD  - CSIC, CENIM, Ctr Nacl Invest Met, Ave Gregorio del Amo 8, Madrid 28040, SpainAD  - Waterford Inst Technol, Dept Sci, Sch Sci & Comp, Waterford, IrelandC3  - Ministry of Agriculture & Rural AffairsC3  - Chinese Academy of Agricultural SciencesC3  - Institute of Agricultural Resources & Regional Planning, CAASC3  - Universidad Politecnica de MadridC3  - Consejo Superior de Investigaciones Cientificas (CSIC)C3  - Centro Nacional de Investigaciones Metalurgicas (CENIM)C3  - South East Technological University (SETU)FU  - National Natural Science Foundation of China [31671593]; Agricultural Science and Technology Innovation Program Elite Youth Mission [CAAS 2060302-05-962-3]; Science Foundation Ireland (SFI) [16/IFB/4439]; Science Foundation Ireland (SFI) [16/IFB/4439] Funding Source: Science Foundation Ireland (SFI)
+FX  - This work was funded by the National Natural Science Foundation of China (31671593) and the Agricultural Science and Technology Innovation Program Elite Youth Mission (CAAS 2060302-05-962-3). Also, this publication has emanated from research supported in part by a research grant from Science Foundation Ireland (SFI) under Grant Number 16/IFB/4439.
+PU  - ELSEVIER SCIENCE LONDON
+PI  - LONDON
+PA  - 84 THEOBALDS RD, LONDON WC1X 8RR, ENGLAND
+SN  - 0924-2244
+SN  - 1879-3053
+J9  - TRENDS FOOD SCI TECH
+JI  - Trends Food Sci. Technol.
+DA  - MAY
+PY  - 2020
+VL  - 99
+SP  - 402
+EP  - 412
+DO  - 10.1016/j.tifs.2020.03.025
+WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:000526719400032
+N1  - Times Cited in Web of Science Core Collection:  110
+Total Times Cited:  115
+Cited Reference Count:  123
+ER  -
+
+TY  - CPAPER
+AU  - Bietti, E
+A1  - Assoc Comp Machinery
+TI  - From Ethics Washing to Ethics Bashing A View on Tech Ethics from Within Moral Philosophy
+T2  - FAT* '20: PROCEEDINGS OF THE 2020 CONFERENCE ON FAIRNESS, ACCOUNTABILITY, AND TRANSPARENCY
+LA  - English
+CP  - ACM Conference on Fairness, Accountability, and Transparency (FAT)
+KW  - Moral Philosophy
+KW  - Ethics
+KW  - Technology Ethics
+KW  - Regulation
+KW  - Self-regulation
+KW  - Technology Law
+KW  - AI
+AB  - The word 'ethics' is under siege in technology policy circles. Weaponized in support of deregulation, self-regulation or hands-off governance, "ethics" is increasingly identified with technology companies' self-regulatory efforts and with shallow appearances of ethical behavior. So-called "ethics washing" by tech companies is on the rise, prompting criticism and scrutiny from scholars and the tech community at large. In parallel to the growth of ethics washing, its condemnation has led to a tendency to engage in "ethics bashing." This consists in the trivialization of ethics and moral philosophy now understood as discrete tools or pre-formed social structures such as ethics boards, self-governance schemes or stakeholder groups.
+   The misunderstandings underlying ethics bashing are at least threefold: (a) philosophy and "ethics" are seen as a communications strategy and as a form of instrumentalized cover-up or facade for unethical behavior, (b) philosophy is understood in opposition and as alternative to political representation and social organizing and (c) the role and importance of moral philosophy is downplayed and portrayed as mere "ivory tower" intellectualization of complex problems that need to be dealt with in practice.
+   This paper argues that the rhetoric of ethics and morality should not be reductively instrumentalized, either by the industry in the form of "ethics washing," or by scholars and policy-makers in the form of "ethics bashing." Grappling with the role of philosophy and ethics requires moving beyond both tendencies and seeing ethics as a mode of inquiry that facilitates the evaluation of competing tech policy strategies. In other words, we must resist narrow reductivism of moral philosophy as instrumentalized performance and renew our faith in its intrinsic moral value as a mode of knowled-geseeking and inquiry. Far from mandating a self-regulatory scheme or a given governance structure, moral philosophy in fact facilitates the questioning and reconsideration of any given practice, situating it within a complex web of legal, political and economic institutions. Moral philosophy indeed can shed new light on human practices by adding needed perspective, explaining the relationship between technology and other worthy goals, situating technology within the human, the social, the political. It has become urgent to start considering technology ethics also from within and not only from outside of ethics.
+AD  - Harvard Law Sch, Cambridge, MA 02138 USAC3  - Harvard UniversityPU  - ASSOC COMPUTING MACHINERY
+PI  - NEW YORK
+PA  - 1601 Broadway, 10th Floor, NEW YORK, NY, UNITED STATES
+SN  - 978-1-4503-6936-7
+PY  - 2020
+SP  - 210
+EP  - 219
+DO  - 10.1145/3351095.3372860
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)WE  - Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)AN  - WOS:000620151400035
+N1  - Times Cited in Web of Science Core Collection:  103
+Total Times Cited:  106
+Cited Reference Count:  27
+ER  -
+
+TY  - JOUR
+AU  - Rességuier, A
+AU  - Rodrigues, R
+TI  - <i>AI ethics should not remain toothless!</i> A call to bring back the teeth of ethics
+T2  - BIG DATA & SOCIETY
+LA  - English
+KW  - AI ethics
+KW  - law of AI
+KW  - regulation of AI
+KW  - ethics washing
+KW  - EU HLEG on AI
+KW  - ethical principles
+AB  - Ethics has powerful teeth, but these are barely being used in the ethics of AI today - it is no wonder the ethics of AI is then blamed for having no teeth. This article argues that 'ethics' in the current AI ethics field is largely ineffective, trapped in an 'ethical principles' approach and as such particularly prone to manipulation, especially by industry actors. Using ethics as a substitute for law risks its abuse and misuse. This significantly limits what ethics can achieve and is a great loss to the AI field and its impacts on individuals and society. This article discusses these risks and then highlights the teeth of ethics and the essential value they can - and should - bring to AI ethics now.
+AD  - Trilateral Res Ltd, Marine Point,2nd Floor, Belview Port X91 W0XW, Waterford, IrelandAD  - Trilateral Res Ltd, London, EnglandFU  - European Union [741716]
+FX  - The author(s) disclosed receipt of the following financial support for the research, authorship, and/or publication of this article: This article was developed as part of the SIENNA project (Stakeholder-informed ethics for new technologies with high socio-economic and human rights impact) which has received funding under the European Union's H2020 research and innovation programme under grant agreement No 741716.
+PU  - SAGE PUBLICATIONS INC
+PI  - THOUSAND OAKS
+PA  - 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN  - 2053-9517
+J9  - BIG DATA SOC
+JI  - Big Data Soc.
+DA  - JUL
+PY  - 2020
+VL  - 7
+IS  - 2
+C7  - 2053951720942541
+DO  - 10.1177/2053951720942541
+WE  - Social Science Citation Index (SSCI)AN  - WOS:000619925600001
+N1  - Times Cited in Web of Science Core Collection:  88
+Total Times Cited:  92
+Cited Reference Count:  20
+ER  -
+

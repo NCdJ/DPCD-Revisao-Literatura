@@ -1,0 +1,40 @@
+﻿TY  - CPAPER
+AU  - Varma, S
+AU  - Shivam, S
+AU  - Natarajan, S
+AU  - Biswas, S
+AU  - Gupta, J
+ED  - Arai, K
+TI  - Taking Natural Language Generation and Information Extraction to Domain Specific Tasks
+T2  - INTELLIGENT SYSTEMS AND APPLICATIONS, VOL 3, INTELLISYS 2023
+LA  - English
+CP  - Intelligent Systems Conference (IntelliSys)
+KW  - Natural language generation
+KW  - Information extraction
+KW  - Text simplification
+KW  - Text summarization
+KW  - Named entity recognition
+KW  - Content automation
+KW  - Custom rule-based parsing
+KW  - Domain tasks
+KW  - NAMED ENTITY RECOGNITION
+AB  - A lot of domain-specific unstructured data is available at present. To make them available to common users, domain experts often have to extract the key points and convert them to layman's terms manually. For domains like legal, documents are often needed to be manually analyzed in order to check if all the critical information is present in them and to extract the important points if needed. All these manual domain-specific tasks can be automated with the help of different Natural Language Processing (NLP) and Natural Language Generation (NLG) techniques. In this paper, some of the tools in NLP and NLG that can be used to automate the above-mentioned processes for key information extraction are discussed. We also bring forth two such domain-specific use cases where we attempt to provide suggestions to the subject experts to make their tasks easier using the tools discussed.
+AD  - ZS Associates Pune, Pune, Maharashtra, IndiaPU  - SPRINGER INTERNATIONAL PUBLISHING AG
+PI  - CHAM
+PA  - GEWERBESTRASSE 11, CHAM, CH-6330, SWITZERLAND
+SN  - 2367-3370
+SN  - 2367-3389
+SN  - 978-3-031-47714-0
+SN  - 978-3-031-47715-7
+J9  - LECT NOTE NETW SYST
+PY  - 2024
+VL  - 824
+SP  - 713
+EP  - 728
+DO  - 10.1007/978-3-031-47715-7_48
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:001261693800048
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  27
+ER  -
+

@@ -1,0 +1,322 @@
+﻿TY  - CPAPER
+AU  - Hashemi, M
+AU  - Swersky, K
+AU  - Smith, JA
+AU  - Ayers, G
+AU  - Litz, H
+AU  - Chang, JCA
+AU  - Kozyrakis, C
+AU  - Ranganathan, P
+ED  - Dy, J
+ED  - Krause, A
+TI  - Learning Memory Access Patterns
+T2  - INTERNATIONAL CONFERENCE ON MACHINE LEARNING, VOL 80
+LA  - English
+CP  - 35th International Conference on Machine Learning (ICML)
+AB  - The explosion in workload complexity and the recent slow-down in Moore's law scaling call for new approaches towards efficient computing. Researchers are now beginning to use recent advances in machine learning in software optimizations, augmenting or replacing traditional heuristics and data structures. However, the space of machine learning for computer hardware architecture is only lightly explored. In this paper, we demonstrate the potential of deep learning to address the von Neumann bottleneck of memory performance. We focus on the critical problem of learning memory access patterns, with the goal of constructing accurate and efficient memory prefetchers. We relate contemporary prefetching strategies to n-gram models in natural language processing, and show how recurrent neural networks can serve as a drop-in replacement. On a suite of challenging benchmark datasets, we find that neural networks consistently demonstrate superior performance in terms of precision and recall. This work represents the first step towards practical neural-network based prefetching, and opens a wide range of exciting directions for machine learning in computer architecture research.
+AD  - Google, Mountain View, CA 94043 USAAD  - Stanford Univ, Stanford, CA 94305 USAAD  - Univ Calif Santa Cruz, Santa Cruz, CA 95064 USAC3  - Google IncorporatedC3  - Stanford UniversityC3  - University of California SystemC3  - University of California Santa CruzPU  - JMLR-JOURNAL MACHINE LEARNING RESEARCH
+PI  - SAN DIEGO
+PA  - 1269 LAW ST, SAN DIEGO, CA, UNITED STATES
+SN  - 2640-3498
+J9  - PR MACH LEARN RES
+PY  - 2018
+VL  - 80
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000683379202003
+N1  - Times Cited in Web of Science Core Collection:  70
+Total Times Cited:  70
+Cited Reference Count:  51
+ER  -
+
+TY  - JOUR
+AU  - Levendowski, A
+TI  - HOW COPYRIGHT LAW CAN FIX ARTIFICIAL INTELLIGENCE'S IMPLICIT BIAS PROBLEM
+T2  - WASHINGTON LAW REVIEW
+LA  - English
+KW  - FAIR
+KW  - POWER
+KW  - COPY
+AB  - As the use of artificial intelligence (AI) continues to spread, we have seen an increase in examples of AI systems reflecting or exacerbating societal bias, from racist facial recognition to sexist natural language processing. These biases threaten to overshadow AI's technological gains and potential benefits. While legal and computer science scholars have analyzed many sources of bias, including the unexamined assumptions of its often homogenous creators, flawed algorithms, and incomplete datasets, the role of the law itself has been largely ignored. Yet just as code and culture play significant roles in how AI agents learn about and act in the world, so too do the laws that govern them. This Article is the first to examine perhaps the most powerful law impacting AI bias: copyright.
+   Artificial intelligence often learns to "think" by reading, viewing, and listening to copies of human works. This Article first explores the problem of bias through the lens of copyright doctrine, looking at how the law's exclusion of access to certain copyrighted source materials may create or promote biased Al systems. Copyright law limits bias mitigation techniques, such as testing AI through reverse engineering, algorithmic accountability processes, and competing to convert customers. The rules of copyright law also privilege access to certain works over others, encouraging AI creators to use easily available, legally low-risk sources of data for teaching AI, even when those data are demonstrably biased. Second, it examines how a different part of copyright law the fair use doctrine has traditionally been used to address similar concerns in other technological fields, and asks whether it is equally capable of addressing them in the field of AI bias. The Article ultimately concludes that it is, in large part because the normative values embedded within traditional fair use ultimately align with the goals of mitigating Al bias and, quite literally, creating fairer AI systems.
+AD  - NYU, Sch Law, New York, NY 10003 USAAD  - NYU, Informat Law Inst, New York, NY 10003 USAC3  - New York UniversityC3  - New York UniversityFU  - NYU Lawyering Scholarship Colloquium
+FX  - Technology Law and Policy Clinical Teaching Fellow, New York University School of Law and Research Fellow, NYU Information Law Institute. Thanks to Solon Barocas, Barton Beebe, Ilya Beylin, Kiel Brennan-Marquez, Miles Brundage, Ryan Calo, Rochelle Dreyfuss, Seth Endo, Jeanne Fromer, Gautam Hans, Anne Hassett, H. Brian Holland, Sonia Katyal, Craig Konnoth, Karen Levy, Tiffany Li, Richard Loren Jolly, Laurel Reik, Zvi Rosen, Jason Schultz, Scott Skinner-Thompson, Naomi Sunshine, Chris Sprig-man, Eva Subotnik, Ari Waldman, Clinton Wallace, Rebecca Wexler, Felix Wu, and Cameron Tepski for their thoughtful observations and suggestions. Rachel Brooke provided stellar research assistance. Thanks also to the editors of the Washington Law Review for their insightful recommendations. I am also grateful to the organizers and participants of the 2017 Works-in-Progress in Intellectual Property Colloquium, the NYU Lawyering Scholarship Colloquium, We Robot 2017, the NYU Law Engelberg Center Faculty Workshop, the Intellectual Property Scholars Conference, and the Shefelman Faculty Workshop at the University of Washington, where I presented drafts of this paper. The NYU Technology Law and Policy Clinic filed amicus briefs in several cases discussed in this Article, and I previously worked for firms involved with other cases. Any discussion is based on public information and all views expressed are my own.
+PU  - UNIV WASHINGTON SCHOOL OF LAW
+PI  - SEATTLE
+PA  - WASHINGTON LAW REVIEW 1100 NE CAMPUS PARKWAY 410 CONDON HALL, SEATTLE, WA 98105 USA
+SN  - 0043-0617
+J9  - WASH LAW REV
+JI  - Wash. Law Rev.
+DA  - JUN
+PY  - 2018
+VL  - 93
+IS  - 2
+SP  - 579
+EP  - 630
+WE  - Social Science Citation Index (SSCI)AN  - WOS:000445990600001
+N1  - Times Cited in Web of Science Core Collection:  51
+Total Times Cited:  56
+Cited Reference Count:  206
+ER  -
+
+TY  - CPAPER
+AU  - De Araujo, PHL
+AU  - De Campos, TE
+AU  - De Oliveira, RRR
+AU  - Stauffer, M
+AU  - Couto, S
+AU  - Bermejo, P
+ED  - Villavicencio, A
+ED  - Moreira, V
+ED  - Abad, A
+ED  - Caseli, H
+ED  - Gamallo, P
+ED  - Ramisch, C
+ED  - Oliveira, HG
+ED  - Paetzold, GH
+TI  - LeNER-Br: A Dataset for Named Entity Recognition in Brazilian Legal Text
+T2  - COMPUTATIONAL PROCESSING OF THE PORTUGUESE LANGUAGE, PROPOR 2018
+LA  - English
+CP  - 13th International Conference on Computational Processing of Portuguese (PROPOR)
+KW  - Named entity recognition
+KW  - Natural language processing
+KW  - Portuguese processing
+AB  - Named entity recognition systems have the untapped potential to extract information from legal documents, which can improve information retrieval and decision-making processes. In this paper, a dataset for named entity recognition in Brazilian legal documents is presented. Unlike other Portuguese language datasets, this dataset is composed entirely of legal documents. In addition to tags for persons, locations, time entities and organizations, the dataset contains specific tags for law and legal cases entities. To establish a set of baseline results, we first performed experiments on another Portuguese dataset: Paramopama. This evaluation demonstrate that LSTM-CRF gives results that are significantly better than those previously reported. We then retrained LSTM-CRF, on our dataset and obtained F-1 scores of 97.04% and 88.82% for Legislation and Legal case entities, respectively. These results show the viability of the proposed dataset for legal applications.
+AD  - Univ Brasilia UnB, R&D Ctr Excellence & Publ Sect Transformat NEXT, Brasilia, DF, BrazilAD  - Univ Brasilia, Dept Comp Sci, Brasilia, DF, BrazilC3  - Universidade de BrasiliaC3  - Universidade de BrasiliaFU  - Projeto de Pesquisa& Desenvolvimento de aprendizado de maquina (machine learning) sobre dados judiciais das repercussoes gerais do Supremo Tribunal Federal -STF
+FX  - TEdC acknowledges the support of "Projeto de Pesquisa& Desenvolvimento de aprendizado de maquina (machine learning) sobre dados judiciais das repercussoes gerais do Supremo Tribunal Federal -STF".
+PU  - SPRINGER INTERNATIONAL PUBLISHING AG
+PI  - CHAM
+PA  - GEWERBESTRASSE 11, CHAM, CH-6330, SWITZERLAND
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 978-3-319-99722-3
+SN  - 978-3-319-99721-6
+J9  - LECT NOTES ARTIF INT
+PY  - 2018
+VL  - 11122
+SP  - 313
+EP  - 323
+DO  - 10.1007/978-3-319-99722-3_32
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)WE  - Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)AN  - WOS:000788007400032
+N1  - Times Cited in Web of Science Core Collection:  32
+Total Times Cited:  34
+Cited Reference Count:  24
+ER  -
+
+TY  - CPAPER
+AU  - Undavia, S
+AU  - Meyers, A
+AU  - Ortega, JE
+ED  - Ganzha, M
+ED  - Maciaszek, L
+ED  - Paprzycki, M
+TI  - A Comparative Study of Classifying Legal Documents with Neural Networks
+T2  - PROCEEDINGS OF THE 2018 FEDERATED CONFERENCE ON COMPUTER SCIENCE AND INFORMATION SYSTEMS (FEDCSIS)
+LA  - English
+CP  - Federated Conference on Computer Science and Information Systems (FedCSIS)
+AB  - In recent years, deep learning has shown promising results when used in the field of natural language processing (NLP). Neural networks (NNs) such as convolutional neural networks (CNNs) and recurrent neural networks (RNNs) have been used for various NLP tasks including sentiment analysis, information retrieval, and document classification. In this paper, we the present the Supreme Court Classifier (SCC), a system that applies these methods to the problem of document classification of legal court opinions. We compare methods using traditional machine learning with recent NN-based methods. We also present a CNN used with pre-trained word vectors which shows improvements over the state-of-the-art applied to our dataset. We train and evaluate our system using the Washington University School of Law Supreme Court Database (SCDB). Our best system (word2vec + CNN) achieves 72.4% accuracy when classifying the court decisions into 15 broad SCDB categories and 31.9% accuracy when classifying among 279 liner-grained SCDB categories.
+AD  - NYU, 60 5th Ave, New York, NY 10011 USAC3  - New York UniversityPU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 2325-0348
+SN  - 978-8-3949-4195-6
+J9  - FED CONF COMPUT SCI
+PY  - 2018
+SP  - 515
+EP  - 522
+DO  - 10.15439/2018F227
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000454652300075
+N1  - Times Cited in Web of Science Core Collection:  28
+Total Times Cited:  28
+Cited Reference Count:  25
+ER  -
+
+TY  - JOUR
+AU  - Livermore, MA
+AU  - Eidelman, V
+AU  - Grom, B
+TI  - COMPUTATIONALLY ASSISTED REGULATORY PARTICIPATION
+T2  - NOTRE DAME LAW REVIEW
+LA  - English
+KW  - COST-BENEFIT-ANALYSIS
+KW  - PUBLIC-PARTICIPATION
+KW  - E-RULEMAKING
+KW  - ADMINISTRATIVE-LAW
+KW  - INDEPENDENT AGENCIES
+KW  - DIVIDED GOVERNMENT
+KW  - POLITICAL CONTROL
+KW  - UNITED-STATES
+KW  - POLICY
+KW  - CAPTURE
+AB  - With the increased politicization of agency rulemaking and the reduced cost of participating in the notice-and-comment rulemaking process, administrative agencies have, in recent years, found themselves deluged in a flood of public comments. In this Article, we argue that this deluge presents both challenges and opportunities, and we explore how advances in natural language processing technologies can help agencies address the challenges and take advantage of the opportunities created by the recent growth of public participation in the regulatory process. We also examine how scholars of public bureaucracies can use this important new publicly available data to better understand how agencies interact with the public. To illustrate the value of these new tools, we carry out computational text analysis of nearly three million public comments that were received by administrative agencies over the course of the Obama administration. Our findings indicate that advances in natural language processing technology show great promise for both researchers and policymakers who are interested in understanding, and improving, regulatory decision-making.
+AD  - Univ Virginia, Sch Law, Charlottesville, VA 22903 USAAD  - FiscalNote, Res, Princeton, NJ USAAD  - FiscalNote, Princeton, NJ USAC3  - University of VirginiaPU  - NOTRE DAME LAW SCHOOL
+PI  - NOTRE DAME
+PA  - NOTRE DAME LAW SCHOOL, ROOM B1, NOTRE DAME, IN 46556 USA
+SN  - 0745-3515
+J9  - NOTRE DAME LAW REV
+JI  - Notre Dame Law Rev.
+PY  - 2018
+VL  - 93
+IS  - 3
+SP  - 977
+EP  - 1034
+WE  - Social Science Citation Index (SSCI)AN  - WOS:000435744100002
+N1  - Times Cited in Web of Science Core Collection:  23
+Total Times Cited:  24
+Cited Reference Count:  182
+ER  -
+
+TY  - CPAPER
+AU  - Glaser, I
+AU  - Scepankova, E
+AU  - Matthes, F
+ED  - Palmirani, M
+TI  - Classifying Semantic Types of Legal Sentences: Portability of Machine Learning Models
+T2  - LEGAL KNOWLEDGE AND INFORMATION SYSTEMS (JURIX 2018)
+LA  - English
+CP  - 31st International Conference on Legal Knowledge and Information Systems (JURIX)
+KW  - legal sentence classification
+KW  - portability of machine learning models
+KW  - natural language processing
+KW  - text mining
+KW  - CLASSIFICATION
+AB  - Legal contract analysis is an important research area. The classification of clauses or sentences enables valuable insights such as the extraction of rights and obligations. However, datasets consisting of contracts are quite rare, particularly regarding German language.
+   Therefore this paper experiments the portability of machine learning (ML) models with regard to different document types. We trained different ML classifiers on the tenancy law of the German Civil Code (BGB) to apply the resulting models on a set of rental agreements afterwards. The performance of our models varies on the contract set. Some models perform significantly worse, while certain settings reveal a portability. Additionally, we trained and evaluated the same classifiers on a dataset consisting solely of contracts, to be able to observe a reference performance. We could show that the performance of ML models may depend on the document type used for training, while certain setups result in portable models.
+AD  - Tech Univ Munich, Dept Informat, Software Engn Business Informat Syst, Munich, GermanyC3  - Technical University of MunichPU  - IOS PRESS
+PI  - AMSTERDAM
+PA  - NIEUWE HEMWEG 6B, 1013 BG AMSTERDAM, NETHERLANDS
+SN  - 0922-6389
+SN  - 1879-8314
+SN  - 978-1-61499-935-5
+SN  - 978-1-61499-934-8
+J9  - FRONT ARTIF INTEL AP
+PY  - 2018
+VL  - 313
+SP  - 61
+EP  - 70
+DO  - 10.3233/978-1-61499-935-5-61
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000455955300007
+N1  - Times Cited in Web of Science Core Collection:  14
+Total Times Cited:  14
+Cited Reference Count:  17
+ER  -
+
+TY  - JOUR
+AU  - Stern, S
+TI  - INTRODUCTION: ARTIFICIAL INTELLIGENCE, TECHNOLOGY, AND THE LAW
+T2  - UNIVERSITY OF TORONTO LAW JOURNAL
+LA  - English
+KW  - artificial intelligence
+KW  - legal theory
+KW  - machine learning
+KW  - natural language processing
+KW  - rule of law
+AB  - On 25 March 2017, the Centre for Innovation Law and Policy at the University of Toronto hosted a Conference on Artificial Intelligence, Technology, and the Law. The conference was supported by generous funding from the University of Toronto Press and from the Social Science and Humanities Research Council of Canada. The contributions to this special issue of the UTLJ are based on articles originally presented at the conference. Some of the speakers discussed the kinds of tasks that machine learning (ML) and natural language processing (NLP) can perform, when used to conduct legal research, to identify biases and discrepancies at the doctrinal level and in the performance of lawyers and judges, and to facilitate access to justice for those who cannot readily afford legal services. Other speakers considered the challenges that algorithms based on ML and NLP pose to democratic conceptions of legal authority. Taken together, the articles offered a range of views on the prospects and perils of AI for the practice of law and for the legal system as a whole. This introduction briefly describes the contributions, moving roughly from the more theoretical to the more concrete aspects of these issues.
+AD  - Univ Toronto, Ctr Innovat Law & Policy, Toronto, ON, CanadaC3  - University of TorontoPU  - UNIV TORONTO PRESS INC
+PI  - TORONTO
+PA  - JOURNALS DIVISION, 5201 DUFFERIN ST, DOWNSVIEW, TORONTO, ON M3H 5T8, CANADA
+SN  - 0042-0220
+SN  - 1710-1174
+J9  - U TORONTO LAW J
+JI  - Univ. Toronto Law J.
+PY  - 2018
+VL  - 68
+SP  - 1
+EP  - 11
+DO  - 10.3138/utlj.2017-0102
+WE  - Social Science Citation Index (SSCI)AN  - WOS:000427068000001
+N1  - Times Cited in Web of Science Core Collection:  8
+Total Times Cited:  11
+Cited Reference Count:  12
+ER  -
+
+TY  - JOUR
+AU  - Talley, EL
+TI  - Is the Future of Law a Driverless Car?: Assessing How the Data-Analytics Revolution will Transform Legal Practice
+T2  - JOURNAL OF INSTITUTIONAL AND THEORETICAL ECONOMICS-ZEITSCHRIFT FUR DIE GESAMTE STAATSWISSENSCHAFT
+LA  - English
+CP  - 35th International Seminar on the New Institutional Economics
+KW  - machine learning
+KW  - natural-language processing
+KW  - artificial intelligence
+KW  - data analytics
+AB  - Data analytics are quickly transforming law, challenging its survival as a vibrant profession for natural persons. I argue that data analytics will continue to penetrate law, even in domains heretofore dominated by human decision-makers. I demonstrate this claim by describing how machine-learning techniques can be used to identify important fiduciary waivers. Notwithstanding their transformative power, however, I remain doubtful that data analytics will substantially displace law. The most powerful approaches in data analytics as applied to law require human practitioner inputs to train, calibrate, and supervise machine classifiers. Moreover, law's normative/prescriptive commitments are irreducibly dynamic and complex - traits poorly matched to algorithmic prediction.
+AD  - Columbia Law Sch, Law, Jerome Greene Hall 520,435 West 116th St, New York, NY 10027 USAC3  - Columbia UniversityPU  - J C B MOHR
+PI  - TUBINGEN
+PA  - POSTFACH 2040, W-7400 TUBINGEN, GERMANY
+SN  - 0932-4569
+SN  - 1614-0559
+J9  - J INST THEOR ECON
+JI  - J. Inst. Theor. Econ.-Z. Gesamte Staatswiss.
+DA  - MAR
+PY  - 2018
+VL  - 174
+IS  - 1
+SP  - 183
+EP  - 205
+DO  - 10.1628/093245618X15135819919253
+WE  - Social Science Citation Index (SSCI)WE  - Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)AN  - WOS:000440241600017
+N1  - Times Cited in Web of Science Core Collection:  7
+Total Times Cited:  8
+Cited Reference Count:  18
+ER  -
+
+TY  - CPAPER
+AU  - Ratnayaka, G
+AU  - Rupasinghe, T
+AU  - de Silva, N
+AU  - Warushavithana, M
+AU  - Gamage, V
+AU  - Perera, AS
+A1  - IEEE
+TI  - Identifying Relationships Among Sentences in Court Case Transcripts Using Discourse Relations
+T2  - 2018 18TH INTERNATIONAL CONFERENCE ON ADVANCES IN ICT FOR EMERGING REGIONS (ICTER) CONFERENCE PROCEEDINGS
+LA  - English
+CP  - 18th International Conference on Advances in Ict for Emerging Regions (ICTer)
+KW  - discourse relations
+KW  - natural language processing
+KW  - machine learning
+KW  - support vector machine
+AB  - Case Law has a significant impact on the proceedings of legal cases. Therefore, the information that can be obtained from previous court cases is valuable to lawyers and other legal officials when performing their duties. This paper describes a methodology of applying discourse relations between sentences when processing text documents related to the legal domain. In this study, we developed a mechanism to classify the relationships that can be observed among sentences in transcripts of United States court cases. First, we defined relationship types that can be observed between sentences in court case transcripts. Then we classified pairs of sentences according to the relationship type by combining a machine learning model and a rule-based approach. The results obtained through our system were evaluated using human judges. To the best of our knowledge, this is the first study where discourse relationships between sentences have been used to determine relationships among sentences in legal court case transcripts.
+AD  - Univ Moratuwa, Dept Comp Sci & Engn, Moratuwa, Sri LankaC3  - University MoratuwaPU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 2377-6854
+SN  - 978-1-5386-7352-2
+J9  - INT CONF ADV ICT
+PY  - 2018
+SP  - 13
+EP  - 20
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000459882500002
+N1  - Times Cited in Web of Science Core Collection:  7
+Total Times Cited:  8
+Cited Reference Count:  34
+ER  -
+
+TY  - CPAPER
+AU  - Gupta, D
+AU  - Sen, I
+AU  - Sachdeva, N
+AU  - Kumaraguru, P
+AU  - Buduru, AB
+A1  - IEEE
+TI  - Empowering First Responders through Automated Multimodal Content Moderation
+T2  - 2018 IEEE INTERNATIONAL CONFERENCE ON COGNITIVE COMPUTING (ICCC)
+LA  - English
+CP  - IEEE International Conference on Cognitive Computing (ICCC) Part of the IEEE World Congress on Services
+KW  - Multimodal detection
+KW  - Natural language processing
+KW  - Image analysis
+AB  - Social media enables users to spread information and opinions, including in times of crisis events such as riots, protests or uprisings. Sensitive event-related content can lead to repercussions in the real world. Therefore it is crucial for first responders, such as law enforcement agencies, to have ready access, and the ability to monitor the propagation of such content. Obstacles to easy access include a lack of automatic moderation tools targeted for first responders. Efforts are further complicated by the multimodal nature of content which may have either textual and pictorial aspects. In this work, as a means of providing intelligence to first responders, we investigate automatic moderation of sensitive event-related content across the two modalities by exploiting recent advances in Deep Neural Networks (DNN). We use a combination of image classification with Convolutional Neural Networks (CNN) and text classification with Recurrent Neural Networks (RNN). Our multilevel content classifier is obtained by fusing the image classifier and the text classifier. We utilize feature engineering for preprocessing but bypass it during classification due to our use of DNNs while achieving coverage by leveraging community guidelines. Our approach maintains a low false positive rate and high precision by learning from a weakly labeled dataset and then, by learning from an expert annotated dataset. We evaluate our system both quantitatively and qualitatively to gain a deeper understanding of its functioning. Finally, we benchmark our technique with current approaches to combating sensitive content and find that our system outperforms by 16% in accuracy.
+AD  - IIT Delhi, New Delhi, IndiaC3  - Indian Institute of Technology System (IIT System)C3  - Indian Institute of Technology (IIT) - DelhiPU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 978-1-5386-7241-9
+PY  - 2018
+SP  - 1
+EP  - 8
+DO  - 10.1109/ICCC.2018.00008
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000446010800001
+N1  - Times Cited in Web of Science Core Collection:  5
+Total Times Cited:  6
+Cited Reference Count:  28
+ER  -
+

@@ -1,0 +1,574 @@
+﻿TY  - JOUR
+AU  - Oniani, D.
+AU  - Hilsman, J.
+AU  - Peng, Y.
+AU  - Poropatich, R.K.
+AU  - Pamplin, J.C.
+AU  - Legault, G.L.
+AU  - Wang, Y.
+TI  - Adopting and expanding ethical principles for generative artificial intelligence from military to healthcare
+PY  - 2023
+T2  - npj Digital Medicine
+VL  - 6
+IS  - 1
+C7  - 225
+DO  - 10.1038/s41746-023-00965-x
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85178494468&doi=10.1038%2fs41746-023-00965-x&partnerID=40&md5=2c2bacb7405933894f1018b25d4a7854
+AD  - Department of Health Information Management, University of Pittsburgh, Pittsburgh, PA, United States
+AD  - Department of Population Health Sciences, Weill Cornell Medicine, New York, NY, United States
+AD  - Division of Pulmonary, Allergy, Critical Care & Sleep Medicine, University of Pittsburgh, Pittsburgh, PA, United States
+AD  - Center for Military Medicine Research, University of Pittsburgh, Pittsburgh, PA, United States
+AD  - Telemedicine & Advanced Technology Research Center, US Army, Fort Detrick, Frederick, MD, United States
+AD  - Department of Surgery, Uniformed Services University, Bethesda, MD, United States
+AD  - Virtual Medical Center, Brooke Army Medical Center, San Antonio, TX, United States
+AD  - Intelligent Systems Program, University of Pittsburgh, Pittsburgh, PA, United States
+AD  - Department of Biomedical Informatics, University of Pittsburgh, Pittsburgh, PA, United States
+AD  - Clinical and Translational Science Institute, University of Pittsburgh, Pittsburgh, PA, United States
+AD  - University of Pittsburgh Medical Center, Pittsburgh, PA, United States
+AB  - In 2020, the U.S. Department of Defense officially disclosed a set of ethical principles to guide the use of Artificial Intelligence (AI) technologies on future battlefields. Despite stark differences, there are core similarities between the military and medical service. Warriors on battlefields often face life-altering circumstances that require quick decision-making. Medical providers experience similar challenges in a rapidly changing healthcare environment, such as in the emergency department or during surgery treating a life-threatening condition. Generative AI, an emerging technology designed to efficiently generate valuable information, holds great promise. As computing power becomes more accessible and the abundance of health data, such as electronic health records, electrocardiograms, and medical images, increases, it is inevitable that healthcare will be revolutionized by this technology. Recently, generative AI has garnered a lot of attention in the medical research community, leading to debates about its application in the healthcare sector, mainly due to concerns about transparency and related issues. Meanwhile, questions around the potential exacerbation of health disparities due to modeling biases have raised notable ethical concerns regarding the use of this technology in healthcare. However, the ethical principles for generative AI in healthcare have been understudied. As a result, there are no clear solutions to address ethical concerns, and decision-makers often neglect to consider the significance of ethical principles before implementing generative AI in clinical practice. In an attempt to address these issues, we explore ethical principles from the military perspective and propose the “GREAT PLEA” ethical principles, namely Governability, Reliability, Equity, Accountability, Traceability, Privacy, Lawfulness, Empathy, and Eutonomy, for generative AI in healthcare. Furthermore, we introduce a framework for adopting and expanding these ethical principles in a practical way that has been useful in the military and can be applied to healthcare for generative AI, based on contrasting their ethical concerns and risks. Ultimately, we aim to proactively address the ethical dilemmas and challenges posed by the integration of generative AI into healthcare practice. © 2023, The Author(s).
+KW  - Computing power
+KW  - Decision making
+KW  - Ethical technology
+KW  - Health care
+KW  - Medical imaging
+KW  - Artificial intelligence technologies
+KW  - Decisions makings
+KW  - Emergency departments
+KW  - Ethical concerns
+KW  - Ethical principles
+KW  - Healthcare environments
+KW  - Medical providers
+KW  - Medical services
+KW  - Military services
+KW  - US Department of Defence
+KW  - army
+KW  - Article
+KW  - artificial intelligence
+KW  - conceptual framework
+KW  - data privacy
+KW  - electrocardiography
+KW  - electronic health record
+KW  - emergency ward
+KW  - empathy
+KW  - ethical dilemma
+KW  - generative artificial intelligence
+KW  - government
+KW  - health care
+KW  - health care practice
+KW  - health care system
+KW  - health data
+KW  - health equity
+KW  - human
+KW  - international law
+KW  - law
+KW  - life threat
+KW  - machine learning
+KW  - medical ethics
+KW  - medical service
+KW  - reliability
+KW  - responsibility
+KW  - risk factor
+KW  - social responsibility
+KW  - traceability
+KW  - Artificial intelligence
+PB  - Nature Research
+SN  - 23986352 (ISSN)
+LA  - English
+J2  - npj Digit. Med.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 32; Correspondence Address: Y. Wang; Department of Health Information Management, University of Pittsburgh, Pittsburgh, United States; email: yanshan.wang@pitt.edu
+ER  -
+
+TY  - JOUR
+AU  - Hippalgaonkar, K.
+AU  - Li, Q.
+AU  - Wang, X.
+AU  - Fisher, J.W.
+AU  - Kirkpatrick, J.
+AU  - Buonassisi, T.
+TI  - Knowledge-integrated machine learning for materials: lessons from gameplaying and robotics
+PY  - 2023
+T2  - Nature Reviews Materials
+VL  - 8
+IS  - 4
+SP  - 241
+EP  - 260
+DO  - 10.1038/s41578-022-00513-1
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85146648149&doi=10.1038%2fs41578-022-00513-1&partnerID=40&md5=b4931014ba53982b199778775292b893
+AD  - Department of Materials Science and Engineering, Nanyang Technological University, Singapore, Singapore
+AD  - Institute of Materials Research and Engineering, Agency for Science Technology and Research, Singapore, Singapore
+AD  - Department of Mathematics, National University of Singapore, Singapore, Singapore
+AD  - Department of Chemical Engineering, Tsinghua University, Beijing, China
+AD  - Computer Science and Artificial Intelligence Laboratory, Massachusetts Institute of Technology, Cambridge, MA, United States
+AD  - DeepMind, London, United Kingdom
+AD  - Department of Mechanical Engineering, Massachusetts Institute of Technology, Cambridge, MA, United States
+AD  - Singapore MIT Alliance for Research and Technology (SMART), Singapore, Singapore
+AB  - As materials researchers increasingly embrace machine-learning (ML) methods, it is natural to wonder what lessons can be learned from other fields undergoing similar developments. In this Review, we comparatively assess the evolution of applied ML in materials research, gameplaying and robotics. We observe ML being integrated into each field in three phases: first into discrete hardware and software tools (toolset integration); second across different steps in a workflow (workflow integration); and third through the incorporation, generation and representation of generalizable knowledge beyond any one study (knowledge integration). We identify transferrable lessons from gameplaying and robotics to materials research, including adaptive and accessible automation, the gamification of grand challenges to focus community efforts on specific workflow integrations and motivate benchmarks and canonical datasets, and the adoption of hybrid (data-based and model-based) algorithms that combine domain expertise and current learning to economically address high-complexity tasks. We identify opportunities for researchers from different fields to collaborate, including novel ways to represent and integrate a rich but heterogeneous corpus of knowledge (such as heuristics, physical laws, literature or data) with ML algorithms to create new knowledge, and safe and equitable deployment of technologies with societally beneficial outcomes. © 2023, Springer Nature Limited.
+KW  - Hybrid materials
+KW  - Integration
+KW  - Machine learning
+KW  - Applied machine learning
+KW  - Hardware tools
+KW  - Integrated machines
+KW  - Knowledge integrated
+KW  - Machine learning methods
+KW  - Machine-learning
+KW  - Materials research
+KW  - Three phase
+KW  - Three phasis
+KW  - Workflow integration
+KW  - Robotics
+PB  - Nature Research
+SN  - 20588437 (ISSN)
+LA  - English
+J2  - Nat. Rev. Mater.
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 61; Correspondence Address: K. Hippalgaonkar; Department of Materials Science and Engineering, Nanyang Technological University, Singapore, Singapore; email: kedar@ntu.edu.sg; T. Buonassisi; Department of Mechanical Engineering, Massachusetts Institute of Technology, Cambridge, United States; email: buonassisi@mit.edu
+ER  -
+
+TY  - JOUR
+AU  - Paladugu, P.S.
+AU  - Ong, J.
+AU  - Nelson, N.
+AU  - Kamran, S.A.
+AU  - Waisberg, E.
+AU  - Zaman, N.
+AU  - Kumar, R.
+AU  - Dias, R.D.
+AU  - Lee, A.G.
+AU  - Tavakkoli, A.
+TI  - Generative Adversarial Networks in Medicine: Important Considerations for this Emerging Innovation in Artificial Intelligence
+PY  - 2023
+T2  - Annals of Biomedical Engineering
+VL  - 51
+IS  - 10
+SP  - 2130
+EP  - 2142
+DO  - 10.1007/s10439-023-03304-z
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85165589227&doi=10.1007%2fs10439-023-03304-z&partnerID=40&md5=62dd00d6535cd04ff9abe961163de6cc
+AD  - Brigham and Women’s Hospital, Harvard Medical School, Boston, MA, United States
+AD  - Sidney Kimmel Medical College, Thomas Jefferson University, Philadelphia, PA, United States
+AD  - Michigan Medicine, University of Michigan, Ann Arbor, MI, United States
+AD  - Human-Machine Perception Laboratory, Department of Computer Science and Engineering, University of Nevada, Reno, Reno, NV, United States
+AD  - University College Dublin School of Medicine, Belfield, Dublin, Ireland
+AD  - University of Miami, Coral Gables, FL, United States
+AD  - Department of Emergency Medicine, Harvard Medical School, Boston, MA, United States
+AD  - STRATUS Center for Medical Simulation, Brigham and Women’s Hospital, Boston, MA, United States
+AD  - Center for Space Medicine, Baylor College of Medicine, Houston, TX, United States
+AD  - Department of Ophthalmology, Blanton Eye Institute, Houston Methodist Hospital, Houston, TX, United States
+AD  - The Houston Methodist Research Institute, Houston Methodist Hospital, Houston, TX, United States
+AD  - Departments of Ophthalmology, Neurology, and Neurosurgery, Weill Cornell Medicine, New York, NY, United States
+AD  - Department of Ophthalmology, University of Texas Medical Branch, Galveston, TX, United States
+AD  - University of Texas MD Anderson Cancer Center, Houston, TX, United States
+AD  - Texas A&M College of Medicine, Bryan, TX, United States
+AD  - Department of Ophthalmology, The University of Iowa Hospitals and Clinics, Iowa City, IA, United States
+AB  - The advent of artificial intelligence (AI) and machine learning (ML) has revolutionized the field of medicine. Although highly effective, the rapid expansion of this technology has created some anticipated and unanticipated bioethical considerations. With these powerful applications, there is a necessity for framework regulations to ensure equitable and safe deployment of technology. Generative Adversarial Networks (GANs) are emerging ML techniques that have immense applications in medical imaging due to their ability to produce synthetic medical images and aid in medical AI training. Producing accurate synthetic images with GANs can address current limitations in AI development for medical imaging and overcome current dataset type and size constraints. Offsetting these constraints can dramatically improve the development and implementation of AI medical imaging and restructure the practice of medicine. As observed with its other AI predecessors, considerations must be taken into place to help regulate its development for clinical use. In this paper, we discuss the legal, ethical, and technical challenges for future safe integration of this technology in the healthcare sector. © 2023, The Author(s) under exclusive licence to Biomedical Engineering Society.
+KW  - AI
+KW  - Artificial intelligence
+KW  - Bioethics
+KW  - Clinical medicine
+KW  - General adversial networks
+KW  - Healthcare
+KW  - Machine learning
+KW  - Medical education
+KW  - Medical imaging
+KW  - Artificial Intelligence
+KW  - Machine Learning
+KW  - Technology
+KW  - Generative adversarial networks
+KW  - Health care
+KW  - Laws and legislation
+KW  - Medicine
+KW  - Artificial intelligence learning
+KW  - Bioethic
+KW  - Clinical medicine
+KW  - Framework Regulation
+KW  - General adversial network
+KW  - Healthcare
+KW  - Machine learning techniques
+KW  - Machine-learning
+KW  - Rapid expansion
+KW  - Synthetic images
+KW  - artificial intelligence
+KW  - bioethics
+KW  - clinical medicine
+KW  - diagnostic imaging
+KW  - health care cost
+KW  - machine learning
+KW  - medical education
+KW  - review
+KW  - technology
+KW  - Medical imaging
+PB  - Springer
+SN  - 00906964 (ISSN)
+C2  - 37488468
+LA  - English
+J2  - Ann Biomed Eng
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 31; Correspondence Address: A. Tavakkoli; Human-Machine Perception Laboratory, Department of Computer Science and Engineering, University of Nevada, Reno, Reno, United States; email: tavakkol@unr.edu; CODEN: ABMEC
+ER  -
+
+TY  - JOUR
+AU  - Parsazadeh, M.
+AU  - Sharma, S.
+AU  - Dahotre, N.
+TI  - Towards the next generation of machine learning models in additive manufacturing: A review of process dependent material evolution
+PY  - 2023
+T2  - Progress in Materials Science
+VL  - 135
+C7  - 101102
+DO  - 10.1016/j.pmatsci.2023.101102
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85149341936&doi=10.1016%2fj.pmatsci.2023.101102&partnerID=40&md5=2afd5d514ee127529497820a256b2d17
+AD  - Center for Agile and Adaptive Additive Manufacturing, University of North Texas, 3940 N ELM Street, Denton, 76207, TX, United States
+AD  - Department of Materials Science & Engineering, University of North Texas, 3940 N ELM street, Denton, 76207, TX, United States
+AB  - Additive manufacturing facilitates producing of complex parts due to its design freedom in a wide range of applications. Despite considerable advancements in additive manufacturing techniques, 3D-printed parts are still suffering from durability, repeatability, and reliability. One main reason, which increases the complexity of the problem and causes defects during manufacturing, is the high number of processing parameters. Machine learning approaches seem to be a promising solution to tackle the challenges in the additive manufacturing field. This paper employs a systematic literature review by employing natural language processing and text mining techniques to analyze the recent advancement in the application of machine learning in porosity detection and prediction in 3D-printed parts. Two methods of text analytics are used to evaluate different avenues of research in additive manufacturing. Most frequent machine learning methods employed to evaluate the porosity formed in the 3D-printed parts are introduced and classified based on their applications. Recent advancements in developing hybrid machine learning models reveal the importance of physical domain knowledge (e.g., thermomechanical laws and constraints) in these models and their accuracy. Eventually, challenges and opportunities that exist for the next generation of machine learning techniques in the AM field are identified and summarized. © 2023 Elsevier Ltd
+KW  - Additive manufacturing
+KW  - Defect detection
+KW  - Physics informed machine learning
+KW  - Product quality
+KW  - Supervised learning
+KW  - Unsupervised learning
+KW  - Additives
+KW  - Defects
+KW  - Domain Knowledge
+KW  - Industrial research
+KW  - Learning algorithms
+KW  - Learning systems
+KW  - Natural language processing systems
+KW  - Porosity
+KW  - Supervised learning
+KW  - Complex parts
+KW  - Defect detection
+KW  - Design freedom
+KW  - Machine learning models
+KW  - Machine-learning
+KW  - Manufacturing IS
+KW  - Manufacturing techniques
+KW  - Physic informed machine learning
+KW  - Processing parameters
+KW  - Products quality
+KW  - 3D printing
+PB  - Elsevier Ltd
+SN  - 00796425 (ISSN)
+LA  - English
+J2  - Prog Mater Sci
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 54; Correspondence Address: N. Dahotre; Center for Agile and Adaptive Additive Manufacturing, University of North Texas, Denton, 3940 N ELM Street, 76207, United States; email: Narendra.Dahotre@unt.edu; CODEN: PRMSA
+ER  -
+
+TY  - JOUR
+AU  - Tufail, S.
+AU  - Riggs, H.
+AU  - Tariq, M.
+AU  - Sarwat, A.I.
+TI  - Advancements and Challenges in Machine Learning: A Comprehensive Review of Models, Libraries, Applications, and Algorithms
+PY  - 2023
+T2  - Electronics (Switzerland)
+VL  - 12
+IS  - 8
+C7  - 1789
+DO  - 10.3390/electronics12081789
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85156264923&doi=10.3390%2felectronics12081789&partnerID=40&md5=c75f6e5cb77cfc0d0f9bc32b267f3efe
+AD  - Department of Electrical and Computer Engineering, Florida International University, Miami, 33174, FL, United States
+AB  - In the current world of the Internet of Things, cyberspace, mobile devices, businesses, social media platforms, healthcare systems, etc., there is a lot of data online today. Machine learning (ML) is something we need to understand to do smart analyses of these data and make smart, automated applications that use them. There are many different kinds of machine learning algorithms. The most well-known ones are supervised, unsupervised, semi-supervised, and reinforcement learning. This article goes over all the different kinds of machine-learning problems and the machine-learning algorithms that are used to solve them. The main thing this study adds is a better understanding of the theory behind many machine learning methods and how they can be used in the real world, such as in energy, healthcare, finance, autonomous driving, e-commerce, and many more fields. This article is meant to be a go-to resource for academic researchers, data scientists, and machine learning engineers when it comes to making decisions about a wide range of data and methods to start extracting information from the data and figuring out what kind of machine learning algorithm will work best for their problem and what results they can expect. Additionally, this article presents the major challenges in building machine learning models and explores the research gaps in this area. In this article, we also provided a brief overview of data protection laws and their provisions in different countries. © 2023 by the authors.
+KW  - artificial intelligence
+KW  - auto encoder
+KW  - classification
+KW  - decision tree
+KW  - machine learning
+KW  - neural network
+KW  - object detection
+KW  - random forest
+KW  - regression
+KW  - supervised training
+KW  - support vector machine
+PB  - MDPI
+SN  - 20799292 (ISSN)
+LA  - English
+J2  - Electronics (Switzerland)
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 58; Correspondence Address: M. Tariq; Department of Electrical and Computer Engineering, Florida International University, Miami, 33174, United States; email: tmohd@fiu.edu; A.I. Sarwat; Department of Electrical and Computer Engineering, Florida International University, Miami, 33174, United States; email: asarwat@fiu.edu
+ER  -
+
+TY  - JOUR
+AU  - Brauneck, A.
+AU  - Schmalhorst, L.
+AU  - Majdabadi, M.M.K.
+AU  - Bakhtiari, M.
+AU  - Völker, U.
+AU  - Baumbach, J.
+AU  - Baumbach, L.
+AU  - Buchholtz, G.
+TI  - Federated Machine Learning, Privacy-Enhancing Technologies, and Data Protection Laws in Medical Research: Scoping Review
+PY  - 2023
+T2  - Journal of Medical Internet Research
+VL  - 25
+C7  - e41588
+DO  - 10.2196/41588
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85151352703&doi=10.2196%2f41588&partnerID=40&md5=5e5b26f35721e194a5537bad3105e11f
+AD  - Hamburg University Faculty of Law, University of Hamburg, Hamburg, Germany
+AD  - Institute for Computational Systems Biology, University of Hamburg, Hamburg, Germany
+AD  - Interfaculty Institute of Genetics and Functional Genomics, Department of Functional Genomics, University Medicine Greifswald, Greifswald, Germany
+AD  - Computational BioMedicine lab, University of Southern Denmark, Odense, Denmark
+AD  - Department of Health Economics and Health Services Research, University Medical Center Hamburg-Eppendorf, Hamburg, Germany
+AB  - Background: The collection, storage, and analysis of large data sets are relevant in many sectors. Especially in the medical field, the processing of patient data promises great progress in personalized health care. However, it is strictly regulated, such as by the General Data Protection Regulation (GDPR). These regulations mandate strict data security and data protection and, thus, create major challenges for collecting and using large data sets. Technologies such as federated learning (FL), especially paired with differential privacy (DP) and secure multiparty computation (SMPC), aim to solve these challenges. Objective: This scoping review aimed to summarize the current discussion on the legal questions and concerns related to FL systems in medical research. We were particularly interested in whether and to what extent FL applications and training processes are compliant with the GDPR data protection law and whether the use of the aforementioned privacy-enhancing technologies (DP and SMPC) affects this legal compliance. We placed special emphasis on the consequences for medical research and development. Methods: We performed a scoping review according to the PRISMA-ScR (Preferred Reporting Items for Systematic Reviews and Meta-Analyses extension for Scoping Reviews). We reviewed articles on Beck-Online, SSRN, ScienceDirect, arXiv, and Google Scholar published in German or English between 2016 and 2022. We examined 4 questions: whether local and global models are "personal data" as per the GDPR; what the "roles" as defined by the GDPR of various parties in FL are; who controls the data at various stages of the training process; and how, if at all, the use of privacy-enhancing technologies affects these findings. Results: We identified and summarized the findings of 56 relevant publications on FL. Local and likely also global models constitute personal data according to the GDPR. FL strengthens data protection but is still vulnerable to a number of attacks and the possibility of data leakage. These concerns can be successfully addressed through the privacy-enhancing technologies SMPC and DP. Conclusions: Combining FL with SMPC and DP is necessary to fulfill the legal data protection requirements (GDPR) in medical research dealing with personal data. Even though some technical and legal challenges remain, for example, the possibility of successful attacks on the system, combining FL with SMPC and DP creates enough security to satisfy the legal requirements of the GDPR. This combination thereby provides an attractive technical solution for health institutions willing to collaborate without exposing their data to risk. From a legal perspective, the combination provides enough built-in security measures to satisfy data protection requirements, and from a technical perspective, the combination provides secure systems with comparable performance with centralized machine learning applications. © 2023 Journal of Medical Internet Research. All rights reserved.
+KW  - data protection by design
+KW  - data protection regulation
+KW  - differential privacy
+KW  - federated learning
+KW  - GDPR compliance
+KW  - General Data Protection Regulation compliance
+KW  - privacy protection
+KW  - privacy-preserving technologies
+KW  - secure multiparty computation
+KW  - Biomedical Research
+KW  - Computer Security
+KW  - Delivery of Health Care
+KW  - Humans
+KW  - Privacy
+KW  - data protection
+KW  - human
+KW  - identifiable information
+KW  - information security
+KW  - learning
+KW  - machine learning
+KW  - medical research
+KW  - meta analysis
+KW  - Preferred Reporting Items for Systematic Reviews and Meta-Analyses
+KW  - privacy
+KW  - review
+KW  - ScienceDirect
+KW  - search engine
+KW  - systematic review
+KW  - computer security
+KW  - health care delivery
+PB  - JMIR Publications Inc.
+SN  - 14388871 (ISSN)
+C2  - 36995759
+LA  - English
+J2  - J. Med. Internet Res.
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 31; Correspondence Address: A. Brauneck; Hamburg University Faculty of Law, University of Hamburg, Hamburg, Rothenbaumchaussee 33, 20148, Germany; email: alissa.brauneck@uni-hamburg.de
+ER  -
+
+TY  - JOUR
+AU  - Syu, J.-H.
+AU  - Lin, J.C.-W.
+AU  - Srivastava, G.
+AU  - Yu, K.
+TI  - A Comprehensive Survey on Artificial Intelligence Empowered Edge Computing on Consumer Electronics
+PY  - 2023
+T2  - IEEE Transactions on Consumer Electronics
+VL  - 69
+IS  - 4
+SP  - 1023
+EP  - 1034
+DO  - 10.1109/TCE.2023.3318150
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85181783398&doi=10.1109%2fTCE.2023.3318150&partnerID=40&md5=1e3dde93b56cae63518aef6a27bf0206
+AD  - National Taiwan University, Department of Computer Science and Information Engineering, Taipei, 10617, Taiwan
+AD  - Silesian University of Technology, Faculty of Automatic Control, Electronics and Computer Science, Department of Distributed Systems and Informatics Devices, Gliwice, 44-100, Poland
+AD  - Brandon University, Department of Mathematics and Computer Science, Brandon, R7A 6A9, Canada
+AD  - China Medical University, Research Centre for Interneural Computing, Taichung, 404, Taiwan
+AD  - Lebanese American University, Department of Computer Science and Mathematics, Beirut, 1102, Lebanon
+AD  - Hosei University, Graduate School of Science and Engineering, Tokyo, 184-8584, Japan
+AD  - Riken Center for Advanced Intelligence Project, Riken, Tokyo, 103-0027, Japan
+AB  - The Internet revolution and Moore's Law drove the rapid expansion of connected consumer electronics. As massive data is generated by Internet of Things (IoT) devices, edge computing has been developed and applied in consumer electronics to provide agile and real-time services. In this paper, we provide an overview of artificial intelligence (AI)-empowered edge computing in consumer electronics. We start with the background of consumer electronics and artificial intelligence and outline key characteristics and challenges, which are used to evaluate the state of research in smart homes, smart buildings, smart healthcare, and intelligent diagnosis. The evaluation shows that research in AI-empowered edge computing for consumer electronics has mainly focused on latency, robustness, and reliability over the past 5 years. However, explainability and load balancing are mentioned less and have great potential for future research. Although AI-empowered edge computing for consumer electronics is a thriving and widely used research area, there are still many unsolved problems and challenges that researchers can address.  © 1975-2011 IEEE.
+KW  - artificial intelligence
+KW  - Consumer electronics
+KW  - edge computing
+KW  - smart buildings
+KW  - smart healthcare
+KW  - smart homes
+KW  - Automation
+KW  - E-learning
+KW  - Edge computing
+KW  - Health care
+KW  - Information services
+KW  - Internet of things
+KW  - Learning systems
+KW  - Machine learning
+KW  - Cloud-computing
+KW  - Edge computing
+KW  - Internet revolution
+KW  - Machine-learning
+KW  - Rapid expansion
+KW  - Smart healthcare
+KW  - Smart homes
+KW  - Wireless fidelities
+KW  - Intelligent buildings
+PB  - Institute of Electrical and Electronics Engineers Inc.
+SN  - 00983063 (ISSN)
+LA  - English
+J2  - IEEE Trans Consum Electron
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 41; Correspondence Address: J.C.-W. Lin; Silesian University of Technology, Faculty of Automatic Control, Electronics and Computer Science, Department of Distributed Systems and Informatics Devices, Gliwice, 44-100, Poland; email: jerry.chun-wei.lin@polsl.pl; CODEN: ITCED
+ER  -
+
+TY  - JOUR
+AU  - Wang, S.
+AU  - Li, Y.
+AU  - Wang, D.
+AU  - Zhang, W.
+AU  - Chen, X.
+AU  - Dong, D.
+AU  - Wang, S.
+AU  - Zhang, X.
+AU  - Lin, P.
+AU  - Gallicchio, C.
+AU  - Xu, X.
+AU  - Liu, Q.
+AU  - Cheng, K.-T.
+AU  - Wang, Z.
+AU  - Shang, D.
+AU  - Liu, M.
+TI  - Echo state graph neural networks with analogue random resistive memory arrays
+PY  - 2023
+T2  - Nature Machine Intelligence
+VL  - 5
+IS  - 2
+SP  - 104
+EP  - 113
+DO  - 10.1038/s42256-023-00609-5
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85147953508&doi=10.1038%2fs42256-023-00609-5&partnerID=40&md5=e29bbf0a8bed0233d8b2c30cd7e286b5
+AD  - Department of Electrical and Electronic Engineering, University of Hong Kong, Hong Kong
+AD  - Key Laboratory of Microelectronic Devices & Integrated Technology, Institute of Microelectronics, Chinese Academy of Sciences, Beijing, China
+AD  - ACCESS – AI Chip Center for Emerging Smart Systems, InnoHK Centers, Hong Kong
+AD  - University of Chinese Academy of Sciences, Beijing, China
+AD  - Frontier Institute of Chip and System, Fudan University, Shanghai, China
+AD  - College of Computer Science and Technology, Zhejiang University, Zhejiang, China
+AD  - Department of Computer Science, University of Pisa, Pisa, Italy
+AD  - Department of Electronic and Computer Engineering, Hong Kong University of Science and Technology, Hong Kong
+AB  - Recent years have witnessed a surge of interest in learning representations of graph-structured data, with applications from social networks to drug discovery. However, graph neural networks, the machine learning models for handling graph-structured data, face significant challenges when running on conventional digital hardware, including the slowdown of Moore’s law due to transistor scaling limits and the von Neumann bottleneck incurred by physically separated memory and processing units, as well as a high training cost. Here we present a hardware–software co-design to address these challenges, by designing an echo state graph neural network based on random resistive memory arrays, which are built from low-cost, nanoscale and stackable resistors for efficient in-memory computing. This approach leverages the intrinsic stochasticity of dielectric breakdown in resistive switching to implement random projections in hardware for an echo state network that effectively minimizes the training complexity thanks to its fixed and random weights. The system demonstrates state-of-the-art performance on both graph classification using the MUTAG and COLLAB datasets and node classification using the CORA dataset, achieving 2.16×, 35.42× and 40.37× improvements in energy efficiency for a projected random resistive memory-based hybrid analogue–digital system over a state-of-the-art graphics processing unit and 99.35%, 99.99% and 91.40% reductions of backward pass complexity compared with conventional graph learning. The results point to a promising direction for next-generation artificial intelligence systems for graph learning. © 2023, The Author(s).
+KW  - Classification (of information)
+KW  - Complex networks
+KW  - Computer graphics
+KW  - Energy efficiency
+KW  - Graph neural networks
+KW  - Graphic methods
+KW  - Learning systems
+KW  - Memory architecture
+KW  - Program processors
+KW  - Digital hardware
+KW  - Drug discovery
+KW  - Graph neural networks
+KW  - Graph structured data
+KW  - Machine learning models
+KW  - Memory array
+KW  - Representation of graphs
+KW  - Resistive memory
+KW  - State graphs
+KW  - Transistor scaling
+KW  - Graphics processing unit
+PB  - Nature Research
+SN  - 25225839 (ISSN)
+LA  - English
+J2  - Nat. Mach. Intell.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 31; Correspondence Address: Z. Wang; Department of Electrical and Electronic Engineering, University of Hong Kong, Hong Kong; email: zrwang@eee.hku.hk; D. Shang; Key Laboratory of Microelectronic Devices & Integrated Technology, Institute of Microelectronics, Chinese Academy of Sciences, Beijing, China; email: shangdashan@ime.ac.cn
+ER  -
+
+TY  - JOUR
+AU  - Zhao, T.
+AU  - Liang, X.
+AU  - Tu, W.
+AU  - Huang, Z.
+AU  - Biljecki, F.
+TI  - Sensing urban soundscapes from street view imagery
+PY  - 2023
+T2  - Computers, Environment and Urban Systems
+VL  - 99
+C7  - 101915
+DO  - 10.1016/j.compenvurbsys.2022.101915
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85142180445&doi=10.1016%2fj.compenvurbsys.2022.101915&partnerID=40&md5=9730ca723ebba4a3a1fac7e640b318ac
+AD  - School of Architecture and Urban Planning, Shenzhen University, China
+AD  - Department of Architecture, National University of Singapore, Singapore
+AD  - Department of Real Estate, National University of Singapore, Singapore
+AB  - A healthy acoustic environment is an essential component of sustainable cities. Various noise monitoring and simulation techniques have been developed to measure and evaluate urban sounds. However, sensing large areas at a fine resolution remains a great challenge. Based on machine learning, we introduce a new application of street view imagery — estimating large-area high-resolution urban soundscapes, investigating the premise that we can predict and characterize soundscapes without laborious and expensive noise measurements. First, visual features are extracted from street-level imagery using computer vision. Second, fifteen soundscape indicators are identified and a survey is conducted to gauge them solely from images. Finally, a prediction model is constructed to infer the urban soundscape by modeling the non-linear relationship between them. The results are verified with extensive field surveys. Experiments conducted in Singapore and Shenzhen using half a million images affirm that street view imagery enables us to sense large-scale urban soundscapes with low cost but high accuracy and detail, and provides an alternative means to generate soundscape maps. R2 reaches 0.48 by evaluating the predicted results with field data collection. Further novelties in this domain are revealing the contributing visual elements and spatial laws of soundscapes, underscoring the usability of crowdsourced data, and exposing international patterns in perception. © 2022
+KW  - Built environment
+KW  - Deep learning
+KW  - GeoAI
+KW  - Perception
+KW  - Spatial analysis
+KW  - Urban planning
+KW  - Acoustic noise
+KW  - Deep learning
+KW  - Noise pollution
+KW  - Acoustic environment
+KW  - Built environment
+KW  - Deep learning
+KW  - GeoAI
+KW  - Noise monitoring
+KW  - Noise simulation
+KW  - Soundscapes
+KW  - Spatial analysis
+KW  - Sustainable cities
+KW  - Urban soundscape
+KW  - machine learning
+KW  - perception
+KW  - spatial analysis
+KW  - sustainable development
+KW  - urban planning
+KW  - Surveys
+PB  - Elsevier Ltd
+SN  - 01989715 (ISSN)
+LA  - English
+J2  - Comput. Environ. Urban Syst.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 46; Correspondence Address: F. Biljecki; Department of Architecture, National University of Singapore, Singapore; email: filip@nus.edu.sg; CODEN: CEUSD
+ER  -
+
+TY  - JOUR
+AU  - Jenga, K.
+AU  - Catal, C.
+AU  - Kar, G.
+TI  - Machine learning in crime prediction
+PY  - 2023
+T2  - Journal of Ambient Intelligence and Humanized Computing
+VL  - 14
+IS  - 3
+SP  - 2887
+EP  - 2913
+DO  - 10.1007/s12652-023-04530-y
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85147270161&doi=10.1007%2fs12652-023-04530-y&partnerID=40&md5=26a35250aa2bbfcc4206d67404f76482
+AD  - Department of Computer Engineering, Bahcesehir University, Istanbul, Turkey
+AD  - Department of Computer Science and Engineering, Qatar University, Doha, Qatar
+AB  - Predicting crimes before they occur can save lives and losses of property. With the help of machine learning, many researchers have studied predicting crimes extensively. In this paper, we evaluate state-of-the-art crime prediction techniques that are available in the last decade, discuss possible challenges, and provide a discussion about the future work that could be conducted in the field of crime prediction. Although many works aim to predict crimes, the datasets they used and methods that are applied are numerous. Using a Systematic Literature Review (SLR) methodology, we aim to collect and synthesize the required knowledge regarding machine learning-based crime prediction and help both law enforcement authorities and scientists to mitigate and prevent future crime occurrences. We focus primarily on 68 selected machine learning papers that predict crime. We formulate eight research questions and observe that the majority of the papers used a supervised machine learning approach, assuming that there is prior labeled data, and however in some cases, there is no labeled data in real-world scenarios. We have also discussed the main challenges found while conducting some of the studies by the researchers. We consider that this research paves the way for further research to help governments and countries fight crime and decrease this for better safety and security. © 2023, The Author(s).
+KW  - Artificial Intelligence
+KW  - Crime analysis
+KW  - Crime prediction
+KW  - Feature selection
+KW  - Machine learning
+KW  - Neural networks
+KW  - Crime
+KW  - Feature Selection
+KW  - Learning systems
+KW  - Supervised learning
+KW  - Crime analyse
+KW  - Crime prediction
+KW  - Features selection
+KW  - Labeled data
+KW  - Machine-learning
+KW  - Neural-networks
+KW  - Predicting crimes
+KW  - Prediction techniques
+KW  - Property
+KW  - State of the art
+KW  - Forecasting
+PB  - Springer Science and Business Media Deutschland GmbH
+SN  - 18685137 (ISSN)
+LA  - English
+J2  - J. Ambient Intell. Humanized Comput.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 31; Correspondence Address: C. Catal; Department of Computer Science and Engineering, Qatar University, Doha, Qatar; email: ccatal@qu.edu.qa
+ER  -
+

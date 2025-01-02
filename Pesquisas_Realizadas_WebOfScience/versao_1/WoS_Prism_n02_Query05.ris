@@ -1,0 +1,236 @@
+﻿TY  - CPAPER
+AU  - Gretok, E
+AU  - Langerman, D
+AU  - Oliver, WM
+ED  - Villata, S
+ED  - Harasta, J
+ED  - Kremen, P
+TI  - Transformers for Classifying Fourth Amendment Elements and Factors Tests
+T2  - LEGAL KNOWLEDGE AND INFORMATION SYSTEMS
+LA  - English
+CP  - 33rd Annual International Conference on Legal Knowledge and Information Systems (JURIX)
+KW  - bright-line rule
+KW  - totality-of-the-circumstances
+KW  - fourth amendment
+KW  - elements
+KW  - factors
+KW  - text classification
+KW  - transformers
+AB  - Determining if a court has applied a bright-line or totality-of-the-circumstances rule for Fourth Amendment cases demonstrates a difficult problem even for human lawyers and justices. Determining the type of test that governs an issue is essential to answering a legal question. Modern natural language processing (NLP) tools, such as transformers, demonstrate the capacity to extract relevant features from unlabelled text. This study demonstrates the effectiveness of the BERT, RoBERTa, and ALBERT transformer models to classify Fourth Amendment cases by bright-line or totality-of-the-circumstances rule. Two approaches are considered in which models are trained with either positive language extracted by a domain-expert or with full texts of cases. Transformers attain up to 92.31% accuracy on full texts, further demonstrating the capability of NLP techniques on domain-specific tasks even without handcrafted features.
+AD  - Univ Pittsburgh, Swanson Sch Engn, Dept Elect & Comp Engn, Pittsburgh, PA 15260 USAAD  - Duquesne Univ, Sch Law, Pittsburgh, PA USAC3  - Pennsylvania Commonwealth System of Higher Education (PCSHE)C3  - University of PittsburghC3  - Duquesne UniversityPU  - IOS PRESS
+PI  - AMSTERDAM
+PA  - NIEUWE HEMWEG 6B, 1013 BG AMSTERDAM, NETHERLANDS
+SN  - 0922-6389
+SN  - 1879-8314
+SN  - 978-1-64368-151-1
+SN  - 978-1-64368-150-4
+J9  - FRONT ARTIF INTEL AP
+PY  - 2020
+VL  - 334
+SP  - 63
+EP  - 72
+DO  - 10.3233/FAIA200850
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)WE  - Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)AN  - WOS:000702015500007
+N1  - Times Cited in Web of Science Core Collection:  3
+Total Times Cited:  3
+Cited Reference Count:  36
+ER  -
+
+TY  - JOUR
+AU  - Sheik, R
+AU  - Ganta, SR
+AU  - Nirmala, SJ
+TI  - Legal sentence boundary detection using hybrid deep learning and statistical models
+T2  - ARTIFICIAL INTELLIGENCE AND LAW
+LA  - English
+KW  - Natural language processing
+KW  - Sentence boundary detection
+KW  - Deep learning
+KW  - Transformer
+KW  - LegalBERT
+KW  - CaseLawBERT
+KW  - CNN
+KW  - CRF
+AB  - Sentence boundary detection (SBD) represents an important first step in natural language processing since accurately identifying sentence boundaries significantly impacts downstream applications. Nevertheless, detecting sentence boundaries within legal texts poses a unique and challenging problem due to their distinct structural and linguistic features. Our approach utilizes deep learning models to leverage delimiter and surrounding context information as input, enabling precise detection of sentence boundaries in English legal texts. We evaluate various deep learning models, including domain-specific transformer models like LegalBERT and CaseLawBERT. To assess the efficacy of our deep learning models, we compare them with a state-of-the-art domain-specific statistical conditional random field (CRF) model. After considering model size, F1-score, and inference time, we identify the Convolutional Neural Network Model (CNN) as the top-performing deep learning model. To further enhance performance, we integrate the features of the CNN model into the subsequent CRF model, creating a hybrid architecture that combines the strengths of both models. Our experiments demonstrate that the hybrid model outperforms the baseline model, achieving a 4% improvement in the F1-score. Additional experiments showcase the superiority of the hybrid model over SBD open-source libraries when confronted with an out-of-domain test set. These findings underscore the importance of efficient SBD in legal texts and emphasize the advantages of employing deep learning models and hybrid architectures to achieve optimal performance.
+AD  - Natl Inst Technol Trichy, Tiruchirappalli, Tamil Nadu, IndiaC3  - National Institute of Technology (NIT System)C3  - National Institute of Technology TiruchirappalliPU  - SPRINGER
+PI  - DORDRECHT
+PA  - VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN  - 0924-8463
+SN  - 1572-8382
+J9  - ARTIF INTELL LAW
+JI  - Artif. Intell. Law
+DA  - 2024 MAR 14
+PY  - 2024
+DO  - 10.1007/s10506-024-09394-x
+C6  - MAR 2024
+WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:001182938300001
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  60
+ER  -
+
+TY  - CPAPER
+AU  - Mumford, J
+AU  - Atkinson, K
+AU  - Bench-Capon, T
+A1  - ACM
+TI  - Combining a Legal Knowledge Model with Machine Learning for Reasoning with Legal Cases
+T2  - PROCEEDINGS OF THE 19TH INTERNATIONAL CONFERENCE ON ARTIFICIAL INTELLIGENCE AND LAW, ICAIL 2023
+LA  - English
+CP  - 19th International Conference on Artificial Intelligence and Law (ICAIL)
+KW  - Transformers
+KW  - domain model
+KW  - factor ascription
+KW  - case annotation
+AB  - Recent years have witnessed significant progress in the deployment of advanced Natural Language Processing (NLP) techniques based on transformer technology, across many domains and applications. However, in legal domains, due to the complexity, length, and sparsity of legal case documents, the use of these advanced NLP techniques has offered comparatively slight returns. Perhaps even more importantly, such methods are critically lacking in explainability and justification of outputs, which are essential for many legal applications. We propose that the direction of these NLP techniques should be aimed at ascription to a legal knowledge model, which can then provide the necessary and auditable justifications for the rationale of any case outcome. In this paper we investigate the effectiveness of using Hierarchical Bidirectional Encoder Representations from Transformers (H-BERT) models to ascribe to an Angelic Domain Model (ADM) that is able to represent the legal knowledge of a domain in a structured way, enabling justifications and improving performance. Our study involved an annotation task on a popular domain, cases from the European Court of Human Rights, to gain an understanding of the balance of complaints in the domain. The data set produced from this study enabled training of models for factor ascription using the classification targets derived from the annotations. We present results of experiments conducted to evaluate the performance of the ascription task at three different levels of abstraction within the structured model.
+AD  - Univ Liverpool, Liverpool, Merseyside, EnglandC3  - University of LiverpoolFU  - Towards Turing 2.0 under the EPSRC [D-ACAD-052]; Alan Turing Institute
+FX  - This work was supported by Towards Turing 2.0 under the EPSRC Grant D-ACAD-052 & The Alan Turing Institute.
+PU  - ASSOC COMPUTING MACHINERY
+PI  - NEW YORK
+PA  - 1601 Broadway, 10th Floor, NEW YORK, NY, UNITED STATES
+SN  - 979-8-4007-0197-9
+PY  - 2023
+SP  - 167
+EP  - 176
+DO  - 10.1145/3594536.3595158
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)WE  - Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)AN  - WOS:001139079400018
+N1  - Times Cited in Web of Science Core Collection:  3
+Total Times Cited:  3
+Cited Reference Count:  30
+ER  -
+
+TY  - CPAPER
+AU  - Lombardi, A
+AU  - Alfano, D
+AU  - Abbruzzese, R
+ED  - Spanakis, J
+ED  - VanDijck, G
+ED  - Sileno, G
+TI  - Legal Text Segmentation Through Breakpoint Detection
+T2  - LEGAL KNOWLEDGE AND INFORMATION SYSTEMS
+LA  - English
+CP  - 36th Annual International Conference on Legal Knowledge and Information Systems (JURIX)
+KW  - Text Segmentation
+KW  - Anomaly Detection
+KW  - NLP
+KW  - Legal Documents
+KW  - Transformers
+KW  - Explainability
+AB  - Efficient text segmentation plays a crucial role in the legal domain as it helps legal professionals in extracting relevant details from lengthy documents, focusing the attention on the main information within the segments. This paper introduces a novel approach for text segmentation of legal documents by leveraging breakpoint detection and segment classification as a single operation. The proposed solution employs a transformer model pre-trained on pre-processed texts from the Italian National Jurisprudence Archive and fine-tuned on Italian Court of Cassation documents. Experimental results reveal that the suggested methodology outperforms traditional approaches, demonstrating the model's ability to learn the grammatical and structural patterns of legal documents even with perturbed and noisy text.
+AD  - Eustema Spa, Naples, ItalyAD  - Univ Salerno, Dept Management & Innovat Syst, Fisciano, ItalyC3  - University of SalernoFU  - Eustema S.p.A. Research and Development Centre of Naples; Department of Management & Innovation Systems of University of Salerno
+FX  - This work was completed with the generous resources provided by Eustema S.p.A. Research and Development Centre of Naples and by the Department of Management & Innovation Systems of University of Salerno.
+PU  - IOS PRESS
+PI  - AMSTERDAM
+PA  - NIEUWE HEMWEG 6B, 1013 BG AMSTERDAM, NETHERLANDS
+SN  - 0922-6389
+SN  - 1879-8314
+SN  - 978-1-64368-472-7
+SN  - 978-1-64368-473-4
+J9  - FRONT ARTIF INTEL AP
+PY  - 2023
+VL  - 379
+SP  - 227
+EP  - 236
+DO  - 10.3233/FAIA230968
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)WE  - Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)AN  - WOS:001175464100028
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  16
+ER  -
+
+TY  - CPAPER
+AU  - Brugger, T
+AU  - Stürmer, M
+AU  - Niklaus, J
+A1  - ACM
+TI  - MultiLegalSBD: A Multilingual Legal Sentence Boundary Detection Dataset
+T2  - PROCEEDINGS OF THE 19TH INTERNATIONAL CONFERENCE ON ARTIFICIAL INTELLIGENCE AND LAW, ICAIL 2023
+LA  - English
+CP  - 19th International Conference on Artificial Intelligence and Law (ICAIL)
+KW  - Sentence Boundary Detection
+KW  - Natural Language Processing
+KW  - Legal Document Analysis
+KW  - Text Annotation
+KW  - Multilingual
+AB  - Sentence Boundary Detection (SBD) is one of the foundational building blocks of Natural Language Processing (NLP), with incorrectly split sentences heavily influencing the output quality of downstream tasks. It is a challenging task for algorithms, especially in the legal domain, considering the complex and different sentence structures used. In this work, we curated a diverse multilingual legal dataset consisting of over 130'000 annotated sentences in 6 languages. Our experimental results indicate that the performance of existing SBD models is subpar on multilingual legal data. We trained and tested monolingual and multilingual models based on CRF, BiLSTM-CRF, and transformers, demonstrating state-of-the-art performance. We also show that our multilingual models outperform all baselines in the zero-shot setting on a Portuguese test set. To encourage further research and development by the community, we have made our dataset, models, and code publicly available.
+AD  - Univ Bern, Bern, SwitzerlandAD  - Bern Univ Appl Sci, Bern, SwitzerlandAD  - Stanford Univ, Stanford, CA 94305 USAC3  - University of BernC3  - Stanford UniversityPU  - ASSOC COMPUTING MACHINERY
+PI  - NEW YORK
+PA  - 1601 Broadway, 10th Floor, NEW YORK, NY, UNITED STATES
+SN  - 979-8-4007-0197-9
+PY  - 2023
+SP  - 42
+EP  - 51
+DO  - 10.1145/3594536.3595132
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)WE  - Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)AN  - WOS:001139079400005
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  34
+ER  -
+
+TY  - CPAPER
+AU  - Alves, A
+AU  - Miranda, P
+AU  - Mello, R
+AU  - Nascimento, A
+ED  - Spanakis, J
+ED  - VanDijck, G
+ED  - Sileno, G
+TI  - Automatic Simplification of Legal Texts in Portuguese Using Machine Learning
+T2  - LEGAL KNOWLEDGE AND INFORMATION SYSTEMS
+LA  - English
+CP  - 36th Annual International Conference on Legal Knowledge and Information Systems (JURIX)
+KW  - automatic text simplification
+KW  - machine learning
+KW  - natural language processing
+AB  - Texts produced by the Brazilian judiciary have a complex and technical vocabulary, with elaborate use of the Portuguese language and many legal terms difficult to be understood, generating a barrier in communication between the judiciary and the population. In this sense, the Automatic Text Simplification (ATS), activity of the Natural Language Processing (NLP) area, can be applied to improve the readability of these types of text using specialized algorithms, and promote scalability in simplifying them, in view of the great demand in the courts. In this context, this article presents an evaluation of four methods of state of the art in text simplification, evaluated according to readability metrics, to improve the quality of existing texts in the judicial summaries, dataset containing 100 summaries of the Federal Regional Court of the 5th Region (TRF5) and another 100 of the Federal Supreme Court (STF). The methods MUSS(EN), MUSS(PT), Transformers and NMT + Attention were tested, and the results of the simplifications exceeded the FRE readability index of the original texts, making them more readable.
+AD  - Cesar Sch, Recife, PE, BrazilAD  - Univ Fed Rural Pernambuco, Recife, PE, BrazilC3  - Universidade Federal Rural de Pernambuco (UFRPE)PU  - IOS PRESS
+PI  - AMSTERDAM
+PA  - NIEUWE HEMWEG 6B, 1013 BG AMSTERDAM, NETHERLANDS
+SN  - 0922-6389
+SN  - 1879-8314
+SN  - 978-1-64368-472-7
+SN  - 978-1-64368-473-4
+J9  - FRONT ARTIF INTEL AP
+PY  - 2023
+VL  - 379
+SP  - 281
+EP  - 286
+DO  - 10.3233/FAIA230975
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)WE  - Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)AN  - WOS:001175464100035
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  23
+ER  -
+
+TY  - CPAPER
+AU  - Darji, H
+AU  - Mitrovic, J
+AU  - Granitzer, M
+A1  - ACM
+TI  - A Dataset of German Legal Reference Annotations
+T2  - PROCEEDINGS OF THE 19TH INTERNATIONAL CONFERENCE ON ARTIFICIAL INTELLIGENCE AND LAW, ICAIL 2023
+LA  - English
+CP  - 19th International Conference on Artificial Intelligence and Law (ICAIL)
+KW  - Legal Language Processing
+KW  - NLP
+KW  - Sentence Transformers
+KW  - Open Legal Data
+KW  - Law References
+KW  - Law Reference Annotations
+AB  - The field of legal Natural Language Processing faces a lot of challenges due to the unavailability of properly structured datasets. One such instance is the need for a dataset that not only separates different parts of legal references, such as an article or paragraph number but also provides information about what a particular legal reference dictates. Having access to such a dataset can provide easy access to researchers working on experiments such as context similarity between law texts and legal cases that refer to a particular law. In this paper, we present a dataset of 2944 legal references in German law that are manually annotated by law experts. This dataset has 21 properties for each law reference in the dataset, such as Buch, Teil, Titel, Untertitel, etc. It also provides the complete text of each law reference in the dataset, along with specific paragraph text mentioned in the law reference. Furthermore, using this dataset together with Open Legal Data, we perform a law reference prediction task to compare the performance between predicting full law reference and only the base law reference.
+AD  - Univ Passau, Passau, GermanyAD  - Inst AI R&D Serbia, Novi Sad, SerbiaC3  - University of PassauFU  - German Federal Ministry of Education and Research (BMBF) [01|S20049, 16DHBKI059]
+FX  - The project on which this report is based was funded by the German Federal Ministry of Education and Research (BMBF) under the funding code 01|S20049, and also partially by the project DEEP WRITE (Grant No. 16DHBKI059). The author is responsible for the content of this publication.
+PU  - ASSOC COMPUTING MACHINERY
+PI  - NEW YORK
+PA  - 1601 Broadway, 10th Floor, NEW YORK, NY, UNITED STATES
+SN  - 979-8-4007-0197-9
+PY  - 2023
+SP  - 392
+EP  - 396
+DO  - 10.1145/3594536.3595173
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)WE  - Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)AN  - WOS:001139079400042
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  14
+ER  -
+

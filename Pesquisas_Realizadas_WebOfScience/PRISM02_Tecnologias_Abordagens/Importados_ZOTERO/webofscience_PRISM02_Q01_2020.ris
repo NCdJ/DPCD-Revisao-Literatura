@@ -1,0 +1,312 @@
+﻿TY  - JOUR
+AU  - Lee, J
+AU  - Yoon, W
+AU  - Kim, S
+AU  - Kim, D
+AU  - Kim, S
+AU  - So, CH
+AU  - Kang, J
+TI  - BioBERT: a pre-trained biomedical language representation model for biomedical text mining
+T2  - BIOINFORMATICS
+LA  - English
+KW  - RECOGNITION
+KW  - CORPUS
+AB  - Motivation: Biomedical text mining is becoming increasingly important as the number of biomedical documents rapidly grows. With the progress in natural language processing (NLP), extracting valuable information from biomedical literature has gained popularity among researchers, and deep learning has boosted the development of effective biomedical text mining models. However, directly applying the advancements in NLP to biomedical text mining often yields unsatisfactory results due to a word distribution shift from general domain corpora to biomedical corpora. In this article, we investigate how the recently introduced pre-trained language model BERT can be adapted for biomedical corpora.
+   Results: We introduce BioBERT (Bidirectional Encoder Representations from Transformers for Biomedical Text Mining), which is a domain-specific language representation model pre-trained on large-scale biomedical corpora. With almost the same architecture across tasks, BioBERT largely outperforms BERT and previous state-of-the-art models in a variety of biomedical text mining tasks when pre-trained on biomedical corpora. While BERT obtains performance comparable to that of previous state-of-the-art models, BioBERT significantly outperforms them on the following three representative biomedical text mining tasks: biomedical named entity recognition (0.62% F1 score improvement), biomedical relation extraction (2.80% F1 score improvement) and biomedical question answering (12.24% MRR improvement). Our analysis results show that pre-training BERT on biomedical corpora helps it to understand complex biomedical texts.
+AD  - Korea Univ, Dept Comp Sci & Engn, Seoul 02841, South KoreaAD  - Naver Corp, Clova Res, Seongnam 13561, South KoreaAD  - Korea Univ, Interdisciplinary Grad Program Bioinformat, Seoul 02841, South KoreaC3  - Korea UniversityC3  - NaverC3  - Korea UniversityFU  - National Research Foundation of Korea(NRF) - Korea government [NRF-2017R1A2A1A17069645, NRF-2017M3C4A7065887, NRF-2014M3C9A3063541]
+FX  - This research was supported by the National Research Foundation of Korea(NRF) funded by the Korea government (NRF-2017R1A2A1A17069645, NRF-2017M3C4A7065887, NRF-2014M3C9A3063541).
+PU  - OXFORD UNIV PRESS
+PI  - OXFORD
+PA  - GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+SN  - 1367-4803
+SN  - 1367-4811
+J9  - BIOINFORMATICS
+JI  - Bioinformatics
+DA  - FEB 15
+PY  - 2020
+VL  - 36
+IS  - 4
+SP  - 1234
+EP  - 1240
+DO  - 10.1093/bioinformatics/btz682
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000518528800035
+N1  - Times Cited in Web of Science Core Collection:  2403
+Total Times Cited:  2630
+Cited Reference Count:  38
+ER  -
+
+TY  - CPAPER
+AU  - Rahman, W
+AU  - Hasan, MK
+AU  - Lee, S
+AU  - Zadeh, A
+AU  - Mao, CF
+AU  - Morency, LP
+AU  - Hoque, E
+A1  - Assoc Computat Linguist
+TI  - Integrating Multimodal Information in Large Pretrained Transformers
+T2  - 58TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2020)
+LA  - English
+CP  - 58th Annual Meeting of the Association-for-Computational-Linguistics (ACL)
+AB  - Recent Transformer-based contextual word representations, including BERT and XLNet, have shown state-of-the-art performance in multiple disciplines within NLP. Fine-tuning the trained contextual models on task-specific datasets has been the key to achieving superior performance downstream. While fine-tuning these pre-trained models is straightforward for lexical applications (applications with only language modality), it is not trivial for multimodal language (a growing area in NLP focused on modeling face-to-face communication). Pre-trained models don't have the necessary components to accept two extra modalities of vision and acoustic. In this paper, we proposed an attachment to BERT and XLNet called Multimodal Adaptation Gate (MAG). MAG allows BERT and XLNet to accept multimodal nonverbal data during fine-tuning. It does so by generating a shift to internal representation of BERT and XLNet; a shift that is conditioned on the visual and acoustic modalities. In our experiments, we study the commonly used CMU-MOSI and CMU-MOSEI datasets for multimodal sentiment analysis. Fine-tuning MAG-BERT and MAG-XLNet significantly boosts the sentiment analysis performance over previous baselines as well as language-only fine-tuning of BERT and XLNet. On the CMU-MOSI dataset, MAG-XLNet achieves human-level multimodal sentiment analysis performance for the first time in the NLP community.
+AD  - Univ Rochester, Dept Comp Sci, Rochester, NY 14627 USAAD  - CMU, Language Technol Inst, SCS, Pittsburgh, PA USAC3  - University of RochesterC3  - Carnegie Mellon UniversityFU  - US Defense Advanced Research Projects Agency (DARPA) [W911NF-15-1-0542, W911NF-19-1-0029]; Army Research Office (ARO); National Science Foundation [1750439, 1722822]; National Institutes of Health
+FX  - This research was supported in part by grant W911NF-15-1-0542 and W911NF-19-1-0029 with the US Defense Advanced Research Projects Agency (DARPA) and the Army Research Office (ARO). Authors AZ and LM were supported by the National Science Foundation (Awards #1750439 #1722822) and National Institutes of Health. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of US Defense Advanced Research Projects Agency, Army Research Office, National Science Foundation or National Institutes of Health, and no official endorsement should be inferred.
+PU  - ASSOC COMPUTATIONAL LINGUISTICS-ACL
+PI  - STROUDSBURG
+PA  - 209 N EIGHTH STREET, STROUDSBURG, PA 18360 USA
+SN  - 978-1-952148-25-5
+PY  - 2020
+SP  - 2359
+EP  - 2369
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)WE  - Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)AN  - WOS:000570978202058
+N1  - Times Cited in Web of Science Core Collection:  255
+Total Times Cited:  281
+Cited Reference Count:  27
+ER  -
+
+TY  - CPAPER
+AU  - Cui, YM
+AU  - Che, WX
+AU  - Liu, T
+AU  - Qin, B
+AU  - Wang, SJ
+AU  - Hu, GP
+ED  - Cohn, T
+ED  - He, Y
+ED  - Liu, Y
+TI  - Revisiting Pre-trained Models for Chinese Natural Language Processing
+T2  - FINDINGS OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS, EMNLP 2020
+LA  - English
+CP  - Meeting of the Association-for-Computational-Linguistics (ACL-EMNLP)
+AB  - Bidirectional Encoder Representations from Transformers (BERT) has shown marvelous improvements across various NLP tasks, and consecutive variants have been proposed to further improve the performance of the pretrained language models. In this paper, we target on revisiting Chinese pre-trained language models to examine their effectiveness in a non-English language and release the Chinese pre-trained language model series to the community. We also propose a simple but effective model called MacBERT, which improves upon RoBERTa in several ways, especially the masking strategy that adopts MLM as correction (Mac). We carried out extensive experiments on eight Chinese NLP tasks to revisit the existing pre-trained language models as well as the proposed MacBERT. Experimental results show that MacBERT could achieve state-of-the-art performances on many NLP tasks, and we also ablate details with several findings that may help future research.
+AD  - Harbin Inst Technol, Res Ctr Social Comp & Informat Retrieval SCIR, Harbin, Peoples R ChinaAD  - IFLYTEK Res, State Key Lab Cognit Intelligence, Hefei, Peoples R ChinaAD  - IFLYTEK Res Hebei, Langfang, Peoples R ChinaC3  - Harbin Institute of TechnologyFU  - National Natural Science Foundation of China (NSFC) [61976072, 61632011, 61772153]
+FX  - We would like to thank all anonymous reviewers and senior program members for their thorough reviewing and providing constructive comments to improve our paper. The first author was partially supported by the Google TensorFlow Research Cloud (TFRC) program for Cloud TPU access. This work was supported by the National Natural Science Foundation of China (NSFC) via grant 61976072, 61632011, and 61772153.
+PU  - ASSOC COMPUTATIONAL LINGUISTICS-ACL
+PI  - STROUDSBURG
+PA  - 209 N EIGHTH STREET, STROUDSBURG, PA 18360 USA
+SN  - 978-1-952148-90-3
+PY  - 2020
+SP  - 657
+EP  - 668
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:001181866504048
+N1  - Times Cited in Web of Science Core Collection:  222
+Total Times Cited:  242
+Cited Reference Count:  36
+ER  -
+
+TY  - JOUR
+AU  - Tetko, IV
+AU  - Karpov, P
+AU  - Van Deursen, R
+AU  - Godin, G
+TI  - State-of-the-art augmented NLP transformer models for direct and single-step retrosynthesis
+T2  - NATURE COMMUNICATIONS
+LA  - English
+KW  - NEURAL-NETWORK
+KW  - PREDICTION
+KW  - OUTCOMES
+KW  - SYSTEM
+KW  - SMILES
+AB  - We investigated the effect of different training scenarios on predicting the (retro)synthesis of chemical compounds using text-like representation of chemical reactions (SMILES) and Natural Language Processing (NLP) neural network Transformer architecture. We showed that data augmentation, which is a powerful method used in image processing, eliminated the effect of data memorization by neural networks and improved their performance for prediction of new sequences. This effect was observed when augmentation was used simultaneously for input and the target data simultaneously. The top-5 accuracy was 84.8% for the prediction of the largest fragment (thus identifying principal transformation for classical retro-synthesis) for the USPTO-50k test dataset, and was achieved by a combination of SMILES augmentation and a beam search algorithm. The same approach provided significantly better results for the prediction of direct reactions from the single-step USPTO-MIT test set. Our model achieved 90.6% top-1 and 96.1% top-5 accuracy for its challenging mixed set and 97% top-5 accuracy for the USPTO-MIT separated set. It also significantly improved results for USPTO-full set single-step retrosynthesis for both top-1 and top-10 accuracies. The appearance frequency of the most abundantly generated SMILES was well correlated with the prediction outcome and can be used as a measure of the quality of reaction prediction. Development of algorithms to predict reactant and reagents given a target molecule is key to accelerate retrosynthesis approaches. Here the authors demonstrate that applying augmentation techniques to the SMILE representation of target data significantly improves the quality of the reaction predictions.
+AD  - Helmholtz Zentrum Munchen, Res Ctr Environm Hlth GmbH, Inst Struct Biol, Ingolstadter Landstr 1, D-85764 Neuherberg, GermanyAD  - BIGCHEM GmbH, Valerystr 49, Unterschleissheim, GermanyAD  - Firmenich Int SA, D Lab Firmenich, Rue Bergere 7, CH-1242 Meyrin Satigny, SwitzerlandC3  - Helmholtz AssociationC3  - Helmholtz-Center Munich - German Research Center for Environmental HealthFU  - European Union's Horizon 2020 research and innovation program under the Marie Skodowska-Curie Innovative Training Network European Industrial Doctorate grant [676434]; ERA-CVD "CardioOncology" project, BMBF [01KL1710]; Intel; NVIDIA Corporation
+FX  - This study was partially funded by the European Union's Horizon 2020 research and innovation program under the Marie Skodowska-Curie Innovative Training Network European Industrial Doctorate grant agreement No. 676434, "Big Data in Chemistry" and ERA-CVD "CardioOncology" project, BMBF 01KL1710 as well as by a grant from Intel. The article reflects only the author's view and neither the European Commission nor the Research Executive Agency (REA) are responsible for any use that may be made of the information it contains. The authors thank NVIDIA Corporation for donating Quadro P6000, Titan Xp, and Titan V graphics cards for this research work. The authors thank Michael Withnall (Apheris AI) and Alli Michelle Keys (Stanford University) for their comments and English corrections as well as Marios Theodoropoulos (University of Geneva) for interesting discussions. We also would like to thank the anonymous reviewers for their insightful and sometimes even provocative comments answering of which significantly increased the value of this study.
+PU  - NATURE PORTFOLIO
+PI  - BERLIN
+PA  - HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN  - 2041-1723
+J9  - NAT COMMUN
+JI  - Nat. Commun.
+DA  - NOV 4
+PY  - 2020
+VL  - 11
+IS  - 1
+C7  - 5575
+DO  - 10.1038/s41467-020-19266-y
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000592028600007
+N1  - Times Cited in Web of Science Core Collection:  207
+Total Times Cited:  218
+Cited Reference Count:  40
+ER  -
+
+TY  - CPAPER
+AU  - Morris, JX
+AU  - Lifland, E
+AU  - Yoo, JY
+AU  - Grigsby, J
+AU  - Jin, D
+AU  - Qi, YJ
+A1  - Assoc Computat Linguist
+TI  - TextAttack: A Framework for Adversarial Attacks, Data Augmentation, and Adversarial Training in NLP
+T2  - PROCEEDINGS OF THE 2020 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING: SYSTEM DEMONSTRATIONS
+LA  - English
+CP  - Conference on Empirical Methods in Natural Language Processing (EMNLP)
+AB  - While there has been substantial research using adversarial attacks to analyze NLP models, each attack is implemented in its own code repository. It remains challenging to develop NLP attacks and utilize them to improve model performance. This paper introduces TextAttack, a Python framework for adversarial attacks, data augmentation, and adversarial training in NLP. TextAttack builds attacks from four components: a goal function, a set of constraints, a transformation, and a search method. TextAttack's modular design enables researchers to easily construct attacks from combinations of novel and existing components. TextAttack provides implementations of 16 adversarial attacks from the literature and supports a variety of models and datasets, including BERT and other transformers, and all GLUE tasks. TextAttack also includes data augmentation and adversarial training modules for using components of adversarial attacks to improve model accuracy and robustness. TextAttack is democratizing NLP: anyone can try data augmentation and adversarial training on any model or dataset, with just a few lines of code.
+AD  - Univ Virginia, Dept Comp Sci, Charlottesville, VA 22903 USAAD  - MIT, Comp Sci & Artificial Intelligence Lab, Cambridge, MA 02139 USAC3  - University of VirginiaC3  - Massachusetts Institute of Technology (MIT)PU  - ASSOC COMPUTATIONAL LINGUISTICS-ACL
+PI  - STROUDSBURG
+PA  - 209 N EIGHTH STREET, STROUDSBURG, PA 18360 USA
+SN  - 978-1-952148-62-0
+PY  - 2020
+SP  - 119
+EP  - 126
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000855177700016
+N1  - Times Cited in Web of Science Core Collection:  162
+Total Times Cited:  179
+Cited Reference Count:  39
+ER  -
+
+TY  - CPAPER
+AU  - Pfeiffer, J
+AU  - Rückle, A
+AU  - Poth, C
+AU  - Kamath, A
+AU  - Vulic, I
+AU  - Ruder, S
+AU  - Cho, K
+AU  - Gurevych, I
+A1  - Assoc Computat Linguist
+TI  - AdapterHub: A Framework for Adapting Transformers
+T2  - PROCEEDINGS OF THE 2020 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING: SYSTEM DEMONSTRATIONS
+LA  - English
+CP  - Conference on Empirical Methods in Natural Language Processing (EMNLP)
+AB  - The current modus operandi in NLP involves downloading and fine-tuning pre-trained models consisting of hundreds of millions, or even billions of parameters. Storing and sharing such large trained models is expensive, slow, and time-consuming, which impedes progress towards more general and versatile NLP methods that learn from and for many tasks. Adapters-small learnt bottleneck layers inserted within each layer of a pre-trained model-ameliorate this issue by avoiding full fine-tuning of the entire model. However, sharing and integrating adapter layers is not straightforward. We propose AdapterHub, a framework that allows dynamic "stichingin" of pre-trained adapters for different tasks and languages. The framework, built on top of the popular HuggingFace Transformers library, enables extremely easy and quick adaptations of state-of-the-art pre-trained models (e.g., BERT, RoBERTa, XLM-R) across tasks and languages. Downloading, sharing, and training adapters is as seamless as possible using minimal changes to the training scripts and a specialized infrastructure. Our framework enables scalable and easy access to sharing of task-specific models, particularly in low-resource scenarios. AdapterHub includes all recent adapter architectures and can be found at AdapterHub.ml.
+AD  - Tech Univ Darmstadt, Darmstadt, GermanyAD  - NYU, New York, NY 10003 USAAD  - Univ Cambridge, Cambridge, EnglandAD  - DeepMind, London, EnglandC3  - Technical University of DarmstadtC3  - New York UniversityC3  - University of CambridgeFU  - LOEWE initiative (Hesse, Germany); German Federal Ministry of Education and Research; Hessen State Ministry for Higher Education, Research and the Arts within their joint support of the National Research Center for Applied Cybersecurity ATHENE; German Research Foundation [EC 503/1-1, GU 798/21-1]; DeepMind PhD Fellowship; ERC [648909]; Samsung Advanced Institute of Technology; Samsung Research (Improving Deep Learning using Latent Structure)
+FX  - Jonas Pfeiffer is supported by the LOEWE initiative (Hesse, Germany) within the emergenCITY center. Andreas Ruckle is supported by the German Federal Ministry of Education and Research and the Hessen State Ministry for Higher Education, Research and the Arts within their joint support of the National Research Center for Applied Cybersecurity ATHENE, and by the German Research Foundation under grant EC 503/1-1 and GU 798/21-1. Aishwarya Kamath is supported in part by a DeepMind PhD Fellowship. The work of Ivan Vuli ' c is supported by the ERC Consolidator Grant LEXICAL: Lexical Acquisition Across Languages (no 648909). Kyunghyun Cho is supported by Samsung Advanced Institute of Technology (Next Generation Deep Learning: from pattern recognition to AI) and Samsung Research (Improving Deep Learning using Latent Structure).
+PU  - ASSOC COMPUTATIONAL LINGUISTICS-ACL
+PI  - STROUDSBURG
+PA  - 209 N EIGHTH STREET, STROUDSBURG, PA 18360 USA
+SN  - 978-1-952148-62-0
+PY  - 2020
+SP  - 46
+EP  - 54
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000855177700007
+N1  - Times Cited in Web of Science Core Collection:  159
+Total Times Cited:  171
+Cited Reference Count:  42
+ER  -
+
+TY  - CPAPER
+AU  - Mozafari, M
+AU  - Farahbakhsh, R
+AU  - Crespi, N
+ED  - Cherifi, H
+ED  - Gaito, S
+ED  - Mendes, JF
+ED  - Moro, E
+ED  - Rocha, LM
+TI  - A BERT-Based Transfer Learning Approach for Hate Speech Detection in Online Social Media
+T2  - COMPLEX NETWORKS AND THEIR APPLICATIONS VIII, VOL 1
+LA  - English
+CP  - 8th International Conference on Complex Networks and Their Applications (COMPLEX NETWORKS)
+KW  - Hate speech detection
+KW  - Transfer learning
+KW  - Language modeling
+KW  - BERT
+KW  - Fine-tuning
+KW  - NLP
+KW  - Social media
+AB  - Generated hateful and toxic content by a portion of users in social media is a rising phenomenon that motivated researchers to dedicate substantial efforts to the challenging direction of hateful content identification. We not only need an efficient automatic hate speech detection model based on advanced machine learning and natural language processing, but also a sufficiently large amount of annotated data to train a model. The lack of a sufficient amount of labelled hate speech data, along with the existing biases, has been the main issue in this domain of research. To address these needs, in this study we introduce a novel transfer learning approach based on an existing pre-trained language model called BERT (Bidirectional Encoder Representations from Transformers). More specifically, we investigate the ability of BERT at capturing hateful context within social media content by using new fine-tuning methods based on transfer learning. To evaluate our proposed approach, we use two publicly available datasets that have been annotated for racism, sexism, hate, or offensive content on Twitter. The results show that our solution obtains considerable performance on these datasets in terms of precision and recall in comparison to existing approaches. Consequently, our model can capture some biases in data annotation and collection process and can potentially lead us to a more accurate model.
+AD  - Inst Polytech Paris, Telecom SudParis, CNRS UMR5157, Evry, FranceC3  - IMT - Institut Mines-TelecomC3  - Institut Polytechnique de ParisC3  - Telecom SudParisPU  - SPRINGER INTERNATIONAL PUBLISHING AG
+PI  - CHAM
+PA  - GEWERBESTRASSE 11, CHAM, CH-6330, SWITZERLAND
+SN  - 1860-949X
+SN  - 1860-9503
+SN  - 978-3-030-36687-2
+SN  - 978-3-030-36686-5
+J9  - STUD COMPUT INTELL
+PY  - 2020
+VL  - 881
+SP  - 928
+EP  - 940
+DO  - 10.1007/978-3-030-36687-2_77
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)WE  - Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)AN  - WOS:000843927300077
+N1  - Times Cited in Web of Science Core Collection:  155
+Total Times Cited:  163
+Cited Reference Count:  25
+ER  -
+
+TY  - CPAPER
+AU  - Chang, WC
+AU  - Yu, HF
+AU  - Zhong, K
+AU  - Yang, YM
+AU  - Dhillon, IS
+A1  - ASSOC COMP MACHINERY
+TI  - Taming Pretrained Transformers for Extreme Multi-label Text Classification
+T2  - KDD '20: PROCEEDINGS OF THE 26TH ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY & DATA MINING
+LA  - English
+CP  - 26th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD)
+KW  - Transformer models
+KW  - eXtreme Multi-label text classification
+AB  - We consider the extreme multi-label text classification (XMC) problem: given an input text, return the most relevant labels from a large label collection. For example, the input text could be a product description on Amazon.com and the labels could be product categories. XMC is an important yet challenging problem in the NLP community. Recently, deep pretrained transformer models have achieved state-of-the-art performance on many NLP tasks including sentence classification, albeit with small label sets. However, naively applying deep transformer models to the XMC problem leads to sub-optimal performance due to the large output space and the label sparsity issue. In this paper, we propose X-Transformer, the first scalable approach to fine-tuning deep transformer models for the XMC problem. The proposed method achieves new state-of-the-art results on four XMC benchmark datasets. In particular, on a Wiki dataset with around 0.5 million labels, the prec@1 of X-Transformer is 77.28%, a substantial improvement over state-of-the-art XMC approaches Parabel (linear) and AttentionXML (neural), which achieve 68.70% and 76.95% precision@1, respectively. We further apply X-Transformer to a product2query dataset from Amazon and gained 10.7% relative improvement on prec@1 over Parabel.
+AD  - Carnegie Mellon Univ, Pittsburgh, PA 15213 USAAD  - Amazon, Bellevue, WA USAAD  - UT Austin, Austin, TX USAC3  - Carnegie Mellon UniversityC3  - Amazon.comC3  - University of Texas SystemC3  - University of Texas AustinPU  - ASSOC COMPUTING MACHINERY
+PI  - NEW YORK
+PA  - 1601 Broadway, 10th Floor, NEW YORK, NY, UNITED STATES
+SN  - 978-1-4503-7998-4
+PY  - 2020
+SP  - 3163
+EP  - 3171
+DO  - 10.1145/3394486.3403368
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000749552303016
+N1  - Times Cited in Web of Science Core Collection:  122
+Total Times Cited:  137
+Cited Reference Count:  32
+ER  -
+
+TY  - CPAPER
+AU  - Ainslie, J
+AU  - Ontañón, S
+AU  - Alberti, C
+AU  - Cvicek, V
+AU  - Fisher, Z
+AU  - Pham, P
+AU  - Ravula, A
+AU  - Sanghai, S
+AU  - Wang, QF
+AU  - Yang, L
+A1  - Assoc Computat Linguist
+TI  - ETC: Encoding Long and Structured Inputs in Transformers
+T2  - PROCEEDINGS OF THE 2020 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING (EMNLP)
+LA  - English
+CP  - Conference on Empirical Methods in Natural Language Processing (EMNLP)
+AB  - Transformer models have advanced the state of the art in many Natural Language Processing (NLP) tasks. In this paper, we present a new Transformer architecture, Extended Transformer Construction (ETC), that addresses two key challenges of standard Transformer architectures, namely scaling input length and encoding structured inputs. To scale attention to longer inputs, we introduce a novel global-local attention mechanism between global tokens and regular input tokens. We also show that combining global-local attention with relative position encodings and a Contrastive Predictive Coding (CPC) pre-training objective allows ETC to encode structured inputs. We achieve state-of-the-art results on four natural language datasets requiring long and/or structured inputs.
+AD  - Google Res, Mountain View, CA 94043 USAC3  - Google IncorporatedPU  - ASSOC COMPUTATIONAL LINGUISTICS-ACL
+PI  - STROUDSBURG
+PA  - 209 N EIGHTH STREET, STROUDSBURG, PA 18360 USA
+SN  - 978-1-952148-60-6
+PY  - 2020
+SP  - 268
+EP  - 284
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000855160700019
+N1  - Times Cited in Web of Science Core Collection:  112
+Total Times Cited:  123
+Cited Reference Count:  44
+ER  -
+
+TY  - CPAPER
+AU  - Hendrycks, D
+AU  - Liu, XY
+AU  - Wallace, ER
+AU  - Dziedzic, AD
+AU  - Krishnan, RS
+AU  - Song, D
+A1  - Assoc Computat Linguist
+TI  - Pretrained Transformers Improve Out-of-Distribution Robustness
+T2  - 58TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2020)
+LA  - English
+CP  - 58th Annual Meeting of the Association-for-Computational-Linguistics (ACL)
+AB  - Although pretrained Transformers such as BERT achieve high accuracy on in distribution examples, do they generalize to new distributions? We systematically measure out-of-distribution (OOD) generalization for seven NLP datasets by constructing a new robustness benchmark with realistic distribution shifts. We measure the generalization of previous models including bag-of-words models, ConvNets, and LSTMs, and we show that pretrained Transformers' performance declines are substantially smaller. Pretrained transformers are also more effective at detecting anomalous or OOD examples, while many previous models are frequently worse than chance. We examine which factors affect robustness, finding that larger models are not necessarily more robust, distillation can be harmful, and more diverse pretraining data can enhance robustness. Finally, we show where future work can improve OOD robustness.
+AD  - Univ Calif Berkeley, Berkeley, CA 94720 USAAD  - Shanghai Jiao Tong Univ, Shanghai, Peoples R ChinaAD  - Univ Chicago, Chicago, IL 60637 USAC3  - University of California SystemC3  - University of California BerkeleyC3  - Shanghai Jiao Tong UniversityC3  - University of ChicagoFU  - National Science Foundation Frontier Award [1804794]; Division Of Computer and Network Systems; Direct For Computer & Info Scie & Enginr [1804794] Funding Source: National Science Foundation
+FX  - We thank the members of Berkeley NLP, Sona Jeswani, Suchin Gururangan, Nelson Liu, Shi Feng, the anonymous reviewers, and especially Jon Cai. This material is in part based upon work supported by the National Science Foundation Frontier Award 1804794. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
+PU  - ASSOC COMPUTATIONAL LINGUISTICS-ACL
+PI  - STROUDSBURG
+PA  - 209 N EIGHTH STREET, STROUDSBURG, PA 18360 USA
+SN  - 978-1-952148-25-5
+PY  - 2020
+SP  - 2744
+EP  - 2751
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)WE  - Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)AN  - WOS:000570978203004
+N1  - Times Cited in Web of Science Core Collection:  109
+Total Times Cited:  109
+Cited Reference Count:  59
+ER  -
+

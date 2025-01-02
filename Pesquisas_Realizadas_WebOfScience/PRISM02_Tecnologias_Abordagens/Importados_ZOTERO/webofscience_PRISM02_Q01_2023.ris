@@ -1,0 +1,419 @@
+﻿TY  - JOUR
+AU  - Han, K
+AU  - Wang, YH
+AU  - Chen, HT
+AU  - Chen, XH
+AU  - Guo, JY
+AU  - Liu, ZH
+AU  - Tang, YH
+AU  - Xiao, A
+AU  - Xu, CJ
+AU  - Xu, YX
+AU  - Yang, ZH
+AU  - Zhang, YM
+AU  - Tao, DC
+TI  - A Survey on Vision Transformer
+T2  - IEEE TRANSACTIONS ON PATTERN ANALYSIS AND MACHINE INTELLIGENCE
+LA  - English
+KW  - Transformers
+KW  - Task analysis
+KW  - Encoding
+KW  - Computer vision
+KW  - Computational modeling
+KW  - Visualization
+KW  - Object detection
+KW  - high-level vision
+KW  - low-level vision
+KW  - self-attention
+KW  - transformer
+KW  - video
+AB  - Transformer, first applied to the field of natural language processing, is a type of deep neural network mainly based on the self-attention mechanism. Thanks to its strong representation capabilities, researchers are looking at ways to apply transformer to computer vision tasks. In a variety of visual benchmarks, transformer-based models perform similar to or better than other types of networks such as convolutional and recurrent neural networks. Given its high performance and less need for vision-specific inductive bias, transformer is receiving more and more attention from the computer vision community. In this paper, we review these vision transformer models by categorizing them in different tasks and analyzing their advantages and disadvantages. The main categories we explore include the backbone network, high/mid-level vision, low-level vision, and video processing. We also include efficient transformer methods for pushing transformer into real device-based applications. Furthermore, we also take a brief look at the self-attention mechanism in computer vision, as it is the base component in transformer. Toward the end of this paper, we discuss the challenges and provide several further research directions for vision transformers.
+AD  - Huawei Noahs Ark Lab, Beijing 100084, Peoples R ChinaAD  - Peking Univ, Sch EECS, Beijing 100871, Peoples R ChinaAD  - Univ Sydney, Fac Engn, Sch Comp Sci, Darlington, NSW 2008, AustraliaC3  - Huawei TechnologiesC3  - Peking UniversityC3  - University of SydneyPU  - IEEE COMPUTER SOC
+PI  - LOS ALAMITOS
+PA  - 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN  - 0162-8828
+SN  - 1939-3539
+J9  - IEEE T PATTERN ANAL
+JI  - IEEE Trans. Pattern Anal. Mach. Intell.
+DA  - JAN 1
+PY  - 2023
+VL  - 45
+IS  - 1
+SP  - 87
+EP  - 110
+DO  - 10.1109/TPAMI.2022.3152247
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000899419900006
+N1  - Times Cited in Web of Science Core Collection:  1295
+Total Times Cited:  1372
+Cited Reference Count:  245
+ER  -
+
+TY  - JOUR
+AU  - Touvron, H
+AU  - Bojanowski, P
+AU  - Caron, M
+AU  - Cord, M
+AU  - El-Nouby, A
+AU  - Grave, E
+AU  - Izacard, G
+AU  - Joulin, A
+AU  - Synnaeve, G
+AU  - Verbeek, J
+AU  - Jégou, H
+TI  - ResMLP: Feedforward Networks for Image Classification With Data-Efficient Training
+T2  - IEEE TRANSACTIONS ON PATTERN ANALYSIS AND MACHINE INTELLIGENCE
+LA  - English
+KW  - Transformers
+KW  - Training
+KW  - Computer architecture
+KW  - Machine translation
+KW  - Decoding
+KW  - Task analysis
+KW  - Knowledge engineering
+KW  - Multi-layer perceptron
+KW  - computer-vision
+KW  - NLP
+AB  - We present ResMLP, an architecture built entirely upon multi-layer perceptrons for image classification. It is a simple residual network that alternates (i) a linear layer in which image patches interact, independently and identically across channels, and (ii) a two-layer feed-forward network in which channels interact independently per patch. When trained with a modern training strategy using heavy data-augmentation and optionally distillation, it attains surprisingly good accuracy/complexity trade-offs on ImageNet. We also train ResMLP models in a self-supervised setup, to further remove priors from employing a labelled dataset. Finally, by adapting our model to machine translation we achieve surprisingly good results. We share pre-trained models and our code based on the Timm library.
+AD  - Facebook AI Res, F-75004 Paris, FranceAD  - Sorbonne Univ, F-75006 Paris, FranceC3  - Facebook IncC3  - Sorbonne UniversitePU  - IEEE COMPUTER SOC
+PI  - LOS ALAMITOS
+PA  - 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN  - 0162-8828
+SN  - 1939-3539
+J9  - IEEE T PATTERN ANAL
+JI  - IEEE Trans. Pattern Anal. Mach. Intell.
+DA  - APR 1
+PY  - 2023
+VL  - 45
+IS  - 4
+SP  - 5314
+EP  - 5321
+DO  - 10.1109/TPAMI.2022.3206148
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000947840300085
+N1  - Times Cited in Web of Science Core Collection:  202
+Total Times Cited:  210
+Cited Reference Count:  72
+ER  -
+
+TY  - JOUR
+AU  - Liu, Y
+AU  - Zhang, Y
+AU  - Wang, YX
+AU  - Hou, F
+AU  - Yuan, J
+AU  - Tian, J
+AU  - Zhang, Y
+AU  - Shi, ZC
+AU  - Fan, JP
+AU  - He, ZQ
+TI  - A Survey of Visual Transformers
+T2  - IEEE TRANSACTIONS ON NEURAL NETWORKS AND LEARNING SYSTEMS
+LA  - English
+KW  - Classification
+KW  - computer vision (CV)
+KW  - detection
+KW  - point clouds
+KW  - segmentation
+KW  - self-supervision
+KW  - visual-linguistic pretraining
+KW  - visual Transformer
+KW  - DEEP
+KW  - LANGUAGE
+AB  - Transformer, an attention-based encoder-decoder model, has already revolutionized the field of natural language processing (NLP). Inspired by such significant achievements, some pioneering works have recently been done on employing Transformer-liked architectures in the computer vision (CV) field, which have demonstrated their effectiveness on three fundamental CV tasks (classification, detection, and segmentation) as well as multiple sensory data stream (images, point clouds, and vision-language data). Because of their competitive modeling capabilities, the visual Transformers have achieved impressive performance improvements over multiple benchmarks as compared with modern Convolution Neural Networks (CNNs). In this survey, we have reviewed over one hundred of different visual Transformers comprehensively according to three fundamental CV tasks and different data stream types, where a taxonomy is proposed to organize the representative methods according to their motivations, structures, and application scenarios. Because of their differences on training settings and dedicated vision tasks, we have also evaluated and compared all these existing visual Transformers under different configurations. Furthermore, we have revealed a series of essential but unexploited aspects that may empower such visual Transformers to stand out from numerous architectures, e.g., slack high-level semantic embeddings to bridge the gap between the visual Transformers and the sequential ones. Finally, three promising research directions are suggested for future investment. We will continue to update the latest articles and their released source codes at https://github.com/liuyang-ict/awesome-visual-transformers.
+AD  - Chinese Acad Sci, Inst Comp Technol, Beijing 100000, Peoples R ChinaAD  - Univ Chinese Acad Sci, Sch Comp Sci & Technol, Beijing 100000, Peoples R ChinaAD  - Stanford Univ, Sch Engn, Palo Alto, CA 94305 USAAD  - Southeast Univ, Sch Comp Sci & Engn, Nanjing 214135, Peoples R ChinaAD  - AI Lab, Lenovo Res, Beijing 100000, Peoples R ChinaAD  - Univ Chinese Acad Sci, Beijing 100000, Peoples R ChinaAD  - Lenovo Ltd, Beijing 100000, Peoples R ChinaC3  - Chinese Academy of SciencesC3  - Institute of Computing Technology, CASC3  - Chinese Academy of SciencesC3  - University of Chinese Academy of Sciences, CASC3  - Stanford UniversityC3  - Southeast University - ChinaC3  - Legend HoldingsC3  - LenovoC3  - Chinese Academy of SciencesC3  - University of Chinese Academy of Sciences, CASPU  - IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI  - PISCATAWAY
+PA  - 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN  - 2162-237X
+SN  - 2162-2388
+J9  - IEEE T NEUR NET LEAR
+JI  - IEEE Trans. Neural Netw. Learn. Syst.
+DA  - JUN
+PY  - 2024
+VL  - 35
+IS  - 6
+SP  - 7478
+EP  - 7498
+DO  - 10.1109/TNNLS.2022.3227717
+C6  - MAR 2023
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000967379600001
+N1  - Times Cited in Web of Science Core Collection:  133
+Total Times Cited:  133
+Cited Reference Count:  242
+ER  -
+
+TY  - JOUR
+AU  - Maurício, J
+AU  - Domingues, I
+AU  - Bernardino, J
+TI  - Comparing Vision Transformers and Convolutional Neural Networks for Image Classification: A Literature Review
+T2  - APPLIED SCIENCES-BASEL
+LA  - English
+KW  - transformers
+KW  - Vision Transformers (ViT)
+KW  - convolutional neural networks
+KW  - multi-head attention
+KW  - image classification
+AB  - Transformers are models that implement a mechanism of self-attention, individually weighting the importance of each part of the input data. Their use in image classification tasks is still somewhat limited since researchers have so far chosen Convolutional Neural Networks for image classification and transformers were more targeted to Natural Language Processing (NLP) tasks. Therefore, this paper presents a literature review that shows the differences between Vision Transformers (ViT) and Convolutional Neural Networks. The state of the art that used the two architectures for image classification was reviewed and an attempt was made to understand what factors may influence the performance of the two deep learning architectures based on the datasets used, image size, number of target classes (for the classification problems), hardware, and evaluated architectures and top results. The objective of this work is to identify which of the architectures is the best for image classification and under what conditions. This paper also describes the importance of the Multi-Head Attention mechanism for improving the performance of ViT in image classification.
+AD  - Coimbra Inst Engn ISEC, Polytech Coimbra, Rua Pedro Nunes, P-3030199 Coimbra, PortugalC3  - Instituto Politecnico de Coimbra (IPC)PU  - MDPI
+PI  - BASEL
+PA  - ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN  - 2076-3417
+J9  - APPL SCI-BASEL
+JI  - Appl. Sci.-Basel
+DA  - APR 28
+PY  - 2023
+VL  - 13
+IS  - 9
+C7  - 5521
+DO  - 10.3390/app13095521
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000986981100001
+N1  - Times Cited in Web of Science Core Collection:  99
+Total Times Cited:  104
+Cited Reference Count:  30
+ER  -
+
+TY  - JOUR
+AU  - Li, J
+AU  - Chen, JY
+AU  - Tang, YC
+AU  - Wang, C
+AU  - Landman, BA
+AU  - Zhou, SK
+TI  - Transforming medical imaging with Transformers? A comparative review of key properties, current progresses, and future perspectives
+T2  - MEDICAL IMAGE ANALYSIS
+LA  - English
+KW  - Transformer
+KW  - Medical imaging
+KW  - Survey
+KW  - CONVOLUTIONAL NEURAL-NETWORKS
+KW  - U-NET
+KW  - SEGMENTATION
+KW  - IMAGES
+KW  - DATABASE
+KW  - CLASSIFICATION
+KW  - ATTENTION
+KW  - DATASET
+KW  - 3D
+KW  - FRAMEWORK
+AB  - Transformer, one of the latest technological advances of deep learning, has gained prevalence in natural language processing or computer vision. Since medical imaging bear some resemblance to computer vision, it is natural to inquire about the status quo of Transformers in medical imaging and ask the question: can the Transformer models transform medical imaging? In this paper, we attempt to make a response to the inquiry. After a brief introduction of the fundamentals of Transformers, especially in comparison with convolutional neural networks (CNNs), and highlighting key defining properties that characterize the Transformers, we offer a comprehensive review of the state-of-the-art Transformer-based approaches for medical imaging and exhibit current research progresses made in the areas of medical image segmentation, recognition, detection, registration, reconstruction, enhancement, etc. In particular, what distinguishes our review lies in its organization based on the Transformer's key defining properties, which are mostly derived from comparing the Transformer and CNN, and its type of architecture, which specifies the manner in which the Transformer and CNN are combined, all helping the readers to best understand the rationale behind the reviewed approaches. We conclude with discussions of future perspectives.
+AD  - Chinese Acad Sci, Inst Comp Technol, Key Lab Intelligent Informat Proc, CAS, Beijing 100190, Peoples R ChinaAD  - Johns Hopkins Med Inst, Russell H Morgan Dept Radiol & Radiol Sci, Baltimore, MD USAAD  - Vanderbilt Univ, Dept Elect & Comp Engn, Nashville, TN USAAD  - Univ Sci & Technol China, Ctr Med Imaging Robot & Analyt Comp & Learning MIR, Sch Biomed Engn, Suzhou 215123, Peoples R ChinaAD  - Univ Sci & Technol China, Suzhou Inst Adv Res, Ctr Med Imaging Robot & Analyt Comp & Learning MIR, Suzhou 215123, Peoples R ChinaC3  - Chinese Academy of SciencesC3  - Institute of Computing Technology, CASC3  - Johns Hopkins UniversityC3  - Johns Hopkins MedicineC3  - Vanderbilt UniversityC3  - Chinese Academy of SciencesC3  - University of Science & Technology of China, CASC3  - Chinese Academy of SciencesC3  - University of Science & Technology of China, CASFU  - National Natural Science Foundation of China (NSFC) [62271465, U01-CA140204, R01-EB031023]; National Institutes of Health, USA
+FX  - Acknowledgments Li and Zhou are supported by National Natural Science Foundation of China (NSFC) under grant No. 62271465. Chen is supported by U01-CA140204 and R01-EB031023 from the National Institutes of Health, USA.
+PU  - ELSEVIER
+PI  - AMSTERDAM
+PA  - RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN  - 1361-8415
+SN  - 1361-8423
+J9  - MED IMAGE ANAL
+JI  - Med. Image Anal.
+DA  - APR
+PY  - 2023
+VL  - 85
+C7  - 102762
+DO  - 10.1016/j.media.2023.102762
+C6  - FEB 2023
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000993037300001
+N1  - Times Cited in Web of Science Core Collection:  99
+Total Times Cited:  101
+Cited Reference Count:  409
+ER  -
+
+TY  - JOUR
+AU  - Xiao, HG
+AU  - Li, L
+AU  - Liu, QY
+AU  - Zhu, XH
+AU  - Zhang, QH
+TI  - Transformers in medical image segmentation: A review
+T2  - BIOMEDICAL SIGNAL PROCESSING AND CONTROL
+LA  - English
+KW  - Transformer
+KW  - Medical image
+KW  - Segmentation analysis
+KW  - 3D segmentation
+KW  - COMPUTED-TOMOGRAPHY IMAGES
+KW  - NETWORK
+AB  - Background and Objectives: Transformer is a model relying entirely on self-attention which has a wide range of applications in the field of natural language processing. Researchers are beginning to focus on the transformer in medical images due to the past few years having seen the rapid development of transformer in many vision fields such as vision transformer (ViT) and Swin transformer. In the last year, moreover, many scholars have applied transformer to medical image segmentation and have achieved good segmentation results. Transformer-based medical image segmentation has become one of the hot spots in this field. The purpose of this work is to categorize and review the segmentation methods of Unet-based transformer and other model based transformer in medical images.Methods: This paper summarizes the transformer-based segmentation models in the abdominal organs, heart, brain, and lung based on the relevant studies in the last two years. We described and analyzed the model structure including the position of the transformer in the model, the changes made by scholars to transformer and the combination with the model. In this work, the segmentation performance results based on Dice evaluation metrics are compared.Results: Through the help of 93 references, we find that researchers prefer to use Unet-based transformer models than others and place the transformer structure in the encoder. These new models improve the segmentation performance compared with U-Net and other segmentation models. However, there are not many related studies on lungs, which points to a new way for future research.Conclusions: We found that the combination of U-Net and transformer is more suitable for segmentation. In future research on medical image segmentation, researchers can use a suitable transformer-based segmentation method or modify the transformer structure according to the segmentation requirements. We hope that this work will be helpful for improvements of the transformer to solve clinical problems in medicine.
+AD  - Chongqing Univ Technol, Coll Artificial Intelligent, Chongqing 401135, Peoples R ChinaC3  - Chongqing University of TechnologyFU  - National Natural Science Founda- tion of China [61971078]; Chongqing Natural Science Foundation [CSTB2022NSCQ-MSX0923]
+FX  - This work was supported by the National Natural Science Founda- tion of China (Grant Nos. 61971078) , and Chongqing Natural Science Foundation (Grant No. CSTB2022NSCQ-MSX0923) . This study does not involve any ethical issue. Thank Professor Xin Xu (College of Intelligent Science, National University of Defense Technology) for his revision and correction of this article.
+PU  - ELSEVIER SCI LTD
+PI  - London
+PA  - 125 London Wall, London, ENGLAND
+SN  - 1746-8094
+SN  - 1746-8108
+J9  - BIOMED SIGNAL PROCES
+JI  - Biomed. Signal Process. Control
+DA  - JUL
+PY  - 2023
+VL  - 84
+C7  - 104791
+DO  - 10.1016/j.bspc.2023.104791
+C6  - MAR 2023
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000951459100001
+N1  - Times Cited in Web of Science Core Collection:  94
+Total Times Cited:  95
+Cited Reference Count:  93
+ER  -
+
+TY  - JOUR
+AU  - Chen, FL
+AU  - Zhang, DZ
+AU  - Han, ML
+AU  - Chen, XY
+AU  - Shi, J
+AU  - Xu, S
+AU  - Xu, B
+TI  - VLP: A Survey on Vision-language Pre-training
+T2  - MACHINE INTELLIGENCE RESEARCH
+LA  - English
+KW  - Vision and language
+KW  - pre-training
+KW  - transformers
+KW  - multimodal learning
+KW  - representation learning
+AB  - In the past few years, the emergence of pre-training models has brought uni-modal fields such as computer vision (CV) and natural language processing (NLP) to a new era. Substantial works have shown that they are beneficial for downstream uni-modal tasks and avoid training a new model from scratch. So can such pre-trained models be applied to multi-modal tasks? Researchers have explored this problem and made significant progress. This paper surveys recent advances and new frontiers in vision-language pre-training (VLP), including image-text and video-text pre-training. To give readers a better overall grasp of VLP, we first review its recent advances in five aspects: feature extraction, model architecture, pre-training objectives, pre-training datasets, and downstream tasks. Then, we summarize the specific VLP models in detail. Finally, we discuss the new frontiers in VLP. To the best of our knowledge, this is the first survey focused on VLP. We hope that this survey can shed light on future research in the VLP field.
+AD  - Chinese Acad Sci, Inst Automat, Beijing 100190, Peoples R ChinaAD  - Univ Chinese Acad Sci, Sch Future Technol, Beijing 100049, Peoples R ChinaAD  - Univ Chinese Acad Sci, Sch Artificial Intelligence, Beijing 100049, Peoples R ChinaC3  - Chinese Academy of SciencesC3  - Institute of Automation, CASC3  - Chinese Academy of SciencesC3  - University of Chinese Academy of Sciences, CASC3  - Chinese Academy of SciencesC3  - University of Chinese Academy of Sciences, CASFU  - Key Research Program of the Chinese Academy of Sciences [ZDBS-SSW-JSC006]; Strategic Priority Research Program of the Chinese Academy of Sciences
+FX  - This work was supported by the Key Research Program of the Chinese Academy of Sciences (No. ZDBS-SSW-JSC006) and the Strategic Priority Research Program of the Chinese Academy of Sciences (No. XDA 27030300).
+PU  - SPRINGERNATURE
+PI  - LONDON
+PA  - CAMPUS, 4 CRINAN ST, LONDON, N1 9XW, ENGLAND
+SN  - 2731-538X
+SN  - 2731-5398
+J9  - MACH INTELL RES
+JI  - Mach. Intell. Res.
+DA  - FEB
+PY  - 2023
+VL  - 20
+IS  - 1
+SP  - 38
+EP  - 56
+DO  - 10.1007/s11633-022-1369-5
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:000934031000003
+N1  - Times Cited in Web of Science Core Collection:  66
+Total Times Cited:  71
+Cited Reference Count:  156
+ER  -
+
+TY  - JOUR
+AU  - Sitapure, N
+AU  - Kwon, JSI
+TI  - Exploring the potential of time-series transformers for process modeling and control in chemical systems: An inevitable paradigm shift?
+T2  - CHEMICAL ENGINEERING RESEARCH & DESIGN
+LA  - English
+KW  - Transformer networks
+KW  - Long-short-term memory (LSTM)
+KW  - Natural language processing (NLP)
+KW  - ChatGPT
+KW  - Attention mechanism
+KW  - Time-series prediction
+KW  - CRYSTAL SHAPE
+KW  - PREDICTIVE CONTROL
+KW  - SIZE DISTRIBUTION
+KW  - CRYSTALLIZATION
+KW  - 1ST-PRINCIPLES
+KW  - DESIGN
+AB  - The last two years have seen groundbreaking advances in natural language processing (NLP) with the advent of applications like ChatGPT, Codex, and ChatSonic. This revolution is powered by the development of cutting-edge transformer models that leverage multiheaded attention mechanisms, positional encoding, and highly efficient transfer learning capabilities. Despite these remarkable advances, there is still work to be done to fully realize the practical applicability of transformers in chemical systems. Thus, we are excited to present our latest work, which highlights the immense potential of transformers for non-trivial multivariate time-series prediction tasks with high-value implications in process monitoring, control, and optimization. Specifically, impressive prediction capabilities of first-generation time-series transformers (TSTs) were demonstrated by developing, testing, and comparing TSTs with existing models. Further, the practical applicability of TSTs was highlighted by developing a first-of-a-kind TST-based model predictive controller (MPC). More importantly, the current work provides a concrete foundation for exploring promising new directions, such as the development of largescale TSTs leveraging transfer learning for modeling of new process equipment, and plant-level multisource aggregative cognitive models for fault prognosis and prevention. We are excited to see what the future holds as we continue to push the boundaries of what is possible with these 'transformer-tive' technologies.(c) 2023 Institution of Chemical Engineers. Published by Elsevier Ltd. All rights reserved.
+AD  - Texas A&M Univ, Artie McFerrin Dept Chem Engn, College Stn, TX 77845 USAAD  - Texas A&M Univ, Texas A&M Energy Inst, College Stn, TX 77845 USAC3  - Texas A&M University SystemC3  - Texas A&M University College StationC3  - Texas A&M University SystemC3  - Texas A&M University College StationFU  - Artie McFerrin Department of Chemical Engineering and Texas A&M Energy Institute
+FX  - Financial support from the Artie McFerrin Department of Chemical Engineering and Texas A&M Energy Institute is gratefully acknowledged.
+PU  - ELSEVIER
+PI  - AMSTERDAM
+PA  - RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN  - 0263-8762
+SN  - 1744-3563
+J9  - CHEM ENG RES DES
+JI  - Chem. Eng. Res. Des.
+DA  - JUN
+PY  - 2023
+VL  - 194
+SP  - 461
+EP  - 477
+DO  - 10.1016/j.cherd.2023.04.028
+C6  - MAY 2023
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001001400000001
+N1  - Times Cited in Web of Science Core Collection:  58
+Total Times Cited:  58
+Cited Reference Count:  74
+ER  -
+
+TY  - JOUR
+AU  - Moutik, O
+AU  - Sekkat, H
+AU  - Tigani, S
+AU  - Chehri, A
+AU  - Saadane, R
+AU  - Tchakoucht, TA
+AU  - Paul, A
+TI  - Convolutional Neural Networks or Vision Transformers: Who Will Win the Race for Action Recognitions in Visual Data?
+T2  - SENSORS
+LA  - English
+KW  - convolutional neural networks
+KW  - vision transformers
+KW  - recurrent neural networks
+KW  - conversational systems
+KW  - action recognition
+KW  - natural language understanding
+KW  - action recognitions
+KW  - COMPUTER VISION
+KW  - ATTENTION
+AB  - Understanding actions in videos remains a significant challenge in computer vision, which has been the subject of several pieces of research in the last decades. Convolutional neural networks (CNN) are a significant component of this topic and play a crucial role in the renown of Deep Learning. Inspired by the human vision system, CNN has been applied to visual data exploitation and has solved various challenges in various computer vision tasks and video/image analysis, including action recognition (AR). However, not long ago, along with the achievement of the transformer in natural language processing (NLP), it began to set new trends in vision tasks, which has created a discussion around whether the Vision Transformer models (ViT) will replace CNN in action recognition in video clips. This paper conducts this trending topic in detail, the study of CNN and Transformer for Action Recognition separately and a comparative study of the accuracy-complexity trade-off. Finally, based on the performance analysis's outcome, the question of whether CNN or Vision Transformers will win the race will be discussed.
+AD  - Euro Mediterranean Univ, Euromed Res Ctr, Engn Unit, Fes 30030, MoroccoAD  - Royal Mil Coll Canada, Dept Math & Comp Sci, Kingston, ON K7K 7B4, CanadaAD  - Hassania Sch Publ Works, SIRC LaGeS, Casablanca 8108, MoroccoAD  - Kyungpook Natl Univ, Sch Comp Sci & Engn, Daegu 41566, South KoreaC3  - Royal Military College - CanadaC3  - Kyungpook National University (KNU)PU  - MDPI
+PI  - BASEL
+PA  - ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN  - 1424-8220
+J9  - SENSORS-BASEL
+JI  - Sensors
+DA  - JAN
+PY  - 2023
+VL  - 23
+IS  - 2
+C7  - 734
+DO  - 10.3390/s23020734
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000916353500001
+N1  - Times Cited in Web of Science Core Collection:  45
+Total Times Cited:  47
+Cited Reference Count:  118
+ER  -
+
+TY  - JOUR
+AU  - Islam, S
+AU  - Elmekki, H
+AU  - Elsebai, A
+AU  - Bentahar, J
+AU  - Drawel, N
+AU  - Rjoub, G
+AU  - Pedrycz, W
+TI  - A comprehensive survey on applications of transformers for deep learning tasks
+T2  - EXPERT SYSTEMS WITH APPLICATIONS
+LA  - English
+KW  - Transformer
+KW  - Self-attention
+KW  - Deep learning
+KW  - Natural language processing (NLP)
+KW  - Computer vision (CV)
+KW  - Multi-modality
+KW  - NEURAL-NETWORKS
+KW  - CLASSIFICATION
+KW  - SEGMENTATION
+KW  - RECOGNITION
+KW  - DATABASE
+KW  - IMAGES
+AB  - Transformers are Deep Neural Networks (DNN) that utilize a self-attention mechanism to capture contextual relationships within sequential data. Unlike traditional neural networks and variants of Recurrent Neural Networks (RNNs), such as Long Short-Term Memory (LSTM), Transformer models excel at managing long dependencies among input sequence elements and facilitate parallel processing. Consequently, Transformer -based models have garnered significant attention from researchers in the field of artificial intelligence. This is due to their tremendous potential and impressive accomplishments, which extend beyond Natural Language Processing (NLP) tasks to encompass various domains, including Computer Vision (CV), audio and speech processing, healthcare, and the Internet of Things (IoT). Although several survey papers have been published, spotlighting the Transformer's contributions in specific fields, architectural disparities, or performance assessments, there remains a notable absence of a comprehensive survey paper that encompasses its major applications across diverse domains. Therefore, this paper addresses this gap by conducting an extensive survey of proposed Transformer models spanning from 2017 to 2022. Our survey encompasses the identification of the top five application domains for Transformer-based models, namely: NLP, CV, multi -modality, audio and speech processing, and signal processing. We analyze the influence of highly impactful Transformer-based models within these domains and subsequently categorize them according to their respective tasks, employing a novel taxonomy. Our primary objective is to illuminate the existing potential and future prospects of Transformers for researchers who are passionate about this area, thereby contributing to a more comprehensive understanding of this groundbreaking technology.
+AD  - Concordia Univ, Concordia Inst Informat Syst Engn, Montreal, PQ, CanadaAD  - Khalifa Univ, Dept Elect Engn & Comp Sci, Abu Dhabi, U Arab EmiratesAD  - Aqaba Univ Technol, Fac Informat Technol, Aqaba, JordanAD  - Univ Alberta, Dept Elect & Comp Engn, Edmonton, AB, CanadaAD  - Polish Acad Sci, Syst Res Inst, Warsaw, PolandAD  - Istinye Univ, Dept Comp Engn, Sariyer, Istanbul, TurkiyeC3  - Concordia University - CanadaC3  - Khalifa University of Science & TechnologyC3  - University of AlbertaC3  - Polish Academy of SciencesC3  - Systems Research Institute of the Polish Academy of SciencesC3  - Istinye UniversityFU  - Natural Sciences and Engineering Research Council of Canada (NSERC); NSERC through the Horizon Grant
+FX  - Jamal Bentahar and Witold Pedrycz would like to thank the Natural Sciences and Engineering Research Council of Canada (NSERC) for their financial support through Discovery Grant. Jamal Bentahar is also supported by NSERC through the Horizon Grant.
+PU  - PERGAMON-ELSEVIER SCIENCE LTD
+PI  - OXFORD
+PA  - THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN  - 0957-4174
+SN  - 1873-6793
+J9  - EXPERT SYST APPL
+JI  - Expert Syst. Appl.
+DA  - MAY 1
+PY  - 2024
+VL  - 241
+C7  - 122666
+DO  - 10.1016/j.eswa.2023.122666
+C6  - NOV 2023
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001125930700001
+N1  - Times Cited in Web of Science Core Collection:  43
+Total Times Cited:  43
+Cited Reference Count:  242
+ER  -
+

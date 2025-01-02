@@ -1,0 +1,464 @@
+﻿TY  - JOUR
+AU  - Gallifant, J.
+AU  - Fiske, A.
+AU  - Levites Strekalova, Y.A.
+AU  - Osorio-Valencia, J.S.
+AU  - Parke, R.
+AU  - Mwavu, R.
+AU  - Martinez, N.
+AU  - Gichoya, J.W.
+AU  - Ghassemi, M.
+AU  - Demner-Fushman, D.
+AU  - McCoy, L.G.
+AU  - Celi, L.A.
+AU  - Pierce, R.
+TI  - Peer review of GPT-4 technical report and systems card
+PY  - 2024
+T2  - PLOS Digital Health
+VL  - 3
+IS  - 1 January
+C7  - e0000417
+DO  - 10.1371/journal.pdig.0000417
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85187799539&doi=10.1371%2fjournal.pdig.0000417&partnerID=40&md5=dc82d204ebe70cc697274ceee3528e64
+AD  - Department of Critical Care, Guy’s & St Thomas’ NHS Trust, London, United Kingdom
+AD  - Massachusetts Institute of Technology, Laboratory for Computational Physiology, Cambridge, MA, United States
+AD  - Institute of History and Ethics in Medicine, Department of Clinical Medicine, TUM School of Medicine and Health, Technical University of Munich, Munich, Germany
+AD  - Department of Health Services Research, Management, and Policy, College of Public Health and Health Professions, University of Florida, Gainesville, FL, United States
+AD  - A.I. and Innovation Committee, Colombian Radiology Association, Medellin, Colombia
+AD  - ScienteLab, Bogota, Colombia
+AD  - Be4tech, Medellin, Colombia
+AD  - Cardiothoracic and Vascular Intensive Care Unit, Auckland City Hospital, Auckland, New Zealand
+AD  - School of Nursing, The University of Auckland, Auckland, New Zealand
+AD  - Faculty of Computing and Informatics, Mbarara University of Science and Technology, Mbarara, Uganda
+AD  - Center for Biomedical Ethics, Stanford University, Stanford, CA, United States
+AD  - Department of Radiology, Emory University School of Medicine, Atlanta, GA, United States
+AD  - Massachusetts Institute of Technology, Electrical Engineering and Computer Science (EECS), Cambridge, MA, United States
+AD  - National Library of Medicine, NIH, HHS, Bethesda, MD, United States
+AD  - Faculty of Medicine and Dentistry, University of Alberta, Edmonton, AB, Canada
+AD  - Division of Pulmonary, Critical Care, and Sleep Medicine, Beth Israel Deaconess Medical Center, Boston, MA, United States
+AD  - Department of Biostatistics, Harvard T.H. Chan School of Public Health, Boston, MA, United States
+AD  - The Law School, Faculty of Humanities, Arts, and Social Sciences, University of Exeter, Exeter, United Kingdom
+AB  - The study provides a comprehensive review of OpenAI’s Generative Pre-trained Transformer 4 (GPT-4) technical report, with an emphasis on applications in high-risk settings like healthcare. A diverse team, including experts in artificial intelligence (AI), natural language processing, public health, law, policy, social science, healthcare research, and bioethics, analyzed the report against established peer review guidelines. The GPT-4 report shows a significant commitment to transparent AI research, particularly in creating a systems card for risk assessment and mitigation. However, it reveals limitations such as restricted access to training data, inadequate confidence and uncertainty estimations, and concerns over privacy and intellectual property rights. Key strengths identified include the considerable time and economic investment in transparent AI research and the creation of a comprehensive systems card. On the other hand, the lack of clarity in training processes and data raises concerns about encoded biases and interests in GPT-4. The report also lacks confidence and uncertainty estimations, crucial in high-risk areas like healthcare, and fails to address potential privacy and intellectual property issues. Furthermore, this study emphasizes the need for diverse, global involvement in developing and evaluating large language models (LLMs) to ensure broad societal benefits and mitigate risks. The paper presents recommendations such as improving data transparency, developing accountability frameworks, establishing confidence standards for LLM outputs in high-risk settings, and enhancing industry research review processes. It concludes that while GPT-4’s report is a step towards open discussions on LLMs, more extensive interdisciplinary reviews are essential for addressing bias, harm, and risk concerns, especially in high-risk domains. The review aims to expand the understanding of LLMs in general and highlights the need for new reflection forms on how LLMs are reviewed, the data required for effective evaluation, and addressing critical issues like bias and risk. © 2024 Gallifant et al. This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+PB  - Public Library of Science
+SN  - 27673170 (ISSN)
+LA  - English
+J2  - PLOS Digit. Health
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 18; Correspondence Address: J. Gallifant; Department of Critical Care, Guy’s & St Thomas’ NHS Trust, London, United Kingdom; email: jgally@mit.edu
+ER  -
+
+TY  - CONF
+AU  - Louis, A.
+AU  - van Dijck, G.
+AU  - Spanakis, G.
+TI  - Interpretable Long-Form Legal Question Answering with Retrieval-Augmented Large Language Models
+PY  - 2024
+T2  - Proceedings of the AAAI Conference on Artificial Intelligence
+VL  - 38
+IS  - 20
+SP  - 22266
+EP  - 22275
+DO  - 10.1609/aaai.v38i20.30232
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85189622802&doi=10.1609%2faaai.v38i20.30232&partnerID=40&md5=f35e03c11ff2071c6d50c516aac8beee
+AD  - Law & Tech Lab, Maastricht University, Netherlands
+AB  - Many individuals are likely to face a legal dispute at some point in their lives, but their lack of understanding of how to navigate these complex issues often renders them vulnerable. The advancement of natural language processing opens new avenues for bridging this legal literacy gap through the development of automated legal aid systems. However, existing legal question answering (LQA) approaches often suffer from a narrow scope, being either confined to specific legal domains or limited to brief, uninformative responses. In this work, we propose an end-to-end methodology designed to generate long-form answers to any statutory law questions, utilizing a "retrieve-then-read" pipeline. To support this approach, we introduce and release the Long-form Legal Question Answering (LLeQA) dataset, comprising 1,868 expert-annotated legal questions in the French language, complete with detailed answers rooted in pertinent legal provisions. Our experimental results demonstrate promising performance on automatic evaluation metrics, but a qualitative analysis uncovers areas for refinement. As one of the only comprehensive, expertannotated long-form LQA dataset, LLeQA has the potential to not only accelerate research towards resolving a significant real-world issue, but also act as a rigorous benchmark for evaluating NLP models in specialized domains. We publicly release our code, data, and models. © 2024, Association for the Advancement of Artifcial Intelligence (www.aaai.org). All rights reserved.
+KW  - Artificial intelligence
+KW  - End to end
+KW  - Language model
+KW  - Language processing
+KW  - Legal disputes
+KW  - Legal domains
+KW  - Legal provisions
+KW  - Legal questions
+KW  - Natural languages
+KW  - Performance
+KW  - Question Answering
+KW  - Natural language processing systems
+A2  - Wooldridge M.
+A2  - Dy J.
+A2  - Natarajan S.
+PB  - Association for the Advancement of Artificial Intelligence
+SN  - 21595399 (ISSN)
+LA  - English
+J2  - Proc. AAAI Conf. Artif. Intell.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 9; Conference name: 38th AAAI Conference on Artificial Intelligence, AAAI 2024; Conference date: 20 February 2024 through 27 February 2024; Conference code: 198370
+ER  -
+
+TY  - JOUR
+AU  - Bozkurt, A.
+TI  - GenAI et al.: Cocreation, Authorship, Ownership, Academic Ethics and Integrity in a Time of Generative AI
+PY  - 2024
+T2  - Open Praxis
+VL  - 16
+IS  - 1
+SP  - 1
+EP  - 10
+DO  - 10.55982/openpraxis.16.1.654
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85188900975&doi=10.55982%2fopenpraxis.16.1.654&partnerID=40&md5=a9ea382cb38b1563b25aa0e0dc8cdc8e
+AD  - Anadolu University, Turkey
+AB  - This paper investigates the complex interplay between generative artificial intelligence (AI) and human intellect in academic writing and publishing. It examines the ‘organic versus synthetic’ paradox, emphasizing the implications of using generative AI tools in educational and academic integrity contexts. The paper critiques the prevalent ‘publish or perish’ culture in academia, highlighting the need for systemic reevaluation due to generative AI’s emerging role in academic writing and reporting. It delves into the legal and ethical challenges of authorship and ownership, especially in relation to copyright laws and AI-generated content. The paper discusses generative AI’s diverse roles and advocates for transparent reporting to uphold academic integrity. Additionally, it calls for a broader examination of generative AI tools and stresses the need for new mechanisms to identify generative AI use and ensure adherence to academic integrity and ethics. The implications of generative AI are also explored, suggesting the need for innovative AI-inclusive strategies in academia. The paper concludes by emphasizing the significance of generative AI in various information-processing domains, highlighting the urgency to adapt and transform academic practices in an era of rapid generative AI-driven change. © 2024 The Author(s).
+KW  - academic integrity
+KW  - academic writing
+KW  - AI
+KW  - AIEd
+KW  - artificial intelligence
+KW  - authorship
+KW  - chatbots
+KW  - ChatGPT
+KW  - cocreating
+KW  - collaboration
+KW  - conversational agents
+KW  - education
+KW  - educational technology
+KW  - ethics
+KW  - GenAI
+KW  - Generative AI
+KW  - generative pre-trained transformer
+KW  - GPT
+KW  - higher education
+KW  - large language models
+KW  - learning
+KW  - LLMs
+KW  - natural language processing
+KW  - ownership
+KW  - teaching
+KW  - transparency in research
+PB  - International Council for Open and Distance Education
+SN  - 13699997 (ISSN)
+LA  - English
+J2  - Open. Prax.
+M3  - Editorial
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 17; Correspondence Address: A. Bozkurt; Anadolu University, Turkey; email: arasbozkurt@gmail.com
+ER  -
+
+TY  - JOUR
+AU  - Krasadakis, P.
+AU  - Sakkopoulos, E.
+AU  - Verykios, V.S.
+TI  - A Survey on Challenges and Advances in Natural Language Processing with a Focus on Legal Informatics and Low-Resource Languages
+PY  - 2024
+T2  - Electronics (Switzerland)
+VL  - 13
+IS  - 3
+C7  - 648
+DO  - 10.3390/electronics13030648
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85184675668&doi=10.3390%2felectronics13030648&partnerID=40&md5=460aee45ced79d3f01af2ed8c7cb50aa
+AD  - Department of Informatics, University of Piraeus, Piraeus, 18534, Greece
+AD  - School of Sciences and Technology, Hellenic Open University, Patras, Greece
+AB  - The field of Natural Language Processing (NLP) has experienced significant growth in recent years, largely due to advancements in Deep Learning technology and especially Large Language Models. These improvements have allowed for the development of new models and architectures that have been successfully applied in various real-world applications. Despite this progress, the field of Legal Informatics has been slow to adopt these techniques. In this study, we conducted an extensive literature review of NLP research focused on legislative documents. We present the current state-of-the-art NLP tasks related to Law Consolidation, highlighting the challenges that arise in low-resource languages. Our goal is to outline the difficulties faced by this field and the methods that have been developed to overcome them. Finally, we provide examples of NLP implementations in the legal domain and discuss potential future directions. © 2024 by the authors.
+KW  - deep learning
+KW  - generative AI
+KW  - information extraction
+KW  - large language models
+KW  - natural language processing
+PB  - Multidisciplinary Digital Publishing Institute (MDPI)
+SN  - 20799292 (ISSN)
+LA  - English
+J2  - Electronics (Switzerland)
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 6; Correspondence Address: E. Sakkopoulos; Department of Informatics, University of Piraeus, Piraeus, 18534, Greece; email: sakkopul@unipi.gr
+ER  -
+
+TY  - JOUR
+AU  - Kretschmer, M.
+AU  - Margoni, T.
+AU  - Oruç, P.
+TI  - Copyright Law and the Lifecycle of Machine Learning Models
+PY  - 2024
+T2  - IIC International Review of Intellectual Property and Competition Law
+VL  - 55
+IS  - 1
+SP  - 110
+EP  - 138
+DO  - 10.1007/s40319-023-01419-3
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85183697562&doi=10.1007%2fs40319-023-01419-3&partnerID=40&md5=ab40d310f8123850ec0bb5fb68d46f4a
+AD  - Professor of Intellectual Property Law, School of Law, University of Glasgow; Director of CREATe (UK Copyright and Creative Economy Centre), Glasgow, United Kingdom
+AD  - Research Professor of Intellectual Property Law, Centre for IT and IP Law (CiTiP), Faculty of Law and Criminology, University of Leuven (KU Leuven), Leuven, Belgium
+AD  - Lecturer in Commercial Law, University of Manchester, Manchester, United Kingdom
+AB  - Machine learning, a subfield of artificial intelligence (AI), relies on large corpora of data as input for learning algorithms, resulting in trained models that can perform a variety of tasks. While data or information are not subject matter within copyright law, almost all materials used to construct corpora for machine learning are protected by copyright law: texts, images, videos, and so on. There are global policy moves to address the copyright implications of machine learning, in particular in the context of so-called “foundation models” that underpin generative AI. This paper takes a step back, exploring empirically three technological settings through detailed case studies. We set out the established industry methodology of a lifecycle of AI (collecting data, organising data, model training, model operation) to arrive at descriptions suitable for legal analysis. This will allow an assessment of the challenges for a harmonisation of rights, exceptions and disclosure under EU copyright law. The three case studies are: Machine learning for scientific purposes, in the context of a study of regional short-term letting markets; Natural Language Processing (NLP), in the context of large language models; Computer vision, in the context of content moderation of images. We find that the nature and quality of data corpora at the input stage is central to the lifecycle of machine learning. Because of the uncertain legal status of data collection and processing, combined with the competitive advantage gained by firms not disclosing technological advances, the inputs of the models deployed are often unknown. Moreover, the “lawful access” requirement of the EU exception for text and data mining may turn the exception into a decision by rightholders to allow machine learning in the context of their decision to allow access. We assess policy interventions at EU level, seeking to clarify the legal status of input data via copyright exceptions, opt-outs or the forced disclosure of copyright materials. We find that the likely result is a fully copyright-licensed environment of machine learning that may have problematic effects for the structure of industry, innovation and scientific research. © The Author(s) 2024.
+KW  - Artificial intelligence
+KW  - Copyright
+KW  - Data mining
+KW  - Digital single market
+KW  - EU
+KW  - Text mining
+PB  - Springer Science and Business Media Deutschland GmbH
+SN  - 00189855 (ISSN)
+LA  - English
+J2  - IIC Int. Rev. Intellect. Prop. Compet. Law
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 9; Correspondence Address: M. Kretschmer; School of Law, University of Glasgow; Director of CREATe (UK Copyright and Creative Economy Centre), Glasgow, United Kingdom; email: martin.kretschmer@glasgow.ac.uk
+ER  -
+
+TY  - JOUR
+AU  - Yang, X.
+AU  - Wang, Z.
+AU  - Wang, Q.
+AU  - Wei, K.
+AU  - Zhang, K.
+AU  - Shi, J.
+TI  - Large language models for automated Q&A involving legal documents: a survey on algorithms, frameworks and applications
+PY  - 2024
+T2  - International Journal of Web Information Systems
+VL  - 20
+IS  - 4
+SP  - 413
+EP  - 435
+DO  - 10.1108/IJWIS-12-2023-0256
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85188788031&doi=10.1108%2fIJWIS-12-2023-0256&partnerID=40&md5=c455412f7a438f9901eb7e00d5041007
+AD  - Shanghai Polytechnic University, Shanghai, China
+AD  - Shanghai Shang Da Hai Run Information System Co., Ltd, Shanghai, China
+AB  - Purpose: This study aims to adopt a systematic review approach to examine the existing literature on law and LLMs.It involves analyzing and synthesizing relevant research papers, reports and scholarly articles that discuss the use of LLMs in the legal domain. The review encompasses various aspects, including an analysis of LLMs, legal natural language processing (NLP), model tuning techniques, data processing strategies and frameworks for addressing the challenges associated with legal question-and-answer (Q&A) systems. Additionally, the study explores potential applications and services that can benefit from the integration of LLMs in the field of intelligent justice. Design/methodology/approach: This paper surveys the state-of-the-art research on law LLMs and their application in the field of intelligent justice. The study aims to identify the challenges associated with developing Q&A systems based on LLMs and explores potential directions for future research and development. The ultimate goal is to contribute to the advancement of intelligent justice by effectively leveraging LLMs. Findings: To effectively apply a law LLM, systematic research on LLM, legal NLP and model adjustment technology is required. Originality/value: This study contributes to the field of intelligent justice by providing a comprehensive review of the current state of research on law LLMs. © 2024, Emerald Publishing Limited.
+KW  - Automated Q&A application
+KW  - Large language model
+KW  - Legal documents
+KW  - Natural language processing
+KW  - Computational linguistics
+KW  - Natural language processing systems
+KW  - Algorithm framework
+KW  - Automated question-and-answer application
+KW  - Language model
+KW  - Language processing
+KW  - Large language model
+KW  - Legal documents
+KW  - Natural language processing
+KW  - Natural languages
+KW  - Question and answer system
+KW  - Systematic Review
+KW  - Authentication
+PB  - Emerald Publishing
+SN  - 17440084 (ISSN)
+LA  - English
+J2  - Int. J. Web Inf. Syst.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 7; Correspondence Address: X. Yang; Shanghai Polytechnic University, Shanghai, China; email: xxyang@sspu.edu.cn
+ER  -
+
+TY  - JOUR
+AU  - Habernal, I.
+AU  - Faber, D.
+AU  - Recchia, N.
+AU  - Bretthauer, S.
+AU  - Gurevych, I.
+AU  - Spiecker genannt Döhmann, I.
+AU  - Burchard, C.
+TI  - Mining legal arguments in court decisions
+PY  - 2024
+T2  - Artificial Intelligence and Law
+VL  - 32
+IS  - 3
+SP  - 1
+EP  - 38
+DO  - 10.1007/s10506-023-09361-y
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85162651026&doi=10.1007%2fs10506-023-09361-y&partnerID=40&md5=ecc9463a87f5520171e9ab1282bc98c0
+AD  - Trustworthy Human Language Technologies, Technical University of Darmstadt, Darmstadt, Germany
+AD  - Faculty of Law, Goethe-Universität Frankfurt am Main, Frankfurt am Main, Germany
+AD  - Ubiquitous Knowledge Processing (UKP) Lab, Technical University of Darmstadt, Darmstadt, Germany
+AD  - Department of Legal, Language, Interpreting and Translation Studies, University of Trieste, Trieste, Italy
+AB  - Identifying, classifying, and analyzing arguments in legal discourse has been a prominent area of research since the inception of the argument mining field. However, there has been a major discrepancy between the way natural language processing (NLP) researchers model and annotate arguments in court decisions and the way legal experts understand and analyze legal argumentation. While computational approaches typically simplify arguments into generic premises and claims, arguments in legal research usually exhibit a rich typology that is important for gaining insights into the particular case and applications of law in general. We address this problem and make several substantial contributions to move the field forward. First, we design a new annotation scheme for legal arguments in proceedings of the European Court of Human Rights (ECHR) that is deeply rooted in the theory and practice of legal argumentation research. Second, we compile and annotate a large corpus of 373 court decisions (2.3M tokens and 15k annotated argument spans). Finally, we train an argument mining model that outperforms state-of-the-art models in the legal NLP domain and provide a thorough expert-based evaluation. All datasets and source codes are available under open lincenses at https://github.com/trusthlt/mining-legal-arguments. © The Author(s) 2023.
+KW  - Argument mining
+KW  - ECHR
+KW  - Legal arguments
+KW  - Tranformers
+KW  - Computation theory
+KW  - Laws and legislation
+KW  - Argument mining
+KW  - Computational approach
+KW  - Court decisions
+KW  - European court of human right
+KW  - Human rights
+KW  - Language processing
+KW  - Legal arguments
+KW  - Legal experts
+KW  - Natural languages
+KW  - Tranformer
+KW  - Natural language processing systems
+PB  - Springer Nature
+SN  - 09248463 (ISSN)
+LA  - English
+J2  - Artif Intell Law
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 15; Correspondence Address: I. Habernal; Trustworthy Human Language Technologies, Technical University of Darmstadt, Darmstadt, Germany; email: ivan.habernal@tu-darmstadt.de; CODEN: AINLE
+ER  -
+
+TY  - JOUR
+AU  - Ho, S.S.H.
+AU  - Oh, C.H.
+AU  - Shapiro, D.
+TI  - Can Corporate Social Responsibility Lead to Social License? A Sentiment and Emotion Analysis
+PY  - 2024
+T2  - Journal of Management Studies
+VL  - 61
+IS  - 2
+SP  - 445
+EP  - 476
+DO  - 10.1111/joms.12863
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85138519220&doi=10.1111%2fjoms.12863&partnerID=40&md5=e36a9507d1d2c311d84063bb2782eadb
+AD  - Dalhousie University, Canada
+AD  - University of Kansas, United States
+AD  - Simon Fraser University, Canada
+AB  - The term social license (SL) refers to the acceptance or approval by a community of a company's presence. It is generally assumed in the literature that effective corporate social responsibility (CSR) actions will lead to an SL. In this study we examine the CSR-SL relationship at the local community level and establish boundary conditions on the effectiveness of local CSR in creating an SL. Using consent-based micro-social contract theory, we theorize that commitment to local CSR improves the level to which a local community grants an SL to a multinational corporation (MNC), but the impact is moderated by the global legitimacy of the parent company, the nature of institutions in the host country, and the degree of polarization within the focal community. Based on 3696 articles regarding 43 global mining MNCs operating in 523 local communities between 2008 and 2020, we use natural language processing and sentiment analysis to evaluate the degree to which a local community grants an SL. Our empirical evidence indicates that local CSR does positively influence the granting of an SL, but the effect is reduced when there is strong rule of law or high community polarization and increased when the focal firm has strong global legitimacy. © 2022 The Authors. Journal of Management Studies published by Society for the Advancement of Management Studies and John Wiley & Sons Ltd.
+KW  - corporate social responsibility
+KW  - emotion
+KW  - mining
+KW  - social contract theory
+KW  - social license
+KW  - trust
+PB  - John Wiley and Sons Inc
+SN  - 00222380 (ISSN)
+LA  - English
+J2  - J. Manage. Stud.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 16; Correspondence Address: S.S.H. Ho; Faculty of Management, Rowe School of Business, Dalhousie University, Halifax, Canada; email: shuna.ho@dal.ca
+ER  -
+
+TY  - JOUR
+AU  - Aziz, R.M.
+AU  - Sharma, P.
+AU  - Hussain, A.
+TI  - Machine Learning Algorithms for Crime Prediction under Indian Penal Code
+PY  - 2024
+T2  - Annals of Data Science
+VL  - 11
+IS  - 1
+SP  - 379
+EP  - 410
+DO  - 10.1007/s40745-022-00424-6
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85133615033&doi=10.1007%2fs40745-022-00424-6&partnerID=40&md5=9b21a82bc4476de7b6d01ec1f819d088
+AD  - VIT Bhopal University, Bhopal-Indore Highway, Kothrikalan, Sehore, M.P., Bhopal, 466116, India
+AB  - In this paper, the authors propose a data-driven approach to draw insightful knowledge from the Indian crime data. The proposed approach can be helpful for police and other law enforcement bodies in India for controlling and preventing crime region-wise. In the proposed approach different regression models are built based on different regression algorithms, viz., random forest regression (RFR), decision tree regression (DTR), multiple linear regression (MLR), simple linear regression (SLR), and support vector regression (SVR) after pre-processing the data using MySQL Workbench and R programming. These regression models can predict 28 different types of IPC cognizable crime counts and also a total number of Indian Penal Code (IPC) cognizable crime counts region-wise, state-wise, and year-wise (for all over the country) provided the desired inputs to the model. Data visualization techniques, namely, chord diagrams and map plots, are used to visualize pre-processed data (corresponding to the years 2014 to 2020) and predicted data by the relatively best regression model for the year 2022. For the chosen data, it is concluded that Random Forest Regression (RFR), which predicts total IPC cognizable crime, fits relatively the best, with a 0.96 adjusted r squared value and a MAPE value of 0.2, and among regression models predicting region-wise theft crime count, the random forest regression-based model relatively fits the best, with an adjusted R squared value of 0.96 and a MAPE value of 0.166. These regression models predict that Andhra Pradesh state will have the highest crime counts, with Adilabad district at the top, having 31,933 predicted crime counts. © The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, part of Springer Nature 2022.
+KW  - Decision tree regression (DTR)
+KW  - Indian Penal Code (IPC)
+KW  - Mean absolute percentage error (MAPE)
+KW  - Natural language processing (NLP)
+KW  - Random forest regression (RFR)
+KW  - Support vector regression (SVR)
+KW  - Codes (symbols)
+KW  - Data handling
+KW  - Data visualization
+KW  - Decision trees
+KW  - Forecasting
+KW  - Linear regression
+KW  - Natural language processing systems
+KW  - Random forests
+KW  - Support vector regression
+KW  - Decision tree regression
+KW  - Indian penal code
+KW  - Language processing
+KW  - Mean absolute percentage error
+KW  - Natural language processing
+KW  - Natural languages
+KW  - Percentage error
+KW  - Random forest regression
+KW  - Random forests
+KW  - Support vector regression
+KW  - Support vector regressions
+KW  - Crime
+PB  - Springer Science and Business Media Deutschland GmbH
+SN  - 21985804 (ISSN)
+LA  - English
+J2  - Ann. Data Sci.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 6; Correspondence Address: R.M. Aziz; VIT Bhopal University, Bhopal, Bhopal-Indore Highway, Kothrikalan, Sehore, M.P., 466116, India; email: rabia.aziz2010@gmail.com
+ER  -
+
+TY  - JOUR
+AU  - Pesapane, F.
+AU  - Tantrige, P.
+AU  - Rotili, A.
+AU  - Nicosia, L.
+AU  - Penco, S.
+AU  - Bozzini, A.C.
+AU  - Raimondi, S.
+AU  - Corso, G.
+AU  - Grasso, R.
+AU  - Pravettoni, G.
+AU  - Gandini, S.
+AU  - Cassano, E.
+TI  - Disparities in Breast Cancer Diagnostics: How Radiologists Can Level the Inequalities
+PY  - 2024
+T2  - Cancers
+VL  - 16
+IS  - 1
+C7  - 130
+DO  - 10.3390/cancers16010130
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85182150495&doi=10.3390%2fcancers16010130&partnerID=40&md5=22dac03b6c81a4f7bed2578d66b64129
+AD  - Breast Imaging Division, IEO European Institute of Oncology IRCCS, Milan, 20141, Italy
+AD  - King’s College Hospital NHS Foundation Trust, London, SE5 9RS, United Kingdom
+AD  - Molecular and Pharmaco-Epidemiology Unit, Department of Experimental Oncology, IEO European Institute of Oncology IRCCS, Milan, 20141, Italy
+AD  - Department of Oncology and Hemato-Oncology, University of Milan, Milan, 20122, Italy
+AD  - Division of Breast Surgery, IEO European Institute of Oncology IRCCS, Via Ripamonti, 435, Milan, 20141, Italy
+AD  - European Cancer Prevention Organization (ECP), Milan, 20122, Italy
+AD  - Applied Research Division for Cognitive and Psychological Science, IEO European Institute of Oncology IRCCS, Milan, 20141, Italy
+AB  - Access to medical imaging is pivotal in healthcare, playing a crucial role in the prevention, diagnosis, and management of diseases. However, disparities persist in this scenario, disproportionately affecting marginalized communities, racial and ethnic minorities, and individuals facing linguistic or cultural barriers. This paper critically assesses methods to mitigate these disparities, with a focus on breast cancer screening. We underscore scientific mobility as a vital tool for radiologists to advocate for healthcare policy changes: it not only enhances diversity and cultural competence within the radiology community but also fosters international cooperation and knowledge exchange among healthcare institutions. Efforts to ensure cultural competency among radiologists are discussed, including ongoing cultural education, sensitivity training, and workforce diversification. These initiatives are key to improving patient communication and reducing healthcare disparities. This paper also highlights the crucial role of policy changes and legislation in promoting equal access to essential screening services like mammography. We explore the challenges and potential of teleradiology in improving access to medical imaging in remote and underserved areas. In the era of artificial intelligence, this paper emphasizes the necessity of validating its models across a spectrum of populations to prevent bias and achieve equitable healthcare outcomes. Finally, the importance of international collaboration is illustrated, showcasing its role in sharing insights and strategies to overcome global access barriers in medical imaging. Overall, this paper offers a comprehensive overview of the challenges related to disparities in medical imaging access and proposes actionable strategies to address these challenges, aiming for equitable healthcare delivery. © 2023 by the authors.
+KW  - artificial intelligence
+KW  - breast neoplasms
+KW  - cultural competency
+KW  - early detection of cancer
+KW  - health policy
+KW  - healthcare inequities
+KW  - radiology
+KW  - teleradiology
+KW  - anxiety
+KW  - artificial intelligence
+KW  - awareness
+KW  - breast cancer
+KW  - breast examination
+KW  - cancer diagnosis
+KW  - cancer mortality
+KW  - cancer prevention
+KW  - cancer screening
+KW  - cultural competence
+KW  - diagnostic imaging
+KW  - doctor patient relationship
+KW  - employability
+KW  - ethnic group
+KW  - health care delivery
+KW  - health care disparity
+KW  - health care personnel
+KW  - health care policy
+KW  - health care system
+KW  - health disparity
+KW  - human
+KW  - insurance
+KW  - international cooperation
+KW  - interpersonal communication
+KW  - law
+KW  - learning
+KW  - LGBTQIA+ people
+KW  - mammography
+KW  - medical education
+KW  - natural language processing
+KW  - patient care
+KW  - patient satisfaction
+KW  - publication
+KW  - quality control
+KW  - radiologist
+KW  - Review
+KW  - risk factor
+KW  - sensitivity training
+KW  - telemedicine
+KW  - teleradiology
+KW  - transgender
+KW  - verbal communication
+KW  - virtual learning environment
+KW  - workforce
+PB  - Multidisciplinary Digital Publishing Institute (MDPI)
+SN  - 20726694 (ISSN)
+LA  - English
+J2  - Cancers
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 6; Correspondence Address: F. Pesapane; Breast Imaging Division, IEO European Institute of Oncology IRCCS, Milan, 20141, Italy; email: filippo.pesapane@ieo.it
+ER  -
+

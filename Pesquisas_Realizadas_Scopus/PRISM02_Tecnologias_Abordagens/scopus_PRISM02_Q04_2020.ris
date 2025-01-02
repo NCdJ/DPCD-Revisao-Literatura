@@ -1,0 +1,177 @@
+﻿TY  - CONF
+AU  - Donnelly, J.
+AU  - Roegiest, A.
+TI  - The Utility of Context When Extracting Entities from Legal Documents
+PY  - 2020
+T2  - International Conference on Information and Knowledge Management, Proceedings
+SP  - 2397
+EP  - 2404
+DO  - 10.1145/3340531.3412746
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85095864117&doi=10.1145%2f3340531.3412746&partnerID=40&md5=4ebe450f0be1b3cdb418d23186ea9bcf
+AD  - Kira Systems, Toronto, ON, Canada
+AB  - When reviewing documents for legal tasks such as Mergers and Acquisitions, granular information (such as start dates and exit clauses) need to be identified and extracted. Inspired by previous work in Named Entity Recognition (NER), we investigate how NER techniques can be leveraged to aid lawyers in this review process. Due to the extremely low prevalence of target information in legal documents, we find that the traditional approach of tagging all sentences in a document is inferior, in both effectiveness and data required to train and predict, to using a first-pass layer to identify sentences that are likely to contain the relevant information and then running the more traditional sentence-level sequence tagging. Moreover, we find that such entity-level models can be improved by training on a balanced sample of relevant and non-relevant sentences. We additionally describe the use of our system in production and how its usage by clients means that deep learning architectures tend to be cost inefficient, especially with respect to the necessary time to train models. © 2020 ACM.
+KW  - legal technology
+KW  - machine learning
+KW  - nlp
+KW  - Authentication
+KW  - Deep learning
+KW  - Granular informations
+KW  - Learning architectures
+KW  - Legal documents
+KW  - Named entity recognition
+KW  - Review process
+KW  - Sentence level
+KW  - Target information
+KW  - Traditional approaches
+KW  - Knowledge management
+PB  - Association for Computing Machinery
+SN  - 978-145036859-9 (ISBN)
+LA  - English
+J2  - Int Conf Inf Knowledge Manage
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 6; Conference name: 29th ACM International Conference on Information and Knowledge Management, CIKM 2020; Conference date: 19 October 2020 through 23 October 2020; Conference code: 164320
+ER  -
+
+TY  - CONF
+AU  - Moreno-Schneider, J.
+AU  - Rehm, G.
+AU  - Montiel-Ponsoda, E.
+AU  - Rodríguez-Doncel, V.
+AU  - Revenko, A.
+AU  - Karampatakis, S.
+AU  - Khvalchik, M.
+AU  - Sageder, C.
+AU  - Gracia, J.
+AU  - Maganza, F.
+TI  - Orchestrating NLP services for the legal domain
+PY  - 2020
+T2  - LREC 2020 - 12th International Conference on Language Resources and Evaluation, Conference Proceedings
+SP  - 2332
+EP  - 2340
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85094515387&partnerID=40&md5=33cbdc2f68cab07c3c4f581ca3d2edf9
+AD  - DFKI GmbH, Germany
+AD  - Universidad Politécnica de Madrid, Spain
+AD  - Semantic Web Company GmbH, Austria
+AD  - Openlaws GmbH, Austria
+AD  - Universidad de Zaragoza, Spain
+AD  - Alpenite, Italy
+AB  - Legal technology is currently receiving a lot of attention from various angles. In this contribution we describe the main technical components of a system that is currently under development in the European innovation project Lynx, which includes partners from industry and research. The key contribution of this paper is a workflow manager that enables the flexible orchestration of workflows based on a portfolio of Natural Language Processing and Content Curation services as well as a Multilingual Legal Knowledge Graph that contains semantic information and meaningful references to legal documents. We also describe different use cases with which we experiment and develop prototypical solutions. © European Language Resources Association (ELRA), licensed under CC-BY-NC
+KW  - Applications
+KW  - Knowledge Discovery/Representation
+KW  - Systems
+KW  - Text Analytics
+KW  - Tools
+KW  - Knowledge representation
+KW  - Semantics
+KW  - Content curation
+KW  - Innovation projects
+KW  - Legal documents
+KW  - Legal domains
+KW  - Legal knowledge
+KW  - NAtural language processing
+KW  - Semantic information
+KW  - Work-flows
+KW  - Natural language processing systems
+A2  - Calzolari N.
+A2  - Bechet F.
+A2  - Blache P.
+A2  - Choukri K.
+A2  - Cieri C.
+A2  - Declerck T.
+A2  - Goggi S.
+A2  - Isahara H.
+A2  - Maegaard B.
+A2  - Mariani J.
+A2  - Mazo H.
+A2  - Moreno A.
+A2  - Odijk J.
+A2  - Piperidis S.
+PB  - European Language Resources Association (ELRA)
+SN  - 979-109554634-4 (ISBN)
+LA  - English
+J2  - LREC - Int. Conf. Lang. Resour. Eval., Conf. Proc.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 16; Correspondence Address: J. Moreno-Schneider; DFKI GmbH, Germany; email: julian.morenoschneider@dfki.de; Conference name: 12th International Conference on Language Resources and Evaluation, LREC 2020; Conference date: 11 May 2020 through 16 May 2020; Conference code: 164155
+ER  -
+
+TY  - CONF
+AU  - Kuleshov, S.
+AU  - Zaytseva, A.
+AU  - Nenausnikov, K.
+TI  - Legal Tech: Documents’ Validation Method Based on the Associative-Ontological Approach
+PY  - 2020
+T2  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 12335 LNAI
+SP  - 244
+EP  - 254
+DO  - 10.1007/978-3-030-60276-5_25
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85092902177&doi=10.1007%2f978-3-030-60276-5_25&partnerID=40&md5=1c1d9721e1a5cf9a1811c76387015fda
+AD  - St.-Petersburg Federal Research Center of the Russian Academy of Sciences, St.-Petersburg, Russian Federation
+AB  - Trend of Legal Tech is actively developing, thus, allowing an automation of various legal tasks solved both by professional lawyers and ordinary (common) users. Because of the legal documents properties, natural language processing (NLP) technologies are widely used in Legal Tech development. One of the tasks in Legal Tech, whose solution is necessary for both professionals and non-professionals, is a validation documents’ texts, including certain checking for the presence of mandatory structural elements in them. This article considers an implementation of a method and an algorithm for validating, for instance, the documents called “Consent to the personal data processing” in the Russian Language legal practice based on machine learning and using an associative-ontological representation of the text. Such validation occurs by checking documents through a set of rules, at that, each rule describes the documents’ structural elements. Associative ontological representation of the text makes such rules human-readable, and simplifies their adjustment and fine-tuning to the changing legislation norms. Results of experimental verification of the proposed algorithm on a set of texts of real legal documents show its effectiveness when applied to Legal Tech systems. © 2020, Springer Nature Switzerland AG.
+KW  - Legal tech
+KW  - Natural language processing
+KW  - Semantic graph
+KW  - Authentication
+KW  - Laws and legislation
+KW  - Machine learning
+KW  - Natural language processing systems
+KW  - Ontology
+KW  - Experimental verification
+KW  - Human-readable
+KW  - Legal documents
+KW  - NAtural language processing
+KW  - Ontological approach
+KW  - Ontological representation
+KW  - Russian languages
+KW  - Structural elements
+KW  - Associative processing
+A2  - Karpov A.
+A2  - Potapova R.
+PB  - Springer Science and Business Media Deutschland GmbH
+SN  - 03029743 (ISSN); 978-303060275-8 (ISBN)
+LA  - English
+J2  - Lect. Notes Comput. Sci.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 0; Correspondence Address: A. Zaytseva; St.-Petersburg Federal Research Center of the Russian Academy of Sciences, St.-Petersburg, Russian Federation; email: cher@iias.spb.su; Conference name: 22nd International Conference on Speech and Computer, SPECOM 2020; Conference date: 7 October 2020 through 9 October 2020; Conference code: 249919
+ER  -
+
+TY  - CONF
+AU  - Chalkidis, I.
+AU  - Fergadiotis, M.
+AU  - Malakasiotis, P.
+AU  - Aletras, N.
+AU  - Androutsopoulos, I.
+TI  - LEGAL-BERT: The muppets straight out of law school
+PY  - 2020
+T2  - Findings of the Association for Computational Linguistics Findings of ACL: EMNLP 2020
+SP  - 2898
+EP  - 2904
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85114906399&partnerID=40&md5=3ab52c2cc8d51c7b6fbff5a2122eed57
+AD  - Department of Informatics, Athens University of Economics and Business, Greece
+AD  - Institute of Informatics and Telecommunications, NCSR “Demokritos”, Greece
+AD  - Computer Science Department, University of Sheffield, United Kingdom
+AB  - BERT has achieved impressive performance in several NLP tasks. However, there has been limited investigation on its adaptation guidelines in specialised domains. Here we focus on the legal domain, where we explore several approaches for applying BERT models to downstream legal tasks, evaluating on multiple datasets. Our findings indicate that the previous guidelines for pre-training and fine-tuning, often blindly followed, do not always generalize well in the legal domain. Thus we propose a systematic investigation of the available strategies when applying BERT in specialised domains. These are: (a) use the original BERT out of the box, (b) adapt BERT by additional pre-training on domain-specific corpora, and (c) pre-train BERT from scratch on domain-specific corpora. We also propose a broader hyper-parameter search space when fine-tuning for downstream tasks and we release LEGAL-BERT, a family of BERT models intended to assist legal NLP research, computational law, and legal technology applications. © 2020 Association for Computational Linguistics
+KW  - Computational linguistics
+KW  - Domain specific
+KW  - Down-stream
+KW  - Fine tuning
+KW  - Hyper-parameter
+KW  - Law schools
+KW  - Legal domains
+KW  - Multiple data sets
+KW  - Parameter search space
+KW  - Performance
+KW  - Pre-training
+KW  - Natural language processing systems
+PB  - Association for Computational Linguistics (ACL)
+SN  - 978-195214890-3 (ISBN)
+LA  - English
+J2  - Findings Assoc. Comp. Linguist. Findings ACL: EMNLP
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 342; Conference name: Findings of the Association for Computational Linguistics, ACL 2020: EMNLP 2020; Conference date: 16 November 2020 through 20 November 2020; Conference code: 172733
+ER  -
+

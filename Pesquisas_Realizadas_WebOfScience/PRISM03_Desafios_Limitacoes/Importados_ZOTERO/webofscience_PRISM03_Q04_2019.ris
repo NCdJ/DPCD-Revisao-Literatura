@@ -1,0 +1,353 @@
+﻿TY  - JOUR
+AU  - O'Sullivan, S
+AU  - Nevejans, N
+AU  - Allen, C
+AU  - Blyth, A
+AU  - Leonard, S
+AU  - Pagallo, U
+AU  - Holzinger, K
+AU  - Holzinger, A
+AU  - Sajid, MI
+AU  - Ashrafian, H
+TI  - Legal, regulatory, and ethical frameworks for development of standards in artificial intelligence (AI) and autonomous robotic surgery
+T2  - INTERNATIONAL JOURNAL OF MEDICAL ROBOTICS AND COMPUTER ASSISTED SURGERY
+LA  - English
+KW  - CLASSIFICATION
+KW  - EVOLUTION
+KW  - SARS
+AB  - Background This paper aims to move the debate forward regarding the potential for artificial intelligence (AI) and autonomous robotic surgery with a particular focus on ethics, regulation and legal aspects (such as civil law, international law, tort law, liability, medical malpractice, privacy and product/device legislation, among other aspects). Methods We conducted an intensive literature search on current or emerging AI and autonomous technologies (eg, vehicles), military and medical technologies (eg, surgical robots), relevant frameworks and standards, cyber security/safety- and legal-systems worldwide. We provide a discussion on unique challenges for robotic surgery faced by proposals made for AI more generally (eg, Explainable AI) and machine learning more specifically (eg, black box), as well as recommendations for developing and improving relevant frameworks or standards. Conclusion We classify responsibility into the following: (1) Accountability; (2) Liability; and (3) Culpability. All three aspects were addressed when discussing responsibility for AI and autonomous surgical robots, be these civil or military patients (however, these aspects may require revision in cases where robots become citizens). The component which produces the least clarity is Culpability, since it is unthinkable in the current state of technology. We envision that in the near future a surgical robot can learn and perform routine operative tasks that can then be supervised by a human surgeon. This represents a surgical parallel to autonomously driven vehicles. Here a human remains in the 'driving seat' as a 'doctor-in-the-loop' thereby safeguarding patients undergoing operations that are supported by surgical machines with autonomous capabilities.
+AD  - Univ Sao Paulo, Dept Pathol, Fac Med, Sao Paulo, BrazilAD  - Univ Artois, Fac Law Douai, Res Ctr Law Eth & Procedures, Arras, FranceAD  - Univ Pittsburgh, Dept Hist & Philosophy Sci, Pittsburgh, PA 15260 USAAD  - Univ South Wales, Fac Comp Engn & Sci, Dept Comp & Math, Pontypridd, M Glam, WalesAD  - Johns Hopkins Univ, Dept Comp Sci, Baltimore, MD 21218 USAAD  - Univ Turin, Dept Jurisprudence, Turin, ItalyAD  - SBA Res gGmbH, Secure Business Austria, Vienna, AustriaAD  - Med Univ Graz, Inst Med Informat Stat, Holzinger Grp, HCI KDD, Graz, AustriaAD  - Wirral Univ Teaching Hosp, Dept Upper GI Surg, Birkenhead, Merseyside, EnglandAD  - Imperial Coll London, Dept Surg & Canc, London, EnglandAD  - Imperial Coll London, Inst Global Hlth Innovat, London, EnglandC3  - Universidade de Sao PauloC3  - Universite d'ArtoisC3  - Pennsylvania Commonwealth System of Higher Education (PCSHE)C3  - University of PittsburghC3  - University of South WalesC3  - Johns Hopkins UniversityC3  - University of TurinC3  - Medical University of GrazC3  - Imperial College LondonC3  - Imperial College LondonFU  - CNPQ (Brazilian National Council for Scientific and Technological Development)
+FX  - CNPQ (Brazilian National Council for Scientific and Technological Development)
+PU  - WILEY
+PI  - HOBOKEN
+PA  - 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN  - 1478-5951
+SN  - 1478-596X
+J9  - INT J MED ROBOT COMP
+JI  - Int. J. Med. Robot. Comput. Assist. Surg.
+DA  - FEB
+PY  - 2019
+VL  - 15
+IS  - 1
+C7  - e1968
+DO  - 10.1002/rcs.1968
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000455272400006
+N1  - Times Cited in Web of Science Core Collection:  183
+Total Times Cited:  188
+Cited Reference Count:  70
+ER  -
+
+TY  - JOUR
+AU  - Yang, XIA
+AU  - Zafar, S
+AU  - Wang, JX
+AU  - Xiao, H
+TI  - Predictive large-eddy-simulation wall modeling via physics-informed neural networks
+T2  - PHYSICAL REVIEW FLUIDS
+LA  - English
+KW  - DIRECT NUMERICAL-SIMULATION
+KW  - TURBULENT CHANNEL FLOW
+KW  - DEPENDENT DYNAMIC-MODEL
+KW  - BOUNDARY-LAYER
+KW  - SHEAR-STRESS
+KW  - ROUGHNESS
+KW  - STATISTICS
+KW  - INVARIANCE
+KW  - TRANSPORT
+KW  - DATABASE
+AB  - While data-based approaches were found to be useful for subgrid scale (SGS) modeling in Reynolds-averaged Navier-Stokes (RANS) simulations, there have not been many attempts at using machine learning techniques for wall modeling in large-eddy simulations (LESs). Large-eddy simulation differs from RANS simulation in many aspects. For one thing, LES is scale resolving. For another, LES is in and of itself a high-fidelity tool. Because data sets of higher fidelity are in general not frequently accessible or available, this poses additional challenges to data-based modeling in LES. Further, SGS modeling usually needs flow information at only large scales, in contrast with wall modeling, which needs to account for both near-wall small scales and large scales above the wall. In this work we discuss how the above-noted challenges may be addressed when taking a databased approach for wall modeling. We also show the necessity of incorporating physical insights in model inputs, i.e., using inputs that are inspired by the vertically integrated thin-boundary-layer equations and the eddy population density scalings. We show that the inclusion of the above physics-based considerations would enhance extrapolation capabilities of a neural network to flow conditions that are not within the train data. Being cheap to evaluate and using only channel flow data at Re-tau = 1000, the trained networks are found to capture the law of the wall at arbitrary Reynolds numbers and outperform the conventional equilibrium model in a nonequilibrium flow.
+AD  - Penn State Univ, Dept Mech Engn, University Pk, PA 16802 USAAD  - Univ Notre Dame, Dept Aerosp & Mech Engn, Notre Dame, IN 46556 USAAD  - Univ Notre Dame, Ctr Informat & Computat Sci, Notre Dame, IN 46556 USAAD  - Virginia Tech, Dept Aerosp & Ocean Engn, Blacksburg, VA 24061 USAC3  - Pennsylvania Commonwealth System of Higher Education (PCSHE)C3  - Pennsylvania State UniversityC3  - Pennsylvania State University - University ParkC3  - University of Notre DameC3  - University of Notre DameC3  - Virginia Polytechnic Institute & State UniversityFU  - Penn State University
+FX  - X.I.A.Y. would like to thank Penn State University for financial support. The computations are performed on ACI at Penn State and XSEDE.
+PU  - AMER PHYSICAL SOC
+PI  - COLLEGE PK
+PA  - ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN  - 2469-990X
+J9  - PHYS REV FLUIDS
+JI  - Phys. Rev. Fluids
+DA  - MAR 15
+PY  - 2019
+VL  - 4
+IS  - 3
+C7  - 034602
+DO  - 10.1103/PhysRevFluids.4.034602
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000461932900001
+N1  - Times Cited in Web of Science Core Collection:  180
+Total Times Cited:  201
+Cited Reference Count:  104
+ER  -
+
+TY  - JOUR
+AU  - Saltz, J
+AU  - Skirpan, M
+AU  - Fiesler, C
+AU  - Gorelick, M
+AU  - Yeh, T
+AU  - Heckman, R
+AU  - Dewar, N
+AU  - Beard, N
+TI  - Integrating Ethics within Machine Learning Courses
+T2  - ACM TRANSACTIONS ON COMPUTING EDUCATION
+LA  - English
+KW  - Machine learning
+KW  - ethics
+KW  - education
+KW  - BIG DATA
+KW  - PRIVACY
+KW  - CHALLENGES
+KW  - EDUCATION
+KW  - ISSUES
+KW  - LAW
+AB  - This article establishes and addresses opportunities for ethics integration into Machine Learning (ML) courses. Following a survey of the history of computing ethics and the current need for ethical consideration within ML, we consider the current state of ML ethics education via an exploratory analysis of course syllabi in computing programs. The results reveal that though ethics is part of the overall educational landscape in these programs, it is not frequently a part of core technical ML courses. To help address this gap, we offer a preliminary framework, developed via a systematic literature review, of relevant ethics questions that should be addressed within an ML project. A pilot study with 85 students confirms that this framework helped them identify and articulate key ethical considerations within their ML projects. Building from this work, we also provide three example ML course modules that bring ethical thinking directly into learning core ML content. Collectively, this research demonstrates: (1) the need for ethics to be taught as integrated within ML coursework, (2) a structured set of questions useful for identifying and addressing potential issues within an ML project, and (3) novel course models that provide examples for how to practically teach ML ethics without sacrificing core course content. An additional by-product of this research is the collection and integration of recent publications in the emerging field of ML ethics education.
+AD  - Syracuse Univ, Hinds Hall, Syracuse, NY 13244 USAAD  - Carnegie Mellon Univ, Dept Philosophy, Baker Hall 161,5000 Forbes Ave, Pittsburgh, PA 15213 USAAD  - Univ Colorado, UCB 315, Boulder, CO 80309 USAAD  - Probable Models, 502 Berlin Rd, Pittsburgh, PA 15221 USAC3  - Syracuse UniversityC3  - Carnegie Mellon UniversityC3  - University of Colorado SystemC3  - University of Colorado BoulderPU  - ASSOC COMPUTING MACHINERY
+PI  - NEW YORK
+PA  - 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN  - 1946-6226
+J9  - ACM T COMPUT EDUC
+JI  - ACM Trans. Comput. Educ.
+DA  - NOV
+PY  - 2019
+VL  - 19
+IS  - 4
+C7  - 32
+DO  - 10.1145/3341164
+WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:000494273000003
+N1  - Times Cited in Web of Science Core Collection:  82
+Total Times Cited:  84
+Cited Reference Count:  99
+ER  -
+
+TY  - JOUR
+AU  - Singh, J
+AU  - Cobbe, J
+AU  - Norval, C
+TI  - Decision Provenance: Harnessing Data Flow for Accountable Systems
+T2  - IEEE ACCESS
+LA  - English
+KW  - Accountability
+KW  - AI
+KW  - algorithmic & automated decision-making
+KW  - data management
+KW  - GDPR
+KW  - governance
+KW  - IoT
+KW  - law
+KW  - machine learning
+KW  - privacy
+KW  - provenance
+KW  - security
+KW  - systems of systems
+KW  - transparency
+KW  - INTERNET
+KW  - IOT
+AB  - Demand is growing for more accountability regarding the technological systems that increasingly occupy our world. However, the complexity of many of these systems-often systems-of-systems - poses accountability challenges. A key reason for this is because the details and nature of the information flows that interconnect and drive systems, which often occur across technical and organizational boundaries, tend to be invisible or opaque. This paper argues that data provenance methods show much promise as a technical means for increasing the transparency of these interconnected systems. Specifically, given the concerns regarding ever-increasing levels of automated and algorithmic decision-making, and so-called ''algorithmic systems'' in general, we propose decision provenance as a concept showing much promise. Decision provenance entails using provenance methods to provide information exposing decision pipelines: chains of inputs to, the nature of, and the flow-on effects from the decisions and actions taken (at design and run-time) throughout systems. This paper introduces the concept of decision provenance, and takes an interdisciplinary (tech-legal) exploration into its potential for assisting accountability in algorithmic systems. We argue that decision provenance can help facilitate oversight, audit, compliance, risk mitigation, and user empowerment, and we also indicate the implementation considerations and areas for research necessary for realizing its vision. More generally, we make the case that considerations of data flow, and systems more broadly, are important to discussions of accountability, and complement the considerable attention already given to algorithmic specifics.
+AD  - Univ Cambridge, Dept Comp Sci & Technol, Comp Lab, Compliant & Accountable Syst Grp, Cambridge CB3 0FD, EnglandC3  - University of CambridgeFU  - U.K. Engineering and Physical Sciences Research Council (EPSRC) [EP/P024394/1, EP/R033501/1]; Microsoft through the Microsoft Cloud Computing Research Centre; EPSRC [EP/P024394/1, EP/R033501/1] Funding Source: UKRI
+FX  - This work was supported by the U.K. Engineering and Physical Sciences Research Council (EPSRC) under Grant EP/P024394/1 and Grant EP/R033501/1 and Microsoft through the Microsoft Cloud Computing Research Centre.
+PU  - IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI  - PISCATAWAY
+PA  - 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN  - 2169-3536
+J9  - IEEE ACCESS
+JI  - IEEE Access
+PY  - 2019
+VL  - 7
+SP  - 6562
+EP  - 6574
+DO  - 10.1109/ACCESS.2018.2887201
+WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:000456366000001
+N1  - Times Cited in Web of Science Core Collection:  42
+Total Times Cited:  43
+Cited Reference Count:  54
+ER  -
+
+TY  - CPAPER
+AU  - Geluvaraj, B
+AU  - Satwik, PM
+AU  - Kumar, TAA
+ED  - Smys, S
+ED  - Bestak, R
+ED  - Chen, JIZ
+ED  - Kotuliak, I
+TI  - The Future of Cybersecurity: Major Role of Artificial Intelligence, Machine Learning, and Deep Learning in Cyberspace
+T2  - INTERNATIONAL CONFERENCE ON COMPUTER NETWORKS AND COMMUNICATION TECHNOLOGIES (ICCNCT 2018)
+LA  - English
+CP  - International Conference on Computer Networks and Inventive Communication Technologies (ICCNCT)
+KW  - Artificial intelligence (AI)
+KW  - Machine learning (ML)
+KW  - Deep learning (DL)
+KW  - Cybersecurity (CS)
+KW  - Supervised learning (SL)
+KW  - Unsupervised learning (USL)
+KW  - Neural networks (NN)
+AB  - Artificial intelligence (AI), and in particular machine learning(ML), deep learning (DL) has seen huge pace in recent years and is now set to really start influencing all aspects of community and occupations in which people are engaged. This growth has been charged the advancement in computing power, combined with headway in algorithms and cybersecurity is no exception. AI is "an area of computer science that deals with giving machines the ability to look like they have natural brilliance." Systems which are based on AI, sometimes called as cognitive systems, are helping us automate many jobs and gear up difficulties which are more complex than most humans are capable of solving. New generations malware and cyber attacks can be difficult to detect with traditional cybersecurity procedures. They develop over time, so more vigorous approaches are necessary. Solutions for these problems in security rely on ML use data from earlier attacks to respond to newer. Another significant advantage of AI systems in cybersecurity is that they will free up a huge amount of time for IT employees. AI is most commonly used to detect threats and attacks. The systems are developed in a such a way that it must be able to act quickly to the situation on its own. And AI systems do not make errors in completing their tasks. So each threat is responded in the most effective and proper way. In future days, there will be a rapid increase of an international clash in cyberspace. This may include attacks on infrastructure and utilities, as well as damaging normal operations of government and financial bodies, traditional society institutions such as banks, press, law enforcement, and judicial. So taking the cybersecurity as an issue for this paper and let us see the challenges and what is the role of AI, ML, and DL in avoiding cybercrime in future.
+AD  - Garden City Univ, Dept CS & IT, Bengaluru, IndiaPU  - SPRINGER INTERNATIONAL PUBLISHING AG
+PI  - CHAM
+PA  - GEWERBESTRASSE 11, CHAM, CH-6330, SWITZERLAND
+SN  - 2367-4512
+SN  - 978-981-10-8681-6
+SN  - 978-981-10-8680-9
+J9  - LECT NOTE DATA ENG
+PY  - 2019
+VL  - 15
+SP  - 739
+EP  - 747
+DO  - 10.1007/978-981-10-8681-6_67
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000460682500066
+N1  - Times Cited in Web of Science Core Collection:  30
+Total Times Cited:  32
+Cited Reference Count:  0
+ER  -
+
+TY  - JOUR
+AU  - Tung, K
+TI  - AI, the internet of legal things, and lawyers
+T2  - JOURNAL OF MANAGEMENT ANALYTICS
+LA  - English
+KW  - artificial intelligence
+KW  - machine learning
+KW  - corporate legal strategy
+KW  - change management
+KW  - strategic business functions
+AB  - A great deal of has been written about the challenges of a legal profession that resists change and sub-optimizes clients' benefits, and even more ink has been spilled on the opportunities and threats of AI. As laws are falling further behind an accelerating, dynamic world, the gap between businesses and opaque legal functions widens with the latter being perceived often as fire-fighting cost centers. This article calls out the opportunity of AI, specifically machine learning, and its impact on decision making as an opportunity for business leaders to elevate lawyers to contribute further to corporate strategies and operations. Surveying the implications of machine learning through the lens of each element of decision making, the article aims to bring the relevance of today's ubiquitous transformations to the legal function. It also reminds business leaders that the legal function will need some help, such as corporate legal strategists, to drive and sustain change that resides in the intersection of law, business and technology.
+AD  - In Gear Legalyt Ltd, Hong Kong, Peoples R ChinaPU  - ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI  - ABINGDON
+PA  - 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN  - 2327-0012
+SN  - 2327-0039
+J9  - J MANAG ANAL
+JI  - J. Manag. Anal.
+PY  - 2019
+VL  - 6
+IS  - 4
+SP  - 390
+EP  - 403
+DO  - 10.1080/23270012.2019.1671242
+C6  - NOV 2019
+WE  - Social Science Citation Index (SSCI)AN  - WOS:000496784700001
+N1  - Times Cited in Web of Science Core Collection:  27
+Total Times Cited:  27
+Cited Reference Count:  34
+ER  -
+
+TY  - JOUR
+AU  - McCarthy-Jones, S
+TI  - The Autonomous Mind: The Right to Freedom of Thought in the Twenty-First Century
+T2  - FRONTIERS IN ARTIFICIAL INTELLIGENCE
+LA  - English
+KW  - human rights
+KW  - privacy
+KW  - psychology
+KW  - law
+KW  - machine learning
+KW  - big data
+KW  - INTRUSIVE THOUGHTS
+KW  - SOCIAL-INFLUENCE
+KW  - NATURAL IMAGES
+KW  - NEUROSCIENCE
+KW  - ATTITUDES
+KW  - RECONSTRUCTION
+KW  - BEHAVIOR
+KW  - PRIVACY
+KW  - DESIRE
+AB  - To lose freedom of thought (FoT) is to lose our dignity, our democracy and our very selves. Accordingly, the right to FoT receives absolute protection under international human rights law. However, this foundational right has been neither significantly developed nor often utilized. The contours of this right urgently need to be defined due to twenty-first century threats to FoT posed by new technologies. As such, this paper draws on law and psychology to consider what the right to FoT should be in the twenty-first century. After discussing contemporary threats to FoT, and recent developments in our understanding of thought that can inform the development of the right, this paper considers three elements of the right; the rights not to reveal one's thoughts, not to be penalized for one's thoughts, and not to have one's thoughts manipulated. The paper then considers, for each element, why it should exist, how the law currently treats it, and challenges that will shape it going forward. The paper concludes that the law should develop the right to FoT with the clear understanding that what this aims to secure is mental autonomy. This process should hence begin by establishing the core mental processes that enable mental autonomy, such as attentional and cognitive agency. The paper argues that the domain of the right to FoT should be extended to include external actions that are arguably constitutive of thought, including internet searches and diaries, hence shielding them with absolute protection. It is stressed that law must protect us from threats to FoT from both states and corporations, with governments needing to act under the positive aspect of the right to ensure societies are structured to facilitate mental autonomy. It is suggested that in order to support mental autonomy, information should be provided in autonomy-supportive contexts and friction introduced into decision making processes to facilitate second-order thought. The need for public debate about how society wishes to balance risk and mental autonomy is highlighted, and the question is raised as to whether the importance attached to thought has changed in our culture. The urgency of defending FoT is re-iterated.
+AD  - Trinity Coll Dublin, Dept Psychiat, Dublin, IrelandC3  - Trinity College DublinPU  - FRONTIERS MEDIA SA
+PI  - LAUSANNE
+PA  - AVENUE DU TRIBUNAL FEDERAL 34, LAUSANNE, CH-1015, SWITZERLAND
+SN  - 2624-8212
+J9  - FRONT ARTIF INTELL
+JI  - Front. Artif. Intell.
+PY  - 2019
+VL  - 2
+C7  - 19
+DO  - 10.3389/frai.2019.00019
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:000751670300019
+N1  - Times Cited in Web of Science Core Collection:  26
+Total Times Cited:  27
+Cited Reference Count:  144
+ER  -
+
+TY  - JOUR
+AU  - Fagan, F
+AU  - Levmore, S
+TI  - THE IMPACT OF ARTIFICIAL INTELLIGENCE ON RULES, STANDARDS, AND JUDICIAL DISCRETION
+T2  - SOUTHERN CALIFORNIA LAW REVIEW
+LA  - English
+AB  - Artificial intelligence ("AI"), and machine learning in particular, promises lawmakers greater specificity and fewer errors. Algorithmic lawmaking and judging will leverage models built from large stores of data that permit the creation and application of finely tuned rules. AI is therefore regarded as something that will bring about a movement from standards towards rules. Drawing on contemporary data science, this Article shows that machine learning is less impressive when the past is unlike the future, as it is whenever new variables appear over time. In the absence of regularities, machine learning loses its advantage and, as a result, looser standards can become superior to rules. We apply this insight to bail and sentencing decisions, as well as familiar corporate and contract law rules. More generally, we show that a Human-AI combination can be superior to AI acting alone. Just as today's judges overrule errors and outmoded precedent, tommorrow 's lawmakers will sensibly overrule AI in legal domains where the challenges of measurement are present. When measurement is straightforward and prediction is accurate, rules will prevail. When empirical limitations such as overfit, Simpson's Paradox, and omitted variables make measurement difficult, AI should be trusted less and law should give way to standards. We introduce readers to the phenomenon of reversal paradoxes, and we suggest that in law, where huge data sets are rare, AI should not be expected to outperform humans. But more generally, where empirical limitations are likely, including overfit and omitted variables, rules should be trusted less, and law should give way to standards.
+AD  - EDHEC Business Sch, Law, Roubaix, FranceAD  - Univ Chicago, Law Sch, Law, Chicago, IL 60637 USAC3  - Universite Catholique de LilleC3  - EDHEC Business SchoolC3  - University of ChicagoPU  - UNIV SOUTHERN CALIF
+PI  - LOS ANGELES
+PA  - LAW CENTER UNIV PARK, LOS ANGELES, CA 90089-0071 USA
+SN  - 0038-3910
+J9  - SOUTH CALIF LAW REV
+JI  - South. Calif. Law Rev.
+DA  - NOV
+PY  - 2019
+VL  - 93
+IS  - 1
+SP  - 1
+EP  - 35
+WE  - Social Science Citation Index (SSCI)AN  - WOS:000509485200001
+N1  - Times Cited in Web of Science Core Collection:  23
+Total Times Cited:  24
+Cited Reference Count:  38
+ER  -
+
+TY  - CPAPER
+AU  - He, SY
+AU  - He, YZ
+AU  - Li, MZ
+A1  - ACM
+TI  - Classification of Illegal Activities on the Dark Web
+T2  - PROCEEDINGS OF THE 2ND INTERNATIONAL CONFERENCE ON INFORMATION SCIENCE AND SYSTEMS (ICISS 2019)
+LA  - English
+CP  - 2nd International Conference on Information Science and System (ICISS)
+KW  - Dark web
+KW  - legal
+KW  - classification
+KW  - illegal activities
+KW  - Tor
+AB  - The strong anonymity and hard-to-track mechanisms of the dark web provide shelter for illegal activities. The illegal content on the dark web is diverse and frequently updated. Traditional dark web classification uses large-scale web pages for supervised training However, the difficulty of collecting enough illegal dark web content and the time consumption of manually labeling web pages have become challenges of current research. In this paper, we propose a method that can effectively classify illegal activities on the dark web. Instead of relying on the massive dark web training set, we creatively select laws and regulations related to each type of illegal activities to train the machine learning classifiers and achieve a good classification performance. In the areas of pornography, drugs, weapons, hackers, and counterfeit credit cards, we select relevant legal documents from the United States Code for supervised training and conduct a classification experiment on the illegal content of the real dark web we collected. The results show that combined with TF-IDF feature extraction and Naive Bayes classifier, we achieved an accuracy of 0.935 in the experimental environment. Our approach allows researchers and the network law enforcement to check whether their dark web corpus contains such illegal activities based on the relevant laws of the illegal categories they care about in order to detect and monitor potential illegal websites in a timely manner And because neither a large training set nor the seed keywords provided by experts are needed, this classification method provides another idea for the definition of illegal activities on the dark web. Moreover, it makes sense to help explore and discover new types of illegal activities on the dark web.
+AD  - Beijing Jiaotong Univ, Sch Comp, Beijing, Peoples R ChinaC3  - Beijing Jiaotong UniversityFU  - National key R&D program of China [2017YFC0820102]
+FX  - This work was supported in part by the following grants: National key R&D program of China No. 2017YFC0820102.
+PU  - ASSOC COMPUTING MACHINERY
+PI  - NEW YORK
+PA  - 1515 BROADWAY, NEW YORK, NY 10036-9998 USA
+SN  - 978-1-4503-6103-3
+PY  - 2019
+SP  - 73
+EP  - 78
+DO  - 10.1145/3322645.3322691
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000482040100014
+N1  - Times Cited in Web of Science Core Collection:  18
+Total Times Cited:  19
+Cited Reference Count:  18
+ER  -
+
+TY  - JOUR
+AU  - Eickhoff, SB
+AU  - Langner, R
+TI  - Neuroimaging-based prediction of mental traits: Road to utopia or Orwell?
+T2  - PLOS BIOLOGY
+LA  - English
+KW  - BRAIN
+KW  - NEUROETHICS
+KW  - ATTENTION
+KW  - BEHAVIOR
+AB  - Predicting individual mental traits and behavioral dispositions from brain imaging data through machine-learning approaches is becoming a rapidly evolving field in neuroscience. Beyond scientific and clinical applications, such approaches also hold the potential to gain substantial influence in fields such as human resource management, education, or criminal law. Although several challenges render real-life applications of such tools difficult, future conflicts of individual, economic, and public interests are preprogrammed, given the prospect of improved personalized predictions across many domains. In this Perspective paper, we thus argue for the need to engage in a discussion on the ethical, legal, and societal implications of the emergent possibilities for brain-based predictions and outline some of the aspects for this discourse.
+AD  - Heinrich Heine Univ Dusseldorf, Med Fac, Inst Syst Neurosci, Dusseldorf, GermanyAD  - Res Ctr Julich, Inst Neurosci & Med, Brain & Behav INM 7, Julich, GermanyC3  - Heinrich Heine University DusseldorfC3  - Helmholtz AssociationC3  - Research Center JulichPU  - PUBLIC LIBRARY SCIENCE
+PI  - SAN FRANCISCO
+PA  - 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN  - 1544-9173
+SN  - 1545-7885
+J9  - PLOS BIOL
+JI  - PLoS. Biol.
+DA  - NOV
+PY  - 2019
+VL  - 17
+IS  - 11
+C7  - e3000497
+DO  - 10.1371/journal.pbio.3000497
+WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:000501223700028
+N1  - Times Cited in Web of Science Core Collection:  17
+Total Times Cited:  17
+Cited Reference Count:  23
+ER  -
+

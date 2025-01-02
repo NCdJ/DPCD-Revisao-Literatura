@@ -1,0 +1,363 @@
+﻿TY  - CPAPER
+AU  - Mai, TT
+AU  - Tran, QL
+AU  - Tran, LD
+AU  - Ninh, T
+AU  - Dang-Nguyen, DT
+AU  - Gurrin, C
+A1  - ASSOC COMPUTING MACHINERY
+TI  - The First ACM Workshop on AI-Powered Question Answering Systems for Multimedia
+T2  - PROCEEDINGS OF THE 4TH ANNUAL ACM INTERNATIONAL CONFERENCE ON MULTIMEDIA RETRIEVAL, ICMR 2024
+LA  - English
+CP  - 4th Annual International Conference on Multimedia Retrieval (ICMR)
+KW  - Question Answering Systems
+KW  - Artificial Intelligence
+KW  - Large Language Models
+KW  - Multimedia
+AB  - The advent of large language models (LLMs) has energised research in Question-Answering (QA) tasks, enabling responses across varied domains like economics and mathematics. Despite their capabilities, LLMs often lack explainability due to their complex parameter embeddings. Additionally, integrating multimedia data into QA systems introduces challenges in processing and interpreting diverse data types such as text, images, audio, and video. This necessitates sophisticated algorithms for accurate information retrieval across media while ensuring the reliability of the data and responses remains a significant challenge. The AIQAM workshop aims to bring together researchers and practitioners to address these challenges and enhance QA systems with multimedia data. The focus is on promoting innovations that improve the accuracy, explainability, and trustworthiness of QA systems, contributing to the development of the field.
+AD  - Dublin City Univ, Dublin, IrelandAD  - Univ Bergen, Bergen, NorwayC3  - Dublin City UniversityC3  - University of BergenFU  - Science Foundation Ireland [SFI/13/RC/2106-P2]; European Regional Development Fund; European Union's Horizon 2020 Research and Innovation Programme RISE [823759]
+FX  - This publication has emanated from research supported in part by Science Foundation Ireland under grant numbers SFI/13/RC/2106-P2, and co-funded by the European Regional Development Fund. Some authors are also partially supported by the European Union's Horizon 2020 Research and Innovation Programme RISE under grant agreement no. 823759 (REMESH).
+PU  - ASSOC COMPUTING MACHINERY
+PI  - NEW YORK
+PA  - 1601 Broadway, 10th Floor, NEW YORK, NY, UNITED STATES
+SN  - 979-8-4007-0602-8
+PY  - 2024
+SP  - 1328
+EP  - 1329
+DO  - 10.1145/3652583.3658890
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:001282078400169
+N1  - Times Cited in Web of Science Core Collection:  7
+Total Times Cited:  7
+Cited Reference Count:  7
+ER  -
+
+TY  - JOUR
+AU  - Yang, T
+AU  - Mei, YP
+AU  - Xu, L
+AU  - Yu, HH
+AU  - Chen, YY
+TI  - Application of question answering systems for intelligent agriculture production and sustainable management: A review
+T2  - RESOURCES CONSERVATION AND RECYCLING
+LA  - English
+KW  - Question answering system
+KW  - Intelligent agriculture
+KW  - Knowledge graphs
+KW  - Large language models
+AB  - The increasing application of artificial intelligence in agriculture production and management has generated a large amount of data, leading to a demand for processing this data. This review focuses on the knowledge storage approaches in agricultural question answering systems, namely corpora, knowledge graphs, and large language models. These systems are built on massive amounts of data and aim to process and retrieve information effectively in the context of sustainable agriculture. Corpora refer to large collections of diverse documents that serve as foundational resources for training and fine-tuning question answering systems. Knowledge graphs capture structured and interconnected knowledge by representing entities, relationships, and attributes, enabling efficient organization and querying of information. Large language models, such as GPT-4, enhance the capacity of question answering systems to provide accurate and relevant responses. By exploring these three prominent knowledge storage approaches, this review analyses the methodology and impact of agricultural question answering systems, highlighting their applications in the production process. The findings provide important implications for future research in agriculture, and potential directions for further exploration.
+AD  - Natl Innovat Ctr Digital Fishery, Beijing 100083, Peoples R ChinaAD  - Beijing Forestry Univ, Sch Informat Sci & Technol, 35 Tsinghua East Rd, Beijing 100083, Peoples R ChinaAD  - Minist Agr & Rural Affairs, Key Lab Smart Farming Aquat Anim & Livestock, Beijing 100083, Peoples R ChinaAD  - Beijing Engn & Technol Res Ctr Internet Things Agr, Beijing 100083, Peoples R ChinaAD  - China Agr Univ, Coll Informat & Elect Engn, 17 Tsinghua East Rd, Beijing 100083, Peoples R ChinaC3  - Beijing Forestry UniversityC3  - Ministry of Agriculture & Rural AffairsC3  - China Agricultural UniversityFU  - National Natural Science Foundation of China [62206021]; Beijing Digital Agriculture Innovation Consortium Project [BAIC10- 2023]
+FX  - This work was supported by the National Natural Science Foundation of China "Intelligent identification method of underwater fish morphological characteristics based on binocular vision" (No. 62206021) and Beijing Digital Agriculture Innovation Consortium Project (BAIC10- 2023) .
+PU  - ELSEVIER
+PI  - AMSTERDAM
+PA  - RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN  - 0921-3449
+SN  - 1879-0658
+J9  - RESOUR CONSERV RECY
+JI  - Resour. Conserv. Recycl.
+DA  - MAY
+PY  - 2024
+VL  - 204
+C7  - 107497
+DO  - 10.1016/j.resconrec.2024.107497
+C6  - FEB 2024
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001196852900001
+N1  - Times Cited in Web of Science Core Collection:  5
+Total Times Cited:  5
+Cited Reference Count:  78
+ER  -
+
+TY  - JOUR
+AU  - Biancofiore, GM
+AU  - Deldjoo, Y
+AU  - Di Noia, T
+AU  - Di Sciascio, E
+AU  - Narducci, F
+TI  - Interactive Question Answering Systems: Literature Review
+T2  - ACM COMPUTING SURVEYS
+LA  - English
+KW  - Question answering
+KW  - natural language processing
+KW  - interactive systems
+KW  - human-computer interaction
+KW  - artificial intelligence
+KW  - large language model
+KW  - LANGUAGE
+KW  - ATTENTION
+AB  - Question-answering systems are recognized as popular and frequently effective means of information seeking on the web. In such systems, information seekers can receive a concise response to their queries by presenting their questions in natural language. Interactive question answering is a recently proposed and increasingly popular solution that resides at the intersection of question answering and dialogue systems. On the one hand, the user can ask questions in normal language and locate the actual response to her inquiry; on the other hand, the system can prolong the question-answering session into a dialogue if there are multiple probable replies, very few, or ambiguities in the initial request. By permitting the user to ask more questions, interactive question answering enables users to interact with the system and receive more precise results dynamically. This survey offers a detailed overview of the interactive question-answering methods that are prevalent in current literature. It begins by explaining the foundational principles of question-answering systems, hence defining new notations and taxonomies to combine all identified works inside a unified framework. The reviewed published work on interactive question-answering systems is then presented and examined in terms of its proposed methodology, evaluation approaches, and dataset/application domain. We also describe trends surrounding specific tasks and issues raised by the community, so shedding light on the future interests of scholars. Our work is further supported by a GitHub page synthesizing all the major topics covered in this literature study. https://sisinflab.github.io/interactive-question-answering-systems-survey/
+AD  - Polytech Univ Bari, Bari, Puglia, ItalyAD  - Politecn Bari, Dept Elect Engn & Informat Technol, SisInf Lab, Bari, ItalyAD  - Politecn Bari, Bari, BA, ItalyAD  - Politecn Bari, Bari, Puglia, ItalyC3  - Politecnico di BariC3  - Politecnico di BariC3  - Politecnico di BariC3  - Politecnico di BariPU  - ASSOC COMPUTING MACHINERY
+PI  - NEW YORK
+PA  - 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN  - 0360-0300
+SN  - 1557-7341
+J9  - ACM COMPUT SURV
+JI  - ACM Comput. Surv.
+DA  - SEP
+PY  - 2024
+VL  - 56
+IS  - 9
+C7  - 239
+DO  - 10.1145/3657631
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001230135700024
+N1  - Times Cited in Web of Science Core Collection:  4
+Total Times Cited:  4
+Cited Reference Count:  173
+ER  -
+
+TY  - JOUR
+AU  - Han, QZ
+TI  - Construction of Intelligent Question-Answering System to Improve Knowledge Management Service from the Perspective of Education Informatization
+T2  - JOURNAL OF INFORMATION & KNOWLEDGE MANAGEMENT
+LA  - English
+KW  - Knowledge management services
+KW  - intelligent question-answering system
+KW  - entity recognition model
+KW  - question classification model
+KW  - precision
+KW  - NEURAL-NETWORKS
+AB  - With the continuous reform of education informatization, modern information technology gradually became a key technology in education. An intelligent question-answering system was constructed in this research for knowledge management services. It included an entity recognition model based on bidirectional long short-term memory attention conditional random field and a question classification model based on a bidirectional encoder using Transformers text convolutional neural network. The entity recognition model added a reverse long short-term memory propagation structure, while introducing an attention mechanism and conditional random field model. The question classification model utilized a preprocessed structure to output a feature matrix with richer semantic information, while utilizing a bidirectional encoder to extract local features of short text sentences. These experiments confirmed that the constructed model had a high precision of 0.945, which was much higher than other models. The recall of this proposed model was 0.077 higher than the control models. For precision, the proposed model had good recognition performance for methods, files and modules, with values of 0.9040, 0.9050 and 0.9160, respectively. For the recall, the question classification model had the best recognition effect on files, at 0.9060. For the F1-score, the proposed model had the best recognition performance for modules, at 0.9100. The named entity recognition model constructed had high accuracy and F1-score, reaching 0.931 and 0.923, indicating that it had the best classification performance in the dataset. Through intelligent question-answering systems, automatic answering of questions can be achieved, effectively improving knowledge services. This research has integrated knowledge and technology from multiple disciplines such as computer science, artificial intelligence, and natural language processing to promote the cross-integration of these disciplines in knowledge management. This interdisciplinary method not only broadens the research perspective of knowledge management but also provides new ideas and methods for the development of related fields.
+AD  - Kaifeng Vocat Coll Culture & Arts, Ideol & Polit Theory Teaching Dept, Kaifeng 475000, Peoples R ChinaFU  - The 2023 Henan Province Key R&D and Promotion Special Project; Research on the Technological Empowerment of Blockchain Principles for Comprehensively Promoting Rural Cultural Revitalization in Henan Province [232400410437]
+FX  - The research is supported by the 2023 Henan Province Key R&D and Promotion Special Project (Soft Science), Research on the Technological Empowerment of Blockchain Principles for Comprehensively Promoting Rural Cultural Revitalization in Henan Province (No. 232400410437).
+PU  - WORLD SCIENTIFIC PUBL CO PTE LTD
+PI  - SINGAPORE
+PA  - 5 TOH TUCK LINK, SINGAPORE 596224, SINGAPORE
+SN  - 0219-6492
+SN  - 1793-6926
+J9  - J INF KNOWL MANAG
+JI  - J. Inf. Knowl. Manag.
+DA  - 2024 SEP 25
+PY  - 2024
+DO  - 10.1142/S0219649224501028
+C6  - SEP 2024
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001321116000002
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  34
+ER  -
+
+TY  - JOUR
+AU  - Lian, ZX
+AU  - Wang, F
+TI  - Government chatbot: Empowering smart conversations with enhanced contextual understanding and reasoning
+T2  - JOURNAL OF INFORMATION SCIENCE
+LA  - English
+KW  - Artificial intelligence
+KW  - chatbot
+KW  - contextualisation
+KW  - fuzzy logic
+KW  - government
+KW  - relational graph convolutional networks
+AB  - Currently, an increasing number of governments have adopted question answering systems (QASs) in public service delivery. As some citizens with limited information literacy often express their questions vaguely when interacting with a chatbot, it is necessary to improve the contextual understanding and reasoning ability of government chatbots (G-chatbots). This goal can be achieved through the optimisation of the matching between question, answer and context. By incorporating the Relational Graph Convolutional Networks (R-GCNs) and fuzzy logic, this study proposes a multi-turn dialogue model that introduces a re-question mechanism and a subgraph matching algorithm. The experiment results show that the model can improve the contextual reasoning ability of G-chatbots by about 10% and generate answers in a more explainable way. This study innovatively integrates a question-answer-context matching approach, re-question mechanism into the MTRF-G-chatbot model, reducing barriers to citizens' access to government services and enhancing contextual reasoning abilities.
+AD  - Nankai Univ, Dept Informat Resources Management, Business Sch, Tianjin, Peoples R ChinaAD  - Nankai Univ, Ctr Network Soc Governance, Tianjin 300071, Peoples R ChinaAD  - Northeastern Univ, Management Sch, Shenyang, Peoples R ChinaC3  - Nankai UniversityC3  - Nankai UniversityC3  - Northeastern University - ChinaFU  - National Social Science Foundation of China [20ZDA039]; NSFC [72174096]
+FX  - The author(s) disclosed receipt of the following financial support for the research, authorship, and/or publication of this article: This study is funded by the National Social Science Foundation of China (grant no. 20ZDA039) and NSFC (grant no. 72174096).
+PU  - SAGE PUBLICATIONS LTD
+PI  - LONDON
+PA  - 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN  - 0165-5515
+SN  - 1741-6485
+J9  - J INF SCI
+JI  - J. Inf. Sci.
+DA  - 2024 SEP 18
+PY  - 2024
+DO  - 10.1177/01655515241268863
+C6  - SEP 2024
+WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:001315539900001
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  55
+ER  -
+
+TY  - JOUR
+AU  - Chuganskaya, AA
+AU  - Kovalev, AK
+AU  - Panov, A
+TI  - Sign-based image criteria for social interaction visual question answering
+T2  - LOGIC JOURNAL OF THE IGPL
+LA  - English
+KW  - Visual question answering
+KW  - social interaction
+KW  - perception
+KW  - action
+KW  - scenario
+KW  - sign-based world model
+AB  - The multi-modal tasks have started to play a significant role in the research on artificial intelligence. A particular example of that domain is visual-linguistic tasks, such as visual question answering. The progress of modern machine learning systems is determined, among other things, by the data on which these systems are trained. Most modern visual question answering data sets contain limited type questions that can be answered either by directly accessing the image itself or by using external data. At the same time, insufficient attention is paid to the issues of social interactions between people, which limits the scope of visual question answering systems. In this paper, we propose criteria by which images suitable for social interaction visual question answering can be selected for composing such questions, based on psychological research. We believe this should serve the progress of visual question answering systems.
+AD  - Russian Acad Sci, Fed Res Ctr Comp Sci & Control, 60th October Anniversary Prospect 9, Moscow 117312, RussiaAD  - Artificial Intelligence Res Inst, Moscow Inst Phys & Technol, Kerchenskaya Str 1,B1, Moscow 117303, RussiaC3  - Federal Research Center "Computer Science & Control" of RASC3  - Russian Academy of SciencesC3  - Moscow Institute of Physics & TechnologyPU  - OXFORD UNIV PRESS
+PI  - OXFORD
+PA  - GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+SN  - 1367-0751
+SN  - 1368-9894
+J9  - LOG J IGPL
+JI  - Log. J. IGPL
+DA  - AUG
+PY  - 2024
+VL  - 32
+IS  - 4
+SP  - 656
+EP  - 670
+DO  - 10.1093/jigpal/jzae026
+C6  - MAR 2024
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001189422100001
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  40
+ER  -
+
+TY  - JOUR
+AU  - Zakharov, AA
+AU  - Zakharova, IG
+AU  - Shabalin, AM
+AU  - Khanbekov, SI
+AU  - Dzhalilzoda, DB
+TI  - INTELLIGENT VOICE ASSISTANT AS AN EXAMPLE OF INCLUSIVE DESIGN METHODOLOGY IMPLEMENTATION
+T2  - OBRAZOVANIE I NAUKA-EDUCATION AND SCIENCE
+LA  - English
+KW  - inclusive design
+KW  - digital educational resource
+KW  - voice assistant
+KW  - visually impaired students
+KW  - question-answering system
+KW  - ontology
+KW  - data interpretation
+KW  - artificial intelligence
+KW  - CHALLENGES
+KW  - EDUCATION
+AB  - Introduction . The development of artificial intelligence methods and technologies aimed at speech recognition contributes to the creation of specialised programmes - namely voice assistants - which are capable of conducting a dialogue in natural language. Such services are of particular relevance in inclusive education in order to support students with visual impairments. The research problem lies in the individualised support of students' independent work based on a voice assistant and is determined by the contradiction between the widespread use of various question -answer systems in business and everyday life (including those with a voice interface), on the one hand, and insufficient knowledge their didactic possibilities, on the other hand. Aim. The present research aims to investigate and practically implement the methodology of inclu - sive design of digital educational resources on the example of creating an intelligent voice assistant for students' independent work in the course "Computer Networks". Methodology and research methods . The current research is based on the methodology of inclusive design in combination with an ontological approach in relation to the creation of digital educational resources, speech recognition methods, methods for designing intelligent systems and knowledge bases, methods and technologies for designing and implementing automated learning systems with feedback. To recognise questions, search for answers, and support dialogues carried out by a voice assistant, the authors applied natural language text analysis methods and classification models created using machine learning methods. Results. The authors have developed and substantiated the requirements that a digital educational resource must meet in accordance with the principles of inclusive design, linking an ontological approach to content development, automatic individualised support for students, and monitoring the achievement of educational results. According to the formulated requirements, the authors have developed an inter - active computer service - an intelligent voice assistant that provides support for students' independent work when performing practical tasks, using the "Computer Networks" course as an example. The service supports voice input and subsequent interpretation of questions, search for answers in the knowledge base with voice output of the result, and implements the execution of operations according to certain rules. Scientific novelty. The authors have clarified the content of the concept of "inclusive design" in the context of digital educational resources, when the key feature is the focus on continuous improvement of the didactic capabilities of a particular product. The authors have shown that this can be achieved through a conceptually based content structure and initially provided feedback. This approach has prov - en to be effective in designing an intelligent voice assistant to answer student questions and to automat - ically perform operations on a computer. Practical significance. The use of a voice assistant by students of the Institute of Mathematics and Computer Science of the University of Tyumen in the process of studying the course "Computer Net - works" demonstrated the relevance of developing similar question -answering systems to accompany the independent work of students, including those with visual impairments in online and blended learning. The developed service is universal and can be used with any knowledge base that provides answers to students' questions.
+AD  - Univ Tyumen, Tyumen, RussiaC3  - Tyumen State UniversityPU  - RUSSIAN STATE VOCATIONAL PEDAGOGICAL UNIV
+PI  - YEKATERINBURG
+PA  - UL LUNACHARSKOGO, 85A, OFIS 203, YEKATERINBURG, 620075, RUSSIA
+SN  - 1994-5639
+SN  - 2310-5828
+J9  - OBRAZOVANIE NAUKA
+JI  - Obrazov. Nauka
+DA  - MAR
+PY  - 2024
+VL  - 26
+IS  - 3
+SP  - 149
+EP  - 175
+DO  - 10.17853/1994-5639-2024-3-149-175
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001223185700005
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  37
+ER  -
+
+TY  - JOUR
+AU  - Kell, G
+AU  - Roberts, A
+AU  - Umansky, S
+AU  - Qian, LL
+AU  - Ferrari, D
+AU  - Soboczenski, F
+AU  - Wallace, BC
+AU  - Patel, N
+AU  - Marshall, IJ
+TI  - Question answering systems for health professionals at the point of care-a systematic review
+T2  - JOURNAL OF THE AMERICAN MEDICAL INFORMATICS ASSOCIATION
+LA  - English
+KW  - clinical decision support
+KW  - question answering
+KW  - evidence-based medicine
+KW  - natural language processing
+KW  - artificial intelligence
+KW  - CLINICAL QUESTIONS
+KW  - INFORMATION
+AB  - Objectives Question answering (QA) systems have the potential to improve the quality of clinical care by providing health professionals with the latest and most relevant evidence. However, QA systems have not been widely adopted. This systematic review aims to characterize current medical QA systems, assess their suitability for healthcare, and identify areas of improvement.Materials and methods We searched PubMed, IEEE Xplore, ACM Digital Library, ACL Anthology, and forward and backward citations on February 7, 2023. We included peer-reviewed journal and conference papers describing the design and evaluation of biomedical QA systems. Two reviewers screened titles, abstracts, and full-text articles. We conducted a narrative synthesis and risk of bias assessment for each study. We assessed the utility of biomedical QA systems.Results We included 79 studies and identified themes, including question realism, answer reliability, answer utility, clinical specialism, systems, usability, and evaluation methods. Clinicians' questions used to train and evaluate QA systems were restricted to certain sources, types and complexity levels. No system communicated confidence levels in the answers or sources. Many studies suffered from high risks of bias and applicability concerns. Only 8 studies completely satisfied any criterion for clinical utility, and only 7 reported user evaluations. Most systems were built with limited input from clinicians.Discussion While machine learning methods have led to increased accuracy, most studies imperfectly reflected real-world healthcare information needs. Key research priorities include developing more realistic healthcare QA datasets and considering the reliability of answer sources, rather than merely focusing on accuracy.
+AD  - Kings Coll London, Dept Populat Hlth Sci, Addison House,Guys Campus, London SE1 1UL, Greater London, EnglandAD  - Kings Coll London, Dept Biostat & Hlth Informat, London SE5 8AB, Greater London, EnglandAD  - Metadvice Ltd, London SW1Y 5JG, Greater London, EnglandAD  - Northeastern Univ, Khoury Coll Comp Sci, Boston, MA 02115 USAC3  - University of LondonC3  - King's College LondonC3  - University of LondonC3  - King's College LondonC3  - Northeastern UniversityFU  - National Institutes of Health (NIH) under the National Library of Medicine [R01- LM012086-01A1]; King's College London; Metadvice Ltd
+FX  - This work was supported by the National Institutes of Health (NIH) under the National Library of Medicine (R01- LM012086-01A1), "Semi-Automating Data Extraction for Systematic Reviews." G.K. was supported by a studentship funded by King's College London and Metadvice Ltd; there is no grant number associated with this funding.
+PU  - OXFORD UNIV PRESS
+PI  - OXFORD
+PA  - GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+SN  - 1067-5027
+SN  - 1527-974X
+J9  - J AM MED INFORM ASSN
+JI  - J. Am. Med. Inf. Assoc.
+DA  - APR 3
+PY  - 2024
+VL  - 31
+IS  - 4
+SP  - 1009
+EP  - 1024
+DO  - 10.1093/jamia/ocae015
+C6  - FEB 2024
+WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:001163650100001
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  126
+ER  -
+
+TY  - JOUR
+AU  - Awais, M
+AU  - Nawab, RMA
+TI  - Abstractive Text Summarization for the Urdu Language: Data and Methods
+T2  - IEEE ACCESS
+LA  - English
+KW  - Task analysis
+KW  - Long short term memory
+KW  - Deep learning
+KW  - Benchmark testing
+KW  - Social networking (online)
+KW  - Convolutional neural networks
+KW  - Natural language processing
+KW  - Abstracts
+KW  - Text detection
+KW  - Artificial intelligence
+KW  - Publishing
+KW  - Unsupervised learning
+KW  - Machine learning
+KW  - Text analysis
+KW  - Text summarization
+KW  - Abstractive text summarization
+KW  - BART
+KW  - corpus
+KW  - deep learning models
+KW  - GPT-3.5
+KW  - large language models
+KW  - Urdu
+AB  - The task of abstractive text summarization aims to automatically generate a short and concise summary of a given source article. In recent years, automatic abstractive text summarization has attracted the attention of researchers because large volumes of digital text are readily available in multiple languages on a wide range of topics. Automatically generating precise summaries from large text has potential application in the generation of news headlines, a summary of research articles, the moral of the stories, media marketing, search engine optimization, financial research, social media marketing, question-answering systems, and chatbots. In literature, the problem of abstractive text summarization has been mainly investigated for English and some other languages. However, it has not been thoroughly explored for the Urdu language despite having a huge amount of data available in digital format. To fulfill this gap, this paper presents a large benchmark corpus of 2,067,784 Urdu news articles for the Urdu abstractive text summarization task. As a secondary contribution, we applied a range of deep learning (LSTM, Bi-LSTM, LSTM with attention, GRU, Bi-GRU, and GRU with attention), and large language models (BART and GPT-3.5) on our proposed corpus. Our extensive evaluation on 20,000 test instances showed that GRU with attention model outperforms the other models with ROUGE- 1 = 46.7 , ROUGE- 2 = 24.1 , and ROUGE-L = 48.7. To foster research in Urdu, our proposed corpus is publically and freely available for research purposes under the Creative Common Licence.
+AD  - COMSATS Univ Islamabad, Dept Comp Sci, Lahore Campus, Lahore 54000, PakistanC3  - COMSATS University Islamabad (CUI)PU  - IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI  - PISCATAWAY
+PA  - 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN  - 2169-3536
+J9  - IEEE ACCESS
+JI  - IEEE Access
+PY  - 2024
+VL  - 12
+SP  - 61198
+EP  - 61210
+DO  - 10.1109/ACCESS.2024.3378300
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001214282400001
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  59
+ER  -
+
+TY  - CPAPER
+AU  - Luo, JP
+AU  - Yu, HY
+AU  - Tan, C
+AU  - Yu, HT
+A1  - IEEE
+TI  - Enhanced Qwen-VL 7B Model via Instruction Finetuning on Chinese Medical Dataset
+T2  - 2024 5TH INTERNATIONAL CONFERENCE ON COMPUTER ENGINEERING AND APPLICATION, ICCEA 2024
+LA  - English
+CP  - 5th International Conference on Computer Engineering and Application (ICCEA)
+KW  - Qwen-VL 7B Model
+KW  - Medical Question-Answering Systems
+KW  - Large Vision-Language Model
+AB  - The integration of artificial intelligence (AI) into healthcare is revolutionizing medical information access and professional advice delivery. This study focuses on the development of a medical-specific question-answering model leveraging the Qwen-VL 7B model, an advanced Large Vision-Language Model (LVLM), to enhance the understanding and generation of medical texts. The Qwen-VL 7B model's capabilities in both language and visual comprehension make it an ideal candidate for medical question-answering systems, which require a deep grasp of medical knowledge and language. The research objectives include adapting the Qwen-VL 7B model to medical terminology, utilizing its visual understanding for medical imaging analysis, optimizing question-answering systems for medical scenarios, and evaluating the performance of these models. To achieve these goals, we employed methodologies such as dataset construction, model fine-tuning, and user studies. Results showed that the Qwen-VL-Mediacal model achieved a Rouge-1 score of 0.6147, indicating its potential for medical applications. However, challenges remain, such as understanding complex scenes and abstract concepts. Future research will aim to improve the model's adaptability and reasoning capabilities.
+AD  - TCL Corp Res Hong Kong, Hong Kong, Peoples R ChinaAD  - Univ Southern Calif, Los Angeles, CA 90007 USAAD  - Northeastern Univ, Shenyang, Peoples R ChinaAD  - Dalian Univ Foreign Languages, Dalian, Peoples R ChinaC3  - University of Southern CaliforniaC3  - Northeastern University - ChinaC3  - Dalian University of Foreign LanguagesPU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 979-8-3503-8678-3
+SN  - 979-8-3503-8677-6
+J9  - INT C COMPUT ENG APP
+PY  - 2024
+SP  - 526
+EP  - 530
+DO  - 10.1109/ICCEA62105.2024.10603938
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:001291294600102
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  10
+ER  -
+

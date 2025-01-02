@@ -1,0 +1,182 @@
+﻿TY  - JOUR
+AU  - Matsuo, T
+AU  - Iwamitsu, S
+TI  - Sustainable city planning and public administration assisted by green AI: attendant legal challenges under Japanese law
+T2  - TRANSFORMING GOVERNMENT- PEOPLE PROCESS AND POLICY
+LA  - English
+KW  - Law
+KW  - Administrative Law
+KW  - Green AI
+AB  - Purpose The purpose of this paper is to present the legal conditions under which governments may use green artificial intelligence (AI) in city planning. Although Japan was one of the early countries to release its general AI principles, it has been relatively slow in establishing conditions where administrative agencies may use AI. Granted, there have been some recent scholarship that discusses the usage of AI in general under Japanese administrative law, but the use of green AI in city planning under Japanese law has not yet been discussed. Hence, this paper intends to focus on green AI in city planning and discuss the conditions for usage based on different categories of AI. Design/methodology/approach This paper conducts a legal analysis on the utilization of AI for the purpose of sustainable city planning and administration in Japan. The approach of this paper is to summarize the existing scholarship in Japanese administrative law and analyse the new elements in the new field of green AI in city planning. This paper is not a natural science paper. The social science method of jurisprudence is used. This paper cites only public sources, and no informal literature has been referenced. Findings This paper establishes the conditions where Japanese central and local government may use green AI in city planning from a legal viewpoint based on three categories. The categories are green AI usage in city planning concerning things, green AI usage in city planning concerning people and green AI usage in city planning concerning automated decision-making. Research limitations This research is limited to an analysis of Japanese law, which means that issues other than law are not included in this paper. Further, although general legal issues are discussed, this paper is intended to discuss Japanese law issues only, and foreign laws are not discussed. Therefore, this paper mostly cites Japanese language papers published in domestic journals. Practical implications The intended practical implication of this paper is to allow central and local governments to determine - based on the proposed categories - whether green AI can be used for city planning purposes and under which conditions. The authors hope that this will assist the Japanese government in establishing rules on the usage of AI by governmental agencies and allow for the greater actual usage by Japanese central and local governments of green AI in future city planning. Social implications As the theme of this paper deals with governmental use (and the function of a government is to serve society), the social implications at issue can be said to be equivalent to the practical implication. Originality/value There have been articles discussing Japanese administrative law restrictions on AI in general. However, as of now, to the best of the authors' knowledge, there have been no articles published focusing on green AI used for city planning. The authors note that the green AI used for city planning would have different legal implications from AI's usage by the government in general, such as the chatbot used by the agencies or lethal autonomous weapons by the military force. Therefore, this paper is original in focusing on green AI used for city planning.
+AD  - Momo O Matsuo & Namba, Matsuo, Tokyo, JapanAD  - Columbia Univ, Sch Law, New York, NY 10027 USAC3  - Columbia UniversityPU  - EMERALD GROUP PUBLISHING LTD
+PI  - BINGLEY
+PA  - HOWARD HOUSE, WAGON LANE, BINGLEY BD16 1WA, W YORKSHIRE, ENGLAND
+SN  - 1750-6166
+SN  - 1750-6174
+J9  - TRANSFORM GOV-PEOPLE
+JI  - Transform. Gov.-People Process Policy
+DA  - JUL 12
+PY  - 2022
+VL  - 16
+IS  - 3
+SP  - 334
+EP  - 346
+DO  - 10.1108/TG-06-2021-0109
+C6  - JUN 2022
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:000815519700001
+N1  - Times Cited in Web of Science Core Collection:  4
+Total Times Cited:  5
+Cited Reference Count:  44
+ER  -
+
+TY  - JOUR
+AU  - Garvey, JB
+TI  - LET'S GET REAL: WEAK ARTIFICIAL INTELLIGENCE HAS FREE SPEECH RIGHTS
+T2  - FORDHAM LAW REVIEW
+LA  - English
+AB  - The right to free speech is a strongly protected constitutional right under the First Amendment to the U.S. Constitution. In 2010, the U.S. Supreme Court significantly expanded free speech protections for corporations in Citizens United v. FEC. This case prompted the question: could other nonhuman actors also be eligible for free speech protection under the First Amendment? This inquiry is no longer a mere intellectual exercise: sophisticated artificial intelligence (AI) may soon be capable of producing speech. As such, there are novel and complex questions surrounding the application of the First Amendment to AI. Some commentators argue that AI should be granted free speech rights because AI speech may soon be sufficiently comparable to human speech. Others disagree and argue that First Amendment rights should not be extended to AI because there are traits in human speech that AI speech could not replicate. This Note explores the application of First Amendment jurisprudence to AI. Introducing relevant philosophical literature, this Note examines theories of human intelligence and decision-making in order to better understand the process that humans use to produce speech, and whether AI produces speech in a similar manner. In light of the legal and philosophical literature, as well as the Supreme Court's current First Amendment jurisprudence, this Note proposes that some types of AI are eligible for free speech protection under the First Amendment.
+AD  - Fordham Univ, Sch Law, Bronx, NY 10458 USAC3  - Fordham UniversityPU  - FORDHAM UNIV, SCHOOL LAW
+PI  - NEW YORK
+PA  - 140 W 62ND STREET, NEW YORK, NY 10023 USA
+SN  - 0015-704X
+J9  - FORDHAM LAW REV
+JI  - Fordham Law Rev.
+DA  - DEC
+PY  - 2022
+VL  - 91
+IS  - 3
+SP  - 953
+EP  - 991
+WE  - Social Science Citation Index (SSCI)AN  - WOS:000892560400005
+N1  - Times Cited in Web of Science Core Collection:  2
+Total Times Cited:  2
+Cited Reference Count:  92
+ER  -
+
+TY  - CPAPER
+AU  - Kemper, B
+A1  - IEEE Comp Soc
+TI  - AI and Stochastic Terrorism - Should it be done?
+T2  - 2022 IEEE INTERNATIONAL SYMPOSIUM ON SOFTWARE RELIABILITY ENGINEERING WORKSHOPS (ISSREW 2022)
+LA  - English
+CP  - 33rd IEEE International Symposium on Software Reliability Engineering (ISSRE)
+KW  - stochastic terrorism
+KW  - forensic
+KW  - ethics
+KW  - civil rights
+KW  - artificial intelligence
+KW  - machine learning
+KW  - bias
+KW  - trust
+KW  - due process
+KW  - ARTIFICIAL-INTELLIGENCE
+KW  - MEDIA
+KW  - PREJUDICE
+KW  - BIAS
+KW  - LAWS
+KW  - RAP
+AB  - The use of Artificial Intelligence and Machine Learning technology may seem to be the tools needed to combat media-inspired "lone wolf attacks" by implementing the concept of " stochastic terrorism," targeting harmful media influences. Machine Learning is in current use to sort through social media data to assess hate speech. Artificial Intelligence is in current use to interpret the data and trends processed by Machine Learning for tasks such as finding criminal networks. The question becomes "can stochastic terrorism be proven" and "should this be implemented." Labeling someone as a "terrorist," regardless of any modifier for the term, tags the person or group for severe, potentially lethal, response by the government and the community. Criminal accusation cannot ethically be done casually or without sufficient cause. Due to documented problems with bias in all aspects of the issue, using these computational tools to establish legal causation between media statements by pundits, politicians, or others and the violence of "lone wolf" actors would not meet the requirements of US jurisprudence or the ethical principles for Artificial Intelligence of being explainable, transparent, and responsible.
+AD  - Kemper Engn Serv, Baton Rouge, LA 70808 USAPU  - IEEE COMPUTER SOC
+PI  - LOS ALAMITOS
+PA  - 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1264 USA
+SN  - 2375-821X
+SN  - 978-1-6654-7679-9
+J9  - IEEE INT SYMP SOFTW
+PY  - 2022
+SP  - 347
+EP  - 356
+DO  - 10.1109/ISSREW55968.2022.00091
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000909333700062
+N1  - Times Cited in Web of Science Core Collection:  1
+Total Times Cited:  1
+Cited Reference Count:  147
+ER  -
+
+TY  - JOUR
+AU  - Devany, BE
+TI  - Clearview AI's First Amendment: A Dangerous Reality?
+T2  - TEXAS LAW REVIEW
+LA  - English
+KW  - PRIVACY
+AB  - On May 9, 2022, Clearview AI and the ACLU settled a two-year long dispute over the Illinois Biometric Information Privacy Act (BIPA), which prohibits companies like Clearview from scraping mass amounts of data from the internet. The ACLU sued Clearview for collecting billions of our personal- but publicly available-photos, a violation not only of BIPA but also of the user agreements of websites like Facebook, LinkedIn, and Twitter. Clearview uses these photos to create the largest known facial recognition database. Clearview's technology, which it licenses to law enforcement agencies across the country, can identify a face in a matter of seconds. As privacy and technology continue to clash, ACLU v. Clearview, Inc. provided an opportunity to address the underlying constitutional tension between the First Amendment and privacy. But since the suit settled, these questions remain unanswered.Clearview claims it has a First Amendment right to scrape data and sell its facial recognition service. Legal scholars have disposed of this argument as "simplistic, " "at odds with long-established First Amendment doctrine, " "far from convincing, " and even "dangerous. " But whether we like it or not, Clearview's claims might not be so far off from current First Amendment jurisprudence, which has recently taken an aggressive and deregulatory turn. This Note explores current First Amendment jurisprudence and Clearview AI's interpretation of the First Amendment, which might be a reality. This Note also addresses the advantages and risks associated with facial recognition technology (FRT). Finally, this Note proposes a template for legislation that can regulate FRT in a way that is consistent with modern notions of privacy and current First Amendment doctrine.
+AD  - Univ Texas Austin, Sch Law, Austin, TX 78705 USAC3  - University of Texas SystemC3  - University of Texas AustinPU  - TEXAS LAW REVIEW PUBL INC
+PI  - AUSTIN
+PA  - 727 E 26TH ST, AUSTIN, TX 78705 USA
+SN  - 0040-4411
+SN  - 1942-857X
+J9  - TEX LAW REV
+JI  - Tex. Law Rev.
+DA  - DEC
+PY  - 2022
+VL  - 101
+IS  - 2
+SP  - 473
+EP  - 507
+WE  - Social Science Citation Index (SSCI)AN  - WOS:000920401800004
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  118
+ER  -
+
+TY  - JOUR
+AU  - Devany, BE
+TI  - Clearview AI's First Amendment: A Dangerous Reality?
+T2  - TEXAS LAW REVIEW
+LA  - English
+KW  - PRIVACY
+AB  - On May 9, 2022, Clearview AI and the ACLU settled a two-year long dispute over the Illinois Biometric Information Privacy Act (BIPA), which prohibits companies like Clearview from scraping mass amounts of data from the internet. The ACLU sued Clearview for collecting billions of our personal- but publicly available-photos, a violation not only of BIPA but also of the user agreements of websites like Facebook, LinkedIn, and Twitter. Clearview uses these photos to create the largest known facial recognition database. Clearview's technology, which it licenses to law enforcement agencies across the country, can identify a face in a matter of seconds. As privacy and technology continue to clash, ACLU v. Clearview, Inc. provided an opportunity to address the underlying constitutional tension between the First Amendment and privacy. But since the suit settled, these questions remain unanswered.Clearview claims it has a First Amendment right to scrape data and sell its facial recognition service. Legal scholars have disposed of this argument as "simplistic," "at odds with long-established First Amendment doctrine," "far from convincing," and even "dangerous." But whether we like it or not, Clearview's claims might not be so far off from current First Amendment jurisprudence, which has recently taken an aggressive and deregulatory turn. This Note explores current First Amendment jurisprudence and Clearview AI's interpretation of the First Amendment, which might be a reality. This Note also addresses the advantages and risks associated with facial recognition technology (FRT). Finally, this Note proposes a template for legislation that can regulate FRT in a way that is consistent with modern notions of privacy and current First Amendment doctrine.
+AD  - Univ Texas Austin, Sch Law, Austin, TX 78705 USAC3  - University of Texas SystemC3  - University of Texas AustinPU  - TEXAS LAW REVIEW PUBL INC
+PI  - AUSTIN
+PA  - 727 E 26TH ST, AUSTIN, TX 78705 USA
+SN  - 0040-4411
+SN  - 1942-857X
+J9  - TEX LAW REV
+JI  - Tex. Law Rev.
+DA  - DEC
+PY  - 2022
+VL  - 101
+IS  - 2
+SP  - 473
+EP  - 507
+WE  - Social Science Citation Index (SSCI)AN  - WOS:000967921300001
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  114
+ER  -
+
+TY  - CPAPER
+AU  - Moreira, NA
+ED  - Marreiros, G
+ED  - Martins, B
+ED  - Paiva, A
+ED  - Ribeiro, B
+ED  - Sardinha, A
+TI  - The Compatibility of AI in Criminal System with the ECHR and ECtHR Jurisprudence
+T2  - PROGRESS IN ARTIFICIAL INTELLIGENCE, EPIA 2022
+LA  - English
+CP  - 21st EPIA Conference on Artificial Intelligence (EPIA)
+KW  - Artificial intelligence
+KW  - Criminal system
+KW  - European Convention on Human Rights
+AB  - The admissibility of AI systems that focus on determining the measure of punishment must be analyzed in light of ECHR and ECtHR jurisprudence. We cannot live the AI evolution in a passive way and is a matter of time before it is adopted in the criminal justice system. The following paper focuses on the respect for fundamental rights as a filter of such instruments. We highlight the right to a fair trial (article 6), the principle of legality (article 7) and the prohibition of discrimination (article 14). Predictability can justify the adoption of predictive tools, ensuring fairer decision. On the other hand, explainability is an essential requirement that has been developed by explainable artificial intelligence. There are several AI models that must be adopted depending on domain and intended purpose. Only a multidisciplinary approach can ensure the compatibility of such instruments with ECHR. Thus, a confrontation between legal and engineering concepts is essential so that we can design tools that are more efficient, fairer and trustable.
+AD  - Catolica Res Ctr Future Law Porto Portugal, Porto, PortugalFU  - Portuguese Foundation for Science and Technology (FCT) [2021.07986]; BD
+FX  - This research was funded by the Portuguese Foundation for Science and Technology (FCT) through the PhD grant 2021.07986.BD.
+PU  - SPRINGER INTERNATIONAL PUBLISHING AG
+PI  - CHAM
+PA  - GEWERBESTRASSE 11, CHAM, CH-6330, SWITZERLAND
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 978-3-031-16474-3
+SN  - 978-3-031-16473-6
+J9  - LECT NOTES ARTIF INT
+PY  - 2022
+VL  - 13566
+SP  - 108
+EP  - 118
+DO  - 10.1007/978-3-031-16474-3_10
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000869745400010
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  18
+ER  -
+

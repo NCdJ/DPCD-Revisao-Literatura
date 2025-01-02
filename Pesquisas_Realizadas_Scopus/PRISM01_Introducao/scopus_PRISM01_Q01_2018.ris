@@ -1,0 +1,402 @@
+﻿TY  - CONF
+AU  - Wang, G.
+AU  - Zhang, W.
+AU  - Wang, R.
+AU  - Zhou, Y.
+AU  - Chen, X.
+AU  - Zhang, W.
+AU  - Zhu, H.
+AU  - Chen, H.
+TI  - Label-free distant supervision for relation extraction via knowledge graph embedding
+PY  - 2018
+T2  - Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing, EMNLP 2018
+SP  - 2246
+EP  - 2255
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85081738408&partnerID=40&md5=a42733c5b20e34263c5f089f881fbb43
+AD  - College of Computer Science and Technology, Zhejiang University, China
+AD  - Alibaba-Zhejiang University Frontier Technology Research Center, China
+AD  - Alibaba Group, China
+AB  - Distant supervision is an effective method to generate large scale labeled data for relation extraction, which assumes that if a pair of entities appears in some relation of a Knowledge Graph (KG), all sentences containing those entities in a large unlabeled corpus are then labeled with that relation to train a relation classifier. However, when the pair of entities has multiple relationships in the KG, this assumption may produce noisy relation labels. This paper proposes a label-free distant supervision method, which makes no use of the relation labels under this inadequate assumption, but only uses the prior knowledge derived from the KG to supervise the learning of the classifier directly and softly. Specifically, we make use of the type information and the translation law derived from typical KG embedding model to learn embeddings for certain sentence patterns. As the supervision signal is only determined by the two aligned entities, neither hard relation labels nor extra noise-reduction model for the bag of sentences is needed in this way. The experiments show that the approach performs well in current distant supervision dataset. © 2018 Association for Computational Linguistics
+KW  - Embeddings
+KW  - Extraction
+KW  - Knowledge representation
+KW  - Natural language processing systems
+KW  - Knowledge graphs
+KW  - Label free
+KW  - Prior knowledge
+KW  - Relation extraction
+KW  - Type information
+KW  - Data mining
+A2  - Riloff E.
+A2  - Chiang D.
+A2  - Hockenmaier J.
+A2  - Tsujii J.
+PB  - Association for Computational Linguistics
+SN  - 978-194808784-1 (ISBN)
+LA  - English
+J2  - Proc. Conf. Empir. Methods Nat. Lang. Process., EMNLP
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 67; Correspondence Address: H. Chen; College of Computer Science and Technology, Zhejiang University, China; email: 21621253@zju.edu.cn; Conference name: 2018 Conference on Empirical Methods in Natural Language Processing, EMNLP 2018; Conference date: 31 October 2018 through 4 November 2018; Conference code: 158085
+ER  -
+
+TY  - CONF
+AU  - Sun, J.
+AU  - Ma, X.
+AU  - Kazi, M.
+TI  - Comparison of decline curve analysis DCA with recursive neural networks RNN for production forecast of multiple wells
+PY  - 2018
+T2  - SPE Western Regional Meeting Proceedings
+VL  - 2018-April
+DO  - 10.2118/190104-ms
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85050467226&doi=10.2118%2f190104-ms&partnerID=40&md5=f70987b49512790790704756c0831074
+AD  - CSE ICON, United States
+AB  - Production forecast can significantly influence field development planning and economic evaluation. Traditional methods including numerical simulations and decline curve analysis models (DCA) requires extensive domain knowledge or lack of flexibility in modeling complex physics. However, data-driven techniques using recursive neural networks (RNN) have proven very efficient and accurate in time-series forecasting related applications. This study implemented and compared RNN with DCA in production forecast of single and multiple wells. A typical RNN based long short-term memory (LSTM) models were first developed with various input and output sequences. Then, well-known DCA models such as Duong, Stretched Exponential Decline (SEPD), Power Law Exponential Decline (PLE) were implemented as reference solutions. Moreover, data cleaning process involves preparation of history production rates and well constraints for existing wells. For multiple wells, similar input parameters were aggregated together for adjacent wells before declining forecast using the former model. Finally, hold-out training and validation were performed, followed by comparison of model accuracy and efficiency. Various LSTM based sequence-to-sequence models such as one-to-one, many-to-one, and many-to-many were successfully implemented for production forecast. Feature engineering was performed to generate additional features to facilitate training process. It was observed better agreement for the blind-forecasting validation dataset (i.e., last 20% of the given history) between LSTM model prediction and history production than DCA based models. LSTM models captured the overall trend whereas DCA only produced smooth curves. In addition, LSTM based models yielded good matches for all three-phase rates whereas DCA was usually limited to a certain phase. Moreover, for multiple wells, a group of neighboring wells with variable history lengths were used for training the model to forecast the production rates, where the modeling process is similar as character translation in natural language processing. Finally, it was demonstrated that the developed RNN based sequence-to-sequence models will be readily extended to model other time-series related problems such as condition-based maintenance and failure prediction. This study proposed a novel approach to model time-series related problems (e.g., production forecast) using the RNN based sequence-to-sequence models. The developed data-driven approach makes the process of history matching and forecasting efficiency and accurate for assets with or without decent operation history information. In addition, the algorithms and case studies herein were developed with open-source libraries, which could be readily incorporated into either in-house or commercial packages. © 2018, Society of Petroleum Engineers.
+PB  - Society of Petroleum Engineers (SPE)
+SN  - 978-151086242-5 (ISBN)
+LA  - English
+J2  - SPE West. Reg. Meet. Proc.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 84; Conference name: SPE Western Regional Meeting 2018; Conference date: 22 April 2018 through 26 April 2018; Conference code: 137492
+ER  -
+
+TY  - CONF
+AU  - Hashemi, M.
+AU  - Swersky, K.
+AU  - Smith, J.A.
+AU  - Ayers, G.
+AU  - Litz, H.
+AU  - Chang, J.
+AU  - Kozyrakis, C.
+AU  - Ranganathan, P.
+TI  - Learning memory access patterns
+PY  - 2018
+T2  - 35th International Conference on Machine Learning, ICML 2018
+VL  - 5
+SP  - 3062
+EP  - 3076
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85057262514&partnerID=40&md5=e479f64041e76ecf76ecc0a9187ce3de
+AD  - Google, United States
+AD  - Stanford University, United States
+AD  - University of California, Santa Cruz, United States
+AB  - The explosion in workload complexity and the recent slow-down in Moore's law scaling call for new approaches towards efficient computing. Researchers are now beginning to use recent advances in machine learning in software optimizations, augmenting or replacing traditional heuristics and data structures. However, the space of machine learning for computer hardware architecture is only lightly explored. In this paper, we demonstrate the potential of deep learning to address the von Neumann bottleneck of memory performance. We focus on the critical problem of learning memory access patterns, with the goal of constructing accurate and efficient memory prefetchers. We relate contemporary prefetching strategies to n-gram models in natural language processing, and show how recurrent neural networks can serve as a drop-in replacement. On a suite of challenging benchmark datasets, we find that neural networks consistently demonstrate superior performance in terms of precision and recall. This work represents the first step towards practical neural-network based prefetching, and opens a wide range of exciting directions for machine learning in computer architecture research. © 2018 by authors.All right reserved.
+KW  - Benchmarking
+KW  - Computer hardware
+KW  - Learning algorithms
+KW  - Memory architecture
+KW  - Natural language processing systems
+KW  - Network architecture
+KW  - Recurrent neural networks
+KW  - Benchmark datasets
+KW  - Critical problems
+KW  - Hardware architecture
+KW  - Learning memory
+KW  - Memory performance
+KW  - Practical neural networks
+KW  - Precision and recall
+KW  - Software optimization
+KW  - Deep learning
+A2  - Dy J.
+A2  - Krause A.
+PB  - International Machine Learning Society (IMLS)
+SN  - 978-151086796-3 (ISBN)
+LA  - English
+J2  - Int. Conf. Mach. Learn., ICML
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 45; Correspondence Address: M. Hashemi; Google, United States; email: miladh@google.com; Conference name: 35th International Conference on Machine Learning, ICML 2018; Conference date: 10 July 2018 through 15 July 2018; Conference code: 141700
+ER  -
+
+TY  - CONF
+AU  - Luz de Araujo, P.H.
+AU  - de Campos, T.E.
+AU  - de Oliveira, R.R.R.
+AU  - Stauffer, M.
+AU  - Couto, S.
+AU  - Bermejo, P.
+TI  - LeNER-Br: A Dataset for Named Entity Recognition in Brazilian Legal Text
+PY  - 2018
+T2  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 11122 LNAI
+SP  - 313
+EP  - 323
+DO  - 10.1007/978-3-319-99722-3_32
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85053877719&doi=10.1007%2f978-3-319-99722-3_32&partnerID=40&md5=3deba0fbfa79b335d0f7f3b9c106c13b
+AD  - R&D Center for Excellence and Public Sector Transformation - NEXT, Universidade de Brasília - UnB, Brasília, Brazil
+AD  - Department of Computer Science, University of Brasília, Brasília, DF, Brazil
+AB  - Named entity recognition systems have the untapped potential to extract information from legal documents, which can improve information retrieval and decision-making processes. In this paper, a dataset for named entity recognition in Brazilian legal documents is presented. Unlike other Portuguese language datasets, this dataset is composed entirely of legal documents. In addition to tags for persons, locations, time entities and organizations, the dataset contains specific tags for law and legal cases entities. To establish a set of baseline results, we first performed experiments on another Portuguese dataset: Paramopama. This evaluation demonstrate that LSTM-CRF gives results that are significantly better than those previously reported. We then retrained LSTM-CRF, on our dataset and obtained F 1 scores of 97.04% and 88.82% for Legislation and Legal case entities, respectively. These results show the viability of the proposed dataset for legal applications. © 2018, Springer Nature Switzerland AG.
+KW  - Named entity recognition
+KW  - Natural language processing
+KW  - Portuguese processing
+KW  - Authentication
+KW  - Character recognition
+KW  - Decision making
+KW  - Information retrieval
+KW  - Long short-term memory
+KW  - Search engines
+KW  - Baseline results
+KW  - Decision making process
+KW  - Extract informations
+KW  - Legal documents
+KW  - Legal texts
+KW  - Named entity recognition
+KW  - Portuguese languages
+KW  - Specific tags
+KW  - Natural language processing systems
+A2  - Gamallo P.
+A2  - Paetzold G.H.
+A2  - Abad A.
+A2  - Villavicencio A.
+A2  - Moreira V.
+A2  - Gonçalo Oliveira H.
+A2  - Villavicencio A.
+A2  - Ramisch C.
+A2  - Caseli H.
+PB  - Springer Verlag
+SN  - 03029743 (ISSN); 978-331999721-6 (ISBN)
+LA  - English
+J2  - Lect. Notes Comput. Sci.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 56; Correspondence Address: P.H. Luz de Araujo; R&D Center for Excellence and Public Sector Transformation - NEXT, Universidade de Brasília - UnB, Brasília, Brazil; email: pedrohluzaraujo@gmail.com; Conference name: 13th International Conference on Computational Processing of the Portuguese Language, PROPOR 2018; Conference date: 24 September 2018 through 26 September 2018; Conference code: 218479
+ER  -
+
+TY  - CONF
+AU  - Undavia, S.
+AU  - Meyers, A.
+AU  - Ortega, J.E.
+TI  - A comparative study of classifying legal documents with neural networks
+PY  - 2018
+T2  - Proceedings of the 2018 Federated Conference on Computer Science and Information Systems, FedCSIS 2018
+C7  - 8511194
+SP  - 515
+EP  - 522
+DO  - 10.15439/2018F227
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85057264084&doi=10.15439%2f2018F227&partnerID=40&md5=576f15545fefa1d04cadee6e9b5c0f44
+AD  - New York University, 60 5th Avenue, New York, 10011, NY, United States
+AB  - In recent years, deep learning has shown promising results when used in the field of natural language processing (NLP). Neural networks (NNs) such as convolutional neural networks (CNNs) and recurrent neural networks (RNNs) have been used for various NLP tasks including sentiment analysis, information retrieval, and document classification. In this paper, we the present the Supreme Court Classifier (SCC), a system that applies these methods to the problem of document classification of legal court opinions. We compare methods using traditional machine learning with recent NN-based methods. We also present a CNN used with pre-trained word vectors which shows improvements over the state-of-the-art applied to our dataset. We train and evaluate our system using the Washington University School of Law Supreme Court Database (SCDB). Our best system (word2vec + CNN) achieves 72.4% accuracy when classifying the court decisions into 15 broad SCDB categories and 31.9% accuracy when classifying among 279 finer-grained SCDB categories. © 2018 Polish Information Processing Society.
+KW  - Classification (of information)
+KW  - Deep learning
+KW  - Information retrieval systems
+KW  - Information systems
+KW  - Information use
+KW  - Law enforcement
+KW  - Learning algorithms
+KW  - Natural language processing systems
+KW  - Sentiment analysis
+KW  - Comparative studies
+KW  - Convolutional neural network
+KW  - Court decisions
+KW  - Document Classification
+KW  - Neural networks (NNS)
+KW  - Recurrent neural network (RNNs)
+KW  - State of the art
+KW  - Washington University
+KW  - Recurrent neural networks
+A2  - Ganzha M.
+A2  - Maciaszek L.
+A2  - Maciaszek L.
+A2  - Paprzycki M.
+PB  - Institute of Electrical and Electronics Engineers Inc.
+SN  - 978-839494197-0 (ISBN)
+LA  - English
+J2  - Proc. Fed. Conf. Comput. Sci. Inf. Syst., FedCSIS
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 46; Conference name: 2018 Federated Conference on Computer Science and Information Systems, FedCSIS 2018; Conference date: 9 September 2018 through 12 September 2018; Conference code: 141666
+ER  -
+
+TY  - BOOK
+AU  - Dinov, I.D.
+TI  - Data science and predictive analytics: Biomedical and health applications using R
+PY  - 2018
+T2  - Data Science and Predictive Analytics: Biomedical and Health Applications using R
+SP  - 1
+EP  - 832
+DO  - 10.1007/978-3-319-72347-1
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046857731&doi=10.1007%2f978-3-319-72347-1&partnerID=40&md5=f3cf491f61710c341dcbe2a1a027ec78
+AD  - University of Michigan–Ann Arbor, Ann Arbor, MI, United States
+AB  - Over the past decade, Big Data have become ubiquitous in all economic sectors, scientific disciplines, and human activities. They have led to striking technological advances, affecting all human experiences. Our ability to manage, understand, interrogate, and interpret such extremely large, multisource, heterogeneous, incomplete, multiscale, and incongruent data has not kept pace with the rapid increase of the volume, complexity and proliferation of the deluge of digital information. There are three reasons for this shortfall. First, the volume of data is increasing much faster than the corresponding rise of our computational processing power (Kryder’s law > Moore’s law). Second, traditional discipline-bounds inhibit expeditious progress. Third, our education and training activities have fallen behind the accelerated trend of scientific, information, and communication advances. There are very few rigorous instructional resources, interactive learning materials, and dynamic training environments that support active data science learning. The textbook balances the mathematical foundations with dexterous demonstrations and examples of data, tools, modules and workflows that serve as pillars for the urgently needed bridge to close that supply and demand predictive analytic skills gap. Exposing the enormous opportunities presented by the tsunami of Big data, this textbook aims to identify specific knowledge gaps, educational barriers, and workforce readiness deficiencies. Specifically, it focuses on the development of a transdisciplinary curriculum integrating modern computational methods, advanced data science techniques, innovative biomedical applications, and impactful health analytics. The content of this graduate-level textbook fills a substantial gap in integrating modern engineering concepts, computational algorithms, mathematical optimization, statistical computing and biomedical inference. Big data analytic techniques and predictive scientific methods demand broad transdisciplinary knowledge, appeal to an extremely wide spectrum of readers/learners, and provide incredible opportunities for engagement throughout the academy, industry, regulatory and funding agencies. © Ivo D. Dinov 2018.
+KW  - Big data
+KW  - Big Data methods
+KW  - Controlled variable selection
+KW  - Cross-validation
+KW  - Data management
+KW  - Data science
+KW  - Deep learning
+KW  - Hands-on machine learning
+KW  - Health analytics
+KW  - Machine learning
+KW  - Natural language processing
+KW  - Neural networks
+KW  - Predictive analytics
+KW  - Rstatistical computing
+KW  - Statistical learning in R
+KW  - Streaming
+KW  - Text mining
+KW  - Visualization
+PB  - Springer International Publishing
+SN  - 978-331972347-1 (ISBN); 978-331972346-4 (ISBN)
+LA  - English
+J2  - Data Science and Predictive Analytics: Biomedical and Health Applications using R
+M3  - Book
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 81
+ER  -
+
+TY  - CONF
+AU  - Zhong, H.
+AU  - Guo, Z.
+AU  - Tu, C.
+AU  - Xiao, C.
+AU  - Liu, Z.
+AU  - Sun, M.
+TI  - Legal judgment prediction via topological learning
+PY  - 2018
+T2  - Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing, EMNLP 2018
+SP  - 3540
+EP  - 3549
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85081714028&partnerID=40&md5=6ae668bc0a89b9b75435136547f70e2d
+AD  - Department of Computer Science and Technology, State Key Lab on Intelligent Technology and Systems Institute for Artificial Intelligence, Tsinghua University, Beijing, China
+AB  - Legal Judgment Prediction (LJP) aims to predict the judgment result based on the facts of a case and becomes a promising application of artificial intelligence techniques in the legal field. In real-world scenarios, legal judgment usually consists of multiple subtasks, such as the decisions of applicable law articles, charges, fines, and the term of penalty. Moreover, there exist topological dependencies among these subtasks. While most existing works only focus on a specific subtask of judgment prediction and ignore the dependencies among subtasks, we formalize the dependencies among subtasks as a Directed Acyclic Graph (DAG) and propose a topological multi-task learning framework, TOPJUDGE, which incorporates multiple subtasks and DAG dependencies into judgment prediction. We conduct experiments on several real-world large-scale datasets of criminal cases in the civil law system. Experimental results show that our model achieves consistent and significant improvements over baselines on all judgment prediction tasks. The source code can be obtained from https://github.com/thunlp/TopJudge. © 2018 Association for Computational Linguistics
+KW  - Directed graphs
+KW  - Forecasting
+KW  - Large dataset
+KW  - Multi-task learning
+KW  - Natural language processing systems
+KW  - Artificial intelligence techniques
+KW  - Criminal case
+KW  - Directed acyclic graph (DAG)
+KW  - Large-scale datasets
+KW  - Prediction tasks
+KW  - Real-world
+KW  - Real-world scenario
+KW  - Source codes
+KW  - Topology
+A2  - Riloff E.
+A2  - Chiang D.
+A2  - Hockenmaier J.
+A2  - Tsujii J.
+PB  - Association for Computational Linguistics
+SN  - 978-194808784-1 (ISBN)
+LA  - English
+J2  - Proc. Conf. Empir. Methods Nat. Lang. Process., EMNLP
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 278; Correspondence Address: Z. Liu; Department of Computer Science and Technology, State Key Lab on Intelligent Technology and Systems Institute for Artificial Intelligence, Tsinghua University, Beijing, China; email: lzy@tsinghua.edu.cn; Conference name: 2018 Conference on Empirical Methods in Natural Language Processing, EMNLP 2018; Conference date: 31 October 2018 through 4 November 2018; Conference code: 158085
+ER  -
+
+TY  - JOUR
+AU  - Levendowski, A.
+TI  - How copyright law can fix artificial intelligence’s implicit bias problem
+PY  - 2018
+T2  - Washington Law Review
+VL  - 93
+IS  - 2
+SP  - 579
+EP  - 630
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85049375044&partnerID=40&md5=1ff666b712e450376746f6f4bc24597f
+AD  - Technology Law and Policy Clinical Teaching Fellow, New York University School of Law and Research Fellow, NYU Information Law Institute, United States
+AB  - As the use of artificial intelligence (AI) continues to spread, we have seen an increase in examples of AI systems reflecting or exacerbating societal bias, from racist facial recognition to sexist natural language processing. These biases threaten to overshadow AI’s technological gains and potential benefits. While legal and computer science scholars have analyzed many sources of bias, including the unexamined assumptions of its oftenhomogenous creators, flawed algorithms, and incomplete datasets, the role of the law itself has been largely ignored. Yet just as code and culture play significant roles in how AI agents learn about and act in the world, so too do the laws that govern them. This Article is the first to examine perhaps the most powerful law impacting AI bias: copyright. Artificial intelligence often learns to "think" by reading, viewing, and listening to copies of human works. This Article first explores the problem of bias through the lens of copyright doctrine, looking at how the law's exclusion of access to certain copyrighted source materials may create or promote biased AI systems. Copyright law limits bias mitigation techniques, such as testing AI through reverse engineering, algorithmic accountability processes, and competing to convert customers. The rules of copyright law also privilege access to certain works over others, encouraging AI creators to use easily available, legally low-risk sources of data for teaching AI, even when those data are demonstrably biased. Second, it examines how a different part of copyright law-the fair use doctrine-has traditionally been used to address similar concerns in other technological fields, and asks whether it is equally capable of addressing them in the field of AI bias. The Article ultimately concludes that it is, in large part because the normative values embedded within traditional fair use ultimately align with the goals of mitigating AI bias and, quite literally, creating fairer AI systems. © 2018, University of Washington School of Law. All Rights Reserved.
+KW  - Algorithms
+KW  - Artificial intelligence
+KW  - Bias
+KW  - Competition
+KW  - Copyright
+KW  - Fair use
+KW  - Machine learning
+PB  - University of Washington School of Law
+SN  - 00430617 (ISSN)
+LA  - English
+J2  - Wash. Law Rev.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 54
+ER  -
+
+TY  - CONF
+AU  - Merchant, K.
+AU  - Pande, Y.
+TI  - NLP Based Latent Semantic Analysis for Legal Text Summarization
+PY  - 2018
+T2  - 2018 International Conference on Advances in Computing, Communications and Informatics, ICACCI 2018
+C7  - 8554831
+SP  - 1803
+EP  - 1807
+DO  - 10.1109/ICACCI.2018.8554831
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85060043834&doi=10.1109%2fICACCI.2018.8554831&partnerID=40&md5=fa56e4af21b926daa4d0451227071874
+AD  - Dwarkadas J. Sanghvi College of Engineering, Mumbai, India
+AB  - It is very essential for lawyers and ordinary citizens to do an exhaustive research related to their case before they answer questions in court. For quite some time they have had to read extremely long judgements and try to pick out the useful information from them or hire legal editors to create summaries. We propose an automated text summarization system that generates short and useful summaries from lengthy judgements. We make use of a natural language processing technique called latent semantic analysis (LSA) to capture concepts within a single document. We use two approaches-a single document untrained approach and a multi-document trained approach depending on the type of input case (criminal or civil). Our data was collected from official government sites that included Supreme Court, high court and district court cases and our model achieved an average ROGUE-1 score of 0.58. Finally, our system was approved by professional lawyers. In the future we aim to provide better continuity within our generated summaries and evaluate our system more accurately. © 2018 IEEE.
+KW  - Latent semantic analysis
+KW  - Legal
+KW  - Natural language processing
+KW  - Text summarization
+KW  - Laws and legislation
+KW  - Semantics
+KW  - Text processing
+KW  - District court
+KW  - Latent Semantic Analysis
+KW  - Legal
+KW  - Legal editors
+KW  - Multi-document
+KW  - Natural languages
+KW  - Supreme Court
+KW  - Text summarization
+KW  - Natural language processing systems
+PB  - Institute of Electrical and Electronics Engineers Inc.
+SN  - 978-153865314-2 (ISBN)
+LA  - English
+J2  - Int. Conf. Adv. Comput., Commun. Inf., ICACCI
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 70; Conference name: 7th International Conference on Advances in Computing, Communications and Informatics, ICACCI 2018; Conference date: 19 September 2018 through 22 September 2018; Conference code: 143262
+ER  -
+
+TY  - JOUR
+AU  - Valdés, A.
+AU  - Beltrán, A.
+AU  - Mellinas, C.
+AU  - Jiménez, A.
+AU  - Garrigós, M.C.
+TI  - Analytical methods combined with multivariate analysis for authentication of animal and vegetable food products with high fat content
+PY  - 2018
+T2  - Trends in Food Science and Technology
+VL  - 77
+SP  - 120
+EP  - 130
+DO  - 10.1016/j.tifs.2018.05.014
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85047161862&doi=10.1016%2fj.tifs.2018.05.014&partnerID=40&md5=c42572d317801d6e8e34396de5423ff8
+AD  - Analytical Chemistry, Nutrition & Food Sciences Department, University of Alicante, P.O. Box 99, Alicante, 03080, Spain
+AB  - Background: Food fraud is described as a violation of food law, which is intentionally committed to get an economic or financial gain through the consumer's swindle resulting in multi-million business and posing a public health threat. The main fraudulent practices are mislabelling of composition, certificates of origin, health claims, and artificial increases in weight or volume caused by replacement, dilution, addition or removal of some ingredients. Hardly 68% of the food fraud violations are produced in animal and vegetable products with high fat content (27% meat, 13% fish, 11% oils, 10% dairy products, 4% nuts and seeds and 3% animal by-products) becoming a crucial issue for food processing industries. Scope and approach: The present review focuses on the main authentication techniques and methods employed to clarify the authenticity of both animal and vegetable fat food products emphasizing the importance of the use of robust and reliable analytical techniques combined with multivariate analyses. Key findings and conclusions: Targeted approaches, such as chromatography and DNA-based methods, combined with multivariate analysis have shown high accuracy, sensitivity and selectivity, allowing the simultaneous evaluation of multiple analytes. In addition, non-target methods, such as those based on spectroscopic techniques, have been used to establish the geographic origin of food products with quick response, low cost, non-destructive character and also offering the possibility to be miniaturized. © 2018 Elsevier Ltd
+KW  - Analytical techniques
+KW  - Animal products
+KW  - Food authentication
+KW  - Geographical origin
+KW  - Multivariate analysis
+KW  - Vegetable oils and nuts
+KW  - Animals
+KW  - Authentication
+KW  - Byproducts
+KW  - Crime
+KW  - Fault tolerant computer systems
+KW  - Food processing
+KW  - Food products
+KW  - Health risks
+KW  - Natural language processing systems
+KW  - Oils and fats
+KW  - Analytical techniques
+KW  - Animal products
+KW  - Food authentications
+KW  - Geographical origins
+KW  - Multi variate analysis
+KW  - Multivariant analysis
+PB  - Elsevier Ltd
+SN  - 09242244 (ISSN)
+LA  - English
+J2  - Trends Food Sci. Technol.
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 52; Correspondence Address: A. Valdés; Analytical Chemistry, Nutrition & Food Sciences Department, University of Alicante, Alicante, P.O. Box 99, 03080, Spain; email: arancha.valdes@ua.es; CODEN: TFTEE
+ER  -
+

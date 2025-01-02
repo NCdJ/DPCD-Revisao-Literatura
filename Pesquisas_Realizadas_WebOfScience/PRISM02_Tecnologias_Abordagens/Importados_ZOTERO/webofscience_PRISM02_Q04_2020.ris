@@ -1,0 +1,77 @@
+﻿TY  - CPAPER
+AU  - Chalkidis, I
+AU  - Fergadiotis, M
+AU  - Malakasiotis, P
+AU  - Aletras, N
+AU  - Androutsopoulos, I
+ED  - Cohn, T
+ED  - He, Y
+ED  - Liu, Y
+TI  - LEGAL-BERT: The Muppets straight out of Law School
+T2  - FINDINGS OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS, EMNLP 2020
+LA  - English
+CP  - Meeting of the Association-for-Computational-Linguistics (ACL-EMNLP)
+AB  - BERT has achieved impressive performance in several NLP tasks. However, there has been limited investigation on its adaptation guidelines in specialised domains. Here we focus on the legal domain, where we explore several approaches for applying BERT models to downstream legal tasks, evaluating on multiple datasets. Our findings indicate that the previous guidelines for pre-training and fine-tuning, often blindly followed, do not always generalize well in the legal domain. Thus we propose a systematic investigation of the available strategies when applying BERT in specialised domains. These are: (a) use the original BERT out of the box, (b) adapt BERT by additional pre-training on domain-specific corpora, and (c) pre-train BERT from scratch on domain-specific corpora. We also propose a broader hyper-parameter search space when fine-tuning for downstream tasks and we release LEGAL- BERT, a family of BERT models intended to assist legal NLP research, computational law, and legal technology applications.
+AD  - Athens Univ Econ & Business, Dept Informat, Athens, GreeceAD  - NCSR Demokritos, Inst Informat & Telecommun, Athens, GreeceAD  - Univ Sheffield, Dept Comp Sci, Sheffield, S Yorkshire, EnglandC3  - Athens University of Economics & BusinessC3  - National Centre of Scientific Research "Demokritos"C3  - University of SheffieldFU  - Google Cloud Compute (GCP) research program
+FX  - This project was supported by the Google Cloud Compute (GCP) research program, while we also used a Google Cloud TPU v3-8 for free provided by the TensorFlow Research Cloud (TFRC) program7. We are grateful to both Google programs.
+PU  - ASSOC COMPUTATIONAL LINGUISTICS-ACL
+PI  - STROUDSBURG
+PA  - 209 N EIGHTH STREET, STROUDSBURG, PA 18360 USA
+SN  - 978-1-952148-90-3
+PY  - 2020
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:001181866502003
+N1  - Times Cited in Web of Science Core Collection:  41
+Total Times Cited:  41
+Cited Reference Count:  26
+ER  -
+
+TY  - CPAPER
+AU  - Moreno-Schneider, J
+AU  - Rehm, G
+AU  - Montiel-Ponsoda, E
+AU  - Rodriguez-Doncel, Ví
+AU  - Revenko, A
+AU  - Karampatakis, S
+AU  - Khvalchik, M
+AU  - Sageder, C
+AU  - Gracia, J
+AU  - Maganza, F
+ED  - Calzolari, N
+ED  - Bechet, F
+ED  - Blache, P
+ED  - Choukri, K
+ED  - Cieri, C
+ED  - Declerck, T
+ED  - Goggi, S
+ED  - Isahara, H
+ED  - Maegaard, B
+ED  - Mariani, J
+ED  - Mazo, H
+ED  - Moreno, A
+ED  - Odijk, J
+ED  - Piperidis, S
+TI  - Orchestrating NLP Services for the Legal Domain
+T2  - PROCEEDINGS OF THE 12TH INTERNATIONAL CONFERENCE ON LANGUAGE RESOURCES AND EVALUATION (LREC 2020)
+LA  - English
+CP  - 12th International Conference on Language Resources and Evaluation (LREC)
+KW  - Text Analytics
+KW  - Tools
+KW  - Systems
+KW  - Applications
+KW  - Knowledge Discovery/Representation
+AB  - Legal technology is currently receiving a lot of attention from various angles. In this contribution we describe the main technical components of a system that is currently under development in the European innovation project Lynx, which includes partners from industry and research. The key contribution of this paper is a workflow manager that enables the flexible orchestration of workflows based on a portfolio of Natural Language Processing and Content Curation services as well as a Multilingual Legal Knowledge Graph that contains semantic information and meaningful references to legal documents. We also describe different use cases with which we experiment and develop prototypical solutions.
+AD  - DFKI GmbH, Lubeck, GermanyAD  - Univ Politecn Madrid, Madrid, SpainAD  - Semant Web Co GmbH, Vienna, AustriaAD  - Openlaws GmbH, Salzburg, AustriaAD  - Univ Zaragoza, Zaragoza, SpainAD  - Alpenite, Venice, ItalyC3  - German Research Center for Artificial Intelligence (DFKI)C3  - Universidad Politecnica de MadridC3  - University of ZaragozaFU  - project LYNX from the EU's Horizon 2020 research and innovation programme [780602]; H2020 - Industrial Leadership [780602] Funding Source: H2020 - Industrial Leadership
+FX  - This work has been partially funded by the project LYNX, which has received funding from the EU's Horizon 2020 research and innovation programme under grant agreement no. 780602, see http://www.lynx-project.eu.
+PU  - EUROPEAN LANGUAGE RESOURCES ASSOC-ELRA
+PI  - PARIS
+PA  - 55-57, RUE BRILLAT-SAVARIN, PARIS, 75013, FRANCE
+SN  - 979-10-95546-34-4
+PY  - 2020
+SP  - 2332
+EP  - 2340
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)WE  - Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)AN  - WOS:000724697203037
+N1  - Times Cited in Web of Science Core Collection:  7
+Total Times Cited:  7
+Cited Reference Count:  31
+ER  -
+

@@ -1,0 +1,394 @@
+﻿TY  - JOUR
+AU  - Oniani, D.
+AU  - Hilsman, J.
+AU  - Peng, Y.
+AU  - Poropatich, R.K.
+AU  - Pamplin, J.C.
+AU  - Legault, G.L.
+AU  - Wang, Y.
+TI  - Adopting and expanding ethical principles for generative artificial intelligence from military to healthcare
+PY  - 2023
+T2  - npj Digital Medicine
+VL  - 6
+IS  - 1
+C7  - 225
+DO  - 10.1038/s41746-023-00965-x
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85178494468&doi=10.1038%2fs41746-023-00965-x&partnerID=40&md5=2c2bacb7405933894f1018b25d4a7854
+AD  - Department of Health Information Management, University of Pittsburgh, Pittsburgh, PA, United States
+AD  - Department of Population Health Sciences, Weill Cornell Medicine, New York, NY, United States
+AD  - Division of Pulmonary, Allergy, Critical Care & Sleep Medicine, University of Pittsburgh, Pittsburgh, PA, United States
+AD  - Center for Military Medicine Research, University of Pittsburgh, Pittsburgh, PA, United States
+AD  - Telemedicine & Advanced Technology Research Center, US Army, Fort Detrick, Frederick, MD, United States
+AD  - Department of Surgery, Uniformed Services University, Bethesda, MD, United States
+AD  - Virtual Medical Center, Brooke Army Medical Center, San Antonio, TX, United States
+AD  - Intelligent Systems Program, University of Pittsburgh, Pittsburgh, PA, United States
+AD  - Department of Biomedical Informatics, University of Pittsburgh, Pittsburgh, PA, United States
+AD  - Clinical and Translational Science Institute, University of Pittsburgh, Pittsburgh, PA, United States
+AD  - University of Pittsburgh Medical Center, Pittsburgh, PA, United States
+AB  - In 2020, the U.S. Department of Defense officially disclosed a set of ethical principles to guide the use of Artificial Intelligence (AI) technologies on future battlefields. Despite stark differences, there are core similarities between the military and medical service. Warriors on battlefields often face life-altering circumstances that require quick decision-making. Medical providers experience similar challenges in a rapidly changing healthcare environment, such as in the emergency department or during surgery treating a life-threatening condition. Generative AI, an emerging technology designed to efficiently generate valuable information, holds great promise. As computing power becomes more accessible and the abundance of health data, such as electronic health records, electrocardiograms, and medical images, increases, it is inevitable that healthcare will be revolutionized by this technology. Recently, generative AI has garnered a lot of attention in the medical research community, leading to debates about its application in the healthcare sector, mainly due to concerns about transparency and related issues. Meanwhile, questions around the potential exacerbation of health disparities due to modeling biases have raised notable ethical concerns regarding the use of this technology in healthcare. However, the ethical principles for generative AI in healthcare have been understudied. As a result, there are no clear solutions to address ethical concerns, and decision-makers often neglect to consider the significance of ethical principles before implementing generative AI in clinical practice. In an attempt to address these issues, we explore ethical principles from the military perspective and propose the “GREAT PLEA” ethical principles, namely Governability, Reliability, Equity, Accountability, Traceability, Privacy, Lawfulness, Empathy, and Eutonomy, for generative AI in healthcare. Furthermore, we introduce a framework for adopting and expanding these ethical principles in a practical way that has been useful in the military and can be applied to healthcare for generative AI, based on contrasting their ethical concerns and risks. Ultimately, we aim to proactively address the ethical dilemmas and challenges posed by the integration of generative AI into healthcare practice. © 2023, The Author(s).
+KW  - Computing power
+KW  - Decision making
+KW  - Ethical technology
+KW  - Health care
+KW  - Medical imaging
+KW  - Artificial intelligence technologies
+KW  - Decisions makings
+KW  - Emergency departments
+KW  - Ethical concerns
+KW  - Ethical principles
+KW  - Healthcare environments
+KW  - Medical providers
+KW  - Medical services
+KW  - Military services
+KW  - US Department of Defence
+KW  - army
+KW  - Article
+KW  - artificial intelligence
+KW  - conceptual framework
+KW  - data privacy
+KW  - electrocardiography
+KW  - electronic health record
+KW  - emergency ward
+KW  - empathy
+KW  - ethical dilemma
+KW  - generative artificial intelligence
+KW  - government
+KW  - health care
+KW  - health care practice
+KW  - health care system
+KW  - health data
+KW  - health equity
+KW  - human
+KW  - international law
+KW  - law
+KW  - life threat
+KW  - machine learning
+KW  - medical ethics
+KW  - medical service
+KW  - reliability
+KW  - responsibility
+KW  - risk factor
+KW  - social responsibility
+KW  - traceability
+KW  - Artificial intelligence
+PB  - Nature Research
+SN  - 23986352 (ISSN)
+LA  - English
+J2  - npj Digit. Med.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 32; Correspondence Address: Y. Wang; Department of Health Information Management, University of Pittsburgh, Pittsburgh, United States; email: yanshan.wang@pitt.edu
+ER  -
+
+TY  - JOUR
+AU  - Samuelson, P.
+TI  - Generative AI meets copyright: Ongoing lawsuits could affect everyone who uses generative AI
+PY  - 2023
+T2  - Science
+VL  - 381
+IS  - 6654
+SP  - 158
+EP  - 161
+DO  - 10.1126/science.adi0656
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85164843653&doi=10.1126%2fscience.adi0656&partnerID=40&md5=bb4b9e18faef35e0326defeaf9a7fe09
+AD  - Berkeley Law School, University of California Berkeley, Berkeley, CA, United States
+AB  - Generative artificial intelligence (AI) is a disruptive technology that is widely adopted by members of the general public as well as scientists and technologists who are enthusiastic about the potential to accelerate research in a wide variety of fields. But some professional artists, writers, and programmers fiercely object to the use of their creations as training data for generative AI systems and to outputs that may compete with or displace their works (1, 2). Lack of attribution and compensation for use of their original creations are other sources of aggravation to critics of generative AI.  Copyright lawsuits that are now underway in the United States have substantial implications for the future of generative AI systems. If the plaintiffs prevail, the only generative AI systems that may be lawful in the United States would be those trained on public domain works or under licenses, which will affect everyone who deploys generative AI, integrates it into their products, and uses it for scientific research.
+KW  - Copyright
+KW  - artificial intelligence
+KW  - research work
+KW  - technology adoption
+KW  - article
+KW  - artificial intelligence
+KW  - compensation
+KW  - disruptive technology
+KW  - human
+KW  - law suit
+KW  - publishing
+PB  - American Association for the Advancement of Science
+SN  - 00368075 (ISSN)
+C2  - 37440639
+LA  - English
+J2  - Sci.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 62; Correspondence Address: P. Samuelson; Berkeley Law School, University of California Berkeley, Berkeley, United States; email: psamuelson@berkeley.edu; CODEN: SCIEA
+ER  -
+
+TY  - JOUR
+AU  - Oermann, E.K.
+AU  - Kondziolka, D.
+TI  - On Chatbots and Generative Artificial Intelligence
+PY  - 2023
+T2  - Neurosurgery
+VL  - 92
+IS  - 4
+SP  - 665
+EP  - 666
+DO  - 10.1227/neu.0000000000002415
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85150396734&doi=10.1227%2fneu.0000000000002415&partnerID=40&md5=86ae0fa6e61cdca5573b14ef360a3ae7
+AD  - Department of Neurosurgery, NYU Grossman School of Medicine, New York University, New York, NY, United States
+KW  - Artificial Intelligence
+KW  - Communication
+KW  - Humans
+KW  - Telemedicine
+KW  - artificial intelligence
+KW  - ChatGPT
+KW  - clinical effectiveness
+KW  - clinical practice
+KW  - clinical research
+KW  - conversation
+KW  - Editorial
+KW  - feedback system
+KW  - household
+KW  - human
+KW  - image analysis
+KW  - imagination
+KW  - Internet
+KW  - language
+KW  - laundry
+KW  - law
+KW  - legal liability
+KW  - medical ethics
+KW  - medical technology
+KW  - morality
+KW  - neurosurgeon
+KW  - neurosurgery
+KW  - peer review
+KW  - physician
+KW  - privacy
+KW  - racism
+KW  - software
+KW  - stochastic model
+KW  - interpersonal communication
+KW  - telemedicine
+PB  - Wolters Kluwer Medknow Publications
+SN  - 0148396X (ISSN)
+C2  - 36779766
+LA  - English
+J2  - Neurosurgery
+M3  - Editorial
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 10; Correspondence Address: D. Kondziolka; NYU Langone Medical Center, Skirball Institute, New York, Suite 8R 530 First Ave, 10016, United States; email: douglas.kondziolka@nyulangone.org; CODEN: NRSRD
+ER  -
+
+TY  - JOUR
+AU  - Yu, H.
+AU  - Guo, Y.
+TI  - Generative artificial intelligence empowers educational reform: current status, issues, and prospects
+PY  - 2023
+T2  - Frontiers in Education
+VL  - 8
+C7  - 1183162
+DO  - 10.3389/feduc.2023.1183162
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85162027719&doi=10.3389%2ffeduc.2023.1183162&partnerID=40&md5=8d14b971e2143e5afa9c432ade0dc94a
+AD  - Faculty of Education, Shaanxi Normal University (SNNU), Shaanxi, Xi’an, China
+AD  - School of Foreign Languages, Northwest University (NWU), Shaanxi, Xi’an, China
+AB  - The emergence of Chat GPT has once again sparked a wave of information revolution in generative artificial intelligence. This article provides a detailed overview of the development and technical support of generative artificial intelligence. It conducts an in-depth analysis of the current application of generative artificial intelligence in the field of education, and identifies problems in four aspects: opacity and unexplainability, data privacy and security, personalization and fairness, and effectiveness and reliability. Corresponding solutions are proposed, such as developing explainable and fair algorithms, upgrading encryption technology, and formulating relevant laws and regulations to protect data, as well as improving the quality and quantity of datasets. The article also looks ahead to the future development trends of generative artificial intelligence in education from four perspectives: personalized education, intelligent teaching, collaborative education, and virtual teaching. The aim of the study is to provide important reference value for research and practice in this field. Copyright © 2023 Yu and Guo.
+KW  - countermeasure research
+KW  - current status
+KW  - development prospects
+KW  - educational applications
+KW  - generative artificial intelligence
+PB  - Frontiers Media S.A.
+SN  - 2504284X (ISSN)
+LA  - English
+J2  - Front. Educ.
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 77; Correspondence Address: H. Yu; Faculty of Education, Shaanxi Normal University (SNNU), Xi’an, Shaanxi, China; email: yh13213986381@163.com
+ER  -
+
+TY  - JOUR
+AU  - Navarro-Dolmestch, R.
+TI  - Risks and Challenges Posed by Artificial Intelligence Generative Applications for Academic Integrity
+ST  - Descripción de los riesgos y desafíos para la integridad académica de aplicaciones generativas de inteligencia artificial
+PY  - 2023
+T2  - Derecho PUCP
+IS  - 91
+SP  - 231
+EP  - 270
+DO  - 10.18800/derechopucp.202302.007
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85178434596&doi=10.18800%2fderechopucp.202302.007&partnerID=40&md5=20b41f29ae35c866fec8180ece316984
+AD  - Universidad Católica del Maule, Chile
+AB  - From the perspective of a descriptive analysis, and as a starting point to a new research line, this paper examines the potential impact Generative Artificial Intelligence (GAI) technologies may have on academic integrity, manifested in the learning and evaluation processes of law classes at the university level. The article takes as its premise the definition of academic integrity as a set of values and argues that a series of risks arise from the GAI that threaten those values, such as excessive dependence and trust in the GAI, the unreallizability of the pedagogical project and the loss of competitiveness of educational institutions, among others. To minimize or nullify such risks, and thus prevent them from affecting academic integrity, four mitigation measures are identified to be applied in university environments. © 2023 Pontificia Universidad Catolica del Peru. All rights reserved.
+KW  - Academic integrity
+KW  - artificial intelligence
+KW  - automatic text generation
+KW  - chatbot
+KW  - ChatGPT
+PB  - Pontificia Universidad Catolica del Peru
+SN  - 02513420 (ISSN)
+LA  - Spanish
+J2  - Derecho PUCP
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 2; Correspondence Address: R. Navarro-Dolmestch; Universidad Católica del Maule, Chile; email: ronavarro@ucm.cl
+ER  -
+
+TY  - JOUR
+AU  - Kahveci, Z.Ü.
+TI  - Attribution problem of generative AI: a view from US copyright law
+PY  - 2023
+T2  - Journal of Intellectual Property Law and Practice
+VL  - 18
+IS  - 11
+SP  - 796
+EP  - 807
+DO  - 10.1093/jiplp/jpad076
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85178406736&doi=10.1093%2fjiplp%2fjpad076&partnerID=40&md5=8f190a1aec59e91d71832dc00f863401
+AD  - Harvard Law School, United States
+AB  - • Three significant lawsuits concerning generative Artificial Intelligence (AI) were filed in the USA, starting the first wave of lawsuits against AI: (i) coders filed claims for the alleged use of their codes by OpenAI’s CoPilot, (ii) visual artists filed claims against companies using Stable Diffusion and (iii) Getty Images filed claims against Stability AI, which uses Stable Diffusion. Following the lead of these lawsuits, copyright owners of literary works filed four other lawsuits against OpenAI, Meta and Alphabet (Google)’s large language models. All of these lawsuits are pending at the time of writing. • Among other things, plaintiffs filed claims challenging generative AI’s lack of attribution to copyright owners of in-copyright works in its training data. As US copyright law does not protect moral rights strongly, a federal rule granting a right of attribution to all copyright owners does not exist. Yet, there are some provisions providing quasi-protection. Section 1202 of the Digital Millennium Copyright Act (DMCA) is one of them and protects copyright owners against removal/modification of the Copyright Management Information in connection with their works. • This article lays down the limitations of moral rights protection in the USA and demonstrates the difficulties faced by the plaintiffs of the pending lawsuits. The limitations of Section 1202 DMCA are explained to demonstrate its difference from a classic moral right of attribution. The outcomes of these lawsuits will be significant in building case law on generative AI for the first time in the USA. This article evaluates the benefits and disadvantages of courts’ possible acceptance of plaintiffs’ claims regarding attribution. © 2023 The Author(s).
+PB  - Oxford University Press
+SN  - 17471540 (ISSN)
+LA  - English
+J2  - J. Intellect. Prop. Law Prac.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 3; Correspondence Address: Z.Ü. Kahveci; Harvard Law School, United States; email: zeynep.kahveci@bilgi.edu.tr
+ER  -
+
+TY  - JOUR
+TI  - A Comparison of Generative AI-generated Content and User-generated Content in the Thematic Perspective
+ST  - 主题视角下生成式人工智能生成内容与用户生成内容的比较
+PY  - 2023
+T2  - Information studies: Theory and Application
+VL  - 46
+IS  - 10
+SP  - 200
+EP  - 207and199
+DO  - 10.16353/j.cnki.1000-7490.2023.10.025
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85204712573&doi=10.16353%2fj.cnki.1000-7490.2023.10.025&partnerID=40&md5=b01c539a1a4ae8f5c793d4b9abe9b661
+AB  - [Purpose/significance] With the rapid development and wide application of generative AI, the structure of the information space undergoes a profound change. The previous information space dominated by UGC begins to be gradually influenced by AIGC, and the importance of generative AI governance becomes more and more prominent. The purpose of this paper is to compare AIGC and UGC from a thematic perspective, to reveal the differences between the two in terms of content and structural features, and to provide innovative references for generative AI governance. [Method/process] In this paper, questions and user responses on multiple online platforms in four domains, including finance, law, healthcare, and open Q&A, are collected, and AI responses for each question are generated with the help of the gpt-turbo-3. 5 model, and a corpus containing 65260 Q&A data is finally constructed. The BERTopic topic model is employed to extract topics from both AIGC and UGC datasets, and a comprehensive comparison is conducted between the two datasets from three perspectives: inter-topic relationships, topic-document relationships, and topic-subject term relationships. [Result/conclusion] The results of the study reveal the differences between AIGC and UGC in terms of topic distribution, document consistency within topics, and topic word weight structure. By gaining a deeper understanding of the characteristic differences between the two, the behavioral laws of generative AI can be better observed, and references for the improvement of the governance strategy of AIGC can be provided. © 2023 Information studies: Theory and Application. All rights reserved.
+KW  - AIGC
+KW  - BERTopic
+KW  - comparative analysis
+KW  - generative artificial intelligence
+KW  - information governance
+KW  - topic models
+KW  - UGC
+PB  - Information studies: Theory and Application
+SN  - 10007490 (ISSN)
+LA  - Chinese
+J2  - Inf. Stud. Theory and Application
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 1
+ER  -
+
+TY  - JOUR
+AU  - Zhang, P.
+AU  - Kamel Boulos, M.N.
+TI  - Generative AI in Medicine and Healthcare: Promises, Opportunities and Challenges
+PY  - 2023
+T2  - Future Internet
+VL  - 15
+IS  - 9
+C7  - 286
+DO  - 10.3390/fi15090286
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85172098857&doi=10.3390%2ffi15090286&partnerID=40&md5=51a4bb61407a6aa6e76da3490a218e68
+AD  - Department of Computer Science and Data Science Institute, Vanderbilt University, Nashville, 37240, TN, United States
+AD  - School of Medicine, University of Lisbon, Lisbon, 1649-028, Portugal
+AB  - Generative AI (artificial intelligence) refers to algorithms and models, such as OpenAI’s ChatGPT, that can be prompted to generate various types of content. In this narrative review, we present a selection of representative examples of generative AI applications in medicine and healthcare. We then briefly discuss some associated issues, such as trust, veracity, clinical safety and reliability, privacy, copyrights, ownership, and opportunities, e.g., AI-driven conversational user interfaces for friendlier human-computer interaction. We conclude that generative AI will play an increasingly important role in medicine and healthcare as it further evolves and gets better tailored to the unique settings and requirements of the medical domain and as the laws, policies and regulatory frameworks surrounding its use start taking shape. © 2023 by the authors.
+KW  - artificial intelligence
+KW  - ChatGPT
+KW  - generative AI
+KW  - healthcare
+KW  - human health
+KW  - large language models
+KW  - medicine
+KW  - Artificial intelligence
+KW  - Health care
+KW  - Human computer interaction
+KW  - Artificial intelligence in medicine
+KW  - ChatGPT
+KW  - Generative artificial intelligence
+KW  - Healthcare
+KW  - Human health
+KW  - Language model
+KW  - Large language model
+KW  - Medical domains
+KW  - Policy framework
+KW  - Regulatory frameworks
+KW  - User interfaces
+PB  - Multidisciplinary Digital Publishing Institute (MDPI)
+SN  - 19995903 (ISSN)
+LA  - English
+J2  - Future Internet
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 78; Correspondence Address: M.N. Kamel Boulos; School of Medicine, University of Lisbon, Lisbon, 1649-028, Portugal; email: mnkboulos@ieee.org
+ER  -
+
+TY  - CONF
+AU  - Allam, H.
+AU  - Dempere, J.
+AU  - Akre, V.
+AU  - Parakash, D.
+AU  - Mazher, N.
+AU  - Ahamed, J.
+TI  - Artificial Intelligence in Education: An Argument of Chat-GPT Use in Education
+PY  - 2023
+T2  - 2023 9th International Conference on Information Technology Trends, ITT 2023
+SP  - 151
+EP  - 156
+DO  - 10.1109/ITT59889.2023.10184267
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85168542765&doi=10.1109%2fITT59889.2023.10184267&partnerID=40&md5=0cb62584102e44d145713b189efdef9d
+AD  - Higher Colleges of Technology, Computer and Information Science, Dubai, United Arab Emirates
+AD  - Higher Colleges of Technology, Department of Business Administration, Ras Alkhaima, United Arab Emirates
+AD  - University of Gujrat, Computer and Information Science, Gujrat, Pakistan
+AB  - Artificial intelligence (AI) is a popular concept for modernizing and automating traditional, time-consuming tasks with smart technology. AI can be applied to a wide range of areas, such as healthcare, finance, law, and education. AI has the potential to revolutionize the way we learn by making education more interactive and engaging. One possible step The way forward in this field is through the use of generative artificial intelligence.technologies like the ChatGPT conversational agent. Although enthusiastic techno-utopian cheerleaders are praising the tool.for answering questions, writing essays, summarizing documents,and generating sophisticated codes, it has some pitfalls that were acknowledged by the creators of OpenAI themselves. In this article, we discuss the application of artificial intelligence in education and put the trendy ChatGPT to the test in an educator-Learner context to see how it performs. We also discuss some of the benefits and drawbacks of ChatGPT and demonstrate how it might be utilized in the classroom. It is essential for educators to understand the implications of this technology and to investigate Strategies to modify the educational environment  © 2023 IEEE.
+KW  - AIED
+KW  - Artificial Intelligence
+KW  - assessment
+KW  - ChatGPT
+KW  - intelligent agents
+KW  - intelligent tutoring systems
+KW  - personalized learning
+KW  - Artificial intelligence
+KW  - Computer aided instruction
+KW  - AIED
+KW  - Artificial intelligence in education
+KW  - Assessment
+KW  - ChatGPT
+KW  - Intelligent tutoring
+KW  - Intelligent tutoring system
+KW  - Personalized learning
+KW  - Smart technology
+KW  - Time-consuming tasks
+KW  - Tutoring system
+KW  - Intelligent agents
+PB  - Institute of Electrical and Electronics Engineers Inc.
+SN  - 979-835032750-2 (ISBN)
+LA  - English
+J2  - Int. Conf. Inf. Technol. Trends, ITT
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 19; Conference name: 9th International Conference on Information Technology Trends, ITT 2023; Conference date: 24 May 2023 through 25 May 2023; Conference code: 191005
+ER  -
+
+TY  - JOUR
+TI  - Risks and Control Measures of ChatGPT-like Generative Artificial Intelligence in Research
+ST  - ChatGPT 类生成式人工智能在科研场景中的应用风险与控制措施
+PY  - 2023
+T2  - Information studies: Theory and Application
+VL  - 46
+IS  - 6
+SP  - 24
+EP  - 32
+DO  - 10.16353/j.cnki.1000-7490.2023.06.004
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85194071459&doi=10.16353%2fj.cnki.1000-7490.2023.06.004&partnerID=40&md5=76db8d93f228f06375e5630f09409cd0
+AB  - [Purpose/significance] The powerful “human-like expression” capability demonstrated by the generative AI represented by Chat GPT has shifted the knowledge acquisition from the “Retrieval mode” to the “Generation mode” and the thinking process from “Synthesis mode” to “Selection mode” in research activities. This shift in research methods further leads to the impact of generative AI on the existing rules of research evaluation and raises the risk of low quality information output and fraudulent use by researchers in research scenarios. There is a need to improve the existing rules of research evaluation as a way to regulate the risks of research arising from generative AI. [Method/process] The literature analysis method suggests that the current academic exploration of empowerment theory from copyright-ability can hardly meet the needs of risk regulation. [Result/conclusion] A behavioral regulation model should be adopted to set up the obligations of disclosure of use, review of content, and explanation of innovation in the industry soft law, and classify the scenarios of AI use by researchers into use as a language aid, use as a fact discovery tool, and use as an idea generation tool, and assign different degrees of obligations to them according to different scenarios. © 2023 Information studies: Theory and Application. All rights reserved.
+KW  - academic ethics
+KW  - ChatGPT
+KW  - generative AI
+KW  - research scenarios
+KW  - risk regulation
+PB  - Information studies: Theory and Application
+SN  - 10007490 (ISSN)
+LA  - Chinese
+J2  - Inf. Stud. Theory and Application
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 2
+ER  -
+

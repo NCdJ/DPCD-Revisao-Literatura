@@ -1,0 +1,41 @@
+﻿TY  - JOUR
+AU  - Wei, DQ
+AU  - Wang, B
+AU  - Lin, G
+AU  - Liu, DC
+AU  - Dong, ZY
+AU  - Liu, HS
+AU  - Liu, YL
+TI  - Research on Unstructured Text Data Mining and Fault Classification Based on RNN-LSTM with Malfunction Inspection Report
+T2  - ENERGIES
+LA  - English
+KW  - deep learning
+KW  - recurrent neural network (RNN)
+KW  - natural language processing (NLP)
+KW  - long short-term memory (LSTM)
+KW  - unstructured data
+KW  - malfunction inspection report
+KW  - CONDITION-BASED MAINTENANCE
+KW  - NETWORKS
+KW  - DIAGNOSIS
+AB  - This paper documents the condition-based maintenance (CBM) of power transformers, the analysis of which relies on two basic data groups: structured (e.g., numeric and categorical) and unstructured (e.g., natural language text narratives) which accounts for 80% of data required. However, unstructured data comprised of malfunction inspection reports, as recorded by operation and maintenance of the power grid, constitutes an abundant untapped source of power insights. This paper proposes a method for malfunction inspection report processing by deep learning, which combines the text data mining-oriented recurrent neural networks (RNN) with long short-term memory (LSTM). In this paper, the effectiveness of the RNN-LSTM network for modeling inspection data is established with a straightforward training strategy in which we replicate targets at each sequence step. Then, the corresponding fault labels are given in datasets, in order to calculate the accuracy of fault classification by comparison with the original data labels and output samples. Experimental results can reflect how key parameters may be selected in the configuration of the key variables to achieve optimal results. The accuracy of the fault recognition demonstrates that the method we proposed can provide a more effective way for grid inspection personnel to deal with unstructured data.
+AD  - Wuhan Univ, Sch Elect Engn, Wuhan 430072, Peoples R ChinaAD  - Univ NSW, Sch Elect Engn & Telecommun, Sydney, NSW 2052, AustraliaAD  - Univ Tennessee, Dept Elect Engn & Comp Sci, Knoxville, TN 37996 USAC3  - Wuhan UniversityC3  - University of New South Wales SydneyC3  - University of Tennessee SystemC3  - University of Tennessee KnoxvilleFU  - National Natural Science Foundation of China [51477121]; China Southern Power Grid [GZ2014-2-0049]
+FX  - The authors are grateful for the projects supported by the National Natural Science Foundation of China No. 51477121 and the China Southern Power Grid No. GZ2014-2-0049.
+PU  - MDPI
+PI  - BASEL
+PA  - ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN  - 1996-1073
+J9  - ENERGIES
+JI  - Energies
+DA  - MAR
+PY  - 2017
+VL  - 10
+IS  - 3
+C7  - 406
+DO  - 10.3390/en10030406
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000398736700146
+N1  - Times Cited in Web of Science Core Collection:  50
+Total Times Cited:  58
+Cited Reference Count:  32
+ER  -
+

@@ -1,0 +1,212 @@
+﻿TY  - JOUR
+AU  - Yang, CC
+TI  - Explainable Artificial Intelligence for Predictive Modeling in Healthcare
+T2  - JOURNAL OF HEALTHCARE INFORMATICS RESEARCH
+LA  - English
+KW  - Explainable artificial intelligence
+KW  - Predictive modeling
+KW  - Healthcare informatics
+KW  - Human-computer interactions
+AB  - The principle behind artificial intelligence is mimicking human intelligence in the way that it can perform tasks, recognize patterns, or predict outcomes through learning from the acquired data of various sources. Artificial intelligence and machine learning algorithms have been widely used in autonomous driving, recommender systems in electronic commerce and social media, fintech, natural language understanding, and question answering systems. Artificial intelligence is also gradually changing the landscape of healthcare research (Yu et al. in Biomed Eng 2:719-731, 25). The rule-based approach that relied on the curation of medical knowledge and the construction of robust decision rules had drawn significant attention in diagnosing diseases and clinical decision support since half a century ago. In recent years, machine learning algorithms such as deep learning that can account for complex interactions between features is shown to be promising in predictive modeling in healthcare (Deo in Circulation 132:1920-1930, 26). Although many of these artificial intelligence and machine learning algorithms can achieve remarkably high performance, it is often difficult to be completely adopted in practical clinical environments due to the lack of explainability in some of these algorithms. Explainable artificial intelligence (XAI) is emerging to assist in the communication of internal decisions, behavior, and actions to health care professionals. Through explaining the prediction outcomes, XAI gains the trust of the clinicians as they may learn how to apply the predictive modeling in practical situations instead of blindly following the predictions. There are still many scenarios to explore how to make XAI effective in clinical settings due to the complexity of medical knowledge.
+AD  - Drexel Univ, Coll Comp & Informat, Philadelphia, PA 19104 USAC3  - Drexel UniversityFU  - National Science Foundation [NSF-1741306, IIS-1650531]
+FX  - This work was supported in part by the National Science Foundation under the Grant NSF-1741306 and IIS-1650531. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author and do not necessarily reflect the views of the National Science Foundation.
+PU  - SPRINGERNATURE
+PI  - LONDON
+PA  - CAMPUS, 4 CRINAN ST, LONDON, N1 9XW, ENGLAND
+SN  - 2509-4971
+SN  - 2509-498X
+J9  - J HEALTHC INFORM RES
+JI  - J. Healthc. Inform. Res.
+DA  - JUN
+PY  - 2022
+VL  - 6
+IS  - 2
+SP  - 228
+EP  - 239
+DO  - 10.1007/s41666-022-00114-1
+C6  - FEB 2022
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:000754125900001
+N1  - Times Cited in Web of Science Core Collection:  57
+Total Times Cited:  61
+Cited Reference Count:  27
+ER  -
+
+TY  - JOUR
+AU  - Zhang, RQ
+AU  - Guo, JF
+AU  - Chen, L
+AU  - Fan, YX
+AU  - Cheng, XQ
+TI  - A Review on Question Generation from Natural Language Text
+T2  - ACM TRANSACTIONS ON INFORMATION SYSTEMS
+LA  - English
+KW  - Question generation
+KW  - natural language generation
+KW  - survey
+KW  - AUTOMATIC-GENERATION
+AB  - Question generation is an important yet challenging problem in Artificial Intelligence (AI), which aims to generate natural and relevant questions from various input formats, e.g., natural language text, structure database, knowledge base, and image. In this article, we focus on question generation from natural language text, which has received tremendous interest in recent years due to the widespread applications such as data augmentation for question answering systems. During the past decades, many different question generation models have been proposed, from traditional rule-based methods to advanced neural network-based methods. Since there have been a large variety of research works proposed, we believe it is the right time to summarize the current status, learn from existing methodologies, and gain some insights for future development. In contrast to existing reviews, in this survey, we try to provide a more comprehensive taxonomy of question generation tasks from three different perspectives, i.e., the types of the input context text, the target answer, and the generated question. We take a deep look into existing models from different dimensions to analyze their underlying ideas, major design principles, and training strategies We compare these models through benchmark tasks to obtain an empirical understanding of the existing techniques. Moreover, we discuss what is missing in the current literature and what are the promising and desired future directions.
+AD  - Chinese Acad Sci, Inst Comp Technol, CAS Key Lab Network Data Sci & Technol, Beijing, Peoples R ChinaAD  - Univ Chinese Acad Sci, 6 Kexueyuan South Rd, Beijing 100190, Peoples R ChinaC3  - Chinese Academy of SciencesC3  - Institute of Computing Technology, CASC3  - Chinese Academy of SciencesC3  - University of Chinese Academy of Sciences, CASFU  - National Natural Science Foundation of China (NSFC) [62006218, 61902381, 61773362, 61872338]; Beijing Academy of Artificial Intelligence (BAAI) [BAAI2019ZD0306]; Youth Innovation Promotion Association CAS [20144310, 2016102, 2021100]; Lenovo-CAS Joint Lab Youth Scientist Project; K.C. Wong Education Foundation; Foundation and Frontier Research Key Program of Chongqing Science and Technology Commission [cstc2017jcyjBX0059]
+FX  - This work was funded by the National Natural Science Foundation of China (NSFC) under Grant Nos. 62006218, 61902381, 61773362, and 61872338, Beijing Academy of Artificial Intelligence (BAAI) under Grant Nos. BAAI2019ZD0306, the Youth Innovation Promotion Association CAS under Grant Nos. 20144310, 2016102, and 2021100, the Lenovo-CAS Joint Lab Youth Scientist Project, the K.C. Wong Education Foundation, and the Foundation and Frontier Research Key Program of Chongqing Science and Technology Commission (No. cstc2017jcyjBX0059).
+PU  - ASSOC COMPUTING MACHINERY
+PI  - NEW YORK
+PA  - 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN  - 1046-8188
+SN  - 1558-2868
+J9  - ACM T INFORM SYST
+JI  - ACM Trans. Inf. Syst.
+DA  - JAN
+PY  - 2022
+VL  - 40
+IS  - 1
+C7  - 14
+DO  - 10.1145/3468889
+WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:000770678900014
+N1  - Times Cited in Web of Science Core Collection:  23
+Total Times Cited:  24
+Cited Reference Count:  262
+ER  -
+
+TY  - JOUR
+AU  - Fuad, A
+AU  - Al-Yahya, M
+TI  - Recent Developments in Arabic Conversational AI: A Literature Review
+T2  - IEEE ACCESS
+LA  - English
+KW  - Artificial intelligence
+KW  - Task analysis
+KW  - Chatbots
+KW  - Semantics
+KW  - Databases
+KW  - Natural languages
+KW  - Licenses
+KW  - Conversational AI systems
+KW  - Arabic language
+KW  - question answering systems
+KW  - task-oriented dialogue systems
+KW  - chatbots
+KW  - QUESTION
+KW  - MODELS
+AB  - Conversational AI is one of the most active research areas in AI, and it has gained more attention from academia as well as industry. Given recent advancements in several conversational AI systems in addition to the availability of several datasets, the aim of this study is to explore the landscape of Arabic text-based conversational AI systems. In this work, we provide a thorough review of recent Arabic conversational AI systems. We group them into three categories based on their functionality: (1) question-answering (QA) systems, (2) task-oriented dialogue systems (DS), and (3) chatbots. Furthermore, we describe the common datasets used in building and evaluating conversational AI systems in Arabic. Few surveys have targeted the conversational AI field for the Arabic language, and we aim to cover this gap with this study. Our contribution focuses on reviewing and analyzing the literature in the field and highlighting future research directions towards human-like conversational AI systems in Arabic.
+AD  - King Saud Univ, Coll Comp & Informat Sci, Dept Informat Technol, Riyadh 4545, Saudi ArabiaC3  - King Saud UniversityFU  - King Saud University, Riyadh, Saudi Arabia [RSP-2021/286]
+FX  - This research is supported by a grant from the Researchers Supporting Project No. RSP-2021/286, King Saud University, Riyadh, Saudi Arabia.
+PU  - IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI  - PISCATAWAY
+PA  - 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN  - 2169-3536
+J9  - IEEE ACCESS
+JI  - IEEE Access
+PY  - 2022
+VL  - 10
+SP  - 23842
+EP  - 23859
+DO  - 10.1109/ACCESS.2022.3155521
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000766548700001
+N1  - Times Cited in Web of Science Core Collection:  7
+Total Times Cited:  7
+Cited Reference Count:  90
+ER  -
+
+TY  - JOUR
+AU  - Kazemi, A
+AU  - Mozafari, J
+AU  - Nematbakhsh, MA
+TI  - PersianQuAD: The Native Question Answering Dataset for the Persian Language
+T2  - IEEE ACCESS
+LA  - English
+KW  - Internet
+KW  - Online services
+KW  - Encyclopedias
+KW  - Training
+KW  - Task analysis
+KW  - Machine translation
+KW  - Buildings
+KW  - Dataset
+KW  - deep learning
+KW  - natural language processing
+KW  - Persian
+KW  - question answering
+KW  - machine reading comprehension
+AB  - Developing Question Answering systems (QA) is one of the main goals in Artificial Intelligence. With the advent of Deep Learning (DL) techniques, QA systems have witnessed significant advances. Although DL performs very well on QA, it requires a considerable amount of annotated data for training. Many annotated datasets have been built for the QA task; most of them are exclusively in English. In order to address the need for a high-quality QA dataset in the Persian language, we present PersianQuAD, the native QA dataset for the Persian language. We create PersianQuAD in four steps: 1) Wikipedia article selection, 2) question-answer collection, 3) three-candidates test set preparation, and 4) Data Quality Monitoring. PersianQuAD consists of approximately 20,000 questions and answers made by native annotators on a set of Persian Wikipedia articles. The answer to each question is a segment of the corresponding article text. To better understand PersianQuAD and ensure its representativeness, we analyze PersianQuAD and show it contains questions of varying types and difficulties. We also present three versions of a deep learning-based QA system trained with PersianQuAD. Our best system achieves an F1 score of 82.97% which is comparable to that of QA systems on English SQuAD, made by the Stanford University. This shows that PersianQuAD performs well for training deep-learning-based QA systems. Human performance on PersianQuAD is significantly better (96.49%), demonstrating that PersianQuAD is challenging enough and there is still plenty of room for future improvement. PersianQuAD and all QA models implemented in this paper are freely available.
+AD  - Univ Isfahan, Fac Foreign Languages, Dept Linguist, Esfahan 8174673441, IranAD  - Univ Isfahan, Fac Comp Engn, Big Data Res Grp, Esfahan 8174673441, IranC3  - University of IsfahanC3  - University of IsfahanPU  - IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI  - PISCATAWAY
+PA  - 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN  - 2169-3536
+J9  - IEEE ACCESS
+JI  - IEEE Access
+PY  - 2022
+VL  - 10
+SP  - 26045
+EP  - 26057
+DO  - 10.1109/ACCESS.2022.3157289
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000769961400001
+N1  - Times Cited in Web of Science Core Collection:  7
+Total Times Cited:  7
+Cited Reference Count:  41
+ER  -
+
+TY  - JOUR
+AU  - Zhang, HG
+AU  - Zhang, TY
+AU  - Cao, FX
+AU  - Wang, ZZ
+AU  - Zhang, YY
+AU  - Sun, YY
+AU  - Vicente, MA
+TI  - BCA: Bilinear Convolutional Neural Networks and Attention Networks for legal question answering
+T2  - AI OPEN
+LA  - English
+KW  - Deep learning
+KW  - Text classification
+KW  - Attention mechanism
+KW  - Convolutional Neural Networks
+KW  - Judicial Examination
+KW  - Bilinear model
+AB  - The National Judicial Examination of China is an essential examination for selecting legal practitioners. In recent years, people have tried to use machine learning algorithms to answer examination questions. With the proposal of JEC-QA (Zhong et al. 2020), the judicial examination becomes a particular legal task. The data of judicial examination contains two types, i.e., Knowledge-Driven questions and Case-Analysis questions. Both require complex reasoning and text comprehension, thus challenging computers to answer judicial examination questions. We propose B ilinear C onvolutional Neural Networks and A ttention Networks ( BCA ) in this paper, which is an improved version based on the model proposed by our team on the Challenge of AI in Law 2021 judicial examination task. It has two essential modules, K nowledge- D riven M odule ( KDM ) for local features extraction and C ase- A nalysis M odule ( CAM ) for the semantic difference clarification between the question stem and the options. We also add a post-processing module to correct the results in the final stage. The experimental results show that our system achieves state -of -the -art in the offline test of the judicial examination task.
+AD  - Dalian Univ Technol, Dept Comp Sci & Technol, Dalian, Peoples R ChinaC3  - Dalian University of TechnologyFU  - National Key Research and Devel-opment Program of China [2022YFC3301801]; Fundamental Research Funds for the Central Universities [DUT22ZD205]
+FX  - This work is supported by the National Key Research and Devel-opment Program of China (No. 2022YFC3301801) , the Fundamental Research Funds for the Central Universities (No. DUT22ZD205) .
+PU  - KEAI PUBLISHING LTD
+PI  - BEIJING
+PA  - 16 DONGHUANGCHENGGEN NORTH ST, Building 5, Room 411, BEIJING, DONGCHENG DISTRICT 100009, PEOPLES R CHINA
+SN  - 2666-6510
+J9  - AI OPEN
+JI  - AI Open
+PY  - 2022
+VL  - 3
+SP  - 172
+EP  - 181
+DO  - 10.1016/j.aiopen.2022.11.002
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001219458300001
+N1  - Times Cited in Web of Science Core Collection:  2
+Total Times Cited:  2
+Cited Reference Count:  54
+ER  -
+
+TY  - CPAPER
+AU  - Shi, YQ
+AU  - Lu, YW
+AU  - Yang, RP
+AU  - Yang, YT
+A1  - IEEE
+TI  - Knowledge Graph Completion Technology Research
+T2  - 2022 INTERNATIONAL CONFERENCE ON COMPUTING, ROBOTICS AND SYSTEM SCIENCES, ICRSS
+LA  - English
+CP  - International Conference on Computing, Robotics and System Sciences (ICRSS)
+KW  - Knowledge Graph
+KW  - Entity Completion
+KW  - Artificial Intelligence
+KW  - Deep Learning
+AB  - In recent years, knowledge graphs have been widely used in the fields of language cognition, search and recommendation, question answering systems, etc. However, with the continuous expansion of the scale of many knowledge graphs constructed by RDF, how to solve the incompleteness of knowledge graphs has become a research hotspot. knowledge graph completion technology is used to complete the missing content in the knowledge graph, mainly including entity completion and relationship completion. This paper mainly focuses on the completion problem, and sorts out completion methods based on deep representation learning. Through the analysis of the research history and latest progress of completion technology, the practical challenges and future development directions of the technology are put forward.
+AD  - Natl Univ Def Technol, Coll Informat & Commun, Wuhan, Peoples R ChinaC3  - National University of Defense Technology - ChinaPU  - IEEE COMPUTER SOC
+PI  - LOS ALAMITOS
+PA  - 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1264 USA
+SN  - 978-1-6654-6403-1
+PY  - 2022
+SP  - 68
+EP  - 73
+DO  - 10.1109/ICRSS57469.2022.00024
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000995890800014
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  38
+ER  -
+

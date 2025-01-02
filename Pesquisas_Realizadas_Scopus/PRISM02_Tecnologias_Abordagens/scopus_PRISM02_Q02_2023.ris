@@ -1,0 +1,350 @@
+﻿TY  - CONF
+AU  - Lukas, N.
+AU  - Salem, A.
+AU  - Sim, R.
+AU  - Tople, S.
+AU  - Wutschitz, L.
+AU  - Zanella-Béguelin, S.
+TI  - Analyzing Leakage of Personally Identifiable Information in Language Models
+PY  - 2023
+T2  - Proceedings - IEEE Symposium on Security and Privacy
+VL  - 2023-May
+SP  - 346
+EP  - 363
+DO  - 10.1109/SP46215.2023.10179300
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85159803874&doi=10.1109%2fSP46215.2023.10179300&partnerID=40&md5=e87948c24215af8d66a2b9cbe47f1a4a
+AD  - University of Waterloo, Canada
+AD  - Microsoft Research, United States
+AB  - Language Models (LMs) have been shown to leak information about training data through sentence-level membership inference and reconstruction attacks. Understanding the risk of LMs leaking Personally Identifiable Information (PII) has received less attention, which can be attributed to the false assumption that dataset curation techniques such as scrubbing are sufficient to prevent PII leakage. Scrubbing techniques reduce but do not prevent the risk of PII leakage: in practice scrubbing is imperfect and must balance the trade-off between minimizing disclosure and preserving the utility of the dataset. On the other hand, it is unclear to which extent algorithmic defenses such as differential privacy, designed to guarantee sentence-or user-level privacy, prevent PII disclosure. In this work, we introduce rigorous game-based definitions for three types of PII leakage via black-box extraction, inference, and reconstruction attacks with only API access to an LM. We empirically evaluate the attacks against GPT-2 models fine-tuned with and without defenses in three domains: case law, health care, and e-mails. Our main contributions are (i) novel attacks that can extract up to 10× more PII sequences than existing attacks, (ii) showing that sentence-level differential privacy reduces the risk of PII disclosure but still leaks about 3% of PII sequences, and (iii) a subtle connection between record-level membership inference and PII reconstruction. Code to reproduce all experiments in the paper is available at https://github.com/microsoft/analysing-pii-leakage.  © 2023 IEEE.
+KW  - Data-Extraction
+KW  - Data-Reconstruction
+KW  - Differential-Privacy
+KW  - Language-Models
+KW  - Personally-Identifiable-Information
+KW  - Scrubbing
+KW  - Computational linguistics
+KW  - Data mining
+KW  - Economic and social effects
+KW  - Natural language processing systems
+KW  - Risk perception
+KW  - Data extraction
+KW  - Data reconstruction
+KW  - Differential privacies
+KW  - Inference attacks
+KW  - Information leakage
+KW  - Language model
+KW  - Personally identifiable information
+KW  - Reconstruction attacks
+KW  - Scrubbing
+KW  - Sentence level
+KW  - Extraction
+PB  - Institute of Electrical and Electronics Engineers Inc.
+SN  - 10816011 (ISSN); 978-166549336-9 (ISBN)
+LA  - English
+J2  - Proc. IEEE Symp. Secur. Privacy
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 27; Correspondence Address: N. Lukas; University of Waterloo, Canada; email: nlukas@uwaterloo.ca; Conference name: 44th IEEE Symposium on Security and Privacy, SP 2023; Conference date: 22 May 2023 through 25 May 2023; Conference code: 190916
+ER  -
+
+TY  - JOUR
+AU  - Grassini, S.
+TI  - Shaping the Future of Education: Exploring the Potential and Consequences of AI and ChatGPT in Educational Settings
+PY  - 2023
+T2  - Education Sciences
+VL  - 13
+IS  - 7
+C7  - 692
+DO  - 10.3390/educsci13070692
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85167348375&doi=10.3390%2feducsci13070692&partnerID=40&md5=5509b88120e85bf11de6455f583a1d16
+AD  - Department of Psychosocial Science, University of Bergen, Bergen, 5020, Norway
+AB  - Over the last decade, technological advancements, especially artificial intelligence (AI), have significantly transformed educational practices. Recently, the development and adoption of Generative Pre-trained Transformers (GPT), particularly OpenAI’s ChatGPT, has sparked considerable interest. The unprecedented capabilities of these models, such as generating humanlike text and facilitating automated conversations, have broad implications in various sectors, including education and health. Despite their immense potential, concerns regarding their widespread use and opacity have been raised within the scientific community. ChatGPT, the latest version of the GPT series, has displayed remarkable proficiency, passed the US bar law exam, and amassed over a million subscribers shortly after its launch. However, its impact on the education sector has elicited mixed reactions, with some educators heralding it as a progressive step and others raising alarms over its potential to reduce analytical skills and promote misconduct. This paper aims to delve into these discussions, exploring the potential and problems associated with applying advanced AI models in education. It builds on extant literature and contributes to understanding how these technologies reshape educational norms in the “new AI gold rush” era. © 2023 by the author.
+KW  - artificial intelligence (AI)
+KW  - ChatGPT
+KW  - educational technology
+KW  - university education
+PB  - Multidisciplinary Digital Publishing Institute (MDPI)
+SN  - 22277102 (ISSN)
+LA  - English
+J2  - Educ. Sci.
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 277; Correspondence Address: S. Grassini; Department of Psychosocial Science, University of Bergen, Bergen, 5020, Norway; email: simone.grassini@uib.no
+ER  -
+
+TY  - CONF
+AU  - Jang, J.
+AU  - Ye, S.
+AU  - Seo, M.
+TI  - Can Large Language Models Truly Understand Prompts? A Case Study with Negated Prompts
+PY  - 2023
+T2  - Proceedings of Machine Learning Research
+VL  - 203
+SP  - 52
+EP  - 62
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85164593928&partnerID=40&md5=fef886c8c7e3dd05e778fa4ef24dcc51
+AD  - KAIST, South Korea
+AB  - Previous work has shown that there exists a scaling law between the size of Language Models (LMs) and their zero-shot performance on different downstream NLP tasks. In this work, we show that this phenomenon does not hold when evaluating large LMs on tasks with negated prompts, but instead shows an inverse scaling law. We evaluate 9 different tasks with negated prompts on (1) pretrained LMs (OPT & GPT-3) of varying sizes (125M - 175B), (2) LMs further pretrained to generalize to novel prompts (InstructGPT), (3) LMs provided with few-shot examples, and (4) LMs fine-tuned specifically on negated prompts; all LM types perform worse on negated prompts as they scale and show a huge performance gap between the human performance when comparing the average score on both original and negated prompts. By highlighting a critical limitation of existing LMs and methods, we urge the community to develop new approaches of developing LMs that actually follow the given instructions. We provide the code and the datasets to explore negated prompts at this link. © 2023 Proceedings of Machine Learning Research. All rights reserved.
+KW  - Computational linguistics
+KW  - Zero-shot learning
+KW  - Case-studies
+KW  - Down-stream
+KW  - Human performance
+KW  - Language model
+KW  - Modeling type
+KW  - New approaches
+KW  - Performance
+KW  - Performance gaps
+KW  - Inverse problems
+A2  - Albalak A.
+A2  - Zhou C.
+A2  - Raffel C.
+A2  - Ramachandran D.
+A2  - Ruder S.
+A2  - Ma X.
+PB  - ML Research Press
+SN  - 26403498 (ISSN)
+LA  - English
+J2  - Proc. Mach. Learn. Res.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 25; Correspondence Address: J. Jang; KAIST, South Korea; email: joeljang@kaist.ac.kr; S. Ye; KAIST, South Korea; email: seonghyeon.ye@kaist.ac.kr; Conference name: 1st Transfer Learning for Natural Language Processing Workshop, NLP 2022; Conference code: 189765
+ER  -
+
+TY  - JOUR
+AU  - Yu, H.
+AU  - Guo, Y.
+TI  - Generative artificial intelligence empowers educational reform: current status, issues, and prospects
+PY  - 2023
+T2  - Frontiers in Education
+VL  - 8
+C7  - 1183162
+DO  - 10.3389/feduc.2023.1183162
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85162027719&doi=10.3389%2ffeduc.2023.1183162&partnerID=40&md5=8d14b971e2143e5afa9c432ade0dc94a
+AD  - Faculty of Education, Shaanxi Normal University (SNNU), Shaanxi, Xi’an, China
+AD  - School of Foreign Languages, Northwest University (NWU), Shaanxi, Xi’an, China
+AB  - The emergence of Chat GPT has once again sparked a wave of information revolution in generative artificial intelligence. This article provides a detailed overview of the development and technical support of generative artificial intelligence. It conducts an in-depth analysis of the current application of generative artificial intelligence in the field of education, and identifies problems in four aspects: opacity and unexplainability, data privacy and security, personalization and fairness, and effectiveness and reliability. Corresponding solutions are proposed, such as developing explainable and fair algorithms, upgrading encryption technology, and formulating relevant laws and regulations to protect data, as well as improving the quality and quantity of datasets. The article also looks ahead to the future development trends of generative artificial intelligence in education from four perspectives: personalized education, intelligent teaching, collaborative education, and virtual teaching. The aim of the study is to provide important reference value for research and practice in this field. Copyright © 2023 Yu and Guo.
+KW  - countermeasure research
+KW  - current status
+KW  - development prospects
+KW  - educational applications
+KW  - generative artificial intelligence
+PB  - Frontiers Media S.A.
+SN  - 2504284X (ISSN)
+LA  - English
+J2  - Front. Educ.
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 77; Correspondence Address: H. Yu; Faculty of Education, Shaanxi Normal University (SNNU), Xi’an, Shaanxi, China; email: yh13213986381@163.com
+ER  -
+
+TY  - JOUR
+AU  - Taira, K.
+AU  - Itaya, T.
+AU  - Hanada, A.
+TI  - Performance of the Large Language Model ChatGPT on the National Nurse Examinations in Japan: Evaluation Study
+PY  - 2023
+T2  - JMIR Nursing
+VL  - 6
+IS  - 1
+C7  - e47305
+DO  - 10.2196/47305
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85171559992&doi=10.2196%2f47305&partnerID=40&md5=f46d47485b23b7b4006c9f92180c3367
+AD  - Department of Human Health Sciences, Graduate School of Medicine, Kyoto University, Kyoto, Japan
+AD  - Department of Healthcare Epidemiology, Graduate School of Medicine and Public Health, Kyoto University, Kyoto, Japan
+AD  - Department of Preventive Medicine and Public Health, School of Medicine, Keio University, Tokyo, Japan
+AB  - Background: ChatGPT, a large language model, has shown good performance on physician certification examinations and medical consultations. However, its performance has not been examined in languages other than English or on nursing examinations. Objective: We aimed to evaluate the performance of ChatGPT on the Japanese National Nurse Examinations. Methods: We evaluated the percentages of correct answers provided by ChatGPT (GPT-3.5) for all questions on the Japanese National Nurse Examinations from 2019 to 2023, excluding inappropriate questions and those containing images. Inappropriate questions were pointed out by a third-party organization and announced by the government to be excluded from scoring. Specifically, these include “questions with inappropriate question difficulty” and “questions with errors in the questions or choices.” These examinations consist of 240 questions each year, divided into basic knowledge questions that test the basic issues of particular importance to nurses and general questions that test a wide range of specialized knowledge. Furthermore, the questions had 2 types of formats: simple-choice and situation-setup questions. Simple-choice questions are primarily knowledge-based and multiple-choice, whereas situation-setup questions entail the candidate reading a patient’s and family situation’s description, and selecting the nurse's action or patient's response. Hence, the questions were standardized using 2 types of prompts before requesting answers from ChatGPT. Chi-square tests were conducted to compare the percentage of correct answers for each year's examination format and specialty area related to the question. In addition, a Cochran-Armitage trend test was performed with the percentage of correct answers from 2019 to 2023. Results: The 5-year average percentage of correct answers for ChatGPT was 75.1% (SD 3%) for basic knowledge questions and 64.5% (SD 5%) for general questions. The highest percentage of correct answers on the 2019 examination was 80% for basic knowledge questions and 71.2% for general questions. ChatGPT met the passing criteria for the 2019 Japanese National Nurse Examination and was close to passing the 2020-2023 examinations, with only a few more correct answers required to pass. ChatGPT had a lower percentage of correct answers in some areas, such as pharmacology, social welfare, related law and regulations, endocrinology/metabolism, and dermatology, and a higher percentage of correct answers in the areas of nutrition, pathology, hematology, ophthalmology, otolaryngology, dentistry and dental surgery, and nursing integration and practice. Conclusions: ChatGPT only passed the 2019 Japanese National Nursing Examination during the most recent 5 years. Although it did not pass the examinations from other years, it performed very close to the passing level, even in those containing questions related to psychology, communication, and nursing. © Kazuya Taira, Takahiro Itaya, Ayame Hanada.
+KW  - artificial intelligence
+KW  - ChatGPT
+KW  - Japan
+KW  - National Nurse Examination
+KW  - natural language processing
+KW  - registered nurses
+PB  - JMIR Publications Inc.
+SN  - 25627600 (ISSN)
+LA  - English
+J2  - JMIR. Nurs.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 32; Correspondence Address: K. Taira; Department of Human Health Sciences, Graduate School of Medicine, Kyoto University, Kyoto, 53, Shogoinkawara-cho, Sakyo-ku, 606-8501, Japan; email: taira.kazuya.5m@kyoto-u.ac.jp
+ER  -
+
+TY  - JOUR
+AU  - Dave, T.
+AU  - Athaluri, S.A.
+AU  - Singh, S.
+TI  - ChatGPT in medicine: an overview of its applications, advantages, limitations, future prospects, and ethical considerations
+PY  - 2023
+T2  - Frontiers in Artificial Intelligence
+VL  - 6
+C7  - 1169595
+DO  - 10.3389/frai.2023.1169595
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85159929831&doi=10.3389%2ffrai.2023.1169595&partnerID=40&md5=eba03afa56e5f070623fe4f8ef51c4a8
+AD  - Internal Medicine, Bukovinian State Medical University, Chernivtsi, Ukraine
+AD  - Rangaraya Medical College, Andhra Pradesh, Kakinada, India
+AD  - GSVM Medical College, Uttar Pradesh, Kanpur, India
+AB  - This paper presents an analysis of the advantages, limitations, ethical considerations, future prospects, and practical applications of ChatGPT and artificial intelligence (AI) in the healthcare and medical domains. ChatGPT is an advanced language model that uses deep learning techniques to produce human-like responses to natural language inputs. It is part of the family of generative pre-training transformer (GPT) models developed by OpenAI and is currently one of the largest publicly available language models. ChatGPT is capable of capturing the nuances and intricacies of human language, allowing it to generate appropriate and contextually relevant responses across a broad spectrum of prompts. The potential applications of ChatGPT in the medical field range from identifying potential research topics to assisting professionals in clinical and laboratory diagnosis. Additionally, it can be used to help medical students, doctors, nurses, and all members of the healthcare fraternity to know about updates and new developments in their respective fields. The development of virtual assistants to aid patients in managing their health is another important application of ChatGPT in medicine. Despite its potential applications, the use of ChatGPT and other AI tools in medical writing also poses ethical and legal concerns. These include possible infringement of copyright laws, medico-legal complications, and the need for transparency in AI-generated content. In conclusion, ChatGPT has several potential applications in the medical and healthcare fields. However, these applications come with several limitations and ethical considerations which are presented in detail along with future prospects in medicine and healthcare. Copyright © 2023 Dave, Athaluri and Singh.
+KW  - AI
+KW  - artificial intelligence
+KW  - ChatGPT
+KW  - generative pre-training transformer
+KW  - healthcare
+KW  - medicine
+KW  - natural language processing
+PB  - Frontiers Media S.A.
+SN  - 26248212 (ISSN)
+LA  - English
+J2  - Frontier. Artif. Intell.
+M3  - Short survey
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 484; Correspondence Address: T. Dave; Internal Medicine, Bukovinian State Medical University, Chernivtsi, Ukraine; email: tirth.snehal.dave@gmail.com
+ER  -
+
+TY  - CONF
+AU  - Dettmers, T.
+AU  - Zettlemoyer, L.
+TI  - The case for 4-bit precision: k-bit Inference Scaling Laws
+PY  - 2023
+T2  - Proceedings of Machine Learning Research
+VL  - 202
+SP  - 7750
+EP  - 7774
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85170633110&partnerID=40&md5=cb3bdc7cb66f22fc9e9f7b951d347fd9
+AD  - University of Washington, United States
+AB  - Quantization methods reduce the number of bits required to represent each parameter in a model, trading accuracy for smaller memory footprints and inference latencies. However, the final model size depends on both the number of parameters of the original model and the rate of compression. For example, a 30B 8-bit model and a 60B 4-bit model have the same number of bits but may have very different zero-shot accuracies. In this work, we study this trade-off by developing inference scaling laws of zero-shot performance in Large Language Models (LLMs) to determine the bit-precision and model size that maximizes zero-shot performance. We run more than 35,000 experiments with 16-bit inputs and k-bit parameters to examine which zero-shot quantization methods improve scaling for 3 to 8-bit precision at scales of 19M to 176B parameters across the LLM families BLOOM, OPT, NeoX/Pythia, and GPT-2. We find that it is challenging to improve the bit-level scaling trade-off, with the only improvements being the use of a small block size - splitting the parameters into small independently quantized blocks - and the quantization data type being used (e.g., Int vs Float). Overall, our findings show that 4-bit precision is almost universally optimal for total model bits and zero-shot accuracy. © 2023 Proceedings of Machine Learning Research. All rights reserved.
+KW  - Zero-shot learning
+KW  - Bit precision
+KW  - Language model
+KW  - Model size
+KW  - Original model
+KW  - Performance
+KW  - Quantisation
+KW  - Scalings
+KW  - Shot accuracy
+KW  - Small memory footprint
+KW  - Trade off
+KW  - Economic and social effects
+A2  - Krause A.
+A2  - Brunskill E.
+A2  - Cho K.
+A2  - Engelhardt B.
+A2  - Sabato S.
+A2  - Scarlett J.
+PB  - ML Research Press
+SN  - 26403498 (ISSN)
+LA  - English
+J2  - Proc. Mach. Learn. Res.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 33; Correspondence Address: T. Dettmers; University of Washington, United States; email: dettmers@cs.washington.edu; Conference name: 40th International Conference on Machine Learning, ICML 2023; Conference date: 23 July 2023 through 29 July 2023; Conference code: 191855
+ER  -
+
+TY  - CONF
+AU  - Hacker, P.
+AU  - Engel, A.
+AU  - Mauer, M.
+TI  - Regulating ChatGPT and other Large Generative AI Models
+PY  - 2023
+T2  - ACM International Conference Proceeding Series
+SP  - 1112
+EP  - 1123
+DO  - 10.1145/3593013.3594067
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85163696061&doi=10.1145%2f3593013.3594067&partnerID=40&md5=143c89dfe19e5fd9fa0d4c16b9a44336
+AD  - European New School of Digital Studies, European University Viadrina, Germany
+AD  - Faculty of Law, Heidelberg University, Germany
+AD  - Faculty of Law, Humboldt-University of Berlin, Germany
+AB  - Large generative AI models (LGAIMs), such as ChatGPT, GPT-4 or Stable Diffusion, are rapidly transforming the way we communicate, illustrate, and create. However, AI regulation, in the EU and beyond, has primarily focused on conventional AI models, not LGAIMs. This paper will situate these new generative models in the current debate on trustworthy AI regulation, and ask how the law can be tailored to their capabilities. After laying technical foundations, the legal part of the paper proceeds in four steps, covering (1) direct regulation, (2) data protection, (3) content moderation, and (4) policy proposals. It suggests a novel terminology to capture the AI value chain in LGAIM settings by differentiating between LGAIM developers, deployers, professional and non-professional users, as well as recipients of LGAIM output. We tailor regulatory duties to these different actors along the value chain and suggest strategies to ensure that LGAIMs are trustworthy and deployed for the benefit of society at large. Rules in the AI Act and other direct regulation must match the specificities of pre-trained models. The paper argues for three layers of obligations concerning LGAIMs (minimum standards for all LGAIMs; high-risk obligations for high-risk use cases; collaborations along the AI value chain). In general, regulation should focus on concrete high-risk applications, and not the pre-trained model itself, and should include (i) obligations regarding transparency and (ii) risk management. Non-discrimination provisions (iii) may, however, apply to LGAIM developers. Lastly, (iv) the core of the DSA's content moderation rules should be expanded to cover LGAIMs. This includes notice and action mechanisms, and trusted flaggers. © 2023 Owner/Author.
+KW  - Laws and legislation
+KW  - 'current
+KW  - Action mechanisms
+KW  - Generative model
+KW  - Model outputs
+KW  - Non-professional users
+KW  - Risks management
+KW  - Three-layer
+KW  - Value chains
+KW  - Risk management
+PB  - Association for Computing Machinery
+SN  - 978-145037252-7 (ISBN)
+LA  - English
+J2  - ACM Int. Conf. Proc. Ser.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 151; Conference name: 6th ACM Conference on Fairness, Accountability, and Transparency, FAccT 2023; Conference date: 12 June 2023 through 15 June 2023; Conference code: 189310
+ER  -
+
+TY  - JOUR
+AU  - Giannos, P.
+AU  - Delardas, O.
+TI  - Performance of ChatGPT on UK Standardized Admission Tests: Insights from the BMAT, TMUA, LNAT, and TSA Examinations
+PY  - 2023
+T2  - JMIR Medical Education
+VL  - 9
+C7  - e47737
+DO  - 10.2196/47737
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85159892886&doi=10.2196%2f47737&partnerID=40&md5=c69e63c61b6cedbf6186300968dbab78
+AD  - Department of Life Sciences, Faculty of Natural Sciences, Imperial College London, London, United Kingdom
+AD  - Promotion of Emerging and Evaluative Research Society, London, United Kingdom
+AB  - Background: Large language models, such as ChatGPT by OpenAI, have demonstrated potential in various applications, including medical education. Previous studies have assessed ChatGPT’s performance in university or professional settings. However, the model’s potential in the context of standardized admission tests remains unexplored. Objective: This study evaluated ChatGPT’s performance on standardized admission tests in the United Kingdom, including the BioMedical Admissions Test (BMAT), Test of Mathematics for University Admission (TMUA), Law National Aptitude Test (LNAT), and Thinking Skills Assessment (TSA), to understand its potential as an innovative tool for education and test preparation. Methods: Recent public resources (2019-2022) were used to compile a data set of 509 questions from the BMAT, TMUA, LNAT, and TSA covering diverse topics in aptitude, scientific knowledge and applications, mathematical thinking and reasoning, critical thinking, problem-solving, reading comprehension, and logical reasoning. This evaluation assessed ChatGPT’s performance using the legacy GPT-3.5 model, focusing on multiple-choice questions for consistency. The model’s performance was analyzed based on question difficulty, the proportion of correct responses when aggregating exams from all years, and a comparison of test scores between papers of the same exam using binomial distribution and paired-sample (2-tailed) t tests. Results: The proportion of correct responses was significantly lower than incorrect ones in BMAT section 2 (P<.001) and TMUA paper 1 (P<.001) and paper 2 (P<.001). No significant differences were observed in BMAT section 1 (P=.2), TSA section 1 (P=.7), or LNAT papers 1 and 2, section A (P=.3). ChatGPT performed better in BMAT section 1 than section 2 (P=.047), with a maximum candidate ranking of 73% compared to a minimum of 1%. In the TMUA, it engaged with questions but had limited accuracy and no performance difference between papers (P=.6), with candidate rankings below 10%. In the LNAT, it demonstrated moderate success, especially in paper 2’s questions; however, student performance data were unavailable. TSA performance varied across years with generally moderate results and fluctuating candidate rankings. Similar trends were observed for easy to moderate difficulty questions (BMAT section 1, P=.3; BMAT section 2, P=.04; TMUA paper 1, P<.001; TMUA paper 2, P=.003; TSA section 1, P=.8; and LNAT papers 1 and 2, section A, P>.99) and hard to challenging ones (BMAT section 1, P=.7; BMAT section 2, P<.001; TMUA paper 1, P=.007; TMUA paper 2, P<.001; TSA section 1, P=.3; and LNAT papers 1 and 2, section A, P=.2). Conclusions: ChatGPT shows promise as a supplementary tool for subject areas and test formats that assess aptitude, problem-solving and critical thinking, and reading comprehension. However, its limitations in areas such as scientific and mathematical knowledge and applications highlight the need for continuous development and integration with conventional learning strategies in order to fully harness its potential. ©Panagiotis Giannos, Orestis Delardas.
+KW  - BMAT
+KW  - ChatGPT
+KW  - GPT
+KW  - law
+KW  - LNAT
+KW  - medical education
+KW  - medicine
+KW  - natural language processing
+KW  - standardized admissions tests
+KW  - TMUA
+KW  - TSA
+PB  - JMIR Publications Inc.
+SN  - 23693762 (ISSN)
+LA  - English
+J2  - JMIR Med. Educ.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 58; Correspondence Address: P. Giannos; Department of Life Sciences, Faculty of Natural Sciences, Imperial College London, London, South Kensington, SW7 2AZ, United Kingdom; email: panagiotis.giannos19@imperial.ac.uk
+ER  -
+
+TY  - CONF
+AU  - Senthil Pandi, S.
+AU  - Farook, A.M.
+AU  - Kingston, W.
+TI  - Scenario based Deep Learning Prediction for Legal Judgment using LSTM and CNN
+PY  - 2023
+T2  - Proceedings - 3rd International Conference on Smart Technologies, Communication and Robotics 2023, STCR 2023
+DO  - 10.1109/STCR59085.2023.10397023
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85185001934&doi=10.1109%2fSTCR59085.2023.10397023&partnerID=40&md5=e7bdb909d6c10e19a3efc997c85634d2
+AD  - Rajalakshmi Engineering College, Department of Ces, Chennai, India
+AB  - The problem facing society is the dark side of law ignorance. This paper is planned to build the solution to solve the problem of people's ignorance in the law department. This paper provides deep analyses of problem scenarios or crime scenes and provides technical suggestions for people irrespective of branch. It guides the people to take the necessary steps to make them aware of the case section and the evidence to be needed. This helps to glow the light of justice for illiterate people. It gives the work of architecture of law with chains of the future. This function gives the superpower of critical analysis and support assistance of legal terms. The lawyer's more critical work and legal terms are not aware by the people, this gives ultimate protection to survive and grip the handle of justice. This shows the real power of justice and the work of architecture of law. This is the best system people wish for the assistance of law and the judiciary. This shows the percentage of success in terms of law and evidence required. This gives real-time assistance based on the understanding of the scenario of the case and the type of case for which it is required. The NLP is used for the preprocessing steps to get the feature of the documents and also helps in linear vectorizing. This works on the methodology of vectorization using BERT with the dataset of cases. The vectorized input is trained into the LSTM and CNN for model generation. The generated model is accumulated for the best results for each scenario and propagates to find the network and form the connections.  © 2023 IEEE.
+KW  - BERT
+KW  - BI-LSTM
+KW  - CNN
+KW  - LSTM
+KW  - RNN
+KW  - Bismuth compounds
+KW  - Long short-term memory
+KW  - BERT
+KW  - BI-LSTM
+KW  - Crime scenes
+KW  - Critical analysis
+KW  - Illiterate peoples
+KW  - Legal judgements
+KW  - LSTM
+KW  - Real power
+KW  - RNN
+KW  - Scenario-based
+KW  - Network architecture
+A2  - Harikumar R.
+A2  - Babu C.G.
+A2  - Poongodi C.
+A2  - Deepa D.
+PB  - Institute of Electrical and Electronics Engineers Inc.
+SN  - 979-835037086-7 (ISBN)
+LA  - English
+J2  - Proc. - Int. Conf. Smart Technol., Commun. Robot., STCR
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 32; Correspondence Address: S. Senthil Pandi; Rajalakshmi Engineering College, Department of Ces, Chennai, India; email: mailtosenthil.ks@gmail.com; Conference name: 3rd International Conference on Smart Technologies, Communication and Robotics, STCR 2023; Conference date: 9 December 2023 through 10 December 2023; Conference code: 196842
+ER  -
+

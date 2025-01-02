@@ -1,0 +1,284 @@
+﻿TY  - CONF
+AU  - Pal, A.
+TI  - DeepParliament: A Legal domain Benchmark & Dataset for Parliament Bills Prediction
+PY  - 2022
+T2  - UM-IoS 2022 - Unimodal and Multimodal Induction of Linguistic Structures, Proceedings of the Workshop
+SP  - 73
+EP  - 81
+DO  - 10.18653/v1/2022.umios-1.8
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85154542917&doi=10.18653%2fv1%2f2022.umios-1.8&partnerID=40&md5=772bf85a123a4ee06f31d3365c9d31b7
+AD  - Open Legal AI, United Kingdom
+AB  - This paper introduces DeepParliament, a legal domain Benchmark Dataset that gathers bill documents and metadata and performs various bill status classification tasks. The proposed dataset text covers a broad range of bills from 1986 to the present and contains richer information on parliament bill content. Data collection, detailed statistics and analyses are provided in the paper. Moreover, we experimented with different types of models ranging from RNN to pretrained and reported the results. We are proposing two new benchmarks: Binary and Multi-Class Bill Status classification. Models developed for bill documents and relevant supportive tasks may assist Members of Parliament (MPs), presidents, and other legal practitioners. It will help review or prioritise bills, thus speeding up the billing process, improving the quality of decisions and reducing the time consumption in both houses. Considering that the foundation of the country's democracy is Parliament and state legislatures, we anticipate that our research will be an essential addition to the Legal NLP community. This work will be the first to present a Parliament bill prediction task. In order to improve the accessibility of legal AI resources and promote reproducibility, we have made our code and dataset publicly accessible at github.com/monk1337/DeepParliament. © 2022 Association for Computational Linguistics.
+KW  - Computational linguistics
+KW  - Information retrieval systems
+KW  - Laws and legislation
+KW  - Text processing
+KW  - Benchmark datasets
+KW  - Classification tasks
+KW  - Data collection
+KW  - Legal domains
+KW  - Members of parliaments
+KW  - Prediction tasks
+KW  - Process Improving
+KW  - State legislatures
+KW  - Statistics and analysis
+KW  - Time consumption
+KW  - Classification (of information)
+PB  - Association for Computational Linguistics (ACL)
+SN  - 978-195942926-5 (ISBN)
+LA  - English
+J2  - UM-IoS - Unimodal Multimodal Induction Linguist. Struct., Proc. Workshop
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 0; Correspondence Address: A. Pal; Open Legal AI, United Kingdom; email: openlegalai@gmail.com; Conference name: 2022 Workshop on Unimodal and Multimodal Induction of Linguistic Structures, UM-IoS 2022; Conference code: 187864
+ER  -
+
+TY  - CONF
+AU  - Aras, A.C.
+AU  - Ozturk, C.E.
+AU  - Koc, A.
+TI  - Feedforward Neural Network Based Case Prediction in Turkish Higher Courts
+ST  - Ileri Beslemeli Sinir Aǧlari ile Türk Üst Mahkemelerinde Karar Tahmini
+PY  - 2022
+T2  - 2022 30th Signal Processing and Communications Applications Conference, SIU 2022
+DO  - 10.1109/SIU55565.2022.9864970
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85138702454&doi=10.1109%2fSIU55565.2022.9864970&partnerID=40&md5=e6e613f32c12bbfbb6a9b979a9320f0b
+AD  - Bilkent Üniversitesi, Ulusal Manyetik Rezonans Araştirma Merkezi (UMRAM), Elektrik Ve Elektronik Mühendisliǧi Bölümü, Ankara, Turkey
+AD  - Bilkent Üniversitesi Aselsan Research Center, Elektrik Ve Elektronik Mühendisliǧi Bölümü, Ankara, Turkey
+AB  - Thanks to natural language processing (NLP) methods, legal texts can be processed by computers and decision prediction applications can be developed in the legal tech field. Increase in the available data sources in the Turkish legal system provides an opportunity to develop NLP applications as well. In order to develop these applications, the necessary corpora and datasets should be created. In this work, legal case texts from the Turkish Higher Courts that are open to public access and free from personal data are used to develop decision prediction methods. Feedforward neural networks (FFNN) are deployed using word embeddings and the features extracted from texts via the Principal Component Analysis (PCA) algorithm. %85.4 Macro F1 score level is achieved. © 2022 IEEE.
+KW  - Feedforward neural networks
+KW  - legal NLP
+KW  - legal tech
+KW  - Natural language processing
+KW  - Natural language processing systems
+KW  - Principal component analysis
+KW  - High Courts
+KW  - Language processing
+KW  - Legal natural language processing
+KW  - Legal tech
+KW  - Natural language processing
+KW  - Natural languages
+KW  - Network-based
+KW  - Turkishs
+KW  - Feedforward neural networks
+PB  - Institute of Electrical and Electronics Engineers Inc.
+SN  - 978-166545092-8 (ISBN)
+LA  - Turkish
+J2  - Signal Process. Commun. Appl. Conf., SIU
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 3; Conference name: 30th Signal Processing and Communications Applications Conference, SIU 2022; Conference date: 15 May 2022 through 18 May 2022; Conference code: 182415
+ER  -
+
+TY  - CONF
+AU  - Ozturk, C.E.
+AU  - Ozcelik, S.B.
+AU  - Koc, A.
+TI  - Predicting Outcomes of the Court of Cassation of Turkey with Recurrent Neural Networks
+ST  - Yargitay Kararlarinin Mükerrer Sinir Aǧlari ile Tahmini
+PY  - 2022
+T2  - 2022 30th Signal Processing and Communications Applications Conference, SIU 2022
+DO  - 10.1109/SIU55565.2022.9864914
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85138685687&doi=10.1109%2fSIU55565.2022.9864914&partnerID=40&md5=d8447f290c4002566781158036ab03d2
+AD  - Bilkent Üniversitesi, Aselsan Research Center, Elektrik Ve Elektronik Mühendisliǧi Bölümü, Ankara, Turkey
+AD  - Bilkent Üniversitesi, Hukuk Fakültesi, Ankara, Turkey
+AD  - Bilkent Üniversitesi, Ulusal Manyetik Rezonans Araştirma Merkezi, Elektrik Ve Elektronik Mühendisliǧi Bölümü, Ankara, Turkey
+AB  - Natural Language Processing (NLP) based approaches have recently become very popular for studies in legal domain. In this work, the outcomes of the cases of the Court of Cassation of Turkey were predicted with the use of Deep Learning models. These models are GRU, LSTM and BiLSTM which are variants of the recurrent neural network. Models saw only fact description parts of the case decision texts during training. Firstly, the models were trained with the word embeddings that were created from the texts from daily language. Then, the models were trained with the word embeddings that were created from downloaded legal cases from Turkish courts. The results of the experiments on the models are given in a comparative and detailed manner. It is observed based on this study and the past studies that the outcomes of the Court of Cassation can be predicted with higher accuracy than most of the courts that were investigated in previous legal NLP studies. The model which is best at predicting decisions is GRU. The GRU model achieves 96.8% accuracy in the decision prediction task. © 2022 IEEE.
+KW  - AI in Law
+KW  - Deep Learning
+KW  - Law
+KW  - Legal text mining
+KW  - Machine Learning
+KW  - Natural Language Processing
+KW  - Long short-term memory
+KW  - Natural language processing systems
+KW  - AI in law
+KW  - Deep learning
+KW  - Language processing
+KW  - Law
+KW  - Legal text mining
+KW  - Legal texts
+KW  - Machine-learning
+KW  - Natural language processing
+KW  - Natural languages
+KW  - Text-mining
+KW  - Embeddings
+PB  - Institute of Electrical and Electronics Engineers Inc.
+SN  - 978-166545092-8 (ISBN)
+LA  - Turkish
+J2  - Signal Process. Commun. Appl. Conf., SIU
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 3; Conference name: 30th Signal Processing and Communications Applications Conference, SIU 2022; Conference date: 15 May 2022 through 18 May 2022; Conference code: 182415
+ER  -
+
+TY  - CONF
+AU  - Vianna, D.
+AU  - Silva De Moura, E.
+TI  - Organizing Portuguese Legal Documents through Topic Discovery
+PY  - 2022
+T2  - SIGIR 2022 - Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval
+SP  - 3388
+EP  - 3392
+DO  - 10.1145/3477495.3536329
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85135014586&doi=10.1145%2f3477495.3536329&partnerID=40&md5=b3f5c481561935d4ba649092d9f5daf9
+AD  - Universidade Federal Do Amazonas, Jusbrasil, Manaus, Brazil
+AB  - A significant challenge in the legal domain is to organize and summarize a constantly growing collection of legal documents, uncovering hidden topics, or themes, that later can support tasks such as legal case retrieval and legal judgment prediction. This massive amount of digital legal documents, combined with the inherent complexity of judiciary systems worldwide, presents a promising scenario for Machine Learning solutions, mainly those taking advantage of all the advancements in the area of Natural Language Processing (NLP). It is in this scenario that Jusbrasil, the largest legal tech company in Brazil, is situated. Using a dataset partially curated by the Jusbrasil legal team, we explore topic modeling solutions using state of the art language models, trained with legal Portuguese documents, to automatically organize and summarize this complex collection of documents. Instead of using an entire legal case, which usually is composed of many pages, we show that it is possible to efficiently organize the collection using the syllabus (in Portuguese, ementa jurisprudencial) from each court decision as they concisely summarize the main points presented by the entire decision. © 2022 ACM.
+KW  - language models
+KW  - law tech
+KW  - legal cases
+KW  - topic model
+KW  - Computational linguistics
+KW  - Laws and legislation
+KW  - Learning algorithms
+KW  - Learning systems
+KW  - Natural language processing systems
+KW  - Case retrieval
+KW  - Inherent complexity
+KW  - Language model
+KW  - Law tech
+KW  - Legal case
+KW  - Legal documents
+KW  - Legal domains
+KW  - Legal judgements
+KW  - Topic Discovery
+KW  - Topic Modeling
+KW  - Modeling languages
+PB  - Association for Computing Machinery, Inc
+SN  - 978-145038732-3 (ISBN)
+LA  - English
+J2  - SIGIR - Proc. Int. ACM SIGIR Conf. Res. Dev. Inf. Retr.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 2; Conference name: 45th Annual International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR 2022; Conference date: 11 July 2022 through 15 July 2022; Conference code: 180740
+ER  -
+
+TY  - CONF
+AU  - Barale, C.
+TI  - Human-Centered Computing in Legal NLP An Application to Refugee Status Determination
+PY  - 2022
+T2  - HCI+NLP 2022 - 2nd Workshop on Bridging Human-Computer Interaction and Natural Language Processing, Proceedings of the Workshop
+SP  - 28
+EP  - 33
+DO  - 10.18653/v1/2022.hcinlp-1.4
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85137581347&doi=10.18653%2fv1%2f2022.hcinlp-1.4&partnerID=40&md5=e5c0df558dfa5ae736d0fbd50dea3fa1
+AD  - The University of Edinburgh, School of Informatics, Edinburgh, United Kingdom
+AB  - This paper proposes an approach to the design of an ethical human-AI reasoning support system for decision makers in refugee law. In the context of refugee status determination, practitioners mostly rely on text data. We therefore investigate human-AI cooperation in legal natural language processing. Specifically, we want to determine which design methods can be transposed to legal text analytics. Although little work has been done so far on human-centered design methods applicable to the legal domain, we assume that introducing iterative cooperation and user engagement in the design process is (1) a method to reduce technical limitations of an NLP system and (2) that it will help design more ethical and effective applications by taking users' preferences and feedback into account. The proposed methodology is based on three main design steps: cognitive process formalization in models understandable by both humans and computers, speculative design of prototypes, and semi-directed interviews with a sample of potential users. © 2022 Association for Computational Linguistics.
+KW  - Decision making
+KW  - Ethical technology
+KW  - Iterative methods
+KW  - Decision makers
+KW  - Design method
+KW  - Human-centered computing
+KW  - Language processing
+KW  - Legal texts
+KW  - Natural languages
+KW  - Status determination
+KW  - Support systems
+KW  - Text analytics
+KW  - Text data
+KW  - Natural language processing systems
+A2  - Blodgett S.L.
+A2  - Daume H.
+A2  - Madaio M.
+A2  - Nenkova A.
+A2  - O'Connor B.
+A2  - Wallach H.
+A2  - Yang Q.
+PB  - Association for Computational Linguistics (ACL)
+SN  - 978-195591790-2 (ISBN)
+LA  - English
+J2  - HCI+NLP - Workshop Bridg. Hum.-Comput. Interact. Nat. Lang. Process., Proc. Workshop
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 2; Correspondence Address: C. Barale; The University of Edinburgh, School of Informatics, Edinburgh, United Kingdom; email: claire.barale@ed.ac.uk; Conference name: 2nd Workshop on Bridging Human-Computer Interaction and Natural Language Processing, HCI+NLP 2022; Conference code: 182130
+ER  -
+
+TY  - CONF
+AU  - Csáki, C.
+AU  - Homoki, P.
+AU  - Görög, G.
+AU  - Vadász, P.
+TI  - NLP in the Legal Profession: How about Small Languages?
+PY  - 2022
+T2  - CEUR Workshop Proceedings
+VL  - 3399
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85176556934&partnerID=40&md5=046de06af74eb6029f2c65c596230138
+AD  - Corvinus University of Budapest, Fővám tér 8, Budapest, 1093, Hungary
+AD  - Homoki Law Office, Katona József u. 39, Budapest, 1137, Hungary
+AD  - Montana Ltd, Budapest, Hungary
+AD  - National University of Public Service, Ludovika tér 2, Budapest, 1083, Hungary
+AB  - Over the last three decades legal service providers as well as legal departments of various firms have embraced the opportunity to apply the latest digital technology to improve the efficiency and effectiveness of their work. Since language is central to both law-making and during the application of the law, Natural Language Processing solutions have found their way to this profession. One particular research area relates to the issue of small languages. The problem is rooted in the size of the population speaking a given language: in a small market, it is not economically feasible to develop NLP technologies as they require considerable time and effort to develop a sufficient language corpus. This paper reviews the challenges countries and jurisdictions of small languages face in light of increasing NLP applications in legal contexts, while also examining the role of the public sector in relation to addressing such issues. © 2022 Copyright for this paper by its authors.
+KW  - AI regulations
+KW  - Legal Tech
+KW  - Natural Language Processing
+KW  - small languages
+KW  - Artificial intelligence
+KW  - Laws and legislation
+KW  - AI regulation
+KW  - Language processing
+KW  - Legal department
+KW  - Legal profession
+KW  - Legal services
+KW  - Legal tech
+KW  - Natural language processing
+KW  - Natural languages
+KW  - Service provider
+KW  - Small language
+KW  - Natural language processing systems
+A2  - Janssen M.
+A2  - Csaki C.
+A2  - Johannessen M.R.
+A2  - Krimmer R.
+A2  - Lampoltshammer T.
+A2  - Lindgren I.
+A2  - Loukis E.
+A2  - Melin U.
+A2  - Parycek P.
+A2  - Pereira G.V.
+A2  - Bolivar M.P.R.
+A2  - Schwabe G.
+A2  - Tambouris E.
+A2  - Ubacht J.
+PB  - CEUR-WS
+SN  - 16130073 (ISSN)
+LA  - English
+J2  - CEUR Workshop Proc.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 0; Conference name: 2022 International Conference on IFIP WG 8.5 Electronic Government, E-Democracy and Open Government and IFIP WG 8.5 IFIP Electronic Participation, EGOV-CeDEM-ePart 2022; Conference date: 6 September 2022 through 8 September 2022; Conference code: 193901
+ER  -
+
+TY  - JOUR
+AU  - Alcántara Francia, O.A.
+AU  - Nunez-del-Prado, M.
+AU  - Alatrista-Salas, H.
+TI  - Survey of Text Mining Techniques Applied to Judicial Decisions Prediction
+PY  - 2022
+T2  - Applied Sciences (Switzerland)
+VL  - 12
+IS  - 20
+C7  - 10200
+DO  - 10.3390/app122010200
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85140488281&doi=10.3390%2fapp122010200&partnerID=40&md5=9f70b7efa1f63e03c9ee7961316edb7b
+AD  - Faculty of Law, Universidad de Lima, Lima, 15023, Peru
+AD  - Peru Research, Development and Innovation Center (Peru IDI), Lima, 15076, Peru
+AD  - Instituto de investigación de la Universidad de Andina del Cusco, Cusco, 080104, Peru
+AD  - Escuela de Posgrado Newman, Tacna, 23001, Peru
+AD  - Facultad de Ciencias e Ingeniería, Pontificia Universidad Católica del Perú, Lima, 15088, Peru
+AB  - This paper reviews the most recent literature on experiments with different Machine Learning, Deep Learning and Natural Language Processing techniques applied to predict judicial and administrative decisions. Among the most outstanding findings, we have that the most used data mining techniques are Support Vector Machine (SVM), K Nearest Neighbours (K-NN) and Random Forest (RF), and in terms of the most used deep learning techniques, we found Long-Term Memory (LSTM) and transformers such as BERT. An important finding in the papers reviewed was that the use of machine learning techniques has prevailed over those of deep learning. Regarding the place of origin of the research carried out, we found that 64% of the works belong to studies carried out in English-speaking countries, 8% in Portuguese and 28% in other languages (such as German, Chinese, Turkish, Spanish, etc.). Very few works of this type have been carried out in Spanish-speaking countries. The classification criteria of the works have been based, on the one hand, on the identification of the classifiers used to predict situations (or events with legal interference) or judicial decisions and, on the other hand, on the application of classifiers to the phenomena regulated by the different branches of law: criminal, constitutional, human rights, administrative, intellectual property, family law, tax law and others. The corpus size analyzed in the reviewed works reached 100,000 documents in 2020. Finally, another important finding lies in the accuracy of these predictive techniques, reaching predictions of over 60% in different branches of law. © 2022 by the authors.
+KW  - deep learning
+KW  - judicial prediction
+KW  - legal prediction
+KW  - legal tech
+KW  - machine learning
+KW  - natural language processing
+PB  - MDPI
+SN  - 20763417 (ISSN)
+LA  - English
+J2  - Appl. Sci.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 13; Correspondence Address: O.A. Alcántara Francia; Faculty of Law, Universidad de Lima, Lima, 15023, Peru; email: oalcanta@ulima.edu.pe; H. Alatrista-Salas; Escuela de Posgrado Newman, Tacna, 23001, Peru; email: halatrista@pucp.edu.pe
+ER  -
+

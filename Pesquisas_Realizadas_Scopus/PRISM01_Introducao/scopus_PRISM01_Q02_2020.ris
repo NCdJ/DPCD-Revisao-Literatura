@@ -1,0 +1,478 @@
+﻿TY  - JOUR
+AU  - Zheng, N.
+AU  - Du, S.
+AU  - Wang, J.
+AU  - Zhang, H.
+AU  - Cui, W.
+AU  - Kang, Z.
+AU  - Yang, T.
+AU  - Lou, B.
+AU  - Chi, Y.
+AU  - Long, H.
+AU  - Ma, M.
+AU  - Yuan, Q.
+AU  - Zhang, S.
+AU  - Zhang, D.
+AU  - Ye, F.
+AU  - Xin, J.
+TI  - Predicting COVID-19 in China Using Hybrid AI Model
+PY  - 2020
+T2  - IEEE Transactions on Cybernetics
+VL  - 50
+IS  - 7
+C7  - 9090302
+SP  - 2891
+EP  - 2904
+DO  - 10.1109/TCYB.2020.2990162
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85086747086&doi=10.1109%2fTCYB.2020.2990162&partnerID=40&md5=e653443e189f9659a6ebcb58ef5ee4b1
+AD  - Institute of Artificial Intelligence and Robotics, Xi'An Jiaotong University, Xi'an, China
+AD  - Infectious Department, First Affiliated Hospital of xi'An Jiaotong University, Xi'an, China
+AB  - The coronavirus disease 2019 (COVID-19) breaking out in late December 2019 is gradually being controlled in China, but it is still spreading rapidly in many other countries and regions worldwide. It is urgent to conduct prediction research on the development and spread of the epidemic. In this article, a hybrid artificial-intelligence (AI) model is proposed for COVID-19 prediction. First, as traditional epidemic models treat all individuals with coronavirus as having the same infection rate, an improved susceptible-infected (ISI) model is proposed to estimate the variety of the infection rates for analyzing the transmission laws and development trend. Second, considering the effects of prevention and control measures and the increase of the public's prevention awareness, the natural language processing (NLP) module and the long short-term memory (LSTM) network are embedded into the ISI model to build the hybrid AI model for COVID-19 prediction. The experimental results on the epidemic data of several typical provinces and cities in China show that individuals with coronavirus have a higher infection rate within the third to eighth days after they were infected, which is more in line with the actual transmission laws of the epidemic. Moreover, compared with the traditional epidemic models, the proposed hybrid AI model can significantly reduce the errors of the prediction results and obtain the mean absolute percentage errors (MAPEs) with 0.52%, 0.38%, 0.05%, and 0.86% for the next six days in Wuhan, Beijing, Shanghai, and countrywide, respectively.  © 2013 IEEE.
+KW  - Coronavirus disease 2019 (COVID-19) prediction
+KW  - epidemic model
+KW  - hybrid artificial-intelligence (AI) model
+KW  - natural language processing (NLP)
+KW  - Artificial Intelligence
+KW  - Betacoronavirus
+KW  - China
+KW  - Coronavirus Infections
+KW  - Humans
+KW  - Models, Statistical
+KW  - Natural Language Processing
+KW  - Pandemics
+KW  - Pneumonia, Viral
+KW  - Epidemiology
+KW  - Forecasting
+KW  - Natural language processing systems
+KW  - Development trends
+KW  - Hybrid artificial intelligences
+KW  - Infection rates
+KW  - Mean absolute percentage error
+KW  - NAtural language processing
+KW  - Prediction research
+KW  - Prevention and controls
+KW  - Transmission law
+KW  - artificial intelligence
+KW  - Betacoronavirus
+KW  - China
+KW  - Coronavirus infection
+KW  - human
+KW  - natural language processing
+KW  - pandemic
+KW  - statistical model
+KW  - virus pneumonia
+KW  - Long short-term memory
+PB  - Institute of Electrical and Electronics Engineers Inc.
+SN  - 21682267 (ISSN)
+C2  - 32396126
+LA  - English
+J2  - IEEE Trans. Cybern.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 204; Correspondence Address: N. Zheng; Institute of Artificial Intelligence and Robotics, Xi'An Jiaotong University, Xi'an, China; email: nnzheng@mail.xjtu.edu.cn; S. Du; Institute of Artificial Intelligence and Robotics, Xi'An Jiaotong University, Xi'an, China; email: dushaoyi@gmail.com
+ER  -
+
+TY  - CHAP
+AU  - Gerke, S.
+AU  - Minssen, T.
+AU  - Cohen, G.
+TI  - Ethical and legal challenges of artificial intelligence-driven healthcare
+PY  - 2020
+T2  - Artificial Intelligence in Healthcare
+SP  - 295
+EP  - 336
+DO  - 10.1016/B978-0-12-818438-7.00012-5
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85124923745&doi=10.1016%2fB978-0-12-818438-7.00012-5&partnerID=40&md5=11e67f7e7bd3a90f5c4c4d6ea002b7bd
+AD  - The Petrie-Flom Center for Health Law Policy, Biotechnology, and Bioethics at Harvard Law School, The Project on Precision Medicine, Artificial Intelligence, and the Law (PMAIL), Harvard University, Cambridge, MA, United States
+AD  - Centre for Advanced Studies in Biomedical Innovation Law (CeBIL), University of Copenhagen, Copenhagen, Denmark
+AD  - Harvard Law School, Cambridge, MA, United States
+AB  - This chapter will map the ethical and legal challenges posed by artificial intelligence (AI) in healthcare and suggest directions for resolving them. Section 1 will briefly clarify what AI is and Section 2 will give an idea of the trends and strategies in the United States (US) and Europe, thereby tailoring the discussion to the ethical and legal debate of AI-driven healthcare. This will be followed in Section 3 by a discussion of four primary ethical challenges, namely, (1) informed consent to use, (2) safety and transparency, (3) algorithmic fairness and biases, and (4) data privacy. Section 4 will then analyze five legal challenges in the US and Europe: (1) safety and effectiveness, (2) liability, (3) data protection and privacy, (4) cybersecurity, and (5) intellectual property law. Finally, Section 5 will summarize the major conclusions and especially emphasize the importance of building an AI-driven healthcare system that is successful and promotes trust and the motto Health AIs for All of Us. © 2020 Elsevier Inc. All rights reserved.
+KW  - Artificial intelligence (AI)
+KW  - Data protection and privacy
+KW  - Ethical challenges
+KW  - Safety and effectiveness
+KW  - US and EU law
+PB  - Elsevier
+SN  - 978-012818438-7 (ISBN)
+LA  - English
+J2  - Artificial Intelligence in Healthc.
+M3  - Book chapter
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 477
+ER  -
+
+TY  - CONF
+AU  - Zhong, H.
+AU  - Xiao, C.
+AU  - Tu, C.
+AU  - Zhang, T.
+AU  - Liu, Z.
+AU  - Sun, M.
+TI  - How does NLP benefit legal system: A summary of legal artificial intelligence
+PY  - 2020
+T2  - Proceedings of the Annual Meeting of the Association for Computational Linguistics
+SP  - 5218
+EP  - 5230
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85095496621&partnerID=40&md5=99d7ac463790590addb27ec2cd9791ec
+AD  - Department of Computer Science and Technology, Institute for Artificial Intelligence, Tsinghua University, Beijing, China
+AD  - Beijing National Research Center for Information Science and Technology, China
+AD  - Beijing Powerlaw Intelligent Technology Co., Ltd., China
+AB  - Legal Artificial Intelligence (LegalAI) focuses on applying the technology of artificial intelligence, especially natural language processing, to benefit tasks in the legal domain. In recent years, LegalAI has drawn increasing attention rapidly from both AI researchers and legal professionals, as LegalAI is beneficial to the legal system for liberating legal professionals from a maze of paperwork. Legal professionals often think about how to solve tasks from rule-based and symbol-based methods, while NLP researchers concentrate more on data-driven and embedding methods. In this paper, we describe the history, the current state, and the future directions of research in LegalAI. We illustrate the tasks from the perspectives of legal professionals and NLP researchers and show several representative applications in LegalAI. We conduct experiments and provide an in-depth analysis of the advantages and disadvantages of existing works to explore possible future directions. You can find the implementation of our work from https://github.com/thunlp/CLAIM. © 2020 Association for Computational Linguistics
+KW  - Artificial intelligence
+KW  - Computational linguistics
+KW  - Laws and legislation
+KW  - 'current
+KW  - Data embedding methods
+KW  - Data-driven methods
+KW  - In-depth analysis
+KW  - Language processing
+KW  - Legal domains
+KW  - Legal system
+KW  - Natural languages
+KW  - Possible futures
+KW  - Rule based
+KW  - Natural language processing systems
+PB  - Association for Computational Linguistics (ACL)
+SN  - 0736587X (ISSN); 978-195214825-5 (ISBN)
+LA  - English
+J2  - Proc. Annu. Meet. Assoc. Comput Linguist.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 163; Correspondence Address: Z. Liu; Department of Computer Science and Technology, Institute for Artificial Intelligence, Tsinghua University, Beijing, China; email: lzy@tsinghua.edu.cn; Conference name: 58th Annual Meeting of the Association for Computational Linguistics, ACL 2020; Conference date: 5 July 2020 through 10 July 2020; Conference code: 172533
+ER  -
+
+TY  - JOUR
+AU  - Deng, B.L.
+AU  - Li, G.
+AU  - Han, S.
+AU  - Shi, L.
+AU  - Xie, Y.
+TI  - Model Compression and Hardware Acceleration for Neural Networks: A Comprehensive Survey
+PY  - 2020
+T2  - Proceedings of the IEEE
+VL  - 108
+IS  - 4
+C7  - 9043731
+SP  - 485
+EP  - 532
+DO  - 10.1109/JPROC.2020.2976475
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85082065500&doi=10.1109%2fJPROC.2020.2976475&partnerID=40&md5=dcfa6f36623f1b8e212d81c5c93acde3
+AD  - Department of Precision Instrument, Center for Brain Inspired Computing Research, Tsinghua University, Beijing, 100084, China
+AD  - Department of Electrical Engineering and Computer Science, Massachusetts Institute of Technology, Cambridge, MA, United States
+AD  - Department of Electrical and Computer Engineering, University of California at Santa Barbara, Santa Barbara, CA, United States
+AB  - Domain-specific hardware is becoming a promising topic in the backdrop of improvement slow down for general-purpose processors due to the foreseeable end of Moore's Law. Machine learning, especially deep neural networks (DNNs), has become the most dazzling domain witnessing successful applications in a wide spectrum of artificial intelligence (AI) tasks. The incomparable accuracy of DNNs is achieved by paying the cost of hungry memory consumption and high computational complexity, which greatly impedes their deployment in embedded systems. Therefore, the DNN compression concept was naturally proposed and widely used for memory saving and compute acceleration. In the past few years, a tremendous number of compression techniques have sprung up to pursue a satisfactory tradeoff between processing efficiency and application accuracy. Recently, this wave has spread to the design of neural network accelerators for gaining extremely high performance. However, the amount of related works is incredibly huge and the reported approaches are quite divergent. This research chaos motivates us to provide a comprehensive survey on the recent advances toward the goal of efficient compression and execution of DNNs without significantly compromising accuracy, involving both the high-level algorithms and their applications in hardware design. In this article, we review the mainstream compression approaches such as compact model, tensor decomposition, data quantization, and network sparsification. We explain their compression principles, evaluation metrics, sensitivity analysis, and joint-way use. Then, we answer the question of how to leverage these methods in the design of neural network accelerators and present the state-of-the-art hardware architectures. In the end, we discuss several existing issues such as fair comparison, testing workloads, automatic compression, influence on security, and framework/hardware-level support, and give promising topics in this field and the possible challenges as well. This article attempts to enable readers to quickly build up a big picture of neural network compression and acceleration, clearly evaluate various methods, and confidently get started in the right way. © 1963-2012 IEEE.
+KW  - Compact neural network
+KW  - data quantization
+KW  - neural network acceleration
+KW  - neural network compression
+KW  - sparse neural network
+KW  - tensor decomposition
+KW  - Acceleration
+KW  - Artificial intelligence
+KW  - Embedded systems
+KW  - General purpose computers
+KW  - Sensitivity analysis
+KW  - Surveys
+KW  - Tensors
+KW  - Well testing
+KW  - Compression techniques
+KW  - Data quantizations
+KW  - General purpose processors
+KW  - Hardware acceleration
+KW  - High level algorithms
+KW  - Network compression
+KW  - Sparse neural networks
+KW  - Tensor decomposition
+KW  - Deep neural networks
+PB  - Institute of Electrical and Electronics Engineers Inc.
+SN  - 00189219 (ISSN)
+LA  - English
+J2  - Proc. IEEE
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 627; Correspondence Address: B.L. Deng; Department of Precision Instrument, Center for Brain Inspired Computing Research, Tsinghua University, Beijing, 100084, China; email: leideng@ucsb.edu; CODEN: IEEPA
+ER  -
+
+TY  - JOUR
+AU  - Ntoutsi, E.
+AU  - Fafalios, P.
+AU  - Gadiraju, U.
+AU  - Iosifidis, V.
+AU  - Nejdl, W.
+AU  - Vidal, M.-E.
+AU  - Ruggieri, S.
+AU  - Turini, F.
+AU  - Papadopoulos, S.
+AU  - Krasanakis, E.
+AU  - Kompatsiaris, I.
+AU  - Kinder-Kurlanda, K.
+AU  - Wagner, C.
+AU  - Karimi, F.
+AU  - Fernandez, M.
+AU  - Alani, H.
+AU  - Berendt, B.
+AU  - Kruegel, T.
+AU  - Heinze, C.
+AU  - Broelemann, K.
+AU  - Kasneci, G.
+AU  - Tiropanis, T.
+AU  - Staab, S.
+TI  - Bias in data-driven artificial intelligence systems—An introductory survey
+PY  - 2020
+T2  - Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery
+VL  - 10
+IS  - 3
+C7  - e1356
+DO  - 10.1002/widm.1356
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85078894838&doi=10.1002%2fwidm.1356&partnerID=40&md5=f56beb887eea8a90beedb2f5aa428c10
+AD  - L3S Research Center & Faculty of Electrical Engineering and Computer Science, Leibniz University Hannover, Hannover, Germany
+AD  - Institute of Computer Science, Foundation for Research and Technology-Hellas (FORTH-ICS), Heraklion, Greece
+AD  - TIB Leibniz Information Centre For Science and Tecnhnology, Hannover, Germany
+AD  - KDDLAB, Dipartimento di Informatica, Università di Pisa, Pisa, Italy
+AD  - Information Technologies Institute, The Centre for Research & Technology, Hellas (CERTH), Thessaloniki, Greece
+AD  - GESIS Leibniz Institute for the Social Sciences, Cologne, Germany
+AD  - Knowledge Media Institute, The Open University, Milton Keynes, United Kingdom
+AD  - Faculty of Electrical Engineering and Computer Science, TU Berlin, Berlin, Germany
+AD  - Department of Computer Science, KU Leuven, Leuven, Belgium
+AD  - Institute for Legal Informatics, Leibniz University of Hanover, Hanover, Germany
+AD  - Innovation Lab, SCHUFA Holding AG, Wiesbaden, Germany
+AD  - Electronics and Computer Science, University of Southampton, Southampton, United Kingdom
+AD  - Institute for Parallel and Distributed Systems, University of Stuttgart, Germany
+AB  - Artificial Intelligence (AI)-based systems are widely employed nowadays to make decisions that have far-reaching impact on individuals and society. Their decisions might affect everyone, everywhere, and anytime, entailing concerns about potential human rights issues. Therefore, it is necessary to move beyond traditional AI algorithms optimized for predictive performance and embed ethical and legal principles in their design, training, and deployment to ensure social good while still benefiting from the huge potential of the AI technology. The goal of this survey is to provide a broad multidisciplinary overview of the area of bias in AI systems, focusing on technical challenges and solutions as well as to suggest new research directions towards approaches well-grounded in a legal frame. In this survey, we focus on data-driven AI, as a large part of AI is powered nowadays by (big) data and powerful machine learning algorithms. If otherwise not specified, we use the general term bias to describe problems related to the gathering or processing of data that might result in prejudiced decisions on the bases of demographic features such as race, sex, and so forth. This article is categorized under: Commercial, Legal, and Ethical Issues > Fairness in Data Mining Commercial, Legal, and Ethical Issues > Ethical Considerations Commercial, Legal, and Ethical Issues > Legal Issues. © 2020 The Authors. WIREs Data Mining and Knowledge Discovery published by Wiley Periodicals, Inc.
+KW  - fairness
+KW  - fairness-aware AI
+KW  - fairness-aware machine learning
+KW  - interpretability
+KW  - responsible AI
+KW  - Data handling
+KW  - Data mining
+KW  - Laws and legislation
+KW  - Learning algorithms
+KW  - Philosophical aspects
+KW  - Surveys
+KW  - Artificial intelligence systems
+KW  - Demographic features
+KW  - Ethical considerations
+KW  - fairness
+KW  - Interpretability
+KW  - Legal principles
+KW  - Predictive performance
+KW  - Technical challenges
+KW  - Machine learning
+PB  - Wiley-Blackwell
+SN  - 19424787 (ISSN)
+LA  - English
+J2  - Wiley Interdiscip. Rev. Data Min. Knowl. Discov.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 492; Correspondence Address: E. Ntoutsi; L3S Research Center & Faculty of Electrical Engineering and Computer Science, Leibniz University Hannover, Hannover, Germany; email: ntoutsi@l3s.de
+ER  -
+
+TY  - JOUR
+AU  - Zeadally, S.
+AU  - Adi, E.
+AU  - Baig, Z.
+AU  - Khan, I.A.
+TI  - Harnessing artificial intelligence capabilities to improve cybersecurity
+PY  - 2020
+T2  - IEEE Access
+VL  - 8
+C7  - 8963730
+SP  - 23817
+EP  - 23837
+DO  - 10.1109/ACCESS.2020.2968045
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85081092292&doi=10.1109%2fACCESS.2020.2968045&partnerID=40&md5=e8167b180aa5dfc188fd71079043c199
+AD  - College of Communication and Information, University of Kentucky, Lexington, 40506-0224, KY, United States
+AD  - Unsw Canberra Cyber, University of New South Wales, Northcott Drive, Campbell, 2600, ACT, Australia
+AD  - School of Information Technology, Deakin University, Geelong, 3220, VIC, Australia
+AB  - Cybersecurity is a fast-evolving discipline that is always in the news over the last decade, as the number of threats rises and cybercriminals constantly endeavor to stay a step ahead of law enforcement. Over the years, although the original motives for carrying out cyberattacks largely remain unchanged, cybercriminals have become increasingly sophisticated with their techniques. Traditional cybersecurity solutions are becoming inadequate at detecting and mitigating emerging cyberattacks. Advances in cryptographic and Artificial Intelligence (AI) techniques (in particular, machine learning and deep learning) show promise in enabling cybersecurity experts to counter the ever-evolving threat posed by adversaries. Here, we explore AI's potential in improving cybersecurity solutions, by identifying both its strengths and weaknesses. We also discuss future research opportunities associated with the development of AI techniques in the cybersecurity field across a range of application domains. © 2013 IEEE.
+KW  - Artificial intelligence
+KW  - cyberattacks
+KW  - cybersecurity
+KW  - machine learning
+KW  - Artificial intelligence
+KW  - Learning systems
+KW  - AI techniques
+KW  - Cyber security
+KW  - Cyber-attacks
+KW  - Cybercriminals
+KW  - Research opportunities
+KW  - Deep learning
+PB  - Institute of Electrical and Electronics Engineers Inc.
+SN  - 21693536 (ISSN)
+LA  - English
+J2  - IEEE Access
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 148; Correspondence Address: S. Zeadally; College of Communication and Information, University of Kentucky, Lexington, 40506-0224, United States; email: szeadally@uky.edu
+ER  -
+
+TY  - CONF
+AU  - Wieringa, M.
+TI  - What to account for when accounting for algorithms: A systematic literature review on algorithmic accountability
+PY  - 2020
+T2  - FAT* 2020 - Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency
+SP  - 1
+EP  - 18
+DO  - 10.1145/3351095.3372833
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85079673311&doi=10.1145%2f3351095.3372833&partnerID=40&md5=0a05089ed34fe98ea3d1f469fe907336
+AD  - Datafied Society, Utrecht University, Utrecht, Netherlands
+AB  - As research on algorithms and their impact proliferates, so do calls for scrutiny/accountability of algorithms. A systematic review of the work that has been done in the field of'algorithmic accountability' has so far been lacking. This contribution puts forth such a systematic review, following the PRISMA statement. 242 English articles from the period 2008 up to and including 2018 were collected and extracted from Web of Science and SCOPUS, using a recursive query design coupled with computational methods. The 242 articles were prioritized and ordered using affinity mapping, resulting in 93'core articles' which are presented in this contribution. The recursive search strategy made it possible to look beyond the term'algorithmic accountability'. That is, the query also included terms closely connected to the theme (e.g. ethics and AI, regulation of algorithms). This approach allows for a perspective not just from critical algorithm studies, but an interdisciplinary overview drawing on material from data studies to law, and from computer science to governance studies. To structure the material, Bovens's widely accepted definition of accountability serves as a focal point. The material is analyzed on the five points Bovens identified as integral to accountability: its arguments on (1) the actor, (2) the forum, (3) the relationship between the two, (3) the content and criteria of the account, and finally (5) the consequences which may result from the account. The review makes three contributions. First, an integration of accountability theory in the algorithmic accountability discussion. Second, a cross-sectoral overview of the that same discussion viewed in light of accountability theory which pays extra attention to accountability risks in algorithmic systems. Lastly, it provides a definition of algorithmic accountability based on accountability theory and algorithmic accountability literature. © 2020 Copyright held by the owner/author(s). Publication rights licensed to ACM.
+KW  - Accountability theory
+KW  - Algorithmic accountability
+KW  - Algorithmic systems
+KW  - Data-driven governance
+KW  - Transparency
+KW  - Accountability theory
+KW  - Algorithm study
+KW  - Algorithmic accountability
+KW  - Data driven
+KW  - Search strategies
+KW  - Systematic literature review
+KW  - Systematic Review
+KW  - Web of Science
+KW  - Computation theory
+PB  - Association for Computing Machinery, Inc
+SN  - 978-145036936-7 (ISBN)
+LA  - English
+J2  - FAT* - Proc. Conf. Fairness, Account., Transpar.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 180; Correspondence Address: M. Wieringa; Datafied Society, Utrecht University, Utrecht, Netherlands; email: m.a.wieringa@uu.nl; Conference name: 3rd ACM Conference on Fairness, Accountability, and Transparency, FAT* 2020; Conference date: 27 January 2020 through 30 January 2020; Conference code: 157226
+ER  -
+
+TY  - JOUR
+AU  - Schepman, A.
+AU  - Rodway, P.
+TI  - Initial validation of the general attitudes towards Artificial Intelligence Scale
+PY  - 2020
+T2  - Computers in Human Behavior Reports
+VL  - 1
+C7  - 100014
+DO  - 10.1016/j.chbr.2020.100014
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85096303826&doi=10.1016%2fj.chbr.2020.100014&partnerID=40&md5=c54f2a3def013f2c3909c142b41dc944
+AD  - School of Psychology, University of Chester, United Kingdom
+AB  - A new General Attitudes towards Artificial Intelligence Scale (GAAIS) was developed. The scale underwent initial statistical validation via Exploratory Factor Analysis, which identified positive and negative subscales. Both subscales captured emotions in line with their valence. In addition, the positive subscale reflected societal and personal utility, whereas the negative subscale reflected concerns. The scale showed good psychometric indices and convergent and discriminant validity against existing measures. To cross-validate general attitudes with attitudes towards specific instances of AI applications, summaries of tasks accomplished by specific applications of Artificial Intelligence were sourced from newspaper articles. These were rated for comfortableness and perceived capability. Comfortableness with specific applications was a strong predictor of general attitudes as measured by the GAAIS, but perceived capability was a weaker predictor. Participants viewed AI applications involving big data (e.g. astronomy, law, pharmacology) positively, but viewed applications for tasks involving human judgement, (e.g. medical treatment, psychological counselling) negatively. Applications with a strong ethical dimension led to stronger discomfort than their rated capabilities would predict. The survey data suggested that people held mixed views of AI. The initially validated two-factor GAAIS to measure General Attitudes towards Artificial Intelligence is included in the Appendix. © 2020 The Authors
+KW  - Artificial intelligence
+KW  - Attitudes
+KW  - Index
+KW  - Perception
+KW  - Psychometrics
+KW  - Questionnaire
+PB  - Elsevier B.V.
+SN  - 24519588 (ISSN)
+LA  - English
+J2  - Comput. Hum. Behav. Rep.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 181; Correspondence Address: A. Schepman; School of Psychology, University of Chester, Chester, Parkgate Road, Cheshire, CH1 4BJ, United Kingdom; email: a.schepman@chester.ac.uk
+ER  -
+
+TY  - CHAP
+AU  - Yang, Q.
+AU  - Liu, Y.
+AU  - Cheng, Y.
+AU  - Kang, Y.
+AU  - Chen, T.
+AU  - Yu, H.
+TI  - Federated Learning
+PY  - 2020
+T2  - Synthesis Lectures on Artificial Intelligence and Machine Learning
+VL  - 13
+IS  - 3
+SP  - 1
+EP  - 207
+DO  - 10.2200/S00960ED2V01Y201910AIM043
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85077012851&doi=10.2200%2fS00960ED2V01Y201910AIM043&partnerID=40&md5=a92be548b913b93681c705b9b9bf4cf0
+AD  - We Bank and Hong Kong University of Science and Technology, China
+AD  - We Bank, China
+AD  - Nanyang Technological University, Singapore, Singapore
+AB  - How is it possible to allow multiple data owners to collaboratively train and use a shared prediction model while keeping all the local training data private Traditional machine learning approaches need to combine all data at one location, typically a data center, which may very well violate the laws on user privacy and data confidentiality. Today, many parts of the world demand that technology companies treat user data carefully according to user-privacy laws. The European Union's General Data Protection Regulation (GDPR) is a prime example. In this book, we describe how federated machine learning addresses this problem with novel solutions combining distributed machine learning, cryptography and security, and incentive mechanism design based on economic principles and game theory. We explain different types of privacy-preserving machine learning solutions and their technological backgrounds, and highlight some representative practical use cases. We show how federated learning can become the foundation of next-generation machine learning that caters to technological and societal needs for responsible AI development and application. Table of Contents: Preface / Acknowledgments / Introduction / Background / Distributed Machine Learning / Horizontal Federated Learning / Vertical Federated Learning / Federated Transfer Learning / Incentive Mechanism Design for Federated Learning / Federated Learning for Vision, Language, and Recommendation / Federated Reinforcement Learning / Selected Applications / Summary and Outlook / Bibliography / Authors' Biographies Copyright © 2019 by Morgan Claypool.
+KW  - artificial intelligence
+KW  - data confidentiality
+KW  - federated learning
+KW  - GDPR
+KW  - machine learning algorithms
+KW  - privacy preserving machine learning
+KW  - privacy regulations
+KW  - secure multi-party computation
+KW  - transfer learning
+KW  - Artificial intelligence
+KW  - Computation theory
+KW  - Data privacy
+KW  - Game theory
+KW  - Laws and legislation
+KW  - Learning algorithms
+KW  - Learning systems
+KW  - Machine design
+KW  - Reinforcement learning
+KW  - Data confidentiality
+KW  - federated learning
+KW  - GDPR
+KW  - Privacy preserving
+KW  - Privacy regulation
+KW  - Secure multi-party computation
+KW  - Transfer learning
+KW  - Machine learning
+PB  - Morgan and Claypool Publishers
+SN  - 19394608 (ISSN)
+LA  - English
+J2  - Synth. Lect. Artif. Intell. Mach. Learn.
+M3  - Book chapter
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 474
+ER  -
+
+TY  - JOUR
+AU  - Neri, E.
+AU  - Coppola, F.
+AU  - Miele, V.
+AU  - Bibbolino, C.
+AU  - Grassi, R.
+TI  - Artificial intelligence: Who is responsible for the diagnosis?
+PY  - 2020
+T2  - Radiologia Medica
+VL  - 125
+IS  - 6
+SP  - 517
+EP  - 521
+DO  - 10.1007/s11547-020-01135-9
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85078926073&doi=10.1007%2fs11547-020-01135-9&partnerID=40&md5=ff7f69164cd7ef6ff7d28277451532cc
+AD  - Diagnostic Radiology 3, Department of Translational Research, University of Pisa, Pisa, Italy
+AD  - Radiology Unit, Department of Diagnostic and Preventive Medicine, Sant’ Orsola Malpighi University Hospital, Bologna, Italy
+AD  - Department of Emergency Radiology, University Hospital Careggi, Florence, Italy
+AD  - SNR Foundation, Rome, Italy
+AD  - Department of Radiology, University of Campania “Luigi Vanvitelli”, Naples, Italy
+AB  - The aim of the paper is to find an answer to the question “Who or what is responsible for the benefits and harms of using artificial intelligence in radiology?” When human beings make decisions, the action itself is normally connected with a direct responsibility by the agent who generated the action. You have an effect on others, and therefore, you are responsible for what you do and what you decide to do. But if you do not do this yourself, but an artificial intelligence system, it becomes difficult and important to be able to ascribe responsibility when something goes wrong. The manuscript addresses the following statements: (1) using AI, the radiologist is responsible for the diagnosis; (2) radiologists must be trained on the use of AI since they are responsible for the actions of machines; (3) radiologists involved in R&D have the responsibility to guide the respect of rules for a trustworthy AI; (4) radiologist responsibility is at risk of validating the unknown (black box); (5) radiologist decision may be biased by the AI automation; (6)risk of a paradox: increasing AI tools to compensate the lack of radiologists; (7) need of informed consent and quality measures. Future legislation must outline the contours of the professional’s responsibility, with respect to the provision of the service performed autonomously by AI, balancing the professional’s ability to influence and therefore correct the machine, limiting the sphere of autonomy that instead technological evolution would like to recognize to robots. © 2020, Italian Society of Medical Radiology.
+KW  - Artificial Intelligence
+KW  - Ethics
+KW  - Radiology
+KW  - Robotics
+KW  - Artificial Intelligence
+KW  - Clinical Competence
+KW  - Humans
+KW  - Liability, Legal
+KW  - Radiology
+KW  - artificial intelligence
+KW  - editorial
+KW  - human
+KW  - informed consent
+KW  - law
+KW  - radiologist
+KW  - radiology
+KW  - responsibility
+KW  - robotics
+KW  - clinical competence
+KW  - ethics
+KW  - legal liability
+KW  - radiology
+PB  - Springer
+SN  - 00338362 (ISSN)
+C2  - 32006241
+LA  - English
+J2  - Radiol. Med.
+M3  - Editorial
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 146; Correspondence Address: E. Neri; Diagnostic Radiology 3, Department of Translational Research, University of Pisa, Pisa, Italy; email: emanuele.neri@med.unipi.it; CODEN: RAMEA
+ER  -
+

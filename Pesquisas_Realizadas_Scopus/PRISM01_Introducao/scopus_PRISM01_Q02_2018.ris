@@ -1,0 +1,357 @@
+﻿TY  - CONF
+AU  - Erdélyi, O.J.
+AU  - Goldsmith, J.
+TI  - Regulating Artificial Intelligence Proposal for a Global Solution
+PY  - 2018
+T2  - AIES 2018 - Proceedings of the 2018 AAAI/ACM Conference on AI, Ethics, and Society
+SP  - 95
+EP  - 101
+DO  - 10.1145/3278721.3278731
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85055699089&doi=10.1145%2f3278721.3278731&partnerID=40&md5=8c067843d577237a811962c29d63b7fe
+AD  - School of Law, University of Canterbury, Christchurch, New Zealand
+AD  - Department of Computer Science, University of Kentucky, Lexington, KY, United States
+AB  - Given the ubiquity of artificial intelligence (AI) in modern societies, it is clear that individuals, corporations, and countries will be grappling with the legal and ethical issues of its use. As global problems require global solutions, we propose the establishment of an international AI regulatory agency that - drawing on interdisciplinary expertise - could create a unified framework for the regulation of AI technologies and inform the development of AI policies around the world. We urge that such an organization be developed with all deliberate haste, as issues such as cryptocurrencies, personalized political ad hacking, autonomous vehicles and autonomous weaponized agents are already a reality, affecting international trade, politics, and war. © 2018 ACM.
+KW  - hard/soft law
+KW  - international governance
+KW  - international organizations
+KW  - transnational legal ordering
+KW  - Autonomous vehicles
+KW  - International trade
+KW  - Personal computing
+KW  - Philosophical aspects
+KW  - Global problems
+KW  - Global solutions
+KW  - hard/soft law
+KW  - international governance
+KW  - International organizations
+KW  - Legal ordering
+KW  - Regulatory agencies
+KW  - Unified framework
+KW  - Artificial intelligence
+PB  - Association for Computing Machinery, Inc
+SN  - 978-145036012-8 (ISBN)
+LA  - English
+J2  - AIES - Proc. AAAI/ACM Conf. AI, Ethics, Soc.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 64; Conference name: 1st AAAI/ACM Conference on AI, Ethics, and Society, AIES 2018; Conference date: 2 February 2018 through 3 February 2018; Conference code: 144126
+ER  -
+
+TY  - JOUR
+AU  - Cath, C.
+TI  - Governing artificial intelligence: Ethical, legal and technical opportunities and challenges
+PY  - 2018
+T2  - Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences
+VL  - 376
+IS  - 2133
+C7  - 0080
+DO  - 10.1098/rsta.2018.0080
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85055079335&doi=10.1098%2frsta.2018.0080&partnerID=40&md5=68363eb30afbc3b77fce2c6dfecb854c
+AD  - Oxford Internet Institute, University of Oxford, 1 St Giles, Oxford, OX1 3JS, United Kingdom
+AD  - Alan Turing Institute, 96 Euston Road, London, NW1 2DB, United Kingdom
+AB  - This paper is the introduction to the special issue entitled: 'Governing artificial intelligence: ethical, legal and technical opportunities and challenges. Artificial intelligence (AI) increasingly permeates every aspect of our society, from the critical, like urban infrastructure, law enforcement, banking, healthcare and humanitarian aid, to the mundane like dating. AI, including embodied AI in robotics and techniques like machine learning, can improve economic, social welfare and the exercise of human rights. Owing to the proliferation of AI in high-risk areas, the pressure is mounting to design and govern AI to be accountable, fair and transparent. How can this be achieved and through which frameworks? This is one of the central questions addressed in this special issue, in which eight authors present in-depth analyses of the ethical, legal-regulatory and technical challenges posed by developing governance regimes for AI systems. It also gives a brief overview of recent developments in AI governance, how much of the agenda for defining AI regulation, ethical frameworks and technical approaches is set, as well as providing some concrete suggestions to further the debate on AI governance. This article is part of the theme issue 'Governing artificial intelligence: ethical, legal, and technical opportunities and challenges'. © 2018 The Author(s) Published by the Royal Society. All rights reserved.
+KW  - Artificial intelligence
+KW  - Culture
+KW  - Ethics
+KW  - Governance
+KW  - Law
+KW  - Technology
+KW  - Artificial intelligence
+KW  - Cell culture
+KW  - Learning systems
+KW  - Philosophical aspects
+KW  - Ethics
+KW  - Governance
+KW  - High-risk areas
+KW  - Human rights
+KW  - In-depth analysis
+KW  - Social welfare
+KW  - Technical challenges
+KW  - Urban infrastructure
+KW  - Laws and legislation
+PB  - Royal Society Publishing
+SN  - 1364503X (ISSN)
+C2  - 30322996
+LA  - English
+J2  - Philos. Trans. R. Soc. A Math. Phys. Eng. Sci.
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 258; Correspondence Address: C. Cath; Oxford Internet Institute, University of Oxford, Oxford, 1 St Giles, OX1 3JS, United Kingdom; email: ccath@turing.ac.uk
+ER  -
+
+TY  - JOUR
+AU  - Nemitz, P.
+TI  - Constitutional democracy and technology in the age of artificial intelligence
+PY  - 2018
+T2  - Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences
+VL  - 376
+IS  - 2133
+C7  - 0089
+DO  - 10.1098/rsta.2018.0089
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85055081079&doi=10.1098%2frsta.2018.0089&partnerID=40&md5=9cc7eea2a2e6932ccff3b67aca8fedee
+AD  - European Commission, Directorate General for Justice and Consumers, 59, Rue Montoyer, Brussels, 1049, Belgium
+AB  - Given the foreseeable pervasiveness of artificial intelligence (AI) in modern societies, it is legitimate and necessary to ask the question how this new technology must be shaped to support the maintenance and strengthening of constitutional democracy. This paper first describes the four core elements of today's digital power concentration, which need to be seen in cumulation and which, seen together, are both a threat to democracy and to functioning markets. It then recalls the experience with the lawless Internet and the relationship between technology and the law as it has developed in the Internet economy and the experience with GDPR before it moves on to the key question for AI in democracy, namely which of the challenges of AI can be safely and with good conscience left to ethics, and which challenges of AI need to be addressed by rules which are enforceable and encompass the legitimacy of democratic process, thus laws. The paper closes with a call for a new culture of incorporating the principles of democracy, rule of law and human rights by design in AI and a three-level technological impact assessment for new technologies like AI as a practical way forward for this purpose. This article is part of a theme issue 'Governing artificial intelligence: ethical, legal, and technical opportunities and challenges'. © 2018 The Author(s) Published by the Royal Society. All rights reserved.
+KW  - Artificial intelligence
+KW  - Democracy
+KW  - Digital power
+KW  - Ethics
+KW  - GDPR
+KW  - Law
+KW  - Rule of law
+KW  - Laws and legislation
+KW  - Philosophical aspects
+KW  - Democracy
+KW  - Digital power
+KW  - Ethics
+KW  - GDPR
+KW  - Rule of law
+KW  - Artificial intelligence
+PB  - Royal Society Publishing
+SN  - 1364503X (ISSN)
+C2  - 30323003
+LA  - English
+J2  - Philos. Trans. R. Soc. A Math. Phys. Eng. Sci.
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 166; Correspondence Address: P. Nemitz; European Commission, Directorate General for Justice and Consumers, Brussels, 59, Rue Montoyer, 1049, Belgium; email: paul.nemitz@ec.europa.eu
+ER  -
+
+TY  - JOUR
+AU  - Villaronga, E.F.
+AU  - Kieseberg, P.
+AU  - Li, T.
+TI  - Humans forget, machines remember: Artificial intelligence and the Right to Be Forgotten
+PY  - 2018
+T2  - Computer Law and Security Review
+VL  - 34
+IS  - 2
+SP  - 304
+EP  - 313
+DO  - 10.1016/j.clsr.2017.08.007
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85031723707&doi=10.1016%2fj.clsr.2017.08.007&partnerID=40&md5=17e19ba99205860668f14aa0b39292b9
+AD  - University of Twente, Enschede, Netherlands
+AD  - SBA Research, Vienna, Austria
+AD  - Yale Law School Information Society Project, Wikimedia/Yale Law School Initiative on Intermediaries and Information, New Haven, CT, United States
+AD  - Princeton Center for Information Technology Policy, Princeton, NJ, United States
+AB  - This article examines the problem of AI memory and the Right to Be Forgotten. First, this article analyzes the legal background behind the Right to Be Forgotten, in order to understand its potential applicability to AI, including a discussion on the antagonism between the values of privacy and transparency under current E.U. privacy law. Next, the authors explore whether the Right to Be Forgotten is practicable or beneficial in an AI/machine learning context, in order to understand whether and how the law should address the Right to Be Forgotten in a post-AI world. The authors discuss the technical problems faced when adhering to strict interpretation of data deletion requirements under the Right to Be Forgotten, ultimately concluding that it may be impossible to fulfill the legal aims of the Right to Be Forgotten in artificial intelligence environments. Finally, this article addresses the core issue at the heart of the AI and Right to Be Forgotten problem: the unfortunate dearth of interdisciplinary scholarship supporting privacy law and regulation. © 2018 Eduard Fosch Villaronga
+KW  - Artificial intelligence (AI)
+KW  - Data deletion
+KW  - Memory
+KW  - Privacy
+KW  - Right to Be Forgotten
+KW  - Artificial intelligence
+KW  - Data privacy
+KW  - Data storage equipment
+KW  - Data deletion
+KW  - Interpretation of data
+KW  - Learning context
+KW  - Privacy law
+KW  - Right to be forgotten
+KW  - Laws and legislation
+PB  - Elsevier Ltd
+SN  - 02673649 (ISSN)
+LA  - English
+J2  - Comput Law Secur. Rev.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 109; Correspondence Address: E.F. Villaronga; University of Twente, Enschede, Drienerlolaan 5, 7522, Netherlands; email: e.foschvillaronga@utwente.nl; CODEN: CLSRE
+ER  -
+
+TY  - BOOK
+AU  - Turner, J.
+TI  - Robot rules: Regulating artificial intelligence
+PY  - 2018
+T2  - Robot Rules: Regulating Artificial Intelligence
+SP  - 1
+EP  - 377
+DO  - 10.1007/978-3-319-96235-1
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85074583840&doi=10.1007%2f978-3-319-96235-1&partnerID=40&md5=bc794bf43975253fe2768fb087008846
+AD  - Fountain Court Chambers, London, United Kingdom
+AB  - This book explains why AI is unique, what legal and ethical problems it could cause, and how we can address them. It argues that AI is unlike any other previous technology, owing to its ability to take decisions independently and unpredictably. This gives rise to three issues: responsibility--who is liable if AI causes harm; rights--the disputed moral and pragmatic grounds for granting AI legal personality; and the ethics surrounding the decision-making of AI. The book suggests that in order to address these questions we need to develop new institutions and regulations on a cross-industry and international level. Incorporating clear explanations of complex topics, Robot Rules will appeal to a multi-disciplinary audience, from those with an interest in law, politics and philosophy, to computer programming, engineering and neuroscience. © The Editor(s) (if applicable) and The Author(s) 2019. All right reserved.
+PB  - Springer International Publishing
+SN  - 978-331996235-1 (ISBN); 978-331996234-4 (ISBN)
+LA  - English
+J2  - Robot Rules: Regul. Artif. Intell.
+M3  - Book
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 81
+ER  -
+
+TY  - JOUR
+AU  - Reed, C.
+TI  - How should we regulate artificial intelligence?
+PY  - 2018
+T2  - Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences
+VL  - 376
+IS  - 2128
+C7  - 20170360
+DO  - 10.1098/rsta.2017.0360
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85060243306&doi=10.1098%2frsta.2017.0360&partnerID=40&md5=159a868b6ae750536efd94f43733f588
+AD  - Centre for Commercial Law Studies, School of Law, Queen Mary University of London, London, United Kingdom
+AB  - Using artificial intelligence (AI) technology to replace human decision-making will inevitably create new risks whose consequences are unforeseeable. This naturally leads to calls for regulation, but I argue that it is too early to attempt a general system of AI regulation. Instead, we should work incrementally within the existing legal and regulatory schemes which allocate responsibility, and therefore liability, to persons. Where AI clearly creates risks which current law and regulation cannot deal with adequately, then new regulation will be needed. But in most cases, the current system can work effectively if the producers of AI technology can provide sufficient transparency in explaining how AI decisions are made. Transparency ex post can often be achieved through retrospective analysis of the technology's operations, and will be sufficient if the main goal is to compensate victims of incorrect decisions. Ex ante transparency is more challenging, and can limit the use of some AI technologies such as neural networks. It should only be demanded by regulation where the AI presents risks to fundamental rights, or where society needs reassuring that the technology can safely be used. Masterly inactivity in regulation is likely to achieve a better long-term solution than a rush to regulate in ignorance. This article is part of a discussion meeting issue 'The growing ubiquity of algorithms in society: implications, impacts and innovations'. © 2018 The Author(s) Published by the Royal Society. All rights reserved.
+KW  - Artificial intelligence
+KW  - Law
+KW  - Machine learning
+KW  - Regulation
+KW  - Transparency
+KW  - Decision making
+KW  - Learning systems
+KW  - Transparency
+KW  - AI Technologies
+KW  - Artificial intelligence technologies
+KW  - General systems
+KW  - Human decision making
+KW  - Long-term solutions
+KW  - Regulation
+KW  - Regulatory schemes
+KW  - Retrospective analysis
+KW  - adult
+KW  - artificial intelligence
+KW  - decision making
+KW  - female
+KW  - human
+KW  - machine learning
+KW  - male
+KW  - responsibility
+KW  - retrospective study
+KW  - review
+KW  - victim
+KW  - Artificial intelligence
+PB  - Royal Society Publishing
+SN  - 1364503X (ISSN)
+C2  - 30082306
+LA  - English
+J2  - Philos. Trans. R. Soc. A Math. Phys. Eng. Sci.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 54; Correspondence Address: C. Reed; Centre for Commercial Law Studies, School of Law, Queen Mary University of London, London, United Kingdom; email: chris.reed@qmul.ac.uk
+ER  -
+
+TY  - JOUR
+AU  - Butterworth, M.
+TI  - The ICO and artificial intelligence: The role of fairness in the GDPR framework
+PY  - 2018
+T2  - Computer Law and Security Review
+VL  - 34
+IS  - 2
+SP  - 257
+EP  - 268
+DO  - 10.1016/j.clsr.2018.01.004
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85042662358&doi=10.1016%2fj.clsr.2018.01.004&partnerID=40&md5=98f4238e9274d2d306b85cb7adcb53f2
+AD  - Fieldfisher LLP, London, United Kingdom
+AB  - The year 2017 has seen many EU and UK legislative initiatives and proposals to consider and address the impact of artificial intelligence on society, covering questions of liability, legal personality and other ethical and legal issues, including in the context of data processing. In March 2017, the Information Commissioner's Office (UK) updated its big data guidance to address the development of artificial intelligence and machine learning, and to provide (GDPR), which will apply from 25 May 2018. This paper situates the ICO's guidance in the context of wider legal and ethical considerations and provides a critique of the position adopted by the ICO. On the ICO's analysis, the key challenge for artificial intelligence processing personal data is in establishing that such processing is fair. This shift reflects the potential for artificial intelligence to have negative social consequences (whether intended or unintended) that are not otherwise addressed by the GDPR. The question of ‘fairness’ is an important one, to address the imbalance between big data organisations and individual data subjects, with a number of ethical and social impacts that need to be evaluated. © 2018 Michael Butterworth
+KW  - Artificial intelligence (AI)
+KW  - Big data analytics
+KW  - Collective rights
+KW  - Data ethics
+KW  - Fairness
+KW  - General Data Protection Regulation (GDPR)
+KW  - Regulations
+KW  - Artificial intelligence
+KW  - Data handling
+KW  - Data privacy
+KW  - Economic and social effects
+KW  - Laws and legislation
+KW  - Learning systems
+KW  - Philosophical aspects
+KW  - Big Data Analytics
+KW  - Collective rights
+KW  - Data ethics
+KW  - Fairness
+KW  - General data protection regulations
+KW  - Regulations
+KW  - Big data
+PB  - Elsevier Ltd
+SN  - 02673649 (ISSN)
+LA  - English
+J2  - Comput Law Secur. Rev.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 74; Correspondence Address: M. Butterworth; Fieldfisher LLP, London, Riverbank House, 2 Swan Lane, EC4R 3TT, United Kingdom; email: michael.butterworth@fieldfisher.com; CODEN: CLSRE
+ER  -
+
+TY  - CONF
+AU  - Verma, S.
+AU  - Rubin, J.
+TI  - Fairness definitions explained
+PY  - 2018
+T2  - Proceedings - International Conference on Software Engineering
+SP  - 1
+EP  - 7
+DO  - 10.1145/3194770.3194776
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85051199647&doi=10.1145%2f3194770.3194776&partnerID=40&md5=21879f9514e104b4c7ae0ce7547cdd9a
+AD  - Indian Institute of Technology, Kanpur, India
+AD  - University of British Columbia, Columbia, Canada
+AB  - Algorithm fairness has started to attract the attention of researchers in AI, Software Engineering and Law communities, with more than twenty different notions of fairness proposed in the last few years. Yet, there is no clear agreement on which definition to apply in each situation. Moreover, the detailed differences between multiple definitions are difficult to grasp. To address this issue, this paper collects the most prominent definitions of fairness for the algorithmic classification problem, explains the rationale behind these definitions, and demonstrates each of them on a single unifying case-study. Our analysis intuitively explains why the same case can be considered fair according to some definitions and unfair according to others. © 2018 ACM.
+KW  - Computer software
+KW  - Software engineering
+PB  - IEEE Computer Society
+SN  - 02705257 (ISSN); 978-145035746-3 (ISBN)
+LA  - English
+J2  - Proc Int Conf Software Eng
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 672; Conference name: 2018 ACM/IEEE International Workshop on Software Fairness, FairWare 2018; Conference code: 137810; CODEN: PCSED
+ER  -
+
+TY  - JOUR
+AU  - Pesapane, F.
+AU  - Volonté, C.
+AU  - Codari, M.
+AU  - Sardanelli, F.
+TI  - Artificial intelligence as a medical device in radiology: ethical and regulatory issues in Europe and the United States
+PY  - 2018
+T2  - Insights into Imaging
+VL  - 9
+IS  - 5
+SP  - 745
+EP  - 753
+DO  - 10.1007/s13244-018-0645-y
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85055889949&doi=10.1007%2fs13244-018-0645-y&partnerID=40&md5=366b891adcd85e5c660c7da6ce30ca37
+AD  - Postgraduation School in Radiodiagnostics, Università degli Studi di Milano, Via Festa del Perdono 7, Milan, 20122, Italy
+AD  - Independent Researcher, 3 Greenwich Court, Cavell Street, London, E1 2BS, United Kingdom
+AD  - Unit of Radiology, IRCCS Policlinico San Donato, Via Morandi 30, 20097 San Donato Milanese, Milan, Italy
+AD  - Department of Biomedical Sciences for Health, Università degli Studi di Milano, Via Morandi 30, 20097 San Donato Milanese, Milan, Italy
+AB  - Abstract: Worldwide interest in artificial intelligence (AI) applications is growing rapidly. In medicine, devices based on machine/deep learning have proliferated, especially for image analysis, presaging new significant challenges for the utility of AI in healthcare. This inevitably raises numerous legal and ethical questions. In this paper we analyse the state of AI regulation in the context of medical device development, and strategies to make AI applications safe and useful in the future. We analyse the legal framework regulating medical devices and data protection in Europe and in the United States, assessing developments that are currently taking place. The European Union (EU) is reforming these fields with new legislation (General Data Protection Regulation [GDPR], Cybersecurity Directive, Medical Devices Regulation, In Vitro Diagnostic Medical Device Regulation). This reform is gradual, but it has now made its first impact, with the GDPR and the Cybersecurity Directive having taken effect in May, 2018. As regards the United States (U.S.), the regulatory scene is predominantly controlled by the Food and Drug Administration. This paper considers issues of accountability, both legal and ethical. The processes of medical device decision-making are largely unpredictable, therefore holding the creators accountable for it clearly raises concerns. There is a lot that can be done in order to regulate AI applications. If this is done properly and timely, the potentiality of AI based technology, in radiology as well as in other fields, will be invaluable. Teaching Points: • AI applications are medical devices supporting detection/diagnosis, work-flow, cost-effectiveness. • Regulations for safety, privacy protection, and ethical use of sensitive information are needed. • EU and U.S. have different approaches for approving and regulating new medical devices. • EU laws consider cyberattacks, incidents (notification and minimisation), and service continuity. • U.S. laws ask for opt-in data processing and use as well as for clear consumer consent. © 2018, The Author(s).
+KW  - Artificial intelligence
+KW  - Legislation
+KW  - Policy
+KW  - Privacy
+KW  - Radiology
+PB  - Springer Verlag
+SN  - 18694101 (ISSN)
+LA  - English
+J2  - Insights Imaging
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 274; Correspondence Address: F. Pesapane; Postgraduation School in Radiodiagnostics, Università degli Studi di Milano, Milan, Via Festa del Perdono 7, 20122, Italy; email: filippo.pesapane@unimi.it
+ER  -
+
+TY  - JOUR
+AU  - Levendowski, A.
+TI  - How copyright law can fix artificial intelligence’s implicit bias problem
+PY  - 2018
+T2  - Washington Law Review
+VL  - 93
+IS  - 2
+SP  - 579
+EP  - 630
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85049375044&partnerID=40&md5=1ff666b712e450376746f6f4bc24597f
+AD  - Technology Law and Policy Clinical Teaching Fellow, New York University School of Law and Research Fellow, NYU Information Law Institute, United States
+AB  - As the use of artificial intelligence (AI) continues to spread, we have seen an increase in examples of AI systems reflecting or exacerbating societal bias, from racist facial recognition to sexist natural language processing. These biases threaten to overshadow AI’s technological gains and potential benefits. While legal and computer science scholars have analyzed many sources of bias, including the unexamined assumptions of its oftenhomogenous creators, flawed algorithms, and incomplete datasets, the role of the law itself has been largely ignored. Yet just as code and culture play significant roles in how AI agents learn about and act in the world, so too do the laws that govern them. This Article is the first to examine perhaps the most powerful law impacting AI bias: copyright. Artificial intelligence often learns to "think" by reading, viewing, and listening to copies of human works. This Article first explores the problem of bias through the lens of copyright doctrine, looking at how the law's exclusion of access to certain copyrighted source materials may create or promote biased AI systems. Copyright law limits bias mitigation techniques, such as testing AI through reverse engineering, algorithmic accountability processes, and competing to convert customers. The rules of copyright law also privilege access to certain works over others, encouraging AI creators to use easily available, legally low-risk sources of data for teaching AI, even when those data are demonstrably biased. Second, it examines how a different part of copyright law-the fair use doctrine-has traditionally been used to address similar concerns in other technological fields, and asks whether it is equally capable of addressing them in the field of AI bias. The Article ultimately concludes that it is, in large part because the normative values embedded within traditional fair use ultimately align with the goals of mitigating AI bias and, quite literally, creating fairer AI systems. © 2018, University of Washington School of Law. All Rights Reserved.
+KW  - Algorithms
+KW  - Artificial intelligence
+KW  - Bias
+KW  - Competition
+KW  - Copyright
+KW  - Fair use
+KW  - Machine learning
+PB  - University of Washington School of Law
+SN  - 00430617 (ISSN)
+LA  - English
+J2  - Wash. Law Rev.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 54
+ER  -
+

@@ -1,0 +1,385 @@
+﻿TY  - CONF
+AU  - Kim, M.-Y.
+AU  - Goebel, R.
+TI  - Two-step cascaded textual entailment for legal bar exam question answering
+PY  - 2017
+T2  - Proceedings of the International Conference on Artificial Intelligence and Law
+SP  - 283
+EP  - 290
+DO  - 10.1145/3086512.3086550
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85045921804&doi=10.1145%2f3086512.3086550&partnerID=40&md5=061b9baf5683403ebdb1a5d58a3ae9c7
+AD  - Alberta Machine Intelligence Institute, Department of Computing Science, University of Alberta, Edmonton, T6E 2G8, AB, Canada
+AB  - Our legal question answering system combines legal information retrieval and textual entailment, and exploits semantic information using a logic-based representation. We have evaluated our system using the data from the competition on legal information extraction/entailment (COLIEE)-2017. The competition focuses on the legal information processing required to answer yes/no questions from Japanese legal bar exams, and it consists of two phases: ad hoc legal information retrieval (Phase 1), and textual entailment (Phase 2). Phase 1 requires the identification of Japan civil law articles relevant to a legal bar exam query. For this phase, we have used an information retrieval approach using TF-IDF combined with a simple language model. Phase 2 requires a yes/no decision for previously unseen queries, which we approach by comparing the approximate meanings of queries with relevant statutes. Our meaning extraction process uses a selection of features based on a kind of paraphrase, coupled with a condition/conclusion/exception analysis of articles and queries. We also extract and exploit negation patterns from the articles. We construct a logic-based representation as a semantic analysis result, and then classify questions into easy and difficult types by analyzing the logic representation. If a question is in our easy category, we simply obtain the entailment answer from the logic representation; otherwise we use an unsupervised learning method to obtain the entailment answer. Experimental evaluation shows that our result ranked highest in the Phase 2 amongst all COLIEE-2017 competitors. © 2017 Copyright is held by the owner/author(s).
+KW  - Legal text mining
+KW  - Logic representation
+KW  - Question answering
+KW  - Textual entailment
+KW  - Artificial intelligence
+KW  - Computer circuits
+KW  - Data mining
+KW  - Information retrieval
+KW  - Information use
+KW  - Natural language processing systems
+KW  - Semantics
+KW  - Text processing
+KW  - Unsupervised learning
+KW  - Information retrieval approach
+KW  - Legal information retrieval
+KW  - Legal texts
+KW  - Logic representation
+KW  - Logic-based representation
+KW  - Question Answering
+KW  - Textual entailment
+KW  - Unsupervised learning method
+KW  - Search engines
+PB  - Association for Computing Machinery
+SN  - 978-145034891-1 (ISBN)
+LA  - English
+J2  - Proc Int Conf Artif Intell Law
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 26; Conference name: 16th International Conference on Artificial Intelligence and Law, ICAIL 2017; Conference date: 12 June 2017 through 16 June 2017; Conference code: 133052; CODEN: 85OAA
+ER  -
+
+TY  - CONF
+AU  - Gurari, D.
+AU  - Grauman, K.
+TI  - CrowdVerge: Predicting if people will agree on the answer to a visual question
+PY  - 2017
+T2  - Conference on Human Factors in Computing Systems - Proceedings
+VL  - 2017-May
+SP  - 3511
+EP  - 3522
+DO  - 10.1145/3025453.3025781
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85044846499&doi=10.1145%2f3025453.3025781&partnerID=40&md5=6474e0a90cafd0dad68dd01d40e1cd3f
+AD  - University of Texas at Austin, 2317 Speedway, Stop D9500, Austin, 78712, TX, United States
+AB  - Visual question answering systems empower users to ask any question about any image and receive a valid answer. However, existing systems do not yet account for the fact that a visual question can lead to a single answer or multiple different answers. While a crowd often agrees, disagreements do arise for many reasons including that visual questions are ambiguous, subjective, or difficult. We propose a model, CrowdVerge, for automatically predicting from a visual question whether a crowd would agree on one answer. We then propose how to exploit these predictions in a novel application to efficiently collect all valid answers to visual questions. Specifically, we solicit fewer human responses when answer agreement is expected and more human responses otherwise. Experiments on 121, 811 visual questions asked by sighted and blind people show that, compared to existing crowdsourcing systems, our system captures the same answer diversity with typically 14-23% less crowd involvement. © 2017 ACM.
+KW  - Crowdsourcing
+KW  - Machine learning
+KW  - Visual question answering
+KW  - Artificial intelligence
+KW  - Crowdsourcing
+KW  - Human engineering
+KW  - Learning systems
+KW  - Blind people
+KW  - Existing systems
+KW  - Human response
+KW  - Novel applications
+KW  - Question Answering
+KW  - Question answering systems
+KW  - Forecasting
+PB  - Association for Computing Machinery
+SN  - 978-145034655-9 (ISBN)
+LA  - English
+J2  - Conf Hum Fact Comput Syst Proc
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 37; Conference name: 2017 ACM SIGCHI Conference on Human Factors in Computing Systems, CHI 2017; Conference date: 6 May 2017 through 11 May 2017; Conference code: 127654
+ER  -
+
+TY  - JOUR
+AU  - Azmi, A.M.
+AU  - Alshenaifi, N.A.
+TI  - Lemaza: An Arabic why-question answering system
+PY  - 2017
+T2  - Natural Language Engineering
+VL  - 23
+IS  - 6
+SP  - 877
+EP  - 903
+DO  - 10.1017/S1351324917000304
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85038030204&doi=10.1017%2fS1351324917000304&partnerID=40&md5=72938518ba7c5b521e78bff2539569ab
+AD  - Department of Computer Science, King Saud University, Riyadh, 11543, Saudi Arabia
+AB  - Question answering systems retrieve information from documents in response to queries. Most of the questions are who- and what-type questions that deal with named entities. A less common and more challenging question to deal with is the why -question. In this paper, we introduce Lemaza (Arabic for why), a system for automatically answering why -questions for Arabic texts. The system is composed of four main components that make use of the Rhetorical Structure Theory. To evaluate Lemaza, we prepared a set of why -question-answer pairs whose answer can be found in a corpus that we compiled out of Open Source Arabic Corpora. Lemaza performed best when the stop-words were not removed. The performance measure was 72.7%, 79.2% and 78.7% for recall, precision and c@1, respectively. Copyright © Cambridge University Press 2017.
+KW  - Artificial intelligence
+KW  - Text processing
+KW  - Arabic texts
+KW  - Named entities
+KW  - Open sources
+KW  - Performance measure
+KW  - Question answering systems
+KW  - Question-answer pairs
+KW  - Rhetorical structure theory
+KW  - Stop word
+KW  - Natural language processing systems
+PB  - Cambridge University Press
+SN  - 13513249 (ISSN)
+LA  - English
+J2  - Nat Lang Eng
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 26; CODEN: NLENF
+ER  -
+
+TY  - JOUR
+AU  - Rodrigo, A.
+AU  - Peñas, A.
+TI  - A study about the future evaluation of Question-Answering systems
+PY  - 2017
+T2  - Knowledge-Based Systems
+VL  - 137
+SP  - 83
+EP  - 93
+DO  - 10.1016/j.knosys.2017.09.015
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85029680484&doi=10.1016%2fj.knosys.2017.09.015&partnerID=40&md5=c957615188d01666b7e84997989f079d
+AD  - NLP & IR Group at UNED, Juan del Rosal 16, Madrid, Spain
+AB  - Evaluation campaigns of Question Answering (QA) systems have contributed to the development of such technologies. These campaigns have promoted some changes oriented to overcome results. However, at this period we see how systems have reached an upper bound, as well as systems are still far away from answering complex questions. In this paper, we overview the main QA evaluations over free text, paying special attention to the changes encouraged at such campaigns. We observe that systems still return a high proportion of incorrect answers and that the changes are almost not included in traditional approaches. Moreover, we analyze QA collections in order to obtain better insights about the main challenges for current QA systems. We detect that QA systems find very difficult to deal with different rewordings in questions and documents, as well as to infer information that is not explicitly mentioned in texts. Based on those observations, we recommend a set of directions for future evaluations, suggesting the application of textual inference and knowledge bases as a way for improving results. © 2017
+KW  - Evaluation campaigns
+KW  - Question Answering
+KW  - Textual inference
+KW  - Validation
+KW  - Artificial intelligence
+KW  - Knowledge based systems
+KW  - Software engineering
+KW  - Complex questions
+KW  - Evaluation campaigns
+KW  - Knowledge basis
+KW  - Question Answering
+KW  - Question answering systems
+KW  - Textual inference
+KW  - Traditional approaches
+KW  - Validation
+KW  - Natural language processing systems
+PB  - Elsevier B.V.
+SN  - 09507051 (ISSN)
+LA  - English
+J2  - Knowl Based Syst
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 30; Correspondence Address: A. Rodrigo; NLP & IR Group at UNED, Juan del Rosal 16, Madrid, Spain; email: alvarory@lsi.uned.es; CODEN: KNSYE
+ER  -
+
+TY  - JOUR
+AU  - Hazrina, S.
+AU  - Sharef, N.M.
+AU  - Ibrahim, H.
+AU  - Murad, M.A.A.
+AU  - Noah, S.A.M.
+TI  - Review on the advancements of disambiguation in semantic question answering system
+PY  - 2017
+T2  - Information Processing and Management
+VL  - 53
+IS  - 1
+SP  - 52
+EP  - 69
+DO  - 10.1016/j.ipm.2016.06.006
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85027923512&doi=10.1016%2fj.ipm.2016.06.006&partnerID=40&md5=0bc9131b66bff800ad04a151931fd850
+AD  - Department of Computer Science, Faculty of Computer Science and Information Technology, University Putra Malaysia, Selangor, Malaysia
+AD  - Knowledge Technology Research Group, Center for Artificial Intelligent Technology, Faculty of Information Science & Technology, National University of Malaysia, Selangor, Malaysia
+AB  - Ambiguity is a potential problem in any semantic question answering (SQA) system due to the nature of idiosyncrasy in composing natural language (NL) question and semantic resources. Thus, disambiguation of SQA systems is a field of ongoing research. Ambiguity occurs in SQA because a word or a sentence can have more than one meaning or multiple words in the same language can share the same meaning. Therefore, an SQA system needs disambiguation solutions to select the correct meaning when the linguistic triples matched with multiple KB concepts, and enumerate similar words especially when linguistic triples do not match with any KB concept. The latest development in this field is a solution for SQA systems that is able to process a complex NL question while accessing open-domain data from linked open data (LOD). The contributions in this paper include (1) formulating an SQA conceptual framework based on an in-depth study of existing SQA processes; (2) identifying the ambiguity types, specifically in English based on an interdisciplinary literature review; (3) highlighting the ambiguity types that had been resolved by the previous SQA studies; and (4) analysing the results of the existing SQA disambiguation solutions, the complexity of NL question processing, and the complexity of data retrieval from KB(s) or LOD. The results of this review demonstrated that out of thirteen types of ambiguity identified in the literature, only six types had been successfully resolved by the previous studies. Efforts to improve the disambiguation are in progress for the remaining unresolved ambiguity types to improve the accuracy of the formulated answers by the SQA system. The remaining ambiguity types are potentially resolved in the identified SQA process based on ambiguity scenarios elaborated in this paper. The results of this review also demonstrated that most existing research on SQA systems have treated the processing of the NL question complexity separate from the processing of the KB structure complexity. © 2016 Elsevier Ltd
+KW  - Ambiguity types
+KW  - Natural language question
+KW  - Semantic question answering
+KW  - SQA disambiguation solution
+KW  - Artificial intelligence
+KW  - Linguistics
+KW  - Semantics
+KW  - Ambiguity types
+KW  - Conceptual frameworks
+KW  - Linked open data (LOD)
+KW  - Natural language questions
+KW  - Question Answering
+KW  - Question answering systems
+KW  - Question processing
+KW  - Structure complexity
+KW  - Natural language processing systems
+PB  - Elsevier Ltd
+SN  - 03064573 (ISSN)
+LA  - English
+J2  - Inf. Process. Manage.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 32; Correspondence Address: S. Hazrina; Department of Computer Science, Faculty of Computer Science and Information Technology, University Putra Malaysia, Selangor, Malaysia; email: hazrina@gmail.com; CODEN: IPMAD
+ER  -
+
+TY  - JOUR
+AU  - Jaya Kumar, A.
+AU  - Schmidt, C.
+AU  - Köhler, J.
+TI  - A knowledge graph based speech interface for question answering systems
+PY  - 2017
+T2  - Speech Communication
+VL  - 92
+SP  - 1
+EP  - 12
+DO  - 10.1016/j.specom.2017.05.001
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85019964925&doi=10.1016%2fj.specom.2017.05.001&partnerID=40&md5=76110d9c502fc41ff5a1f1daa1ed513e
+AD  - Netmedia, Fraunhofer IAIS, Germany and Enterprise Information Systems, University of Bonn, Germany
+AB  - Speech interfaces to conversational systems have been a focus in academia and industry for over a decade due to its applicability as a natural interface. Speech recognition and speech synthesis constitute the important input and output modules respectively for such spoken interface systems. In this paper, the speech recognition interface for question answering applications is reviewed, and existing limitations are discussed. The existing spoken question answering (QA) systems use an automatic speech recogniser by adapting acoustic and language models for the speech interface and off-the-shelf language processing systems for question interpretation. In the process, the impact of recognition errors and language processing inaccuracies is neglected. It is illustrated in the paper how a semantically rich knowledge graph can be used to solve automatic speech recognition and language processing specific problems. A simple concatenation of a speech recogniser and a natural language processing system is a shallow method for a speech interface. An effort beyond merely concatenating these two units is required to develop a successful spoken question answering system. It is illustrated in this paper how a knowledge graph based structured data can be used to build a unified system combining speech recognition and language understanding. This facilitates the use of a semantically rich data model for speech interface. © 2017 Elsevier B.V.
+KW  - Automatic speech recognition
+KW  - Knowledge graphs
+KW  - Linked data
+KW  - Spoken interface
+KW  - Spoken language understanding
+KW  - Spoken question answering
+KW  - Artificial intelligence
+KW  - Graphic methods
+KW  - Natural language processing systems
+KW  - Speech
+KW  - Speech synthesis
+KW  - Automatic speech recognition
+KW  - Knowledge graphs
+KW  - Linked datum
+KW  - Question Answering
+KW  - Spoken language understanding
+KW  - Speech recognition
+PB  - Elsevier B.V.
+SN  - 01676393 (ISSN)
+LA  - English
+J2  - Speech Commun
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 24; Correspondence Address: A. Jaya Kumar; Netmedia, Fraunhofer IAIS, Germany and Enterprise Information Systems, University of Bonn, Germany; email: ashwini.jaya.kumar@iais.fraunhofer.de; CODEN: SCOMD
+ER  -
+
+TY  - CONF
+AU  - He, S.
+AU  - Liu, C.
+AU  - Liu, K.
+AU  - Zhao, J.
+TI  - Generating natural answers by incorporating copying and retrieving mechanisms in sequence-to-sequence learning
+PY  - 2017
+T2  - ACL 2017 - 55th Annual Meeting of the Association for Computational Linguistics, Proceedings of the Conference (Long Papers)
+VL  - 1
+SP  - 199
+EP  - 208
+DO  - 10.18653/v1/P17-1019
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85040946732&doi=10.18653%2fv1%2fP17-1019&partnerID=40&md5=a322d03968175ebb9ab98478bfd2c3c4
+AD  - National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences, Beijing, 100190, China
+AD  - University of Chinese Academy of Sciences, Beijing, 100049, China
+AB  - Generating answer with natural language sentence is very important in real-world question answering systems, which needs to obtain a right answer as well as a coherent natural response. In this paper, we propose an end-to-end question answering system called COREQA in sequence-to-sequence learning, which incorporates copying and retrieving mechanisms to generate natural answers within an encoder-decoder framework. Specifically, in COREQA, the semantic units (words, phrases and entities) in a natural answer are dynamically predicted from the vocabulary, copied from the given question and/or retrieved from the corresponding knowledge base jointly. Our empirical study on both synthetic and real-world datasets demonstrates the efficiency of COREQA, which is able to generate correct, coherent and natural answers for knowledge inquired questions. © 2017 Association for Computational Linguistics.
+KW  - Artificial intelligence
+KW  - Computational linguistics
+KW  - Knowledge based systems
+KW  - Linguistics
+KW  - Semantics
+KW  - Empirical studies
+KW  - Encoder-decoder
+KW  - Knowledge base
+KW  - Natural languages
+KW  - Natural response
+KW  - Question answering systems
+KW  - Real-world datasets
+KW  - Sequence learning
+KW  - Natural language processing systems
+PB  - Association for Computational Linguistics (ACL)
+SN  - 978-194562675-3 (ISBN)
+LA  - English
+J2  - ACL - Annu. Meet. Assoc. Comput. Linguist., Proc. Conf. (Long Papers)
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 104; Conference name: 55th Annual Meeting of the Association for Computational Linguistics, ACL 2017; Conference date: 30 July 2017 through 4 August 2017; Conference code: 132950
+ER  -
+
+TY  - CONF
+AU  - Sachan, M.
+AU  - Xing, E.P.
+TI  - Learning to solve geometry problems from natural language demonstrations in textbooks
+PY  - 2017
+T2  - *SEM 2017 - 6th Joint Conference on Lexical and Computational Semantics, Proceedings
+SP  - 251
+EP  - 261
+DO  - 10.18653/v1/s17-1029
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85036620336&doi=10.18653%2fv1%2fs17-1029&partnerID=40&md5=fd09e7899fd7c3427b194e7c9dd71ef8
+AD  - School of Computer Science, Carnegie Mellon University, United States
+AB  - Humans as well as animals are good at imitation. Inspired by this, the learning by demonstration view of machine learning learns to perform a task from detailed example demonstrations. In this paper, we introduce the task of question answering using natural language demonstrations where the question answering system is provided with detailed demonstrative solutions to questions in natural language. As a case study, we explore the task of learning to solve geometry problems using demonstrative solutions available in textbooks. We collect a new dataset of demonstrative geometry solutions from textbooks and explore approaches that learn to interpret these demonstrations as well as to use these interpretations to solve geometry problems. Our approaches show improvements over the best previously published system for solving geometry problems. © 2017 Association for Computational Linguistics.
+KW  - Artificial intelligence
+KW  - Demonstrations
+KW  - Geometry
+KW  - Semantics
+KW  - Textbooks
+KW  - Geometry problems
+KW  - Learning by demonstration
+KW  - Natural languages
+KW  - Question Answering
+KW  - Question answering systems
+KW  - Natural language processing systems
+PB  - Association for Computational Linguistics (ACL)
+SN  - 978-194562653-1 (ISBN)
+LA  - English
+J2  - *SEM - Jt. Conf. Lex. Comput. Semant., Proc.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 30; Conference name: 6th Joint Conference on Lexical and Computational Semantics, *SEM 2017; Conference date: 3 August 2017 through 4 August 2017; Conference code: 131701
+ER  -
+
+TY  - CONF
+AU  - Kruengkrai, C.
+AU  - Torisawa, K.
+AU  - Hashimoto, C.
+AU  - Kloetzer, J.
+AU  - Oh, J.-H.
+AU  - Tanaka, M.
+TI  - Improving event causality recognition with multiple background knowledge sources using multi-column convolutional neural networks
+PY  - 2017
+T2  - 31st AAAI Conference on Artificial Intelligence, AAAI 2017
+SP  - 3466
+EP  - 3473
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85015285840&partnerID=40&md5=0d2117c10fd37754d441df686d1dec0d
+AD  - National Institute of Information and Communications Technology, Kyoto, 619-0289, Japan
+AB  - We propose a method for recognizing such event causalities as "smoke cigarettes"? "die of lung cancer" using background knowledge taken from web texts as well as original sentences from which candidates for the causalities were extracted. We retrieve texts related to our event causality candidates from four billion web pages by three distinct methods, including a why-question answering system, and feed them to our multi-column convolutional neural networks. This allows us to identify the useful background knowledge scattered in web texts and effectively exploit the identified knowledge to recognize event causalities. We empirically show that the combination of our neural network architecture and background knowledge significantly improves average precision, while the previous state-of-the-art method gains just a small benefit from such background knowledge. Copyright © 2017, Association for the Advancement of Artificial Intelligence (www.aaai.org). All rights reserved.
+KW  - Convolution
+KW  - Network architecture
+KW  - Neural networks
+KW  - Websites
+KW  - Back-ground knowledge
+KW  - Convolutional neural network
+KW  - Lung Cancer
+KW  - Question answering systems
+KW  - State-of-the-art methods
+KW  - Web texts
+KW  - Artificial intelligence
+PB  - AAAI press
+LA  - English
+J2  - AAAI Conf. Artif. Intell., AAAI
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 62; Conference name: 31st AAAI Conference on Artificial Intelligence, AAAI 2017; Conference date: 4 February 2017 through 10 February 2017; Conference code: 130407
+ER  -
+
+TY  - JOUR
+AU  - Hao, T.
+AU  - Xie, W.
+AU  - Wu, Q.
+AU  - Weng, H.
+AU  - Qu, Y.
+TI  - Leveraging question target word features through semantic relation expansion for answer type classification
+PY  - 2017
+T2  - Knowledge-Based Systems
+VL  - 133
+SP  - 43
+EP  - 52
+DO  - 10.1016/j.knosys.2017.06.030
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85021799133&doi=10.1016%2fj.knosys.2017.06.030&partnerID=40&md5=860d0eaa7f8c40c9c09b5ed65f5d2cfb
+AD  - School of Information Science and Technology, Guangdong University of Foreign Studies, China
+AD  - School of Software Engineering, South China University of Technology, China
+AD  - The Second Affiliated Hospital, Guangzhou University of Chinese Medicine, China
+AD  - School of Business, Guangdong University of Foreign Studies, China
+AD  - Faculty of Built Environment, University of New South Wales, Australia
+AB  - Answer type classification is a vital step of question answering systems to detect the most suitable target answer type. Highly accurate identification and classification of an answer type can help identify users’ question targets and filter out irrelevant candidate answers to improve system performances. This paper proposes a novel hybrid approach, named as ATICM, for automated answer type identification and classification by utilizing both syntactic and semantic analysis. We firstly propose to integrate four strategies to identify question target features by using dependency relations and rules. Afterwards, we leverage semantic relations to expand the extracted features. Our experiment datasets are publicly available UIUC and TREC10 annotated question datasets. The result shows the ATICM approach achieves an accuracy of 93.9% on the UIUC dataset and 92.8% on the TREC10 dataset. The performance outperforms the state-of-the-art baseline methods, demonstrating its effectiveness in answer type classification. © 2017 Elsevier B.V.
+KW  - Answer type identification
+KW  - Classification
+KW  - Question target
+KW  - WordNet
+KW  - Artificial intelligence
+KW  - Classification (of information)
+KW  - Knowledge based systems
+KW  - Software engineering
+KW  - Baseline methods
+KW  - Dependency relation
+KW  - Question answering systems
+KW  - Semantic analysis
+KW  - Semantic relations
+KW  - State of the art
+KW  - Type classifications
+KW  - Wordnet
+KW  - Semantics
+PB  - Elsevier B.V.
+SN  - 09507051 (ISSN)
+LA  - English
+J2  - Knowl Based Syst
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 27; Correspondence Address: H. Weng; School of Information Science and Technology, Guangdong University of Foreign Studies, China; email: ww128@qq.com; CODEN: KNSYE
+ER  -
+

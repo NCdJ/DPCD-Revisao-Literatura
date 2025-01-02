@@ -1,0 +1,338 @@
+﻿TY  - CPAPER
+AU  - Mitchell, M
+AU  - Wu, S
+AU  - Zaldivar, A
+AU  - Barnes, P
+AU  - Vasserman, L
+AU  - Hutchinson, B
+AU  - Spitzer, E
+AU  - Raji, ID
+AU  - Gebru, T
+A1  - Assoc Comp Machinery
+TI  - Model Cards for Model Reporting
+T2  - FAT*'19: PROCEEDINGS OF THE 2019 CONFERENCE ON FAIRNESS, ACCOUNTABILITY, AND TRANSPARENCY
+LA  - English
+CP  - ACM Conference on Fairness, Accountability, and Transparency (FAT)
+KW  - datasheets
+KW  - model cards
+KW  - documentation
+KW  - disaggregated evaluation
+KW  - fairness evaluation
+KW  - ML model evaluation
+KW  - ethical considerations
+KW  - PREDICTION
+AB  - Trained machine learning models are increasingly used to perform high-impact tasks in areas such as law enforcement, medicine, education, and employment. In order to clarify the intended use cases of machine learning models and minimize their usage in contexts for which they are not well suited, we recommend that released models be accompanied by documentation detailing their performance characteristics. In this paper, we propose a framework that we call model cards, to encourage such transparent model reporting. Model cards are short documents accompanying trained machine learning models that provide benchmarked evaluation in a variety of conditions, such as across different cultural, demographic, or phenotypic groups (e.g., race, geographic location, sex, Fitzpatrick skin type [15]) and intersectional groups (e.g., age and race, or sex and Fitzpatrick skin type) that are relevant to the intended application domains. Model cards also disclose the context in which models are intended to be used, details of the performance evaluation procedures, and other relevant information. While we focus primarily on human-centered machine learning models in the application fields of computer vision and natural language processing, this framework can be used to document any trained machine learning model. To solidify the concept, we provide cards for two supervised models: One trained to detect smiling faces in images, and one trained to detect toxic comments in text. We propose model cards as a step towards the responsible democratization of machine learning and related artificial intelligence technology, increasing transparency into how well artificial intelligence technology works. We hope this work encourages those releasing trained machine learning models to accompany model releases with similar detailed evaluation numbers and other relevant documentation.
+PU  - ASSOC COMPUTING MACHINERY
+PI  - NEW YORK
+PA  - 1601 Broadway, 10th Floor, NEW YORK, NY, UNITED STATES
+SN  - 978-1-4503-6125-5
+PY  - 2019
+SP  - 220
+EP  - 229
+DO  - 10.1145/3287560.3287596
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000473814700024
+N1  - Times Cited in Web of Science Core Collection:  777
+Total Times Cited:  862
+Cited Reference Count:  48
+ER  -
+
+TY  - JOUR
+AU  - Chalkidis, I
+AU  - Kampas, D
+TI  - Deep learning in law: early adaptation and legal word embeddings trained on large corpora
+T2  - ARTIFICIAL INTELLIGENCE AND LAW
+LA  - English
+KW  - Natural language processing
+KW  - Deep learning
+KW  - Legal word vectors
+AB  - Deep Learning has been widely used for tackling challenging natural language processing tasks over the recent years. Similarly, the application of Deep Neural Networks in legal analytics has increased significantly. In this survey, we study the early adaptation of Deep Learning in legal analytics focusing on three main fields; text classification, information extraction, and information retrieval. We focus on the semantic feature representations, a key instrument for the successful application of deep learning in natural language processing. Additionally, we share pre-trained legal word embeddings using the WORD2VEC model over large corpora, comprised legislations from UK, EU, Canada, Australia, USA, and Japan among others.
+AD  - Athens Univ Econ & Business, Dept Informat, Athens, GreeceAD  - Luxembourg Inst Sci & Technol, IT Innovat Serv, Esch Sur Alzette, LuxembourgC3  - Athens University of Economics & BusinessC3  - Luxembourg Institute of Science & TechnologyPU  - SPRINGER
+PI  - DORDRECHT
+PA  - VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN  - 0924-8463
+SN  - 1572-8382
+J9  - ARTIF INTELL LAW
+JI  - Artif. Intell. Law
+DA  - JUN
+PY  - 2019
+VL  - 27
+IS  - 2
+SP  - 171
+EP  - 198
+DO  - 10.1007/s10506-018-9238-9
+WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:000466860400004
+N1  - Times Cited in Web of Science Core Collection:  93
+Total Times Cited:  102
+Cited Reference Count:  23
+ER  -
+
+TY  - JOUR
+AU  - Dale, R
+TI  - Industry Watch Law and Word Order : NLP in Legal Tech
+T2  - NATURAL LANGUAGE ENGINEERING
+LA  - English
+AB  - The law has language at its heart, so it's not surprising that software that operates on natural language has played a role in some areas of the legal profession for a long time. But the last few years have seen an increased interest in applying modern techniques to a wider range of problems, so I look here at how natural language processing is being used in the legal sector today.
+AD  - Language Technol Grp, Sydney, NSW, AustraliaPU  - CAMBRIDGE UNIV PRESS
+PI  - CAMBRIDGE
+PA  - EDINBURGH BLDG, SHAFTESBURY RD, CB2 8RU CAMBRIDGE, ENGLAND
+SN  - 1351-3249
+SN  - 1469-8110
+J9  - NAT LANG ENG
+JI  - Nat. Lang. Eng.
+DA  - JAN
+PY  - 2019
+VL  - 25
+IS  - 1
+SP  - 211
+EP  - 217
+DO  - 10.1017/S1351324918000475
+WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)WE  - Arts &amp; Humanities Citation Index (A&amp;HCI)AN  - WOS:000454302800008
+N1  - Times Cited in Web of Science Core Collection:  39
+Total Times Cited:  42
+Cited Reference Count:  1
+ER  -
+
+TY  - JOUR
+AU  - Srinivasa, K
+AU  - Thilagam, PS
+TI  - Crime base: Towards building a knowledge base for crime entities and their relationships from online news papers
+T2  - INFORMATION PROCESSING & MANAGEMENT
+LA  - English
+KW  - Ontology
+KW  - Natural Language Processing
+KW  - Integration
+KW  - Information Extraction
+KW  - Knowledge Representation
+KW  - SEMANTIC SIMILARITY
+KW  - DISAMBIGUATION
+KW  - RECOGNITION
+KW  - EXTRACTION
+KW  - ONTOLOGY
+AB  - In the current era of internet, information related to crime is scattered across many sources namely news media, social networks, blogs, and video repositories, etc. Crime reports published in online newspapers are often considered as reliable compared to crowdsourced data like social media and contain crime information not only in the form of unstructured text but also in the form of images. Given the volume and availability of crime-related information present in online newspapers, gathering and integrating crime entities from multiple modalities and representing them as a knowledge base in machine-readable form will be useful for any law enforcement agencies to analyze and prevent criminal activities. Extant research works to generate the crime knowledge base, does not address extraction of all non-redundant entities from text and image data present in multiple newspapers. Hence, this work proposes Crime Base, an entity relationship based system to extract and integrate crime related text and image data from online newspapers with a focus towards reducing duplicity and loss of information in the knowledge base. The proposed system uses a rule-based approach to extract the entities from text and image captions. The entities extracted from text data are correlated using contextual as-well-as semantic similarity measures and image entities are correlated using low-level and high-level image features. The proposed system also presents an integrated view of these entities and their relations in the form of a knowledge base using OWL. The system is tested for a collection of crime related articles from popular Indian online newspapers.
+AD  - Natl Inst Technol Karnataka, Dept Comp Sci & Engn, Surathkal, IndiaC3  - National Institute of Technology (NIT System)C3  - National Institute of Technology KarnatakaPU  - ELSEVIER SCI LTD
+PI  - OXFORD
+PA  - THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN  - 0306-4573
+SN  - 1873-5371
+J9  - INFORM PROCESS MANAG
+JI  - Inf. Process. Manage.
+DA  - NOV
+PY  - 2019
+VL  - 56
+IS  - 6
+C7  - 102059
+DO  - 10.1016/j.ipm.2019.102059
+WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:000487766200004
+N1  - Times Cited in Web of Science Core Collection:  25
+Total Times Cited:  28
+Cited Reference Count:  33
+ER  -
+
+TY  - CPAPER
+AU  - Wang, ZY
+AU  - Wang, BX
+AU  - Duan, XY
+AU  - Wu, DY
+AU  - Wang, SJ
+AU  - Hu, GP
+AU  - Hu, T
+A1  - ASSOC COMPUTAT LINGUIST
+TI  - IFlyLegal: A Chinese Legal System for Consultation, Law Searching, and Document Analysis
+T2  - 2019 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING AND THE 9TH INTERNATIONAL JOINT CONFERENCE ON NATURAL LANGUAGE PROCESSING (EMNLP-IJCNLP 2019): PROCEEDINGS OF SYSTEM DEMONSTRATIONS
+LA  - English
+CP  - Conference on Empirical Methods in Natural Language Processing / 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP)
+AB  - Legal Tech is developed to help people with legal services and solve legal problems via machines. To achieve this, one of the key requirements for machines is to utilize legal knowledge and comprehend legal context. This can be fulfilled by natural language processing (NLP) techniques, for instance, text representation, text categorization, question answering (QA) and natural language inference, etc. To this end, we introduce a freely available Chinese Legal Tech system (IFlyLegal) that benefits from multiple NLP tasks. It is an integrated system that performs legal consulting, multiway law searching, and legal document analysis by exploiting techniques such as deep contextual representations and various attention mechanisms. To our knowledge, IFlyLegal is the first Chinese legal system that employs upto-date NLP techniques and caters for needs of different user groups, such as lawyers, judges, procurators, and clients. Since Jan, 2019, we have gathered 2,349 users and 28,238 page views (till June, 23, 2019).
+AD  - iFLYTEK Res, State Key Lab Cognit Intelligence, Beijing, Peoples R ChinaAD  - Harbin Inst Technol, Res Ctr Social Comp & Informat Retrieval, Harbin, Peoples R ChinaAD  - iFLYTEK AI Res Hebei, Langfang, Peoples R ChinaC3  - Harbin Institute of TechnologyFU  - National Key R&D Program of China [2018YFC0807701]
+FX  - The authors would like to thank all the reviewers for their insight reviews. This paper is funded by National Key R&D Program of China (No.2018YFC0807701).
+PU  - ASSOC COMPUTATIONAL LINGUISTICS-ACL
+PI  - STROUDSBURG
+PA  - 209 N EIGHTH STREET, STROUDSBURG, PA 18360 USA
+SN  - 978-1-950737-92-5
+PY  - 2019
+SP  - 97
+EP  - 102
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)WE  - Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)AN  - WOS:000855231500017
+N1  - Times Cited in Web of Science Core Collection:  24
+Total Times Cited:  24
+Cited Reference Count:  12
+ER  -
+
+TY  - JOUR
+AU  - Robaldo, L
+AU  - Villata, S
+AU  - Wyner, A
+AU  - Grabmair, M
+TI  - Introduction for artificial intelligence and law: special issue "natural language processing for legal texts"
+T2  - ARTIFICIAL INTELLIGENCE AND LAW
+LA  - English
+AD  - Univ Luxembourg, Luxembourg, LuxembourgAD  - Univ Cote dAzur, I3S, Inria, CNRS, Sophia Antipolis, FranceAD  - Swansea Univ, Singleton Pk, Swansea SA2 8PP, W Glam, WalesAD  - Carnegie Mellon Univ, Pittsburgh, PA 15213 USAC3  - University of LuxembourgC3  - Universite Cote d'AzurC3  - Centre National de la Recherche Scientifique (CNRS)C3  - InriaC3  - Swansea UniversityC3  - Carnegie Mellon UniversityPU  - SPRINGER
+PI  - DORDRECHT
+PA  - VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN  - 0924-8463
+SN  - 1572-8382
+J9  - ARTIF INTELL LAW
+JI  - Artif. Intell. Law
+DA  - JUN
+PY  - 2019
+VL  - 27
+IS  - 2
+SP  - 113
+EP  - 115
+DO  - 10.1007/s10506-019-09251-2
+WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:000466860400001
+N1  - Times Cited in Web of Science Core Collection:  23
+Total Times Cited:  24
+Cited Reference Count:  0
+ER  -
+
+TY  - JOUR
+AU  - Waltl, B
+AU  - Bonczek, G
+AU  - Scepankova, E
+AU  - Matthes, F
+TI  - Semantic types of legal norms in German laws: classification and analysis using local linear explanations
+T2  - ARTIFICIAL INTELLIGENCE AND LAW
+LA  - English
+KW  - Natural language processing
+KW  - Classifying legal norms
+KW  - Rule-based information extraction
+KW  - Supervised machine learning
+KW  - Explainable machine learning
+KW  - Local interpretable models
+AB  - This paper describes the automated classification of legal norms in German statutes with regard to their semantic type. We propose a semantic type taxonomy for norms in the German civil law domain consisting of nine different types focusing on functional aspects, such as Duties, Prohibitions, Permissions, etc. We performed four iterations in classifying legal norms with a rule-based approach using a manually labeled dataset, i.e., tenancy law, of the German Civil Code (n = 601). During this experiment the F-1 score continuously improved from 0.52 to 0.78. In contrast, a machine learning based approach for the classification was implemented. A performance of F-1 = 0.83 was reached. Traditionally, machine learning classifiers lack of transparency with regard to their decisions. We extended our approach using so-called local linear approximations, which is a novel technique to analyze and inspect a trained classifier's behavior. We can show that there are significant similarities of manually crafted knowledge, i.e., rules and pattern definitions, and the trained decision structures of machine learning approaches.
+AD  - Tech Univ Munich, Dept Informat, Software Engn Business Informat Syst, Boltzmannstr 3, D-85748 Garching, GermanyC3  - Technical University of MunichPU  - SPRINGER
+PI  - DORDRECHT
+PA  - VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN  - 0924-8463
+SN  - 1572-8382
+J9  - ARTIF INTELL LAW
+JI  - Artif. Intell. Law
+DA  - MAR
+PY  - 2019
+VL  - 27
+IS  - 1
+SP  - 43
+EP  - 71
+DO  - 10.1007/s10506-018-9228-y
+WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:000464759800003
+N1  - Times Cited in Web of Science Core Collection:  21
+Total Times Cited:  21
+Cited Reference Count:  24
+ER  -
+
+TY  - JOUR
+AU  - Capuano, N
+AU  - Toti, D
+TI  - Experimentation of a smart learning system for law based on knowledge discovery and cognitive computing
+T2  - COMPUTERS IN HUMAN BEHAVIOR
+LA  - English
+KW  - Adaptive learning
+KW  - Knowledge discovery
+KW  - Cognitive computing
+KW  - Natural language processing
+KW  - Ontology integration
+KW  - Online dispute resolution
+AB  - This work presents a Smart Learning system based on Knowledge Discovery and Cognitive Computing techniques aimed at citizens, legal students and experts alike, providing them with the possibility of submitting legal cases expressed in natural language and obtaining legal insight and advice in return. Advanced features implemented within the system include the automatic conceptualization and classification of textual legal cases via natural language processing, the generation of learning paths by relying upon legal ontologies, and additional features for managing legal knowledge bases, including editing, versioning, integration and enrichment. The system has been experimented on a diversified user-base and succeeded in obtaining a positive evaluation with respect to the aspects that were subject of the investigation, including effectiveness, efficiency and usability, thus paving the way to make the system a successful cognitive learning platform for future law professionals and knowledgeable citizens. (C) 2018 Elsevier Ltd. All rights reserved.
+AD  - Univ Salerno, Dept Informat Elect Engn & Appl Math, Fisciano, SA, ItalyAD  - Roma Tre Univ, Dept Sci, Rome, ItalyC3  - University of SalernoC3  - Roma Tre UniversityC3  - ItalfarmacoFU  - eJRM (electronic justice Relationship Management) project - Italian Ministry of Instruction and Research [PON 01-01286]
+FX  - The work presented in this paper has been partially supported by the eJRM (electronic justice Relationship Management) project, co-funded by the Italian Ministry of Instruction and Research (ref. PON 01-01286).
+PU  - PERGAMON-ELSEVIER SCIENCE LTD
+PI  - OXFORD
+PA  - THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN  - 0747-5632
+SN  - 1873-7692
+J9  - COMPUT HUM BEHAV
+JI  - Comput. Hum. Behav.
+DA  - MAR
+PY  - 2019
+VL  - 92
+SP  - 459
+EP  - 467
+DO  - 10.1016/j.chb.2018.03.034
+WE  - Social Science Citation Index (SSCI)AN  - WOS:000457504100045
+N1  - Times Cited in Web of Science Core Collection:  20
+Total Times Cited:  22
+Cited Reference Count:  47
+ER  -
+
+TY  - JOUR
+AU  - Iqbal, F
+AU  - Fung, BCM
+AU  - Debbabi, M
+AU  - Batool, R
+AU  - Marrington, A
+TI  - Wordnet-Based Criminal Networks Mining for Cybercrime Investigation
+T2  - IEEE ACCESS
+LA  - English
+KW  - Data mining
+KW  - crime investigation
+KW  - criminal communities
+KW  - clustering algorithms
+KW  - WordNet
+KW  - NAMED ENTITY RECOGNITION
+KW  - CRIME
+AB  - Cybercriminals exploit the opportunities provided by the information revolution and social media to communicate and conduct underground illicit activities, such as online fraudulence, cyber predation, cyberbullying, hacking, blackmailing, and drug smuggling. To combat the increasing number of criminal activities, structure and content analysis of criminal communities can provide insight and facilitate cybercrime forensics. In this paper, we propose a framework to analyze chat logs for crime investigation using data mining and natural language processing techniques. The proposed framework extracts the social network from chat logs and summarizes conversation into topics. The crime investigator can use information visualizer to see the crime-related results. To test the validity of our proposed framework, we worked in a joint effort with the cybercrime unit of a Canadian law enforcement agency. The experimental outcomes on real-life data and feedback from the law enforcement officers suggest that the proposed chat log mining framework meets the need for law enforcement agencies and is very effective for crime investigation.
+AD  - Zayed Univ, Coll Technol Innovat, Abu Dhabi 144534, U Arab EmiratesAD  - McGill Univ, Sch Informat Studies, Montreal, PQ H3A 1X1, CanadaAD  - Concordia Univ, Concordia Inst Informat Syst Engn, Montreal, PQ H3G 1M8, CanadaC3  - Zayed UniversityC3  - McGill UniversityC3  - Concordia University - CanadaFU  - Research Incentive Fund [R15048]; Research Cluster, Zayed University, United Arab Emirates [R16083]
+FX  - This work was supported in part by the Research Incentive Fund under Grant R15048, and in part by the Research Cluster, Zayed University, United Arab Emirates, under Grant R16083.
+PU  - IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI  - PISCATAWAY
+PA  - 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN  - 2169-3536
+J9  - IEEE ACCESS
+JI  - IEEE Access
+PY  - 2019
+VL  - 7
+SP  - 22740
+EP  - 22755
+DO  - 10.1109/ACCESS.2019.2891694
+WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:000460707200001
+N1  - Times Cited in Web of Science Core Collection:  18
+Total Times Cited:  18
+Cited Reference Count:  52
+ER  -
+
+TY  - CPAPER
+AU  - Sifa, R
+AU  - Ladi, A
+AU  - Pielka, M
+AU  - Ramamurthy, R
+AU  - Hillebrand, L
+AU  - Kirsch, B
+AU  - Biesner, D
+AU  - Stenzel, R
+AU  - Bell, T
+AU  - Lübbering, M
+AU  - Nütten, U
+AU  - Bauckhage, C
+AU  - Warning, U
+AU  - Fürst, B
+AU  - Khameneh, TD
+AU  - Thom, D
+AU  - Huseynov, I
+AU  - Kahlert, R
+AU  - Schlums, J
+AU  - Ismail, H
+AU  - Kliem, B
+AU  - Loitz, R
+A1  - Assoc Comp Machinery
+TI  - Towards Automated Auditing with Machine Learning
+T2  - DOCENG'19: PROCEEDINGS OF THE ACM SYMPOSIUM ON DOCUMENT ENGINEERING 2019
+LA  - English
+CP  - 19th ACM Symposium on Document Engineering (DocEng)
+KW  - Text Mining
+KW  - Business Process Optimization
+KW  - Automated Auditing
+AB  - We present the Automated List Inspection (ALI) tool that utilizes methods from machine learning, natural language processing, combined with domain expert knowledge to automate financial statement auditing. ALI is a content based context-aware recommender system, that matches relevant text passages from the notes to the financial statement to specific law regulations. In this paper, we present the architecture of the recommender tool which includes text mining, language modeling, unsupervised and supervised methods that range from binary classification models to deep recurrent neural networks. Next to our main findings, we present quantitative and qualitative comparisons of the algorithms as well as concepts for how to further extend the functionality of the tool.
+AD  - Fraunhofer IAIS, St Augustin, GermanyAD  - PriceWaterhouseCoopers GmbH WPG, Frankfurt, GermanyFU  - Fraunhofer Center for Machine Learning
+FX  - We would like to thank the Helix team at PwC Germany for the integration and deployment of the developed recommender system. This research is partly supported by the Fraunhofer Center for Machine Learning.
+PU  - ASSOC COMPUTING MACHINERY
+PI  - NEW YORK
+PA  - 1601 Broadway, 10th Floor, NEW YORK, NY, UNITED STATES
+SN  - 978-1-4503-6887-2
+PY  - 2019
+DO  - 10.1145/3342558.3345421
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000558062400041
+N1  - Times Cited in Web of Science Core Collection:  18
+Total Times Cited:  20
+Cited Reference Count:  16
+ER  -
+

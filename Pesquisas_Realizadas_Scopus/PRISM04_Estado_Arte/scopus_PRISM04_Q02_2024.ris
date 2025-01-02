@@ -1,0 +1,139 @@
+﻿TY  - CONF
+AU  - Somwanshi, K.
+AU  - Alfatmi, K.
+AU  - Vibhandik, A.
+AU  - Karbhari, D.
+AU  - Jarsodiwala, G.
+AU  - Relan, R.
+AU  - Shahade, M.
+TI  - Simplifying legal language: An AI-powered approach to enhance document accessibility
+PY  - 2024
+T2  - Advances in AI for Biomedical Instrumentation, Electronics and Computing - Proceedings of the 5th International Conference on Advances in AI for Biomedical Instrumentation, Electronics and Computing, ICABEC 2023
+SP  - 306
+EP  - 310
+DO  - 10.1201/9781032644752-57
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85199189373&doi=10.1201%2f9781032644752-57&partnerID=40&md5=4c669f3919045d1b32d6d42a8596c8aa
+AD  - Department of Computer Engineering, SVKM’s Institute of Technology, Maharashtra, Dhule, India
+AD  - SVKM’s Institute of Technology, Maharashtra, Dhule, India
+AB  - This paper addresses the difficulties of complex and confusing legal documents by proposing an innovative AI-driven solution. Unlike pre-existing methods that merely summarize, the proposed system uses Natural Language Processing Models (NLP), Machine Learning Algorithm, and a legal jargon database to simplify the legal language. The goal is to enhance accessibility for the individuals without legal knowledge. This system identifies and replaces legal jargon while preserving the context, ensuring that the important information remains intact. The ultimate aim is to empower individuals, business, and nonprofits to comprehend legal documents without the need for specialization legal knowledge. © 2024 The Author(s).
+KW  - Artificial Intelligence (AI)
+KW  - Legal Document Simplification
+KW  - Legal Jargon Removal
+KW  - Legal Language Processing
+KW  - Machine Learning in Law
+KW  - Natural Language Processing (NLP)
+KW  - Authentication
+KW  - Learning algorithms
+KW  - Natural language processing systems
+KW  - Artificial intelligence
+KW  - Language processing
+KW  - Legal document simplification
+KW  - Legal documents
+KW  - Legal jargon removal
+KW  - Legal language processing
+KW  - Machine learning in law
+KW  - Machine-learning
+KW  - Natural language processing
+KW  - Natural languages
+KW  - Machine learning
+A2  - Sachan V.
+A2  - Gautam R.
+A2  - Kumar P.
+A2  - Malik S.
+PB  - CRC Press/Balkema
+SN  - 978-103264298-7 (ISBN)
+LA  - English
+J2  - Adv. AI Biomed. Instrum., Electron. Comput. - Proc. Int. Conf. Adv. AI Biomed. Instrum., Electron. Comput.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 0; Correspondence Address: K. Somwanshi; Department of Computer Engineering, SVKM’s Institute of Technology, Dhule, Maharashtra, India; email: kn.somwanshi@gmail.com; K. Alfatmi; Department of Computer Engineering, SVKM’s Institute of Technology, Dhule, Maharashtra, India; email: alfatmi.khalid@gmail.com; A. Vibhandik; SVKM’s Institute of Technology, Dhule, Maharashtra, India; email: ashwinivibhandik18@gmail.com; D. Karbhari; SVKM’s Institute of Technology, Dhule, Maharashtra, India; email: karbharidarshana@gmail.com; G. Jarsodiwala; SVKM’s Institute of Technology, Dhule, Maharashtra, India; email: gjarsodiwala@gmail.com; R. Relan; SVKM’s Institute of Technology, Dhule, Maharashtra, India; email: rahulrelan223@gmail.com; M. Shahade; Department of Computer Engineering, SVKM’s Institute of Technology, Dhule, Maharashtra, India; email: makarand.shahade@svkm.ac.in; Conference name: 5th International Conference on Advances in AI for Biomedical Instrumentation, Electronics and Computing, ICABEC 2023; Conference date: 22 December 2023 through 23 December 2023; Conference code: 314129
+ER  -
+
+TY  - CONF
+AU  - Varma, S.
+AU  - Shivam, S.
+AU  - Natarajan, S.
+AU  - Biswas, S.
+AU  - Gupta, J.
+TI  - Taking Natural Language Generation and Information Extraction to Domain Specific Tasks
+PY  - 2024
+T2  - Lecture Notes in Networks and Systems
+VL  - 824 LNNS
+SP  - 713
+EP  - 728
+DO  - 10.1007/978-3-031-47715-7_48
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85184812475&doi=10.1007%2f978-3-031-47715-7_48&partnerID=40&md5=bc080bffe3ad8cbcdc1c87d38fa4cf44
+AD  - ZS Associates Pune, Pune, India
+AB  - A lot of domain-specific unstructured data is available at present. To make them available to common users, domain experts often have to extract the key points and convert them to layman’s terms manually. For domains like legal, documents are often needed to be manually analyzed in order to check if all the critical information is present in them and to extract the important points if needed. All these manual domain-specific tasks can be automated with the help of different Natural Language Processing (NLP) and Natural Language Generation (NLG) techniques. In this paper, some of the tools in NLP and NLG that can be used to automate the above-mentioned processes for key information extraction are discussed. We also bring forth two such domain-specific use cases where we attempt to provide suggestions to the subject experts to make their tasks easier using the tools discussed. © 2024, The Author(s), under exclusive license to Springer Nature Switzerland AG.
+KW  - Content automation
+KW  - Custom rule-based parsing
+KW  - Domain tasks
+KW  - Information extraction
+KW  - Named entity recognition
+KW  - Natural language generation
+KW  - Text simplification
+KW  - Text summarization
+KW  - Artificial intelligence
+KW  - Character recognition
+KW  - Information retrieval
+KW  - Text processing
+KW  - Content automation
+KW  - Custom rule-based parsing
+KW  - Domain specific
+KW  - Domain task
+KW  - Information extraction
+KW  - Named entity recognition
+KW  - Natural language generation
+KW  - Rule based
+KW  - Text simplification
+KW  - Text Summarisation
+KW  - Natural language processing systems
+A2  - Arai K.
+PB  - Springer Science and Business Media Deutschland GmbH
+SN  - 23673370 (ISSN); 978-303147714-0 (ISBN)
+LA  - English
+J2  - Lect. Notes Networks Syst.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 0; Correspondence Address: S. Biswas; ZS Associates Pune, Pune, India; email: snigdha.biswas@zs.com; Conference name: Intelligent Systems Conference, IntelliSys 2023; Conference date: 7 September 2023 through 8 September 2023; Conference code: 306609
+ER  -
+
+TY  - CONF
+AU  - Basha, T.Y.
+AU  - Kalyani, B.
+AU  - Sandeep, Y.
+TI  - Generative Artificial Intelligence in Legal Drafting
+PY  - 2024
+T2  - 2024 International Conference on Computational Intelligence for Green and Sustainable Technologies, ICCIGST 2024 - Proceedings
+DO  - 10.1109/ICCIGST60741.2024.10717541
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85208430466&doi=10.1109%2fICCIGST60741.2024.10717541&partnerID=40&md5=bd050f2e8aef083b4aa78358bf8fdbc3
+AD  - Velagapudi Ramakrishna Siddhartha Engineering College, Department of Information Technology, Vijayawada, India
+AB  - 'Lexi' is a light of clarity in a world where legal complexity frequently makes comprehension difficult. It is a tool that uses the revolutionary potential of generative Artificial Intelligence (AI) to completely change the process of producing legal documents. To simplify legal language and improve the accessibility and comprehension of legal documents, this paper introduces Lexi, a revolutionary tool. Through the integration of cutting-edge AI technology, Lexi not only improves legal drafting productivity but also supports legal communications that are clear and understandable. This innovation marks a paradigm change in legal documentation by emphasizing readability and ease of use and opening the door to a more diverse legal environment. © 2024 IEEE.
+KW  - AI-powered Tools
+KW  - Fine-Tuning
+KW  - Generative Artificial Intelligence
+KW  - Legal Drafting
+KW  - Legal Jargon Simplification
+KW  - NLP
+KW  - Prompt Engineering
+KW  - Generative adversarial networks
+KW  - Artificial intelligence technologies
+KW  - Artificial intelligence-powered tool
+KW  - Cutting edges
+KW  - Fine tuning
+KW  - Generative artificial intelligence
+KW  - Legal documentation
+KW  - Legal documents
+KW  - Legal drafting
+KW  - Legal jargon simplification
+KW  - Prompt engineering
+KW  - Drafting practice
+PB  - Institute of Electrical and Electronics Engineers Inc.
+SN  - 979-835038188-7 (ISBN)
+LA  - English
+J2  - Int. Conf. Comput. Intell. Green Sustain. Technol., ICCIGST - Proc.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 0; Correspondence Address: T.Y. Basha; Velagapudi Ramakrishna Siddhartha Engineering College, Department of Information Technology, Vijayawada, India; email: yahidbashat@gmail.com; Conference name: 2024 International Conference on Computational Intelligence for Green and Sustainable Technologies, ICCIGST 2024; Conference date: 18 July 2024 through 19 July 2024; Conference code: 203504
+ER  -
+

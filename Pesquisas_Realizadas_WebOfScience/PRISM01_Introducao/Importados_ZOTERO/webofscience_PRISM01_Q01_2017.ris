@@ -1,0 +1,378 @@
+﻿TY  - JOUR
+AU  - Ikebata, H
+AU  - Hongo, K
+AU  - Isomura, T
+AU  - Maezono, R
+AU  - Yoshida, R
+TI  - Bayesian molecularL design with a chemical language model
+T2  - JOURNAL OF COMPUTER-AIDED MOLECULAR DESIGN
+LA  - English
+KW  - Inverse-QSPR
+KW  - Molecular design
+KW  - Bayesian analysis
+KW  - Small organic molecules
+KW  - Natural language processing
+KW  - SMILES
+KW  - DE-NOVO DESIGN
+KW  - DRUG-LIKE MOLECULES
+KW  - STRUCTURE GENERATION
+KW  - GENETIC ALGORITHM
+KW  - KERNELS
+AB  - The aim of computational molecular design is the identification of promising hypothetical molecules with a predefined set of desired properties. We address the issue of accelerating the material discovery with state-of-the-art machine learning techniques. The method involves two different types of prediction; the forward and backward predictions. The objective of the forward prediction is to create a set of machine learning models on various properties of a given molecule. Inverting the trained forward models through Bayes' law, we derive a posterior distribution for the backward prediction, which is conditioned by a desired property requirement. Exploring high-probability regions of the posterior with a sequential Monte Carlo technique, molecules that exhibit the desired properties can computationally be created. One major difficulty in the computational creation of molecules is the exclusion of the occurrence of chemically unfavorable structures. To circumvent this issue, we derive a chemical language model that acquires commonly occurring patterns of chemical fragments through natural language processing of ASCII strings of existing compounds, which follow the SMILES chemical language notation. In the backward prediction, the trained language model is used to refine chemical strings such that the properties of the resulting structures fall within the desired property region while chemically unfavorable structures are successfully removed. The present method is demonstrated through the design of small organic molecules with the property requirements on HOMO-LUMO gap and internal energy. The R package iqspr is available at the CRAN repository.
+AD  - Grad Univ Adv Studies SOKENDAI, Tachikawa, Tokyo, JapanAD  - Japan Adv Inst Sci & Technol JAIST, Nomi, JapanAD  - NIMS, Tsukuba, Ibaraki, JapanAD  - Japan Sci & Technol Agcy JST, PRESTO, Kawaguchi, Saitama, JapanAD  - KAITEKI Inst Inc, Tokyo, JapanAD  - Res Org Informat & Syst, ISM, Tachikawa, Tokyo, JapanC3  - Graduate University for Advanced Studies - JapanC3  - Japan Advanced Institute of Science & Technology (JAIST)C3  - National Institute for Materials ScienceC3  - Japan Science & Technology Agency (JST)C3  - Research Organization of Information & Systems (ROIS)FU  - "Materials research by Information Integration Initiative" (MI<SUP>2</SUP>I) project of the Support Program for Starting Up Innovation Hub from Japan Science and Technology Agency (JST); Japan Society for the Promotion of Science (JSPS) [15H02672]; JST PRESTO; KAITEKI Institute, Inc.;  [16J09205]; Grants-in-Aid for Scientific Research [26287063, 17H05478, 16J09205, 15H02672] Funding Source: KAKEN
+FX  - This work was supported in part by the "Materials research by Information Integration Initiative" (MI<SUP>2</SUP>I) project of the Support Program for Starting Up Innovation Hub from Japan Science and Technology Agency (JST), Grant-in-Aid for Scientific Research (B) 15H02672 from the Japan Society for the Promotion of Science (JSPS), Grant-in-Aid for JSPS Fellows 16J09205, JST PRESTO, and The KAITEKI Institute, Inc. The quantum chemistry simulation in this work has been mostly performed using SGI Altix UV1000 of the Center for Information Science in JAIST.
+PU  - SPRINGER
+PI  - DORDRECHT
+PA  - VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN  - 0920-654X
+SN  - 1573-4951
+J9  - J COMPUT AID MOL DES
+JI  - J. Comput.-Aided Mol. Des.
+DA  - APR
+PY  - 2017
+VL  - 31
+IS  - 4
+SP  - 379
+EP  - 391
+DO  - 10.1007/s10822-016-0008-z
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000399659600004
+N1  - Times Cited in Web of Science Core Collection:  89
+Total Times Cited:  99
+Cited Reference Count:  35
+ER  -
+
+TY  - JOUR
+AU  - Hu, YJ
+AU  - Ye, XY
+AU  - Shaw, SL
+TI  - Extracting and analyzing semantic relatedness between cities using news articles
+T2  - INTERNATIONAL JOURNAL OF GEOGRAPHICAL INFORMATION SCIENCE
+LA  - English
+KW  - Place relatedness
+KW  - city network
+KW  - semantic analysis
+KW  - geospatial semantics
+KW  - spatial data mining
+KW  - geographic knowledge discovery
+KW  - WORLD CITY NETWORK
+KW  - 1ST LAW
+KW  - WORDNET
+KW  - HIERARCHIES
+KW  - SERVICES
+KW  - TOPICS
+KW  - GROWTH
+AB  - News articles capture a variety of topics about our society. They reflect not only the socioeconomic activities that happened in our physical world, but also some of the cultures, human interests, and public concerns that exist only in the perceptions of people. Cities are frequently mentioned in news articles, and two or more cities may co-occur in the same article. Such co-occurrence often suggests certain relatedness between the mentioned cities, and the relatedness may be under different topics depending on the contents of the news articles. We consider the relatedness under different topics as semantic relatedness. By reading news articles, one can grasp the general semantic relatedness between cities; yet, given hundreds of thousands of news articles, it is very difficult, if not impossible, for anyone to manually read them. This paper proposes a computational framework which can read' a large number of news articles and extract the semantic relatedness between cities. This framework is based on a natural language processing model and employs a machine learning process to identify the main topics of news articles. We describe the overall structure of this framework and its individual modules, and then apply it to an experimental dataset with more than 500,000 news articles covering the top 100 US cities spanning a 10-year period. We perform exploratory visualizations of the extracted semantic relatedness under different topics and over multiple years. We also analyze the impact of geographic distance on semantic relatedness and find varied distance decay effects. The proposed framework can be used to support large-scale content analysis in city network research.
+AD  - Univ Tennessee, Dept Geog, Knoxville, TN 37996 USAAD  - Kent State Univ, Dept Geog, Kent, OH 44242 USAC3  - University of Tennessee SystemC3  - University of Tennessee KnoxvilleC3  - University System of OhioC3  - Kent State UniversityC3  - Kent State University SalemC3  - Kent State University KentFU  - Directorate for Social, Behavioral and Economic Sciences [1416509]; Direct For Social, Behav & Economic Scie; SBE Off Of Multidisciplinary Activities [1416509] Funding Source: National Science Foundation
+FX  - This work was partially supported by the Directorate for Social, Behavioral and Economic Sciences [1416509].
+PU  - TAYLOR & FRANCIS LTD
+PI  - ABINGDON
+PA  - 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN  - 1365-8816
+SN  - 1362-3087
+J9  - INT J GEOGR INF SCI
+JI  - Int. J. Geogr. Inf. Sci.
+PY  - 2017
+VL  - 31
+IS  - 12
+SP  - 2427
+EP  - 2451
+DO  - 10.1080/13658816.2017.1367797
+WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:000411066300005
+N1  - Times Cited in Web of Science Core Collection:  35
+Total Times Cited:  41
+Cited Reference Count:  79
+ER  -
+
+TY  - CPAPER
+AU  - Sharma, S
+AU  - Kumar, P
+AU  - Kumar, K
+ED  - Shankar, BU
+ED  - Ghosh, K
+ED  - Mandal, DP
+ED  - Ray, SS
+ED  - Zhang, D
+ED  - Pal, SK
+TI  - LEXER: LEXicon Based Emotion AnalyzeR
+T2  - PATTERN RECOGNITION AND MACHINE INTELLIGENCE, PREMI 2017
+LA  - English
+CP  - 7th International Conference on Pattern Recognition and Machine Intelligence (PReMI)
+KW  - Emotion detection
+KW  - Natural language processing
+KW  - Security
+KW  - Prediction
+AB  - The huge population of India poses a challenge to government, security and law enforcement. What if we could know beforehand the consequences of any events. Social spaces, such as Twitter, Facebook, and Personal blogs, enable people to show their thoughts regarding public issues and topics. Public emotion regarding future and past events, like public gatherings, governmental policies, shows public beliefs and can be deployed to analyze the measure of support, disorder, or disrupted in such situations. Therefore, emotion analysis of Internet content may be beneficial for various organizations, particularly in government, law enforcement, and security sectors. This paper presents an extension to state-of-art-model for lexicon-based sentiment analysis algorithm for analysis of human emotions.
+AD  - Natl Inst Technol Uttarakhand, Dept Comp Sci & Engn, Srinagar, IndiaC3  - National Institute of Technology (NIT System)C3  - National Institute of Technology UttarakhandPU  - SPRINGER INTERNATIONAL PUBLISHING AG
+PI  - CHAM
+PA  - GEWERBESTRASSE 11, CHAM, CH-6330, SWITZERLAND
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 978-3-319-69900-4
+SN  - 978-3-319-69899-1
+J9  - LECT NOTES COMPUT SC
+PY  - 2017
+VL  - 10597
+SP  - 373
+EP  - 379
+DO  - 10.1007/978-3-319-69900-4_47
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000450772100047
+N1  - Times Cited in Web of Science Core Collection:  23
+Total Times Cited:  23
+Cited Reference Count:  13
+ER  -
+
+TY  - JOUR
+AU  - Sannier, N
+AU  - Adedjouma, M
+AU  - Sabetzadeh, M
+AU  - Briand, L
+TI  - An automated framework for detection and resolution of cross references in legal texts
+T2  - REQUIREMENTS ENGINEERING
+LA  - English
+KW  - Legal compliance
+KW  - Natural language processing (NLP)
+KW  - Cross references
+KW  - Conceptual modeling
+AB  - When identifying and elaborating compliance requirements, analysts need to follow the cross references in legal texts and consider the additional information in the cited provisions. Enabling easier navigation and handling of cross references requires automated support for the detection of the natural language expressions used in cross references, the interpretation of cross references in their context, and the linkage of cross references to the targeted provisions. In this article, we propose an approach and tool support for automated detection and resolution of cross references. The approach leverages the structure of legal texts, formalized into a schema, and a set of natural language patterns for legal cross reference expressions. These patterns were developed based on an investigation of Luxembourg's legislation, written in French. To build confidence about their applicability beyond the context where they were observed, these patterns were validated against the Personal Health Information Protection Act (PHIPA) by the Government of Ontario, Canada, written in both French and English. We report on an empirical evaluation where we assess the accuracy and scalability of our framework over several Luxembourgish legislative texts as well as PHIPA.
+AD  - Univ Luxembourg, Interdisciplinary Ctr Secur Reliabil & Trust SnT, 4 Rue Alphonse Weicker, L-2721 Luxembourg, LuxembourgC3  - University of LuxembourgFU  - Luxembourg's National Centre of Information Technologies (CTIE); Luxembourg's National Research Fund (FNR) [FNR/P10/03]
+FX  - Financial support for this work was provided by Luxembourg's National Centre of Information Technologies (CTIE) and Luxembourg's National Research Fund (FNR) under grant number FNR/P10/03. We are grateful to members of Luxembourg Inland Revenue Office (ACD) and CTIE, particularly, Thierry Prommenschenkel, Ludwig Balmer, Marc Blau, and Michael Masseroni for sharing their valuable knowledge and insights with us. We thank the anonymous reviewers of the RE Journal and the RE'14 conference for their insightful comments which helped us improve this article.
+PU  - SPRINGER
+PI  - NEW YORK
+PA  - ONE NEW YORK PLAZA, SUITE 4600, NEW YORK, NY, UNITED STATES
+SN  - 0947-3602
+SN  - 1432-010X
+J9  - REQUIR ENG
+JI  - Requir. Eng.
+DA  - JUN
+PY  - 2017
+VL  - 22
+IS  - 2
+SP  - 215
+EP  - 237
+DO  - 10.1007/s00766-015-0241-3
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000401006700003
+N1  - Times Cited in Web of Science Core Collection:  21
+Total Times Cited:  21
+Cited Reference Count:  34
+ER  -
+
+TY  - JOUR
+AU  - Roh, T
+AU  - Jeong, Y
+AU  - Yoon, B
+TI  - Developing a Methodology of Structuring and Layering Technological Information in Patent Documents through Natural Language Processing
+T2  - SUSTAINABILITY
+LA  - English
+KW  - text mining
+KW  - NLP
+KW  - technological information
+KW  - patent analysis
+KW  - text structure
+KW  - TRENDS
+AB  - Since patents contain various types of objective technological information, they are used to identify the characteristics of technology fields. Text mining in patent analysis is employed in various fields such as trend analysis and technology classification, and knowledge flow among technologies. However, since keyword-based text mining has the limitation whereby, when screening useful keywords, it frequently omits meaningful keywords, analyzers therefore need to repeat the careful scrutiny of the derived keywords to clarify the meaning of keywords. In this research, we structure meaningful keyword sets related to technological information from patent documents; then we layer the keywords, depending on the level of information. This research involves two steps. First, the characteristics of technological information are analyzed by reviewing the patent law and investigating the description of patent documents. Second, the technological information is structured by considering the information types, and the keywords in each type are layered through natural language processing. Consequently, the structured and layered keyword set does not omit useful keywords and the analyzer can easily understand the meaning of each keyword.
+AD  - Dongguk Univ, Sch Engn, Dept Ind & Syst Engn, 26,Pil Dong 3 Ga, Seoul 100715, South KoreaC3  - Dongguk UniversityFU  - National Research Foundation of Korea - Korean Government [NRF-2017R1D1A1A09000758]
+FX  - This work was supported by the National Research Foundation of Korea Grant funded by the Korean Government (NRF-2017R1D1A1A09000758).
+PU  - MDPI
+PI  - BASEL
+PA  - ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN  - 2071-1050
+J9  - SUSTAINABILITY-BASEL
+JI  - Sustainability
+DA  - NOV
+PY  - 2017
+VL  - 9
+IS  - 11
+C7  - 2117
+DO  - 10.3390/su9112117
+WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:000416793400195
+N1  - Times Cited in Web of Science Core Collection:  17
+Total Times Cited:  17
+Cited Reference Count:  48
+ER  -
+
+TY  - CPAPER
+AU  - Waltl, B
+AU  - Bonczek, G
+AU  - Scepankova, E
+AU  - Landthaler, J
+AU  - Matthes, F
+ED  - Parycek, P
+ED  - Charalabidis, Y
+ED  - Chugunov, AV
+ED  - Panagiotopoulos, P
+ED  - Pardo, TA
+ED  - Saebo, O
+ED  - Tambouris, E
+TI  - Predicting the Outcome of Appeal Decisions in Germany's Tax Law
+T2  - ELECTRONIC PARTICIPATION (EPART 2017)
+LA  - English
+CP  - 9th IFIP WG 8.5 International Conference on Electronic Participation (ePart)
+AB  - Predicting the outcome or the probability of winning a legal case has always been highly attractive in legal sciences and practice. Hardly any attempt has been made to predict the outcome of German cases, although prior court decisions become more and more important in various legal domains of Germany's jurisdiction, e.g., tax law.
+   This paper summarizes our research on training a machine learning classifier to determine likelihood ratios and thus predict the outcome of a restricted set of cases from Germany's jurisdiction. Based on a data set of German tax law cases (44 285 documents from 1945 to 2016) we selected those cases which belong to an appeal decision (5 990 documents). We used the provided meta-data and natural language processing to extract 11 relevant features and trained a Naive Bayes classifier to predict whether an appeal is going to be successful or not.
+   The evaluation (10-fold cross validation) on the data set has shown a performance regarding F-1-score between 0.53 and 0.58. This score indicates that there is room for improvement. We expect that the high relevancy for legal practice, the availability of data, and advance machine learning techniques will foster more research in this area.
+AD  - Tech Univ Munich, Software Engn Business Informat Syst, D-85748 Garching, GermanyC3  - Technical University of MunichPU  - SPRINGER INTERNATIONAL PUBLISHING AG
+PI  - CHAM
+PA  - GEWERBESTRASSE 11, CHAM, CH-6330, SWITZERLAND
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 978-3-319-64322-9
+SN  - 978-3-319-64321-2
+J9  - LECT NOTES COMPUT SC
+PY  - 2017
+VL  - 10429
+SP  - 89
+EP  - 99
+DO  - 10.1007/978-3-319-64322-9_8
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000431902300008
+N1  - Times Cited in Web of Science Core Collection:  12
+Total Times Cited:  12
+Cited Reference Count:  5
+ER  -
+
+TY  - JOUR
+AU  - Rabiei, M
+AU  - Hosseini-Motlagh, SM
+AU  - Haeri, A
+TI  - Using text mining techniques for identifying research gaps and priorities: a case study of the environmental science in Iran
+T2  - SCIENTOMETRICS
+LA  - English
+KW  - Research priority
+KW  - Research gap
+KW  - Text mining
+KW  - Environment studies
+KW  - Researchers' behavior analysis
+KW  - LOG FILES
+KW  - TRENDS
+KW  - PREDICTION
+KW  - RETRIEVAL
+KW  - DESIGN
+KW  - SYSTEM
+AB  - This study aims to observe the researchers' behavior in Iranian scientific databases to determine the research gaps and priorities in their field of research. Text mining and natural language processing techniques were used to identify what researchers are looking for and to analyze existing research works. In this paper, the information about the behavior of researchers who work in the field of environmental science and existing research works in the Iranian scientific database are processed. The search trends in all areas are evaluated by analyzing the users' search data. The trend analysis indicates that in the period of February 2013 to July 2015, the growth of the researchers' requests in some domains of the environment such as Industry, Training, Assessment, Material, Water and Pollution was 1.5 up to 2 times more than the overall requests. A Combination of the trend analysis and clustering of queries led to shaping four priority zones. Then, the research priorities for each environmental research area were determined. The results show that Training, Pollution, Rangeland, Management and Law are those domains in the environmental research which have the most research gaps in Iran, but there are enough research in Forest, Soil and Industry domains. At the end, we describe the steps for the implementation of a decision support system in environmental research management. Researchers, managers and policy makers can use this proposed "research demand and supply monitoring'' system or RDSM to make appropriate decisions and allocate their resources more efficiently.
+AD  - Iranian Res Inst Informat Sci & Technol IranDoc, Tehran 131573314, IranAD  - Iran Univ Sci & Technol, Sch Ind Engn, Tehran, IranC3  - Iran University Science & TechnologyFU  - Iranian Research Institute for Information Science and Technology (IRANDOC)
+FX  - The authors gratefully acknowledge the support of the Iranian Research Institute for Information Science and Technology (IRANDOC). And specially acknowledge the help of IRANDOC's R&D department.
+PU  - SPRINGER
+PI  - DORDRECHT
+PA  - VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN  - 0138-9130
+SN  - 1588-2861
+J9  - SCIENTOMETRICS
+JI  - Scientometrics
+DA  - FEB
+PY  - 2017
+VL  - 110
+IS  - 2
+SP  - 815
+EP  - 842
+DO  - 10.1007/s11192-016-2195-8
+WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:000394148300013
+N1  - Times Cited in Web of Science Core Collection:  10
+Total Times Cited:  11
+Cited Reference Count:  61
+ER  -
+
+TY  - CPAPER
+AU  - Bhatia, J
+AU  - Breaux, TD
+A1  - IEEE
+TI  - A Data Purpose Case Study of Privacy Policies
+T2  - 2017 IEEE 25TH INTERNATIONAL REQUIREMENTS ENGINEERING CONFERENCE (RE)
+LA  - English
+CP  - 25th IEEE International Requirements Engineering Conference (RE)
+KW  - data purpose
+KW  - information types
+KW  - natural language processing
+KW  - privacy
+KW  - policy
+KW  - content analysis
+KW  - requirements
+KW  - SPECIFICATIONS
+AB  - Privacy laws and international privacy standards require that companies collect only the data they have a stated purpose for, called collection limitation. Furthermore, these regimes prescribe that companies will not use data for purposes other than the purposes for which they were collected, called use limitation, except for legal purposes and when the user provides consent. To help companies write better privacy requirements that embody the use limitations and collection limitation principles, we conducted a case study to identify how purpose is expressed among five privacy policies from the shopping domain. Using content analysis, we discovered six exclusive data purpose categories. In addition, we observed natural language patterns to express purpose. Finally, we found that data purpose specificity varies with the specificity of information type descriptions. We believe this taxonomy and the patterns can help policy analysts discover missing or underspecified purposes to better comply with the collection and use limitation principles.
+AD  - Carnegie Mellon Univ, Inst Software Res, Pittsburgh, PA 15213 USAC3  - Carnegie Mellon UniversityFU  - NSF Frontier Award [1330596]; NSF CAREER Award [1453139]; NSA [141333]; Direct For Computer & Info Scie & Enginr; Division of Computing and Communication Foundations [1453139] Funding Source: National Science Foundation
+FX  - We thank the CMU RE Lab for their helpful feedback. Funded provided by NSF Frontier Award #1330596, NSF CAREER Award #1453139 and NSA #141333.
+PU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 2332-6441
+SN  - 978-1-5386-3191-1
+J9  - INT REQUIR ENG CONF
+PY  - 2017
+SP  - 394
+EP  - 399
+DO  - 10.1109/RE.2017.56
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000427159100041
+N1  - Times Cited in Web of Science Core Collection:  10
+Total Times Cited:  16
+Cited Reference Count:  18
+ER  -
+
+TY  - CPAPER
+AU  - Kejriwal, M
+AU  - Szekely, P
+ED  - DAmato, C
+ED  - Fernandez, M
+ED  - Tamma, V
+ED  - Lecue, F
+ED  - CudreMauroux, P
+ED  - Sequeda, J
+ED  - Lange, C
+ED  - Heflin, J
+TI  - An Investigative Search Engine for the Human Trafficking Domain
+T2  - SEMANTIC WEB - ISWC 2017, PT II
+LA  - English
+CP  - 16th International Semantic Web Conference (ISWC)
+KW  - Knowledge graphs
+KW  - Investigative search
+KW  - Human trafficking
+KW  - Illicit domains
+KW  - Knowledge graph construction
+AB  - Enabling intelligent search systems that can navigate and facet on entities, classes and relationships, rather than plain text, to answer questions in complex domains is a longstanding aspect of the Semantic Web vision. This paper presents an investigative search engine that meets some of these challenges, at scale, for a variety of complex queries in the human trafficking domain. The engine provides a real-world case study of synergy between technology derived from research communities as diverse as Semantic Web (investigative ontologies, SPARQLinspired querying, Linked Data), Natural Language Processing (knowledge graph construction, word embeddings) and Information Retrieval (fast, user-driven relevance querying). The search engine has been rigorously prototyped as part of the DARPA MEMEX program and has been integrated into the latest version of the Domain-specific Insight Graph (DIG) architecture, currently used by hundreds of US law enforcement agencies for investigating human trafficking. Over a hundred millions ads have been indexed. The engine is also being extended to other challenging illicit domains, such as securities and penny stock fraud, illegal firearm sales, and patent trolling, with promising results.
+AD  - Informat Sci Inst, Marina Del Rey, CA 90292 USAFU  - Defense Advanced Research Projects Agency (DARPA); Air Force Research Laboratory (AFRL) [FA8750-14-C-0240]
+FX  - We gratefully acknowledge our collaborators and all (former and current) members of our team who contributed their efforts and expertise to DIG, particularly during the dry and final evaluation runs: Amandeep Singh, Linhong Zhu, Lingzhe Teng, Nimesh Jain, Rahul Kapoor, Muthu Rajendran R. Gurumoorthy, Sanjay Singh, Majid Ghasemi Gol, Brian Amanatullah, Craig Knoblock and Steve Minton. This research is supported by the Defense Advanced Research Projects Agency (DARPA) and the Air Force Research Laboratory (AFRL) under contract number FA8750-14-C-0240. The views and conclusions contained herein are those of the authors and should not be interpreted as necessarily representing the official policies or endorsements, either expressed or implied, of DARPA, AFRL, or the U.S. Government.
+PU  - SPRINGER INTERNATIONAL PUBLISHING AG
+PI  - CHAM
+PA  - GEWERBESTRASSE 11, CHAM, CH-6330, SWITZERLAND
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 978-3-319-68204-4
+SN  - 978-3-319-68203-7
+J9  - LECT NOTES COMPUT SC
+PY  - 2017
+VL  - 10588
+SP  - 247
+EP  - 262
+DO  - 10.1007/978-3-319-68204-4_25
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000521393300025
+N1  - Times Cited in Web of Science Core Collection:  9
+Total Times Cited:  12
+Cited Reference Count:  22
+ER  -
+
+TY  - JOUR
+AU  - Takahashi, S
+AU  - Tanaka-Ishii, K
+TI  - Do neural nets learn statistical laws behind natural language?
+T2  - PLOS ONE
+LA  - English
+KW  - LONG-RANGE CORRELATIONS
+KW  - INFORMATION
+AB  - The performance of deep learning in natural language processing has been spectacular, but the reasons for this success remain unclear because of the inherent complexity of deep learning. This paper provides empirical evidence of its effectiveness and of a limitation of neural networks for language engineering. Precisely, we demonstrate that a neural language model based on long short-term memory (LSTM) effectively reproduces Zipf's law and Heaps' law, two representative statistical properties underlying natural language. We discuss the quality of reproducibility and the emergence of Zipf's law and Heaps' law as training progresses. We also point out that the neural language model has a limitation in reproducing long-range correlation, another statistical property of natural language. This understanding could provide a direction for improving the architectures of neural networks.
+AD  - Univ Tokyo, Grad Sch Frontier Sci, Chiba 2778563, JapanAD  - Univ Tokyo, Res Ctr Adv Sci & Technol, Tokyo 1538904, JapanC3  - University of TokyoC3  - University of TokyoFU  - grant PRESTO of Japan Science and Technology Agency; HITE of Research Institute of Science and Technology for Society; JST PRESTO; RISTEX HITE
+FX  - This study was funded by the grant PRESTO of Japan Science and Technology Agency and HITE of Research Institute of Science and Technology for Society. We thank JST PRESTO and RISTEX HITE for financial support. Moreover, we thank Ryosuke Takahira of the Tanaka-Ishii Group for his help in creating Fig 6.
+PU  - PUBLIC LIBRARY SCIENCE
+PI  - SAN FRANCISCO
+PA  - 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN  - 1932-6203
+J9  - PLOS ONE
+JI  - PLoS One
+DA  - DEC 29
+PY  - 2017
+VL  - 12
+IS  - 12
+C7  - e0189326
+DO  - 10.1371/journal.pone.0189326
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000419096600008
+N1  - Times Cited in Web of Science Core Collection:  8
+Total Times Cited:  9
+Cited Reference Count:  54
+ER  -
+

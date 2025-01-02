@@ -1,0 +1,175 @@
+﻿TY  - CONF
+AU  - Duan, X.
+AU  - Wang, B.
+AU  - Wang, Z.
+AU  - Ma, W.
+AU  - Cui, Y.
+AU  - Wu, D.
+AU  - Wang, S.
+AU  - Liu, T.
+AU  - Huo, T.
+AU  - Hu, Z.
+AU  - Wang, H.
+AU  - Liu, Z.
+TI  - CJRC: A Reliable Human-Annotated Benchmark DataSet for Chinese Judicial Reading Comprehension
+PY  - 2019
+T2  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 11856 LNAI
+SP  - 439
+EP  - 451
+DO  - 10.1007/978-3-030-32381-3_36
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85075712647&doi=10.1007%2f978-3-030-32381-3_36&partnerID=40&md5=7e3c44b5e008fe55ba1e7d93d44bc4c4
+AD  - Joint Laboratory of HIT and iFLYTEK (HFL), iFLYTEK Research, Beijing, China
+AD  - Research Center for Social Computing and Information Retrieval (SCIR), Harbin Institute of Technology, Harbin, China
+AD  - China Justice Big Data Institute, Beijing, China
+AD  - Department of Computer Science and Technology, Tsinghua University, Beijing, China
+AB  - We present a Chinese judicial reading comprehension (CJRC) dataset which contains approximately 10K documents and almost 50K questions with answers. The documents come from judgment documents and the questions are annotated by law experts. The CJRC dataset can help researchers extract elements by reading comprehension technology. Element extraction is an important task in the legal field. However, it is difficult to predefine the element types completely due to the diversity of document types and causes of action. By contrast, machine reading comprehension technology can quickly extract elements by answering various questions from the long document. We build two strong baseline models based on BERT and BiDAF. The experimental results show that there is enough space for improvement compared to human annotators. © 2019, Springer Nature Switzerland AG.
+KW  - Baseline models
+KW  - Benchmark datasets
+KW  - Element extraction
+KW  - Element type
+KW  - Reading comprehension
+KW  - Computational linguistics
+A2  - Sun M.
+A2  - Liu Y.
+A2  - Liu Z.
+A2  - Huang X.
+A2  - Ji H.
+PB  - Springer
+SN  - 03029743 (ISSN); 978-303032380-6 (ISBN)
+LA  - English
+J2  - Lect. Notes Comput. Sci.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 52; Correspondence Address: X. Duan; Joint Laboratory of HIT and iFLYTEK (HFL), iFLYTEK Research, Beijing, China; email: xyduan@iflytek.com; Conference name: 18th China National Conference on Computational Linguistics, CCL 2019; Conference date: 18 October 2019 through 20 October 2019; Conference code: 233289
+ER  -
+
+TY  - JOUR
+AU  - Spence, B.C.
+TI  - Interpreting early species range descriptions for Pacific salmon, Oncorhynchus spp., in coastal California watersheds: The historical context
+PY  - 2019
+T2  - Marine Fisheries Review
+VL  - 81
+IS  - 1
+SP  - 1
+EP  - 39
+DO  - 10.7755/MFR.81.1.1
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85076355086&doi=10.7755%2fMFR.81.1.1&partnerID=40&md5=f0013419e7bf2aec8bcf52771a5664e9
+AD  - Fisheries Ecology Division, Southwest Fisheries Science Center, National Marine Fisheries Service, NOAA, 110 Shaffer Road, Santa Cruz, 95060, CA, United States
+AB  - Scientists and managscientists and others have often taken these ers implementing endangered species laws es. Further confounding interpretation of early range descriptions at face value, often face the task of defining the histori-early reports is that the first systematic ex-without critically examining the underlying cal geographic ranges for threatened and plorations of coastal watersheds took place historical context. When Jordan and his endangered species. To do so, they com-well after significant anthropogenic damage contemporaries first began writing about monly turn to the writings of early bioloto salmon habitats had already occurred; the ranges of Pacific salmon, scientific ex-gists seeking accounts of species in regions thus, failure to detect species on these surploration of coastal watersheds of Cali-where they may have been extirpated as a veys does not necessarily indicate a species fornia was in its infancy. Additionally, the result of anthropogenic activities over the was absent, either at the time of the survey taxonomy and nomenclature of Pacific sallast 150–175 years. In the case of Pacific or in the years prior to significant human monids were in states of extreme disarray, salmon, Oncorhynchus spp., the writings disturbances. As a result, any single writ-with numerous putative species described of David Starr Jordan, Charles Henry Giling of Jordan’s and his colleagues between based on variations due to age, sex, and bert, John Otterbein Snyder, and other facthe late 1870’s and the early 1900’s is like-reproductive condition. ulty and staff at Stanford University during ly to contain species range information that Even after Jordan and Gilbert began the late 1800’s and early 1900’s have been is equivocal, if not demonstrably inaccuto resolve Pacific salmon taxonomy in the particularly influential, as these scientists rate. This is not to disparage Jordan and his 1880’s, confusion in nomenclature, exacerwere widely recognized as the leading aucontemporaries in any way or to diminish bated by a primitive understanding of Pacifthorities on west coast fishes and salmotheir extraordinary scientific achievements. ic salmon life histories, contributed to frenids in particular. However, scientists and managers need to quent misidentification of west coast salmoBecause of the tremendous achieve-be cognizant of these limitations when using nids and hence inaccurate descriptions of ments of these pioneering ichthyologists, historical writings to guide management of their historical freshwater spawning rang-endangered species. © 2019 National Marine Fisheries Service. All rights reserved.
+KW  - Cali
+KW  - California
+KW  - Colombia
+KW  - Jordan
+KW  - United States
+KW  - Valle del Cauca
+KW  - Oncorhynchus
+KW  - Pisces
+KW  - anthropogenic effect
+KW  - conservation management
+KW  - conservation status
+KW  - endangered species
+KW  - freshwater environment
+KW  - human activity
+KW  - nomenclature
+KW  - salmonid
+KW  - species conservation
+KW  - taxonomy
+KW  - watershed
+PB  - National Marine Fisheries Service
+SN  - 00901830 (ISSN)
+LA  - English
+J2  - Mar. Fish. Rev.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 1; Correspondence Address: B.C. Spence; Fisheries Ecology Division, Southwest Fisheries Science Center, National Marine Fisheries Service, NOAA, Santa Cruz, 110 Shaffer Road, 95060, United States; email: brian.spence@noaa.gov
+ER  -
+
+TY  - CONF
+AU  - Yamakoshi, T.
+AU  - Komamizu, T.
+AU  - Ogawa, Y.
+AU  - Toyama, K.
+TI  - Japanese Mistakable Legal Term Correction using Infrequency-aware BERT Classifier
+PY  - 2019
+T2  - Proceedings - 2019 IEEE International Conference on Big Data, Big Data 2019
+C7  - 9006511
+SP  - 4342
+EP  - 4351
+DO  - 10.1109/BigData47090.2019.9006511
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85081324514&doi=10.1109%2fBigData47090.2019.9006511&partnerID=40&md5=61faef3e5bfd6ae0e05bca12d3a0994c
+AD  - Nagoya University, Japan
+AB  - We propose a method that assists legislative drafters in locating inappropriate legal terms in Japanese statutory sentences and suggests corrections. We focus on sets of mistakable legal terms whose usages are defined in legislation drafting rules. Our method predicts suitable legal terms using a classifier based on a BERT (Bidirectional Encoder Representations from Transformers) model. We apply three techniques in training the BERT classifier, specifically, preliminary domain adaptation, repetitive soft undersampling, and classifier unification. These techniques cope with two levels of infrequency: legal term-level infrequency that causes class imbalance and legal term set-level infrequency that causes underfitting. Concretely, preliminary domain adaptation improves overall performance by providing prior knowledge of statutory sentences, repetitive soft undersampling improves performance on infrequent legal terms without sacrificing performance on frequent legal terms, and classifier unification improves performance on infrequent legal term sets by sharing common knowledge among legal term sets. Our experiments show that our classifier outperforms conventional classifiers using Random Forest or a language model, and that all three training techniques contribute to performance improvement. © 2019 IEEE.
+KW  - BERT
+KW  - Japanese
+KW  - legal term
+KW  - term correction
+KW  - Decision trees
+KW  - Laws and legislation
+KW  - Random forests
+KW  - BERT
+KW  - Common knowledge
+KW  - Conventional classifier
+KW  - Domain adaptation
+KW  - Japanese
+KW  - legal term
+KW  - Prior knowledge
+KW  - Training techniques
+KW  - Big data
+A2  - Baru C.
+A2  - Huan J.
+A2  - Khan L.
+A2  - Hu X.T.
+A2  - Ak R.
+A2  - Tian Y.
+A2  - Barga R.
+A2  - Zaniolo C.
+A2  - Lee K.
+A2  - Ye Y.F.
+PB  - Institute of Electrical and Electronics Engineers Inc.
+SN  - 978-172810858-2 (ISBN)
+LA  - English
+J2  - Proc. - IEEE Int. Conf. Big Data, Big Data
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 2; Conference name: 2019 IEEE International Conference on Big Data, Big Data 2019; Conference date: 9 December 2019 through 12 December 2019; Conference code: 157991
+ER  -
+
+TY  - CONF
+AU  - Alloatti, F.
+AU  - Caro, L.D.
+AU  - Sportelli, G.
+TI  - Real life application of a question answering system using bert language model
+PY  - 2019
+T2  - SIGDIAL 2019 - 20th Annual Meeting of the Special Interest Group Discourse Dialogue - Proceedings of the Conference
+SP  - 250
+EP  - 253
+DO  - 10.18653/v1/w19-5930
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85091584760&doi=10.18653%2fv1%2fw19-5930&partnerID=40&md5=917a2b7cbb130185fdb9ea82a80eee11
+AD  - CELI - Language Technology, Italy
+AD  - Department of Computer Science, Università degli Studi di Torino, Italy
+AB  - Real life scenarios are often left untouched by the newest advances in research. They usually require the resolution of some specific task applied to a restricted domain, all the while providing small amounts of data to begin with. In this study we apply one of the newest innovations in Deep Learning to a task of text classification. The goal is to create a question answering system in Italian that provides information about a specific subject, e-invoicing and digital billing. Italy recently introduced a new legislation about e-invoicing and people have some legit doubts, therefore a large share of professionals could benefit from this tool. We gathered few pairs of question and answers; afterwards, we expanded the data, using it as a training corpus for BERT language model. Through a separate test corpus we evaluated the accuracy of the answer provided. Values show that the automatic system alone performs surprisingly well. The demo interface is hosted on Telegram, which makes the system immediately available to test. ©2019 Association for Computational Linguistics
+KW  - Classification (of information)
+KW  - Computational linguistics
+KW  - Deep learning
+KW  - Natural language processing systems
+KW  - Text processing
+KW  - Automatic systems
+KW  - Language model
+KW  - Question answering systems
+KW  - Real-life applications
+KW  - Restricted-domain
+KW  - Specific tasks
+KW  - Test corpus
+KW  - Text classification
+KW  - Training corpus
+KW  - Laws and legislation
+PB  - Association for Computational Linguistics (ACL)
+SN  - 978-195073761-1 (ISBN)
+LA  - English
+J2  - SIGDIAL - Annu. Meet. Spec. Interest Group Discourse Dial. - Proc. Conf.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 12; Conference name: 20th Annual Meeting of the Special Interest Group on Discourse and Dialogue, SIGDIAL 2019; Conference date: 11 September 2019 through 13 September 2019; Conference code: 161400
+ER  -
+

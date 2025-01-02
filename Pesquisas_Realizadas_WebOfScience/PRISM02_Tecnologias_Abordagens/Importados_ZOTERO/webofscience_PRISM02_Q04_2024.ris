@@ -1,0 +1,105 @@
+﻿TY  - JOUR
+AU  - Martínez, E
+TI  - Re-evaluating GPT-4's bar exam performance
+T2  - ARTIFICIAL INTELLIGENCE AND LAW
+LA  - English
+KW  - NLP
+KW  - Legal NLP
+KW  - Legal analytics
+KW  - Natural language processing
+KW  - Machine learning
+KW  - Artificial intelligence
+KW  - Artificial intelligence and law
+KW  - Law and technology
+KW  - Legal profession
+KW  - LAW
+AB  - Perhaps the most widely touted of GPT-4's at-launch, zero-shot capabilities has been its reported 90th-percentile performance on the Uniform Bar Exam. This paper begins by investigating the methodological challenges in documenting and verifying the 90th-percentile claim, presenting four sets of findings that indicate that OpenAI's estimates of GPT-4's UBE percentile are overinflated. First, although GPT-4's UBE score nears the 90th percentile when examining approximate conversions from February administrations of the Illinois Bar Exam, these estimates are heavily skewed towards repeat test-takers who failed the July administration and score significantly lower than the general test-taking population. Second, data from a recent July administration of the same exam suggests GPT-4's overall UBE percentile was below the 69th percentile, and similar to \documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\sim$$\end{document} 48th percentile on essays. Third, examining official NCBE data and using several conservative statistical assumptions, GPT-4's performance against first-time test takers is estimated to be similar to \documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\sim$$\end{document} 62nd percentile, including similar to \documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\sim$$\end{document} 42nd percentile on essays. Fourth, when examining only those who passed the exam (i.e. licensed or license-pending attorneys), GPT-4's performance is estimated to drop to similar to \documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\sim$$\end{document} 48th percentile overall, and similar to \documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\sim$$\end{document} 15th percentile on essays. In addition to investigating the validity of the percentile claim, the paper also investigates the validity of GPT-4's reported scaled UBE score of 298. The paper successfully replicates the MBE score, but highlights several methodological issues in the grading of the MPT + MEE components of the exam, which call into question the validity of the reported essay score. Finally, the paper investigates the effect of different hyperparameter combinations on GPT-4's MBE performance, finding no significant effect of adjusting temperature settings, and a significant effect of few-shot chain-of-thought prompting over basic zero-shot prompting. Taken together, these findings carry timely insights for the desirability and feasibility of outsourcing legally relevant tasks to AI models, as well as for the importance for AI developers to implement rigorous and transparent capabilities evaluations to help secure safe and trustworthy AI.
+AD  - MIT, Dept Brain & Cognit Sci, Cambridge, MA 02138 USAC3  - Massachusetts Institute of Technology (MIT)FU  - Massachusetts Institute of Technology (MIT)
+FX  - Acknowledgements omitted for anonymous review.
+PU  - SPRINGER
+PI  - DORDRECHT
+PA  - VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN  - 0924-8463
+SN  - 1572-8382
+J9  - ARTIF INTELL LAW
+JI  - Artif. Intell. Law
+DA  - 2024 MAR 30
+PY  - 2024
+DO  - 10.1007/s10506-024-09396-9
+C6  - MAR 2024
+WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:001194581100001
+N1  - Times Cited in Web of Science Core Collection:  4
+Total Times Cited:  5
+Cited Reference Count:  77
+ER  -
+
+TY  - JOUR
+AU  - Gomez, FJD
+AU  - Galende, JN
+TI  - ChatGPT and GPT-4: utilities in the legal sector, functioning, limitations and risks of foundational models
+T2  - TECNOLOGIA CIENCIA Y EDUCACION
+LA  - Spanish
+KW  - ChatGPT
+KW  - GPT-4
+KW  - OpenAI
+KW  - artificial intelligence
+KW  - legal tech
+KW  - natural language processing
+KW  - intellectual property
+KW  - data protection
+KW  - legal industry innovation
+KW  - LAW
+AB  - Artificial intelligence systems such as ChatGPT, the OpenAI chatbot, based on the language model family GPT (generative pre -trained transformers), as well as other solutions built on this technology and fine-tuned for specific tasks, have generated considerable interest across various sectors, including the legal sector. However, such models still feature important limitations and legal risks associated to their use, which must be considered in order to make a proper and legally responsible use of this technology. This work aims to familiarize the readers (men and women) with the configuration, architecture, and functioning of these systems, as well as their functionalities in the legal sector. It includes a review of their associated legal limitations and risks, with crucial practical implications in their application.
+AD  - Univ Cantabria, LLM Derecho Int los Negocios, Ctr Estudios Garrigues, Santander, SpainAD  - Univ Autonoma Madrid, Derecho & Adm Empresas, Madrid, SpainAD  - Ctr Estudios Garrigues, LLM Derecho Int Negocios, Madrid, SpainC3  - Universidad de CantabriaC3  - Autonomous University of MadridPU  - CENTRO ESTUDIOS FINANCIEROS
+PI  - MADRID
+PA  - P A GENERAL MARTANEZ CAMPOS, MADRID, 5, SPAIN
+SN  - 2444-250X
+SN  - 2444-2887
+J9  - TECNOL CIENC ED-ESP
+JI  - Tecnol. Cienc. Educ.
+DA  - MAY-AUG
+PY  - 2024
+IS  - 28
+SP  - 45
+EP  - 88
+DO  - 10.51302/tce.2024.19081
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001222663200006
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  202
+ER  -
+
+TY  - CPAPER
+AU  - Vayadande, K
+AU  - Bhat, A
+AU  - Bachhav, P
+AU  - Bhoyar, A
+AU  - Charoliya, Z
+AU  - Chavan, A
+A1  - IEEE COMPUTER SOC
+TI  - AI-Powered Legal Documentation Assistant
+T2  - 2024 4TH INTERNATIONAL CONFERENCE ON PERVASIVE COMPUTING AND SOCIAL NETWORKING, ICPCSN 2024
+LA  - English
+CP  - 4th International Conference on Pervasive Computing and Social Networking (ICPCSN)
+KW  - Legal Document Processing
+KW  - Natural Language Processing (NLP)
+KW  - Irregularities Detection
+KW  - Legal Technology
+KW  - OpenAI Embeddings
+KW  - LAW
+AB  - Legal systems worldwide vary in structure and principles, reflecting the diverse legal traditions of different countries. The legal system, inherently complex and reliant on meticulous documentation, often faces challenges related to time-consuming manual processes and the potential for human errors. The system proposed provides a transformative solution to the above problems. The system emerges as a groundbreaking solution within the intricate landscape of legal systems which responds to these challenges by seamlessly integrating advanced AI techniques. At its core, OpenAI embeddings takes center stage, demonstrating unparalleled proficiency in document generation, comprehension, and abnormality detection, addressing the complexities ingrained in legal documentation. In contrast to traditional approaches, this system maximizes the versatility of ChatGPT 3.5, allowing it to not only issue commands but also proficiently generate a diverse array of legal documents. By incorporating an understanding module equipped with PyPDF, Amazon Textract, and langchain utilities, the system adeptly handles document intricacies. The utilization of OpenAI Embeddings further enhances natural language understanding. Leveraging sentiment analysis and Named Entity Recognition (NER) in its natural language processing (NLP) toolkit, the system employs an intuitive web interface for irregularities detection. The exploration of AI for automated irregularity detection showcases its transformative potential in ensuring document accuracy within the legal domain. This project, therefore, stands as a beacon of innovation, promising to reshape the dynamics of legal document processing by merging advanced AI capabilities with the unique demands of legal systems.
+AD  - Vishwakarma Inst Technol, Dept Informat Technol, Pune, Maharashtra, IndiaPU  - IEEE COMPUTER SOC
+PI  - LOS ALAMITOS
+PA  - 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1264 USA
+SN  - 979-8-3503-8635-6
+SN  - 979-8-3503-8634-9
+PY  - 2024
+SP  - 84
+EP  - 91
+DO  - 10.1109/ICPCSN62568.2024.00022
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:001289477900015
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  16
+ER  -
+

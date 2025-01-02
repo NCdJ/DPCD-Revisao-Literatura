@@ -1,0 +1,616 @@
+﻿TY  - JOUR
+AU  - Park, J.H.
+AU  - Kim, J.H.
+AU  - Rogowski, L.
+AU  - Al Shami, S.
+AU  - Howell, S.E.I.
+TI  - Implementation of teledentistry for orthodontic practices
+PY  - 2021
+T2  - Journal of the World Federation of Orthodontists
+VL  - 10
+IS  - 1
+SP  - 9
+EP  - 13
+DO  - 10.1016/j.ejwf.2021.01.002
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85101599462&doi=10.1016%2fj.ejwf.2021.01.002&partnerID=40&md5=a86b8d4f80ed3dfd088e875becd5c334
+AD  - Professor and Chair, Postgraduate Orthodontic Program, Arizona School of Dentistry & Oral Health, A.T. Still University, Mesa, AZ, United States
+AD  - International Scholar, Graduate School of Dentistry, Kyung Hee University, Seoul, South Korea
+AD  - Orthodontic Resident, Postgraduate Orthodontic Program, Arizona School of Dentistry & Oral Health, A.T. Still University, Mesa, AZ, United States
+AD  - International Orthodontic Fellow, Postgraduate Orthodontic Program, Arizona School of Dentistry & Oral Health, A.T. Still University, Mesa, AZ, United States
+AD  - Director of Public Health Dentistry & Teledentistry, Arizona School of Dentistry & Oral Health, A.T. Still University, Mesa, AZ, United States
+AB  - Recent advances in technology, growing patient demand, and the need for social distancing due to Coronavirus Disease 2019 has expedited adoption of teledentistry in orthodontics as a means of consulting and monitoring a patient without an in-office visit. However, a lack of computer literacy and knowledge of software choices, and concerns regarding patient safety and potential infringement of regulations can make venturing into this new technology intimidating. In this article, various types of teledentistry systems for orthodontic practices, implementation guidelines, and important regulatory considerations on the use of teledentistry for orthodontic purposes are discussed. A thorough evaluation of the intended use of the software should precede commitment to a service. Selected service should be Health Insurance Portability and Accountability Act compliant at minimum and a Business Associate Agreement should be in place for protection of privacy. Ensuring the compatibility of the designated clinic computer with the system's requirements and installation of all safeguards must follow. Appointments should be documented in the same manner as in-office visits and teledentistry patients must be located within the clinician's statutory license boundary. Informed consent forms should include teledentistry or a supplemental teledentistry consent form should be used. Malpractice insurance covers everything usual and customary under the provider's license but the need for cyber liability insurance increases with teledentistry. © 2021 World Federation of Orthodontists
+KW  - Artificial intelligence (AI)-assisted treatment monitoring
+KW  - Business Associate Agreement (BAA)
+KW  - Health Insurance Portability and Accountability Act (HIPAA)
+KW  - Telecommunication
+KW  - Teleconsultation
+KW  - Teledentistry
+KW  - Artificial Intelligence
+KW  - COVID-19
+KW  - Health Insurance Portability and Accountability Act
+KW  - Humans
+KW  - Orthodontics
+KW  - Pandemics
+KW  - Pneumonia, Viral
+KW  - Privacy
+KW  - SARS-CoV-2
+KW  - Telemedicine
+KW  - United States
+KW  - ambulatory care
+KW  - Article
+KW  - computer literacy
+KW  - computer security
+KW  - dentistry
+KW  - health care cost
+KW  - health care delivery
+KW  - health insurance
+KW  - human
+KW  - information security
+KW  - informed consent
+KW  - malpractice
+KW  - medical liability
+KW  - orthodontic procedure
+KW  - patient scheduling
+KW  - practice guideline
+KW  - prescription
+KW  - privacy
+KW  - teledentistry
+KW  - telemedicine
+KW  - artificial intelligence
+KW  - legislation and jurisprudence
+KW  - orthodontics
+KW  - pandemic
+KW  - procedures
+KW  - telemedicine
+KW  - United States
+KW  - virus pneumonia
+PB  - Elsevier Inc.
+SN  - 22124438 (ISSN)
+C2  - 33642260
+LA  - English
+J2  - J. World Fed. Orthod.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 12; Correspondence Address: J.H. Park; Postgraduate Orthodontic Program, Arizona School of Dentistry & Oral Health, A.T. Still University, Mesa, 5855 East Still Circle, 85206, United States; email: JPark@atsu.edu
+ER  -
+
+TY  - JOUR
+AU  - Chua, I.S.
+AU  - Gaziel-Yablowitz, M.
+AU  - Korach, Z.T.
+AU  - Kehl, K.L.
+AU  - Levitan, N.A.
+AU  - Arriaga, Y.E.
+AU  - Jackson, G.P.
+AU  - Bates, D.W.
+AU  - Hassett, M.
+TI  - Artificial intelligence in oncology: Path to implementation
+PY  - 2021
+T2  - Cancer Medicine
+VL  - 10
+IS  - 12
+SP  - 4138
+EP  - 4149
+DO  - 10.1002/cam4.3935
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85105187065&doi=10.1002%2fcam4.3935&partnerID=40&md5=24051cb75b245c2c8ef47c992317ba69
+AD  - Division of General Internal Medicine and Primary Care, Department of Medicine, Brigham and Women's Hospital, Boston, MA, United States
+AD  - Department of Psychosocial Oncology and Palliative Care, Dana-Farber Cancer Institute, Boston, MA, United States
+AD  - Harvard Medical School, Boston, MA, United States
+AD  - Division of Population Sciences, Dana-Farber Cancer Institute, Boston, MA, United States
+AD  - Department of Medical Oncology, Dana-Farber Cancer Institute, Boston, MA, United States
+AD  - IBM Watson Health, Cambridge, MA, United States
+AD  - Department of Pediatric Surgery, Vanderbilt University Medical Center, Nashville, TN, United States
+AB  - In recent years, the field of artificial intelligence (AI) in oncology has grown exponentially. AI solutions have been developed to tackle a variety of cancer-related challenges. Medical institutions, hospital systems, and technology companies are developing AI tools aimed at supporting clinical decision making, increasing access to cancer care, and improving clinical efficiency while delivering safe, high-value oncology care. AI in oncology has demonstrated accurate technical performance in image analysis, predictive analytics, and precision oncology delivery. Yet, adoption of AI tools is not widespread, and the impact of AI on patient outcomes remains uncertain. Major barriers for AI implementation in oncology include biased and heterogeneous data, data management and collection burdens, a lack of standardized research reporting, insufficient clinical validation, workflow and user-design challenges, outdated regulatory and legal frameworks, and dynamic knowledge and data. Concrete actions that major stakeholders can take to overcome barriers to AI implementation in oncology include training and educating the oncology workforce in AI; standardizing data, model validation methods, and legal and safety regulations; funding and conducting future research; and developing, studying, and deploying AI tools through multidisciplinary collaboration. © 2021 The Authors. Cancer Medicine published by John Wiley & Sons Ltd.
+KW  - artificial intelligence
+KW  - deep learning
+KW  - machine learning
+KW  - oncology
+KW  - Artificial Intelligence
+KW  - Bias
+KW  - Data Collection
+KW  - Decision Support Systems, Clinical
+KW  - Humans
+KW  - Image Interpretation, Computer-Assisted
+KW  - Machine Learning
+KW  - Medical Oncology
+KW  - Precision Medicine
+KW  - Research Report
+KW  - adoption
+KW  - artificial intelligence
+KW  - cancer model
+KW  - clinical decision making
+KW  - deep learning
+KW  - funding
+KW  - hospital planning
+KW  - image analysis
+KW  - review
+KW  - tumor-related gene
+KW  - validation process
+KW  - workflow
+KW  - workforce
+KW  - artificial intelligence
+KW  - clinical decision support system
+KW  - computer assisted diagnosis
+KW  - human
+KW  - information processing
+KW  - legislation and jurisprudence
+KW  - machine learning
+KW  - oncology
+KW  - personalized medicine
+KW  - research
+KW  - statistical bias
+PB  - Blackwell Publishing Ltd
+SN  - 20457634 (ISSN)
+C2  - 33960708
+LA  - English
+J2  - Cancer Med.
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 72; Correspondence Address: I.S. Chua; Division of General Internal Medicine and Primary Care, Department of Medicine, Brigham and Women's Hospital, Boston, United States; email: ichua@bwh.harvard.edu
+ER  -
+
+TY  - JOUR
+AU  - Hartman, J.L.
+TI  - Seeking Justice: How VAWA Reduced the Stronghold Over American Indian and Alaska Native Women
+PY  - 2021
+T2  - Violence Against Women
+VL  - 27
+IS  - 1
+SP  - 52
+EP  - 68
+DO  - 10.1177/1077801220949695
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85090996341&doi=10.1177%2f1077801220949695&partnerID=40&md5=beef8337d72adf8817582fd1ec3d8c90
+AD  - University of North Carolina at Charlotte, United States
+AB  - The Violence Against Women Act (VAWA), originally passed in 1994, was successfully reauthorized in 2000, 2005, and 2013. Over time, VAWA altered the environment for many victims who had previously suffered in silence. This article focuses on how VAWA impacted American Indian (AI) and Alaska Native (AN) victims of dating and domestic violence. AI and AN women experience these crimes at a rate higher than the national average, yet they are often denied justice due to the interplay of federal and state laws and tribal sovereignty. VAWA affirmed tribes’ sovereign authority to exercise criminal jurisdiction over non-Indians who commit crimes against AI and AN victims on tribal lands. This article also discusses future steps to enhance justice reforms. © The Author(s) 2020.
+KW  - Alaska Native
+KW  - American Indian
+KW  - domestic violence
+KW  - sexual violence
+KW  - VAWA
+KW  - Alaskan Natives
+KW  - American Natives
+KW  - Domestic Violence
+KW  - Female
+KW  - Gender-Based Violence
+KW  - Government
+KW  - Humans
+KW  - Indians, North American
+KW  - Legislation as Topic
+KW  - Male
+KW  - Physical Abuse
+KW  - Rape
+KW  - Social Justice
+KW  - Violence
+KW  - Women's Health
+KW  - adult
+KW  - Alaska Native
+KW  - American Indian
+KW  - article
+KW  - crime
+KW  - domestic violence
+KW  - exercise
+KW  - female
+KW  - human
+KW  - human experiment
+KW  - justice
+KW  - sexual violence
+KW  - victim
+KW  - American Indian
+KW  - domestic violence
+KW  - gender based violence
+KW  - government
+KW  - law
+KW  - legislation and jurisprudence
+KW  - male
+KW  - physical abuse
+KW  - rape
+KW  - social justice
+KW  - violence
+KW  - women's health
+PB  - SAGE Publications Inc.
+SN  - 10778012 (ISSN)
+C2  - 32924877
+LA  - English
+J2  - Violence Against Women
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 4; Correspondence Address: J.L. Hartman; University of North Carolina at Charlotte, United States; email: jhartman@uncc.edu
+ER  -
+
+TY  - JOUR
+AU  - Stewart, C.
+AU  - Wong, S.K.Y.
+AU  - Sung, J.J.Y.
+TI  - Mapping ethico-legal principles for the use of artificial intelligence in gastroenterology
+PY  - 2021
+T2  - Journal of Gastroenterology and Hepatology (Australia)
+VL  - 36
+IS  - 5
+SP  - 1143
+EP  - 1148
+DO  - 10.1111/jgh.15521
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85105413624&doi=10.1111%2fjgh.15521&partnerID=40&md5=42a467af3941f71bfa3d59e1c3e3da8f
+AD  - Sydney Law School, University of Sydney, Sydney, NSW, Australia
+AD  - Barrister-at-Law; formerly Principal Government Counsel and Privacy Commissioner, Hong Kong
+AD  - Lee Kong Chian School of Medicine, Nanyang Technological University, Singapore
+AB  - The rapid development of artificial intelligence (AI) and digital health raise concerns about equitable access to innovative interventions, appropriate use of health data and privacy, inclusiveness, bias and discrimination, and even changes to the clinician–patient relationship. This article outlines a number of ethical and legal issues when examining the use of AI in gastroenterology. Substantive ethico-legal principles including respect for persons, privacy and confidentiality, integrity, conflict of interest, beneficence, nonmaleficence, and justice, are discussed. Much of what we articulated is relevant to the use of AI in other medical fields. Going forward, consorted efforts should be use to address more particular and concrete problems, but for now, a principle-based approach is best used in problem-solving. © 2021 Journal of Gastroenterology and Hepatology Foundation and John Wiley & Sons Australia, Ltd
+KW  - artificial intelligence
+KW  - ethics
+KW  - legal
+KW  - Artificial Intelligence
+KW  - Confidentiality
+KW  - Conflict of Interest
+KW  - Gastroenterology
+KW  - Humans
+KW  - Physician-Patient Relations
+KW  - adult
+KW  - artificial intelligence
+KW  - beneficence
+KW  - confidentiality
+KW  - conflict of interest
+KW  - gastroenterology
+KW  - health data
+KW  - human
+KW  - justice
+KW  - nonmaleficence
+KW  - privacy
+KW  - problem solving
+KW  - respect
+KW  - review
+KW  - artificial intelligence
+KW  - conflict of interest
+KW  - doctor patient relationship
+KW  - ethics
+KW  - gastroenterology
+KW  - legislation and jurisprudence
+PB  - Blackwell Publishing
+SN  - 08159319 (ISSN)
+C2  - 33955059
+LA  - English
+J2  - J. Gastroenterol. Hepatol.
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 10; Correspondence Address: J.J.Y. Sung; Lee Kong Chian School of Medicine, Nanyang Technological University, Singapore; email: josephsung@ntu.edu.sg; CODEN: JGHEE
+ER  -
+
+TY  - JOUR
+AU  - Tobia, K.
+AU  - Nielsen, A.
+AU  - Stremitzer, A.
+TI  - When does physician use of AI increase liability?
+PY  - 2021
+T2  - Journal of Nuclear Medicine
+VL  - 62
+IS  - 1
+SP  - 17
+EP  - 21
+DO  - 10.2967/jnumed.120.256032
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85098742538&doi=10.2967%2fjnumed.120.256032&partnerID=40&md5=5b635d108a07e02494560d9e109af03f
+AD  - Georgetown University Law Center, Washington, DC, United States
+AD  - Center for Law and Economics, ETH Zürich, Zürich, Switzerland
+AB  - An increasing number of automated and artificial intelligence (AI) systems make medical treatment recommendations, including personalized recommendations, which can deviate from standard care. Legal scholars argue that following such nonstandard treatment recommendations will increase liability in medical malpractice, undermining the use of potentially beneficial medical AI. However, such liability depends in part on lay judgments by jurors: when physicians use AI systems, in which circumstances would jurors hold physicians liable? Methods: To determine potential jurors' judgments of liability, we conducted an online experimental study of a nationally representative sample of 2,000 U.S. adults. Each participant read 1 of 4 scenarios in which an AI system provides a treatment recommendation to a physician. The scenarios varied the AI recommendation (standard or nonstandard care) and the physician's decision (to accept or reject that recommendation). Subsequently, the physician's decision caused harm. Participants then assessed the physician's liability. Results: Our results indicate that physicians who receive advice from an AI system to provide standard care can reduce the risk of liability by accepting, rather than rejecting, that advice, all else being equal. However, when an AI system recommends nonstandard care, there is no similar shielding effect of rejecting that advice and so providing standard care. Conclusion: The tort law system is unlikely to undermine the use of AI precision medicine tools and may even encourage the use of these tools. COPYRIGHT © 2021 by the Society of Nuclear Medicine and Molecular Imaging.
+KW  - Artificial intelligence
+KW  - Liability
+KW  - Precision medicine
+KW  - Artificial Intelligence
+KW  - Humans
+KW  - Liability, Legal
+KW  - Nuclear Medicine
+KW  - Physicians
+KW  - adult
+KW  - article
+KW  - artificial intelligence
+KW  - decision making
+KW  - experimental study
+KW  - health care quality
+KW  - human
+KW  - personalized medicine
+KW  - physician
+KW  - legal liability
+KW  - legislation and jurisprudence
+KW  - nuclear medicine
+KW  - physician
+PB  - Society of Nuclear Medicine Inc.
+SN  - 01615505 (ISSN)
+C2  - 32978285
+LA  - English
+J2  - J. Nucl. Med.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 40; Correspondence Address: K. Tobia; Georgetown University Law Center, Washington, 600 New Jersey Ave., 20001, United States; email: kevin.tobia@georgetown.edu; CODEN: JNMEA
+ER  -
+
+TY  - JOUR
+AU  - Price, W.N.
+AU  - Gerke, S.
+AU  - Cohen, I.G.
+TI  - How much can potential jurors tell us about liability for medical artificial intelligence?
+PY  - 2021
+T2  - Journal of Nuclear Medicine
+VL  - 62
+IS  - 1
+SP  - 15
+EP  - 16
+DO  - 10.2967/jnumed.120.257196
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85098741947&doi=10.2967%2fjnumed.120.257196&partnerID=40&md5=e5c8860a915ad946edc0fcd8ea2e5ad6
+AD  - University of Michigan Law School, Ann Arbor, MI, United States
+AD  - Project on Precision Medicine, Artificial Intelligence, and the Law, Petrie-Flom Center for Health Law Policy, Biotechnology, Bioethics at Harvard Law School, Harvard University, Cambridge, MA, United States
+AD  - Harvard Law School, Harvard University, Cambridge, MA, United States
+AB  - Artificial intelligence (AI) is rapidly entering medical practice, whether for risk prediction, diagnosis, or treatment recommendation. But a persistent question keeps arising: What happens when things go wrong? When patients are injured, and AI was involved, who will be liable and how? Liability is likely to influence the behavior of physicians who decide whether to follow AI advice, hospitals that implement AI tools for physician use, and developers who create those tools in the first place. If physicians are shielded from liability (typically medical malpractice liability) when they use AI tools, even if patient injury results, they are more likely to rely on these tools, even if the AI recommendations are counterintuitive. On the other hand, if physicians face liability from deviating from standard practice, whether an AI recommends something different or not, the adoption of AI is likely to be slower, and counterintuitive rejections-even correct ones-are likely to be rejected. In this issue of The Journal of Nuclear Medicine, Tobia et al. (1) offer an important empiric look at this question, which has significant implications as to whether and when AI will come into clinical use. © 2021 Society of Nuclear Medicine Inc.. All rights reserved.
+KW  - Artificial Intelligence
+KW  - Liability, Legal
+KW  - Nuclear Medicine
+KW  - artificial intelligence
+KW  - clinical decision making
+KW  - clinical practice
+KW  - general practitioner
+KW  - health care cost
+KW  - health care policy
+KW  - health care quality
+KW  - health care system
+KW  - human
+KW  - juror
+KW  - medical expert
+KW  - medical liability
+KW  - nonmedical occupations
+KW  - online system
+KW  - prediction
+KW  - Review
+KW  - risk factor
+KW  - United States
+KW  - legal liability
+KW  - legislation and jurisprudence
+KW  - nuclear medicine
+PB  - Society of Nuclear Medicine Inc.
+SN  - 01615505 (ISSN)
+C2  - 33158905
+LA  - English
+J2  - J. Nucl. Med.
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 23; Correspondence Address: W.N. Price; University of Michigan Law School, 921 Legal Research, Ann Arbor, 801 Monroe St., 48109, United States; email: wnp@umich.edu; CODEN: JNMEA
+ER  -
+
+TY  - JOUR
+AU  - Harvey, H.B.
+AU  - Gowda, V.
+TI  - Regulatory Issues and Challenges to Artificial Intelligence Adoption
+PY  - 2021
+T2  - Radiologic Clinics of North America
+VL  - 59
+IS  - 6
+SP  - 1075
+EP  - 1083
+DO  - 10.1016/j.rcl.2021.07.007
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85117592628&doi=10.1016%2fj.rcl.2021.07.007&partnerID=40&md5=3cecd98ef92fde3da3ea58655a8a4ca7
+AD  - Radiology, Massachusetts General Hospital, Harvard Medical School, 175 Cambridge Street, Suite 200, Boston, 02114, MA, United States
+AD  - Harvard Law School, 1563 Massachusetts Avenue, Cambridge, 02138, MA, United States
+KW  - AI
+KW  - Health law
+KW  - Liability
+KW  - Regulatory issues
+KW  - Risk management
+KW  - Artificial Intelligence
+KW  - Diagnostic Imaging
+KW  - Humans
+KW  - Image Interpretation, Computer-Assisted
+KW  - Radiology
+KW  - United States
+KW  - United States Food and Drug Administration
+KW  - artificial intelligence
+KW  - computer assisted diagnosis
+KW  - confidentiality
+KW  - deep learning
+KW  - device approval
+KW  - electronic health record
+KW  - human
+KW  - information security
+KW  - learning algorithm
+KW  - legal liability
+KW  - machine learning
+KW  - malpractice
+KW  - mammography
+KW  - medical device regulation
+KW  - medical ethics
+KW  - overdiagnosis
+KW  - privacy
+KW  - radiologist
+KW  - Review
+KW  - artificial intelligence
+KW  - diagnostic imaging
+KW  - Food and Drug Administration
+KW  - legislation and jurisprudence
+KW  - procedures
+KW  - radiology
+KW  - United States
+PB  - W.B. Saunders
+SN  - 00338389 (ISSN)
+C2  - 34689875
+LA  - English
+J2  - Radiol. Clin. North Am.
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 21; Correspondence Address: H.B. Harvey; Radiology, Massachusetts General Hospital, Harvard Medical School, Boston, 175 Cambridge Street, Suite 200, 02114, United States; email: hbharvey@mgh.harvard.edu; CODEN: RCNAA
+ER  -
+
+TY  - JOUR
+AU  - Matin, R.N.
+AU  - Dinnes, J.
+TI  - AI-based smartphone apps for risk assessment of skin cancer need more evaluation and better regulation
+PY  - 2021
+T2  - British Journal of Cancer
+VL  - 124
+IS  - 11
+SP  - 1749
+EP  - 1750
+DO  - 10.1038/s41416-021-01302-3
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85103015379&doi=10.1038%2fs41416-021-01302-3&partnerID=40&md5=0b6d255a59016810f1c15bbde52f882f
+AD  - Department of Dermatology, Oxford University Hospitals NHS Foundation Trust, Oxford, United Kingdom
+AD  - Test Evaluation Research Group, Institute of Applied Health Research, University of Birmingham, Edgbaston, Birmingham, United Kingdom
+AD  - NIHR Birmingham Biomedical Research Centre, University Hospitals Birmingham NHS Foundation Trust and University of Birmingham, Birmingham, United Kingdom
+AB  - Smartphone applications (“apps”) with artificial intelligence (AI) algorithms are increasingly used in healthcare. Widespread adoption of these apps must be supported by a robust evidence-base and app manufacturers’ claims appropriately regulated. Current CE marking assessment processes inadequately protect the public against the risks created by using smartphone diagnostic apps. © 2021, The Author(s), under exclusive licence to Cancer Research UK.
+KW  - Adult
+KW  - Algorithms
+KW  - Artificial Intelligence
+KW  - Diagnostic Test Approval
+KW  - Early Detection of Cancer
+KW  - Europe
+KW  - European Union
+KW  - Evidence-Based Medicine
+KW  - Humans
+KW  - Mobile Applications
+KW  - Precancerous Conditions
+KW  - Risk Assessment
+KW  - Sensitivity and Specificity
+KW  - Skin Neoplasms
+KW  - Smartphone
+KW  - United States
+KW  - United States Food and Drug Administration
+KW  - algorithm
+KW  - artificial intelligence
+KW  - clinical evaluation
+KW  - diagnostic accuracy
+KW  - diagnostic test approval
+KW  - false negative result
+KW  - Food and Drug Administration
+KW  - health care
+KW  - health care personnel
+KW  - health service
+KW  - human
+KW  - image quality
+KW  - mobile application
+KW  - Note
+KW  - predictive value
+KW  - priority journal
+KW  - risk assessment
+KW  - sensitivity and specificity
+KW  - skin cancer
+KW  - skin examination
+KW  - systematic review (topic)
+KW  - adult
+KW  - devices
+KW  - diagnostic test approval
+KW  - early cancer diagnosis
+KW  - Europe
+KW  - European Union
+KW  - evidence based medicine
+KW  - legislation and jurisprudence
+KW  - pathology
+KW  - precancer
+KW  - procedures
+KW  - risk assessment
+KW  - skin tumor
+KW  - smartphone
+KW  - United States
+PB  - Springer Nature
+SN  - 00070920 (ISSN)
+C2  - 33742148
+LA  - English
+J2  - Br. J. Cancer
+M3  - Note
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 17; Correspondence Address: J. Dinnes; Test Evaluation Research Group, Institute of Applied Health Research, University of Birmingham, Edgbaston, Birmingham, United Kingdom; email: j.dinnes@bham.ac.uk; CODEN: BJCAA
+ER  -
+
+TY  - JOUR
+AU  - Garcia, D.
+TI  - Stop the emerging AI cold war
+PY  - 2021
+T2  - Nature
+VL  - 593
+IS  - 7858
+SP  - 169
+DO  - 10.1038/d41586-021-01244-z
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85105767250&doi=10.1038%2fd41586-021-01244-z&partnerID=40&md5=6e122cb4d371d74563c239020bf29043
+KW  - Computer science
+KW  - Policy
+KW  - Artificial Intelligence
+KW  - China
+KW  - Competitive Behavior
+KW  - Cooperative Behavior
+KW  - Global Warming
+KW  - Goals
+KW  - Humans
+KW  - Military Science
+KW  - Nuclear Warfare
+KW  - Nuclear Weapons
+KW  - Russia
+KW  - Security Measures
+KW  - Sustainable Development
+KW  - United States
+KW  - Warfare
+KW  - artificial intelligence
+KW  - atomic warfare
+KW  - China
+KW  - competitive behavior
+KW  - cooperation
+KW  - greenhouse effect
+KW  - human
+KW  - legislation and jurisprudence
+KW  - military phenomena
+KW  - motivation
+KW  - nuclear weapon
+KW  - organization and management
+KW  - prevention and control
+KW  - Russian Federation
+KW  - sustainable development
+KW  - United States
+KW  - warfare
+PB  - NLM (Medline)
+SN  - 14764687 (ISSN)
+C2  - 33976428
+LA  - English
+J2  - Nature
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 7
+ER  -
+
+TY  - JOUR
+AU  - Wachter, S.
+AU  - Mittelstadt, B.
+AU  - Russell, C.
+TI  - Why fairness cannot be automated: Bridging the gap between EU non-discrimination law and AI
+PY  - 2021
+T2  - Computer Law and Security Review
+VL  - 41
+C7  - 105567
+DO  - 10.1016/j.clsr.2021.105567
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85108316631&doi=10.1016%2fj.clsr.2021.105567&partnerID=40&md5=34104bb46ea042af72034b8f55518dc9
+AD  - Oxford Internet Institute, University of Oxford, 1St. Giles, Oxford, OX1 3JS, United Kingdom
+AD  - Harvard Law School, Harvard University, Cambridge, 02138, MA, United States
+AD  - The Alan Turing Institute, British Library, 96 Euston Road, London, NW1 2DB, United Kingdom
+AD  - Department of Electrical and Electronic Engineering, University of Surrey, Guildford, GU2 7HX, United Kingdom
+AB  - In recent years a substantial literature has emerged concerning bias, discrimination, and fairness in artificial intelligence (AI) and machine learning. Connecting this work to existing legal non-discrimination frameworks is essential to create tools and methods that are practically useful across divergent legal regimes. While much work has been undertaken from an American legal perspective, comparatively little has mapped the effects and requirements of EU law. This Article addresses this critical gap between legal, technical, and organisational notions of algorithmic fairness. Through analysis of EU non-discrimination law and jurisprudence of the European Court of Justice (ECJ) and national courts, we identify a critical incompatibility between European notions of discrimination and existing work on algorithmic and automated fairness. A clear gap exists between statistical measures of fairness as embedded in myriad fairness toolkits and governance mechanisms and the context-sensitive, often intuitive and ambiguous discrimination metrics and evidential requirements used by the ECJ; we refer to this approach as “contextual equality.” This Article makes three contributions. First, we review the evidential requirements to bring a claim under EU non-discrimination law. Due to the disparate nature of algorithmic and human discrimination, the EU's current requirements are too contextual, reliant on intuition, and open to judicial interpretation to be automated. Many of the concepts fundamental to bringing a claim, such as the composition of the disadvantaged and advantaged group, the severity and type of harm suffered, and requirements for the relevance and admissibility of evidence, require normative or political choices to be made by the judiciary on a case-by-case basis. We show that automating fairness or non-discrimination in Europe may be impossible because the law, by design, does not provide a static or homogenous framework suited to testing for discrimination in AI systems. Second, we show how the legal protection offered by non-discrimination law is challenged when AI, not humans, discriminate. Humans discriminate due to negative attitudes (e.g. stereotypes, prejudice) and unintentional biases (e.g. organisational practices or internalised stereotypes) which can act as a signal to victims that discrimination has occurred. Equivalent signalling mechanisms and agency do not exist in algorithmic systems. Compared to traditional forms of discrimination, automated discrimination is more abstract and unintuitive, subtle, intangible, and difficult to detect. The increasing use of algorithms disrupts traditional legal remedies and procedures for detection, investigation, prevention, and correction of discrimination which have predominantly relied upon intuition. Consistent assessment procedures that define a common standard for statistical evidence to detect and assess prima facie automated discrimination are urgently needed to support judges, regulators, system controllers and developers, and claimants. Finally, we examine how existing work on fairness in machine learning lines up with procedures for assessing cases under EU non-discrimination law. A ‘gold standard’ for assessment of prima facie discrimination has been advanced by the European Court of Justice but not yet translated into standard assessment procedures for automated discrimination. We propose ‘conditional demographic disparity’ (CDD) as a standard baseline statistical measurement that aligns with the Court's ‘gold standard’. Establishing a standard set of statistical evidence for automated discrimination cases can help ensure consistent procedures for assessment, but not judicial interpretation, of cases involving AI and automated systems. Through this proposal for procedural regularity in the identification and assessment of automated discrimination, we clarify how to build considerations of fairness into automated systems as far as possible while still respecting and enabling the contextual approach to judicial interpretation practiced under EU non-discrimination law. © 2021 The Authors
+KW  - Algorithm
+KW  - Artificial intelligence
+KW  - Bias
+KW  - Demographic parity
+KW  - Discrimination
+KW  - European union
+KW  - Fairness
+KW  - Law
+KW  - Machine learning
+KW  - Non-discrimination
+KW  - Data privacy
+KW  - Laws and legislation
+KW  - Machine learning
+KW  - Network security
+KW  - Assessment procedure
+KW  - Consistent procedures
+KW  - Discrimination law
+KW  - European Court of Justice
+KW  - Governance mechanisms
+KW  - Signalling mechanisms
+KW  - Statistical evidence
+KW  - Statistical measures
+KW  - Automation
+PB  - Elsevier Ltd
+SN  - 02673649 (ISSN)
+LA  - English
+J2  - Comput Law Secur. Rev.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 160; Correspondence Address: S. Wachter; Oxford Internet Institute, University of Oxford, Oxford, 1St. Giles, OX1 3JS, United Kingdom; email: sandra.wachter@oii.ox.ac.uk; CODEN: CLSRE
+ER  -
+

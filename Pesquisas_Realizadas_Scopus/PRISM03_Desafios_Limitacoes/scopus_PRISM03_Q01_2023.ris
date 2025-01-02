@@ -1,0 +1,514 @@
+﻿TY  - CONF
+AU  - Russo, R.
+AU  - Giuseppe, G.D.
+AU  - Vanacore, A.
+AU  - Gatta, V.L.
+AU  - Ferraro, A.
+AU  - Galli, A.
+AU  - Postiglione, M.
+AU  - Moscato, V.
+TI  - Graph-Based Approach for European Law Classification
+PY  - 2023
+T2  - Proceedings - 2023 IEEE International Conference on Big Data, BigData 2023
+SP  - 2777
+EP  - 2785
+DO  - 10.1109/BigData59044.2023.10386684
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85184981230&doi=10.1109%2fBigData59044.2023.10386684&partnerID=40&md5=8167ae5d48140df62916c1691be5901f
+AD  - University of Naples Federico II, Department of Electrical Engineering and Information Technology, Naples, Italy
+AB  - Deep learning, owing to its transformative influence across a myriad of sectors, has recently made its foray into the legal domain, instigated by the surge in digitization. Among the multitude of applications in this space, legal document classification emerges as a pivotal yet complex undertaking. Legal texts, characterized by unique domain-centric semantics and intricate linguistic patterns, necessitate precision-driven classification systems for numerous practical implications. This paper illuminates the challenges and opportunities in automating the classification of European Union (EU) legal documents, emphasizing the interrelationships among statutes and the hierarchical nature of legal references. In this context, we introduce a novel graph data modeling technique that adeptly marries content-centric indicators with the relational dynamics inherent among diverse legal documents. Central to our approach is a framework that melds text embeddings with graph neural networks for the classification of legal documents aligned with their subject-based directories. Empirical evaluations on the EU law dataset underline the efficacy of our model across varying granularities, from general thematic categories to intricate subtopics. This endeavor not only augments the comprehensibility and accessibility of EU jurisprudence but also holds significant implications across regulatory compliance, legal research, and policy formulation, underscoring the potential of deep learning in reshaping legal paradigms.  © 2023 IEEE.
+KW  - graph neural networks
+KW  - legal document classification
+KW  - natural language processing
+KW  - Classification (of information)
+KW  - Deep learning
+KW  - Graph neural networks
+KW  - Graphic methods
+KW  - Information retrieval systems
+KW  - Natural language processing systems
+KW  - Semantics
+KW  - Text processing
+KW  - Document Classification
+KW  - European laws
+KW  - European union
+KW  - Graph neural networks
+KW  - Graph-based
+KW  - Language processing
+KW  - Legal document classification
+KW  - Legal documents
+KW  - Natural language processing
+KW  - Natural languages
+KW  - Regulatory compliance
+A2  - He J.
+A2  - Palpanas T.
+A2  - Hu X.
+A2  - Cuzzocrea A.
+A2  - Dou D.
+A2  - Slezak D.
+A2  - Wang W.
+A2  - Gruca A.
+A2  - Lin J.C.-W.
+A2  - Agrawal R.
+PB  - Institute of Electrical and Electronics Engineers Inc.
+SN  - 979-835032445-7 (ISBN)
+LA  - English
+J2  - Proc. - IEEE Int. Conf. Big Data, BigData
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 1; Conference name: 2023 IEEE International Conference on Big Data, BigData 2023; Conference date: 15 December 2023 through 18 December 2023; Conference code: 196820
+ER  -
+
+TY  - CONF
+AU  - Meloche, R.
+AU  - Amyot, D.
+AU  - Mylopoulos, J.
+TI  - Towards Legal Contract Formalization with Controlled Natural Language Templates
+PY  - 2023
+T2  - Proceedings of the IEEE International Conference on Requirements Engineering
+VL  - 2023-September
+SP  - 317
+EP  - 322
+DO  - 10.1109/RE57278.2023.00042
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85174397022&doi=10.1109%2fRE57278.2023.00042&partnerID=40&md5=974ddf896657daa666bec60b50ef543d
+AD  - School of Eecs, University of Ottawa, Ottawa, Canada
+AB  - Automated formalization of legal texts in order to remove ambiguities, conflicts and incompleteness has been a challenge for Requirements Engineering (RE) research for decades. This work seeks to make an incremental step towards this objective for legal contracts by making use of contract templates. Our proposed approach starts with a natural language contract template, together with a manually formalized specification of that template. A contract writer can make customizations to the template, which trigger the automatic formalization of the corresponding customized contract. Our target specification language is Symboleo, which is created specifically for contract verification and monitoring. Starting with a manually formalized template reduces the complexity associated with a fully automated formalization. Typical contract templates use simple fill-in-the-blank parameters, which serve as customizations to formalize in our framing of the problem. Our approach pushes the boundaries of these templates by allowing the contract writer to enter complex natural language customizations, such as prepositional phrases and conditional statements. This work explores what types of natural language patterns can be used in that context by analyzing relevant linguistics and real legal contracts. It also introduces a tool, SymboleoNLP, that suggests the feasibility of the formalization process.  © 2023 IEEE.
+KW  - contract template
+KW  - formalization
+KW  - legal requirements
+KW  - natural language processing
+KW  - Symboleo
+KW  - Natural language processing systems
+KW  - Specification languages
+KW  - Specifications
+KW  - Contract template
+KW  - Controlled natural language
+KW  - Customisation
+KW  - Formalisation
+KW  - Language processing
+KW  - Legal contracts
+KW  - Legal requirements
+KW  - Natural language processing
+KW  - Natural languages
+KW  - Symboleo
+KW  - Requirements engineering
+A2  - Schneider K.
+A2  - Dalpiaz F.
+A2  - Horkoff J.
+PB  - IEEE Computer Society
+SN  - 1090705X (ISSN); 979-835032689-5 (ISBN)
+LA  - English
+J2  - Proc. Int. Conf. Requir. Eng.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 3; Conference name: 31st IEEE International Requirements Engineering Conference, RE 2023; Conference date: 4 September 2023 through 8 September 2023; Conference code: 193106
+ER  -
+
+TY  - JOUR
+AU  - Graham, S.G.
+AU  - Soltani, H.
+AU  - Isiaq, O.
+TI  - Natural language processing for legal document review: categorising deontic modalities in contracts
+PY  - 2023
+T2  - Artificial Intelligence and Law
+DO  - 10.1007/s10506-023-09379-2
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85176581199&doi=10.1007%2fs10506-023-09379-2&partnerID=40&md5=c1465427de02256b786f52d99885b8bc
+AD  - Faculty of Business, Law and Digital Technologies, Solent University, Southampton, United Kingdom
+AD  - Programme Director, Computer & Data Science & AI, University of the Arts London, London, United Kingdom
+AB  - The contract review process can be a costly and time-consuming task for lawyers and clients alike, requiring significant effort to identify and evaluate the legal implications of individual clauses. To address this challenge, we propose the use of natural language processing techniques, specifically text classification based on deontic tags, to streamline the process. Our research question is whether natural language processing techniques, specifically dense vector embeddings, can help semi-automate the contract review process and reduce time and costs for legal professionals reviewing deontic modalities in contracts. In this study, we create a domain-specific dataset and train both baseline and neural network models for contract sentence classification. This approach offers a more efficient and cost-effective solution for contract review, mimicking the work of a lawyer. Our approach achieves an accuracy of 0.90, showcasing its effectiveness in identifying and evaluating individual contract sentences. © 2023, The Author(s), under exclusive licence to Springer Nature B.V.
+KW  - Annotation
+KW  - Deep learning
+KW  - Deontic reasoning
+KW  - Legal text classification
+KW  - Natural language processing
+KW  - Classification (of information)
+KW  - Contracts
+KW  - Deep learning
+KW  - Information retrieval systems
+KW  - Laws and legislation
+KW  - Natural language processing systems
+KW  - Text processing
+KW  - Annotation
+KW  - Deep learning
+KW  - Deontic
+KW  - Deontic reasoning
+KW  - Language processing
+KW  - Legal text classification
+KW  - Legal texts
+KW  - Natural language processing
+KW  - Natural languages
+KW  - Text classification
+KW  - Cost effectiveness
+PB  - Institute for Ionics
+SN  - 09248463 (ISSN)
+LA  - English
+J2  - Artif Intell Law
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 1; Correspondence Address: S.G. Graham; Faculty of Business, Law and Digital Technologies, Solent University, Southampton, United Kingdom; email: igeorgette@hotmail.ca; CODEN: AINLE
+ER  -
+
+TY  - JOUR
+AU  - Quevedo, E.
+AU  - Cerny, T.
+AU  - Rodriguez, A.
+AU  - Rivas, P.
+AU  - Yero, J.
+AU  - Sooksatra, K.
+AU  - Zhakubayev, A.
+AU  - Taibi, D.
+TI  - Legal Natural Language Processing from 2015-2022: A Comprehensive Systematic Mapping Study of Advances and Applications
+PY  - 2023
+T2  - IEEE Access
+SP  - 1
+EP  - 1
+DO  - 10.1109/ACCESS.2023.3333946
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85178053115&doi=10.1109%2fACCESS.2023.3333946&partnerID=40&md5=eac0c8796015aa5f580a6b849806340f
+AD  - Department of Computer Science, School of Engineering and Computer Science, Baylor University, Waco, Texas, USA
+AD  - Systems and Industrial Engineering, University of Arizona, Tucson, Arizona, USA
+AD  - University of Oulu. Oulu, Finland
+AB  - The surge in legal text production has amplified the workload for legal professionals, making many tasks repetitive and time-consuming. Furthermore, the complexity and specialized language of legal documents pose challenges not just for those in the legal domain but also for the general public. This emphasizes the potential role and impact of Legal Natural Language Processing (Legal NLP). Although advancements have been made in this domain, particularly after 2015 with the advent of Deep Learning and Large Language Models (LLMs), a systematic exploration of this progress until 2022 is nonexistent. In this research, we perform a Systematic Mapping Study (SMS) to bridge this gap.We aim to provide a descriptive statistical analysis of the Legal NLP research between 2015 and 2022. Categorize and sub-categorize primary publications based on their research problems. Identify limitations and areas of improvement in current research. Using a robust search methodology across four reputable indexers, we filtered 536 papers down to 75 pivotal articles. Our findings reveal the diverse methods employed for tasks such as Multiclass Classification, Summarization, and Question Answering in the Legal NLP field.We also highlight resources, challenges, and gaps in current methodologies and emphasize the need for curated datasets, ontologies, and a focus on inherent difficulties like data accessibility. As the legal sector gradually embraces Natural Language Processing (NLP), understanding the capabilities and limitations of Legal NLP becomes vital for ensuring efficient and ethical application. The research offers insights for both Legal NLP researchers and the broader legal community, advocating for continued advancements in automation while also addressing ethical concerns. Authors
+KW  - Deep learning
+KW  - Deep Learning
+KW  - Information retrieval
+KW  - Law
+KW  - Legal-NLP
+KW  - Natural language processing
+KW  - Search problems
+KW  - Surveys
+KW  - Systematic-Mapping-Study
+KW  - Systematics
+KW  - Task analysis
+KW  - Ethical technology
+KW  - Job analysis
+KW  - Mapping
+KW  - Natural language processing systems
+KW  - Deep learning
+KW  - Language processing
+KW  - Law
+KW  - Legal-natural language processing
+KW  - Natural language processing
+KW  - Natural languages
+KW  - Search problem
+KW  - Systematic
+KW  - Systematic mapping studies
+KW  - Task analysis
+KW  - Deep learning
+PB  - Institute of Electrical and Electronics Engineers Inc.
+SN  - 21693536 (ISSN)
+LA  - English
+J2  - IEEE Access
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 2
+ER  -
+
+TY  - CONF
+AU  - Wehnert, S.
+AU  - Fiorelli, M.
+AU  - Picca, D.
+AU  - De Luca, E.W.
+AU  - Stellato, A.
+TI  - Summary of the Workshop Legal Information Retrieval meets Artificial Intelligence (LIRAI’23)
+PY  - 2023
+T2  - CEUR Workshop Proceedings
+VL  - 3594
+SP  - 1
+EP  - 8
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85180760956&partnerID=40&md5=83d83486982ba7052487ffba340cf4d6
+AD  - Otto von Guericke University Magdeburg, Germany
+AD  - Leibinz Institute for Educational Media, Georg Eckert Institute, Braunschweig, Germany
+AD  - Tor Vergata University of Rome, Italy
+AD  - University of Lausanne, Switzerland
+AB  - This paper summarizes the workshop Legal Information Retrieval meets Artificial Intelligence (LIRAI’23), held in Rome, Italy and co-located with the ACM Hypertext conference. In this workshop, 6 publications on the intersection between Legal Information Retrieval and Artificial Intelligence were presented. Enrico Francesconi held a keynote on Profiles of Knowledge Representation and Reasoning for Legal Information Retrieval and Compliance Checking. Overall, the workshop fostered fruitful discussions in various current research areas and challenges, such as the lack of datasets in the legal domain that are dedicated to the evaluation of explainability, the use of Semantic Web together with state-of-the-art transformer architectures, as well as the use of Large Language Models in the legal domain. © 2023 Copyright for this paper by its authors.
+KW  - Explainable AI
+KW  - FAIRness
+KW  - High-Recall Retrieval
+KW  - Legal Compliance
+KW  - Legal Informatics
+KW  - Legal Information Retrieval
+KW  - Legal Knowledge Representation
+KW  - Legal Text Mining
+KW  - Linguistic Legal Linked Open Data
+KW  - Semantic Web
+KW  - Hypertext systems
+KW  - Information retrieval
+KW  - Knowledge representation
+KW  - Large dataset
+KW  - Linked data
+KW  - Natural language processing systems
+KW  - Open Data
+KW  - Petroleum reservoir evaluation
+KW  - Resource Description Framework (RDF)
+KW  - Explainable AI
+KW  - Fairness
+KW  - High-recall retrieval
+KW  - Legal compliance
+KW  - Legal informatics
+KW  - Legal information retrieval
+KW  - Legal knowledge representation
+KW  - Legal text mining
+KW  - Legal texts
+KW  - Linguistic legal linked open data
+KW  - Linked open datum
+KW  - Semantic-Web
+KW  - Text-mining
+KW  - Compliance control
+A2  - Wehnert S.
+A2  - Wehnert S.
+A2  - Fiorelli M.
+A2  - Picca D.
+A2  - De Luca E.W.
+A2  - De Luca E.W.
+A2  - Stellato A.
+PB  - CEUR-WS
+SN  - 16130073 (ISSN)
+LA  - English
+J2  - CEUR Workshop Proc.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 1; Correspondence Address: S. Wehnert; Otto von Guericke University Magdeburg, Germany; email: sabine.wehnert@ovgu.de; Conference name: 1st Legal Information Retrieval meets Artificial Intelligence Workshop, LIRAI 2023; Conference code: 195434
+ER  -
+
+TY  - CONF
+AU  - Ganguly, D.
+AU  - Conrad, J.G.
+AU  - Ghosh, K.
+AU  - Ghosh, S.
+AU  - Goyal, P.
+AU  - Bhattacharya, P.
+AU  - Nigam, S.K.
+AU  - Paul, S.
+TI  - Legal IR and NLP: The History, Challenges, and State-of-the-Art
+PY  - 2023
+T2  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 13982 LNCS
+SP  - 331
+EP  - 340
+DO  - 10.1007/978-3-031-28241-6_34
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85151064125&doi=10.1007%2f978-3-031-28241-6_34&partnerID=40&md5=7e0321feda2af56e416d805192d204d7
+AD  - University of Glasgow, Glasgow, United Kingdom
+AD  - Thomson Reuters Labs, Minneapolis, MN, United States
+AD  - Indian Institute of Science Education and Research Kolkata, Mohanpur, India
+AD  - Indian Institue of Technology Kharagpur, Kharagpur, India
+AD  - Indian Institute of Technology Kanpur, Kanpur, India
+AB  - Artificial Intelligence (AI), Machine Learning (ML), Information Retrieval (IR) and Natural Language Processing (NLP) are transforming the way legal professionals and law firms approach their work. The significant potential for the application of AI to Law, for instance, by creating computational solutions for legal tasks, has intrigued researchers for decades. This appeal has only been amplified with the advent of Deep Learning (DL). It is worth noting that working with legal text is far more challenging as compared to the other subdomains of IR/NLP, mainly due to the typical characteristics of legal text, such as considerably longer documents, complex language and lack of large-scale annotated datasets. In this tutorial, we introduce the audience to these characteristics of legal text, and with it, the challenges associated with processing the legal documents. We touch upon the history of AI and Law research, and how it has evolved over the years from relatively simpler approaches to more complex ones, such as those involving DL. We organize the tutorial as follows. First, we provide a brief introduction to state-of-the-art research in the general domain of IR and NLP. We then discuss in more detail IR/NLP tasks specific to the legal domain. We outline the methodologies (both from an academic and industry perspective), and the available tools and datasets to evaluate the methodologies. This is then followed by a hands-on coding/demo session. © 2023, The Author(s), under exclusive license to Springer Nature Switzerland AG.
+KW  - AI & Law
+KW  - Legal data analytics
+KW  - Legal information retrieval
+KW  - Natural language processing
+KW  - Authentication
+KW  - Deep learning
+KW  - Information retrieval
+KW  - Large dataset
+KW  - Natural language processing systems
+KW  - Artificial intelligence & law
+KW  - Data analytics
+KW  - Language processing
+KW  - Legal data analytic
+KW  - Legal information retrieval
+KW  - Legal texts
+KW  - Natural language processing
+KW  - Natural languages
+KW  - Retrieval languages
+KW  - State of the art
+KW  - Data Analytics
+A2  - Kamps J.
+A2  - Goeuriot L.
+A2  - Crestani F.
+A2  - Maistro M.
+A2  - Joho H.
+A2  - Davis B.
+A2  - Gurrin C.
+A2  - Caputo A.
+A2  - Kruschwitz U.
+PB  - Springer Science and Business Media Deutschland GmbH
+SN  - 03029743 (ISSN); 978-303128240-9 (ISBN)
+LA  - English
+J2  - Lect. Notes Comput. Sci.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 3; Correspondence Address: D. Ganguly; University of Glasgow, Glasgow, United Kingdom; email: Debasis.Ganguly@glasgow.ac.uk; Conference name: 45th European Conference on Information Retrieval, ECIR 2023; Conference date: 2 April 2023 through 6 April 2023; Conference code: 292029
+ER  -
+
+TY  - CONF
+AU  - Anh, D.H.
+AU  - Do, D.-T.
+AU  - Tran, V.
+AU  - Minh, N.L.
+TI  - The Impact of Large Language Modeling on Natural Language Processing in Legal Texts: A Comprehensive Survey
+PY  - 2023
+T2  - Proceedings - International Conference on Knowledge and Systems Engineering, KSE
+DO  - 10.1109/KSE59128.2023.10299488
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85178518464&doi=10.1109%2fKSE59128.2023.10299488&partnerID=40&md5=501cf8cb7db654043136bb0b3bdf19ea
+AD  - Japan Advanced Institute of Science and Technology, Japan
+AD  - The Institute of Statistical Mathematics, Japan
+AB  - Natural Language Processing (NLP) has witnessed significant advancements in recent years, particularly with the emergence of large language models. These models, such as GPT-3.5 and its variants, have revolutionized various domains, including legal text processing (LTP). This survey explores the impact of large language modeling on NLP in the context of legal texts. By analyzing the latest research and developments, we seek to understand the benefits, challenges, and potential applications of large language models in the field of legal language processing.  © 2023 IEEE.
+KW  - Large language modeling
+KW  - legal texts
+KW  - natural language modeling
+KW  - Computational linguistics
+KW  - Natural language processing systems
+KW  - Text processing
+KW  - Language model
+KW  - Language processing
+KW  - Large language modeling
+KW  - Legal texts
+KW  - Natural language model
+KW  - Natural languages
+KW  - Research and development
+KW  - Text-processing
+KW  - Modeling languages
+A2  - Binh H.T.T.
+A2  - Hoang V.T.
+A2  - Nguyen L.M.
+A2  - Le S.V.
+A2  - Vu T.D.
+A2  - Pham D.T.
+PB  - Institute of Electrical and Electronics Engineers Inc.
+SN  - 26944804 (ISSN); 979-835032974-2 (ISBN)
+LA  - English
+J2  - Proc. Int. Conf. Knowl. Syst. Eng., KSE
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 4; Conference name: 15th International Conference on Knowledge and Systems Engineering, KSE 2023; Conference date: 18 October 2023 through 20 October 2023; Conference code: 194303
+ER  -
+
+TY  - CONF
+AU  - Benedetto, I.
+AU  - Koudounas, A.
+AU  - Vaiani, L.
+AU  - Pastor, E.
+AU  - Baralis, E.
+AU  - Cagliero, L.
+AU  - Tarasconi, F.
+TI  - PoliToHFI at SemEval-2023 Task 6: Leveraging Entity-Aware and Hierarchical Transformers For Legal Entity Recognition and Court Judgment Prediction
+PY  - 2023
+T2  - 17th International Workshop on Semantic Evaluation, SemEval 2023 - Proceedings of the Workshop
+SP  - 1401
+EP  - 1411
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85175399093&partnerID=40&md5=545bfbc435deac493ae27fc119e304d9
+AD  - Politecnico di Torino, Italy
+AD  - H-Farm Innovation, Italy
+AB  - The use of Natural Language Processing techniques in the legal domain has become established for supporting attorneys and domain experts in content retrieval and decision-making. However, understanding the legal text poses relevant challenges in the recognition of domain-specific entities and the adaptation and explanation of predictive models. This paper addresses the Legal Entity Name Recognition (L-NER) and Court judgment Prediction (CPJ) and Explanation (CJPE) tasks. The L-NER solution explores the use of various transformer-based models, including an entity-aware method attending domain-specific entities. The CJPE proposed method relies on hierarchical BERT-based classifiers combined with local input attribution explainers. We propose a broad comparison of eXplainable AI methodologies along with a novel approach based on NER. For the L-NER task, the experimental results remark on the importance of domain-specific pre-training. For CJP our lightweight solution shows performance in line with existing approaches, and our NER-boosted explanations show promising CJPE results in terms of the conciseness of the prediction explanations. © 2023 Association for Computational Linguistics.
+KW  - Character recognition
+KW  - Computational linguistics
+KW  - Decision making
+KW  - Natural language processing systems
+KW  - Semantics
+KW  - Content retrieval
+KW  - Court judgement
+KW  - Domain experts
+KW  - Domain specific
+KW  - Entity recognition
+KW  - Language processing techniques
+KW  - Legal domains
+KW  - Legal entities
+KW  - Name recognition
+KW  - Natural languages
+KW  - Forecasting
+A2  - Ojha A.K.
+A2  - Dogruoz A.S.
+A2  - Da San Martino G.
+A2  - Madabushi H.T.
+A2  - Kumar R.
+A2  - Sartori E.
+PB  - Association for Computational Linguistics
+SN  - 978-195942999-9 (ISBN)
+LA  - English
+J2  - Int. Workshop Semantic Eval., SemEval - Proc. Workshop
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 2; Conference name: 17th International Workshop on Semantic Evaluation, SemEval 2023, co-located with the 61st Annual Meeting of the Association for Computational Linguistics, ACL 2023; Conference date: 13 July 2023 through 14 July 2023; Conference code: 192857
+ER  -
+
+TY  - CONF
+AU  - Barrientos, D.J.R.
+AU  - Fernandes, B.J.T.
+AU  - Rodrigues, C.M.D.O.
+AU  - Silva, L.H.S.
+AU  - Rocha, A.L.S.
+AU  - Sobral, P.C.
+TI  - Fine-Tuning MultiFit for Enhanced Legal Sentence Basis Classification
+PY  - 2023
+T2  - 2023 IEEE Latin American Conference on Computational Intelligence, LA-CCI 2023
+DO  - 10.1109/LA-CCI58595.2023.10409399
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85185227291&doi=10.1109%2fLA-CCI58595.2023.10409399&partnerID=40&md5=dcc247787f2d0cb90d8d4b86dd4ad35b
+AD  - Escola Politécnica de Pernambuco, Recife, Brazil
+AD  - NeuroLaw, Desenvolvimento de Tecnologia LTDA, Recife, Brazil
+AB  - Deep learning algorithms have shown promise in effectively classifying legal texts, surpassing traditional methods. However, existing approaches are primarily designed for English text and lack suitability for other languages, mainly Portuguese. This study addresses the challenge of classifying legal basis in first-degree sentences within Brazilian law by fine-tuning the multilingual MultiFit model using a novel basis dataset, comprehensively training the model for accurate legal basis classification. The bidirectional deep-learning MultiFit model has been subjected to rigorous fine-tuning, resulting in exceptional performance while maintaining consistently high quality. Results obtained highlight the model’s remarkable proficiency in precisely categorizing legal bases in first-degree sentences, achieving an accuracy rate of 80.0%, precision of 83.3%, recall of 80.7%, and an F1 score of 82.0%. These results demonstrate the model’s adaptability, versatility, and suitability for legal applications. In addition, it exhibits high precision, accuracy, and efficiency in classifying legal bases in first-degree sentences. Moreover, successfully fine-tuning pre-trained models for new tasks, leveraging extensive datasets, highlights their significant potential in enhancing performance in legal applications. © 2023 IEEE.
+KW  - artificial intelligence
+KW  - data mining
+KW  - deep learning
+KW  - machine learning
+KW  - natural language processing
+KW  - Data mining
+KW  - Deep learning
+KW  - Learning algorithms
+KW  - Learning systems
+KW  - Natural language processing systems
+KW  - Accuracy rate
+KW  - Deep learning
+KW  - Fine tuning
+KW  - High quality
+KW  - Language processing
+KW  - Legal texts
+KW  - Machine-learning
+KW  - Natural language processing
+KW  - Natural languages
+KW  - Performance
+KW  - Classification (of information)
+PB  - Institute of Electrical and Electronics Engineers Inc.
+SN  - 979-835034807-1 (ISBN)
+LA  - English
+J2  - IEEE Lat. Am. Conf. Comput. Intell., LA-CCI
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 1; Conference name: 2023 IEEE Latin American Conference on Computational Intelligence, LA-CCI 2023; Conference date: 29 October 2023 through 1 November 2023; Conference code: 196922
+ER  -
+
+TY  - CONF
+AU  - Wang, S.H.
+AU  - Scardigli, A.
+AU  - Tang, L.
+AU  - Chen, W.
+AU  - Levkin, D.
+AU  - Chen, A.
+AU  - Ball, S.
+AU  - Woodside, T.
+AU  - Zhang, O.
+AU  - Hendrycks, D.
+TI  - MAUD: An Expert-Annotated Legal NLP Dataset for Merger Agreement Understanding
+PY  - 2023
+T2  - EMNLP 2023 - 2023 Conference on Empirical Methods in Natural Language Processing, Proceedings
+SP  - 16369
+EP  - 16382
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85184806213&partnerID=40&md5=f151f596330710c7c365e4b826ec1674
+AD  - ETH Zürich, Switzerland
+AD  - Harvard University, United States
+AD  - The Atticus Project
+AD  - The Nueva School, United States
+AD  - University of Wisconsin, Madison, United States
+AD  - Yale University, United States
+AD  - Stanford University, United States
+AD  - UC Berkeley, United States
+AB  - Reading comprehension of legal text can be a particularly challenging task due to the length and complexity of legal clauses and a shortage of expert-annotated datasets. To address this challenge, we introduce the Merger Agreement Understanding Dataset (MAUD), an expert-annotated reading comprehension dataset based on the American Bar Association's 2021 Public Target Deal Points Study, with over 39,000 examples and over 47,000 total annotations. Our fine-tuned Transformer baselines show promising results, with models performing well above random on most questions. However, on a large subset of questions, there is still room for significant improvement. As the only expert-annotated merger agreement dataset, MAUD is valuable as a benchmark for both the legal profession and the NLP community. ©2023 Association for Computational Linguistics.
+KW  - Laws and legislation
+KW  - Mergers and acquisitions
+KW  - Merging
+KW  - Annotated datasets
+KW  - Legal profession
+KW  - Legal texts
+KW  - Merger agreements
+KW  - Reading comprehension
+KW  - Natural language processing systems
+A2  - Bouamor H.
+A2  - Pino J.
+A2  - Bali K.
+PB  - Association for Computational Linguistics (ACL)
+SN  - 979-889176060-8 (ISBN)
+LA  - English
+J2  - EMNLP - Conf. Empir. Methods Nat. Lang. Process., Proc.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 18 December 2024; Cited By: 1; Correspondence Address: S.H. Wang; ETH Zürich, Switzerland; email: stewang@student.ethz.edu; Conference name: 2023 Conference on Empirical Methods in Natural Language Processing, EMNLP 2023; Conference date: 6 December 2023 through 10 December 2023; Conference code: 196512
+ER  -
+

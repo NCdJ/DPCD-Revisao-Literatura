@@ -1,0 +1,126 @@
+﻿TY  - JOUR
+AU  - Francia, OAA
+AU  - Nunez-del-Prado, M
+AU  - Alatrista-Salas, H
+TI  - Survey of Text Mining Techniques Applied to Judicial Decisions Prediction
+T2  - APPLIED SCIENCES-BASEL
+LA  - English
+KW  - judicial prediction
+KW  - legal tech
+KW  - legal prediction
+KW  - machine learning
+KW  - natural language processing
+KW  - deep learning
+KW  - ARTIFICIAL-INTELLIGENCE
+KW  - LEGAL
+KW  - OUTCOMES
+KW  - SCIENCE
+KW  - COURT
+AB  - This paper reviews the most recent literature on experiments with different Machine Learning, Deep Learning and Natural Language Processing techniques applied to predict judicial and administrative decisions. Among the most outstanding findings, we have that the most used data mining techniques are Support Vector Machine (SVM), K Nearest Neighbours (K-NN) and Random Forest (RF), and in terms of the most used deep learning techniques, we found Long-Term Memory (LSTM) and transformers such as BERT. An important finding in the papers reviewed was that the use of machine learning techniques has prevailed over those of deep learning. Regarding the place of origin of the research carried out, we found that 64% of the works belong to studies carried out in English-speaking countries, 8% in Portuguese and 28% in other languages (such as German, Chinese, Turkish, Spanish, etc.). Very few works of this type have been carried out in Spanish-speaking countries. The classification criteria of the works have been based, on the one hand, on the identification of the classifiers used to predict situations (or events with legal interference) or judicial decisions and, on the other hand, on the application of classifiers to the phenomena regulated by the different branches of law: criminal, constitutional, human rights, administrative, intellectual property, family law, tax law and others. The corpus size analyzed in the reviewed works reached 100,000 documents in 2020. Finally, another important finding lies in the accuracy of these predictive techniques, reaching predictions of over 60% in different branches of law.
+AD  - Univ Lima, Fac Law, Lima 15023, PeruAD  - Peru Res Dev & Innovat Ctr Peru IDI, Lima 15076, PeruAD  - Univ Andina Cusco, Inst Invest, Cuzco 080104, PeruAD  - Escuela Posgrad Newman, Tacna 23001, PeruAD  - Pontificia Univ Catolica Peru, Fac Ciencias & Ingn, Lima 15088, PeruC3  - Universidad de LimaC3  - Universidad Andina del CuscoC3  - Pontificia Universidad Catolica del PeruFU  - Instituto de Investigacion Cientifica (IDIC), Universidad de Lima
+FX  - This research was funded by the Instituto de Investigacion Cientifica (IDIC), Universidad de Lima.
+PU  - MDPI
+PI  - BASEL
+PA  - ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN  - 2076-3417
+J9  - APPL SCI-BASEL
+JI  - Appl. Sci.-Basel
+DA  - OCT
+PY  - 2022
+VL  - 12
+IS  - 20
+C7  - 10200
+DO  - 10.3390/app122010200
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000872322400001
+N1  - Times Cited in Web of Science Core Collection:  11
+Total Times Cited:  11
+Cited Reference Count:  77
+ER  -
+
+TY  - CPAPER
+AU  - Vianna, D
+AU  - de Moura, ES
+A1  - ACM
+TI  - Organizing Portuguese Legal Documents through Topic Discovery
+T2  - PROCEEDINGS OF THE 45TH INTERNATIONAL ACM SIGIR CONFERENCE ON RESEARCH AND DEVELOPMENT IN INFORMATION RETRIEVAL (SIGIR '22)
+LA  - English
+CP  - 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)
+KW  - law tech
+KW  - legal cases
+KW  - topic model
+KW  - language models
+AB  - A significant challenge in the legal domain is to organize and summarize a constantly growing collection of legal documents, uncovering hidden topics, or themes, that later can support tasks such as legal case retrieval and legal judgment prediction. This massive amount of digital legal documents, combined with the inherent complexity of judiciary systems worldwide, presents a promising scenario for Machine Learning solutions, mainly those taking advantage of all the advancements in the area of Natural Language Processing (NLP). It is in this scenario that Jusbrasil, the largest legal tech company in Brazil, is situated. Using a dataset partially curated by the Jusbrasil legal team, we explore topic modeling solutions using state of the art language models, trained with legal Portuguese documents, to automatically organize and summarize this complex collection of documents. Instead of using an entire legal case, which usually is composed of many pages, we show that it is possible to efficiently organize the collection using the syllabus (in Portuguese, ementa jurisprudencial) from each court decision as they concisely summarize the main points presented by the entire decision.
+AD  - Univ Fed Amazonas, Inst Comp, Manaus, Amazonas, BrazilAD  - Jusbrasil, Salvador, BA, BrazilC3  - Universidade Federal de AmazonasFU  - Jusbrasil Postdoctoral Fellowship Program, Brazilian [002/2020]; Coordination for the Improvement of Higher Education Personnel-Brazil (CAPES) [001]; CNPq [309765/2018-8]
+FX  - This research is partially supported by Jusbrasil Postdoctoral Fellowship Program, Brazilian funding agency FAPEAM-POSGRAD 2020 (Resolution 002/2020), the Coordination for the Improvement of Higher Education Personnel-Brazil (CAPES) financial code 001, and individual grant from CNPq (309765/2018-8) to Edleno Silva de Moura.
+PU  - ASSOC COMPUTING MACHINERY
+PI  - NEW YORK
+PA  - 1601 Broadway, 10th Floor, NEW YORK, NY, UNITED STATES
+SN  - 978-1-4503-8732-3
+PY  - 2022
+SP  - 3388
+EP  - 3392
+DO  - 10.1145/3477495.3536329
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000852715903060
+N1  - Times Cited in Web of Science Core Collection:  2
+Total Times Cited:  3
+Cited Reference Count:  20
+ER  -
+
+TY  - CPAPER
+AU  - Aras, AC
+AU  - Öztürk, CE
+AU  - Koç, A
+A1  - IEEE
+TI  - Feedforward Neural Network Based Case Prediction in Turkish Higher Courts
+T2  - 2022 30TH SIGNAL PROCESSING AND COMMUNICATIONS APPLICATIONS CONFERENCE, SIU
+LA  - Turkish
+CP  - 30th IEEE Signal Processing and Communications Applications Conference (SIU)
+KW  - Natural language processing
+KW  - Feedforward neural networks
+KW  - legal tech
+KW  - legal NLP
+AB  - Thanks to natural language processing (NLP) methods, legal texts can be processed by computers and decision prediction applications can be developed in the legal tech field. Increase in the available data sources in the Turkish legal system provides an opportunity to develop NLP applications as well. In order to develop these applications, the necessary corpora and datasets should be created. In this work, legal case texts from the Turkish Higher Courts that are open to public access and free from personal data are used to develop decision prediction methods. Feedforward neural networks (FFNN) are deployed using word embeddings and the features extracted from texts via the Principal Component Analysis (PCA) algorithm. %85.4 Macro F1 score level is achieved.
+AD  - Bilkent Univ, Elekt & Elekt Muhendisligi Bolumu, Ulusal Manyetik Rezonans Arastirma Merkezi UMRAM, Ankara, TurkeyAD  - Bilkent Univ, Elekt & Elekt Muhendisligi Bolumu, ASELSAN Res Ctr, Ankara, TurkeyC3  - Ihsan Dogramaci Bilkent UniversityC3  - Ihsan Dogramaci Bilkent UniversityC3  - AselsanPU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 2165-0608
+SN  - 978-1-6654-5092-8
+J9  - SIG PROCESS COMMUN
+PY  - 2022
+DO  - 10.1109/SIU55565.2022.9864970
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:001307163400308
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  23
+ER  -
+
+TY  - CPAPER
+AU  - Öztürk, CE
+AU  - Özçelik, SB
+AU  - Koç, A
+A1  - IEEE
+TI  - Predicting Outcomes of the Court of Cassation of Turkey with Recurrent Neural Networks
+T2  - 2022 30TH SIGNAL PROCESSING AND COMMUNICATIONS APPLICATIONS CONFERENCE, SIU
+LA  - Turkish
+CP  - 30th IEEE Signal Processing and Communications Applications Conference (SIU)
+KW  - Natural Language Processing
+KW  - Law
+KW  - Machine Learning
+KW  - AI in Law
+KW  - Legal text mining
+KW  - Deep Learning
+AB  - Natural Language Processing (NLP) based approaches have recently become very popular for studies in legal domain. In this work, the outcomes of the cases of the Court of Cassation of Turkey were predicted with the use of Deep Learning models. These models are GRU, LSTM and BiLSTM which are variants of the recurrent neural network. Models saw only fact description parts of the case decision texts during training. Firstly, the models were trained with the word embeddings that were created from the texts from daily language. Then, the models were trained with the word embeddings that were created from downloaded legal cases from Turkish courts. The results of the experiments on the models are given in a comparative and detailed manner. It is observed based on this study and the past studies that the outcomes of the Court of Cassation can be predicted with higher accuracy than most of the courts that were investigated in previous legal NLP studies. The model which is best at predicting decisions is GRU. The GRU model achieves 96.8% accuracy in the decision prediction task.
+AD  - Bilkent Univ, ASELSAN Res Ctr, Elekt & Elekt Muhendisligi Bolumu, Ankara, TurkeyAD  - Bilkent Univ, Hukuk Fak, Ankara, TurkeyAD  - Bilkent Univ, Ulusal Manyet Rezonans Arastirma Merkezi, Elekt & Elekt Muhendisligi Bolumu, Ankara, TurkeyC3  - Ihsan Dogramaci Bilkent UniversityC3  - AselsanC3  - Ihsan Dogramaci Bilkent UniversityC3  - Ihsan Dogramaci Bilkent UniversityPU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 2165-0608
+SN  - 978-1-6654-5092-8
+J9  - SIG PROCESS COMMUN
+PY  - 2022
+DO  - 10.1109/SIU55565.2022.9864914
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:001307163400252
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  30
+ER  -
+

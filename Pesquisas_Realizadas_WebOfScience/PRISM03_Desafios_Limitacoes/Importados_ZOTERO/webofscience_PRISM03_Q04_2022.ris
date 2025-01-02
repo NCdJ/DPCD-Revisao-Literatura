@@ -1,0 +1,403 @@
+﻿TY  - JOUR
+AU  - Liu, Y
+AU  - Liu, YT
+AU  - Liu, ZJ
+AU  - Liang, YX
+AU  - Meng, CS
+AU  - Zhang, JB
+AU  - Zheng, Y
+TI  - Federated Forest
+T2  - IEEE TRANSACTIONS ON BIG DATA
+LA  - English
+KW  - Data models
+KW  - Cryptography
+KW  - Companies
+KW  - General Data Protection Regulation
+KW  - Machine learning
+KW  - Machine learning
+KW  - data mining
+AB  - Most real-world data are scattered across different companies or government organizations, and cannot be easily integrated under data privacy and related regulations such as the European Union's General Data Protection Regulation (GDPR) and China' Cyber Security Law. Such data islands situation and data privacy & security are two major challenges for applications of artificial intelligence. In this article, we tackle these challenges and propose a privacy-preserving machine learning model, called Federated Forest, which is a lossless learning model of the traditional random forest method, i.e., achieving the same level of accuracy as the non-privacy-preserving approach. Based on it, we developed a secure cross-regional machine learning system that allows a learning process to be jointly trained over different regions' clients with the same user samples but different attribute sets, processing the data stored in each of them without exchanging their raw data. A novel prediction algorithm was also proposed which could largely reduce the communication overhead. Experiments on both real-world and UCI data sets demonstrate the performance of the Federated Forest is as accurate as of the non-federated version. The efficiency and robustness of our proposed system had been verified. Overall, our model is practical, scalable and extensible for real-life tasks.
+AD  - JD Digits, JD Intelligent Cities Business Unit, Beijing, Peoples R ChinaAD  - JD Intelligent Cities Res, Beijing 100176, Peoples R ChinaAD  - Southwest Jiaotong Univ, Inst Artificial Intelligence, Chengdu 610031, Sichuan, Peoples R ChinaAD  - Xidian Univ, Xian 710071, Shaanxi, Peoples R ChinaAD  - Univ Sci & Technol China, Hefei 230027, Anhui, Peoples R ChinaAD  - Beijing Normal Univ, Beijing 100875, Peoples R ChinaAD  - Natl Univ Singapore, Sch Comp, Singapore 119077, SingaporeC3  - Southwest Jiaotong UniversityC3  - Xidian UniversityC3  - Chinese Academy of SciencesC3  - University of Science & Technology of China, CASC3  - Beijing Normal UniversityC3  - National University of SingaporeFU  - National Key R&D Program of China [2019YFB2101805]
+FX  - This work was supported by the National Key R&D Program of China (2019YFB2101805).
+PU  - IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI  - PISCATAWAY
+PA  - 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN  - 2332-7790
+J9  - IEEE T BIG DATA
+JI  - IEEE Trans. Big Data
+DA  - JUN 1
+PY  - 2022
+VL  - 8
+IS  - 3
+SP  - 843
+EP  - 854
+DO  - 10.1109/TBDATA.2020.2992755
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000795107500020
+N1  - Times Cited in Web of Science Core Collection:  75
+Total Times Cited:  82
+Cited Reference Count:  33
+ER  -
+
+TY  - JOUR
+AU  - Devagiri, JS
+AU  - Paheding, S
+AU  - Niyaz, Q
+AU  - Yang, XL
+AU  - Smith, S
+TI  - Augmented Reality and Artificial Intelligence in industry: Trends, tools, and future challenges
+T2  - EXPERT SYSTEMS WITH APPLICATIONS
+LA  - English
+KW  - Augmented Reality
+KW  - Artificial Intelligence
+KW  - Machine learning
+KW  - Industrial applications
+KW  - Deep learning
+KW  - VIRTUAL-REALITY
+KW  - DESIGN
+KW  - AR
+KW  - INSPECTION
+KW  - TRACKING
+KW  - AI
+AB  - Augmented Reality (AR) is an augmented depiction of reality formed by overlaying digital information on an image of objects being seen through a device. Artificial Intelligence (AI) techniques have experienced unprecedented growth and are being applied in various industries. The combination of AR and AI is the next prominent direction in upcoming years with many industries and academia recognizing the importance of their adoption. With the advancements in the silicone industry that push the boundaries of Moore's law, processors will be less expensive, more efficient, and power-optimized in the forthcoming years. This is a tremendous support and necessity for an AR boom, and with the help of AI, there is an excellent potential for smart industries to increase the production speed and workforce training along with improved manufacturing, error handling, assembly, and packaging. In this work, we provide a systematic review of recent advances, tools, techniques, and platforms of AI-empowered AR along with the challenges of using AI in AR applications. This paper will serve as a guideline for future research in the domain of AI-assisted AR in industrial applications.
+AD  - Michigan Technol Univ, Dept Appl Comp, 1400 Townsend Dr, Houghton, MI 49931 USAAD  - Purdue Univ Northwest, Dept Elect & Comp Engn, 2200 169th St Hammond, Hammond, IN 46323 USAAD  - Fairfield Univ, Dept Comp Sci & Engn, 1073 North Benson Rd, Fairfield, CT 06824 USAAD  - Michigan Technol Univ, Dept Cognit & Learning Sci, 1400 Townsend Dr, Houghton, MI 49931 USAC3  - Michigan Technological UniversityC3  - Fairfield UniversityC3  - Michigan Technological UniversityFU  - National Science Foundation (USA) [2129092, 2129093]; Div Of Civil, Mechanical, & Manufact Inn; Directorate For Engineering [2129093] Funding Source: National Science Foundation; Div Of Electrical, Commun & Cyber Sys; Directorate For Engineering [2129092] Funding Source: National Science Foundation
+FX  - This work is supported by the National Science Foundation (USA) #2129092 and #2129093, 2021.
+PU  - PERGAMON-ELSEVIER SCIENCE LTD
+PI  - OXFORD
+PA  - THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN  - 0957-4174
+SN  - 1873-6793
+J9  - EXPERT SYST APPL
+JI  - Expert Syst. Appl.
+DA  - NOV 30
+PY  - 2022
+VL  - 207
+C7  - 118004
+DO  - 10.1016/j.eswa.2022.118002
+C6  - JUL 2022
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000867575900010
+N1  - Times Cited in Web of Science Core Collection:  60
+Total Times Cited:  61
+Cited Reference Count:  128
+ER  -
+
+TY  - JOUR
+AU  - Chu, CH
+AU  - Nyrup, R
+AU  - Leslie, K
+AU  - Shi, JM
+AU  - Bianchi, A
+AU  - Lyn, A
+AU  - McNicholl, M
+AU  - Khan, S
+AU  - Rahimi, S
+AU  - Grenier, A
+AU  - Meeks, S
+TI  - Digital Ageism: Challenges and Opportunities in Artificial Intelligence for Older Adults
+T2  - GERONTOLOGIST
+LA  - English
+KW  - Bias
+KW  - Gerontology
+KW  - Machine learning
+KW  - Technology
+KW  - TECHNOLOGY
+KW  - INTERNET
+KW  - HEALTH
+KW  - IMPACT
+KW  - BIAS
+AB  - Artificial intelligence (AI) and machine learning are changing our world through their impact on sectors including health care, education, employment, finance, and law. AI systems are developed using data that reflect the implicit and explicit biases of society, and there are significant concerns about how the predictive models in AI systems amplify inequity, privilege, and power in society. The widespread applications of AI have led to mainstream discourse about how AI systems are perpetuating racism, sexism, and classism; yet, concerns about ageism have been largely absent in the AI bias literature. Given the globally aging population and proliferation of AI, there is a need to critically examine the presence of age-related bias in AI systems. This forum article discusses ageism in AI systems and introduces a conceptual model that outlines intersecting pathways of technology development that can produce and reinforce digital ageism in AI systems. We also describe the broader ethical and legal implications and considerations for future directions in digital ageism research to advance knowledge in the field and deepen our understanding of how ageism in AI is fostered by broader cycles of injustice.
+AD  - Univ Toronto, Lawrence S Bloomberg Fac Nursing, Hlth Sci Bldg,155 Coll St,Suite 130, Toronto, ON M5T 1P8, CanadaAD  - Univ Hlth Network, KITE Toronto Rehabil Inst, Toronto, ON, CanadaAD  - Univ Cambridge, Leverhulme Ctr Future Intelligence, Cambridge, EnglandAD  - Athabasca Univ, Fac Hlth Disciplines, Athabasca, AB, CanadaAD  - Univ Toronto, Dalla Lana Sch Publ Hlth, Toronto, ON, CanadaAD  - Univ Hlth Network, Toronto, ON, CanadaAD  - Univ Cambridge, Cambridge, EnglandAD  - Univ London, London Sch Hyg & Trop Med, London, EnglandAD  - Univ Toronto, Inst Biomed Engn, Toronto, ON, CanadaAD  - McGill Univ, Dept Family Med, Montreal, PQ, CanadaAD  - Mila Quebec AI Inst, Montreal, PQ, CanadaAD  - Univ Toronto, Factor Inwentash Fac Social Work, Toronto, ON, CanadaAD  - Baycrest Hosp, Toronto, ON, CanadaC3  - University of TorontoC3  - University of TorontoC3  - University Health Network TorontoC3  - Toronto Rehabilitation InstituteC3  - University of CambridgeC3  - Athabasca UniversityC3  - University of TorontoC3  - University of TorontoC3  - University Health Network TorontoC3  - University of CambridgeC3  - University of LondonC3  - London School of Hygiene & Tropical MedicineC3  - University of TorontoC3  - McGill UniversityC3  - University of TorontoC3  - University of TorontoC3  - BaycrestFU  - Social Sciences and Humanities Research Council in Canada [00362]
+FX  - The work was led by Dr. C. H. Chu (Principal Investigator) and funded by the Social Sciences and Humanities Research Council in Canada (grant number 00362).
+PU  - OXFORD UNIV PRESS INC
+PI  - CARY
+PA  - JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN  - 0016-9013
+SN  - 1758-5341
+J9  - GERONTOLOGIST
+JI  - Gerontologist
+DA  - AUG 12
+PY  - 2022
+VL  - 62
+IS  - 7
+SP  - 947
+EP  - 955
+DO  - 10.1093/geront/gnab167
+C6  - JAN 2022
+WE  - Social Science Citation Index (SSCI)AN  - WOS:000839628500006
+N1  - Times Cited in Web of Science Core Collection:  59
+Total Times Cited:  63
+Cited Reference Count:  74
+ER  -
+
+TY  - JOUR
+AU  - Guo, CY
+AU  - Duan, XJ
+AU  - Fang, Z
+AU  - Zhao, YS
+AU  - Yang, T
+AU  - Wang, EH
+AU  - Hou, XM
+TI  - A new strategy for long-term complex oxidation of MAX phases: Database generation and oxidation kinetic model establishment with aid of machine learning
+T2  - ACTA MATERIALIA
+LA  - English
+KW  - MAX phases
+KW  - Complex oxidation
+KW  - Machine learning
+KW  - ML-RPP model
+KW  - HIGH-TEMPERATURE OXIDATION
+KW  - TI2ALC
+KW  - BEHAVIOR
+KW  - TI3ALC2
+KW  - MICROSTRUCTURE
+KW  - SPECTROSCOPY
+KW  - SELECTION
+KW  - POWDER
+KW  - STEEL
+KW  - AL
+AB  - Owing to competitive behavior between oxidation products, complex oxidation commonly exists for MAX phases applied at high temperatures. Two major challenges remain to explain the oxidation law, i.e., ac-quirement of comprehensive oxidation data and establishment of reliable kinetic model. In this work, the long short-term memory recurrent neural network (LSTM-RNN) model is adopted combining the ther-mogravimetric (TG) experiment to generate the comprehensive oxidation database of MAX phases. By ex-ploring the working principles of machine learning (ML) algorithms, a novel approach of combining real physical picture (RPP) model and sure independence screening and sparsifying operator (SISSO) method is proposed. The obtained machine learning-based real physical picture (ML-RPP) model can accurately deal with the long-term complex oxidation of various MAX phases. This work will provide a useful guideline for the cognition of complex oxidation of other ceramics and alloys.(c) 2022 Acta Materialia Inc. Published by Elsevier Ltd. All rights reserved.
+AD  - Univ Sci & Technol Beijing, Beijing Adv Innovat Ctr Mat Genome Engn, Collaborat Innovat Ctr Steel Technol, Beijing 100083, Peoples R ChinaAD  - AECC Beijing Inst Aeronaut Mat, Beijing 100095, Peoples R ChinaC3  - University of Science & Technology BeijingFU  - National Science Fund for Distinguished Young Scholars [52025041]; National Natural Science Foundation of China [51904021, 51974021, 51902020]
+FX  - This work was supported by the National Science Fund for Distinguished Young Scholars (No. 52025041), the National Natural Science Foundation of China (No. 51904021, 51974021, 51902020).
+PU  - PERGAMON-ELSEVIER SCIENCE LTD
+PI  - OXFORD
+PA  - THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN  - 1359-6454
+SN  - 1873-2453
+J9  - ACTA MATER
+JI  - Acta Mater.
+DA  - DEC
+PY  - 2022
+VL  - 241
+C7  - 118378
+DO  - 10.1016/j.actamat.2022.118378
+C6  - SEP 2022
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000867453200006
+N1  - Times Cited in Web of Science Core Collection:  50
+Total Times Cited:  51
+Cited Reference Count:  56
+ER  -
+
+TY  - JOUR
+AU  - Ji, WQ
+AU  - Richter, F
+AU  - Gollner, MJ
+AU  - Deng, SL
+TI  - Autonomous kinetic modeling of biomass pyrolysis using chemical reaction neural networks
+T2  - COMBUSTION AND FLAME
+LA  - English
+KW  - Biomass pyrolysis
+KW  - fire safety
+KW  - Chemical kinetics
+KW  - Chemical reaction neural networks
+KW  - machine learning
+KW  - HYBRID CHEMISTRY FRAMEWORK
+KW  - CELLULOSE PYROLYSIS
+KW  - THERMAL-DECOMPOSITION
+KW  - CHALLENGES
+KW  - TABULATION
+KW  - MECHANISM
+KW  - POLYMER
+KW  - FIRE
+KW  - WOOD
+AB  - Modeling the burning processes of biomass such as wood, grass, and crops is crucial for the modeling and prediction of wildland and urban fire behavior. Despite its importance, the burning of solid fuels re-mains poorly understood, which can be partly attributed to the unknown chemical kinetics of most solid fuels. Most available kinetic models were built upon expert knowledge, which requires chemical insights and years of experience. This work presents a framework for autonomously discovering biomass pyrolysis kinetic models from thermogravimetric analyzer (TGA) experimental data using the recently developed chemical reaction neural networks (CRNN). The approach incorporated the CRNN model into the frame-work of neural ordinary differential equations to predict the residual mass in TGA data. In addition to the flexibility of neural-network-based models, the learned CRNN model is interpretable, by incorporat-ing the fundamental physics laws, such as the law of mass action and Arrhenius law, into the neural network structure. The learned CRNN model can then be translated into the classical forms of biomass chemical kinetic models, which facilitates the extraction of chemical insights and the integration of the kinetic model into large-scale fire simulations. We demonstrated the effectiveness of the framework in predicting the pyrolysis and oxidation of cellulose. This successful demonstration opens the possibility of rapid and autonomous chemical kinetic modeling of solid fuels, such as wildfire fuels and industrial polymers. (c) 2022 The Combustion Institute. Published by Elsevier Inc. All rights reserved.
+AD  - MIT, Dept Mech Engn, Cambridge, MA 02139 USAAD  - Univ Calif Berkeley, Dept Mech Engn, Berkeley, CA 94720 USAC3  - Massachusetts Institute of Technology (MIT)C3  - University of California SystemC3  - University of California BerkeleyFU  - Karl Chang (1965) Innovation Fund at Massachusetts Institute of Technology; National Institute of Standards and Technology Disaster Resilience [70NANB19H053]
+FX  - SD would like to acknowledge the support from the Karl Chang (1965) Innovation Fund at Massachusetts Institute of Technology. FR and MJG were supported by the National Institute of Stan-dards and Technology Disaster Resilience grant 70NANB19H053. WJ would like to thank the fruitful discussions with Professor Guillermo Rein at Imperial College London.
+PU  - ELSEVIER SCIENCE INC
+PI  - NEW YORK
+PA  - STE 800, 230 PARK AVE, NEW YORK, NY 10169 USA
+SN  - 0010-2180
+SN  - 1556-2921
+J9  - COMBUST FLAME
+JI  - Combust. Flame
+DA  - JUN
+PY  - 2022
+VL  - 240
+C7  - 111992
+DO  - 10.1016/j.combustflame.2022.111992
+C6  - JAN 2022
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000745648900002
+N1  - Times Cited in Web of Science Core Collection:  41
+Total Times Cited:  41
+Cited Reference Count:  67
+ER  -
+
+TY  - JOUR
+AU  - Gosselin, R
+AU  - Vieu, L
+AU  - Loukil, F
+AU  - Benoit, A
+TI  - Privacy and Security in Federated Learning: A Survey
+T2  - APPLIED SCIENCES-BASEL
+LA  - English
+KW  - survey
+KW  - federated learning
+KW  - deep learning
+KW  - machine learning
+KW  - distributed learning
+KW  - privacy
+KW  - security
+KW  - blockchain
+KW  - deep learning security and privacy threats
+AB  - In recent years, privacy concerns have become a serious issue for companies wishing to protect economic models and comply with end-user expectations. In the same vein, some countries now impose, by law, constraints on data use and protection. Such context thus encourages machine learning to evolve from a centralized data and computation approach to decentralized approaches. Specifically, Federated Learning (FL) has been recently developed as a solution to improve privacy, relying on local data to train local models, which collaborate to update a global model that improves generalization behaviors. However, by definition, no computer system is entirely safe. Security issues, such as data poisoning and adversarial attack, can introduce bias in the model predictions. In addition, it has recently been shown that the reconstruction of private raw data is still possible. This paper presents a comprehensive study concerning various privacy and security issues related to federated learning. Then, we identify the state-of-the-art approaches that aim to counteract these problems. Findings from our study confirm that the current major security threats are poisoning, backdoor, and Generative Adversarial Network (GAN)-based attacks, while inference-based attacks are the most critical to the privacy of FL. Finally, we identify ongoing research directions on the topic. This paper could be used as a reference to promote cybersecurity-related research on designing FL-based solutions for alleviating future challenges.
+AD  - Savoie Mt Blanc Univ, Polytech Annecy Chambery, F-74944 Annecy, FranceAD  - Savoie Mt Blanc Univ, LISTIC, F-74944 Annecy, FranceC3  - Universite Savoie Mont BlancC3  - Universite Savoie Mont BlancPU  - MDPI
+PI  - BASEL
+PA  - ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN  - 2076-3417
+J9  - APPL SCI-BASEL
+JI  - Appl. Sci.-Basel
+DA  - OCT
+PY  - 2022
+VL  - 12
+IS  - 19
+C7  - 9901
+DO  - 10.3390/app12199901
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000868135300001
+N1  - Times Cited in Web of Science Core Collection:  38
+Total Times Cited:  40
+Cited Reference Count:  63
+ER  -
+
+TY  - JOUR
+AU  - Adams-Prassl, J
+AU  - Binns, R
+AU  - Kelly-Lyth, A
+TI  - Directly Discriminatory Algorithms
+T2  - MODERN LAW REVIEW
+LA  - English
+KW  - FAIRNESS
+AB  - Discriminatory bias in algorithmic systems is widely documented. How should the law respond? A broad consensus suggests approaching the issue principally through the lens of indirect discrimination, focusing on algorithmic systems' impact. In this article, we set out to challenge this analysis, arguing that while indirect discrimination law has an important role to play, a narrow em on this regime in the context of machine learning algorithms is both normatively undesirable and legally flawed. We illustrate how certain forms of algorithmic bias in frequently deployed algorithms might constitute direct discrimination, and explore the ramifications-both in practical terms, and the broader challenges automated decision-making systems pose to the conceptual apparatus of anti-discrimination law.
+AD  - Univ Oxford, Magdalen Coll, Law, Oxford, EnglandAD  - Univ Oxford, Dept Comp Sci, Human Ctr Comp, Oxford, EnglandAD  - Univ Oxford, Bonavero Inst Human Rights, Oxford, EnglandC3  - University of OxfordC3  - University of OxfordC3  - University of OxfordFU  - European Research Council under the European Union [947806]; European Research Council (ERC) [947806] Funding Source: European Research Council (ERC)
+FX  - The authors acknowledge funding from the European Research Council under the European Union's Horizon 2020 research and innovation programme (grant agreement No 947806), and are grateful to Robin Allen QC, Shreya Atrey, Catherine Barnard, Mark Bell, Hugh Collins, Jinghe Fan, Sandy Fredman, Philipp Hacker, Deborah Hellman, Tarun Khaitan, Dee Masters, Dinah Rose QC, Sandra Wachter and Raphaele Xenidis, as well as participants at the Oxford Algorithms at Work Reading Group, the UT Austin iSchool Research Colloquium, the Oxford Ethics in AI Research Seminar, the Lorentz Centre Workshop on Fairness in Algorithmic Decision Making and the Oxford Business Law Workshop, as well as the anonymous reviewers, for feedback and discussion. The usual disclaimers apply.
+PU  - WILEY
+PI  - HOBOKEN
+PA  - 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN  - 0026-7961
+SN  - 1468-2230
+J9  - MOD LAW REV
+JI  - Mod. Law Rev.
+DA  - JAN
+PY  - 2023
+VL  - 86
+IS  - 1
+SP  - 144
+EP  - 175
+DO  - 10.1111/1468-2230.12759
+C6  - AUG 2022
+WE  - Social Science Citation Index (SSCI)AN  - WOS:000834063200001
+N1  - Times Cited in Web of Science Core Collection:  36
+Total Times Cited:  36
+Cited Reference Count:  159
+ER  -
+
+TY  - JOUR
+AU  - Borgohain, DJ
+AU  - Bhardwaj, RK
+AU  - Verma, MK
+TI  - Mapping the literature on the application of artificial intelligence in libraries (AAIL): a scientometric analysis
+T2  - LIBRARY HI TECH
+LA  - English
+KW  - Artificial intelligence
+KW  - Bibliometric mapping
+KW  - Libraries
+KW  - Cluster analysis
+KW  - Network visualization
+KW  - Scopus
+KW  - INFORMATION-SCIENCE
+KW  - HEALTH-CARE
+KW  - IMPACT
+KW  - COLLABORATION
+KW  - ACCEPTANCE
+KW  - NETWORKS
+KW  - MODEL
+KW  - INDEX
+KW  - TOOL
+KW  - LAW
+AB  - Purpose Artificial Intelligence (AI) is an emerging technology and turned into a field of knowledge that has been consistently displacing technologies for a change in human life. It is applied in all spheres of life as reflected in the review of the literature section here. As applicable in the field of libraries too, this study scientifically mapped the papers on AAIL and analyze its growth, collaboration network, trending topics, or research hot spots to highlight the challenges and opportunities in adopting AI-based advancements in library systems and processes. Design/methodology/approach The study was developed with a bibliometric approach, considering a decade, 2012 to 2021 for data extraction from a premier database, Scopus. The steps followed are (1) identification, selection of keywords, and forming the search strategy with the approval of a panel of computer scientists and librarians and (2) design and development of a perfect algorithm to verify these selected keywords in title-abstract-keywords of Scopus (3) Performing data processing in some state-of-the-art bibliometric visualization tools, Biblioshiny R and VOSviewer (4) discussing the findings for practical implications of the study and limitations. Findings As evident from several papers, not much research has been conducted on AI applications in libraries in comparison to topics like AI applications in cancer, health, medicine, education, and agriculture. As per the Price law, the growth pattern is exponential. The total number of papers relevant to the subject is 1462 (single and multi-authored) contributed by 5400 authors with 0.271 documents per author and around 4 authors per document. Papers occurred mostly in open-access journals. The productive journal is the Journal of Chemical Information and Modelling (NP = 63) while the highly consistent and impactful is the Journal of Machine Learning Research (z-index=63.58 and CPP = 56.17). In the case of authors, J Chen (z-index=28.86 and CPP = 43.75) is the most consistent and impactful author. At the country level, the USA has recorded the highest number of papers positioned at the center of the co-authorship network but at the institutional level, China takes the 1st position. The trending topics of research are machine learning, large dataset, deep learning, high-level languages, etc. The present information system has a high potential to improve if integrated with AI technologies. Practical implications The number of scientific papers has increased over time. The evolution of themes like machine learning implicates AI as a broad field of knowledge that converges with other disciplines. The themes like large datasets imply that AI may be applied to analyze and interpret these data and support decision-making in public sector enterprises. Theme named high-level language emerged as a research hotspot which indicated that extensive research has been going on in this area to improve computer systems for facilitating the processing of data with high momentum. These implications are of high strategic worth for policymakers, library stakeholders, researchers and the government as a whole for decision-making. Originality/value The analysis of collaboration, prolific authors/journals using consistency factor and CPP, testing the relationship between consistency (z-index) and impact (h-index), using state-of-the-art network visualization and cluster analysis techniques make this study novel and differentiates it from the traditional bibliometric analysis.
+   To the best of the author's knowledge, this work is the first attempt to comprehend the research streams and provide a holistic view of research on the application of AI in libraries. The insights obtained from this analysis are instrumental for both academics and practitioners.
+AD  - Mizoram Univ, Dept Lib & Informat Sci, Aizawl, IndiaAD  - Univ Delhi, St Stephens Coll, Dept Lib, Delhi, IndiaAD  - Mizoram Univ, Dept Lib & Informat Sci, Aizawl, IndiaC3  - Mizoram UniversityC3  - University of DelhiC3  - Mizoram UniversityPU  - EMERALD GROUP PUBLISHING LTD
+PI  - Leeds
+PA  - Floor 5, Northspring 21-23 Wellington Street, Leeds, W YORKSHIRE, ENGLAND
+SN  - 0737-8831
+J9  - LIBR HI TECH
+JI  - Libr. Hi Tech
+DA  - FEB 14
+PY  - 2024
+VL  - 42
+IS  - 1
+SP  - 149
+EP  - 179
+DO  - 10.1108/LHT-07-2022-0331
+C6  - OCT 2022
+WE  - Social Science Citation Index (SSCI)AN  - WOS:000862042000001
+N1  - Times Cited in Web of Science Core Collection:  35
+Total Times Cited:  35
+Cited Reference Count:  109
+ER  -
+
+TY  - JOUR
+AU  - Sansone, C
+AU  - Sperli, G
+TI  - Legal Information Retrieval systems: State-of-the-art and open issues
+T2  - INFORMATION SYSTEMS
+LA  - English
+KW  - Legal Information Retrieval
+KW  - Artificial Intelligence
+KW  - Natural Processing Language
+KW  - Ontology
+KW  - AI ETHICS
+KW  - KNOWLEDGE
+KW  - ONTOLOGY
+KW  - LAW
+KW  - DOCUMENT
+KW  - INTEGRATION
+KW  - EMBEDDINGS
+KW  - PRINCIPLES
+KW  - MANAGEMENT
+KW  - PROVIDE
+AB  - In the last years, the legal domain has been revolutionized by the use of Information and Communication Technologies, producing large amount of digital information. Legal practitioners' needs, then, in browsing these repositories has required to investigate more efficient retrieval methods, that assume more relevance because digital information is mostly unstructured. In this paper we analyze the state-of-the-art of artificial intelligence approaches for legal domain, focusing on Legal Information Retrieval systems based on Natural Language Processing, Machine Learning and Knowledge Extraction techniques. Finally, we also discuss challenges - mainly focusing on retrieving similar cases, statutes or paragraph for supporting latest cases' analysis - and open issues about Legal Information Retrieval systems.(c) 2021 Elsevier Ltd. All rights reserved.& nbsp;
+AD  - Univ Naples Federico II, Dept Elect Engn & Informat Technol DIETI, Via Claudio 21, Naples, ItalyC3  - University of Naples Federico IIPU  - PERGAMON-ELSEVIER SCIENCE LTD
+PI  - OXFORD
+PA  - THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN  - 0306-4379
+SN  - 1873-6076
+J9  - INFORM SYST
+JI  - Inf. Syst.
+DA  - MAY
+PY  - 2022
+VL  - 106
+C7  - 101967
+DO  - 10.1016/j.is.2021.101967
+C6  - FEB 2022
+WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:000783859500006
+N1  - Times Cited in Web of Science Core Collection:  23
+Total Times Cited:  24
+Cited Reference Count:  120
+ER  -
+
+TY  - JOUR
+AU  - Van den Meerssche, D
+TI  - Virtual Borders: International Law and the Elusive Inequalities of Algorithmic Association
+T2  - EUROPEAN JOURNAL OF INTERNATIONAL LAW
+LA  - English
+AB  - The use of algorithmic tools by international public authorities is changing how norms are made and enacted. This seismic shift in global governance has important distributive consequences: the digital turn not only empowers specific corporate actors and forms of expertise but also entails new modes of social sorting based on the placement of people in patterns of data. This article focuses on the emergent inequalities that machine learning and data analytics thereby import in the domain of global governance. In line with the symposium's theme, I thereby frame the importance of computational decision-making processes from a distributional, and not a procedural, perspective - from a perspective of inequality and not privacy, data protection or transparency. The empirical site for the assessment of these emergent inequalities is the 'virtual border'. By focusing on the technological tools of data extraction and algorithmic risk assessment that are reshaping practices of border control, the article makes a dual contribution: it reveals the social hierarchies engendered by these data-driven forms of grouping and grading - captured in the novel concept of 'associative inequality' - and highlights the difficulty of registering or counteracting this mode of subject-making in existing legal terms. This intervention both traces the particular distributive effects of data-driven governance and signals the challenges it poses to the prospects and emancipatory promises of collectivity, solidarity and equality entertained in modernist ideals of international law. In resisting the logic of algorithmic governance, I suggest, we should strive not for transparency but for opacity, not inclusion but incomparability, not privacy but open-ended and defiant commonality.
+AD  - Edinburgh Law Sch, Edinburgh, Midlothian, ScotlandAD  - TMC Asser Inst, The Hague, NetherlandsC3  - University of EdinburghFU  - UKRI Future Leaders Fellowship [MR/T041552/1]; FLF [MR/T041552/1] Funding Source: UKRI
+FX  - Postdoctoral Research Fellow, Edinburgh Law School, Edinburgh, United Kingdom; Associate Fellow, T.M.C. Asser Institute, The Hague, The Netherlands. Email:d.van.den.meerssche@ed.ac.uk.This work was supported by a UKRI Future Leaders Fellowship, awarded to Dr. Gavin Sullivan (University of Edinburgh), Grant Ref: MR/T041552/1.
+PU  - OXFORD UNIV PRESS
+PI  - OXFORD
+PA  - GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+SN  - 0938-5428
+SN  - 1464-3596
+J9  - EUR J INT LAW
+JI  - Eur. J. Int. Law
+DA  - JUL 30
+PY  - 2022
+VL  - 33
+IS  - 1
+SP  - 171
+EP  - 204
+DO  - 10.1093/ejil/chac007
+C6  - MAY 2022
+WE  - Social Science Citation Index (SSCI)AN  - WOS:000793046800001
+N1  - Times Cited in Web of Science Core Collection:  20
+Total Times Cited:  20
+Cited Reference Count:  123
+ER  -
+
