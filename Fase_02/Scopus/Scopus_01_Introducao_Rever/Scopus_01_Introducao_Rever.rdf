@@ -1,0 +1,2034 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/">
+    <rdf:Description rdf:about="urn:isbn:18684238%20(ISSN);%20978-303080846-4%20(ISBN)">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>614</prism:volume>
+                <dc:identifier>ISBN 18684238 (ISSN); 978-303080846-4 (ISBN)</dc:identifier>
+                <dc:title>IFIP Advances in Information and Communication Technology</dc:title>
+                <dc:identifier>DOI 10.1007/978-3-030-80847-1_1</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <foaf:name>Springer Science and Business Media Deutschland GmbH</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wong</foaf:surname>
+                        <foaf:givenName>A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Mercier-Laurent E.</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Owoc M.L.</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Özgür Kayalica M.</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dcterms:isReferencedBy rdf:resource="#item_1402"/>
+        <dcterms:isReferencedBy rdf:resource="#item_2014"/>
+        <dc:subject>Law</dc:subject>
+        <dc:subject>AI</dc:subject>
+        <dc:subject>Ethics</dc:subject>
+        <dc:subject>Automation</dc:subject>
+        <dc:subject>Transparency</dc:subject>
+        <dc:subject>Data protection</dc:subject>
+        <dc:subject>Privacy</dc:subject>
+        <dc:subject>Employment</dc:subject>
+        <dc:subject>Explainability</dc:subject>
+        <dc:subject>Job transition</dc:subject>
+        <dc:subject>Legal personhood</dc:subject>
+        <dc:subject>Liability</dc:subject>
+        <dc:subject>Regulation</dc:subject>
+        <dc:subject>Robots</dc:subject>
+        <dc:subject>End effectors</dc:subject>
+        <dc:subject>Ethical practices</dc:subject>
+        <dc:subject>Ethical principles</dc:subject>
+        <dc:subject>Intelligent systems</dc:subject>
+        <dc:subject>Knowledge management</dc:subject>
+        <dc:subject>Learning systems</dc:subject>
+        <dc:subject>Legal instruments</dc:subject>
+        <dc:subject>Life experiences</dc:subject>
+        <dc:subject>Philosophical aspects</dc:subject>
+        <dc:subject>Regulatory frameworks</dc:subject>
+        <dc:subject>Regulatory systems</dc:subject>
+        <dc:subject>Rights and responsibilities</dc:subject>
+        <dc:subject>Self-learning capability</dc:subject>
+        <dc:title>Ethics and Regulation of Artificial Intelligence</dc:title>
+        <dcterms:abstract>Over the last few years, the world has deliberated and developed numerous ethical principles and frameworks. It is the general opinion that the time has arrived to move from principles and to operationalize on the ethical practice of AI. It is now recognized that principles and standards can play a universal harmonizing role for the development of AI-related legal norms across the globe. However, how do we translate and embrace these articulated values, principles and actions to guide Nation States around the world to formulate their regulatory systems, policies or other legal instruments regarding AI? Our regulatory systems have attempted to keep abreast of new technologies by recalibrating and adapting our regulatory frameworks to provide for new opportunities and risks, to confer rights and duties, safety and liability frameworks, and to ensure legal certainty for businesses. These past adaptations have been reactive and sometimes piecemeal, often with artificial delineation on rights and responsibilities and with unintended flow-on consequences. Previously, technologies have been deployed more like tools, but as autonomy and self-learning capabilities increase, robots and intelligent AI systems will feel less and less like machines and tools. There is now a significant difference, because machine learning AI systems have the ability ‘to learn’, adapt their performances and ‘make decisions’ from data and ‘life experiences’. This paper presented at the International Joint Conference on Artificial Intelligence - Pacific Rim International Conference on Artificial Intelligence in 2021 provides brief insights on some selected topical developments in ethical principles and frameworks, our regulatory systems and the current debates on some of the risks and challenges from the use and actions of AI, autonomous and intelligent systems [1]. © 2021, IFIP International Federation for Information Processing.</dcterms:abstract>
+        <dc:date>2021</dc:date>
+        <z:language>English</z:language>
+        <z:archive>Scopus</z:archive>
+        <dc:coverage>WOS:000777635100001</dc:coverage>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.scopus.com/inward/record.uri?eid=2-s2.0-85112133856&amp;doi=10.1007%2f978-3-030-80847-1_1&amp;partnerID=40&amp;md5=f9de980b8df61e854efcb347459b6b56</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Journal Abbreviation: IFIP Advances in Information and Communication Technology</dc:description>
+        <bib:pages>1-18</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>IFIP Advances in Information and Communication Technology</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <bib:Memo rdf:about="#item_1402">
+        <rdf:value>&lt;p&gt;Export Date: 18 December 2024; Cited By: 6; Correspondence Address: A. Wong; AGW Legal &amp; Advisory, Sydney, Australia; email: anthonywong@agwconsult.com; Conference name: 8th IFIP WG 12.6 International Workshop on Artificial Intelligence for Knowledge Management, AI4KM 2021 held in conjunction with International Joint Conference on Artificial Intelligence, IJCAI 2020; Conference date: 7 January 2021 through 8 January 2021; Conference code: 262349&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_2014">
+        <rdf:value>&lt;p&gt;Times Cited in Web of Science Core Collection:&amp;nbsp;&amp;nbsp;6&lt;br/&gt;Total Times Cited:&amp;nbsp;&amp;nbsp;6&lt;br/&gt;Cited Reference Count:&amp;nbsp;&amp;nbsp;43&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <rdf:Description rdf:about="urn:isbn:978-1-4503-8095-9">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>ISBN 978-1-4503-8095-9</dc:identifier>
+                <dc:title>Conf Hum Fact Comput Syst Proc</dc:title>
+                <dc:identifier>DOI 10.1145/3411763.3441342</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Association for Computing Machinery</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ehsan</foaf:surname>
+                        <foaf:givenName>U.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wintersberger</foaf:surname>
+                        <foaf:givenName>P.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Liao</foaf:surname>
+                        <foaf:givenName>Q.V.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mara</foaf:surname>
+                        <foaf:givenName>M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Streit</foaf:surname>
+                        <foaf:givenName>M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wachter</foaf:surname>
+                        <foaf:givenName>S.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Riener</foaf:surname>
+                        <foaf:givenName>A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Riedl</foaf:surname>
+                        <foaf:givenName>M.O.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_1400"/>
+        <dcterms:isReferencedBy rdf:resource="#item_2021"/>
+        <dc:subject>Artificial Intelligence</dc:subject>
+        <dc:subject>Artificial intelligence</dc:subject>
+        <dc:subject>Algorithmic Fairness</dc:subject>
+        <dc:subject>Explainable Artificial Intelligence</dc:subject>
+        <dc:subject>Interpretability</dc:subject>
+        <dc:subject>Interpretable Machine Learning</dc:subject>
+        <dc:subject>Trust in Automation</dc:subject>
+        <dc:subject>Critical Technical Practice</dc:subject>
+        <dc:subject>Human-centered Computing</dc:subject>
+        <dc:subject>AI systems</dc:subject>
+        <dc:subject>Concrete design</dc:subject>
+        <dc:subject>End users</dc:subject>
+        <dc:subject>Evaluation methods</dc:subject>
+        <dc:subject>Human engineering</dc:subject>
+        <dc:subject>Research agenda</dc:subject>
+        <dc:subject>Technical levels</dc:subject>
+        <dc:subject>User need</dc:subject>
+        <dc:title>Operationalizing Human-Centered Perspectives in Explainable AI</dc:title>
+        <dcterms:abstract>The realm of Artificial Intelligence (AI)'s impact on our lives is far reaching - with AI systems proliferating high-stakes domains such as healthcare, finance, mobility, law, etc., these systems must be able to explain their decision to diverse end-users comprehensibly. Yet the discourse of Explainable AI (XAI) has been predominantly focused on algorithm-centered approaches, suffering from gaps in meeting user needs and exacerbating issues of algorithmic opacity. To address these issues, researchers have called for human-centered approaches to XAI. There is a need to chart the domain and shape the discourse of XAI with reflective discussions from diverse stakeholders. The goal of this workshop is to examine how human-centered perspectives in XAI can be operationalized at the conceptual, methodological, and technical levels. Encouraging holistic (historical, sociological, and technical) approaches, we put an emphasis on &quot;operationalizing&quot;, aiming to produce actionable frameworks, transferable evaluation methods, concrete design guidelines, and articulate a coordinated research agenda for XAI. © 2021 Owner/Author.</dcterms:abstract>
+        <dc:date>2021</dc:date>
+        <z:language>English</z:language>
+        <z:archive>Scopus</z:archive>
+        <dc:coverage>WOS:000759178500033</dc:coverage>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.scopus.com/inward/record.uri?eid=2-s2.0-85105803279&amp;doi=10.1145%2f3411763.3441342&amp;partnerID=40&amp;md5=e41ca57fde9fe93f5f9919d289225a73</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Journal Abbreviation: Conf Hum Fact Comput Syst Proc</dc:description>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>Conference on Human Factors in Computing Systems - Proceedings</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <bib:Memo rdf:about="#item_1400">
+        <rdf:value>&lt;p&gt;Export Date: 18 December 2024; Cited By: 77; Conference name: 2021 CHI Conference on Human Factors in Computing Systems: Making Waves, Combining Strengths, CHI EA 2021; Conference date: 8 May 2021 through 13 May 2021; Conference code: 168787&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_2021">
+        <rdf:value>&lt;p&gt;Times Cited in Web of Science Core Collection:&amp;nbsp;&amp;nbsp;45&lt;br/&gt;Total Times Cited:&amp;nbsp;&amp;nbsp;50&lt;br/&gt;Cited Reference Count:&amp;nbsp;&amp;nbsp;30&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <rdf:Description rdf:about="urn:isbn:978-1-4503-9011-8">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>ISBN 978-1-4503-9011-8</dc:identifier>
+                <dc:title>ACM Int. Conf. Proc. Ser.</dc:title>
+                <dc:identifier>DOI 10.1145/3494193.3494195</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Association for Computing Machinery</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mitrou</foaf:surname>
+                        <foaf:givenName>L.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Janssen</foaf:surname>
+                        <foaf:givenName>M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Loukis</foaf:surname>
+                        <foaf:givenName>E.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Loukis E.</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dcterms:isReferencedBy rdf:resource="#item_1404"/>
+        <dcterms:isReferencedBy rdf:resource="#item_2012"/>
+        <dc:subject>ARTIFICIAL-INTELLIGENCE</dc:subject>
+        <dc:subject>CHALLENGES</dc:subject>
+        <dc:subject>AI</dc:subject>
+        <dc:subject>BIG DATA</dc:subject>
+        <dc:subject>Artificial intelligence</dc:subject>
+        <dc:subject>ALGORITHMS</dc:subject>
+        <dc:subject>accountability</dc:subject>
+        <dc:subject>decision-making</dc:subject>
+        <dc:subject>discretion</dc:subject>
+        <dc:subject>Decision makers</dc:subject>
+        <dc:subject>Decision making</dc:subject>
+        <dc:subject>Decisions makings</dc:subject>
+        <dc:subject>Fully automated</dc:subject>
+        <dc:subject>Human control</dc:subject>
+        <dc:subject>Human-in-the-loop</dc:subject>
+        <dc:subject>Laws and legislation</dc:subject>
+        <dc:subject>Legal frameworks</dc:subject>
+        <dc:subject>Legal requirements</dc:subject>
+        <dc:subject>Making decision</dc:subject>
+        <dc:subject>Paper analysis</dc:subject>
+        <dc:title>Human Control and Discretion in AI-driven Decision-making in Government</dc:title>
+        <dcterms:abstract>Traditionally public decision-makers have been given discretion in many of the decisions they have to make in how to comply with legislation and policies. In this way, the context and specific circumstances can be taken into account when making decisions. This enables more acceptable solutions, but at the same time, discretion might result in treating individuals differently. With the advance of AI-based decisions, the role of the decision-makers is changing. The automation might result in fully automated decisions, humans-in-the-loop or AI might only be used as recommender systems in which humans have the discretion to deviate from the suggested decision. The predictability of and the accountability of the decisions might vary in these circumstances, although humans always remain accountable. Hence, there is a need for human-control and the decision-makers should be given sufficient authority to control the system and deal with undesired outcomes. In this direction this paper analyzes the degree of discretion and human control needed in AI-driven decision-making in government. Our analysis is based on the legal requirements set/posed to the administration, by the extensive legal frameworks that have been created for its operation, concerning the rule of law, the fairness-non-discrimination, the justifiability and accountability, and the certainty/predictability.  © 2021 ACM.</dcterms:abstract>
+        <dc:date>2021</dc:date>
+        <z:language>English</z:language>
+        <z:archive>Scopus</z:archive>
+        <dc:coverage>WOS:000933151800002</dc:coverage>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.scopus.com/inward/record.uri?eid=2-s2.0-85122976069&amp;doi=10.1145%2f3494193.3494195&amp;partnerID=40&amp;md5=8e06abd8160154e401b34da9d56e715b</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Journal Abbreviation: ACM Int. Conf. Proc. Ser.</dc:description>
+        <bib:pages>10-16</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+               <dc:title>ACM International Conference Proceeding Series</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <bib:Memo rdf:about="#item_1404">
+        <rdf:value>&lt;p&gt;Export Date: 18 December 2024; Cited By: 6; Conference name: 14th International Conference on Theory and Practice of Electronic Governance, ICEGOV 2021; Conference date: 6 October 2021 through 8 October 2021; Conference code: 176270&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_2012">
+        <rdf:value>&lt;p&gt;Times Cited in Web of Science Core Collection:&amp;nbsp;&amp;nbsp;4&lt;br/&gt;Total Times Cited:&amp;nbsp;&amp;nbsp;4&lt;br/&gt;Cited Reference Count:&amp;nbsp;&amp;nbsp;41&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Article rdf:about="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85101235767&amp;doi=10.1007%2fs11023-021-09557-8&amp;partnerID=40&amp;md5=fd0798bd641fc40ff798d32dbbed2c5e">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0924-6495"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mökander</foaf:surname>
+                        <foaf:givenName>J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Floridi</foaf:surname>
+                        <foaf:givenName>L.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_1406"/>
+        <dcterms:isReferencedBy rdf:resource="#item_2019"/>
+        <dc:subject>Artificial intelligence</dc:subject>
+        <dc:subject>Ethics</dc:subject>
+        <dc:subject>Auditing</dc:subject>
+        <dc:subject>Best practice</dc:subject>
+        <dc:subject>Governance</dc:subject>
+        <dc:subject>Process</dc:subject>
+        <dc:title>Ethics-Based Auditing to Develop Trustworthy AI</dc:title>
+        <dcterms:abstract>A series of recent developments points towards auditing as a promising mechanism to bridge the gap between principles and practice in AI ethics. Building on ongoing discussions concerning ethics-based auditing, we offer three contributions. First, we argue that ethics-based auditing can improve the quality of decision making, increase user satisfaction, unlock growth potential, enable law-making, and relieve human suffering. Second, we highlight current best practices to support the design and implementation of ethics-based auditing: To be feasible and effective, ethics-based auditing should take the form of a continuous and constructive process, approach ethical alignment from a system perspective, and be aligned with public policies and incentives for ethically desirable behaviour. Third, we identify and discuss the constraints associated with ethics-based auditing. Only by understanding and accounting for these constraints can ethics-based auditing facilitate ethical alignment of AI, while enabling society to reap the full economic and social benefits of automation. © 2021, The Author(s).</dcterms:abstract>
+        <dc:date>2021 JUN</dc:date>
+        <z:language>English</z:language>
+        <z:archive>Scopus</z:archive>
+        <dc:coverage>WOS:000619696300001</dc:coverage>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.scopus.com/inward/record.uri?eid=2-s2.0-85101235767&amp;doi=10.1007%2fs11023-021-09557-8&amp;partnerID=40&amp;md5=fd0798bd641fc40ff798d32dbbed2c5e</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Publisher: Springer Science and Business Media B.V.</dc:description>
+        <bib:pages>323-327</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0924-6495">
+        <prism:volume>31</prism:volume>
+        <dc:title>Minds and Machines</dc:title>
+        <dc:identifier>DOI 10.1007/s11023-021-09557-8</dc:identifier>
+        <prism:number>2</prism:number>
+        <dcterms:alternative>Minds Mach</dcterms:alternative>
+        <dc:identifier>ISSN 0924-6495</dc:identifier>
+    </bib:Journal>
+    <bib:Memo rdf:about="#item_1406">
+        <rdf:value>&lt;p&gt;Export Date: 18 December 2024; Cited By: 70; Correspondence Address: J. Mökander; Oxford Internet Institute, University of Oxford, Oxford, 1 St Giles’, OX1 3JS, United Kingdom; email: jakob.mokander@oii.ox.ac.uk; CODEN: MMACE&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_2019">
+        <rdf:value>&lt;p&gt;Times Cited in Web of Science Core Collection:&amp;nbsp;&amp;nbsp;45&lt;br/&gt;Total Times Cited:&amp;nbsp;&amp;nbsp;46&lt;br/&gt;Cited Reference Count:&amp;nbsp;&amp;nbsp;4&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Article rdf:about="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85075567948&amp;doi=10.1016%2fj.ejrad.2019.108768&amp;partnerID=40&amp;md5=6e491233c2126bdfa5d8c1755a43e386">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0720048X%20(ISSN)"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Safdar</foaf:surname>
+                        <foaf:givenName>N.M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Banja</foaf:surname>
+                        <foaf:givenName>J.D.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Meltzer</foaf:surname>
+                        <foaf:givenName>C.C.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_1411"/>
+        <dc:subject>artificial intelligence</dc:subject>
+        <dc:subject>machine learning</dc:subject>
+        <dc:subject>Artificial Intelligence</dc:subject>
+        <dc:subject>Artificial intelligence</dc:subject>
+        <dc:subject>Ethics</dc:subject>
+        <dc:subject>Machine learning</dc:subject>
+        <dc:subject>automation</dc:subject>
+        <dc:subject>ethics</dc:subject>
+        <dc:subject>Radiology</dc:subject>
+        <dc:subject>forecasting</dc:subject>
+        <dc:subject>access to information</dc:subject>
+        <dc:subject>algorithm</dc:subject>
+        <dc:subject>electronic medical record</dc:subject>
+        <dc:subject>Forecasting</dc:subject>
+        <dc:subject>human</dc:subject>
+        <dc:subject>Humans</dc:subject>
+        <dc:subject>patient information</dc:subject>
+        <dc:subject>priority journal</dc:subject>
+        <dc:subject>radiologist</dc:subject>
+        <dc:subject>Radiologists</dc:subject>
+        <dc:subject>radiology</dc:subject>
+        <dc:subject>Review</dc:subject>
+        <dc:subject>workflow</dc:subject>
+        <dc:subject>Workflow</dc:subject>
+        <dc:title>Ethical considerations in artificial intelligence</dc:title>
+        <dcterms:abstract>With artificial intelligence (AI) precipitously perched at the apex of the hype curve, the promise of transforming the disparate fields of healthcare, finance, journalism, and security and law enforcement, among others, is enormous. For healthcare – particularly radiology – AI is anticipated to facilitate improved diagnostics, workflow, and therapeutic planning and monitoring. And, while it is also causing some trepidation among radiologists regarding its uncertain impact on the demand and training of our current and future workforce, most of us welcome the potential to harness AI for transformative improvements in our ability to diagnose disease more accurately and earlier in the populations we serve. © 2019 Elsevier B.V.</dcterms:abstract>
+        <dc:date>2020</dc:date>
+        <z:language>English</z:language>
+        <z:archive>Scopus</z:archive>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.scopus.com/inward/record.uri?eid=2-s2.0-85075567948&amp;doi=10.1016%2fj.ejrad.2019.108768&amp;partnerID=40&amp;md5=6e491233c2126bdfa5d8c1755a43e386</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Publisher: Elsevier Ireland Ltd</dc:description>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0720048X%20(ISSN)">
+        <prism:volume>122</prism:volume>
+        <dc:title>European Journal of Radiology</dc:title>
+        <dc:identifier>DOI 10.1016/j.ejrad.2019.108768</dc:identifier>
+        <dcterms:alternative>Eur. J. Radiol.</dcterms:alternative>
+        <dc:identifier>ISSN 0720048X (ISSN)</dc:identifier>
+    </bib:Journal>
+    <bib:Memo rdf:about="#item_1411">
+        <rdf:value>&lt;p&gt;Export Date: 18 December 2024; Cited By: 113; Correspondence Address: C.C. Meltzer; Emory University Hospital, Atlanta, 1364 Clifton Rd, Suite D-112, 30322, Georgia; email: cmeltze@emory.edu; CODEN: EJRAD&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <rdf:Description rdf:about="urn:isbn:978-172816251-5%20(ISBN)">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>ISBN 978-172816251-5 (ISBN)</dc:identifier>
+                <dc:title>Proc. - IEEE Int. Conf. Big Data, Big Data</dc:title>
+                <dc:identifier>DOI 10.1109/BigData50022.2020.9377738</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <foaf:name>Institute of Electrical and Electronics Engineers Inc.</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Golbin</foaf:surname>
+                        <foaf:givenName>I.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rao</foaf:surname>
+                        <foaf:givenName>A.S.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hadjarian</foaf:surname>
+                        <foaf:givenName>A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Krittman</foaf:surname>
+                        <foaf:givenName>D.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                   <foaf:Person><foaf:surname>Wu X.</foaf:surname></foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Jermaine C.</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Xiong L.</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                   <foaf:Person><foaf:surname>Hu X.T.</foaf:surname></foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Kotevska O.</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                   <foaf:Person><foaf:surname>Lu S.</foaf:surname></foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                   <foaf:Person><foaf:surname>Xu W.</foaf:surname></foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Aluru S.</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                   <foaf:Person><foaf:surname>Zhai C.</foaf:surname></foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Al-Masri E.</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                   <foaf:Person><foaf:surname>Chen Z.</foaf:surname></foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Saltz J.</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dcterms:isReferencedBy rdf:resource="#item_1415"/>
+        <dcterms:isReferencedBy rdf:resource="#item_2027"/>
+        <dc:subject>artificial intelligence</dc:subject>
+        <dc:subject>Artificial intelligence</dc:subject>
+        <dc:subject>ethics</dc:subject>
+        <dc:subject>Decision making</dc:subject>
+        <dc:subject>Automated decision making</dc:subject>
+        <dc:subject>Behavioral research</dc:subject>
+        <dc:subject>Big data</dc:subject>
+        <dc:subject>Ethical standards</dc:subject>
+        <dc:subject>Industry groups</dc:subject>
+        <dc:subject>Legal implications</dc:subject>
+        <dc:subject>Private sector organizations</dc:subject>
+        <dc:subject>Professional aspects</dc:subject>
+        <dc:subject>Regulatory requirements</dc:subject>
+        <dc:subject>Reputational damage</dc:subject>
+        <dc:subject>Social responsibilities</dc:subject>
+        <dc:title>Responsible AI: A Primer for the Legal Community</dc:title>
+        <dcterms:abstract>Artificial intelligence (AI) is increasingly being adopted for automation and decision-making tasks across all industries, public sector, and law. Applications range from hiring and credit limit decisions, to loan and healthcare claim approvals, to criminal sentencing, and even the selective provision of information by social media companies to different groups of viewers. The increased adoption of AI, affecting so many aspects of our daily lives, highlights the potential risks around automated decision making and the need for better governance and ethical standards when deploying such systems. In response to that need, governments, states, municipalities, private sector organizations, and industry groups around the world have drafted hundreds, perhaps even thousands at this point - of new, regulatory proposals and guidelines; many already in effect and more on the way. The data-driven and often black box nature of these systems does not absolve organizations from the social responsibility or increasingly commonplace regulatory requirements to confirm they work as intended and are deployed in a responsible manner, lest they run the risk of reputational damage, regulatory fines, and/or legal action. The legal community should have a good understanding of the responsible development and deployment of artificial intelligence in order to inform, translate, and advise on the legal implications of AI systems. © 2020 IEEE.</dcterms:abstract>
+        <dc:date>2020</dc:date>
+        <z:language>English</z:language>
+        <z:archive>Scopus</z:archive>
+        <dc:coverage>WOS:000662554702032</dc:coverage>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.scopus.com/inward/record.uri?eid=2-s2.0-85103813833&amp;doi=10.1109%2fBigData50022.2020.9377738&amp;partnerID=40&amp;md5=6251e702b163d661d3923bc684ab04f7</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Journal Abbreviation: Proc. - IEEE Int. Conf. Big Data, Big Data</dc:description>
+        <bib:pages>2121-2126</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>Proceedings - 2020 IEEE International Conference on Big Data, Big Data 2020</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <bib:Memo rdf:about="#item_1415">
+        <rdf:value>&lt;p&gt;Export Date: 18 December 2024; Cited By: 12; Conference name: 8th IEEE International Conference on Big Data, Big Data 2020; Conference date: 10 December 2020 through 13 December 2020; Conference code: 168025&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_2027">
+        <rdf:value>&lt;p&gt;Times Cited in Web of Science Core Collection:&amp;nbsp;&amp;nbsp;6&lt;br/&gt;Total Times Cited:&amp;nbsp;&amp;nbsp;6&lt;br/&gt;Cited Reference Count:&amp;nbsp;&amp;nbsp;43&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <rdf:Description rdf:about="urn:isbn:10450823%20(ISSN);%20978-099924110-3%20(ISBN)">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>0</prism:volume>
+                <dc:identifier>ISBN 10450823 (ISSN); 978-099924110-3 (ISBN)</dc:identifier>
+                <dc:title>IJCAI Int. Joint Conf. Artif. Intell.</dc:title>
+                <dc:identifier>DOI 10.24963/ijcai.2017/3</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <foaf:name>International Joint Conferences on Artificial Intelligence</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pagallo</foaf:surname>
+                        <foaf:givenName>U.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Sierra C.</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dcterms:isReferencedBy rdf:resource="#item_1433"/>
+        <dcterms:isReferencedBy rdf:resource="#item_1819"/>
+        <dcterms:isReferencedBy rdf:resource="#item_2044"/>
+        <dc:subject>Artificial intelligence</dc:subject>
+        <dc:subject>LAW</dc:subject>
+        <dc:subject>Automation</dc:subject>
+        <dc:subject>AI systems</dc:subject>
+        <dc:subject>Fully automated</dc:subject>
+        <dc:subject>Intelligent robots</dc:subject>
+        <dc:subject>Risk assessment</dc:subject>
+        <dc:subject>Artificial agents</dc:subject>
+        <dc:subject>Autonomous systems</dc:subject>
+        <dc:subject>Cognitive task</dc:subject>
+        <dc:subject>Hand in hands</dc:subject>
+        <dc:subject>Levels of automation</dc:subject>
+        <dc:subject>Social cohesion</dc:subject>
+        <dc:title>From automation to autonomous systems: A legal phenomenology with problems of accountability</dc:title>
+        <dcterms:abstract>Over the past decades a considerable amount of work has been devoted to the notion of autonomy and the intelligence of robots and of AI systems: depending on the application, several standards on the &quot;levels of automation&quot; have been proposed. Although current AI systems may have the intelligence of a fridge, or of a toaster, some of such autonomous systems have already challenged basic pillars of society and the law, e.g. whether lethal force should ever be permitted to be &quot;fully automated.&quot; The aim of this paper is to show that the normative challenges of AI entail different types of accountability that go hand-in-hand with choices of technological dependence, delegation of cognitive tasks, and trust. The stronger the social cohesion is, the higher the risks that can be socially accepted through the normative assessment of the not fully predictable consequences of tasks and decisions entrusted to AI systems and artificial agents.</dcterms:abstract>
+        <dc:date>2017</dc:date>
+        <z:language>English</z:language>
+        <z:archive>Scopus</z:archive>
+        <dc:coverage>WOS:000764137500003</dc:coverage>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.scopus.com/inward/record.uri?eid=2-s2.0-85031911098&amp;doi=10.24963%2fijcai.2017%2f3&amp;partnerID=40&amp;md5=9a9798a01a4b720a417520e32f3e5d37</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Journal Abbreviation: IJCAI Int. Joint Conf. Artif. Intell.</dc:description>
+        <bib:pages>17-23</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>IJCAI International Joint Conference on Artificial Intelligence</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <bib:Memo rdf:about="#item_1433">
+        <rdf:value>&lt;p&gt;Export Date: 18 December 2024; Cited By: 34; Correspondence Address: U. Pagallo; University of Turin, Law School, Italy; email: ugo.pagallo@unito.it; Conference name: 26th International Joint Conference on Artificial Intelligence, IJCAI 2017; Conference date: 19 August 2017 through 25 August 2017; Conference code: 130864&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_1819">
+        <rdf:value>&lt;p&gt;Times Cited in Web of Science Core Collection:&amp;nbsp;&amp;nbsp;16&lt;br/&gt;Total Times Cited:&amp;nbsp;&amp;nbsp;17&lt;br/&gt;Cited Reference Count:&amp;nbsp;&amp;nbsp;28&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_2044">
+        <rdf:value>&lt;p&gt;Times Cited in Web of Science Core Collection:&amp;nbsp;&amp;nbsp;16&lt;br/&gt;Total Times Cited:&amp;nbsp;&amp;nbsp;17&lt;br/&gt;Cited Reference Count:&amp;nbsp;&amp;nbsp;28&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Article rdf:about="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85151500402&amp;doi=10.1007%2fs10506-023-09356-9&amp;partnerID=40&amp;md5=e934302a2d9a5a4210c335521fc16e07">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:09248463%20(ISSN)"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Brożek</foaf:surname>
+                        <foaf:givenName>B.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Furman</foaf:surname>
+                        <foaf:givenName>M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jakubiec</foaf:surname>
+                        <foaf:givenName>M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kucharzyk</foaf:surname>
+                        <foaf:givenName>B.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_1444"/>
+        <dc:subject>Artificial intelligence</dc:subject>
+        <dc:subject>Explainable AI</dc:subject>
+        <dc:subject>Decision making</dc:subject>
+        <dc:subject>Decisions makings</dc:subject>
+        <dc:subject>Automated decision making</dc:subject>
+        <dc:subject>Automated decision-making</dc:subject>
+        <dc:subject>AI and law</dc:subject>
+        <dc:subject>Artificial intelligence and laws</dc:subject>
+        <dc:subject>Black box problem</dc:subject>
+        <dc:subject>Black boxes</dc:subject>
+        <dc:subject>Explainable artificial intelligence</dc:subject>
+        <dc:subject>Legal contexts</dc:subject>
+        <dc:subject>Legal decision-making</dc:subject>
+        <dc:subject>Opacity</dc:subject>
+        <dc:subject>Real and imaginary</dc:subject>
+        <dc:title>The black box problem revisited. Real and imaginary challenges for automated legal decision making</dc:title>
+        <dcterms:abstract>This paper addresses the black-box problem in artificial intelligence (AI), and the related problem of explainability of AI in the legal context. We argue, first, that the black box problem is, in fact, a superficial one as it results from an overlap of four different – albeit interconnected – issues: the opacity problem, the strangeness problem, the unpredictability problem, and the justification problem. Thus, we propose a framework for discussing both the black box problem and the explainability of AI. We argue further that contrary to often defended claims the opacity issue is not a genuine problem. We also dismiss the justification problem. Further, we describe the tensions involved in the strangeness and unpredictability problems and suggest some ways to alleviate them. © The Author(s) 2023.</dcterms:abstract>
+        <dc:date>2024</dc:date>
+        <z:language>English</z:language>
+        <z:archive>Scopus</z:archive>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.scopus.com/inward/record.uri?eid=2-s2.0-85151500402&amp;doi=10.1007%2fs10506-023-09356-9&amp;partnerID=40&amp;md5=e934302a2d9a5a4210c335521fc16e07</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Publisher: Springer Nature</dc:description>
+        <bib:pages>427-440</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:09248463%20(ISSN)">
+        <prism:volume>32</prism:volume>
+        <dc:title>Artificial Intelligence and Law</dc:title>
+        <dc:identifier>DOI 10.1007/s10506-023-09356-9</dc:identifier>
+        <prism:number>2</prism:number>
+        <dcterms:alternative>Artif Intell Law</dcterms:alternative>
+        <dc:identifier>ISSN 09248463 (ISSN)</dc:identifier>
+    </bib:Journal>
+    <bib:Memo rdf:about="#item_1444">
+        <rdf:value>&lt;p&gt;Export Date: 18 December 2024; Cited By: 17; Correspondence Address: B. Brożek; Faculty of Law and Administration, Jagiellonian University, Krakow, Poland; email: bartosz.brozek@uj.edu.pl; CODEN: AINLE&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Article rdf:about="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85165229141&amp;doi=10.1016%2fj.inffus.2023.101896&amp;partnerID=40&amp;md5=227e799a222807d695482be476e999d8">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1566-2535"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Díaz-Rodríguez</foaf:surname>
+                        <foaf:givenName>N.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Del Ser</foaf:surname>
+                        <foaf:givenName>J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Coeckelbergh</foaf:surname>
+                        <foaf:givenName>M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>López de Prado</foaf:surname>
+                        <foaf:givenName>M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Herrera-Viedma</foaf:surname>
+                        <foaf:givenName>E.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Herrera</foaf:surname>
+                        <foaf:givenName>F.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_1450"/>
+        <dcterms:isReferencedBy rdf:resource="#item_2061"/>
+        <dc:subject>BIG DATA</dc:subject>
+        <dc:subject>FRAMEWORK</dc:subject>
+        <dc:subject>Artificial intelligence</dc:subject>
+        <dc:subject>PRIVACY</dc:subject>
+        <dc:subject>Trustworthy AI</dc:subject>
+        <dc:subject>AI regulation</dc:subject>
+        <dc:subject>AI ethics</dc:subject>
+        <dc:subject>METRICS</dc:subject>
+        <dc:subject>QUALITY</dc:subject>
+        <dc:subject>Regulatory sandbox</dc:subject>
+        <dc:subject>Responsible AI systems</dc:subject>
+        <dc:subject>Ethical technology</dc:subject>
+        <dc:subject>Artificial intelligence ethic</dc:subject>
+        <dc:subject>Artificial intelligence regulation</dc:subject>
+        <dc:subject>Artificial intelligence systems</dc:subject>
+        <dc:subject>Auditing process</dc:subject>
+        <dc:subject>Entire life cycles</dc:subject>
+        <dc:subject>Life cycle</dc:subject>
+        <dc:subject>Responsible artificial intelligence system</dc:subject>
+        <dc:subject>Social perspective</dc:subject>
+        <dc:subject>Technical requirement</dc:subject>
+        <dc:subject>Trustworthy artificial intelligence</dc:subject>
+        <dc:title>Connecting the dots in trustworthy Artificial Intelligence: From AI principles, ethics, and key requirements to responsible AI systems and regulation</dc:title>
+        <dcterms:abstract>Trustworthy Artificial Intelligence (AI) is based on seven technical requirements sustained over three main pillars that should be met throughout the system's entire life cycle: it should be (1) lawful, (2) ethical, and (3) robust, both from a technical and a social perspective. However, attaining truly trustworthy AI concerns a wider vision that comprises the trustworthiness of all processes and actors that are part of the system's life cycle, and considers previous aspects from different lenses. A more holistic vision contemplates four essential axes: the global principles for ethical use and development of AI-based systems, a philosophical take on AI ethics, a risk-based approach to AI regulation, and the mentioned pillars and requirements. The seven requirements (human agency and oversight; robustness and safety; privacy and data governance; transparency; diversity, non-discrimination and fairness; societal and environmental wellbeing; and accountability) are analyzed from a triple perspective: What each requirement for trustworthy AI is, Why it is needed, and How each requirement can be implemented in practice. On the other hand, a practical approach to implement trustworthy AI systems allows defining the concept of responsibility of AI-based systems facing the law, through a given auditing process. Therefore, a responsible AI system is the resulting notion we introduce in this work, and a concept of utmost necessity that can be realized through auditing processes, subject to the challenges posed by the use of regulatory sandboxes. Our multidisciplinary vision of trustworthy AI culminates in a debate on the diverging views published lately about the future of AI. Our reflections in this matter conclude that regulation is a key for reaching a consensus among these views, and that trustworthy and responsible AI systems will be crucial for the present and future of our society. © 2023 The Author(s)</dcterms:abstract>
+        <dc:date>2023 NOV</dc:date>
+        <z:language>English</z:language>
+        <z:archive>Scopus</z:archive>
+        <dc:coverage>WOS:001040646900001</dc:coverage>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.scopus.com/inward/record.uri?eid=2-s2.0-85165229141&amp;doi=10.1016%2fj.inffus.2023.101896&amp;partnerID=40&amp;md5=227e799a222807d695482be476e999d8</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Publisher: Elsevier B.V.</dc:description>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1566-2535">
+        <prism:volume>99</prism:volume>
+        <dc:title>Information Fusion</dc:title>
+        <dc:identifier>DOI 10.1016/j.inffus.2023.101896</dc:identifier>
+        <dcterms:alternative>Inf. Fusion</dcterms:alternative>
+        <dc:identifier>ISSN 1566-2535</dc:identifier>
+    </bib:Journal>
+    <bib:Memo rdf:about="#item_1450">
+        <rdf:value>&lt;p&gt;Export Date: 18 December 2024; Cited By: 128; Correspondence Address: N. Díaz-Rodríguez; Department of Computer Science and Artificial Intelligence, DaSCI Andalusian Institute in Data Science and Computational Intelligence, University of Granada, Granada, 18071, Spain; email: nataliadiaz@ugr.es; J. Del Ser; Department of Computer Science and Artificial Intelligence, DaSCI Andalusian Institute in Data Science and Computational Intelligence, University of Granada, Granada, 18071, Spain; email: javier.delser@ehu.eus&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_2061">
+        <rdf:value>&lt;p&gt;Times Cited in Web of Science Core Collection:&amp;nbsp;&amp;nbsp;75&lt;br/&gt;Total Times Cited:&amp;nbsp;&amp;nbsp;75&lt;br/&gt;Cited Reference Count:&amp;nbsp;&amp;nbsp;149&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <rdf:Description rdf:about="urn:isbn:978-1-4503-6936-7">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>ISBN 978-1-4503-6936-7</dc:identifier>
+                <dc:title>FAT* - Proc. Conf. Fairness, Account., Transpar.</dc:title>
+                <dc:identifier>DOI 10.1145/3351095.3372833</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Association for Computing Machinery, Inc</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wieringa</foaf:surname>
+                        <foaf:givenName>M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_1475"/>
+        <dcterms:isReferencedBy rdf:resource="#item_1790"/>
+        <dc:subject>POWER</dc:subject>
+        <dc:subject>ARTIFICIAL-INTELLIGENCE</dc:subject>
+        <dc:subject>BIG DATA</dc:subject>
+        <dc:subject>MODEL</dc:subject>
+        <dc:subject>Transparency</dc:subject>
+        <dc:subject>ETHICS</dc:subject>
+        <dc:subject>Computation theory</dc:subject>
+        <dc:subject>Accountability theory</dc:subject>
+        <dc:subject>Algorithm study</dc:subject>
+        <dc:subject>Algorithmic accountability</dc:subject>
+        <dc:subject>Algorithmic systems</dc:subject>
+        <dc:subject>Data driven</dc:subject>
+        <dc:subject>Data-driven governance</dc:subject>
+        <dc:subject>Search strategies</dc:subject>
+        <dc:subject>Systematic literature review</dc:subject>
+        <dc:subject>Systematic Review</dc:subject>
+        <dc:subject>Web of Science</dc:subject>
+        <dc:subject>GOVERNANCE</dc:subject>
+        <dc:subject>accountability theory</dc:subject>
+        <dc:subject>algorithmic systems</dc:subject>
+        <dc:subject>data-driven governance</dc:subject>
+        <dc:title>What to account for when accounting for algorithms: A systematic literature review on algorithmic accountability</dc:title>
+        <dcterms:abstract>As research on algorithms and their impact proliferates, so do calls for scrutiny/accountability of algorithms. A systematic review of the work that has been done in the field of'algorithmic accountability' has so far been lacking. This contribution puts forth such a systematic review, following the PRISMA statement. 242 English articles from the period 2008 up to and including 2018 were collected and extracted from Web of Science and SCOPUS, using a recursive query design coupled with computational methods. The 242 articles were prioritized and ordered using affinity mapping, resulting in 93'core articles' which are presented in this contribution. The recursive search strategy made it possible to look beyond the term'algorithmic accountability'. That is, the query also included terms closely connected to the theme (e.g. ethics and AI, regulation of algorithms). This approach allows for a perspective not just from critical algorithm studies, but an interdisciplinary overview drawing on material from data studies to law, and from computer science to governance studies. To structure the material, Bovens's widely accepted definition of accountability serves as a focal point. The material is analyzed on the five points Bovens identified as integral to accountability: its arguments on (1) the actor, (2) the forum, (3) the relationship between the two, (3) the content and criteria of the account, and finally (5) the consequences which may result from the account. The review makes three contributions. First, an integration of accountability theory in the algorithmic accountability discussion. Second, a cross-sectoral overview of the that same discussion viewed in light of accountability theory which pays extra attention to accountability risks in algorithmic systems. Lastly, it provides a definition of algorithmic accountability based on accountability theory and algorithmic accountability literature. © 2020 Copyright held by the owner/author(s). Publication rights licensed to ACM.</dcterms:abstract>
+        <dc:date>2020</dc:date>
+        <z:language>English</z:language>
+        <z:archive>Scopus</z:archive>
+        <dc:coverage>WOS:000620151400016</dc:coverage>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.scopus.com/inward/record.uri?eid=2-s2.0-85079673311&amp;doi=10.1145%2f3351095.3372833&amp;partnerID=40&amp;md5=0a05089ed34fe98ea3d1f469fe907336</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Journal Abbreviation: FAT* - Proc. Conf. Fairness, Account., Transpar.</dc:description>
+        <bib:pages>1-18</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>FAT* 2020 - Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <bib:Memo rdf:about="#item_1475">
+        <rdf:value>&lt;p&gt;Export Date: 18 December 2024; Cited By: 180; Correspondence Address: M. Wieringa; Datafied Society, Utrecht University, Utrecht, Netherlands; email: m.a.wieringa@uu.nl; Conference name: 3rd ACM Conference on Fairness, Accountability, and Transparency, FAT* 2020; Conference date: 27 January 2020 through 30 January 2020; Conference code: 157226&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_1790">
+        <rdf:value>&lt;p&gt;Times Cited in Web of Science Core Collection:&amp;nbsp;&amp;nbsp;134&lt;br/&gt;Total Times Cited:&amp;nbsp;&amp;nbsp;141&lt;br/&gt;Cited Reference Count:&amp;nbsp;&amp;nbsp;139&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <rdf:Description rdf:about="urn:isbn:1867299X%20(ISSN)">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>10</prism:volume>
+                <dc:identifier>ISBN 1867299X (ISSN)</dc:identifier>
+                <dc:title>Eur. J. Risk Regul.</dc:title>
+                <dc:identifier>DOI 10.1017/err.2019.8</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Cambridge University Press</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Buiten</foaf:surname>
+                        <foaf:givenName>M.C.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_1282"/>
+        <dc:title>Towards intelligent regulation of artificial intelligence</dc:title>
+        <dcterms:abstract>Artificial intelligence (AI) is becoming a part of our daily lives at a fast pace, offering myriad benefits for society. At the same time, there is concern about the unpredictability and uncontrollability of AI. In response, legislators and scholars call for more transparency and explainability of AI. This article considers what it would mean to require transparency of AI. It advocates looking beyond the opaque concept of AI, focusing on the concrete risks and biases of its underlying technology: Machine-learning algorithms. The article discusses the biases that algorithms may produce through the input data, the testing of the algorithm and the decision model. Any transparency requirement for algorithms should result in explanations of these biases that are both understandable for the prospective recipients, and technically feasible for producers. Before asking how much transparency the law should require from algorithms, we should therefore consider if the explanation that programmers could offer is useful in specific legal contexts. © 2019 Cambridge University Press.</dcterms:abstract>
+        <dc:date>2019</dc:date>
+        <z:language>English</z:language>
+        <z:archive>Scopus</z:archive>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.scopus.com/inward/record.uri?eid=2-s2.0-85066085211&amp;doi=10.1017%2ferr.2019.8&amp;partnerID=40&amp;md5=6fc3c1ad33cd04fabebf37a9df738cbc</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Issue: 1
+Journal Abbreviation: Eur. J. Risk Regul.</dc:description>
+        <bib:pages>41-59</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+               <dc:title>European Journal of Risk Regulation</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <bib:Memo rdf:about="#item_1282">
+        <rdf:value>&lt;p&gt;Export Date: 18 December 2024; Cited By: 122; Correspondence Address: M.C. Buiten; McGill Faculty of Law Cipp, Germany; email: buiten@uni-mannheim.de&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Article rdf:about="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85068639691&amp;doi=10.1111%2fbjet.12868&amp;partnerID=40&amp;md5=f40125bc14540c19516ccc44b898b498">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0007-1013"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kitto</foaf:surname>
+                        <foaf:givenName>K.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Knight</foaf:surname>
+                        <foaf:givenName>S.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_1285"/>
+        <dcterms:isReferencedBy rdf:resource="#item_1796"/>
+        <dc:subject>General data protection regulations</dc:subject>
+        <dc:subject>Learning systems</dc:subject>
+        <dc:subject>Philosophical aspects</dc:subject>
+        <dc:subject>Risk perception</dc:subject>
+        <dc:subject>Analytics systems</dc:subject>
+        <dc:subject>Buildings</dc:subject>
+        <dc:subject>Evaluation methodologies</dc:subject>
+        <dc:subject>In-buildings</dc:subject>
+        <dc:subject>Potential harm</dc:subject>
+        <dc:subject>Provide guidances</dc:subject>
+        <dc:subject>System builders</dc:subject>
+        <dc:subject>Virtue ethics</dc:subject>
+        <dc:title>Practical ethics for building learning analytics</dc:title>
+        <dcterms:abstract>Artificial intelligence and data analysis (AIDA) are increasingly entering the field of education. Within this context, the subfield of learning analytics (LA) has, since its inception, had a strong emphasis upon ethics, with numerous checklists and frameworks proposed to ensure that student privacy is respected and potential harms avoided. Here, we draw attention to some of the assumptions that underlie previous work in ethics for LA, which we frame as three tensions. These assumptions have the potential of leading to both the overcautious underuse of AIDA as administrators seek to avoid risk, or the unbridled misuse of AIDA as practitioners fail to adhere to frameworks that provide them with little guidance upon the problems that they face in building LA for institutional adoption. We use three edge cases to draw attention to these tensions, highlighting places where existing ethical frameworks fail to inform those building LA solutions. We propose a pilot open database that lists edge cases faced by LA system builders as a method for guiding ethicists working in the field towards places where support is needed to inform their practice. This would provide a middle space where technical builders of systems could more deeply interface with those concerned with policy, law and ethics and so work towards building LA that encourages human flourishing across a lifetime of learning. Practitioner Notes What is already known about this topic Applied ethics has a number of well-established theoretical groundings that we can use to frame the actions of ethical agents, including, deontology, consequentialism and virtue ethics. Learning analytics has developed a number of checklists, frameworks and evaluation methodologies for supporting trusted and ethical development, but these are often not adhered to by practitioners. Laws like the General Data Protection Regulation (GDPR) apply to fields like education, but the complexity of this field can make them difficult to apply. What this paper adds Evidence of tensions and gaps in existing ethical frameworks and checklists to support the ethical development and implementation of learning analytics. A set of three edge cases that demonstrate places where existing work on the ethics of AI in education has failed to provide guidance. A “practical ethics” conceptualisation that draws on virtue ethics to support practitioners in building learning analytics systems. Implications for practice and/or policy Those using AIDA in education should collect and share example edge cases to support development of practical ethics in the field. A multiplicity of ethical approaches are likely to be useful in understanding how to develop and implement learning analytics ethically in practical contexts. © 2019 British Educational Research Association</dcterms:abstract>
+        <dc:date>2019 NOV</dc:date>
+        <z:language>English</z:language>
+        <z:archive>Scopus</z:archive>
+        <dc:coverage>WOS:000481106500001</dc:coverage>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.scopus.com/inward/record.uri?eid=2-s2.0-85068639691&amp;doi=10.1111%2fbjet.12868&amp;partnerID=40&amp;md5=f40125bc14540c19516ccc44b898b498</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Publisher: Blackwell Publishing Ltd</dc:description>
+        <bib:pages>2855-2870</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0007-1013">
+        <prism:volume>50</prism:volume>
+        <dc:title>British Journal of Educational Technology</dc:title>
+        <dc:identifier>DOI 10.1111/bjet.12868</dc:identifier>
+        <prism:number>6</prism:number>
+        <dcterms:alternative>Br J Educ Technol</dcterms:alternative>
+        <dc:identifier>ISSN 0007-1013</dc:identifier>
+    </bib:Journal>
+    <bib:Memo rdf:about="#item_1285">
+        <rdf:value>&lt;p&gt;Export Date: 18 December 2024; Cited By: 90; Correspondence Address: K. Kitto; Connected Intelligence Centre, Australia; email: kirsty.kitto@uts.edu.au; CODEN: BJETD&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_1796">
+        <rdf:value>&lt;p&gt;Times Cited in Web of Science Core Collection:&amp;nbsp;&amp;nbsp;62&lt;br/&gt;Total Times Cited:&amp;nbsp;&amp;nbsp;69&lt;br/&gt;Cited Reference Count:&amp;nbsp;&amp;nbsp;41&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Article rdf:about="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85062611190&amp;doi=10.1109%2fJPROC.2019.2900622&amp;partnerID=40&amp;md5=ca8044fa9e5d6271874db596700afc73">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:00189219%20(ISSN)"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Winfield</foaf:surname>
+                        <foaf:givenName>A.F.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Michael</foaf:surname>
+                        <foaf:givenName>K.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pitt</foaf:surname>
+                        <foaf:givenName>J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Evers</foaf:surname>
+                        <foaf:givenName>V.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_1286"/>
+        <dc:subject>Robotics</dc:subject>
+        <dc:subject>Philosophical aspects</dc:subject>
+        <dc:subject>Industrial revolutions</dc:subject>
+        <dc:subject>Industry 4.0</dc:subject>
+        <dc:subject>Autonomous systems</dc:subject>
+        <dc:subject>Cyber physical systems (CPSs)</dc:subject>
+        <dc:subject>Embedded systems</dc:subject>
+        <dc:subject>European Parliament</dc:subject>
+        <dc:subject>Industrial economics</dc:subject>
+        <dc:subject>Public debate</dc:subject>
+        <dc:subject>Societal implications</dc:subject>
+        <dc:subject>White House</dc:subject>
+        <dc:subject>Working groups</dc:subject>
+        <dc:title>Machine ethics: The design and governance of ethical ai and autonomous systems</dc:title>
+        <dcterms:abstract>The so-called fourth industrial revolution and its economic and societal implications are no longer solely an academic concern, but a matter for political as well as public debate. Characterized as the convergence of robotics, AI, autonomous systems and information technology - or cyberphysical systems - the fourth industrial revolution was the focus of the World Economic Forum, at Davos, in 2016 [1]. Also in 2016 the US White House initiated a series of public workshops on artificial intelligence (AI) and the creation of an interagency working group, and the European Parliament Committee for Legal Affairs published a draft report with recommendations to the Commission on Civil Law Rules on Robotics. © 1963-2012 IEEE.</dcterms:abstract>
+        <dc:date>2019</dc:date>
+        <z:language>English</z:language>
+        <z:archive>Scopus</z:archive>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.scopus.com/inward/record.uri?eid=2-s2.0-85062611190&amp;doi=10.1109%2fJPROC.2019.2900622&amp;partnerID=40&amp;md5=ca8044fa9e5d6271874db596700afc73</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Publisher: Institute of Electrical and Electronics Engineers Inc.</dc:description>
+        <bib:pages>509-517</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:00189219%20(ISSN)">
+        <prism:volume>107</prism:volume>
+        <dc:title>Proceedings of the IEEE</dc:title>
+        <dc:identifier>DOI 10.1109/JPROC.2019.2900622</dc:identifier>
+        <prism:number>3</prism:number>
+        <dcterms:alternative>Proc. IEEE</dcterms:alternative>
+        <dc:identifier>ISSN 00189219 (ISSN)</dc:identifier>
+    </bib:Journal>
+    <bib:Memo rdf:about="#item_1286">
+        <rdf:value>&lt;p&gt;Export Date: 18 December 2024; Cited By: 132; CODEN: IEEPA&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Article rdf:about="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85077809710&amp;doi=10.1126%2fscirobotics.aay7120&amp;partnerID=40&amp;md5=b25a8aab746ae4d7ee21f6629b3dc7ea">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:24709476%20(ISSN)"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gunning</foaf:surname>
+                        <foaf:givenName>D.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Stefik</foaf:surname>
+                        <foaf:givenName>M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Choi</foaf:surname>
+                        <foaf:givenName>J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Miller</foaf:surname>
+                        <foaf:givenName>T.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Stumpf</foaf:surname>
+                        <foaf:givenName>S.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yang</foaf:surname>
+                        <foaf:givenName>G.-Z.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_1289"/>
+        <dc:subject>artificial intelligence</dc:subject>
+        <dc:subject>Artificial intelligence</dc:subject>
+        <dc:subject>AI applications</dc:subject>
+        <dc:subject>trust</dc:subject>
+        <dc:subject>review</dc:subject>
+        <dc:subject>Autonomous decision</dc:subject>
+        <dc:subject>Critical applications</dc:subject>
+        <dc:subject>Diverse range</dc:subject>
+        <dc:subject>Human users</dc:subject>
+        <dc:title>XAI-Explainable artificial intelligence</dc:title>
+        <dcterms:abstract>Recent successes in machine learning (ML) have led to a new wave of artificial intelligence (AI) applications that offer extensive benefits to a diverse range of fields. However, many of these systems are not able to explain their autonomous decisions and actions to human users. Explanations may not be essential for certain AI applications, and some AI researchers argue that the emphasis on explanation is misplaced, too difficult to achieve, and perhaps unnecessary. However, for many critical applications in defense, medicine, finance, and law, explanations are essential for users to understand, trust, and effectively manage these new, artificially intelligent partners [see recent reviews (1-3)]. Copyright © 2019 The Authors, some rights reserved; exclusive licensee American Association for the Advancement of Science. No claim to original U.S. Government Works</dcterms:abstract>
+        <dc:date>2019</dc:date>
+        <z:language>English</z:language>
+        <z:archive>Scopus</z:archive>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.scopus.com/inward/record.uri?eid=2-s2.0-85077809710&amp;doi=10.1126%2fscirobotics.aay7120&amp;partnerID=40&amp;md5=b25a8aab746ae4d7ee21f6629b3dc7ea</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Publisher: American Association for the Advancement of Science</dc:description>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:24709476%20(ISSN)">
+        <prism:volume>4</prism:volume>
+        <dc:title>Science Robotics</dc:title>
+        <dc:identifier>DOI 10.1126/scirobotics.aay7120</dc:identifier>
+        <prism:number>37</prism:number>
+        <dcterms:alternative>Sci. Robotics</dcterms:alternative>
+        <dc:identifier>ISSN 24709476 (ISSN)</dc:identifier>
+    </bib:Journal>
+    <bib:Memo rdf:about="#item_1289">
+        <rdf:value>&lt;p&gt;Export Date: 18 December 2024; Cited By: 1149; Correspondence Address: D. Gunning; Defense Advanced Research Projects Agency (DARPA), Arlington, 675 North Randolph Street, 22201, United States; email: dgunning@fb.com&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Article rdf:about="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85060243306&amp;doi=10.1098%2frsta.2017.0360&amp;partnerID=40&amp;md5=159a868b6ae750536efd94f43733f588">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1364503X%20(ISSN)"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Reed</foaf:surname>
+                        <foaf:givenName>C.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_1295"/>
+        <dcterms:isReferencedBy rdf:resource="#item_1806"/>
+        <dc:subject>artificial intelligence</dc:subject>
+        <dc:subject>machine learning</dc:subject>
+        <dc:subject>Law</dc:subject>
+        <dc:subject>Artificial intelligence</dc:subject>
+        <dc:subject>regulation</dc:subject>
+        <dc:subject>Transparency</dc:subject>
+        <dc:subject>law</dc:subject>
+        <dc:subject>Machine learning</dc:subject>
+        <dc:subject>Regulation</dc:subject>
+        <dc:subject>transparency</dc:subject>
+        <dc:subject>Learning systems</dc:subject>
+        <dc:subject>Decision making</dc:subject>
+        <dc:subject>human</dc:subject>
+        <dc:subject>adult</dc:subject>
+        <dc:subject>female</dc:subject>
+        <dc:subject>male</dc:subject>
+        <dc:subject>review</dc:subject>
+        <dc:subject>responsibility</dc:subject>
+        <dc:subject>AI Technologies</dc:subject>
+        <dc:subject>Artificial intelligence technologies</dc:subject>
+        <dc:subject>decision making</dc:subject>
+        <dc:subject>General systems</dc:subject>
+        <dc:subject>Human decision making</dc:subject>
+        <dc:subject>Long-term solutions</dc:subject>
+        <dc:subject>Regulatory schemes</dc:subject>
+        <dc:subject>Retrospective analysis</dc:subject>
+        <dc:subject>retrospective study</dc:subject>
+        <dc:subject>victim</dc:subject>
+        <dc:title>How should we regulate artificial intelligence?</dc:title>
+        <dcterms:abstract>Using artificial intelligence (AI) technology to replace human decision-making will inevitably create new risks whose consequences are unforeseeable. This naturally leads to calls for regulation, but I argue that it is too early to attempt a general system of AI regulation. Instead, we should work incrementally within the existing legal and regulatory schemes which allocate responsibility, and therefore liability, to persons. Where AI clearly creates risks which current law and regulation cannot deal with adequately, then new regulation will be needed. But in most cases, the current system can work effectively if the producers of AI technology can provide sufficient transparency in explaining how AI decisions are made. Transparency ex post can often be achieved through retrospective analysis of the technology's operations, and will be sufficient if the main goal is to compensate victims of incorrect decisions. Ex ante transparency is more challenging, and can limit the use of some AI technologies such as neural networks. It should only be demanded by regulation where the AI presents risks to fundamental rights, or where society needs reassuring that the technology can safely be used. Masterly inactivity in regulation is likely to achieve a better long-term solution than a rush to regulate in ignorance. This article is part of a discussion meeting issue 'The growing ubiquity of algorithms in society: implications, impacts and innovations'. © 2018 The Author(s) Published by the Royal Society. All rights reserved.</dcterms:abstract>
+        <dc:date>2018 SEP 13</dc:date>
+        <z:language>English</z:language>
+        <z:archive>Scopus</z:archive>
+        <dc:coverage>WOS:000440870000009</dc:coverage>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.scopus.com/inward/record.uri?eid=2-s2.0-85060243306&amp;doi=10.1098%2frsta.2017.0360&amp;partnerID=40&amp;md5=159a868b6ae750536efd94f43733f588</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Publisher: Royal Society Publishing</dc:description>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1364503X%20(ISSN)">
+        <prism:volume>376</prism:volume>
+        <dc:title>Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences</dc:title>
+        <dc:identifier>DOI 10.1098/rsta.2017.0360</dc:identifier>
+        <prism:number>2128</prism:number>
+        <dcterms:alternative>Philos. Trans. R. Soc. A Math. Phys. Eng. Sci.</dcterms:alternative>
+        <dc:identifier>ISSN 1364503X (ISSN)</dc:identifier>
+    </bib:Journal>
+    <bib:Memo rdf:about="#item_1295">
+        <rdf:value>&lt;p&gt;Export Date: 18 December 2024; Cited By: 54; Correspondence Address: C. Reed; Centre for Commercial Law Studies, School of Law, Queen Mary University of London, London, United Kingdom; email: chris.reed@qmul.ac.uk&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_1806">
+        <rdf:value>&lt;p&gt;Times Cited in Web of Science Core Collection:&amp;nbsp;&amp;nbsp;34&lt;br/&gt;Total Times Cited:&amp;nbsp;&amp;nbsp;35&lt;br/&gt;Cited Reference Count:&amp;nbsp;&amp;nbsp;28&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Article rdf:about="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85029010382&amp;doi=10.1007%2fs10506-017-9214-9&amp;partnerID=40&amp;md5=9fa813ca186c6afd40d7d075604e48b5">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>25</prism:volume>
+                <dc:title>Artificial Intelligence and Law</dc:title>
+                <dc:identifier>DOI 10.1007/s10506-017-9214-9</dc:identifier>
+                <prism:number>3</prism:number>
+                <dcterms:alternative>Artif Intell Law</dcterms:alternative>
+                <dc:identifier>ISSN 09248463 (ISSN)</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bryson</foaf:surname>
+                        <foaf:givenName>J.J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Diamantis</foaf:surname>
+                        <foaf:givenName>M.E.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Grant</foaf:surname>
+                        <foaf:givenName>T.D.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_1307"/>
+        <dc:subject>Artificial intelligence</dc:subject>
+        <dc:subject>Ethics</dc:subject>
+        <dc:subject>Robots</dc:subject>
+        <dc:subject>Laws and legislation</dc:subject>
+        <dc:subject>Intelligent robots</dc:subject>
+        <dc:subject>International organisations</dc:subject>
+        <dc:subject>Legal agency</dc:subject>
+        <dc:subject>Legal personality</dc:subject>
+        <dc:subject>Moral subject</dc:subject>
+        <dc:title>Of, for, and by the people: the legal lacuna of synthetic persons</dc:title>
+        <dcterms:abstract>Conferring legal personhood on purely synthetic entities is a very real legal possibility, one under consideration presently by the European Union. We show here that such legislative action would be morally unnecessary and legally troublesome. While AI legal personhood may have some emotional or economic appeal, so do many superficially desirable hazards against which the law protects us. We review the utility and history of legal fictions of personhood, discussing salient precedents where such fictions resulted in abuse or incoherence. We conclude that difficulties in holding “electronic persons” accountable when they violate the rights of others outweigh the highly precarious moral interests that AI legal personhood might protect. © 2017, The Author(s).</dcterms:abstract>
+        <dc:date>2017</dc:date>
+        <z:language>English</z:language>
+        <z:archive>Scopus</z:archive>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.scopus.com/inward/record.uri?eid=2-s2.0-85029010382&amp;doi=10.1007%2fs10506-017-9214-9&amp;partnerID=40&amp;md5=9fa813ca186c6afd40d7d075604e48b5</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Publisher: Springer Netherlands</dc:description>
+        <bib:pages>273-291</bib:pages>
+    </bib:Article>
+    <bib:Memo rdf:about="#item_1307">
+        <rdf:value>&lt;p&gt;Export Date: 18 December 2024; Cited By: 198; Correspondence Address: J.J. Bryson; Department of Computer Science, University of Bath, Bath, United Kingdom; email: jjb@alum.mit.edu; CODEN: AINLE&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <rdf:Description rdf:about="urn:isbn:978-195408546-6%20(ISBN)">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>ISBN 978-195408546-6 (ISBN)</dc:identifier>
+                <dc:title>NAACL-HLT - Conf. N. Am. Chapter Assoc. Comput. Linguist.: Hum. Lang. Technol., Proc. Conf.</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <foaf:name>Association for Computational Linguistics (ACL)</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chalkidis</foaf:surname>
+                        <foaf:givenName>I.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fergadiotis</foaf:surname>
+                        <foaf:givenName>M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tsarapatsanis</foaf:surname>
+                        <foaf:givenName>D.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Aletras</foaf:surname>
+                        <foaf:givenName>N.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Androutsopoulos</foaf:surname>
+                        <foaf:givenName>I.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Malakasiotis</foaf:surname>
+                        <foaf:givenName>P.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_1341"/>
+        <dc:subject>Interpretability</dc:subject>
+        <dc:subject>Natural language processing systems</dc:subject>
+        <dc:subject>Laws and legislation</dc:subject>
+        <dc:subject>Social aspects</dc:subject>
+        <dc:subject>Research fields</dc:subject>
+        <dc:subject>Human rights</dc:subject>
+        <dc:subject>Legal texts</dc:subject>
+        <dc:subject>Case-studies</dc:subject>
+        <dc:subject>Court case</dc:subject>
+        <dc:subject>Extraction</dc:subject>
+        <dc:subject>New applications</dc:subject>
+        <dc:subject>Regularisation</dc:subject>
+        <dc:subject>User-centric</dc:subject>
+        <dc:subject>Word level</dc:subject>
+        <dc:title>Paragraph-level Rationale Extraction through Regularization: A case study on European Court of Human Rights Cases</dc:title>
+        <dcterms:abstract>Interpretability or explainability is an emerging research field in NLP. From a user-centric point of view, the goal is to build models that provide proper justification for their decisions, similar to those of humans, by requiring the models to satisfy additional constraints. To this end, we introduce a new application on legal text where, contrary to mainstream literature targeting word-level rationales, we conceive rationales as selected paragraphs in multi-paragraph structured court cases. We also release a new dataset comprising European Court of Human Rights cases, including annotations for paragraph-level rationales. We use this dataset to study the effect of already proposed rationale constraints, i.e., sparsity, continuity, and comprehensiveness, formulated as regularizers. Our findings indicate that some of these constraints are not beneficial in paragraph-level rationale extraction, while others need re-formulation to better handle the multi-label nature of the task we consider. We also introduce a new constraint, singularity, which further improves the quality of rationales, even compared with noisy rationale supervision. Experimental results indicate that the newly introduced task is very challenging and there is a large scope for further research. © 2021 Association for Computational Linguistics.</dcterms:abstract>
+        <dc:date>2021</dc:date>
+        <z:language>English</z:language>
+        <z:archive>Scopus</z:archive>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.scopus.com/inward/record.uri?eid=2-s2.0-85107958532&amp;partnerID=40&amp;md5=6faab48a58207cac38d07e8134827897</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Journal Abbreviation: NAACL-HLT - Conf. N. Am. Chapter Assoc. Comput. Linguist.: Hum. Lang. Technol., Proc. Conf.</dc:description>
+        <bib:pages>226-241</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>NAACL-HLT 2021 - 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Proceedings of the Conference</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <bib:Memo rdf:about="#item_1341">
+        <rdf:value>&lt;p&gt;Export Date: 18 December 2024; Cited By: 68; Conference name: 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, NAACL-HLT 2021; Conference date: 6 June 2021 through 11 June 2021; Conference code: 182055&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <rdf:Description rdf:about="urn:isbn:978-194808784-1%20(ISBN)">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>ISBN 978-194808784-1 (ISBN)</dc:identifier>
+                <dc:title>Proc. Conf. Empir. Methods Nat. Lang. Process., EMNLP</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Association for Computational Linguistics</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhong</foaf:surname>
+                        <foaf:givenName>H.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Guo</foaf:surname>
+                        <foaf:givenName>Z.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tu</foaf:surname>
+                        <foaf:givenName>C.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Xiao</foaf:surname>
+                        <foaf:givenName>C.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Liu</foaf:surname>
+                        <foaf:givenName>Z.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sun</foaf:surname>
+                        <foaf:givenName>M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Riloff E.</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Chiang D.</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Hockenmaier J.</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Tsujii J.</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dcterms:isReferencedBy rdf:resource="#item_1375"/>
+        <dc:subject>Natural language processing systems</dc:subject>
+        <dc:subject>Forecasting</dc:subject>
+        <dc:subject>Artificial intelligence techniques</dc:subject>
+        <dc:subject>Criminal case</dc:subject>
+        <dc:subject>Directed acyclic graph (DAG)</dc:subject>
+        <dc:subject>Directed graphs</dc:subject>
+        <dc:subject>Large dataset</dc:subject>
+        <dc:subject>Large-scale datasets</dc:subject>
+        <dc:subject>Multi-task learning</dc:subject>
+        <dc:subject>Prediction tasks</dc:subject>
+        <dc:subject>Real-world</dc:subject>
+        <dc:subject>Real-world scenario</dc:subject>
+        <dc:subject>Source codes</dc:subject>
+        <dc:subject>Topology</dc:subject>
+        <dc:title>Legal judgment prediction via topological learning</dc:title>
+        <dcterms:abstract>Legal Judgment Prediction (LJP) aims to predict the judgment result based on the facts of a case and becomes a promising application of artificial intelligence techniques in the legal field. In real-world scenarios, legal judgment usually consists of multiple subtasks, such as the decisions of applicable law articles, charges, fines, and the term of penalty. Moreover, there exist topological dependencies among these subtasks. While most existing works only focus on a specific subtask of judgment prediction and ignore the dependencies among subtasks, we formalize the dependencies among subtasks as a Directed Acyclic Graph (DAG) and propose a topological multi-task learning framework, TOPJUDGE, which incorporates multiple subtasks and DAG dependencies into judgment prediction. We conduct experiments on several real-world large-scale datasets of criminal cases in the civil law system. Experimental results show that our model achieves consistent and significant improvements over baselines on all judgment prediction tasks. The source code can be obtained from https://github.com/thunlp/TopJudge. © 2018 Association for Computational Linguistics</dcterms:abstract>
+        <dc:date>2018</dc:date>
+        <z:language>English</z:language>
+        <z:archive>Scopus</z:archive>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.scopus.com/inward/record.uri?eid=2-s2.0-85081714028&amp;partnerID=40&amp;md5=6ae668bc0a89b9b75435136547f70e2d</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Journal Abbreviation: Proc. Conf. Empir. Methods Nat. Lang. Process., EMNLP</dc:description>
+        <bib:pages>3540-3549</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing, EMNLP 2018</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <bib:Memo rdf:about="#item_1375">
+        <rdf:value>&lt;p&gt;Export Date: 18 December 2024; Cited By: 278; Correspondence Address: Z. Liu; Department of Computer Science and Technology, State Key Lab on Intelligent Technology and Systems Institute for Artificial Intelligence, Tsinghua University, Beijing, China; email: lzy@tsinghua.edu.cn; Conference name: 2018 Conference on Empirical Methods in Natural Language Processing, EMNLP 2018; Conference date: 31 October 2018 through 4 November 2018; Conference code: 158085&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <rdf:Description rdf:about="urn:isbn:978-153861638-3%20(ISBN)">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>1</prism:volume>
+                <dc:identifier>ISBN 978-153861638-3 (ISBN)</dc:identifier>
+                <dc:title>Proc. Int. Sci. Tech. Conf. Comput. Sci. Inf. Technol., CSIT</dc:title>
+                <dc:identifier>DOI 10.1109/STC-CSIT.2017.8098797</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <foaf:name>Institute of Electrical and Electronics Engineers Inc.</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vasyl</foaf:surname>
+                        <foaf:givenName>L.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Victoria</foaf:surname>
+                        <foaf:givenName>V.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dmytro</foaf:surname>
+                        <foaf:givenName>D.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Roman</foaf:surname>
+                        <foaf:givenName>H.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zoriana</foaf:surname>
+                        <foaf:givenName>R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_1208"/>
+        <dc:subject>Automation</dc:subject>
+        <dc:subject>Semantics</dc:subject>
+        <dc:subject>Algorithms</dc:subject>
+        <dc:subject>Natural language processing systems</dc:subject>
+        <dc:subject>Search engines</dc:subject>
+        <dc:subject>algorithm</dc:subject>
+        <dc:subject>Linguistics</dc:subject>
+        <dc:subject>Information retrieval</dc:subject>
+        <dc:subject>Knowledge based systems</dc:subject>
+        <dc:subject>Information retrieval systems</dc:subject>
+        <dc:subject>content monitoring</dc:subject>
+        <dc:subject>Context free grammars</dc:subject>
+        <dc:subject>Context free languages</dc:subject>
+        <dc:subject>Context sensitive grammars</dc:subject>
+        <dc:subject>Formal languages</dc:subject>
+        <dc:subject>generative grammar</dc:subject>
+        <dc:subject>Indexing (materials working)</dc:subject>
+        <dc:subject>Information management</dc:subject>
+        <dc:subject>linguistic analysis</dc:subject>
+        <dc:subject>Linguistic analysis</dc:subject>
+        <dc:subject>Linguistic information</dc:subject>
+        <dc:subject>linguistic information system</dc:subject>
+        <dc:subject>Modeling languages</dc:subject>
+        <dc:subject>parsing</dc:subject>
+        <dc:subject>sentence structure scheme</dc:subject>
+        <dc:subject>Sentence structures</dc:subject>
+        <dc:subject>Speech synthesis</dc:subject>
+        <dc:subject>Speech transmission</dc:subject>
+        <dc:subject>Syntactics</dc:subject>
+        <dc:subject>text</dc:subject>
+        <dc:subject>Ukrainian language</dc:subject>
+        <dc:title>Application of sentence parsing for determining keywords in Ukrainian texts</dc:title>
+        <dcterms:abstract>The article presents the use of generative grammars in linguistic modeling. A description of sentence syntax modeling is used to automate the process of analysis and synthesis of natural language texts. The article reveals the features of synthesizing sentences of different languages with the use of generative grammars. The article examines influence of norms and rules of a language on the process of constructing grammars. The use of generative grammars has great potential in the development and creation of automated systems for text content processing, linguistic support for linguistic computer systems etc. In natural languages there are situations where notions, which are dependent on the context, are described as independent of context, i.e. in terms of context-free grammars. This description is complicated by the formation of new categories and rules. The article features the process of introducing new restrictions on these grammar classes through the introduction of new rules. Uncut grammars were received if the number of characters in the right part of the rules were not less than the number of characters in the left one. Then by replacing the only character a context-sensitive grammar was received. A grammar with only one character in the left part of the rule is called a context-free grammar. No further natural restrictions may be applied to the left part of a rule. Based on the importance of automatic processing of text content in modern information media (e.g., information retrieval systems, machine translation, semantic, statistical, optical and acoustic analysis and speech synthesis, automated editing, extracting knowledge from text content, abstracting and annotating text content, indexing text content, teaching and didactic, management of linguistic corpora, various tools for lexicography, etc.), specialists are actively looking for new models, ways of their description and methods of automatic processing of text content. One of such methods lies in developing general principles of syntactic lexicographical systems formation and developing mentioned systems of processing text content for specific languages based in these principles. Any parsing tools consist of two parts: a knowledge base of concrete natural language and parsing algorithm, i.e. a set of standard operators of text content processing based on this knowledge. The source of grammatical knowledge is data of morphological analysis and various tables filled with concepts and linguistic units. They are the result of an empirical study of the text content in natural language by experts aiming at highlighting the basic laws for parsing. © 2017 IEEE.</dcterms:abstract>
+        <dc:date>2017</dc:date>
+        <z:language>English</z:language>
+        <z:archive>Scopus</z:archive>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.scopus.com/inward/record.uri?eid=2-s2.0-85040784016&amp;doi=10.1109%2fSTC-CSIT.2017.8098797&amp;partnerID=40&amp;md5=582f6f61682e49cd3cdb8873b91307d3</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Journal Abbreviation: Proc. Int. Sci. Tech. Conf. Comput. Sci. Inf. Technol., CSIT</dc:description>
+        <bib:pages>326-331</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>Proceedings of the 12th International Scientific and Technical Conference on Computer Sciences and Information Technologies, CSIT 2017</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <bib:Memo rdf:about="#item_1208">
+        <rdf:value>&lt;p&gt;Export Date: 21 December 2024; Cited By: 47; Conference name: 12th International Scientific and Technical Conference on Computer Sciences and Information Technologies, CSIT 2017; Conference date: 5 September 2017 through 8 September 2017; Conference code: 132357&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <rdf:Description rdf:about="urn:isbn:978-1-4503-9156-6">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>ISBN 978-1-4503-9156-6</dc:identifier>
+                <dc:title>Conf Hum Fact Comput Syst Proc</dc:title>
+                <dc:identifier>DOI 10.1145/3491101.3503727</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Association for Computing Machinery</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ehsan</foaf:surname>
+                        <foaf:givenName>U.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wintersberger</foaf:surname>
+                        <foaf:givenName>P.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Liao</foaf:surname>
+                        <foaf:givenName>Q.V.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Watkins</foaf:surname>
+                        <foaf:givenName>E.A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Manger</foaf:surname>
+                        <foaf:givenName>C.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Daumé Iii</foaf:surname>
+                        <foaf:givenName>H.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Riener</foaf:surname>
+                        <foaf:givenName>A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Riedl</foaf:surname>
+                        <foaf:givenName>M.O.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_1398"/>
+        <dcterms:isReferencedBy rdf:resource="#item_2009"/>
+        <dc:subject>Artificial Intelligence</dc:subject>
+        <dc:subject>Machine learning</dc:subject>
+        <dc:subject>Algorithmic Fairness</dc:subject>
+        <dc:subject>Explainable Artificial Intelligence</dc:subject>
+        <dc:subject>Interpretability</dc:subject>
+        <dc:subject>Interpretable Machine Learning</dc:subject>
+        <dc:subject>Responsible AI</dc:subject>
+        <dc:subject>Trust in Automation</dc:subject>
+        <dc:subject>Algorithmics</dc:subject>
+        <dc:subject>AI systems</dc:subject>
+        <dc:subject>Black boxes</dc:subject>
+        <dc:subject>Explainable artificial intelligence</dc:subject>
+        <dc:subject>Machine-learning</dc:subject>
+        <dc:subject>Algorithmic fairness</dc:subject>
+        <dc:subject>Interpretable machine learning</dc:subject>
+        <dc:subject>Trust in automation</dc:subject>
+        <dc:title>Human-Centered Explainable AI (HCXAI): Beyond Opening the Black-Box of AI</dc:title>
+        <dcterms:abstract>Explainability of AI systems is crucial to hold them accountable because they are increasingly becoming consequential in our lives by powering high-stakes decisions in domains like healthcare and law. When it comes to Explainable AI (XAI), understanding who interacts with the black-box of AI is just as important as &quot;opening&quot;it, if not more. Yet the discourse of XAI has been predominantly centered around the black-box, suffering from deficiencies in meeting user needs and exacerbating issues of algorithmic opacity. To address these issues, researchers have called for human-centered approaches to XAI. In this second CHI workshop on Human-centered XAI (HCXAI), we build on the success of the first installment from CHI 2021 to expand the conversation around XAI. We chart the domain and shape the HCXAI discourse with reflective discussions from diverse stakeholders. The goal of the second installment is to go beyond the black box and examine how human-centered perspectives in XAI can be operationalized at the conceptual, methodological, and technical levels. Encouraging holistic (historical, sociological, and technical) approaches, we put an emphasis on &quot;operationalizing&quot;, aiming to produce actionable frameworks, transferable evaluation methods, concrete design guidelines, and articulate a coordinated research agenda for XAI. © 2022 Owner/Author.</dcterms:abstract>
+        <dc:date>2022</dc:date>
+        <z:language>English</z:language>
+        <z:archive>Scopus</z:archive>
+        <dc:coverage>WOS:001118038100063</dc:coverage>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.scopus.com/inward/record.uri?eid=2-s2.0-85129739238&amp;doi=10.1145%2f3491101.3503727&amp;partnerID=40&amp;md5=a2bed4cc9e603d260b4fb3370e005626</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Journal Abbreviation: Conf Hum Fact Comput Syst Proc</dc:description>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>Conference on Human Factors in Computing Systems - Proceedings</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <bib:Memo rdf:about="#item_1398">
+        <rdf:value>&lt;p&gt;Export Date: 18 December 2024; Cited By: 56; Conference name: 2022 CHI Conference on Human Factors in Computing Systems, CHI EA 2022; Conference date: 30 April 2022 through 5 May 2022; Conference code: 179030&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_2009">
+        <rdf:value>&lt;p&gt;Times Cited in Web of Science Core Collection:&amp;nbsp;&amp;nbsp;39&lt;br/&gt;Total Times Cited:&amp;nbsp;&amp;nbsp;42&lt;br/&gt;Cited Reference Count:&amp;nbsp;&amp;nbsp;29&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Article rdf:about="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85108316631&amp;doi=10.1016%2fj.clsr.2021.105567&amp;partnerID=40&amp;md5=34104bb46ea042af72034b8f55518dc9">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0267-3649"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wachter</foaf:surname>
+                        <foaf:givenName>S.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mittelstadt</foaf:surname>
+                        <foaf:givenName>B.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Russell</foaf:surname>
+                        <foaf:givenName>C.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_1471"/>
+        <dcterms:isReferencedBy rdf:resource="#item_2080"/>
+        <dc:subject>Law</dc:subject>
+        <dc:subject>BIAS</dc:subject>
+        <dc:subject>BIG DATA</dc:subject>
+        <dc:subject>Artificial intelligence</dc:subject>
+        <dc:subject>Automation</dc:subject>
+        <dc:subject>Bias</dc:subject>
+        <dc:subject>Machine learning</dc:subject>
+        <dc:subject>IMPACT</dc:subject>
+        <dc:subject>Algorithm</dc:subject>
+        <dc:subject>Demographic</dc:subject>
+        <dc:subject>Discrimination</dc:subject>
+        <dc:subject>DISCRIMINATION</dc:subject>
+        <dc:subject>ETHICS</dc:subject>
+        <dc:subject>European union</dc:subject>
+        <dc:subject>Fairness</dc:subject>
+        <dc:subject>Non-discrimination</dc:subject>
+        <dc:subject>parity</dc:subject>
+        <dc:subject>Data privacy</dc:subject>
+        <dc:subject>Laws and legislation</dc:subject>
+        <dc:subject>Network security</dc:subject>
+        <dc:subject>Assessment procedure</dc:subject>
+        <dc:subject>Consistent procedures</dc:subject>
+        <dc:subject>Demographic parity</dc:subject>
+        <dc:subject>Discrimination law</dc:subject>
+        <dc:subject>European Court of Justice</dc:subject>
+        <dc:subject>Governance mechanisms</dc:subject>
+        <dc:subject>Signalling mechanisms</dc:subject>
+        <dc:subject>Statistical evidence</dc:subject>
+        <dc:subject>Statistical measures</dc:subject>
+        <dc:title>Why fairness cannot be automated: Bridging the gap between EU non-discrimination law and AI</dc:title>
+        <dcterms:abstract>In recent years a substantial literature has emerged concerning bias, discrimination, and fairness in artificial intelligence (AI) and machine learning. Connecting this work to existing legal non-discrimination frameworks is essential to create tools and methods that are practically useful across divergent legal regimes. While much work has been undertaken from an American legal perspective, comparatively little has mapped the effects and requirements of EU law. This Article addresses this critical gap between legal, technical, and organisational notions of algorithmic fairness. Through analysis of EU non-discrimination law and jurisprudence of the European Court of Justice (ECJ) and national courts, we identify a critical incompatibility between European notions of discrimination and existing work on algorithmic and automated fairness. A clear gap exists between statistical measures of fairness as embedded in myriad fairness toolkits and governance mechanisms and the context-sensitive, often intuitive and ambiguous discrimination metrics and evidential requirements used by the ECJ; we refer to this approach as “contextual equality.” This Article makes three contributions. First, we review the evidential requirements to bring a claim under EU non-discrimination law. Due to the disparate nature of algorithmic and human discrimination, the EU's current requirements are too contextual, reliant on intuition, and open to judicial interpretation to be automated. Many of the concepts fundamental to bringing a claim, such as the composition of the disadvantaged and advantaged group, the severity and type of harm suffered, and requirements for the relevance and admissibility of evidence, require normative or political choices to be made by the judiciary on a case-by-case basis. We show that automating fairness or non-discrimination in Europe may be impossible because the law, by design, does not provide a static or homogenous framework suited to testing for discrimination in AI systems. Second, we show how the legal protection offered by non-discrimination law is challenged when AI, not humans, discriminate. Humans discriminate due to negative attitudes (e.g. stereotypes, prejudice) and unintentional biases (e.g. organisational practices or internalised stereotypes) which can act as a signal to victims that discrimination has occurred. Equivalent signalling mechanisms and agency do not exist in algorithmic systems. Compared to traditional forms of discrimination, automated discrimination is more abstract and unintuitive, subtle, intangible, and difficult to detect. The increasing use of algorithms disrupts traditional legal remedies and procedures for detection, investigation, prevention, and correction of discrimination which have predominantly relied upon intuition. Consistent assessment procedures that define a common standard for statistical evidence to detect and assess prima facie automated discrimination are urgently needed to support judges, regulators, system controllers and developers, and claimants. Finally, we examine how existing work on fairness in machine learning lines up with procedures for assessing cases under EU non-discrimination law. A ‘gold standard’ for assessment of prima facie discrimination has been advanced by the European Court of Justice but not yet translated into standard assessment procedures for automated discrimination. We propose ‘conditional demographic disparity’ (CDD) as a standard baseline statistical measurement that aligns with the Court's ‘gold standard’. Establishing a standard set of statistical evidence for automated discrimination cases can help ensure consistent procedures for assessment, but not judicial interpretation, of cases involving AI and automated systems. Through this proposal for procedural regularity in the identification and assessment of automated discrimination, we clarify how to build considerations of fairness into automated systems as far as possible while still respecting and enabling the contextual approach to judicial interpretation practiced under EU non-discrimination law. © 2021 The Authors</dcterms:abstract>
+        <dc:date>2021 JUL</dc:date>
+        <z:language>English</z:language>
+        <z:archive>Scopus</z:archive>
+        <dc:coverage>WOS:000685463100019</dc:coverage>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.scopus.com/inward/record.uri?eid=2-s2.0-85108316631&amp;doi=10.1016%2fj.clsr.2021.105567&amp;partnerID=40&amp;md5=34104bb46ea042af72034b8f55518dc9</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Publisher: Elsevier Ltd</dc:description>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0267-3649">
+        <prism:volume>41</prism:volume>
+        <dc:title>Computer Law and Security Review</dc:title>
+        <dc:identifier>DOI 10.1016/j.clsr.2021.105567</dc:identifier>
+        <dcterms:alternative>Comput Law Secur. Rev.</dcterms:alternative>
+        <dc:identifier>ISSN 0267-3649</dc:identifier>
+    </bib:Journal>
+    <bib:Memo rdf:about="#item_1471">
+        <rdf:value>&lt;p&gt;Export Date: 18 December 2024; Cited By: 160; Correspondence Address: S. Wachter; Oxford Internet Institute, University of Oxford, Oxford, 1St. Giles, OX1 3JS, United Kingdom; email: sandra.wachter@oii.ox.ac.uk; CODEN: CLSRE&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_2080">
+        <rdf:value>&lt;p&gt;Times Cited in Web of Science Core Collection:&amp;nbsp;&amp;nbsp;130&lt;br/&gt;Total Times Cited:&amp;nbsp;&amp;nbsp;133&lt;br/&gt;Cited Reference Count:&amp;nbsp;&amp;nbsp;126&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Article rdf:about="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85110354249&amp;doi=10.3389%2ffdata.2021.688969&amp;partnerID=40&amp;md5=8491c3bcc14c78ee4ff21a03530f53f2">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2624-909X"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Belle</foaf:surname>
+                        <foaf:givenName>V.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Papantonis</foaf:surname>
+                        <foaf:givenName>I.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_1470"/>
+        <dcterms:isReferencedBy rdf:resource="#item_1785"/>
+        <dc:subject>machine learning</dc:subject>
+        <dc:subject>NEURAL-NETWORKS</dc:subject>
+        <dc:subject>explainable AI</dc:subject>
+        <dc:subject>EXPLANATION</dc:subject>
+        <dc:subject>DECISIONS</dc:subject>
+        <dc:subject>survey</dc:subject>
+        <dc:subject>black-box models</dc:subject>
+        <dc:subject>RULE EXTRACTION</dc:subject>
+        <dc:subject>transparent models</dc:subject>
+        <dc:title>Principles and Practice of Explainable Machine Learning</dc:title>
+        <dcterms:abstract>Artificial intelligence (AI) provides many opportunities to improve private and public life. Discovering patterns and structures in large troves of data in an automated manner is a core component of data science, and currently drives applications in diverse areas such as computational biology, law and finance. However, such a highly positive impact is coupled with a significant challenge: how do we understand the decisions suggested by these systems in order that we can trust them? In this report, we focus specifically on data-driven methods—machine learning (ML) and pattern recognition models in particular—so as to survey and distill the results and observations from the literature. The purpose of this report can be especially appreciated by noting that ML models are increasingly deployed in a wide range of businesses. However, with the increasing prevalence and complexity of methods, business stakeholders in the very least have a growing number of concerns about the drawbacks of models, data-specific biases, and so on. Analogously, data science practitioners are often not aware about approaches emerging from the academic literature or may struggle to appreciate the differences between different methods, so end up using industry standards such as SHAP. Here, we have undertaken a survey to help industry practitioners (but also data scientists more broadly) understand the field of explainable machine learning better and apply the right tools. Our latter sections build a narrative around a putative data scientist, and discuss how she might go about explaining her models by asking the right questions. From an organization viewpoint, after motivating the area broadly, we discuss the main developments, including the principles that allow us to study transparent models vs. opaque models, as well as model-specific or model-agnostic post-hoc explainability approaches. We also briefly reflect on deep learning models, and conclude with a discussion about future research directions. © Copyright © 2021 Belle and Papantonis.</dcterms:abstract>
+        <dc:date>2021 JUL 1</dc:date>
+        <z:language>English</z:language>
+        <z:archive>Scopus</z:archive>
+        <dc:coverage>WOS:000674857200001</dc:coverage>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.scopus.com/inward/record.uri?eid=2-s2.0-85110354249&amp;doi=10.3389%2ffdata.2021.688969&amp;partnerID=40&amp;md5=8491c3bcc14c78ee4ff21a03530f53f2</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Publisher: Frontiers Media S.A.</dc:description>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2624-909X">
+        <prism:volume>4</prism:volume>
+        <dc:title>Frontiers in Big Data</dc:title>
+        <dc:identifier>DOI 10.3389/fdata.2021.688969</dc:identifier>
+        <dcterms:alternative>Frontiers. Big. Data.</dcterms:alternative>
+        <dc:identifier>ISSN 2624-909X</dc:identifier>
+    </bib:Journal>
+    <bib:Memo rdf:about="#item_1470">
+        <rdf:value>&lt;p&gt;Export Date: 18 December 2024; Cited By: 324; Correspondence Address: I. Papantonis; School of Informatics, University of Edinburgh, Edinburgh, United Kingdom; email: i.papantonis@sms.ed.ac.uk&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_1785">
+        <rdf:value>&lt;p&gt;Times Cited in Web of Science Core Collection:&amp;nbsp;&amp;nbsp;269&lt;br/&gt;Total Times Cited:&amp;nbsp;&amp;nbsp;284&lt;br/&gt;Cited Reference Count:&amp;nbsp;&amp;nbsp;111&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <rdf:Description rdf:about="urn:isbn:03029743%20(ISSN);%20978-303057320-1%20(ISBN)">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>12279 LNCS</prism:volume>
+                <dc:identifier>ISBN 03029743 (ISSN); 978-303057320-1 (ISBN)</dc:identifier>
+                <dc:title>Lect. Notes Comput. Sci.</dc:title>
+                <dc:identifier>DOI 10.1007/978-3-030-57321-8_1</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>Springer</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Longo</foaf:surname>
+                        <foaf:givenName>L.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Goebel</foaf:surname>
+                        <foaf:givenName>R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lecue</foaf:surname>
+                        <foaf:givenName>F.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kieseberg</foaf:surname>
+                        <foaf:givenName>P.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Holzinger</foaf:surname>
+                        <foaf:givenName>A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Holzinger A.</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Holzinger A.</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Kieseberg P.</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Tjoa A.M.</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Weippl E.</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Weippl E.</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dcterms:isReferencedBy rdf:resource="#item_1948"/>
+        <dc:subject>Automation</dc:subject>
+        <dc:subject>Machine learning</dc:subject>
+        <dc:subject>Explainability</dc:subject>
+        <dc:subject>Deep learning</dc:subject>
+        <dc:subject>European union</dc:subject>
+        <dc:subject>Data privacy</dc:subject>
+        <dc:subject>General data protection regulations</dc:subject>
+        <dc:subject>Learning systems</dc:subject>
+        <dc:subject>Decision making</dc:subject>
+        <dc:subject>Forecasting</dc:subject>
+        <dc:subject>Automated decision making</dc:subject>
+        <dc:subject>Explainable artificial intelligence</dc:subject>
+        <dc:subject>Reinforcement learning</dc:subject>
+        <dc:subject>Predictive models</dc:subject>
+        <dc:subject>Extraction</dc:subject>
+        <dc:subject>Data mining</dc:subject>
+        <dc:subject>Predictive analytics</dc:subject>
+        <dc:subject>Domain knowledge</dc:subject>
+        <dc:subject>Research activities</dc:subject>
+        <dc:subject>Prediction model</dc:subject>
+        <dc:subject>Research challenges</dc:subject>
+        <dc:title>Explainable Artificial Intelligence: Concepts, Applications, Research Challenges and Visions</dc:title>
+        <dcterms:abstract>The development of theory, frameworks and tools for Explainable AI (XAI) is a very active area of research these days, and articulating any kind of coherence on a vision and challenges is itself a challenge. At least two sometimes complementary and colliding threads have emerged. The first focuses on the development of pragmatic tools for increasing the transparency of automatically learned prediction models, as for instance by deep or reinforcement learning. The second is aimed at anticipating the negative impact of opaque models with the desire to regulate or control impactful consequences of incorrect predictions, especially in sensitive areas like medicine and law. The formulation of methods to augment the construction of predictive models with domain knowledge can provide support for producing human understandable explanations for predictions. This runs in parallel with AI regulatory concerns, like the European Union General Data Protection Regulation, which sets standards for the production of explanations from automated or semi-automated decision making. Despite the fact that all this research activity is the growing acknowledgement that the topic of explainability is essential, it is important to recall that it is also among the oldest fields of computer science. In fact, early AI was re-traceable, interpretable, thus understandable by and explainable to humans. The goal of this research is to articulate the big picture ideas and their role in advancing the development of XAI systems, to acknowledge their historical roots, and to emphasise the biggest challenges to moving forward. © 2020, IFIP International Federation for Information Processing.</dcterms:abstract>
+        <dc:date>2020</dc:date>
+        <z:language>English</z:language>
+        <z:archive>Scopus</z:archive>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.scopus.com/inward/record.uri?eid=2-s2.0-85090170198&amp;doi=10.1007%2f978-3-030-57321-8_1&amp;partnerID=40&amp;md5=5dee948f69459bbc26693e952dfcf8e1</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Journal Abbreviation: Lect. Notes Comput. Sci.</dc:description>
+        <bib:pages>1-16</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <bib:Memo rdf:about="#item_1948">
+        <rdf:value>&lt;p&gt;Export Date: 18 December 2024; Cited By: 124; Correspondence Address: L. Longo; School of Computer Science, Technological University Dublin, Dublin, Ireland; email: luca.longo@tudublin.ie; Conference name: 4th IFIP TC 5, TC 12, WG 8.4, WG 8.9, WG 12.9 International Cross-Domain Conference for Machine Learning and Knowledge Extraction, CD-MAKE 2020; Conference date: 25 August 2020 through 28 August 2020; Conference code: 243979&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <rdf:Description rdf:about="urn:isbn:978-1-4503-6201-6">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>ISBN 978-1-4503-6201-6</dc:identifier>
+                <dc:title>Proc. ACM SIGKDD Int. Conf. Knowl. Discov. Data Min.</dc:title>
+                <dc:identifier>DOI 10.1145/3292500.3332281</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Association for Computing Machinery</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gade</foaf:surname>
+                        <foaf:givenName>K.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Geyik</foaf:surname>
+                        <foaf:givenName>S.C.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kenthapadi</foaf:surname>
+                        <foaf:givenName>K.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mithal</foaf:surname>
+                        <foaf:givenName>V.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Taly</foaf:surname>
+                        <foaf:givenName>A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_1949"/>
+        <dcterms:isReferencedBy rdf:resource="#item_1797"/>
+        <dc:subject>Artificial intelligence</dc:subject>
+        <dc:subject>Predictive maintenance</dc:subject>
+        <dc:subject>Climate change</dc:subject>
+        <dc:subject>Accident prevention</dc:subject>
+        <dc:subject>Crime</dc:subject>
+        <dc:subject>Data mining</dc:subject>
+        <dc:subject>Health care</dc:subject>
+        <dc:subject>Climate models</dc:subject>
+        <dc:subject>Climate change modeling</dc:subject>
+        <dc:subject>Data mining applications</dc:subject>
+        <dc:subject>Developing solutions</dc:subject>
+        <dc:subject>Economic implications</dc:subject>
+        <dc:subject>Model transparency</dc:subject>
+        <dc:subject>Natural resources exploration</dc:subject>
+        <dc:subject>Reliability and safeties</dc:subject>
+        <dc:subject>Research communities</dc:subject>
+        <dc:title>Explainable AI in industry</dc:title>
+        <dcterms:abstract>Artificial Intelligence is increasingly playing an integral role in determining our day-to-day experiences. Moreover, with proliferation of AI based solutions in areas such as hiring, lending, criminal justice, healthcare, and education, the resulting personal and professional implications of AI are far-reaching. The dominant role played by AI models in these domains has led to a growing concern regarding potential bias in these models, and a demand for model transparency and interpretability [6]. In addition, model explainability is a prerequisite for building trust and adoption of AI systems in high stakes domains requiring reliability and safety such as healthcare [1] and automated transportation, and critical industrial applications with significant economic implications such as predictive maintenance, exploration of natural resources, and climate change modeling. As a consequence, AI researchers and practitioners have focused their attention on explainable AI to help them better trust and understand models at scale [8, 9, 19]. The challenges for the research community include (i) defining model explainability, (ii) formulating explainability tasks for understanding model behavior and developing solutions for these tasks, and finally (iii) designing measures for evaluating the performance of models in explainability tasks. In this tutorial, we will present an overview of model interpretability and explainability in AI [4], key regulations/laws, and techniques/tools for providing explainability as part of AI/ML systems [7]. Then, we will focus on the application of explainability techniques in industry, wherein we present practical challenges/ guidelines for using explainability techniques effectively and lessons learned from deploying explainable models for several web-scale machine learning and data mining applications. We will present case studies across different companies, spanning application domains such as search and recommendation systems, sales, lending, and fraud detection. Finally, based on our experiences in industry, we will identify open problems and research directions for the data mining/machine learning community. © 2019 Copyright held by the owner/author(s).</dcterms:abstract>
+        <dc:date>2019</dc:date>
+        <z:language>English</z:language>
+        <z:archive>Scopus</z:archive>
+        <dc:coverage>WOS:000485562503051</dc:coverage>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.scopus.com/inward/record.uri?eid=2-s2.0-85071169118&amp;doi=10.1145%2f3292500.3332281&amp;partnerID=40&amp;md5=5d18b8ba6c38975577344b992a4bae14</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Journal Abbreviation: Proc. ACM SIGKDD Int. Conf. Knowl. Discov. Data Min.</dc:description>
+        <bib:pages>3203-3204</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <bib:Memo rdf:about="#item_1949">
+        <rdf:value>&lt;p&gt;Export Date: 18 December 2024; Cited By: 119; Conference name: 25th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, KDD 2019; Conference date: 4 August 2019 through 8 August 2019; Conference code: 149966&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_1797">
+        <rdf:value>&lt;p&gt;Times Cited in Web of Science Core Collection:&amp;nbsp;&amp;nbsp;83&lt;br/&gt;Total Times Cited:&amp;nbsp;&amp;nbsp;91&lt;br/&gt;Cited Reference Count:&amp;nbsp;&amp;nbsp;20&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+</rdf:RDF>
