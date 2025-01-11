@@ -1,0 +1,2310 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">
+    <bib:Article rdf:about="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85179043110&amp;doi=10.54886%2fscire.v29i2.4937&amp;partnerID=40&amp;md5=2bf7f1f2ac4030ad4a30b609f7d0aabe">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:11353716%20(ISSN)"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sanchis Crespo</foaf:surname>
+                        <foaf:givenName>C.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_8234"/>
+        <dcterms:isReferencedBy rdf:resource="#item_8670"/>
+        <dcterms:isReferencedBy rdf:resource="#item_8631"/>
+        <link:link rdf:resource="#item_8235"/>
+        <dc:subject>Artificial Intelligence</dc:subject>
+        <dc:subject>Judicial decisions</dc:subject>
+        <dc:subject>Judicial decisions motivations</dc:subject>
+        <dc:subject>Judicial impartiality</dc:subject>
+        <dc:subject>Judicial independence</dc:subject>
+        <dc:subject>Robot judge</dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Imparcialidad judicial</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>Judicial in- dependence</dc:subject>
+        <dc:title>Artificial Intelligence and judicial decisions: chronicle of an announced transformation</dc:title>
+        <dcterms:abstract>The penetration of AI (artificial intelligence) in our daily lives is becoming increasingly apparent. Its presence is subtly but unstoppably gaining ground. Our justice system cannot remain unaware of this reality. While there are weak versions of AI that pose hardly any legal or ethical problems by simply making our lives easier, strong AI, capable of making decisions on its own, causes suspicion and animosity in equal proportion. Two fundamental questions stem from this perspective. First, whether it is possible that in a nearby future a robot judge will be able to decide on our wealth and/or freedom. Second if it is convenient and safe for it to do so. This article aims to answer both questions. To do so, we use the traditional methodology in law, consisting in consulting a significant number of bibliographical sources and applicable regulations (still work in progress) to formulate our particular approach to the subject. No jurisprudence was consulted for obvious reasons. The article closes with a reflection looking to the future, containing conclusions and lege ferenda’s recommendations for a future regulation of AI in our legal system. © 2023 Prensas Universitarias de Zaragoza. All rights reserved.</dcterms:abstract>
+        <dc:date>2023</dc:date>
+        <z:language>Spanish</z:language>
+        <z:shortTitle>Inteligencia artificial y decisiones judiciales: crónica de una transformación anunciada</z:shortTitle>
+        <z:archive>Scopus</z:archive>
+        <dc:coverage>WOS:001115071400001</dc:coverage>
+        <z:libraryCatalog>www.ibersid.eu</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.scopus.com/inward/record.uri?eid=2-s2.0-85179043110&amp;doi=10.54886%2fscire.v29i2.4937&amp;partnerID=40&amp;md5=2bf7f1f2ac4030ad4a30b609f7d0aabe</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:rights>Derechos de autor 1970 Los autores y autoras conservan sus derechos de autor, aunque ceden a la revista de forma no exclusiva los derechos de explotación (reproducción, distribución, comunicación pública y transformación) y garantizan a esta el derecho de primera publicación de su trabajo, el cual estará simultáneamente sujeto a la licencia  CC BY-NC-ND. Los autores aceptan la responsabilidad legal de cumplir plenamente con los códigos éticos y leyes apropiadas, y de obtener todos los permisos de derecho de autor debidos. Se permite y se anima a los autores y autoras a difundir electrónicamente la versión editorial (versión publicada por la editorial) en la página web personal del autor y en el repositorio de la institución a la que pertenece.</dc:rights>
+        <dc:description>Number: 2
+Publisher: Prensas de la Universidad de Zaragoza</dc:description>
+        <bib:pages>65-84</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:11353716%20(ISSN)">
+        <prism:volume>29</prism:volume>
+        <dc:title>Scire</dc:title>
+        <dc:identifier>DOI 10.54886/scire.v29i2.4937</dc:identifier>
+        <prism:number>2</prism:number>
+        <dcterms:alternative>Scire</dcterms:alternative>
+        <dc:identifier>ISSN 11353716 (ISSN)</dc:identifier>
+    </bib:Journal>
+    <bib:Memo rdf:about="#item_8234">
+        <rdf:value>&lt;p&gt;Export Date: 18 December 2024; Cited By: 4; Correspondence Address: C. Sanchis Crespo; Universitat de València, Spain; email: carolina.sanchis@uv.es&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_8670">
+        <rdf:value>&lt;p&gt;Export Date: 18 December 2024; Cited By: 4; Correspondence Address: C. Sanchis Crespo; Universitat de València, Spain; email: carolina.sanchis@uv.es&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_8631">
+        <rdf:value>&lt;p&gt;Times Cited in Web of Science Core Collection:&amp;nbsp;&amp;nbsp;0&lt;br/&gt;Total Times Cited:&amp;nbsp;&amp;nbsp;0&lt;br/&gt;Cited Reference Count:&amp;nbsp;&amp;nbsp;27&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_8235">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/8235/Sanchis Crespo - 2023 - Artificial Intelligence and judicial decisions chronicle of an announced transformation.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.ibersid.eu/ojs/index.php/scire/article/download/4937/4375</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-01-02 20:01:51</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85061660930&amp;doi=10.1007%2fs11948-018-00081-0&amp;partnerID=40&amp;md5=aa6688a9c968473de6ef5401f3b46836">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:13533452%20(ISSN)"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>King</foaf:surname>
+                        <foaf:givenName>T.C.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Aggarwal</foaf:surname>
+                        <foaf:givenName>N.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Taddeo</foaf:surname>
+                        <foaf:givenName>M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Floridi</foaf:surname>
+                        <foaf:givenName>L.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_8294"/>
+        <dcterms:isReferencedBy rdf:resource="#item_8730"/>
+        <link:link rdf:resource="#item_8295"/>
+        <dc:subject>Artificial intelligence</dc:subject>
+        <dc:subject>Ethics</dc:subject>
+        <dc:subject>Artificial Intelligence</dc:subject>
+        <dc:subject>artificial intelligence</dc:subject>
+        <dc:subject>Forecasting</dc:subject>
+        <dc:subject>human</dc:subject>
+        <dc:subject>Humans</dc:subject>
+        <dc:subject>Machine learning</dc:subject>
+        <dc:subject>AI and law</dc:subject>
+        <dc:subject>Crime</dc:subject>
+        <dc:subject>legislation and jurisprudence</dc:subject>
+        <dc:subject>social media</dc:subject>
+        <dc:subject>forecasting</dc:subject>
+        <dc:subject>legal liability</dc:subject>
+        <dc:subject>Liability, Legal</dc:subject>
+        <dc:subject>crime</dc:subject>
+        <dc:subject>AI-Crime</dc:subject>
+        <dc:subject>Commerce</dc:subject>
+        <dc:subject>commercial phenomena</dc:subject>
+        <dc:subject>drug traffic</dc:subject>
+        <dc:subject>Drug Trafficking</dc:subject>
+        <dc:subject>Dual-use</dc:subject>
+        <dc:subject>fraud</dc:subject>
+        <dc:subject>Fraud</dc:subject>
+        <dc:subject>interdisciplinary research</dc:subject>
+        <dc:subject>Interdisciplinary Research</dc:subject>
+        <dc:subject>Sex Offenses</dc:subject>
+        <dc:subject>sexual crime</dc:subject>
+        <dc:subject>Social Media</dc:subject>
+        <dc:title>Artificial Intelligence Crime: An Interdisciplinary Analysis of Foreseeable Threats and Solutions</dc:title>
+        <dcterms:abstract>Artificial intelligence (AI) research and regulation seek to balance the benefits of innovation against any potential harms and disruption. However, one unintended consequence of the recent surge in AI research is the potential re-orientation of AI technologies to facilitate criminal acts, term in this article AI-Crime (AIC). AIC is theoretically feasible thanks to published experiments in automating fraud targeted at social media users, as well as demonstrations of AI-driven manipulation of simulated markets. However, because AIC is still a relatively young and inherently interdisciplinary area—spanning socio-legal studies to formal science—there is little certainty of what an AIC future might look like. This article offers the first systematic, interdisciplinary literature analysis of the foreseeable threats of AIC, providing ethicists, policy-makers, and law enforcement organisations with a synthesis of the current problems, and a possible solution space. © 2019, The Author(s).</dcterms:abstract>
+        <dc:date>2020</dc:date>
+        <z:language>English</z:language>
+        <z:archive>Scopus</z:archive>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.scopus.com/inward/record.uri?eid=2-s2.0-85061660930&amp;doi=10.1007%2fs11948-018-00081-0&amp;partnerID=40&amp;md5=aa6688a9c968473de6ef5401f3b46836</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Number: 1
+Publisher: Springer</dc:description>
+        <bib:pages>89-120</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:13533452%20(ISSN)">
+        <prism:volume>26</prism:volume>
+        <dc:title>Science and Engineering Ethics</dc:title>
+        <dc:identifier>DOI 10.1007/s11948-018-00081-0</dc:identifier>
+        <prism:number>1</prism:number>
+        <dcterms:alternative>Sci. Eng. Ethics</dcterms:alternative>
+        <dc:identifier>ISSN 13533452 (ISSN)</dc:identifier>
+    </bib:Journal>
+    <bib:Memo rdf:about="#item_8294">
+        <rdf:value>&lt;p&gt;Export Date: 18 December 2024; Cited By: 119; Correspondence Address: L. Floridi; Oxford Internet Institute, University of Oxford, Oxford, 1 St Giles, OX1 3JS, United Kingdom; email: luciano.floridi@oii.ox.ac.uk&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_8730">
+        <rdf:value>&lt;p&gt;Export Date: 18 December 2024; Cited By: 119; Correspondence Address: L. Floridi; Oxford Internet Institute, University of Oxford, Oxford, 1 St Giles, OX1 3JS, United Kingdom; email: luciano.floridi@oii.ox.ac.uk&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_8295">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/8295/King et al. - 2020 - Artificial Intelligence Crime An Interdisciplinary Analysis of Foreseeable Threats and Solutions.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://link.springer.com/content/pdf/10.1007%2Fs11948-018-00081-0.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-01-02 20:02:47</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85061998491&amp;doi=10.1001%2famajethics.2019.160&amp;partnerID=40&amp;md5=805238e93b30f2b2f78ec84033ab0510">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:23766980%20(ISSN)"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sullivan</foaf:surname>
+                        <foaf:givenName>H.R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Schweikart</foaf:surname>
+                        <foaf:givenName>S.J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_8345"/>
+        <dcterms:isReferencedBy rdf:resource="#item_8781"/>
+        <link:link rdf:resource="#item_8346"/>
+        <dc:subject>Artificial Intelligence</dc:subject>
+        <dc:subject>artificial intelligence</dc:subject>
+        <dc:subject>human</dc:subject>
+        <dc:subject>Humans</dc:subject>
+        <dc:subject>malpractice</dc:subject>
+        <dc:subject>legislation and jurisprudence</dc:subject>
+        <dc:subject>robot assisted surgery</dc:subject>
+        <dc:subject>Robotic Surgical Procedures</dc:subject>
+        <dc:subject>United States</dc:subject>
+        <dc:subject>legal liability</dc:subject>
+        <dc:subject>Liability, Legal</dc:subject>
+        <dc:subject>Malpractice</dc:subject>
+        <dc:subject>computer assisted diagnosis</dc:subject>
+        <dc:subject>Diagnosis, Computer-Assisted</dc:subject>
+        <dc:title>Are current tort liability doctrines adequate for addressing injury caused by AI?</dc:title>
+        <dcterms:abstract>As capabilities of predictive algorithms improve, machine learning will become an important element of physician practice and patient care. Implementation of artificial intelligence (AI) raises complex legal questions regarding health care professionals' and technology manufacturers' liability, particularly if they cannot explain recommendations generated by AI technology. The limited literature on liability for innovation provides opportunities to consider possible implications of AI for medical malpractice and products liability and new legal solutions for addressing liability issues surrounding &quot;black-box&quot; medicine. ©2019 American Medical Association.</dcterms:abstract>
+        <dc:date>2019</dc:date>
+        <z:language>English</z:language>
+        <z:archive>Scopus</z:archive>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.scopus.com/inward/record.uri?eid=2-s2.0-85061998491&amp;doi=10.1001%2famajethics.2019.160&amp;partnerID=40&amp;md5=805238e93b30f2b2f78ec84033ab0510</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Number: 2
+Publisher: American Medical Association</dc:description>
+        <bib:pages>160-166</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:23766980%20(ISSN)">
+        <prism:volume>21</prism:volume>
+        <dc:title>AMA Journal of Ethics</dc:title>
+        <dc:identifier>DOI 10.1001/amajethics.2019.160</dc:identifier>
+        <prism:number>2</prism:number>
+        <dcterms:alternative>AMA J.  Ethics</dcterms:alternative>
+        <dc:identifier>ISSN 23766980 (ISSN)</dc:identifier>
+    </bib:Journal>
+    <bib:Memo rdf:about="#item_8345">
+        <rdf:value>&lt;p&gt;Export Date: 18 December 2024; Cited By: 104&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_8781">
+        <rdf:value>&lt;p&gt;Export Date: 18 December 2024; Cited By: 104&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_8346">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/8346/Sullivan e Schweikart - 2019 - Are current tort liability doctrines adequate for addressing injury caused by AI.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://journalofethics.ama-assn.org/sites/joedb/files/2019-01/hlaw1-1902_1.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-01-02 20:01:48</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85201266566&amp;doi=10.1177%2f23220058241265613&amp;partnerID=40&amp;md5=e1498a6c1a2654b5c4f7d137c7358d13">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:23220058%20(ISSN)"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Migliorini</foaf:surname>
+                        <foaf:givenName>S.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Moreira</foaf:surname>
+                        <foaf:givenName>J.I.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_8416"/>
+        <dcterms:isReferencedBy rdf:resource="#item_8852"/>
+        <link:link rdf:resource="#item_8417"/>
+        <dc:title>The Case for Nurturing AI Literacy in Law Schools</dc:title>
+        <dcterms:abstract>The debate surrounding the permissibility of generative artificial intelligence (AI) tools in legal education has garnered widespread attention. However, this discourse has largely oscillated between the advantages and disadvantages of generative AI usage whilst failing to fully consider how the uptake of these tools relates to the fundamental objectives of legal education. This article contributes to the current debate by positing that since the primary aim of legal education is the preparation of legal professionals and the development of legal research, generative AI must be holistically integrated into the dominant approaches to legal teaching. This stems from the fact that the legal profession will increasingly rely on generative AI in its daily work. Therefore, AI literacy will emerge as a critical professional skill in the legal realm. Against this background, this article further argues that the integration of AI into the legal curriculum should be addressed by diversifying assessment strategies, emphasizing the importance of academic integrity and making resources on the ethical use of AI available to both students and academic staff in law schools. © 2024 The West Bengal National University of Juridical Sciences.</dcterms:abstract>
+        <dc:date>2024</dc:date>
+        <z:language>English</z:language>
+        <z:archive>Scopus</z:archive>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.scopus.com/inward/record.uri?eid=2-s2.0-85201266566&amp;doi=10.1177%2f23220058241265613&amp;partnerID=40&amp;md5=e1498a6c1a2654b5c4f7d137c7358d13</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Publisher: SAGE Publications Inc.</dc:description>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:23220058%20(ISSN)">
+        <dc:title>Asian Journal of Legal Education</dc:title>
+        <dc:identifier>DOI 10.1177/23220058241265613</dc:identifier>
+        <dcterms:alternative>Asian. J.  Leg. Educ.</dcterms:alternative>
+        <dc:identifier>ISSN 23220058 (ISSN)</dc:identifier>
+    </bib:Journal>
+    <bib:Memo rdf:about="#item_8416">
+        <rdf:value>&lt;p&gt;Export Date: 18 December 2024; Cited By: 2; Correspondence Address: J.I. Moreira; Faculty of Law, University of Macau, Macao; email: joaomoreira@um.edu.mo&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_8852">
+        <rdf:value>&lt;p&gt;Export Date: 18 December 2024; Cited By: 2; Correspondence Address: J.I. Moreira; Faculty of Law, University of Macau, Macao; email: joaomoreira@um.edu.mo&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_8417">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/8417/Migliorini e Moreira - 2024 - The Case for Nurturing AI Literacy in Law Schools.pdf"/>
+        <dc:title>SAGE PDF Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://journals.sagepub.com/doi/pdf/10.1177/23220058241265613</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-01-02 20:02:31</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85178406736&amp;doi=10.1093%2fjiplp%2fjpad076&amp;partnerID=40&amp;md5=8f190a1aec59e91d71832dc00f863401">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:17471540%20(ISSN)"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kahveci</foaf:surname>
+                        <foaf:givenName>Z.Ü.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_8422"/>
+        <dcterms:isReferencedBy rdf:resource="#item_8858"/>
+        <link:link rdf:resource="#item_8423"/>
+        <dc:title>Attribution problem of generative AI: a view from US copyright law</dc:title>
+        <dcterms:abstract>• Three significant lawsuits concerning generative Artificial Intelligence (AI) were filed in the USA, starting the first wave of lawsuits against AI: (i) coders filed claims for the alleged use of their codes by OpenAI’s CoPilot, (ii) visual artists filed claims against companies using Stable Diffusion and (iii) Getty Images filed claims against Stability AI, which uses Stable Diffusion. Following the lead of these lawsuits, copyright owners of literary works filed four other lawsuits against OpenAI, Meta and Alphabet (Google)’s large language models. All of these lawsuits are pending at the time of writing. • Among other things, plaintiffs filed claims challenging generative AI’s lack of attribution to copyright owners of in-copyright works in its training data. As US copyright law does not protect moral rights strongly, a federal rule granting a right of attribution to all copyright owners does not exist. Yet, there are some provisions providing quasi-protection. Section 1202 of the Digital Millennium Copyright Act (DMCA) is one of them and protects copyright owners against removal/modification of the Copyright Management Information in connection with their works. • This article lays down the limitations of moral rights protection in the USA and demonstrates the difficulties faced by the plaintiffs of the pending lawsuits. The limitations of Section 1202 DMCA are explained to demonstrate its difference from a classic moral right of attribution. The outcomes of these lawsuits will be significant in building case law on generative AI for the first time in the USA. This article evaluates the benefits and disadvantages of courts’ possible acceptance of plaintiffs’ claims regarding attribution. © 2023 The Author(s).</dcterms:abstract>
+        <dc:date>2023</dc:date>
+        <z:language>English</z:language>
+        <z:archive>Scopus</z:archive>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.scopus.com/inward/record.uri?eid=2-s2.0-85178406736&amp;doi=10.1093%2fjiplp%2fjpad076&amp;partnerID=40&amp;md5=8f190a1aec59e91d71832dc00f863401</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Number: 11
+Publisher: Oxford University Press</dc:description>
+        <bib:pages>796-807</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:17471540%20(ISSN)">
+        <prism:volume>18</prism:volume>
+        <dc:title>Journal of Intellectual Property Law and Practice</dc:title>
+        <dc:identifier>DOI 10.1093/jiplp/jpad076</dc:identifier>
+        <prism:number>11</prism:number>
+        <dcterms:alternative>J. Intellect. Prop. Law Prac.</dcterms:alternative>
+        <dc:identifier>ISSN 17471540 (ISSN)</dc:identifier>
+    </bib:Journal>
+    <bib:Memo rdf:about="#item_8422">
+        <rdf:value>&lt;p&gt;Export Date: 18 December 2024; Cited By: 3; Correspondence Address: Z.Ü. Kahveci; Harvard Law School, United States; email: zeynep.kahveci@bilgi.edu.tr&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_8858">
+        <rdf:value>&lt;p&gt;Export Date: 18 December 2024; Cited By: 3; Correspondence Address: Z.Ü. Kahveci; Harvard Law School, United States; email: zeynep.kahveci@bilgi.edu.tr&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_8423">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/8423/Kahveci - 2023 - Attribution problem of generative AI a view from US copyright law.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://academic.oup.com/jiplp/article-pdf/18/11/796/53831525/jpad076.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-01-02 20:01:56</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="urn:isbn:979-835038188-7%20(ISBN)">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>ISBN 979-835038188-7 (ISBN)</dc:identifier>
+                <dc:title>Int. Conf. Comput. Intell. Green Sustain. Technol., ICCIGST - Proc.</dc:title>
+                <dc:identifier>DOI 10.1109/ICCIGST60741.2024.10717541</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <foaf:name>Institute of Electrical and Electronics Engineers Inc.</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Basha</foaf:surname>
+                        <foaf:givenName>T.Y.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kalyani</foaf:surname>
+                        <foaf:givenName>B.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sandeep</foaf:surname>
+                        <foaf:givenName>Y.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_8437"/>
+        <dcterms:isReferencedBy rdf:resource="#item_8873"/>
+        <link:link rdf:resource="#item_8438"/>
+        <dc:subject>Legal documents</dc:subject>
+        <dc:subject>Artificial intelligence technologies</dc:subject>
+        <dc:subject>Fine tuning</dc:subject>
+        <dc:subject>NLP</dc:subject>
+        <dc:subject>Prompt engineering</dc:subject>
+        <dc:subject>Generative adversarial networks</dc:subject>
+        <dc:subject>Cutting edges</dc:subject>
+        <dc:subject>Generative artificial intelligence</dc:subject>
+        <dc:subject>AI-powered Tools</dc:subject>
+        <dc:subject>Artificial intelligence-powered tool</dc:subject>
+        <dc:subject>Drafting practice</dc:subject>
+        <dc:subject>Fine-Tuning</dc:subject>
+        <dc:subject>Generative Artificial Intelligence</dc:subject>
+        <dc:subject>Legal documentation</dc:subject>
+        <dc:subject>Legal drafting</dc:subject>
+        <dc:subject>Legal Drafting</dc:subject>
+        <dc:subject>Legal jargon simplification</dc:subject>
+        <dc:subject>Legal Jargon Simplification</dc:subject>
+        <dc:subject>Prompt Engineering</dc:subject>
+        <dc:title>Generative Artificial Intelligence in Legal Drafting</dc:title>
+        <dcterms:abstract>'Lexi' is a light of clarity in a world where legal complexity frequently makes comprehension difficult. It is a tool that uses the revolutionary potential of generative Artificial Intelligence (AI) to completely change the process of producing legal documents. To simplify legal language and improve the accessibility and comprehension of legal documents, this paper introduces Lexi, a revolutionary tool. Through the integration of cutting-edge AI technology, Lexi not only improves legal drafting productivity but also supports legal communications that are clear and understandable. This innovation marks a paradigm change in legal documentation by emphasizing readability and ease of use and opening the door to a more diverse legal environment. © 2024 IEEE.</dcterms:abstract>
+        <dc:date>2024</dc:date>
+        <z:language>English</z:language>
+        <z:archive>Scopus</z:archive>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.scopus.com/inward/record.uri?eid=2-s2.0-85208430466&amp;doi=10.1109%2fICCIGST60741.2024.10717541&amp;partnerID=40&amp;md5=bd050f2e8aef083b4aa78358bf8fdbc3</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Journal Abbreviation: Int. Conf. Comput. Intell. Green Sustain. Technol., ICCIGST - Proc.</dc:description>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>2024 International Conference on Computational Intelligence for Green and Sustainable Technologies, ICCIGST 2024 - Proceedings</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <bib:Memo rdf:about="#item_8437">
+        <rdf:value>&lt;p&gt;Export Date: 18 December 2024; Cited By: 0; Correspondence Address: T.Y. Basha; Velagapudi Ramakrishna Siddhartha Engineering College, Department of Information Technology, Vijayawada, India; email: yahidbashat@gmail.com; Conference name: 2024 International Conference on Computational Intelligence for Green and Sustainable Technologies, ICCIGST 2024; Conference date: 18 July 2024 through 19 July 2024; Conference code: 203504&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_8873">
+        <rdf:value>&lt;p&gt;Export Date: 18 December 2024; Cited By: 0; Correspondence Address: T.Y. Basha; Velagapudi Ramakrishna Siddhartha Engineering College, Department of Information Technology, Vijayawada, India; email: yahidbashat@gmail.com; Conference name: 2024 International Conference on Computational Intelligence for Green and Sustainable Technologies, ICCIGST 2024; Conference date: 18 July 2024 through 19 July 2024; Conference code: 203504&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_8438">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/8438/Basha et al. - 2024 - Generative Artificial Intelligence in Legal Drafting.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&amp;arnumber=10717541&amp;ref=</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-01-02 20:02:08</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="urn:isbn:09226389%20(ISSN);%20978-164368472-7%20(ISBN)">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>379</prism:volume>
+                <dc:identifier>ISBN 09226389 (ISSN); 978-164368472-7 (ISBN)</dc:identifier>
+                <dc:title>Front. Artif. Intell. Appl.</dc:title>
+                <dc:identifier>DOI 10.3233/FAIA230975</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>IOS Press BV</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Alves</foaf:surname>
+                        <foaf:givenName>A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Miranda</foaf:surname>
+                        <foaf:givenName>P.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mello</foaf:surname>
+                        <foaf:givenName>R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nascimento</foaf:surname>
+                        <foaf:givenName>A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Sileno G.</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Spanakis J.</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>van Dijck G.</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dcterms:isReferencedBy rdf:resource="#item_8443"/>
+        <dcterms:isReferencedBy rdf:resource="#item_8879"/>
+        <link:link rdf:resource="#item_8444"/>
+        <dc:subject>Natural language processing systems</dc:subject>
+        <dc:subject>Natural language processing</dc:subject>
+        <dc:subject>machine learning</dc:subject>
+        <dc:subject>Machine learning</dc:subject>
+        <dc:subject>State of the art</dc:subject>
+        <dc:subject>Language processing</dc:subject>
+        <dc:subject>Natural languages</dc:subject>
+        <dc:subject>Machine-learning</dc:subject>
+        <dc:subject>natural language processing</dc:subject>
+        <dc:subject>Legal texts</dc:subject>
+        <dc:subject>Supreme Court</dc:subject>
+        <dc:subject>Portuguese languages</dc:subject>
+        <dc:subject>Quality control</dc:subject>
+        <dc:subject>automatic text simplification</dc:subject>
+        <dc:subject>Automatic text simplification</dc:subject>
+        <dc:title>Automatic Simplification of Legal Texts in Portuguese Using Machine Learning</dc:title>
+        <dcterms:abstract>Texts produced by the Brazilian judiciary have a complex and technical vocabulary, with elaborate use of the Portuguese language and many legal terms difficult to be understood, generating a barrier in communication between the judiciary and the population. In this sense, the Automatic Text Simplification (ATS), activity of the Natural Language Processing (NLP) area, can be applied to improve the readability of these types of text using specialized algorithms, and promote scalability in simplifying them, in view of the great demand in the courts. In this context, this article presents an evaluation of four methods of state of the art in text simplification, evaluated according to readability metrics, to improve the quality of existing texts in the judicial summaries, dataset containing 100 summaries of the Federal Regional Court of the 5th Region (TRF5) and another 100 of the Federal Supreme Court (STF). The methods MUSS(EN), MUSS(PT), Transformers and NMT + Attention were tested, and the results of the simplifications exceeded the FRE readability index of the original texts, making them more readable.  © 2023 The Authors.</dcterms:abstract>
+        <dc:date>2023</dc:date>
+        <z:language>English</z:language>
+        <z:archive>Scopus</z:archive>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.scopus.com/inward/record.uri?eid=2-s2.0-85181168745&amp;doi=10.3233%2fFAIA230975&amp;partnerID=40&amp;md5=d7231894bff2c47c225747359f7ffb93</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Journal Abbreviation: Front. Artif. Intell. Appl.</dc:description>
+        <bib:pages>281-286</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>Frontiers in Artificial Intelligence and Applications</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <bib:Memo rdf:about="#item_8443">
+        <rdf:value>&lt;p&gt;Export Date: 18 December 2024; Cited By: 0; Correspondence Address: A. Nascimento; Cesar School, Recife, Brazil; email: andre.camara@ufrpe.br; Conference name: 36th International Conference on Legal Knowledge and Information Systems, JURIX 2023; Conference date: 18 December 2023 through 20 December 2023; Conference code: 195587&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_8879">
+        <rdf:value>&lt;p&gt;Export Date: 18 December 2024; Cited By: 0; Correspondence Address: A. Nascimento; Cesar School, Recife, Brazil; email: andre.camara@ufrpe.br; Conference name: 36th International Conference on Legal Knowledge and Information Systems, JURIX 2023; Conference date: 18 December 2023 through 20 December 2023; Conference code: 195587&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_8444">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/8444/Alves et al. - 2023 - Automatic Simplification of Legal Texts in Portuguese Using Machine Learning.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ebooks.iospress.nl/pdf/doi/10.3233/FAIA230975</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-01-02 20:01:59</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85171258175&amp;doi=10.14236%2fewic%2fHCI2022.35&amp;partnerID=40&amp;md5=30aba70ab11c742ff4124f38248b72e3">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:title>Br. HCI Conf. Towards Hum.-Centred Digit. Soc., HCI</dc:title>
+                <dc:identifier>DOI 10.14236/ewic/HCI2022.35</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>BCS Learning and Development Ltd.</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Whittle</foaf:surname>
+                        <foaf:givenName>D.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hall</foaf:surname>
+                        <foaf:givenName>L.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>de Quincey E.</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Woolley S.I.</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Ortolani M.</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Misirli G.</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Mandal B.</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Kanwal N.</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Mitchell J.</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Rooney J.</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dcterms:isReferencedBy rdf:resource="#item_8449"/>
+        <dcterms:isReferencedBy rdf:resource="#item_8885"/>
+        <link:link rdf:resource="#item_8450"/>
+        <dc:subject>Cognitive Computing</dc:subject>
+        <dc:subject>'current</dc:subject>
+        <dc:subject>Chatbots</dc:subject>
+        <dc:subject>Legal services</dc:subject>
+        <dc:subject>Chatbot</dc:subject>
+        <dc:subject>AI Development</dc:subject>
+        <dc:subject>Application programming interfaces (API)</dc:subject>
+        <dc:subject>Artificial intelligence development</dc:subject>
+        <dc:subject>Botnet</dc:subject>
+        <dc:subject>Frequently asked questions</dc:subject>
+        <dc:subject>Future law</dc:subject>
+        <dc:subject>Future Law</dc:subject>
+        <dc:subject>Growing demand</dc:subject>
+        <dc:subject>IBM watson</dc:subject>
+        <dc:subject>IBM Watson</dc:subject>
+        <dc:subject>Legal bot</dc:subject>
+        <dc:subject>Legal bots</dc:subject>
+        <dc:title>Applying cognitive computing to legal services</dc:title>
+        <dcterms:abstract>With the development of Artificial Intelligence (AI) and the growing demand for chatbots that connect to other networks, the popularity of Cognitive Computing (CC) is growing. This paper looks at the development of a cognitive AI chatbot for legal services and explains the requirements and tasks involved in setting up a cognitive AI chatbot. It looks at current legal chatbots and their uses in legal services, considering how cognitive bots can be used to make appointments and handle frequently asked questions. How cognitive bots can be linked to a corpus of information and Application Programming Interfaces is outlined. © 2022 HCI.All Rights Reserved.</dcterms:abstract>
+        <dc:date>2022</dc:date>
+        <z:language>English</z:language>
+        <z:archive>Scopus</z:archive>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.scopus.com/inward/record.uri?eid=2-s2.0-85171258175&amp;doi=10.14236%2fewic%2fHCI2022.35&amp;partnerID=40&amp;md5=30aba70ab11c742ff4124f38248b72e3</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Journal Abbreviation: Br. HCI Conf. Towards Hum.-Centred Digit. Soc., HCI</dc:description>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>35th British HCI Conference Towards a Human-Centred Digital Society, HCI 2022</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <bib:Memo rdf:about="#item_8449">
+        <rdf:value>&lt;p&gt;Export Date: 18 December 2024; Cited By: 0; Conference name: 35th British HCI Conference Towards a Human-Centred Digital Society, HCI 2022; Conference date: 11 July 2022 through 13 July 2022; Conference code: 191913&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_8885">
+        <rdf:value>&lt;p&gt;Export Date: 18 December 2024; Cited By: 0; Conference name: 35th British HCI Conference Towards a Human-Centred Digital Society, HCI 2022; Conference date: 11 July 2022 through 13 July 2022; Conference code: 191913&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_8450">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/8450/Whittle e Hall - 2022 - Applying cognitive computing to legal services.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.scienceopen.com/document_file/e0c3546b-6ab9-44c5-9204-b3f6bb324122/ScienceOpen/001_Deborah_HCI2022.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-01-02 20:01:45</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85181520929&amp;doi=10.1017%2ferr.2023.81&amp;partnerID=40&amp;md5=5a3755c878a43491e7b9430c6f756985">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1867-299X,%202190-8249"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hacker</foaf:surname>
+                        <foaf:givenName>P.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cordes</foaf:surname>
+                        <foaf:givenName>J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rochon</foaf:surname>
+                        <foaf:givenName>J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_8461"/>
+        <dcterms:isReferencedBy rdf:resource="#item_8897"/>
+        <dcterms:isReferencedBy rdf:resource="#item_8610"/>
+        <link:link rdf:resource="#item_8462"/>
+        <dc:subject>AI</dc:subject>
+        <dc:subject>DISCRIMINATION</dc:subject>
+        <dc:subject>AUTOMATED DECISION-MAKING</dc:subject>
+        <dc:subject>data</dc:subject>
+        <dc:subject>DMA</dc:subject>
+        <dc:subject>INNOVATION EVIDENCE</dc:subject>
+        <dc:subject>TRADE SECRETS</dc:subject>
+        <dc:title>Regulating Gatekeeper Artificial Intelligence and Data: Transparency, Access and Fairness under the Digital Markets Act, the General Data Protection Regulation and Beyond</dc:title>
+        <dcterms:abstract>Artificial intelligence (AI) is not only increasingly being used in business and administration contexts, but a race for its regulation is also underway, with the European Union (EU) spearheading the efforts. Contrary to existing literature, this article suggests that the most far-reaching and effective EU rules for AI applications in the digital economy will not be contained in the proposed AI Act, but in the Digital Markets Act (DMA). We analyse the impact of the DMA and related EU acts on AI models and underlying data across four key areas: disclosure requirements; the regulation of AI training data; access rules; and the regime for fair rankings. We demonstrate that fairness, under the DMA, goes beyond traditionally protected categories of non-discrimination law on which scholarship at the intersection of AI and law has focused on. Rather, we draw on competition law and the FRAND criteria known from intellectual property law to interpret and refine the DMA provisions on fair rankings. Moreover, we show how, based on Court of Justice of the European Union jurisprudence, a coherent interpretation of the concept of non-discrimination in both traditional non-discrimination and competition law may be found. The final section sketches out proposals for a comprehensive framework of transparency, access and fairness under the DMA and beyond. © The Author(s), 2023.</dcterms:abstract>
+        <dc:date>03/2024</dc:date>
+        <z:language>English</z:language>
+        <z:shortTitle>Regulating Gatekeeper Artificial Intelligence and Data</z:shortTitle>
+        <z:archive>Scopus</z:archive>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.scopus.com/inward/record.uri?eid=2-s2.0-85181520929&amp;doi=10.1017%2ferr.2023.81&amp;partnerID=40&amp;md5=5a3755c878a43491e7b9430c6f756985</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:rights>https://www.cambridge.org/core/terms</dc:rights>
+        <dc:description>Number: 1
+Publisher: Cambridge University Press</dc:description>
+        <bib:pages>49-86</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1867-299X,%202190-8249">
+        <prism:volume>15</prism:volume>
+        <dc:title>European Journal of Risk Regulation</dc:title>
+        <dc:identifier>DOI 10.1017/err.2023.81</dc:identifier>
+        <prism:number>1</prism:number>
+        <dcterms:alternative>Eur. J. Risk Regul.</dcterms:alternative>
+        <dc:identifier>ISSN 1867-299X, 2190-8249</dc:identifier>
+    </bib:Journal>
+    <bib:Memo rdf:about="#item_8461">
+        <rdf:value>&lt;p&gt;Export Date: 18 December 2024; Cited By: 7; Correspondence Address: P. Hacker; European New School of Digital Studies, European University, Frankfurt, Viadrina, Germany; email: hacker@europa-uni.de&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_8897">
+        <rdf:value>&lt;p&gt;Export Date: 18 December 2024; Cited By: 7; Correspondence Address: P. Hacker; European New School of Digital Studies, European University, Frankfurt, Viadrina, Germany; email: hacker@europa-uni.de&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_8610">
+        <rdf:value>&lt;p&gt;Times Cited in Web of Science Core Collection:&amp;nbsp;&amp;nbsp;5&lt;br/&gt;Total Times Cited:&amp;nbsp;&amp;nbsp;5&lt;br/&gt;Cited Reference Count:&amp;nbsp;&amp;nbsp;221&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_8462">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/8462/Hacker et al. - 2024 - Regulating Gatekeeper Artificial Intelligence and Data Transparency, Access and Fairness under the.pdf"/>
+        <dc:title>PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.cambridge.org/core/services/aop-cambridge-core/content/view/9A66BBD933000DD80114C5077FB23D7E/S1867299X23000818a.pdf/regulating-gatekeeper-artificial-intelligence-and-data-transparency-access-and-fairness-under-the-digital-markets-act-the-general-data-protection-regulation-and-beyond.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-01-02 21:13:54</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85192967284&amp;doi=10.1016%2fj.artint.2024.104145&amp;partnerID=40&amp;md5=5fe81d13afa6a604c8f63e5b80e85230">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:00043702%20(ISSN)"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Almeida</foaf:surname>
+                        <foaf:givenName>G.F.C.F.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nunes</foaf:surname>
+                        <foaf:givenName>J.L.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Engelmann</foaf:surname>
+                        <foaf:givenName>N.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wiegmann</foaf:surname>
+                        <foaf:givenName>A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Araújo</foaf:surname>
+                        <foaf:givenName>M.D.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_8476"/>
+        <dcterms:isReferencedBy rdf:resource="#item_8912"/>
+        <dcterms:isReferencedBy rdf:resource="#item_8640"/>
+        <link:link rdf:resource="#item_8477"/>
+        <dc:subject>Philosophical aspects</dc:subject>
+        <dc:subject>State of the art</dc:subject>
+        <dc:subject>LAW</dc:subject>
+        <dc:subject>Computational linguistics</dc:subject>
+        <dc:subject>Language model</dc:subject>
+        <dc:subject>Large language model</dc:subject>
+        <dc:subject>EXPERTISE</dc:subject>
+        <dc:subject>Behavioral research</dc:subject>
+        <dc:subject>Large language models</dc:subject>
+        <dc:subject>AI ethic</dc:subject>
+        <dc:subject>AI Ethics</dc:subject>
+        <dc:subject>Ethic of artificial intelligence</dc:subject>
+        <dc:subject>Ethics of artificial intelligence</dc:subject>
+        <dc:subject>Experimental jurisprudence</dc:subject>
+        <dc:subject>Human response</dc:subject>
+        <dc:subject>Machine behavior</dc:subject>
+        <dc:subject>Machine Behavior</dc:subject>
+        <dc:subject>Machine psychology</dc:subject>
+        <dc:subject>Moral psychology</dc:subject>
+        <dc:subject>Technology transfer</dc:subject>
+        <dc:subject>GUIDE</dc:subject>
+        <dc:subject>SETS</dc:subject>
+        <dc:subject>SPIRIT</dc:subject>
+        <dc:title>Exploring the psychology of LLMs’ moral and legal reasoning</dc:title>
+        <dcterms:abstract>Large language models (LLMs) exhibit expert-level performance in tasks across a wide range of different domains. Ethical issues raised by LLMs and the need to align future versions makes it important to know how state of the art models reason about moral and legal issues. In this paper, we employ the methods of experimental psychology to probe into this question. We replicate eight studies from the experimental literature with instances of Google's Gemini Pro, Anthropic's Claude 2.1, OpenAI's GPT-4, and Meta's Llama 2 Chat 70b. We find that alignment with human responses shifts from one experiment to another, and that models differ amongst themselves as to their overall alignment, with GPT-4 taking a clear lead over all other models we tested. Nonetheless, even when LLM-generated responses are highly correlated to human responses, there are still systematic differences, with a tendency for models to exaggerate effects that are present among humans, in part by reducing variance. This recommends caution with regards to proposals of replacing human participants with current state-of-the-art LLMs in psychological research and highlights the need for further research about the distinctive aspects of machine psychology. © 2024 Elsevier B.V.</dcterms:abstract>
+        <dc:date>2024</dc:date>
+        <z:language>English</z:language>
+        <z:archive>Scopus</z:archive>
+        <dc:coverage>WOS:001240939000001</dc:coverage>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.scopus.com/inward/record.uri?eid=2-s2.0-85192967284&amp;doi=10.1016%2fj.artint.2024.104145&amp;partnerID=40&amp;md5=5fe81d13afa6a604c8f63e5b80e85230</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Publisher: Elsevier B.V.</dc:description>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:00043702%20(ISSN)">
+        <prism:volume>333</prism:volume>
+        <dc:title>Artificial Intelligence</dc:title>
+        <dc:identifier>DOI 10.1016/j.artint.2024.104145</dc:identifier>
+        <dcterms:alternative>Artif Intell</dcterms:alternative>
+        <dc:identifier>ISSN 00043702 (ISSN)</dc:identifier>
+    </bib:Journal>
+    <bib:Memo rdf:about="#item_8476">
+        <rdf:value>&lt;p&gt;Export Date: 18 December 2024; Cited By: 2; Correspondence Address: J.L. Nunes; Department of Informatics, Pontifical Catholic University of Rio de Janeiro, Gavéa, Rua Marquês de São Vicente, 225 RDC, RJ, 22451-900, Brazil; email: jnunes@inf.puc-rio.br; CODEN: AINTB&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_8912">
+        <rdf:value>&lt;p&gt;Export Date: 18 December 2024; Cited By: 2; Correspondence Address: J.L. Nunes; Department of Informatics, Pontifical Catholic University of Rio de Janeiro, Gavéa, Rua Marquês de São Vicente, 225 RDC, RJ, 22451-900, Brazil; email: jnunes@inf.puc-rio.br; CODEN: AINTB&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_8640">
+        <rdf:value>&lt;p&gt;Times Cited in Web of Science Core Collection:&amp;nbsp;&amp;nbsp;2&lt;br/&gt;Total Times Cited:&amp;nbsp;&amp;nbsp;2&lt;br/&gt;Cited Reference Count:&amp;nbsp;&amp;nbsp;68&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_8477">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/8477/Almeida et al. - 2024 - Exploring the psychology of LLMs’ moral and legal reasoning.pdf"/>
+        <dc:title>Versão Submetida</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/pdf/2308.01264</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-01-02 20:02:55</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="urn:isbn:979-835031815-9%20(ISBN)">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>ISBN 979-835031815-9 (ISBN)</dc:identifier>
+                <dc:title>ISED - Int. Conf. Intell. Syst. Embed. Des.</dc:title>
+                <dc:identifier>DOI 10.1109/ISED59382.2023.10444600</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <foaf:name>Institute of Electrical and Electronics Engineers Inc.</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rana</foaf:surname>
+                        <foaf:givenName>R.S.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Singh</foaf:surname>
+                        <foaf:givenName>S.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Aggarwal</foaf:surname>
+                        <foaf:givenName>M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Badoni</foaf:surname>
+                        <foaf:givenName>M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Saini H.</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Patra P.</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dcterms:isReferencedBy rdf:resource="#item_8482"/>
+        <dcterms:isReferencedBy rdf:resource="#item_8918"/>
+        <link:link rdf:resource="#item_8483"/>
+        <dc:subject>Artificial intelligence</dc:subject>
+        <dc:subject>Search engines</dc:subject>
+        <dc:subject>Artificial Intelligence</dc:subject>
+        <dc:subject>Laws and legislation</dc:subject>
+        <dc:subject>Legal system</dc:subject>
+        <dc:subject>Online dispute resolution</dc:subject>
+        <dc:subject>Supreme Court</dc:subject>
+        <dc:subject>Online systems</dc:subject>
+        <dc:subject>Digital storage</dc:subject>
+        <dc:subject>AI applications</dc:subject>
+        <dc:subject>Court of india</dc:subject>
+        <dc:subject>Courts of India</dc:subject>
+        <dc:subject>digitalization of judiciary</dc:subject>
+        <dc:subject>Digitalization of judiciary</dc:subject>
+        <dc:subject>Human judgments</dc:subject>
+        <dc:subject>Indian judicial system</dc:subject>
+        <dc:subject>Indian Judicial System</dc:subject>
+        <dc:subject>Judicial systems</dc:subject>
+        <dc:subject>Online dispute resolution platform</dc:subject>
+        <dc:subject>Online Dispute Resolution Platform</dc:subject>
+        <dc:title>Unveiling the Future: Exploring AI Applications in the Indian Judicial System</dc:title>
+        <dcterms:abstract>The infusion of Artificial Intelligence (AI) into every facet of life has raised pertinent questions about its potential integration within the legal system, a domain traditionally governed by human judgment, principles of equity, and the pursuit of sound jurisprudence. The Supreme Court of India has historically been a bastion of 'demosprudence,' emphasizing a humanistic approach to the administration of justice. Nevertheless, the rapid advancement of scientific methods and technologies necessitates the consideration of AI's application in the legal system. In contemporary times, AI is being utilized by courts in various capacities, such as data storage and retrieval, multi-body litigation service systems, online dispute resolution platforms, and even judgment prediction. However, the authenticity and integrity of AI-driven solutions remain a subject of skepticism among academics and experts, primarily due to the inherent limitations of AI's application in this context. This paper delves into a comprehensive exploration of AI applications within the Indian Judicial System, meticulously analyzing its potential benefits and limitations. From AI-driven case management to the digitalization of dispute resolution platforms, the impact of AI on the judiciary is scrutinized. The study emphasizes the imperative need for responsible AI adoption, advocating for measures that can facilitate its effective integration while addressing the associated concerns and ensuring a harmonious coexistence of AI and human judgment in the legal realm.  © 2023 IEEE.</dcterms:abstract>
+        <dc:date>2023</dc:date>
+        <z:language>English</z:language>
+        <z:archive>Scopus</z:archive>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.scopus.com/inward/record.uri?eid=2-s2.0-85187197783&amp;doi=10.1109%2fISED59382.2023.10444600&amp;partnerID=40&amp;md5=e9c66ee54af213b0809596c2f0f4485d</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Journal Abbreviation: ISED - Int. Conf. Intell. Syst. Embed. Des.</dc:description>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>ISED 2023 - International Conference on Intelligent Systems and Embedded Design</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <bib:Memo rdf:about="#item_8482">
+        <rdf:value>&lt;p&gt;Export Date: 18 December 2024; Cited By: 2; Conference name: 11th International Conference on Intelligent Systems and Embedded Design, ISED 2023; Conference date: 15 December 2023 through 17 December 2023; Conference code: 197695&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_8918">
+        <rdf:value>&lt;p&gt;Export Date: 18 December 2024; Cited By: 2; Conference name: 11th International Conference on Intelligent Systems and Embedded Design, ISED 2023; Conference date: 15 December 2023 through 17 December 2023; Conference code: 197695&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_8483">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/8483/Rana et al. - 2023 - Unveiling the Future Exploring AI Applications in the Indian Judicial System.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&amp;arnumber=10444600&amp;ref=</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-01-02 20:02:41</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85192997054&amp;doi=10.53300%2f001c.83297&amp;partnerID=40&amp;md5=ef7b85e7bbb0799384ce759dc4e2f2fb">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:10332839%20(ISSN)"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hargreaves</foaf:surname>
+                        <foaf:givenName>S.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_8502"/>
+        <dcterms:isReferencedBy rdf:resource="#item_8938"/>
+        <link:link rdf:resource="#item_8503"/>
+        <dc:subject>ChatGPT</dc:subject>
+        <dc:subject>assessment</dc:subject>
+        <dc:subject>artificialintelligence</dc:subject>
+        <dc:subject>cheating</dc:subject>
+        <dc:subject>exams</dc:subject>
+        <dc:subject>largelanguagemodel</dc:subject>
+        <dc:subject>lawschool</dc:subject>
+        <dc:subject>teaching</dc:subject>
+        <dc:title>‘Words are Flowing Out Like Endless Rain Into a Paper Cup’: ChatGPT &amp; Law School Assessments</dc:title>
+        <dcterms:abstract>ChatGPT is a sophisticated large-language model able to answer high-level questions in a way that is does not trigger conventional plagiarism detectors. Concerns have been raised that and similar forms of ‘generative AI’ pose a significant threat to academic integrity in higher education. To evaluate this risk in the context of legal education specifically, this project had ChatGPT (using the GPT3.5 model available in January 2023) generate answers to twenty-four different exams from an English-language law school based in a common law jurisdiction. It found that the system performed best on exams that were essay-based and asked students to discuss international legal instruments or general legal principles not necessarily specific to any jurisdiction. It performed worst on exams that featured problem-style or “issue spotting” questions asking students to apply an invented factual scenario to local legislation or jurisprudence. While the project suggests that for the most part conventional law school assessments are for the time being relatively immune from the threat generative AI brings, the project provides only a baseline snapshot of how large-language models tackle assessment in higher education. As both the technology improves and students learn how to harness it, increasingly fewer forms of assessment will be beyond its reach. However, rather than attempt to block students from using AI as part of learning and assessment, this paper instead proposes three ways students may be taught to use it in appropriate and ethical ways. While it is clear that generative AI will change how universities teach and assess (across disciplines), a solution of prevention or denial is no solution at all. © 2023, Australasian Law Academics Association. All rights reserved.</dcterms:abstract>
+        <dc:date>2023</dc:date>
+        <z:language>English</z:language>
+        <z:archive>Scopus</z:archive>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.scopus.com/inward/record.uri?eid=2-s2.0-85192997054&amp;doi=10.53300%2f001c.83297&amp;partnerID=40&amp;md5=ef7b85e7bbb0799384ce759dc4e2f2fb</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Number: 1
+Publisher: Australasian Law Academics Association</dc:description>
+        <bib:pages>69-105</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:10332839%20(ISSN)">
+        <prism:volume>33</prism:volume>
+        <dc:title>Legal Education Review</dc:title>
+        <dc:identifier>DOI 10.53300/001c.83297</dc:identifier>
+        <prism:number>1</prism:number>
+        <dcterms:alternative>Leg. Education  Rev.</dcterms:alternative>
+        <dc:identifier>ISSN 10332839 (ISSN)</dc:identifier>
+    </bib:Journal>
+    <bib:Memo rdf:about="#item_8502">
+        <rdf:value>&lt;p&gt;Export Date: 18 December 2024; Cited By: 11&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_8938">
+        <rdf:value>&lt;p&gt;Export Date: 18 December 2024; Cited By: 11&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_8503">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/8503/Hargreaves - 2023 - ‘Words are Flowing Out Like Endless Rain Into a Paper Cup’ ChatGPT &amp; Law School Assessments.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ler.scholasticahq.com/article/83297.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-01-02 20:02:44</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://onlinelibrary.wiley.com/doi/abs/10.1111/jwip.12285">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1422-2213"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dermawan</foaf:surname>
+                        <foaf:givenName>A</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_8514"/>
+        <link:link rdf:resource="#item_8515"/>
+        <link:link rdf:resource="#item_8516"/>
+        <dc:subject>copyright and related rights</dc:subject>
+        <dc:subject>freier werkgenuss</dc:subject>
+        <dc:subject>generative AI models</dc:subject>
+        <dc:subject>innovation</dc:subject>
+        <dc:subject>text and data mining</dc:subject>
+        <dc:title>Text and data mining exceptions in the development of generative AI models: What the EU member states could learn from the Japanese &quot;nonenjoyment&quot; purposes?</dc:title>
+        <dcterms:abstract>The European Union (EU) text and data mining (TDM) provisions are a progressive move, but the horizon is still uncertain for both generative artificial intelligence (GenAI) models researchers and developers. This article suggests that to drive innovation and further the commitment to the digital single market, during the national implementation, EU Member States could consider taking the Japanese broad, all-encompassing and &quot;nonenjoyment-based&quot; TDM as an example. The Japanese &quot;nonenjoyment&quot; purposes, however, are not foreign to the European continental view of copyright. A similar concept can be found under the German concept of &quot;Freier Werkgenuss&quot; or enjoyment of the work. A flexible TDM exception built upon the German notion of nonenjoyment purposes could become an opening clause to foster innovation and creativity in the age of GenAI. Moreover, the article argues that an opening clause allowing TDM with &quot;nonenjoyment&quot; purposes could be permissible under the so-called three-step test. This article further suggests, if there is no political will to safeguard &quot;the right to read should be the right to mine&quot; and to provide a welcoming environment for GenAI researchers and developers, when shaping the legal interpretation through national case law, the EU Member States could consider the following: (1) advocate for 72 h of response if technological protection measures (TPMs) are preventing TDM, and (2) Robot Exclusion Standard (robot.txt) as a warning when TDM is not allowed on a website. It is now in the hands of the EU Member States, whether to protect the interests of rightholders or to create a balance between safeguarding &quot;the right to read should be the right to mine,&quot; protecting rightholders exclusivity, and creating a supportive environment for the GenAI models researcher and developers.</dcterms:abstract>
+        <dc:date>2024 MAR</dc:date>
+        <z:language>English</z:language>
+        <z:shortTitle>Text and data mining exceptions in the development of generative AI models</z:shortTitle>
+        <dc:coverage>WOS:000995626800001</dc:coverage>
+        <z:libraryCatalog>Wiley Online Library</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://onlinelibrary.wiley.com/doi/abs/10.1111/jwip.12285</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:rights>© 2023 The Authors. The Journal of World Intellectual Property published by John Wiley &amp; Sons Ltd.</dc:rights>
+        <dc:description>Number: 1
+_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1111/jwip.12285</dc:description>
+        <bib:pages>44-68</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1422-2213">
+        <prism:volume>27</prism:volume>
+        <dc:title>The Journal of World Intellectual Property</dc:title>
+        <dc:identifier>DOI 10.1111/jwip.12285</dc:identifier>
+        <prism:number>1</prism:number>
+        <dc:identifier>ISSN 1422-2213</dc:identifier>
+    </bib:Journal>
+    <bib:Memo rdf:about="#item_8514">
+        <rdf:value>&lt;p&gt;Times Cited in Web of Science Core Collection:&amp;nbsp;&amp;nbsp;7&lt;br/&gt;Total Times Cited:&amp;nbsp;&amp;nbsp;7&lt;br/&gt;Cited Reference Count:&amp;nbsp;&amp;nbsp;100&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_8515">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/8515/Dermawan - 2024 - Text and data mining exceptions in the development of generative AI models What the EU member state.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/jwip.12285</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-01-02 14:39:04</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_8516">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/8516/jwip.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://onlinelibrary.wiley.com/doi/full/10.1111/jwip.12285</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-01-02 14:39:11</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_8522">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0251-3420"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Navarro-Dolmestch</foaf:surname>
+                        <foaf:givenName>R</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_8523"/>
+        <link:link rdf:resource="#item_8524"/>
+        <dc:subject>artificial intelligence</dc:subject>
+        <dc:subject>ChatGPT</dc:subject>
+        <dc:subject>chatbot</dc:subject>
+        <dc:subject>Academic integrity</dc:subject>
+        <dc:subject>automatic text generation</dc:subject>
+        <dc:subject>ETHICS</dc:subject>
+        <dc:title>Risks and Challenges Posed by Artificial Intelligence Generative Applications for Academic Integrity</dc:title>
+        <dcterms:abstract>From the perspective of a descriptive analysis, and as a starting point to a new research line, this paper examines the potential impact Generative Artificial Intelligence (GAI) technologies may have on academic integrity, manifested in the learning and evaluation processes of law classes at the university level. The article takes as its premise the definition of academic integrity as a set of values and argues that a series of risks arise from the GAI that threaten those values, such as excessive dependence and trust in the GAI, the unreallizability of the pedagogical project and the loss of competitiveness of educational institutions, among others. To minimize or nullify such risks, and thus prevent them from affecting academic integrity, four mitigation measures are identified to be applied in university environments.</dcterms:abstract>
+        <dc:date>2023 DEC</dc:date>
+        <z:language>English</z:language>
+        <dc:coverage>WOS:001146757500011</dc:coverage>
+        <dc:description>Number: 91</dc:description>
+        <bib:pages>231-270</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0251-3420">
+        <dc:title>DERECHO PUCP</dc:title>
+        <dc:identifier>DOI 10.18800/derechopucp.202302.007</dc:identifier>
+        <prism:number>91</prism:number>
+        <dc:identifier>ISSN 0251-3420</dc:identifier>
+    </bib:Journal>
+    <bib:Memo rdf:about="#item_8523">
+        <rdf:value>&lt;p&gt;Times Cited in Web of Science Core Collection:&amp;nbsp;&amp;nbsp;0&lt;br/&gt;Total Times Cited:&amp;nbsp;&amp;nbsp;0&lt;br/&gt;Cited Reference Count:&amp;nbsp;&amp;nbsp;126&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_8524">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/8524/Navarro-Dolmestch - 2023 - Risks and Challenges Posed by Artificial Intelligence Generative Applications for Academic Integrity.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://revistas.pucp.edu.pe/index.php/derechopucp/article/download/26654/25802</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-12-25 22:41:43</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_8525">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2068-651X"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ungureanu</foaf:surname>
+                        <foaf:givenName>CT</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Amironesei</foaf:surname>
+                        <foaf:givenName>AE</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_8526"/>
+        <link:link rdf:resource="#item_8527"/>
+        <dc:subject>generative artificial intelligence</dc:subject>
+        <dc:subject>advertising</dc:subject>
+        <dc:subject>civil liability</dc:subject>
+        <dc:subject>training data</dc:subject>
+        <dc:title>Legal issues concerning Generative AI technologies</dc:title>
+        <dcterms:abstract>We are witnessing an accelerated technological evolution that has enabled the development of artificial intelligence in various fields, allowing it to gradually infiltrate the entire society. We intend to cover only a small subset of AI technologies in our paper, that of Generative Artificial Intelligence (GenAI). Our objectives are to shed light on the legal issues that GenAI can cause and to find solutions to them. We begin with a definition of GenAI in the much broader context of AI technologies. Answers to a few essential questions are to be found: 'How does GenAI work?', 'What could GenAI be used for?', 'What legal issues could arise from using a GenAI?'. To accomplish our goals, we first conduct a literature review to define artificial intelligence (AI) in general and GenAI in particular. Several lawsuits are chosen to illustrate the magnitude of the legal problems and to test the feasibility of possible solutions in both the national and EU legal systems. Then, we analyse GenAI's output, liability for its contents and for its use, altogether with examples of related contractual clauses.</dcterms:abstract>
+        <dc:date>2023 DEC</dc:date>
+        <z:language>English</z:language>
+        <dc:coverage>WOS:001137028500012</dc:coverage>
+        <dc:description>Number: 2</dc:description>
+        <bib:pages>45-75</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2068-651X">
+        <prism:volume>14</prism:volume>
+        <dc:title>EASTERN JOURNAL OF EUROPEAN STUDIES</dc:title>
+        <dc:identifier>DOI 10.47743/ejes-2023-0203</dc:identifier>
+        <prism:number>2</prism:number>
+        <dc:identifier>ISSN 2068-651X</dc:identifier>
+    </bib:Journal>
+    <bib:Memo rdf:about="#item_8526">
+        <rdf:value>&lt;p&gt;Times Cited in Web of Science Core Collection:&amp;nbsp;&amp;nbsp;0&lt;br/&gt;Total Times Cited:&amp;nbsp;&amp;nbsp;0&lt;br/&gt;Cited Reference Count:&amp;nbsp;&amp;nbsp;101&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_8527">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/8527/Ungureanu e Amironesei - 2023 - Legal issues concerning Generative AI technologies.pdf"/>
+        <dc:title>Texto Completo</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ejes.uaic.ro/articles/EJES2023_1402_UNG.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-12-25 22:41:36</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_8528">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2624-8212"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kaomea</foaf:surname>
+                        <foaf:givenName>P</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_8529"/>
+        <link:link rdf:resource="#item_8530"/>
+        <dc:subject>ChatGPT</dc:subject>
+        <dc:subject>generative artificial intelligence</dc:subject>
+        <dc:subject>collective-intelligence</dc:subject>
+        <dc:subject>GENERATION</dc:subject>
+        <dc:subject>machine intelligence</dc:subject>
+        <dc:subject>pareto</dc:subject>
+        <dc:subject>super-intelligence</dc:subject>
+        <dc:subject>work allocation</dc:subject>
+        <dc:subject>work coordination</dc:subject>
+        <dc:title>An intelligence coordination system toward creating the super-intelligent law firm</dc:title>
+        <dcterms:abstract>A large law firm typically exhibits a collective intelligence comprised of hundreds or thousands of legal minds aimed at simultaneously engaging thousands of active matters across scores of industries and dozens of practice specialties with distinct doctrinal and procedural characteristics. The firm is challenged not only to achieve successful, cost-effective outcomes for its clients, but must also simultaneously, in competition with other firms and alternative service providers, attract and cultivate talent, develop and coordinate capabilities across multiple evolving areas of practice and continually improve a robust collective intelligence to gain a competitive edge. As various types of machine intelligences and tools are introduced, firms must also groom these into the collective. In this paper we explore a human-machine hybrid system for addressing this large scale, multi-dimensional, dynamic optimization challenge to coordinate a collective intelligence of humans and machines. Machine intelligence is needed to handle the computational complexity and it is complemented by human intelligence to help handle exceptions and novel situations. We believe this approach has potential for transforming the collective intelligence that is the large law firm.</dcterms:abstract>
+        <dc:date>2023 JUL 14</dc:date>
+        <z:language>English</z:language>
+        <dc:coverage>WOS:001037394100001</dc:coverage>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2624-8212">
+        <prism:volume>6</prism:volume>
+        <dc:title>FRONTIERS IN ARTIFICIAL INTELLIGENCE</dc:title>
+        <dc:identifier>DOI 10.3389/frai.2023.1145308</dc:identifier>
+        <dc:identifier>ISSN 2624-8212</dc:identifier>
+    </bib:Journal>
+    <bib:Memo rdf:about="#item_8529">
+        <rdf:value>&lt;p&gt;Times Cited in Web of Science Core Collection:&amp;nbsp;&amp;nbsp;0&lt;br/&gt;Total Times Cited:&amp;nbsp;&amp;nbsp;0&lt;br/&gt;Cited Reference Count:&amp;nbsp;&amp;nbsp;14&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_8530">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/8530/Kaomea - 2023 - An intelligence coordination system toward creating the super-intelligent law firm.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.frontiersin.org/articles/10.3389/frai.2023.1145308/pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-12-25 22:41:54</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://papers.ssrn.com/abstract=4648246">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1999-9747"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chan</foaf:surname>
+                        <foaf:givenName>E</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gore</foaf:surname>
+                        <foaf:givenName>KN</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jiang</foaf:surname>
+                        <foaf:givenName>E</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_8532"/>
+        <link:link rdf:resource="#item_8533"/>
+        <dc:subject>
+            <z:AutomaticTag>
+                <rdf:value>artificial intelligence  practical applications in arbitration</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>artificial intelligence practical applications in arbitration</dc:subject>
+        <dc:subject>artificial intelligence regulation in arbitration</dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+                <rdf:value>artificially  intelligent legal technology use cases in arbitration</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>artificially intelligent legal technology use cases in arbitration</dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>future applications</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>future applications of artificial intelligence in arbitration practice</dc:subject>
+        <dc:subject>generative artificial intelligence in arbitration</dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>large language models’ use in  arbitration</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>large language models' use in arbitration</dc:subject>
+        <dc:title>Harnessing Artificial Intelligence in International Arbitration Practice</dc:title>
+        <dcterms:abstract>Since the beginning of 2023, generative artificial intelligence (hereinafter &quot;Generative AI&quot;) in the form of large language models (LLMs) like ChatGPT-4 has taken the world by storm. Legal practice is no exception. Among other stories, worldwide headlines have featured the fact that ChatGPT-4 is capable of passing the New York Bar Exam, that courts are adopting Generative AI in their decision-making, and that a New York lawyer has been sanctioned by a judge for relying upon non-existent case law precedent that he obtained from ChatGPT-4 and did not double-check.
+Yet, putting aside these newsworthy developments, tools powered by other forms of artificial intelligence (hereinafter &quot;AI&quot;) have already been relied upon in legal practice for many years. This article introduces how AI supports successful international arbitration practice, including uses and methods that are already available and those that are anticipated to become helpful. This article also addresses the challenges and pitfalls that accompany these opportunities. Overall, this article concludes that the brave new world of AI in international arbitration is an exciting one that, through careful and thoughtful deployment of best practices, can add significant value to international arbitration teams in the decades to come.</dcterms:abstract>
+        <dc:date>2023-11-29</dc:date>
+        <z:language>English</z:language>
+        <dc:coverage>WOS:001111303600003</dc:coverage>
+        <z:libraryCatalog>papers.ssrn.com</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://papers.ssrn.com/abstract=4648246</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Number: 2</dc:description>
+        <bib:pages>263-299</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1999-9747">
+        <prism:volume>16</prism:volume>
+        <dc:title>CONTEMPORARY ASIA ARBITRATION JOURNAL</dc:title>
+        <prism:number>2</prism:number>
+        <dc:identifier>ISSN 1999-9747</dc:identifier>
+    </bib:Journal>
+    <bib:Memo rdf:about="#item_8532">
+        <rdf:value>&lt;p&gt;Times Cited in Web of Science Core Collection:&amp;nbsp;&amp;nbsp;0&lt;br/&gt;Total Times Cited:&amp;nbsp;&amp;nbsp;0&lt;br/&gt;Cited Reference Count:&amp;nbsp;&amp;nbsp;66&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_8533">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/8533/Chan et al. - 2023 - Harnessing Artificial Intelligence in International Arbitration Practice.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID4648246_code5822482.pdf?abstractid=4648246&amp;mirid=1</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-01-02 14:29:38</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="urn:isbn:979-8-4007-0331-7">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>ISBN 979-8-4007-0331-7</dc:identifier>
+                <dc:title>University of Amsterdam</dc:title>
+                <dc:identifier>DOI 10.1145/3613905.3650750</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>El Ali</foaf:surname>
+                        <foaf:givenName>A</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Venkatraj</foaf:surname>
+                        <foaf:givenName>KP</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Morosoli</foaf:surname>
+                        <foaf:givenName>S</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Naudts</foaf:surname>
+                        <foaf:givenName>L</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Helberger</foaf:surname>
+                        <foaf:givenName>N</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cesar</foaf:surname>
+                        <foaf:givenName>P</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>ASSOC COMPUTING MACHINERY</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_8540"/>
+        <link:link rdf:resource="#item_8541"/>
+        <dc:subject>law</dc:subject>
+        <dc:subject>transparency</dc:subject>
+        <dc:subject>generative artificial intelligence</dc:subject>
+        <dc:subject>Article 52</dc:subject>
+        <dc:subject>disclosures</dc:subject>
+        <dc:subject>EU AI Act</dc:subject>
+        <dc:subject>obligations</dc:subject>
+        <dc:subject>research questions</dc:subject>
+        <dc:title>Transparent AI Disclosure Obligations: Who, What, When, Where, Why, How</dc:title>
+        <dcterms:abstract>Advances in Generative Artificial Intelligence (AI) are resulting in AI-generated media output that is (nearly) indistinguishable from human-created content. This can drastically impact users and the media sector, especially given global risks of misinformation. While the currently discussed European AI Act aims at addressing these risks through Article 52's AI transparency obligations, its interpretation and implications remain unclear. In this early work, we adopt a participatory AI approach to derive key questions based on Article 52's disclosure obligations. We ran two workshops with researchers, designers, and engineers across disciplines (N=16), where participants deconstructed Article 52's relevant clauses using the 5W1H framework. We contribute a set of 149 questions clustered into five themes and 18 sub-themes. We believe these can not only help inform future legal developments and interpretations of Article 52, but also provide a starting point for Human-Computer Interaction research to (re-)examine disclosure transparency from a human-centered AI lens.</dcterms:abstract>
+        <dc:date>2024</dc:date>
+        <z:language>English</z:language>
+        <dc:coverage>WOS:001227587701133</dc:coverage>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>EXTENDED ABSTRACTS OF THE 2024 CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS, CHI 2024</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <bib:Memo rdf:about="#item_8540">
+        <rdf:value>&lt;p&gt;Times Cited in Web of Science Core Collection:&amp;nbsp;&amp;nbsp;3&lt;br/&gt;Total Times Cited:&amp;nbsp;&amp;nbsp;3&lt;br/&gt;Cited Reference Count:&amp;nbsp;&amp;nbsp;59&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_8541">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/8541/El Ali et al. - 2024 - Transparent AI Disclosure Obligations Who, What, When, Where, Why, How.pdf"/>
+        <dc:title>Versão Submetida</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/pdf/2403.06823</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-12-25 22:42:08</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_8542">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1867-299X"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Migliorini</foaf:surname>
+                        <foaf:givenName>S</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_8543"/>
+        <link:link rdf:resource="#item_8544"/>
+        <dc:subject>Artificial intelligence</dc:subject>
+        <dc:subject>EU AI Act</dc:subject>
+        <dc:subject>generative AI</dc:subject>
+        <dc:subject>foundation models</dc:subject>
+        <dc:subject>regulation of emerging technology</dc:subject>
+        <dc:title>&quot;More than Words&quot;: A Legal Approach to the Risks of Commercial Chatbots Powered by Generative Artificial Intelligence</dc:title>
+        <dcterms:abstract>The recent commercial release of a new generation of chatbot systems, particularly those leveraging Transformer-based large language models (LLMs) such as ChatGPT, has caught the world by surprise and sparked debate about their potential consequences for society. While concerns about the existential threat posed by these technologies are often discussed, it is crucial to shift our focus towards the more immediate risks associated with their deployment. Such risks are further compounded by the lack of proactive measures addressing users' literacy and the for-profit model via which these chatbots are distributed. Drawing on research in computer science and other fields, this paper looks at the immediate risks triggered by these products and reflects on the role of law within a broader policy directed at steering generative artificial intelligence technology towards the common good. It also reviews the relevant amendments proposed by the European Parliament to the European Commission's proposal for an AI Act.</dcterms:abstract>
+        <dc:date>2024 SEP</dc:date>
+        <z:language>English</z:language>
+        <dc:coverage>WOS:001173990200001</dc:coverage>
+        <dc:description>Number: 3</dc:description>
+        <bib:pages>719-736</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1867-299X">
+        <prism:volume>15</prism:volume>
+        <dc:title>EUROPEAN JOURNAL OF RISK REGULATION</dc:title>
+        <dc:identifier>DOI 10.1017/err.2024.4</dc:identifier>
+        <prism:number>3</prism:number>
+        <dc:identifier>ISSN 1867-299X</dc:identifier>
+    </bib:Journal>
+    <bib:Memo rdf:about="#item_8543">
+        <rdf:value>&lt;p&gt;Times Cited in Web of Science Core Collection:&amp;nbsp;&amp;nbsp;2&lt;br/&gt;Total Times Cited:&amp;nbsp;&amp;nbsp;2&lt;br/&gt;Cited Reference Count:&amp;nbsp;&amp;nbsp;79&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_8544">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/8544/Migliorini - 2024 - More than Words A Legal Approach to the Risks of Commercial Chatbots Powered by Generative Artifi.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.cambridge.org/core/services/aop-cambridge-core/content/view/4EB4DD9997211B81283EF7B34299E254/S1867299X24000047a.pdf/div-class-title-more-than-words-a-legal-approach-to-the-risks-of-commercial-chatbots-powered-by-generative-artificial-intelligence-div.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-12-25 22:41:59</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_8551">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1944-2866"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Molitorisz</foaf:surname>
+                        <foaf:givenName>S</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_8552"/>
+        <link:link rdf:resource="#item_8553"/>
+        <dc:subject>AI</dc:subject>
+        <dc:subject>democracy</dc:subject>
+        <dc:subject>algorithms</dc:subject>
+        <dc:subject>regulation</dc:subject>
+        <dc:subject>autonomy</dc:subject>
+        <dc:subject>caveat venditor</dc:subject>
+        <dc:subject>digital platforms</dc:subject>
+        <dc:subject>MEDIA</dc:subject>
+        <dc:subject>news choice overload</dc:subject>
+        <dc:title>A legal cure for news choice overload: Regulating algorithms and AI with 'light patterns' to foster autonomy and democracy</dc:title>
+        <dcterms:abstract>Despite an unprecedented abundance of news content, both news avoidance and dissatisfaction are rising. Blending journalism, philosophy and law scholarship, this paper argues that 'news choice overload' causes paralysis and poor outcomes as it transfers power to algorithms, thereby harming autonomy and, in turn, democracy. An analysis of Australian and European regulatory responses shows the need for an algorithmic regulator and a transparency requirement for digital platforms. Further, people's ability to choose autonomously can be fostered by positive interventions, or 'light patterns', including 'diversity nudges' and a shift from caveat emptor to a caveat venditor approach, in which digital platforms are assigned legal responsibility. Recognising that it is autonomy and democracy-not choice per se-that are valuable, such interventions can shift meaningful decision-making back to citizens at a moment when the rise of generative artificial intelligence is giving algorithms yet more power.</dcterms:abstract>
+        <dc:date>2024 SEP</dc:date>
+        <z:language>English</z:language>
+        <dc:coverage>WOS:001297678900001</dc:coverage>
+        <dc:description>Number: 3</dc:description>
+        <bib:pages>643-660</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1944-2866">
+        <prism:volume>16</prism:volume>
+        <dc:title>POLICY AND INTERNET</dc:title>
+        <dc:identifier>DOI 10.1002/poi3.412</dc:identifier>
+        <prism:number>3</prism:number>
+        <dc:identifier>ISSN 1944-2866</dc:identifier>
+    </bib:Journal>
+    <bib:Memo rdf:about="#item_8552">
+        <rdf:value>&lt;p&gt;Times Cited in Web of Science Core Collection:&amp;nbsp;&amp;nbsp;1&lt;br/&gt;Total Times Cited:&amp;nbsp;&amp;nbsp;1&lt;br/&gt;Cited Reference Count:&amp;nbsp;&amp;nbsp;77&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_8553">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/8553/Molitorisz - 2024 - A legal cure for news choice overload Regulating algorithms and AI with 'light patterns' to foster.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/poi3.412</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-12-26 19:53:35</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_8554">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0969-5958"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Head</foaf:surname>
+                        <foaf:givenName>A</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Willis</foaf:surname>
+                        <foaf:givenName>S</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_8555"/>
+        <link:link rdf:resource="#item_8556"/>
+        <dc:title>Assessing law students in a GenAI world to create knowledgeable future lawyers</dc:title>
+        <dcterms:abstract>Assessing law students has always been a challenging task, but the introduction of Generative Artificial Intelligence (GenAI), such as ChatGPT, compounds the problems already caused by increased student numbers, contract cheating and budget cuts in universities. As GenAI rapidly develops, legal educators must find ways to accommodate, and even incorporate, GenAI into their curricula and assessments so that law graduates can understand its capabilities and limitations within legal practice. Simultaneously, many jurisdictions, including Australia, have legislative obligations to deliver law graduates who satisfy legal knowledge-based &quot;eligibility&quot; requirements for admission into practice. This article introduces a knowledge framework for managing GenAI in legal education consisting of three pillars: Substantive Legal Knowledge, GenAI Ethics Knowledge, and GenAI System Knowledge. The authors argue this framework can assist legal educators in designing optimal assessments in an AI-disrupted world. The article employs the knowledge framework to examine the experiences and views of Australian law students' engagement with GenAI outputs in completing a compulsory legal ethics assessment in 2023. This empirical case study demonstrates that effective assessment design incorporating GenAI can enhance law student and graduate outcomes despite the ongoing challenges for legal educators and the profession associated with GenAI.</dcterms:abstract>
+        <dc:date>2024 SEP 1</dc:date>
+        <z:language>English</z:language>
+        <dc:coverage>WOS:001272888800001</dc:coverage>
+        <dc:description>Number: 3</dc:description>
+        <bib:pages>293-310</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0969-5958">
+        <prism:volume>31</prism:volume>
+        <dc:title>INTERNATIONAL JOURNAL OF THE LEGAL PROFESSION</dc:title>
+        <dc:identifier>DOI 10.1080/09695958.2024.2379785</dc:identifier>
+        <prism:number>3</prism:number>
+        <dc:identifier>ISSN 0969-5958</dc:identifier>
+    </bib:Journal>
+    <bib:Memo rdf:about="#item_8555">
+        <rdf:value>&lt;p&gt;Times Cited in Web of Science Core Collection:&amp;nbsp;&amp;nbsp;1&lt;br/&gt;Total Times Cited:&amp;nbsp;&amp;nbsp;1&lt;br/&gt;Cited Reference Count:&amp;nbsp;&amp;nbsp;47&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_8556">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/8556/Head e Willis - 2024 - Assessing law students in a GenAI world to create knowledgeable future lawyers.pdf"/>
+        <dc:title>Texto Completo</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.tandfonline.com/doi/pdf/10.1080/09695958.2024.2379785?needAccess=true</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-12-25 22:41:56</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_8560">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0924-8463"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Schweitzer</foaf:surname>
+                        <foaf:givenName>S</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Conrads</foaf:surname>
+                        <foaf:givenName>M</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_8561"/>
+        <link:link rdf:resource="#item_8562"/>
+        <dc:subject>Chatbots</dc:subject>
+        <dc:subject>Large language models</dc:subject>
+        <dc:subject>Generative artificial intelligence</dc:subject>
+        <dc:subject>Conversational agents</dc:subject>
+        <dc:subject>Legal information systems</dc:subject>
+        <dc:subject>Performance assessment</dc:subject>
+        <dc:title>The digital transformation of jurisprudence: an evaluation of ChatGPT-4's applicability to solve cases in business law</dc:title>
+        <dcterms:abstract>In the evolving landscape of legal information systems, ChatGPT-4 and other advanced conversational agents (CAs) offer the potential to disruptively transform the law industry. This study evaluates commercially available CAs within the German legal context, thereby assessing the generalizability of previous U.S.-based findings. Employing a unique corpus of 200 distinct legal tasks, ChatGPT-4 was benchmarked against Google Bard, Google Gemini, and its predecessor, ChatGPT-3.5. Human-expert and automated assessments of 4000 CA-generated responses reveal ChatGPT-4 to be the first CA to surpass the threshold of solving realistic legal tasks and passing a German business law exam. While ChatGPT-4 outperforms ChatGPT-3.5, Google Bard, and Google Gemini in both consistency and quality, the results demonstrate a considerable degree of variability, especially in complex cases with no predefined response options. Based on these findings, legal professionals should manually verify all texts produced by CAs before use. Novices must exercise caution with CA-generated legal advice, given the expertise needed for its assessment.</dcterms:abstract>
+        <dc:date>2024 JUL 1</dc:date>
+        <z:language>English</z:language>
+        <dc:coverage>WOS:001259372900001</dc:coverage>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0924-8463">
+        <dc:title>ARTIFICIAL INTELLIGENCE AND LAW</dc:title>
+        <dc:identifier>DOI 10.1007/s10506-024-09406-w</dc:identifier>
+        <dc:identifier>ISSN 0924-8463</dc:identifier>
+    </bib:Journal>
+    <bib:Memo rdf:about="#item_8561">
+        <rdf:value>&lt;p&gt;Times Cited in Web of Science Core Collection:&amp;nbsp;&amp;nbsp;1&lt;br/&gt;Total Times Cited:&amp;nbsp;&amp;nbsp;1&lt;br/&gt;Cited Reference Count:&amp;nbsp;&amp;nbsp;23&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_8562">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/8562/Schweitzer e Conrads - 2024 - The digital transformation of jurisprudence an evaluation of ChatGPT-4's applicability to solve cas.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://link.springer.com/content/pdf/10.1007%2Fs10506-024-09406-w.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-12-25 22:42:11</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.euppublishing.com/doi/10.3366/ijhac.2020.0254">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1753-8548"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Onsrud</foaf:surname>
+                        <foaf:givenName>H</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Campbell</foaf:surname>
+                        <foaf:givenName>J</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_8573"/>
+        <link:link rdf:resource="#item_8574"/>
+        <dc:subject>human rights</dc:subject>
+        <dc:subject>economic inequality</dc:subject>
+        <dc:subject>location privacy</dc:subject>
+        <dc:subject>location-based data</dc:subject>
+        <dc:subject>personal information privacy</dc:subject>
+        <dc:subject>surveillance capitalism</dc:subject>
+        <dc:title>Being Human in an Algorithmically Controlled World</dc:title>
+        <dcterms:abstract>Most people in developed countries, and many in developing countries, interact with Artificial Intelligence (AI) developed algorithms on an almost daily basis, yet very few are aware of those interactions or of their effect upon people's daily lives.(1) Using machine learning, automated reasoning, and other forms of AI, algorithms deployed in information systems take actions according to criteria set up by software developers to maximize profits regardless of the overall effects on the autonomy or welfare of individuals or on society as a whole.(2) Those criteria almost always involve location-based and place-based data. In this paper, we consider effects of those computational tools on individual choice and autonomy and on societal structure from the humanistic perspectives of philosophy and jurisprudence. Specifically, we:
+review contemporaneous literature and quantitative economic evidence on the effects of pervasive tracking and algorithmic controls on individuals and on society in general,
+summarize a range of suggested solutions for lessening the adverse effects, and
+describe and expand upon selected legal solutions from the literature.</dcterms:abstract>
+        <dc:date>2020-03</dc:date>
+        <z:language>English</z:language>
+        <dc:coverage>WOS:000586348400015</dc:coverage>
+        <z:libraryCatalog>euppublishing.com (Atypon)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.euppublishing.com/doi/10.3366/ijhac.2020.0254</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Number: 1-2
+Publisher: Edinburgh University Press</dc:description>
+        <bib:pages>235-252</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1753-8548">
+        <prism:volume>14</prism:volume>
+        <dc:title>International Journal of Humanities and Arts Computing</dc:title>
+        <dc:identifier>DOI 10.3366/ijhac.2020.0254</dc:identifier>
+        <prism:number>1-2</prism:number>
+        <dcterms:alternative>IJHAC</dcterms:alternative>
+        <dc:identifier>ISSN 1753-8548</dc:identifier>
+    </bib:Journal>
+    <bib:Memo rdf:about="#item_8573">
+        <rdf:value>&lt;p&gt;Times Cited in Web of Science Core Collection:&amp;nbsp;&amp;nbsp;3&lt;br/&gt;Total Times Cited:&amp;nbsp;&amp;nbsp;3&lt;br/&gt;Cited Reference Count:&amp;nbsp;&amp;nbsp;31&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_8574">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/8574/Onsrud e Campbell - 2020 - Being Human in an Algorithmically Controlled World.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.euppublishing.com/doi/pdf/10.3366/ijhac.2020.0254</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-12-26 19:59:32</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://search.ebscohost.com/login.aspx?direct=true&amp;AuthType=ip,shib,uid&amp;db=a9h&amp;AN=161152186&amp;lang=pt-pt&amp;site=ehost-live&amp;scope=site">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0040-4411"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Devany</foaf:surname>
+                        <foaf:givenName>BE</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_8603"/>
+        <dcterms:isReferencedBy rdf:resource="#item_8604"/>
+        <link:link rdf:resource="#item_8605"/>
+        <dc:subject>PRIVACY</dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>AMERICAN Civil Liberties Union</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>ARTIFICIAL intelligence</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>DATA protection</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>LINKEDIN Corp.</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>META Platforms Inc.</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Clearview AI's First Amendment: A Dangerous Reality?</dc:title>
+        <dcterms:abstract>On May 9, 2022, Clearview AI and the ACLU settled a two-year long dispute over the Illinois Biometric Information Privacy Act (BIPA), which prohibits companies like Clearview from scraping mass amounts of data from the internet. The ACLU sued Clearview for collecting billions of our personal- but publicly available-photos, a violation not only of BIPA but also of the user agreements of websites like Facebook, LinkedIn, and Twitter. Clearview uses these photos to create the largest known facial recognition database. Clearview's technology, which it licenses to law enforcement agencies across the country, can identify a face in a matter of seconds. As privacy and technology continue to clash, ACLU v. Clearview, Inc. provided an opportunity to address the underlying constitutional tension between the First Amendment and privacy. But since the suit settled, these questions remain unanswered.Clearview claims it has a First Amendment right to scrape data and sell its facial recognition service. Legal scholars have disposed of this argument as &quot;simplistic, &quot; &quot;at odds with long-established First Amendment doctrine, &quot; &quot;far from convincing, &quot; and even &quot;dangerous. &quot; But whether we like it or not, Clearview's claims might not be so far off from current First Amendment jurisprudence, which has recently taken an aggressive and deregulatory turn. This Note explores current First Amendment jurisprudence and Clearview AI's interpretation of the First Amendment, which might be a reality. This Note also addresses the advantages and risks associated with facial recognition technology (FRT). Finally, this Note proposes a template for legislation that can regulate FRT in a way that is consistent with modern notions of privacy and current First Amendment doctrine.</dcterms:abstract>
+        <dc:date>2022-12</dc:date>
+        <z:language>English</z:language>
+        <z:shortTitle>Clearview AI's First Amendment</z:shortTitle>
+        <dc:coverage>WOS:000920401800004</dc:coverage>
+        <z:libraryCatalog>EBSCOhost</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://search.ebscohost.com/login.aspx?direct=true&amp;AuthType=ip,shib,uid&amp;db=a9h&amp;AN=161152186&amp;lang=pt-pt&amp;site=ehost-live&amp;scope=site</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Number: 2
+Publisher: University of Texas at Austin School of Law Publications</dc:description>
+        <bib:pages>473-507</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0040-4411">
+        <prism:volume>101</prism:volume>
+        <dc:title>Texas Law Review</dc:title>
+        <prism:number>2</prism:number>
+        <dc:identifier>ISSN 0040-4411</dc:identifier>
+    </bib:Journal>
+    <bib:Memo rdf:about="#item_8603">
+        <rdf:value>&lt;p&gt;Times Cited in Web of Science Core Collection:&amp;nbsp;&amp;nbsp;0&lt;br/&gt;Total Times Cited:&amp;nbsp;&amp;nbsp;0&lt;br/&gt;Cited Reference Count:&amp;nbsp;&amp;nbsp;114&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_8604">
+        <rdf:value>&lt;p&gt;Times Cited in Web of Science Core Collection:&amp;nbsp;&amp;nbsp;0&lt;br/&gt;Total Times Cited:&amp;nbsp;&amp;nbsp;0&lt;br/&gt;Cited Reference Count:&amp;nbsp;&amp;nbsp;118&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_8605">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/8605/Devany - 2022 - Clearview AI's First Amendment A Dangerous Reality.pdf"/>
+        <dc:title>EBSCO Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://content.ebscohost.com/cds/retrieve?content=AQICAHiylJ_bvOB56hI8UzTN6Ryruh7a0kiIBN_ANwtaWYjmxwHYcz_mU6sI_AetLwPV6CFSAAAA2zCB2AYJKoZIhvcNAQcGoIHKMIHHAgEAMIHBBgkqhkiG9w0BBwEwHgYJYIZIAWUDBAEuMBEEDLqmrnVXo7TyIn2_CAIBEICBk-ymqla2Qz9I1i3_xAMUEbVQ1g-Cf5_1WDz3U5PWhzDbalVKH9WFMeTFnZLHumtU1gFW0dbrNM0ovMlA8IM0kHc0mvdq1GjKEh7hgAfkiRpZKRKK2WcOT9lv4PYkO3OAX4fuhLLsY8GfY9WfOUJufxO57pxj3YoIAm3qQEAkYpZ5ibfyKh_F6nFCtSqGOPxPmIaHyA==</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-01-02 14:02:35</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://doi.org/10.1007/s11196-023-10015-0">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0952-8059"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ferreira</foaf:surname>
+                        <foaf:givenName>DB</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gromova</foaf:surname>
+                        <foaf:givenName>EA</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_8613"/>
+        <link:link rdf:resource="#item_8614"/>
+        <dc:subject>AI</dc:subject>
+        <dc:subject>LAW</dc:subject>
+        <dc:subject>Data analytics</dc:subject>
+        <dc:subject>CONCEPTIONS</dc:subject>
+        <dc:subject>Hyperrealism</dc:subject>
+        <dc:subject>Judge analytics</dc:subject>
+        <dc:subject>JURIMETRICS</dc:subject>
+        <dc:subject>Legal decision making</dc:subject>
+        <dc:subject>Legal realism</dc:subject>
+        <dc:subject>LEGAL REALISM</dc:subject>
+        <dc:title>Hyperrealistic Jurisprudence: The Digital Age and the (Un)Certainty of Judge Analytics</dc:title>
+        <dcterms:abstract>This article is the first attempt to justify the &quot;next&quot; milestone in the development of legal realism: hyperrealism. The implications of digitalization have become the new fuel for the legal realist's jurisprudence prediction theory, that is, empirical research to predict the judge's or the court's decision. Indeed, that was impossible for American realists in the early twentieth century, and all the attempts failed. Therefore, tools such as Judicial Analytics allow us to prove that personal motives and prejudices affect a dispute's resolution. Based on a systemic, comparative, and interdisciplinary analysis that intermingles legal theory, data analytics and digital technologies, the article substantiates the concept of hyperrealism itself. It evaluates the advantages and disadvantages of its primary tool-judicial analytics. The authors state the necessity of creating regulatory mechanisms of &quot;curbing&quot; to use them to improve justice and minimize the risk of rights violations. They propose using tools of expert evaluation, standardization, and ethical regulation of forensic analysis.</dcterms:abstract>
+        <dc:date>2023-12-01</dc:date>
+        <z:language>English</z:language>
+        <z:shortTitle>Hyperrealistic Jurisprudence</z:shortTitle>
+        <dc:coverage>WOS:000992332200001</dc:coverage>
+        <z:libraryCatalog>Springer Link</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.1007/s11196-023-10015-0</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Number: 6</dc:description>
+        <bib:pages>2261-2281</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0952-8059">
+        <prism:volume>36</prism:volume>
+        <dc:title>International Journal for the Semiotics of Law - Revue internationale de Sémiotique juridique</dc:title>
+        <dc:identifier>DOI 10.1007/s11196-023-10015-0</dc:identifier>
+        <prism:number>6</prism:number>
+        <dcterms:alternative>Int J Semiot Law</dcterms:alternative>
+        <dc:identifier>ISSN 0952-8059</dc:identifier>
+    </bib:Journal>
+    <bib:Memo rdf:about="#item_8613">
+        <rdf:value>&lt;p&gt;Times Cited in Web of Science Core Collection:&amp;nbsp;&amp;nbsp;4&lt;br/&gt;Total Times Cited:&amp;nbsp;&amp;nbsp;4&lt;br/&gt;Cited Reference Count:&amp;nbsp;&amp;nbsp;94&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_8614">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/8614/Ferreira e Gromova - 2023 - Hyperrealistic Jurisprudence The Digital Age and the (Un)Certainty of Judge Analytics.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://link.springer.com/content/pdf/10.1007%2Fs11196-023-10015-0.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-01-02 14:36:01</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_8624">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1699-8154"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Romano</foaf:surname>
+                        <foaf:givenName>A</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_8625"/>
+        <link:link rdf:resource="#item_8626"/>
+        <dc:subject>artificial intelligence</dc:subject>
+        <dc:subject>algorithms</dc:subject>
+        <dc:subject>fundamental rights</dc:subject>
+        <dc:subject>international protection</dc:subject>
+        <dc:title>Credibility and law: the role of technology in the evaluation of international protection applications. The German asylum law case</dc:title>
+        <dcterms:abstract>The article examines the introduction of automated systems and artificial intelligence (AI) in determining the credibility of applicants for international protection in Germany. To this end, it focuses on the examina-tion of two instruments, namely the extraction and evaluation of data contained in the electronic devices of asylum seekers, and the linguistic analysis performed by a piece of software capable of establishing the most likely country of origin of the applicant. Addressing German doctrine and jurisprudence, the article may serve the purpose of exploring, from the standpoint of asylum law, the tension between objectivity and efficiency of decisions in the public sector and the protection of fundamental rights.</dcterms:abstract>
+        <dc:date>2023 NOV</dc:date>
+        <z:language>English</z:language>
+        <dc:coverage>WOS:001110825800006</dc:coverage>
+        <dc:description>Number: 39</dc:description>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1699-8154">
+        <dc:title>IDP-INTERNET LAW AND POLITICS</dc:title>
+        <dc:identifier>DOI 10.7238/idp.v0i39.417280</dc:identifier>
+        <prism:number>39</prism:number>
+        <dc:identifier>ISSN 1699-8154</dc:identifier>
+    </bib:Journal>
+    <bib:Memo rdf:about="#item_8625">
+        <rdf:value>&lt;p&gt;Times Cited in Web of Science Core Collection:&amp;nbsp;&amp;nbsp;0&lt;br/&gt;Total Times Cited:&amp;nbsp;&amp;nbsp;0&lt;br/&gt;Cited Reference Count:&amp;nbsp;&amp;nbsp;33&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_8626">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/8626/Romano - 2023 - Credibility and law the role of technology in the evaluation of international protection applicatio.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://raco.cat/index.php/IDP/article/download/n39-romano/515846</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-12-25 22:41:17</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_8642">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1137-3601"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Presuel</foaf:surname>
+                        <foaf:givenName>RC</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_8643"/>
+        <link:link rdf:resource="#item_8644"/>
+        <dc:subject>AI</dc:subject>
+        <dc:subject>Artificial Intelligence</dc:subject>
+        <dc:subject>Generative AI</dc:subject>
+        <dc:subject>authorship</dc:subject>
+        <dc:subject>European copyright</dc:subject>
+        <dc:subject>US copyright</dc:subject>
+        <dc:title>y Europea. Statistical Mimics: Authorship and Generative Artificial Intelligence. A comparative vision between American and European Union Copyright Laws.</dc:title>
+        <dcterms:abstract>This paper addresses the question of whether generative AI can create copyrightable works by making a comparative analysis between European Union law and U.S. copyright law. First, it is argued that for copyright law it does not seem possible for an entity other than a human being to be the copyright holder, thus ruling out the possibility of generative AI being considered a copyright holder. It is established that in US copyright the door it may be possible to register part of a work made using generative AI, and that in the EU this door remains open and pending evolution, although European jurisprudence already gives some guidelines. Afterwards, this paper explores possible infringement of exploitation rights in the different parts of the training process of generative AI models and in the activities that lead to the generation of content that is like intellectual works. It is concluded that in US law there is a gap in knowledge as to whether fair use would cover these types of activities. In European Law, although there are exceptions such as those in Directive 2001/29, it is not at all clear whether this will be sufficient to cover these activities, or whether the authorization of the rights owner will be necessary. If the latter is true and judging by the wave of lawsuits that have followed against companies and institutions that have made generative AI tools publicly available, it is possible that licensing negotiation may take a central role in the AI industry, with the negative consequences that this may bring for the advancement of science and for the public domain.</dcterms:abstract>
+        <dc:date>2024 JUN</dc:date>
+        <z:language>English</z:language>
+        <dc:coverage>WOS:001144086300004</dc:coverage>
+        <dc:description>Number: 73</dc:description>
+        <bib:pages>14-37</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1137-3601">
+        <prism:volume>27</prism:volume>
+        <dc:title>INTELIGENCIA ARTIFICIAL-IBEROAMERICAL JOURNAL OF ARTIFICIAL INTELLIGENCE</dc:title>
+        <dc:identifier>DOI 10.4114/intartif.vol27iss73pp14-37</dc:identifier>
+        <prism:number>73</prism:number>
+        <dc:identifier>ISSN 1137-3601</dc:identifier>
+    </bib:Journal>
+    <bib:Memo rdf:about="#item_8643">
+        <rdf:value>&lt;p&gt;Times Cited in Web of Science Core Collection:&amp;nbsp;&amp;nbsp;1&lt;br/&gt;Total Times Cited:&amp;nbsp;&amp;nbsp;1&lt;br/&gt;Cited Reference Count:&amp;nbsp;&amp;nbsp;121&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_8644">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/8644/Presuel - 2024 - y Europea. Statistical Mimics Authorship and Generative Artificial Intelligence. A comparative visi.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://journal.iberamia.org/index.php/intartif/article/download/1290/208</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-12-25 22:42:08</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_8645">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1246-0125"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhou</foaf:surname>
+                        <foaf:givenName>SL</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_8646"/>
+        <link:link rdf:resource="#item_8647"/>
+        <dc:subject>DECISION-MAKING</dc:subject>
+        <dc:subject>ARTIFICIAL-INTELLIGENCE</dc:subject>
+        <dc:subject>BIG DATA</dc:subject>
+        <dc:subject>LAW</dc:subject>
+        <dc:subject>LEGAL</dc:subject>
+        <dc:subject>legal decision making</dc:subject>
+        <dc:subject>generative AI</dc:subject>
+        <dc:subject>ETHICS</dc:subject>
+        <dc:subject>AI-generated judgment</dc:subject>
+        <dc:subject>CONSCIOUSNESS</dc:subject>
+        <dc:subject>justified belief</dc:subject>
+        <dc:subject>RISKS</dc:subject>
+        <dc:subject>virtue jurisprudence</dc:subject>
+        <dc:title>Analyzing the justification for using generative AI technology to generate judgments based on the virtue jurisprudence theory</dc:title>
+        <dcterms:abstract>This paper responds to the question of whether judgements generated by judges using ChatGPT can be directly adopted. It posits that it is unjust for judges to rely on and directly adopt ChatGPT-generated judgements based on virtue jurisprudence theory. This paper innovatively applies case-based empirical analysis and is the first to use virtue jurisprudence approach to analyse the question and support its argument. The first section reveals the use of generative AI-based tools in judicial practice and the existence of erroneous judgements generated by ChatGPT through empirical research. The second section contends that generative AI, while mimicking virtuous behaviour, cannot produce justified beliefs according to virtue jurisprudence theory. Moreover, using AI as a decision-making entity could undermine the protection of human rights and interests. The paper concludes by suggesting normative and technical approaches for how judges should use generative AI-based tools to develop their virtues.</dcterms:abstract>
+        <dc:date>2024 DEC 7</dc:date>
+        <z:language>English</z:language>
+        <dc:coverage>WOS:001371237000001</dc:coverage>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1246-0125">
+        <dc:title>JOURNAL OF DECISION SYSTEMS</dc:title>
+        <dc:identifier>DOI 10.1080/12460125.2024.2428999</dc:identifier>
+        <dc:identifier>ISSN 1246-0125</dc:identifier>
+    </bib:Journal>
+    <bib:Memo rdf:about="#item_8646">
+        <rdf:value>&lt;p&gt;Times Cited in Web of Science Core Collection:&amp;nbsp;&amp;nbsp;0&lt;br/&gt;Total Times Cited:&amp;nbsp;&amp;nbsp;0&lt;br/&gt;Cited Reference Count:&amp;nbsp;&amp;nbsp;114&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_8647">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/8647/Zhou - 2024 - Analyzing the justification for using generative AI technology to generate judgments based on the vi.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.tandfonline.com/doi/pdf/10.1080/12460125.2024.2428999</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-12-26 19:55:52</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_8660">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1557-2625"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Liaw</foaf:surname>
+                        <foaf:givenName>W</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bakos-Block</foaf:surname>
+                        <foaf:givenName>C</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Northrup</foaf:surname>
+                        <foaf:givenName>TF</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Stotts</foaf:surname>
+                        <foaf:givenName>AL</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hernandez</foaf:surname>
+                        <foaf:givenName>A</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Finzetto</foaf:surname>
+                        <foaf:givenName>L</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Oloyede</foaf:surname>
+                        <foaf:givenName>P</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rodriguez</foaf:surname>
+                        <foaf:givenName>BM</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Johnson</foaf:surname>
+                        <foaf:givenName>S</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gilbert</foaf:surname>
+                        <foaf:givenName>L</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dobbins</foaf:surname>
+                        <foaf:givenName>J</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Woodard</foaf:surname>
+                        <foaf:givenName>L</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Murphy</foaf:surname>
+                        <foaf:givenName>T</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_8661"/>
+        <link:link rdf:resource="#item_8662"/>
+        <dc:subject>HEALTH-CARE</dc:subject>
+        <dc:subject>Trust</dc:subject>
+        <dc:subject>Jurisprudence</dc:subject>
+        <dc:subject>Social Determinants of Health</dc:subject>
+        <dc:subject>Communication</dc:subject>
+        <dc:subject>Medical-Legal Partnership</dc:subject>
+        <dc:subject>Primary Health Care</dc:subject>
+        <dc:subject>Qualitative Research</dc:subject>
+        <dc:subject>Social Factors</dc:subject>
+        <dc:subject>Social Problems</dc:subject>
+        <dc:subject>RISK SCREENING ACCEPTABILITY</dc:subject>
+        <dc:title>A Qualitative Analysis of a Primary Care Medical-Legal Partnership: Impact, Barriers, and Facilitators</dc:title>
+        <dcterms:abstract>Background: Certain health-related risk factors require legal interventions. Medical-legal partnerships (MLPs) are collaborations between clinics and lawyers that address these health-harming legal needs (HHLNs) and have been shown to improve health and reduce utilization. Objective: The objective of this study is to explore the impact, barriers, and facilitators of MLP implementation in primary care clinics. Methods: A qualitative design using a semistructured interview assessed the perceived impact, barriers, and facilitators of an MLP, among clinicians, clinic and MLP staff, and clinic patients. Open AI software (otter.ai) was used to transcribe interviews, and NVivo was used to code the data. Braun &amp; Clarke's framework was used to identify themes and subthemes. Results: Sixteen (n 1 / 4 16) participants were included in this study. Most respondents were women (81%) and white (56%). Four respondents were clinic staff, and 4 were MLP staff while 8 were clinic patients. Several primary themes emerged including: Patients experienced legal issues that were pernicious, pervasive, and complex; through trusting relationships, the MLP was able to improve health and resolve legal issues, for some; mistrust, communication gaps, and inconsistent staffing limited the impact of the MLP; and, the MLP identified coordination and communication strategies to enhance trust and amplify its impact. Conclusion: HHLNs can have a significant, negative impact on the physical and mental health of patients. Respondents perceived that MLPs improved health and resolved these needs, for some. Despite perceived successes, integration between the clinical and legal organizations was elusive. ( J Am Board Fam Med 2024;37:637-649.)</dcterms:abstract>
+        <dc:date>2024 JUL</dc:date>
+        <z:language>English</z:language>
+        <dc:coverage>WOS:001343574700007</dc:coverage>
+        <dc:description>Number: 4</dc:description>
+        <bib:pages>637-649</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1557-2625">
+        <prism:volume>37</prism:volume>
+        <dc:title>JOURNAL OF THE AMERICAN BOARD OF FAMILY MEDICINE</dc:title>
+        <dc:identifier>DOI 10.3122/jabfm.2023.230328R2</dc:identifier>
+        <prism:number>4</prism:number>
+        <dc:identifier>ISSN 1557-2625</dc:identifier>
+    </bib:Journal>
+    <bib:Memo rdf:about="#item_8661">
+        <rdf:value>&lt;p&gt;Times Cited in Web of Science Core Collection:&amp;nbsp;&amp;nbsp;0&lt;br/&gt;Total Times Cited:&amp;nbsp;&amp;nbsp;0&lt;br/&gt;Cited Reference Count:&amp;nbsp;&amp;nbsp;23&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_8662">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/8662/Liaw et al. - 2024 - A Qualitative Analysis of a Primary Care Medical-Legal Partnership Impact, Barriers, and Facilitato.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.jabfm.org/content/jabfp/37/4/637.full.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-12-25 22:40:50</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85160301832&amp;doi=10.1007%2fs12647-023-00664-8&amp;partnerID=40&amp;md5=df4473ec34193ed607339369d2233474">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:09703950%20(ISSN)"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chourasia</foaf:surname>
+                        <foaf:givenName>S.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pandey</foaf:surname>
+                        <foaf:givenName>S.M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Keshri</foaf:surname>
+                        <foaf:givenName>A.K.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_8505"/>
+        <dcterms:isReferencedBy rdf:resource="#item_8941"/>
+        <dcterms:isReferencedBy rdf:resource="#item_8637"/>
+        <link:link rdf:resource="#item_8942"/>
+        <dc:subject>AI</dc:subject>
+        <dc:subject>Legal system</dc:subject>
+        <dc:subject>Machine learning (ML)</dc:subject>
+        <dc:subject>Frame work</dc:subject>
+        <dc:subject>I.6.0 (Industry 6)</dc:subject>
+        <dc:subject>Industrial revolution (IR)</dc:subject>
+        <dc:subject>Legal informative</dc:subject>
+        <dc:subject>Legal metrology</dc:subject>
+        <dc:subject>Metrology</dc:subject>
+        <dc:subject>Quantum computing</dc:subject>
+        <dc:subject>Robot judges</dc:subject>
+        <dc:subject>Robot lawyer</dc:subject>
+        <dc:subject>0 (Industry 6)</dc:subject>
+        <dc:subject>6</dc:subject>
+        <dc:subject>CLOUD</dc:subject>
+        <dc:subject>I</dc:subject>
+        <dc:title>Prospects and Challenges with Legal Informatics and Legal Metrology Framework in the Context of Industry 6.0</dc:title>
+        <dcterms:abstract>Industry 6.0 is viewed as a futuristic industrial evolution. It aims to set the synergy between man and robot by providing the wealth affluence away from the trade, and customers solutions that would provide progress to the world in every field across all planetary boundaries. Industry 6.0 comprises numerous promising technology such as quantum computing, artificial intelligence, machine learning, cloud computing, and quantum artificial computing. These technologies have the massive capabilities to help the legal industry, metrology industry and many other organizations attain their goals by delivering excellent and best-suited insights. In the future, these technologies will assist the lawmaker and jurisprudence in improving the old law justice system into the advanced one. In this article, we first introduce a glimpse of industry 6.0 from the outlook of legal information, digital transformation in metrology, and strength, limitation, opportunities, and threat analysis in brief. Then we discuss key technologies of industry 6.0, framework of legal informative, a futuristic model for a legal informatics system based on quantum-based AI, machine learning, and digital legal metrology and its challenges in adoption in regard’s Industry 6.0. In subsequent sections, we discussed requirements, challenges, and progress in developed countries, preparedness of academia and industry in India. Then, we brief challenges for legal metrology in the future, opportunities for legal metrology in future legal challenges faced by lawyers and legal metrology, limitations of the study, research implication, and conclusion. Finally, the finding shows that industry 6.0 technologies have enormous capabilities to bring a revolutionary change in the legal industry but are present in the new born growth stage. © 2023, Metrology Society of India.</dcterms:abstract>
+        <dc:date>2023</dc:date>
+        <z:language>English</z:language>
+        <z:archive>Scopus</z:archive>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.scopus.com/inward/record.uri?eid=2-s2.0-85160301832&amp;doi=10.1007%2fs12647-023-00664-8&amp;partnerID=40&amp;md5=df4473ec34193ed607339369d2233474</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Number: 4
+Publisher: Springer</dc:description>
+        <bib:pages>1027-1052</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:09703950%20(ISSN)">
+        <prism:volume>38</prism:volume>
+        <dc:title>Mapan - Journal of Metrology Society of India</dc:title>
+        <dc:identifier>DOI 10.1007/s12647-023-00664-8</dc:identifier>
+        <prism:number>4</prism:number>
+        <dcterms:alternative>Mapan J. Metrol. Soc. Ind.</dcterms:alternative>
+        <dc:identifier>ISSN 09703950 (ISSN)</dc:identifier>
+    </bib:Journal>
+    <bib:Memo rdf:about="#item_8505">
+        <rdf:value>&lt;p&gt;Export Date: 18 December 2024; Cited By: 3; Correspondence Address: S.M. Pandey; Department of Mechanical Engineering, National Institute of Technology, Patna, India; email: smp.me@nitp.ac.in&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_8941">
+        <rdf:value>&lt;p&gt;Export Date: 18 December 2024; Cited By: 3; Correspondence Address: S.M. Pandey; Department of Mechanical Engineering, National Institute of Technology, Patna, India; email: smp.me@nitp.ac.in&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_8637">
+        <rdf:value>&lt;p&gt;Times Cited in Web of Science Core Collection:&amp;nbsp;&amp;nbsp;0&lt;br/&gt;Total Times Cited:&amp;nbsp;&amp;nbsp;0&lt;br/&gt;Cited Reference Count:&amp;nbsp;&amp;nbsp;107&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_8942">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/8942/Chourasia et al. - 2023 - Prospects and Challenges with Legal Informatics and Legal Metrology Framework in the Context of Indu.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://link.springer.com/content/pdf/10.1007%2Fs12647-023-00664-8.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-01-02 20:02:57</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+</rdf:RDF>
