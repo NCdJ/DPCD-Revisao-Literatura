@@ -1,58 +1,0 @@
-﻿TY  - CPAPER
-AU  - Stodden, R
-AU  - Momen, O
-AU  - Kallmeyer, L
-ED  - Rogers, A
-ED  - Boyd-Graber, J
-ED  - Okazaki, N
-TI  - DEPLAIN: A German Parallel Corpus with Intralingual Translations into Plain Language for Sentence and Document Simplification
-T2  - PROCEEDINGS OF THE 61ST ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2023): LONG PAPERS, VOL 1
-LA  - English
-CP  - 61st Annual Meeting of the the Association-for-Computational-Linguistics (ACL)
-AB  - Text simplification is an intralingual translation task in which documents, or sentences of a complex source text are simplified for a target audience. The success of automatic text simplification systems is highly dependent on the quality of parallel data used for training and evaluation. To advance sentence simplification and document simplification in German, this paper presents DEPLAIN, a new dataset of parallel, professionally written and manually aligned simplifications in plain German ("plain DE" or in German: 'Einfache Sprache"). DEPLAIN consists of a newsdomain (approx. 500 document pairs, approx. 13k sentence pairs) and a web-domain corpus (approx. 150 aligned documents, approx. 2k aligned sentence pairs). In addition, we are building a web harvester and experimenting with automatic alignment methods to facilitate the integration of non-aligned and to be published parallel documents. Using this approach, we are dynamically increasing the webdomain corpus, so it is currently extended to approx. 750 document pairs and approx. 3.5k aligned sentence pairs. We show that using DEPLAIN to train a transformer-based seq2seq text simplification model can achieve promising results. We make available the corpus, the adapted alignment methods for German, the web harvester and the trained models here: https://github.com/rstodden/DEPlain.
-AD  - Heinrich Heine Univ, Dusseldorf, GermanyC3  - Heinrich Heine University DusseldorfFU  - Austria Presse Agentur (Austrian Press Agency, APA); North Rhine-Westphalian (German)
-FX  - We gratefully acknowledge the support of the Austria Presse Agentur (Austrian Press Agency, APA) for providing us with the news documents and Maya Kruse for her work on annotating the corpus. We further thank NVIDIA for the access to GPUs. This research is part of the PhD-program "Online Participation", supported by the North Rhine-Westphalian (German) funding scheme "Forschungskolleg".
-PU  - ASSOC COMPUTATIONAL LINGUISTICS-ACL
-PI  - STROUDSBURG
-PA  - 209 N EIGHTH STREET, STROUDSBURG, PA 18360 USA
-SN  - 978-1-959429-72-2
-PY  - 2023
-SP  - 16441
-EP  - 16463
-WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:001190962508013
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  65
-ER  -
-
-TY  - CPAPER
-AU  - Zhong, Y
-AU  - Jiang, C
-AU  - Xu, W
-AU  - Li, JYJ
-A1  - Assoc Advancement Artificial Intelligence
-TI  - Discourse Level Factors for Sentence Deletion in Text Simplification
-T2  - THIRTY-FOURTH AAAI CONFERENCE ON ARTIFICIAL INTELLIGENCE, THE THIRTY-SECOND INNOVATIVE APPLICATIONS OF ARTIFICIAL INTELLIGENCE CONFERENCE AND THE TENTH AAAI SYMPOSIUM ON EDUCATIONAL ADVANCES IN ARTIFICIAL INTELLIGENCE
-LA  - English
-CP  - 34th AAAI Conference on Artificial Intelligence / 32nd Innovative Applications of Artificial Intelligence Conference / 10th AAAI Symposium on Educational Advances in Artificial Intelligence
-KW  - CORPUS
-AB  - This paper presents a data-driven study focusing on analyzing and predicting sentence deletion-a prevalent but understudied phenomenon in document simplification-on a large English text simplification corpus. We inspect various document and discourse factors associated with sentence deletion, using a new manually annotated sentence alignment corpus we collected. We reveal that professional editors utilize different strategies to meet readability standards of elementary and middle schools. To predict whether a sentence will be deleted during simplification to a certain level, we harness automatically aligned data to train a classification model. Evaluated on our manually annotated data, our best models reached F1 scores of 65.2 and 59.7 for this task at the levels of elementary and middle school, respectively. We find that discourse level factors contribute to the challenging task of predicting sentence deletion for simplification.
-AD  - Ohio State Univ, Dept Comp Sci & Engn, Columbus, OH 43210 USAAD  - Univ Texas Austin, Dept Linguist, Austin, TX 78712 USAAD  - UT Austin, Austin, TX USAC3  - University System of OhioC3  - Ohio State UniversityC3  - University of Texas SystemC3  - University of Texas AustinC3  - University of Texas SystemC3  - University of Texas AustinFU  - NSF [IIS-1822754, IIS-1850153]; Figure-Eight AI for Everyone Award; Criteo Faculty Research Award
-FX  - We thank NVIDIA and Texas Advanced Computing Center at UT Austin for providing GPU computing resources, the anonymous reviewers and Mounica Maddela for their valuable comments. We also thank Sarah Flanagan, Bohan Zhang, Raleigh Potluri, and Alex Wing for their help with data annotation. This research was partly supported by the NSF under grants IIS-1822754, IIS-1850153, a FigureEight AI for Everyone Award and a Criteo Faculty Research Award to Wei Xu. The views and conclusions contained in this publication are those of the authors and should not be interpreted as representing official policies or endorsements of the U.S. Government.
-PU  - ASSOC ADVANCEMENT ARTIFICIAL INTELLIGENCE
-PI  - PALO ALTO
-PA  - 2275 E BAYSHORE RD, STE 160, PALO ALTO, CA 94303 USA
-SN  - 2159-5399
-SN  - 2374-3468
-SN  - 978-1-57735-835-0
-J9  - AAAI CONF ARTIF INTE
-PY  - 2020
-VL  - 34
-SP  - 9709
-EP  - 9716
-WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000668126802020
-N1  - Times Cited in Web of Science Core Collection:  14
-Total Times Cited:  17
-Cited Reference Count:  49
-ER  -
-

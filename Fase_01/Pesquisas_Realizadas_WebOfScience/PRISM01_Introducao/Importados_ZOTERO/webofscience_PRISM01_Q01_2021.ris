@@ -1,391 +1,0 @@
-﻿TY  - JOUR
-AU  - Niu, HF
-AU  - Silva, EA
-TI  - Delineating urban functional use from points of interest data with neural network embedding: A case study in Greater London
-T2  - COMPUTERS ENVIRONMENT AND URBAN SYSTEMS
-LA  - English
-KW  - Urban functional use
-KW  - Points of interest
-KW  - Neural network embedding
-KW  - Doc2Vec
-KW  - LAND-USE
-KW  - ZIPFS LAW
-KW  - CITIES
-KW  - ZONES
-KW  - AREAS
-AB  - Delineating urban functional use plays a key role in understanding urban dynamics, evaluating planning strategies and supporting policymaking. In recent years, Points of Interest (POI) data, with precise geolocation and detailed attributes, have become the primary data source for exploring urban functional use from a bottom-up perspective, using local, highly disaggregated, big datasets. Previous studies using POI data have given insufficient consideration to the relationship among POI classes in the spatial context, and have failed to provide a straightforward means by which to classify urban functional areas. This study proposes an approach for delineating urban functional use at the scale of the Lower Layer Super Output Area (LSOA) in Greater London by integrating the Doc2Vec model, a neural network embedding method commonly used in natural language processing for vectoring words and documents from their context. In this study, the neural network vectorises both POI classes ('Word') and urban areas ('Document') based on their functional context by learning features from the spatial distribution of POIs in the city. Specifically, we first construct POI sequences based on the distribution of POI classes, and add their LSOA IDs as 'document' tags. By utilising these constructed POI-LSOA sequences, the Doc2Vec model trains the vectors of 574 POI classes (word vectors) and 4836 LSOAs (document vectors). The vectors of POI classes are then used in calculating the functional similarity scores based on their cosine distance, with the vectors of LSOAs grouped into clusters (i.e., functional areas) via the k-means clustering algorithm. We also identify latent functions in each cluster of LSOAs by performing topic modelling and enrichment factor. Compared with TF-IDF, LDA and Word2Vec models, the Doc2Vec model obtains the highest accuracy when classifying functional areas. This study proposes a straightforward approach in which the model directly trains vectors for urban areas, subsequently using them to classify urban functional areas. By employing the enhanced neural network model with low-cost and ubiquitous POI datasets, this study provides a potential tool with which to monitor urban dynamics in a timely and adaptive manner, thereby providing enhanced, datadriven support to urban planning, development and management.
-AD  - Univ Cambridge, Dept Land Econ, Lab Interdisciplinary Spatial Anal, Cambridge, EnglandC3  - University of CambridgeFU  - China Scholarship Council (CSC) [201808060346]
-FX  - The authors express thanks for the Ordnance Survey, Great Britain for the data used in this work. This research is supported by a scholarship from the China Scholarship Council (CSC No. 201808060346). We thank the anonymous reviewers for their many insightful comments and suggestions.
-PU  - ELSEVIER SCI LTD
-PI  - OXFORD
-PA  - THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
-SN  - 0198-9715
-SN  - 1873-7587
-J9  - COMPUT ENVIRON URBAN
-JI  - Comput. Environ. Urban Syst.
-DA  - JUL
-PY  - 2021
-VL  - 88
-C7  - 101651
-DO  - 10.1016/j.compenvurbsys.2021.101651
-C6  - MAY 2021
-WE  - Social Science Citation Index (SSCI)AN  - WOS:000661278600017
-N1  - Times Cited in Web of Science Core Collection:  57
-Total Times Cited:  58
-Cited Reference Count:  48
-ER  -
-
-TY  - JOUR
-AU  - Wang, XZ
-AU  - Kou, LY
-AU  - Sugumaran, V
-AU  - Luo, XF
-AU  - Zhang, H
-TI  - Emotion Correlation Mining Through Deep Learning Models on Natural Language Text
-T2  - IEEE TRANSACTIONS ON CYBERNETICS
-LA  - English
-KW  - Correlation
-KW  - Emotion recognition
-KW  - Social networking (online)
-KW  - Task analysis
-KW  - Brain modeling
-KW  - Deep learning
-KW  - Feature extraction
-KW  - Affective computing
-KW  - deep neural networks
-KW  - emotion correlation mining
-KW  - emotion recognition
-KW  - natural language processing (NLP)
-KW  - SENTIMENT
-AB  - Emotion analysis has been attracting researchers' attention. Most previous works in the artificial-intelligence field focus on recognizing emotion rather than mining the reason why emotions are not or wrongly recognized. The correlation among emotions contributes to the failure of emotion recognition. In this article, we try to fill the gap between emotion recognition and emotion correlation mining through natural language text from Web news. The correlation among emotions, expressed as the confusion and evolution of emotion, is primarily caused by human emotion cognitive bias. To mine emotion correlation from emotion recognition through text, three kinds of features and two deep neural-network models are presented. The emotion confusion law is extracted through an orthogonal basis. The emotion evolution law is evaluated from three perspectives: one-step shift, limited-step shifts, and shortest path transfer. The method is validated using three datasets: 1) the titles; 2) the bodies; and 3) the comments of news articles, covering both objective and subjective texts in varying lengths (long and short). The experimental results show that in subjective comments, emotions are easily mistaken as anger. Comments tend to arouse emotion circulations of love-anger and sadness-anger. In objective news, it is easy to recognize text emotion as love and cause fear-joy circulation. These findings could provide insights for applications regarding affective interaction, such as network public sentiment, social media communication, and human-computer interaction.
-AD  - Shanghai Univ, Sch Comp Engn & Sci, Shanghai 200444, Peoples R ChinaAD  - Shanghai Univ, Shanghai Inst Adv Commun & Data Sci, Shanghai 200444, Peoples R ChinaAD  - Tsinghua Univ, Inst Publ Safety Res, Dept Engn, Beijing 100084, Peoples R ChinaAD  - Tsinghua Univ, Beijing Key Lab City Integrated Emergency Respons, Beijing 100084, Peoples R ChinaAD  - Oakland Univ, Dept Decis & Informat Sci, Rochester, MI 48309 USAAD  - Oakland Univ, Ctr Data Sci & Big Data Analyt, Rochester, MI 48309 USAC3  - Shanghai UniversityC3  - Shanghai UniversityC3  - Tsinghua UniversityC3  - Tsinghua UniversityC3  - Oakland UniversityC3  - Oakland UniversityFU  - National Key Research and Development Program of China [2017YFC0803300]; National Science Foundation of China [91646201, U1633203, 91746203]; High-Tech Discipline Construction Fundings for Universities in Beijing; Beijing Key Laboratory of City Integrated Emergency Response Science
-FX  - This work was supported in part by the National Key Research and Development Program of China under Grant 2017YFC0803300, in part by the National Science Foundation of China under Grant 91646201, Grant U1633203, and Grant 91746203, in part by the HighTech Discipline Construction Fundings for Universities in Beijing (Safety Science and Engineering), and in part by the Beijing Key Laboratory of City Integrated Emergency Response Science.
-PU  - IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
-PI  - PISCATAWAY
-PA  - 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
-SN  - 2168-2267
-SN  - 2168-2275
-J9  - IEEE T CYBERNETICS
-JI  - IEEE T. Cybern.
-DA  - SEP
-PY  - 2021
-VL  - 51
-IS  - 9
-SP  - 4400
-EP  - 4413
-DO  - 10.1109/TCYB.2020.2987064
-WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:000696078900009
-N1  - Times Cited in Web of Science Core Collection:  44
-Total Times Cited:  44
-Cited Reference Count:  66
-ER  -
-
-TY  - JOUR
-AU  - ul Hassan, F
-AU  - Le, TY
-AU  - Lv, X
-TI  - Addressing Legal and Contractual Matters in Construction Using Natural Language Processing: A Critical Review
-T2  - JOURNAL OF CONSTRUCTION ENGINEERING AND MANAGEMENT
-LA  - English
-KW  - Legal issues
-KW  - Disputes
-KW  - Artificial intelligence
-KW  - Natural language processing (NLP)
-KW  - Contracts
-KW  - Project requirements
-KW  - Litigation
-KW  - Claims
-KW  - Linguistics
-KW  - DISPUTE RESOLUTION
-KW  - TEXT
-KW  - CLASSIFICATION
-KW  - PERFORMANCE
-KW  - MANAGEMENT
-KW  - SYSTEM
-KW  - LITIGATION
-KW  - PROJECTS
-KW  - INDUSTRY
-KW  - WORKING
-AB  - Claims, disputes, and litigations are major legal issues in construction projects, which often result in cost overruns, delays, and adverse working relationships among the contracting parties. Recent advances in natural language processing (NLP) techniques offer great potentials that can process voluminous unstructured data from legal documents to draw insightful information about the root causes of issues and prevention strategies. Several efforts have been undertaken in the last decades that used NLP to tackle a wide range of problems related to legal issues in construction such as the quality review of contracts and the identification of common patterns in legal cases. The research line on NLP-based techniques for analyzing legal texts of construction projects has progressed well recently; it, however, is still in the early stage. This paper aims to perform a critical review of recently published articles to analyze the achievements and limitations of the state of the art on NLP-based approaches to address common legal issues associated with legal documents arising across different project stages. The study also provides a roadmap for future research to expand the adoption of NLP for the processing of legal texts in construction.
-AD  - Clemson Univ, Dept Civil Engn, Clemson, SC 29634 USAAD  - Florida Int Univ, Moss Sch Construct Infrastruct & Sustainabil, Miami, FL 33174 USAC3  - Clemson UniversityC3  - State University System of FloridaC3  - Florida International UniversityPU  - ASCE-AMER SOC CIVIL ENGINEERS
-PI  - RESTON
-PA  - 1801 ALEXANDER BELL DR, RESTON, VA 20191-4400 USA
-SN  - 0733-9364
-SN  - 1943-7862
-J9  - J CONSTR ENG M
-JI  - J. Constr. Eng. Manage.
-DA  - SEP 1
-PY  - 2021
-VL  - 147
-IS  - 9
-C7  - 03121004
-DO  - 10.1061/(ASCE)CO.1943-7862.0002122
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000683874400004
-N1  - Times Cited in Web of Science Core Collection:  36
-Total Times Cited:  37
-Cited Reference Count:  122
-ER  -
-
-TY  - JOUR
-AU  - Ma, Q
-AU  - Sun, C
-AU  - Cui, BJ
-AU  - Jin, XH
-TI  - A novel model for anomaly detection in network traffic based on kernel support vector machine
-T2  - COMPUTERS & SECURITY
-LA  - English
-KW  - Anomaly detection in network traffic
-KW  - Data transformation
-KW  - Linear discriminant analysis
-KW  - Hyper-parameter adjustment
-KW  - Kernel support vector machine
-AB  - Machine learning models are widely used for anomaly detection in network traffic. Effective transformation of the raw traffic data into mathematical expressions and hyper-parameter adjustment are two important steps before training the machine learning classifier, which is used to predict whether the unknown traffic is normal or abnormal. In this paper, a novel model SVM-L is proposed for anomaly detection in network traffic. In particular, raw URLs are treated as natural language, and then transformed into mathematical vectors via statistical laws and natural language processing technique. They are used as the training data for the traffic classifier, the kernel Support Vector Machine (SVM). Based on the idea of the dual formulation of kernel SVM and Linear Discriminant Analysis (LDA), we propose an optimization model to adjust the hyper-parameter of the classifier. The corresponding problem is simply one-dimensional, and is easily solved by the golden section method. Numerical tests indicate that the proposed model achieves more than 99% accuracy on all tested datasets, and outperforms the state of the arts in terms of standard evaluation measurements. (C) 2021 Elsevier Ltd. All rights reserved.
-AD  - Beijing Univ Posts & Telecommun, Sch Cyberspace Secur, Beijing, Peoples R ChinaAD  - Beijing Univ Posts & Telecommun, Sch Sci, Beijing, Peoples R ChinaAD  - Natl Engn Lab Mobile Network Technol, Beijing, Peoples R ChinaC3  - Beijing University of Posts & TelecommunicationsC3  - Beijing University of Posts & TelecommunicationsFU  - National Natural Science Foundation of China (NSFC) [61941114, 11771056, 11871115]
-FX  - This work is supported by the National Natural Science Foundation of China (NSFC) No. 61941114, 11771056 and 11871115.
-PU  - ELSEVIER ADVANCED TECHNOLOGY
-PI  - OXFORD
-PA  - OXFORD FULFILLMENT CENTRE THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
-SN  - 0167-4048
-SN  - 1872-6208
-J9  - COMPUT SECUR
-JI  - Comput. Secur.
-DA  - MAY
-PY  - 2021
-VL  - 104
-C7  - 102215
-DO  - 10.1016/j.cose.2021.102215
-C6  - FEB 2021
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000655372600008
-N1  - Times Cited in Web of Science Core Collection:  34
-Total Times Cited:  35
-Cited Reference Count:  34
-ER  -
-
-TY  - JOUR
-AU  - Davidson, JE
-AU  - Ye, G
-AU  - Parra, MC
-AU  - Choflet, A
-AU  - Lee, K
-AU  - Barnes, A
-AU  - Harkavy-Friedman, J
-AU  - Zisook, S
-TI  - Job-Related Problems Prior to Nurse Suicide, 2003-2017: A Mixed Methods Analysis Using Natural Language Processing and Thematic Analysis
-T2  - JOURNAL OF NURSING REGULATION
-LA  - English
-KW  - Substance-related disorder
-KW  - suicide
-KW  - nursing
-KW  - licensure
-KW  - patient safety
-KW  - healthy workforce
-KW  - SUBSTANCE USE DISORDERS
-KW  - QUALITATIVE RESEARCH
-KW  - RISK
-KW  - HEALTH
-KW  - PREVALENCE
-KW  - PROGRAMS
-KW  - DOCTORS
-KW  - PROFESSIONALS
-KW  - POPULATION
-KW  - PHYSICIANS
-AB  - Background: Nurses have a higher rate of suicide than the gender-matched general population at baseline. Quantitative data from the Centers for Disease Control and Prevention National Violent Death Reporting System have been previously analyzed to reveal that nurses have more known job-related issues prior to death by suicide. However, no known study has focused on the context of those job-related problems prior to nurse suicide. Purpose: The aim of this study was to provide context to job-related problems experienced before nurse death by suicide. Methods: Cases were selected either because they were coded as having a job-related problem prior to death or the words "job" or "work" appeared in the case investigation narrative. Natural language processing and thematic analysis of free-text medical examiner and law enforcement investigation narratives were performed to better describe nurse deaths by suicide in cases with known job-related problems prior to death. Results: Narratives from a total of 203 nurse deaths from between 2003 and 2017 were included in this study. Very little was reported regarding the actual work of being a nurse. Job-related problems of these 203 deaths focused on substance use, mental health problems, chronic pain, or job loss due to investigations for substance use or diversion of medication. Conclusion: Nurses who lose a nursing position or leave the profession because of substance use, mental health issues, or chronic pain are at risk for nurse suicide. Alternative-to-discipline programs for nurses with substance use disorder need to be improved and standardized. Earlier or more complete treatment for mental illness may help prevent suicide in this population.
-AD  - Univ Calif San Diego Hlth, San Diego, CA 92103 USAAD  - Univ Calif San Diego Hlth, Dept Psychiat, Sch Med, San Diego, CA 92103 USAAD  - Univ Calif San Diego, Sch Med, Dept Psychiat, La Jolla, CA 92093 USAAD  - Azusa Calif Pacific Univ, Sch Nursing, Azusa, CA USAAD  - San Diego State Univ, Sch Nursing, San Diego, CA 92182 USAAD  - Univ Calif San Diego, Skaggs Sch Pharm, La Jolla, CA 92093 USAAD  - Johns Hopkins Sch Nursing, Baltimore, MD USAAD  - Mission Hosp Mission Viejo, Mission Viejo, CA USAAD  - Amer Fdn Suicide Prevent, New York, NY USAC3  - University of California SystemC3  - University of California San DiegoC3  - University of California SystemC3  - University of California San DiegoC3  - University of California SystemC3  - University of California San DiegoC3  - California State University SystemC3  - San Diego State UniversityC3  - University of California SystemC3  - University of California San DiegoC3  - Johns Hopkins UniversityPU  - ELSEVIER
-PI  - AMSTERDAM
-PA  - RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
-SN  - 2155-8256
-SN  - 2155-8264
-J9  - J NURS REGUL
-JI  - J. Nurs. Regul.
-DA  - APR
-PY  - 2021
-VL  - 12
-IS  - 1
-SP  - 28
-EP  - 39
-WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:000641048300004
-N1  - Times Cited in Web of Science Core Collection:  33
-Total Times Cited:  35
-Cited Reference Count:  72
-ER  -
-
-TY  - JOUR
-AU  - Mumcuoglu, E
-AU  - Özturk, CE
-AU  - Ozaktas, HM
-AU  - Koç, A
-TI  - Natural language processing in law: Prediction of outcomes in the higher courts of Turkey
-T2  - INFORMATION PROCESSING & MANAGEMENT
-LA  - English
-KW  - Natural language processing
-KW  - Law
-KW  - Machine learning
-KW  - AI in law
-KW  - Legal text mining
-KW  - Deep learning
-KW  - NAMED ENTITY RECOGNITION
-KW  - LEGAL
-KW  - MODELS
-AB  - Natural language processing (NLP) based approaches have recently received attention for legal systems of several countries. It is of interest to study the wide variety of legal systems that have so far not received any attention. In particular, for the legal system of the Republic of Turkey, codified in Turkish, no works have been published. We first review the state-of-the-art of NLP in law, and then study the problem of predicting verdicts for several different courts, using several different algorithms. This study is much broader than earlier studies in the number of different courts and the variety of algorithms it includes. Therefore it provides a reference point and baseline for further studies in this area. We further hope the scope and systematic nature of this study can set a framework that can be applied to the study of other legal systems. We present novel results on predicting the rulings of the Turkish Constitutional Court and Courts of Appeal, using only fact descriptions, and without seeing the actual rulings. The methods that are utilized are based on Decision Trees (DTs), Random Forests (RFs), Support Vector Machines (SVMs) and state-of-the-art deep learning (DL) methods; specifically Gated Recurrent Units (GRUs), Long Short-Term Memory networks (LSTMs) and bidirectional LSTMs (BiLSTMs), with the integration of an attention mechanism for each model. The prediction results for all algorithms are given in a comparative and detailed manner. We demonstrate that outcomes of the courts of Turkish legal system can be predicted with high accuracy, especially with deep learning based methods. The presented results exhibit similar performance to earlier work in the literature for other languages and legal systems.
-AD  - Bilkent Univ, Elect & Elect Engn Dept, Ankara, TurkeyAD  - Bilkent Univ, UMRAM, Ankara, TurkeyC3  - Ihsan Dogramaci Bilkent UniversityC3  - Ihsan Dogramaci Bilkent UniversityFU  - TUBITAK 1001 grant [120E346]; TUBITAK BIDEB 2210; Turkish Academy of Sciences
-FX  - This work was supported in part by TUBITAK 1001 grant (120E346) and in part by TUBITAK BIDEB 2210. H. M. Ozaktas acknowledges partial support of the Turkish Academy of Sciences.
-PU  - ELSEVIER SCI LTD
-PI  - OXFORD
-PA  - THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
-SN  - 0306-4573
-SN  - 1873-5371
-J9  - INFORM PROCESS MANAG
-JI  - Inf. Process. Manage.
-DA  - SEP
-PY  - 2021
-VL  - 58
-IS  - 5
-C7  - 102684
-DO  - 10.1016/j.ipm.2021.102684
-C6  - JUL 2021
-WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:000677676500008
-N1  - Times Cited in Web of Science Core Collection:  30
-Total Times Cited:  34
-Cited Reference Count:  75
-ER  -
-
-TY  - CPAPER
-AU  - Dong, Q
-AU  - Niu, SZ
-A1  - ASSOC COMP MACHINERY
-TI  - Legal Judgment Prediction via Relational Learning
-T2  - SIGIR '21 - PROCEEDINGS OF THE 44TH INTERNATIONAL ACM SIGIR CONFERENCE ON RESEARCH AND DEVELOPMENT IN INFORMATION RETRIEVAL
-LA  - English
-CP  - 44th International ACM SIGIR Conference on Research and Development in Information Retrieval
-KW  - Statistical Relational Learning
-KW  - Natural Language Processing
-KW  - Legal Judgement Prediction
-AB  - Given a legal case and all law articles, Legal Judgment Prediction (LJP) is to predict the case's violated articles, charges and term of penalty. Naturally, these labels are entangled among different tasks and within a task. For example, each charge is only logically or semantically related to some fixed articles. Ignoring these constraints, LJP methods would predict unreliable results. To solve this problem, we first formalize LJP as a node classification problem over a global consistency graph derived from the training set. In terms of node encoder, we utilize a masked transformer network to obtain case aware node representations consistent among tasks and discriminative within a task. In terms of node classifier, each node's label distribution is dependent on its neighbors' in this graph to achieve local consistency by relational learning. Both the node encoder and classifier are optimized by variational EM. Finally, we propose a novel measure to evaluate self-consistency of classification results. Experimental results on two benchmark datasets demonstrate that the F1 improvement of our method is about 4.8% compared with SOTA methods.
-AD  - Chinese Acad Sci, Inst Software, Beijing, Peoples R ChinaAD  - Univ Chinese Acad Sci, Beijing, Peoples R ChinaC3  - Chinese Academy of SciencesC3  - Institute of Software, CASC3  - Chinese Academy of SciencesC3  - University of Chinese Academy of Sciences, CASFU  - National Natural Science Foundation of China [62072447]
-FX  - This research work was funded by the National Natural Science Foundation of China under Grant No.62072447.
-PU  - ASSOC COMPUTING MACHINERY
-PI  - NEW YORK
-PA  - 1601 Broadway, 10th Floor, NEW YORK, NY, UNITED STATES
-SN  - 978-1-4503-8037-9
-PY  - 2021
-SP  - 983
-EP  - 992
-DO  - 10.1145/3404835.3462931
-WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000719807900096
-N1  - Times Cited in Web of Science Core Collection:  24
-Total Times Cited:  25
-Cited Reference Count:  33
-ER  -
-
-TY  - JOUR
-AU  - Tagarelli, A
-AU  - Simeri, A
-TI  - Unsupervised law article mining based on deep pre-trained language representation models with application to the Italian civil code
-T2  - ARTIFICIAL INTELLIGENCE AND LAW
-LA  - English
-KW  - Law article retrieval
-KW  - Deep learning
-KW  - Deep pre-trained language models
-KW  - BERT
-KW  - Text classification
-KW  - Italian civil code
-KW  - LEGAL
-KW  - CLASSIFICATION
-AB  - Modeling law search and retrieval as prediction problems has recently emerged as a predominant approach in law intelligence. Focusing on the law article retrieval task, we present a deep learning framework named LamBERTa, which is designed for civil-law codes, and specifically trained on the Italian civil code. To our knowledge, this is the first study proposing an advanced approach to law article prediction for the Italian legal system based on a BERT (Bidirectional Encoder Representations from Transformers) learning framework, which has recently attracted increased attention among deep learning approaches, showing outstanding effectiveness in several natural language processing and learning tasks. We define LamBERTa models by fine-tuning an Italian pre-trained BERT on the Italian civil code or its portions, for law article retrieval as a classification task. One key aspect of our LamBERTa framework is that we conceived it to address an extreme classification scenario, which is characterized by a high number of classes, the few-shot learning problem, and the lack of test query benchmarks for Italian legal prediction tasks. To solve such issues, we define different methods for the unsupervised labeling of the law articles, which can in principle be applied to any law article code system. We provide insights into the explainability and interpretability of our LamBERTa models, and we present an extensive experimental analysis over query sets of different type, for single-label as well as multi-label evaluation tasks. Empirical evidence has shown the effectiveness of LamBERTa, and also its superiority against widely used deep-learning text classifiers and a few-shot learner conceived for an attribute-aware prediction task.
-AD  - Univ Calabria, Dept Comp Engn Modeling Elect & Syst Engn DIMES, I-87036 Arcavacata Di Rende, CS, ItalyC3  - University of CalabriaFU  - Universita della Calabria within the CRUI-CARE Agreement
-FX  - Open access funding provided by Universita della Calabria within the CRUI-CARE Agreement.
-PU  - SPRINGER
-PI  - DORDRECHT
-PA  - VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
-SN  - 0924-8463
-SN  - 1572-8382
-J9  - ARTIF INTELL LAW
-JI  - Artif. Intell. Law
-DA  - SEP
-PY  - 2022
-VL  - 30
-IS  - 3
-SP  - 417
-EP  - 473
-DO  - 10.1007/s10506-021-09301-8
-C6  - SEP 2021
-WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:000696120000001
-N1  - Times Cited in Web of Science Core Collection:  23
-Total Times Cited:  23
-Cited Reference Count:  64
-ER  -
-
-TY  - CPAPER
-AU  - Liu, S
-AU  - Zhao, BY
-AU  - Guo, RJ
-AU  - Meng, GZ
-AU  - Zhang, F
-AU  - Zhang, MS
-A1  - ACM
-TI  - Have You been Properly Notified? Automatic Compliance Analysis of Privacy Policy Text with GDPR Article 13
-T2  - PROCEEDINGS OF THE WORLD WIDE WEB CONFERENCE 2021 (WWW 2021)
-LA  - English
-CP  - 30th World Wide Web Conference (WWW)
-KW  - Privacy
-KW  - Compliance Analysis
-KW  - Natural Language Processing
-AB  - With the rapid development of web and mobile applications, as well as their wide adoption in different domains, more and more personal data is provided, consciously or unconsciously, to different application providers. Privacy policy is an important medium for users to understand what personal information has been collected and used. As data privacy protection is becoming a critical social issue, there are laws and regulations being enacted in different countries and regions, and the most representative one is the EU General Data Protection Regulation (GDPR). It is thus important to detect compliance issues among regulations, e.g., GDPR, with privacy policies, and provide intuitive results for data subjects (i.e., users), data collection party (i.e., service providers) and the regulatory authorities. In this work, we target to solve the problem of compliance analysis between GDPR (Article 13) and privacy policies. We format the task into a combination of a sentence classification step and a rule-based analysis step. We manually curate a corpus of 36, 610 labeled sentences from 304 privacy policies, and benchmark our corpus with several standard sentence classifiers. We also conduct a rule-based analysis to detect compliance issues and a user study to evaluate the usability of our approach. The web-based tool AUTOCOMPLIANCE is publicly accessible(1).
-AD  - Tianjin Univ, Coll Intelligence & Comp, Tianjin, Peoples R ChinaAD  - Univ Chinese Acad Sci, Sch Cyber Secur, Inst Informat Engn, SKLOIS, Beijing, Peoples R ChinaAD  - Tianjin Univ, Sch New Media & Commun, Tianjin, Peoples R ChinaC3  - Tianjin UniversityC3  - Chinese Academy of SciencesC3  - University of Chinese Academy of Sciences, CASC3  - Tianjin UniversityFU  - National Natural Science Foundation of China [61802275, U1836214, 61902395]; Innovative Fund of Tianjin University [2020XRG-0022]
-FX  - This work is supported by the National Natural Science Foundation of China 61802275, U1836214, 61902395 and Innovative Fund of Tianjin University 2020XRG-0022.
-PU  - ASSOC COMPUTING MACHINERY
-PI  - NEW YORK
-PA  - 1601 Broadway, 10th Floor, NEW YORK, NY, UNITED STATES
-SN  - 978-1-4503-8312-7
-PY  - 2021
-SP  - 2154
-EP  - 2164
-DO  - 10.1145/3442381.3450022
-WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000733621802015
-N1  - Times Cited in Web of Science Core Collection:  22
-Total Times Cited:  26
-Cited Reference Count:  34
-ER  -
-
-TY  - JOUR
-AU  - Lyu, YG
-AU  - Wang, ZH
-AU  - Ren, ZC
-AU  - Ren, PJ
-AU  - Chen, ZM
-AU  - Liu, XZ
-AU  - Li, YJ
-AU  - Li, HS
-AU  - Song, HY
-TI  - Improving legal judgment prediction through reinforced criminal element extraction
-T2  - INFORMATION PROCESSING & MANAGEMENT
-LA  - English
-KW  - Legal text mining
-KW  - Legal judgment prediction
-KW  - Criminal element extraction
-KW  - Reinforcement learning
-KW  - Neural networks
-KW  - Attention mechanism
-AB  - Legal text mining is targeted at automatically analyzing the texts in the legal domain by employing various natural language processing techniques and has attracted enormous attention from the NLP community. As one of the most crucial tasks of legal text mining, Legal Judgment Prediction (LJP) aims to automatically predict judgment results (e.g., applicable law articles, charges, and terms of penalty) according to fact descriptions on law cases and becomes a promising application of artificial intelligence techniques. Unfortunately, ambiguous fact descriptions and law articles often appear due to a great number of shared words and legal concepts. Prior works are proposed to partially address these problems, focusing on introducing additional attributes to distinguish similar fact descriptions, or differentiating confusing law articles by grouping and distilling law articles. However, existing works still face two severe challenges: (1) indistinguishable fact descriptions with different criminals and targets and (2) misleading law articles with highly similar TF-IDF representations, both of which lead to serious misjudgments for the LJP task. In this paper, we present a novel reinforcement learning (RL) based framework, named Criminal Element Extraction Network (CEEN), to handle above challenges simultaneously. In CEEN, we propose four types of discriminative criminal elements, including the criminal, target, intentionality, and criminal behavior. To discriminate ambiguous fact descriptions, an reinforcement learning based extractor is designed to accurately locate elements for different cases. To enhance law article predictions, distinctive element representations are constructed for each type of criminal element. Finally, with the input of element representations, a multi-task predictor is adopted for the judgment predictions. Experimental results on real-world datasets show that extracting criminal elements is highly useful for predicting the judgment results.
-AD  - Shandong Univ, Qingdao, Peoples R ChinaAD  - Worcester Polytech Inst, Worcester, MA 01609 USAAD  - Alibaba Grp, Hangzhou, Peoples R ChinaC3  - Shandong UniversityC3  - Worcester Polytechnic InstituteC3  - Alibaba GroupFU  - Natural Science Foundation of China [61902219, 61972234, 61672324, 61672322, 62072279, 62102234]; Key Scientific and Technological Innovation Program of Shandong Province [2019JZZY010129]; Natural Science Foundation of Shandong Province [ZR202102230192]; Alibaba Group through Alibaba Research Intern Program; Fundamental Research Funds of Shandong University; National Key RAMP;D Program of China [2020YFB1406704]
-FX  - We thank our reviewers for valuable feedback. This work was supported by the Natural Science Foundation of China (61902219, 61972234, 61672324, 61672322, 62072279, 62102234) , the Key Scientific and Technological Innovation Program of Shandong Province (2019JZZY010129) , the Natural Science Foundation of Shandong Province (ZR202102230192) , Alibaba Group through Alibaba Research Intern Program, the Fundamental Research Funds of Shandong University, the National Key R&D Program of China with grant No. 2020YFB1406704. All content represents the opinion of the authors, which is not necessarily shared or endorsed by their respective employers and/or sponsors.
-PU  - ELSEVIER SCI LTD
-PI  - OXFORD
-PA  - THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
-SN  - 0306-4573
-SN  - 1873-5371
-J9  - INFORM PROCESS MANAG
-JI  - Inf. Process. Manage.
-DA  - JAN
-PY  - 2022
-VL  - 59
-IS  - 1
-C7  - 102780
-DO  - 10.1016/j.ipm.2021.102780
-C6  - NOV 2021
-WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:000718047300001
-N1  - Times Cited in Web of Science Core Collection:  21
-Total Times Cited:  22
-Cited Reference Count:  47
-ER  -
-

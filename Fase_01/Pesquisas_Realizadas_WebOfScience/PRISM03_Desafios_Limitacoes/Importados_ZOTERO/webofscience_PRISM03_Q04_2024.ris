@@ -1,392 +1,0 @@
-﻿TY  - JOUR
-AU  - Sun, PJ
-AU  - Shen, SG
-AU  - Wan, Y
-AU  - Wu, ZD
-AU  - Fang, ZX
-AU  - Gao, XZ
-TI  - A Survey of IoT Privacy Security: Architecture, Technology, Challenges, and Trends
-T2  - IEEE INTERNET OF THINGS JOURNAL
-LA  - English
-KW  - Privacy
-KW  - Security
-KW  - Internet of Things
-KW  - Authentication
-KW  - Industrial Internet of Things
-KW  - Wireless sensor networks
-KW  - Law
-KW  - Access control
-KW  - blockchain
-KW  - firmware
-KW  - Internet of Things (IoT)
-KW  - privacy security
-KW  - WIRELESS SENSOR NETWORKS
-KW  - ACCESS-CONTROL
-KW  - INDUSTRIAL INTERNET
-KW  - DEVICES
-KW  - THINGS
-KW  - BLOCKCHAIN
-KW  - FRAMEWORK
-KW  - FIRMWARE
-KW  - ATTACKS
-KW  - ISSUES
-AB  - The Internet of Things (IoT) is used in homes and hospitals and deployed outdoors to control and report environmental changes, prevent fires, and perform many more beneficial functions. However, all these benefits come at the tremendous risk of loss of privacy and security issues. To protect the IoT, much research has been carried out to address these risks and find better ways to eliminate them or at least minimize their impact on user privacy and security requirements. This article expounds various network security risks faced by the IoT, analyzes their impacts, discusses risk assessment methods, shows the causes and hazards of these threats, and proposes an overall framework of privacy security protection. This article summarizes the typical defect types in the implementation of IoT firmware, analyzes the generation mechanism of typical defects from the perspectives of fuzzy testing, program verification and machine learning, and compares and expounds the progress of security research for several common IoT protocols. This article analyzes and summarizes the mainstream access control model in the existing IoT and the access control model after using the blockchain and builds a new integrated AIoT architecture for intelligent information processing. Finally, this article expounds on the current legal development status of the privacy protection of network information in various countries and discusses the future prospects of the IoT.
-AD  - Shaoxing Univ, Dept Comp Sci & Engn, Shaoxing 312000, Peoples R ChinaAD  - Huzhou Univ, Sch Informat & Engn, Huzhou 313000, Peoples R ChinaAD  - Univ Eastern Finland, Sch Comp, Kuopio 70211, FinlandC3  - Shaoxing UniversityC3  - Huzhou UniversityC3  - University of Eastern FinlandFU  - Joint Funds of the Zhejiang Provincial Natural Science Foundation of China [LQZS24E050001]
-FX  - This work was supported by the Joint Funds of the Zhejiang Provincial Natural Science Foundation of China under Grant LQZS24E050001.
-PU  - IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
-PI  - PISCATAWAY
-PA  - 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
-SN  - 2327-4662
-J9  - IEEE INTERNET THINGS
-JI  - IEEE Internet Things J.
-DA  - NOV 1
-PY  - 2024
-VL  - 11
-IS  - 21
-SP  - 34567
-EP  - 34591
-DO  - 10.1109/JIOT.2024.3372518
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001342828900090
-N1  - Times Cited in Web of Science Core Collection:  8
-Total Times Cited:  8
-Cited Reference Count:  139
-ER  -
-
-TY  - JOUR
-AU  - Feng, YW
-AU  - Wang, HX
-AU  - Xia, GQ
-AU  - Cao, WJ
-AU  - Li, TY
-AU  - Wang, XJ
-AU  - Liu, ZJ
-TI  - A machine learning-based data-driven method for risk analysis of marine accidents
-T2  - JOURNAL OF MARINE ENGINEERING AND TECHNOLOGY
-LA  - English
-KW  - Maritime safety
-KW  - Marine accident
-KW  - Machine learning
-KW  - Association rule mining
-KW  - Complex network
-KW  - COMPLEX NETWORKS
-AB  - In view of the frequent occurrence of marine accidents and the complex interaction of various risk-influencing factors (RIFs), a data-driven method to risk analysis that combines association rule mining (ARM) and complex network (CN) analysis is proposed in this study. The efficient FP-Growth algorithm is applied to facilitate ARM to examine risk patterns that frequently occur in marine accidents. Subsequently, CN theory is employed to scrutinise the multifaceted role of various RIFs and their interactions in the complex marine accident system, which involves the basic characteristics of the network, the identification of key RIFs through the application of the weighted LeaderRank (WLR) algorithm, and a robustness analysis. The results of the study indicate that compared with random networks, marine accident networks exhibit a higher level of complexity, which brings challenges to safety prevention and control. Inadequate regulation, violations, and deficiencies in safety management systems are identified as key RIFs, stressing the urgency of improving supervision, strengthening law enforcement and strengthening the safety management system. This study may facilitate maritime safety management of maritime traffic and the development of risk analysis methods.
-AD  - Dalian Maritime Univ, Nav Coll, Dalian 116026, Peoples R ChinaAD  - Liverpool John Moores Univ, Offshore & Marine LOOM Res Inst, Liverpool Logist, Liverpool L L3 3AF, EnglandAD  - Hainan Vocat Univ Sci & Technol, Haikou 570100, Peoples R ChinaAD  - Key Lab Nav Safety Guarantee Liaoning Prov, Dalian 116026, Peoples R ChinaC3  - Dalian Maritime UniversityC3  - Liverpool John Moores UniversityC3  - Hainan Vocational University of Science & TechnologyFU  - Bolian Research Funds of Dalian Maritime University [3132023617]; EU H2020 ERC Consolidator Grant program (TRUST) [864724]; National Natural Science Foundation of China [52101399]
-FX  - The authors gratefully acknowledge support from the National Natural Science Foundation of China (grant number 52101399), Bolian Research Funds of Dalian Maritime University (grant number 3132023617). This work was also supported by the EU H2020 ERC Consolidator Grant program (TRUST grant number 864724).
-PU  - TAYLOR & FRANCIS LTD
-PI  - ABINGDON
-PA  - 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
-SN  - 2046-4177
-SN  - 2056-8487
-J9  - J MAR ENG TECHNOL
-JI  - J. Mar. Eng. Technol.
-DA  - 2024 JUN 19
-PY  - 2024
-DO  - 10.1080/20464177.2024.2368914
-C6  - JUN 2024
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001250512400001
-N1  - Times Cited in Web of Science Core Collection:  8
-Total Times Cited:  8
-Cited Reference Count:  50
-ER  -
-
-TY  - JOUR
-AU  - Cengiz, K
-AU  - Lipsa, S
-AU  - Dash, RK
-AU  - Ivkovic, N
-AU  - Konecki, M
-TI  - A Novel Intrusion Detection System Based on Artificial Neural Network and Genetic Algorithm With a New Dimensionality Reduction Technique for UAV Communication
-T2  - IEEE ACCESS
-LA  - English
-KW  - Artificial neural network
-KW  - backpropagation
-KW  - genetic algorithm
-KW  - information gain
-KW  - intrusion detection system
-KW  - Pearson correlation coefficient
-KW  - principal component analysis
-KW  - sparsity
-KW  - unmanned aerial vehicles
-AB  - Unmanned aerial vehicles (UAVs) are increasingly being deployed in crucial missions for the armed forces, law enforcement, industrial control monitoring, and other sectors. However, these hostile operating circumstances, along with the UAVs' dependence on wireless protocols, pose substantial security threats, limiting their mainstream application. With network security being such a major issue for UAV networks, the machine learning-based intrusion detection system (IDS) has been determined to be an effective strategy for protecting them. Additionally, though the existing methods offer effective strategies for detecting and categorizing abnormalities in the system, they are limited by their inability to adjust to various attack patterns. The dataset used as well as the memory and computational requirement of existing models, poses new challenges. One of the main concerns pertains to the reduced computational and memory demands of these models. So, the work carried out in this paper addresses this challenge. A new dimensional reduction technique based on correlation coefficient, information gain, and principal component analysis (PCA) is introduced to reduce the dimensionality of the UAV Attack Dataset. A novel intrusion detection system based on an artificial neural network (ANN) and genetic algorithm (GA) is then proposed. The genetic algorithm is used to generate the optimal weights of the artificial neural network. A comparison is made between the proposed model and the backpropagation network and its variant in terms of its convergence and prediction accuracy. Furthermore, the performance of the proposed model is compared with that of other classifiers. This comparison reveals that the proposed model is time efficient with an increased prediction accuracy of at least 6% more than other classifiers.
-AD  - Univ Fujairah, Coll Informat Technol, Fujairah, U Arab EmiratesAD  - Istinye Univ, Dept Elect & Elect Engn, TR-34010 Istanbul, TurkiyeAD  - Odisha Univ Technol & Res, Dept Informat Technol, Bhubaneswar 751003, IndiaAD  - Univ Zagreb, Fac Org & Informat, Varazhdin 42000, CroatiaC3  - Istinye UniversityC3  - University of ZagrebPU  - IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
-PI  - PISCATAWAY
-PA  - 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
-SN  - 2169-3536
-J9  - IEEE ACCESS
-JI  - IEEE Access
-PY  - 2024
-VL  - 12
-SP  - 4925
-EP  - 4937
-DO  - 10.1109/ACCESS.2024.3349469
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001142668100001
-N1  - Times Cited in Web of Science Core Collection:  7
-Total Times Cited:  7
-Cited Reference Count:  36
-ER  -
-
-TY  - JOUR
-AU  - Yousefzadeh, R
-AU  - Kazemi, A
-AU  - Al-Maamari, RS
-TI  - Application of power-law committee machine to combine five machine learning algorithms for enhanced oil recovery screening
-T2  - SCIENTIFIC REPORTS
-LA  - English
-KW  - Enhanced oil recovery
-KW  - Committee machine
-KW  - EOR screening
-KW  - Machine learning
-AB  - One of the main challenges in screening of enhanced oil recovery (EOR) techniques is the class imbalance problem, where the number of different EOR techniques is not equal. This problem hinders the generalization of the data-driven methods used to predict suitable EOR techniques for candidate reservoirs. The main purpose of this paper is to propose a novel approach to overcome the above challenge by taking advantage of the Power-Law Committee Machine (PLCM) technique optimized by Particle Swam Optimization (PSO) to combine the output of five cutting-edge machine learning methods with different types of learning algorithms. The PLCM method has not been used in previous studies for EOR screening. The machine learning models include the Artificial Neural Network (ANN), CatBoost, Random Forest (RF), K-Nearest Neighbors (KNN), and Support Vector Machine (SVM). The CatBoost is used for the first time in this work for screening of EOR methods. The role of the PSO is to find the optimal values for the coefficients and exponents of the power-law model. In this study, a bigger dataset than those in previous studies, including 2563 successful worldwide EOR experiences, was gathered. A bigger dataset improves the generalization of the data-driven methods and prevents overfitting. The hyperparameters of the individual machine-learning models were tuned using the fivefold cross-validation technique. The results showed that all the individual methods could predict the suitable EOR method for unseen cases with an average score of 0.868. Among the machine learning models, the KNN and SVM had the highest scores with a value of 0.894 and 0.892, respectively. Nonetheless, after combining the output of the models using the PLCM method, the score of the predictions improved to 0.963, which was a substantial increase. Finally, a feature importance analysis was conducted to find out the most influential parameters on the output. The novelty of this work is having shown the ability of the PLCM technique to construct an accurate model to overcome the class-imbalance issue in EOR screening by utilizing different types of data-driven models. According to feature importance analysis, oil gravity and formation porosity were recognized as the most influential parameters on EOR screening.
-AD  - Sultan Qaboos Univ, Coll Engn, Dept Petr & Chem Engn, Muscat, OmanC3  - Sultan Qaboos UniversityPU  - NATURE PORTFOLIO
-PI  - BERLIN
-PA  - HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
-SN  - 2045-2322
-J9  - SCI REP-UK
-JI  - Sci Rep
-DA  - APR 22
-PY  - 2024
-VL  - 14
-IS  - 1
-C7  - 9200
-DO  - 10.1038/s41598-024-59387-8
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001206473300062
-N1  - Times Cited in Web of Science Core Collection:  5
-Total Times Cited:  5
-Cited Reference Count:  66
-ER  -
-
-TY  - JOUR
-AU  - Martínez, E
-TI  - Re-evaluating GPT-4's bar exam performance
-T2  - ARTIFICIAL INTELLIGENCE AND LAW
-LA  - English
-KW  - NLP
-KW  - Legal NLP
-KW  - Legal analytics
-KW  - Natural language processing
-KW  - Machine learning
-KW  - Artificial intelligence
-KW  - Artificial intelligence and law
-KW  - Law and technology
-KW  - Legal profession
-KW  - LAW
-AB  - Perhaps the most widely touted of GPT-4's at-launch, zero-shot capabilities has been its reported 90th-percentile performance on the Uniform Bar Exam. This paper begins by investigating the methodological challenges in documenting and verifying the 90th-percentile claim, presenting four sets of findings that indicate that OpenAI's estimates of GPT-4's UBE percentile are overinflated. First, although GPT-4's UBE score nears the 90th percentile when examining approximate conversions from February administrations of the Illinois Bar Exam, these estimates are heavily skewed towards repeat test-takers who failed the July administration and score significantly lower than the general test-taking population. Second, data from a recent July administration of the same exam suggests GPT-4's overall UBE percentile was below the 69th percentile, and similar to \documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\sim$$\end{document} 48th percentile on essays. Third, examining official NCBE data and using several conservative statistical assumptions, GPT-4's performance against first-time test takers is estimated to be similar to \documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\sim$$\end{document} 62nd percentile, including similar to \documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\sim$$\end{document} 42nd percentile on essays. Fourth, when examining only those who passed the exam (i.e. licensed or license-pending attorneys), GPT-4's performance is estimated to drop to similar to \documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\sim$$\end{document} 48th percentile overall, and similar to \documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\sim$$\end{document} 15th percentile on essays. In addition to investigating the validity of the percentile claim, the paper also investigates the validity of GPT-4's reported scaled UBE score of 298. The paper successfully replicates the MBE score, but highlights several methodological issues in the grading of the MPT + MEE components of the exam, which call into question the validity of the reported essay score. Finally, the paper investigates the effect of different hyperparameter combinations on GPT-4's MBE performance, finding no significant effect of adjusting temperature settings, and a significant effect of few-shot chain-of-thought prompting over basic zero-shot prompting. Taken together, these findings carry timely insights for the desirability and feasibility of outsourcing legally relevant tasks to AI models, as well as for the importance for AI developers to implement rigorous and transparent capabilities evaluations to help secure safe and trustworthy AI.
-AD  - MIT, Dept Brain & Cognit Sci, Cambridge, MA 02138 USAC3  - Massachusetts Institute of Technology (MIT)FU  - Massachusetts Institute of Technology (MIT)
-FX  - Acknowledgements omitted for anonymous review.
-PU  - SPRINGER
-PI  - DORDRECHT
-PA  - VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
-SN  - 0924-8463
-SN  - 1572-8382
-J9  - ARTIF INTELL LAW
-JI  - Artif. Intell. Law
-DA  - 2024 MAR 30
-PY  - 2024
-DO  - 10.1007/s10506-024-09396-9
-C6  - MAR 2024
-WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:001194581100001
-N1  - Times Cited in Web of Science Core Collection:  4
-Total Times Cited:  5
-Cited Reference Count:  77
-ER  -
-
-TY  - JOUR
-AU  - Khan, S
-AU  - Devlen, C
-AU  - Manno, M
-AU  - Hou, DQ
-TI  - Mouse Dynamics Behavioral Biometrics: A Survey
-T2  - ACM COMPUTING SURVEYS
-LA  - English
-KW  - Behavioral biometrics
-KW  - mouse dynamics
-KW  - widget interactions
-KW  - machine learning
-KW  - multi-modal authentication
-KW  - fusion
-KW  - NEURAL-NETWORK SYSTEM
-KW  - USER AUTHENTICATION
-KW  - FITTS LAW
-KW  - IDENTIFICATION
-KW  - INTRUSION
-KW  - PATTERNS
-AB  - Utilization of the Internet in our everyday lives has made us vulnerable in terms of privacy and security of our data and systems. Therefore, there is a pressing need to protect our data and systems by improving authentication mechanisms, which are expected to be low cost, unobtrusive, and ideally ubiquitous in nature. Behavioral biometric modalities such as mouse dynamics (mouse behaviors on a graphical user interface (GUI)) and widget interactions (another modality closely related to mouse dynamics that also considers the target (widget) of a GUI interaction, such as links, buttons, and combo-boxes) can bolster the security of existing authentication systems because of their ability to distinguish individuals based on their unique features. As a result, it can be difficult for an imposter to impersonate these behavioral biometrics, making them suitable for authentication. In this article, we survey the literature on mouse dynamics and widget interactions dated from 1897 to 2023. We begin our survey with an account of the psychological perspectives on behavioral biometrics. We then analyze the literature along the following dimensions: tasks and experimental settings for data collection, taxonomy of raw attributes, feature extractions and mathematical definitions, publicly available datasets, algorithms (statistical, machine learning, and deep learning), data fusion, performance, and limitations. We end the paper with presenting challenges and promising research opportunities.
-AD  - Clarkson Univ, 8 Clarkson Ave, Potsdam, NY 1369 USAC3  - Clarkson UniversityFU  - US Air Force Research Lab (AFRL), Rome, NY; United States National Science Foundation [TI-2122746]
-FX  - Simon Khan and Michael Manno are also affiliated with and funded by the US Air Force Research Lab (AFRL), Rome, NY. Daqing Hou and Charles Devlen were partially supported by a United States National Science Foundation award (grant no. TI-2122746).
-PU  - ASSOC COMPUTING MACHINERY
-PI  - NEW YORK
-PA  - 1601 Broadway, 10th Floor, NEW YORK, NY USA
-SN  - 0360-0300
-SN  - 1557-7341
-J9  - ACM COMPUT SURV
-JI  - ACM Comput. Surv.
-DA  - JUN
-PY  - 2024
-VL  - 56
-IS  - 6
-C7  - 154
-DO  - 10.1145/3640311
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001208566200020
-N1  - Times Cited in Web of Science Core Collection:  3
-Total Times Cited:  3
-Cited Reference Count:  146
-ER  -
-
-TY  - JOUR
-AU  - Song, Y
-AU  - Lu, XN
-AU  - Wang, KX
-AU  - Ryan, JV
-AU  - Smedskjaer, MM
-AU  - Vienna, JD
-AU  - Bauchy, M
-TI  - Unveiling the effect of composition on nuclear waste immobilization glasses' durability by nonparametric machine learning
-T2  - NPJ MATERIALS DEGRADATION
-LA  - English
-KW  - TOPOLOGICAL CONSTRAINT THEORY
-KW  - MODELS
-AB  - Ensuring the long-term chemical durability of glasses is critical for nuclear waste immobilization operations. Durable glasses usually undergo qualification for disposal based on their response to standardized tests such as the product consistency test or the vapor hydration test (VHT). The VHT uses elevated temperature and water vapor to accelerate glass alteration and the formation of secondary phases. Understanding the relationship between glass composition and VHT response is of fundamental and practical interest. However, this relationship is complex, non-linear, and sometimes fairly variable, posing challenges in identifying the distinct effect of individual oxides on VHT response. Here, we leverage a dataset comprising 654 Hanford low-activity waste (LAW) glasses across a wide compositional envelope and employ various machine learning techniques to explore this relationship. We find that Gaussian process regression (GPR), a nonparametric regression method, yields the highest predictive accuracy. By utilizing the trained model, we discern the influence of each oxide on the glasses' VHT response. Moreover, we discuss the trade-off between underfitting and overfitting for extrapolating the material performance in the context of sparse and heterogeneous datasets.
-AD  - Univ Calif Los Angeles, Phys AmoRphous & Inorgan Solids Lab PARISlab, Dept Civil & Environm Engn, 5731B Boelter Hall, Los Angeles, CA 90095 USAAD  - Pacific Northwest Natl Lab, Richland, WA 99352 USAAD  - Aalborg Univ, Dept Chem & Biosci, DK-9220 Aalborg, DenmarkC3  - University of California SystemC3  - University of California Los AngelesC3  - United States Department of Energy (DOE)C3  - Pacific Northwest National LaboratoryC3  - Aalborg UniversityFU  - National Science Foundation (NSF) [DE-NE0008769]; U.S. Department of Energy through the Nuclear Energy University Programs (NEUP) [DMREF-1922167]; U.S. National Science Foundation; U.S. Department of Energy (DOE), Office of River Protection Waste Treatment and Immobilization Plant (WTP) Project [DE-AC06-76RL01830]; U.S. Department of Energy by Battelle Memorial Institute
-FX  - The authors acknowledge the financial support for this research by the U.S. Department of Energy through the Nuclear Energy University Programs (NEUP) under the grant DE-NE0008769 and the U.S. National Science Foundation under the grant DMREF-1922167. This work was also supported by the U.S. Department of Energy (DOE), Office of River Protection Waste Treatment and Immobilization Plant (WTP) Project. We would like to thank Pavel Ferkl (PNNL) for reviewing the data documentation and the manuscript. Pacific Northwest National Laboratory is a multi-program national laboratory operated for the U.S. Department of Energy by Battelle Memorial Institute under Contract DE-AC06-76RL01830.
-PU  - NATURE PORTFOLIO
-PI  - BERLIN
-PA  - HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
-SN  - 2397-2106
-J9  - NPJ MAT DEGRAD
-JI  - NPJ Mater. Degrad.
-DA  - APR 15
-PY  - 2024
-VL  - 8
-IS  - 1
-C7  - 38
-DO  - 10.1038/s41529-024-00458-6
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001204752900001
-N1  - Times Cited in Web of Science Core Collection:  3
-Total Times Cited:  3
-Cited Reference Count:  59
-ER  -
-
-TY  - JOUR
-AU  - Kretschmer, M
-AU  - Margoni, T
-AU  - Oruç, P
-TI  - Copyright Law and the Lifecycle of Machine Learning Models
-T2  - IIC-INTERNATIONAL REVIEW OF INTELLECTUAL PROPERTY AND COMPETITION LAW
-LA  - English
-KW  - Copyright
-KW  - Artificial intelligence
-KW  - Text mining
-KW  - Data mining
-KW  - EU
-KW  - Digital single market
-KW  - TEXT
-AB  - Machine learning, a subfield of artificial intelligence (AI), relies on large corpora of data as input for learning algorithms, resulting in trained models that can perform a variety of tasks. While data or information are not subject matter within copyright law, almost all materials used to construct corpora for machine learning are protected by copyright law: texts, images, videos, and so on. There are global policy moves to address the copyright implications of machine learning, in particular in the context of so-called "foundation models" that underpin generative AI. This paper takes a step back, exploring empirically three technological settings through detailed case studies. We set out the established industry methodology of a lifecycle of AI (collecting data, organising data, model training, model operation) to arrive at descriptions suitable for legal analysis. This will allow an assessment of the challenges for a harmonisation of rights, exceptions and disclosure under EU copyright law. The three case studies are:Machine learning for scientific purposes, in the context of a study of regional short-term letting markets;Natural Language Processing (NLP), in the context of large language models;Computer vision, in the context of content moderation of images.We find that the nature and quality of data corpora at the input stage is central to the lifecycle of machine learning. Because of the uncertain legal status of data collection and processing, combined with the competitive advantage gained by firms not disclosing technological advances, the inputs of the models deployed are often unknown. Moreover, the "lawful access" requirement of the EU exception for text and data mining may turn the exception into a decision by rightholders to allow machine learning in the context of their decision to allow access. We assess policy interventions at EU level, seeking to clarify the legal status of input data via copyright exceptions, opt-outs or the forced disclosure of copyright materials. We find that the likely result is a fully copyright-licensed environment of machine learning that may have problematic effects for the structure of industry, innovation and scientific research.
-AD  - Univ Glasgow, Sch Law, Intellectual Property Law, Glasgow, ScotlandAD  - CREATe UK Copyright & Creat Econ Ctr, Glasgow, ScotlandAD  - Univ Leuven KU Leuven, Ctr IT & IP Law CiTiP, Intellectual Property Law, Fac Law & Criminol, Leuven, BelgiumAD  - Univ Manchester, Commercial Law, Manchester, EnglandC3  - University of GlasgowC3  - KU LeuvenC3  - University of ManchesterFU  - European Union [870626870626]; Urban Big Data Centre [ES/L011921/1]; CREATe, University of Glasgow
-FX  - The research was funded by the European Union's Horizon 2020 research and innovation programme under grant agreement No. 870626870626 (reCreating Europe: Rethinking digital copyright law for aculturally diverse, accessible, creative Europe). Case study 1 was developed with ESRC support for the Urban Big Data Centre (ES/L011921/1). Pinar Oruc prepared a first draft of the case studies as a postdoctoral researcher at CREATe, University of Glasgow.
-PU  - SPRINGER HEIDELBERG
-PI  - HEIDELBERG
-PA  - TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
-SN  - 0018-9855
-SN  - 2195-0237
-J9  - IIC-INT REV INTELL P
-JI  - Int. Rev. Intellect. Prop. Compet. Law
-DA  - JAN
-PY  - 2024
-VL  - 55
-IS  - 1
-SP  - 110
-EP  - 138
-DO  - 10.1007/s40319-023-01419-3
-C6  - FEB 2024
-WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001155789200001
-N1  - Times Cited in Web of Science Core Collection:  3
-Total Times Cited:  3
-Cited Reference Count:  77
-ER  -
-
-TY  - JOUR
-AU  - Sato, K
-TI  - Optical switching will innovate intra data center networks [Invited Tutorial]
-T2  - JOURNAL OF OPTICAL COMMUNICATIONS AND NETWORKING
-LA  - English
-KW  - Optical fiber communication
-KW  - Data centers
-KW  - Moore's Law
-KW  - Optical switches
-KW  - CIRCUIT SWITCH
-KW  - INTERCONNECT
-KW  - CHALLENGES
-KW  - DESIGN
-KW  - END
-AB  - Reflecting the recent slow-down in Moore's law and the proliferation of artificial intelligence/machine learning workloads, the performance and energy consumption of networks are becoming barriers in high-performance computing (HPC) and data centers. Optical switches are expected to break these barriers, and indeed their introduction has recently commenced in data centers. This paper discusses how optical switching technologies can innovate future intra data center networks. Hyperscale data centers are much bigger in scale, and network requirements are slightly different from those of HPC. This paper focus on data center networks, since the impact of optical technologies will be more significant in data centers than in HPC. In addition to the scale issue, important metrics to be considered for network design are traffic characteristics and latency, both of which are highlighted in this paper. For hybrid (electrical packet and optical circuit) switching networks, the target latency for the optical circuit switch network (connection setup/teardown time) is shown to be around 10 mu s, and the needed technologies are clarified and verified by experiments. The optical switch can simplify the present multi-tier switching network above tier-1 switches into a single tier configuration, which is possible with the development of efficient large port count optical switches. Among the different switching architectures, combining the different dimensions of space and wavelength is shown to be one of the best solutions. Fast switching needs fast device response time. Si photonics devices using Mach-Zehnder interferometers or ring-resonator-based switches and tunable filters are the most promising candidates; they offer cost-effective mass-production and fast operation and so are excellent candidates for the optical switches envisaged. Another critical technology to maximize the benefits of optical switches is a simple and low-latency control mechanism. Different approaches have been suggested as summarized in this work. Among them, harnessing optical switch parallelism is a unique technique that matches recent advances in electrical switch chips. A fast control network is realized by using a fully decentralized and asynchronous control mechanism. A hyperscale data center offers a wide variety of services, and no one system fits all needs. Optimization of parameters is an important task for maximizing the impact of optical switching in different kinds of data centers.
-AD  - Natl Inst Adv Ind Sci & Technol, Umezono 1-1-1, Tsukuba, Ibaraki 3058568, JapanC3  - National Institute of Advanced Industrial Science & Technology (AIST)FU  - New Energy and Industrial Technology Development Organization [JPNP16007]
-FX  - New Energy and Industrial Technology Development Organization (JPNP16007).
-PU  - Optica Publishing Group
-PI  - WASHINGTON
-PA  - 2010 MASSACHUSETTS AVE NW, WASHINGTON, DC 20036 USA
-SN  - 1943-0620
-SN  - 1943-0639
-J9  - J OPT COMMUN NETW
-JI  - J. Opt. Commun. Netw.
-DA  - JAN
-PY  - 2024
-VL  - 16
-IS  - 1
-SP  - A1
-EP  - A23
-DO  - 10.1364/JOCN.495006
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001115754400001
-N1  - Times Cited in Web of Science Core Collection:  3
-Total Times Cited:  3
-Cited Reference Count:  126
-ER  -
-
-TY  - JOUR
-AU  - Mostert, RIJ
-AU  - Oei, MSSL
-AU  - Barkus, B
-AU  - Alegre, L
-AU  - Hardcastle, MJ
-AU  - Duncan, KJ
-AU  - Röttgering, HJA
-AU  - van Weeren, RJ
-AU  - Horton, M
-TI  - Constraining the giant radio galaxy population with machine learning and Bayesian inference
-T2  - ASTRONOMY & ASTROPHYSICS
-LA  - English
-KW  - methods: data analysis
-KW  - catalogs
-KW  - surveys
-KW  - galaxies: active
-KW  - cosmology: observations
-KW  - radio continuum: galaxies
-KW  - SKY SURVEY
-KW  - COSMIC WEB
-KW  - DATA RELEASE
-KW  - LOFAR
-KW  - DEEP
-KW  - IDENTIFICATIONS
-KW  - ENERGETICS
-KW  - EVOLUTION
-KW  - MODEL
-AB  - Context. Large-scale sky surveys at low frequencies, such as the LOFAR Two-metre Sky Survey (LoTSS), allow for the detection and characterisation of unprecedented numbers of giant radio galaxies (GRGs, or "giants", of at least lp, GRG := 0.7 Mpc long). This, in turn, enables us to study giants in a cosmological context. A tantalising prospect of such studies is a measurement of the contribution of giants to cosmic magnetogenesis. However, this measurement requires en masse radio-optical association for well-resolved radio galaxies and a statistical framework to infer GRG population properties. Aims. By automating the creation of radio-optical catalogues, we aim to significantly expand the census of known giants. With the resulting sample and a forward model that takes into account selection effects, we aim to constrain their intrinsic length distribution, number density, and lobe volume-filling fraction (VFF) in the Cosmic Web. Methods. We combined five existing codes into a single machine learning (ML)-driven pipeline that automates radio source component association and optical host identification for well-resolved radio sources. We created a radio-optical catalogue for the entire LoTSS Data Release 2 (DR2) footprint and subsequently selected all sources that qualify as possible giants. We combined the list of ML pipeline GRG candidates with an existing list of LoTSS DR2 crowd-sourced GRG candidates and visually confirmed or rejected all members of the merged sample. To infer intrinsic GRG properties from GRG observations, we developed further a population-based forward model and constrained its parameters using Bayesian inference. Results. Roughly half of all GRG candidates that our ML pipeline identifies indeed turn out to be giants upon visual inspection, whereas the success rate is 1 in 11 for the previous best giant-finding ML technique in the literature. We confirm 5576 previously unknown giants from the crowd-sourced LoTSS DR2 catalogue and 2566 previously unknown giants from the ML pipeline. Our confirmations and discoveries bring the total number of known giants to at least 11 485. Our intrinsic GRG population forward model provides a good fit to the data. The posterior indicates that the projected lengths of giants are consistent with a curved power law probability density function whose initial tail index xi(l(p,GRG)) = - 2.8 +/- 0.2 changes by Delta xi = -2.4 +/- 0.3 over the interval up to l(p) = 5 Mpc. We predict a comoving GRG number density n(GRG) = 13 +/- 10 (100 Mpc)(-3), close to a recent estimate of the number density of luminous non-giant radio galaxies. With the projected length distribution, number density, and additional assumptions, we derive a present-day GRG lobe VFF VGRG-CW(z = 0) = 1.4 +/- 1.1 x 10(-5) in clusters and filaments of the Cosmic Web. Conclusions. We present a state-of-the-art ML-accelerated pipeline for finding giants, whose complex morphologies, arcminute extents, and radio-emitting surroundings pose challenges. Our data analysis suggests that giants are more common than previously thought. More work is needed to make GRG lobe VFF estimates reliable, but tentative results imply that it is possible that magnetic fields once contained in giants pervade a significant (greater than or similar to 10%) fraction of today's Cosmic Web.
-AD  - Leiden Univ, Leiden Observ, POB 9513, NL-2300 RA Leiden, NetherlandsAD  - Netherlands Inst Radio Astron, ASTRON, Oude Hoogeveensedijk 4, NL-7991 PD Dwingeloo, NetherlandsAD  - CALTECH, Cahill Ctr Astron & Astrophys, 1216 E Calif Blvd, Pasadena, CA 91125 USAAD  - Open Univ, Sch Phys Sci, Walton Hall, Milton Keynes MK7 6AA, EnglandAD  - Inst Astron, Royal Observ, Blackford Hill, Edinburgh EH9 3HJ, ScotlandAD  - Univ Hertfordshire, Ctr Astrophys Res, Dept Phys Astron & Math, Coll Lane, Hatfield AL10 9AB, EnglandC3  - Leiden University - Excl LUMCC3  - Leiden UniversityC3  - California Institute of TechnologyC3  - Open University - UKC3  - University of EdinburghC3  - University of HertfordshireFU  - VIDI research programme; Dutch Research Council (NWO) [629.001.024]; CAS-NWO programme; NWO [ClusterWeb 804208]; ERC; UK STFC; International LOFAR Telescope (ILT); LOFAR; European Research Council; NOVA, NWO, CNRS-INSU; UK Science and Technology Funding Council - Global Impact Award from Google; Alfred P. Sloan Foundation
-FX  - The full GRG catalogue with host identifications will soon be available on the VizieR catalogue service hosted by the Centre de Donnees astronomiques de Strasbourg (CDS). M.S.S.L. Oei and R.J. van Weeren acknowledge support from the VIDI research programme with project number 639.042.729, which is financed by the Dutch Research Council (NWO). M.S.S.L. Oei also acknowledges support from the CAS-NWO programme for radio astronomy with project number 629.001.024, which is financed by the NWO. Finally, M.S.S.L. Oei acknowledges support from the ERC Starting Grant ClusterWeb 804208. L. Alegre is grateful for support from the UK STFC via CDT studentship grant ST/P006809/1. M.J. Hardcastle acknowledges support from the UK STFC [ST/V000624/1]. B. Barkus is grateful for support from the UK STFC. We would like to thank Huib Intema for enabling the cross-institute collaboration on the Leiden Observatory computer infrastructure. We would like to thank Frits Sweijen for coding the very useful https://github.com/tikk3r/legacystamps. This research has made use of the Python astropy package (Astropy Collaboration 2018); the VizieR catalogue access tool (Ochsenbein et al. 2000), CDS, Strasbourg, France (DOI: https://doi.org/10.26093/cds/vizier); and the "Aladin Sky Atlas" developed at CDS, Strasbourg Observatory, France (Bonnarel et al. 2000; Boch & Fernique 2014). LOFAR data products were provided by the LOFAR Surveys Key Science project (LSKSP; https://lofar-surveys.org/) and were derived from observations with the International LOFAR Telescope (ILT). LOFAR (van Haarlem et al. 2013) is the Low Frequency Array designed and constructed by ASTRON. It has observing, data processing, and data storage facilities in several countries, which are owned by various parties (each with their own funding sources), and which are collectively operated by the ILT foundation under a joint scientific policy. The efforts of the LSKSP have benefited from funding from the European Research Council, NOVA, NWO, CNRS-INSU, the SURF Co-operative, the UK Science and Technology Funding Council and the Julich Supercomputing Centre. This publication uses data generated via the https://zooniverse.org/ platform, development of which is funded by generous support, including a Global Impact Award from Google, and by a grant from the Alfred P. Sloan Foundation.
-PU  - EDP SCIENCES S A
-PI  - LES ULIS CEDEX A
-PA  - 17, AVE DU HOGGAR, PA COURTABOEUF, BP 112, F-91944 LES ULIS CEDEX A, FRANCE
-SN  - 0004-6361
-SN  - 1432-0746
-J9  - ASTRON ASTROPHYS
-JI  - Astron. Astrophys.
-DA  - NOV 18
-PY  - 2024
-VL  - 691
-C7  - A185
-DO  - 10.1051/0004-6361/202348897
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001358034000006
-N1  - Times Cited in Web of Science Core Collection:  2
-Total Times Cited:  2
-Cited Reference Count:  80
-ER  -
-

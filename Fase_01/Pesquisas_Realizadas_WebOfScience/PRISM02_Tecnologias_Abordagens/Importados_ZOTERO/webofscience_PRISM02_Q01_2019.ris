@@ -1,325 +1,0 @@
-﻿TY  - CPAPER
-AU  - Yang, JC
-AU  - Zhang, Q
-AU  - Ni, BB
-AU  - Li, LG
-AU  - Liu, JX
-AU  - Zhou, MD
-AU  - Tian, Q
-A1  - IEEE Comp Soc
-TI  - Modeling Point Clouds with Self-Attention and Gumbel Subset Sampling
-T2  - 2019 IEEE/CVF CONFERENCE ON COMPUTER VISION AND PATTERN RECOGNITION (CVPR 2019)
-LA  - English
-CP  - 32nd IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
-KW  - NETWORKS
-AB  - Geometric deep learning is increasingly important thanks to the popularity of 3D sensors. Inspired by the recent advances in NLP domain, the self-attention transformer is introduced to consume the point clouds. We develop Point Attention Transformers (PATs), using a parameter-efficient Group Shuffle Attention (GSA) to replace the costly Multi-Head Attention. We demonstrate its ability to process size-varying inputs, and prove its permutation equivariance. Besides, prior work uses heuristics dependence on the input data (e.g., Furthest Point Sampling) to hierarchically select subsets of input points. Thereby, we for the first time propose an end-to-end learnable and taskagnostic sampling operation, named Gumbel Subset Sampling (GSS), to select a representative subset of input points. Equipped with Gumbel-Softmax, it produces a "soft" continuous subset in training phase, and a "hard" discrete subset in test phase. By selecting representative subsets in a hierarchical fashion, the networks learn a stronger representation of the input sets with lower computation cost. Experiments on classification and segmentation benchmarks show the effectiveness and efficiency of our methods. Furthermore, we propose a novel application, to process event camera stream as point clouds, and achieve a state-of-the-art performance on DVS128 Gesture Dataset.
-AD  - Shanghai Jiao Tong Univ, Shanghai, Peoples R ChinaAD  - Shanghai Jiao Tong Univ, MoE Key Lab Artificial Intelligence, AI Inst, Shanghai, Peoples R ChinaAD  - Huawei Noahs Ark Lab, Beijing, Peoples R ChinaC3  - Shanghai Jiao Tong UniversityC3  - Shanghai Jiao Tong UniversityC3  - Huawei TechnologiesFU  - National Science Foundation of China [U1611461, 61521062]; STCSM [18DZ1112300, 18DZ2270700]; China's Thousand Talent Program
-FX  - This work was supported by National Science Foundation of China (U1611461, 61521062). This work was partly supported by STCSM (18DZ1112300, 18DZ2270700). This work was also partially supported by joint research grant of SJTU-BIGO LIVE, joint research grant of SJTU-Minivision, and China's Thousand Talent Program.
-PU  - IEEE COMPUTER SOC
-PI  - LOS ALAMITOS
-PA  - 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1264 USA
-SN  - 1063-6919
-SN  - 978-1-7281-3293-8
-J9  - PROC CVPR IEEE
-PY  - 2019
-SP  - 3318
-EP  - 3327
-DO  - 10.1109/CVPR.2019.00344
-WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000529484003051
-N1  - Times Cited in Web of Science Core Collection:  276
-Total Times Cited:  314
-Cited Reference Count:  54
-ER  -
-
-TY  - CPAPER
-AU  - Liu, NF
-AU  - Gardner, M
-AU  - Belinkov, Y
-AU  - Peters, ME
-AU  - Smith, NA
-A1  - Assoc Computat Linguist
-TI  - Linguistic Knowledge and Transferability of Contextual Representations
-T2  - 2019 CONFERENCE OF THE NORTH AMERICAN CHAPTER OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS: HUMAN LANGUAGE TECHNOLOGIES (NAACL HLT 2019), VOL. 1
-LA  - English
-CP  - Conference of the North-American-Chapter of the Association-for-Computational-Linguistics - Human Language Technologies (NAACL-HLT)
-KW  - CORPUS
-AB  - large-scale neural language models are successful across a diverse set of NLP tasks, suggesting that they encode useful and transferable features of language. To shed light on the linguistic knowledge they capture, we study the representations produced by several recent pretrained contextualizers (variants of ELMo, the OpenAI transformer language model, and BERT) with a suite of sixteen diverse probing tasks. We find that linear models trained on top of frozen contextual representations are competitive with state-of-the-art task-specific models in many cases, but fail on tasks requiring fine-grained linguistic knowledge (e.g., conjunct identification). To investigate the transferability of contextual word representations, we quantify differences in the transferability of individual layers within contextualizers, especially between recurrent neural networks (RNNs) and transformers. For instance, higher layers of RNNs are more taskspecific, while transformer layers do not exhibit the same monotonic trend. In addition, to better understand what makes contextual word representations transferable, we compare language model pretraining with eleven supervised pretraining tasks. For any given task, pretraining on a closely related task yields better performance than language model pretraining (which is better on average) when the pretraining dataset is fixed. However, language model pretraining on more data gives the best results.
-AD  - Univ Washington, Paul G Allen Sch Comp Sci Engn, Seattle, WA USAAD  - Univ Washington, Dept Linguist, Seattle, WA USAAD  - Allen Inst Artificial Intelligence, Seattle, WA USAAD  - Harvard John Paulson Sch Engn & Appl Sci, Comp Sci & Artificial Intelligence Lab, Cambridge, MA USAC3  - University of WashingtonC3  - University of Washington SeattleC3  - University of WashingtonC3  - University of Washington SeattlePU  - ASSOC COMPUTATIONAL LINGUISTICS-ACL
-PI  - STROUDSBURG
-PA  - 209 N EIGHTH STREET, STROUDSBURG, PA 18360 USA
-SN  - 978-1-950737-13-0
-PY  - 2019
-SP  - 1073
-EP  - 1094
-WE  - Conference Proceedings Citation Index - Science (CPCI-S)WE  - Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)AN  - WOS:000900116901017
-N1  - Times Cited in Web of Science Core Collection:  238
-Total Times Cited:  266
-Cited Reference Count:  72
-ER  -
-
-TY  - JOUR
-AU  - Gao, ZJ
-AU  - Feng, A
-AU  - Song, XY
-AU  - Wu, X
-TI  - Target-Dependent Sentiment Classification With BERT
-T2  - IEEE ACCESS
-LA  - English
-KW  - Deep learning
-KW  - neural networks
-KW  - sentiment analysis
-KW  - BERT
-AB  - Research on machine assisted text analysis follows the rapid development of digital media, and sentiment analysis is among the prevalent applications. Traditional sentiment analysis methods require complex feature engineering, and embedding representations have dominated leaderboards for a long time. However, the context-independent nature limits their representative power in rich context, hurting performance in Natural Language Processing (NLP) tasks. Bidirectional Encoder Representations from Transformers (BERT), among other pre-trained language models, beats existing best results in eleven NLP tasks (including sentence-level sentiment classification) by a large margin, which makes it the new baseline of text representation. As a more challenging task, fewer applications of BERT have been observed for sentiment classification at the aspect level. We implement three target-dependent variations of the BERTbase model, with positioned output at the target terms and an optional sentence with the target built in. Experiments on three data collections show that our TD-BERT model achieves new state-of-the-art performance, in comparison to traditional feature engineering methods, embedding-based models and earlier applications of BERT. With the successful application of BERT in many NLP tasks, our experiments try to verify if its context-aware representation can achieve similar performance improvement in aspect-based sentiment analysis. Surprisingly, coupling it with complex neural networks that used to work well with embedding representations does not show much value, sometimes with performance below the vanilla BERT-FC implementation. On the other hand, incorporation of target information shows stable accuracy improvement, and the most effective way of utilizing that information is displayed through the experiment.
-AD  - Chengdu Univ Informat Technol, Dept Comp Sci, Chengdu 610225, Peoples R ChinaC3  - Chengdu University of Information TechnologyFU  - Research Innovation Team Fund [18TD0026]; Youth Technology Fund from the Department of Education [2017JQ0030]; Seedling Project of Science and Technology Innovation from the Science and Technology Department, Sichuan [2018115]
-FX  - This work was supported in part by the Research Innovation Team Fund under Award 18TD0026, in part by the Youth Technology Fund from the Department of Education under Award 2017JQ0030, and in part by the Seedling Project of Science and Technology Innovation from the Science and Technology Department, Sichuan, under Project 2018115.
-PU  - IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
-PI  - PISCATAWAY
-PA  - 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
-SN  - 2169-3536
-J9  - IEEE ACCESS
-JI  - IEEE Access
-PY  - 2019
-VL  - 7
-SP  - 154290
-EP  - 154299
-DO  - 10.1109/ACCESS.2019.2946594
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000510406100001
-N1  - Times Cited in Web of Science Core Collection:  206
-Total Times Cited:  231
-Cited Reference Count:  51
-ER  -
-
-TY  - CPAPER
-AU  - Zafrir, O
-AU  - Boudoukh, G
-AU  - Izsak, P
-AU  - Wasserblat, M
-A1  - IEEE
-TI  - Q8BERT: Quantized 8Bit BERT
-T2  - FIFTH WORKSHOP ON ENERGY EFFICIENT MACHINE LEARNING AND COGNITIVE COMPUTING - NEURIPS EDITION (EMC2-NIPS 2019)
-LA  - English
-CP  - 5th Workshop on Energy Efficient Machine Learning and Cognitive Computing ((EMC2) / Conference on Neural Information Processing Systems (NIPS)
-KW  - nlp
-KW  - transformers
-KW  - language-modeling
-KW  - bert
-KW  - quantization
-KW  - quantization-aware-training
-AB  - Recently, pre-trained Transformer [I] based language models such as BERT [2] and GPT [3], have shown great improvement in many Natural Language Processing (NLP) tasks. However, these models contain a large amount of parameters. The emergence of even larger and more accurate models such as GPT2 [4] and Megatronl, suggest a trend of large pre-trained Transformer models. However, using these large models in production environments is a complex task requiring a large amount of compute, memory and power resources. In this work we show how to perform quantization-aware training during the fine-tuning phase of BERT in order to compress BERT by 4x with minimal accuracy loss. Furthermore, the produced quantized model can accelerate inference speed if it is optimized for 8bit Integer supporting hardware.
-AD  - Intel Labs, AI Lab NLP, Haifa, IsraelC3  - Intel CorporationPU  - IEEE
-PI  - NEW YORK
-PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
-SN  - 978-1-6654-2418-9
-PY  - 2019
-SP  - 36
-EP  - 39
-DO  - 10.1109/EMC2-NIPS53020.2019.00016
-WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000844569200009
-N1  - Times Cited in Web of Science Core Collection:  106
-Total Times Cited:  122
-Cited Reference Count:  17
-ER  -
-
-TY  - JOUR
-AU  - Li, F
-AU  - Jin, YH
-AU  - Liu, WS
-AU  - Rawat, BPS
-AU  - Cai, PS
-AU  - Yu, H
-TI  - Fine-Tuning Bidirectional Encoder Representations From Transformers (BERT)-Based Models on Large-Scale Electronic Health Record Notes: An Empirical Study
-T2  - JMIR MEDICAL INFORMATICS
-LA  - English
-KW  - natural language processing
-KW  - entity normalization
-KW  - deep learning
-KW  - electronic health record note
-KW  - BERT
-KW  - NAMED ENTITY RECOGNITION
-KW  - NORMALIZATION
-AB  - Background: The bidirectional encoder representations from transformers (BERT) model has achieved great success in many natural language processing (NLP) tasks, such as named entity recognition and question answering. However, little prior work has explored this model to be used for an important task in the biomedical and clinical domains, namely entity normalization.
-   Objective: We aim to investigate the effectiveness of BERT-based models for biomedical or clinical entity normalization. In addition, our second objective is to investigate whether the domains of training data influence the performances of BERT-based models as well as the degree of influence.
-   Methods: Our data was comprised of 1.5 million unlabeled electronic health record (EHR) notes. We first fine-tuned BioBERT on this large collection of unlabeled EHR notes. This generated our BERT-based model trained using 1.5 million electronic health record notes (EhrBERT). We then further fine-tuned EhrBERT, BioBERT, and BERT on three annotated corpora for biomedical and clinical entity normalization: the Medication, Indication, and Adverse Drug Events (MADE) 1.0 corpus, the National Center for Biotechnology Information (NCBI) disease corpus, and the Chemical-Disease Relations (CDR) corpus. We compared our models with two state-of-the-art normalization systems, namely MetaMap and disease name normalization (DNorm).
-   Results: EhrBERT achieved 40.95% F1 in the MADE 1.0 corpus for mapping named entities to the Medical Dictionary for Regulatory Activities and the Systematized Nomenclature of Medicine-Clinical Terms (SNOMED-CT), which have about 380,000 terms. In this corpus, EhrBERT outperformed MetaMap by 2.36% in F1. For the NCBI disease corpus and CDR corpus, EhrBERT also outperformed DNorm by improving the F1 scores from 88.37% and 89.92% to 90.35% and 93.82%, respectively. Compared with BioBERT and BERT, EhrBERT outperformed them on the MADE 1.0 corpus and the CDR corpus.
-   Conclusions: Our work shows that BERT-based models have achieved state-of-the-art performance for biomedical and clinical entity normalization. BERT-based models can be readily fine-tuned to normalize any kind of named entities.
-AD  - Univ Massachusetts, Dept Comp Sci, 1 Univ Ave, Lowell, MA 01854 USAAD  - Bedford Vet Affairs Med Ctr, Ctr Healthcare Org & Implementat Res, Bedford, MA USAAD  - Univ Massachusetts, Sch Med, Dept Med, Worcester, MA USAAD  - Univ Massachusetts, Sch Comp Sci, Amherst, MA 01003 USAC3  - University of Massachusetts SystemC3  - University of Massachusetts LowellC3  - University of Massachusetts SystemC3  - University of Massachusetts WorcesterC3  - University of Massachusetts SystemC3  - University of Massachusetts AmherstFU  - National Institutes of Health [5R01HL125089, 5R01HL135219]; Health Services Research and Development Program of the US Department of Veterans Affairs [1I01HX001457-01]
-FX  - This work was supported by two grants from the National Institutes of Health (grant numbers: 5R01HL125089 and 5R01HL135219) and an Investigator-Initiated Research grant from the Health Services Research and Development Program of the US Department of Veterans Affairs (grant number: 1I01HX001457-01).
-PU  - JMIR PUBLICATIONS, INC
-PI  - TORONTO
-PA  - 130 QUEENS QUAY East, Unit 1100, TORONTO, ON M5A 0P6, CANADA
-SN  - 2291-9694
-J9  - JMIR MED INF
-JI  - JMIR Med. Inf.
-DA  - JUL-SEP
-PY  - 2019
-VL  - 7
-IS  - 3
-C7  - e14830
-DO  - 10.2196/14830
-WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:000488621000007
-N1  - Times Cited in Web of Science Core Collection:  104
-Total Times Cited:  110
-Cited Reference Count:  36
-ER  -
-
-TY  - JOUR
-AU  - Zhang, XH
-AU  - Zhang, YY
-AU  - Zhang, Q
-AU  - Ren, YK
-AU  - Qiu, TL
-AU  - Ma, JH
-AU  - Sun, Q
-TI  - Extracting comprehensive clinical information for breast cancer using deep learning methods
-T2  - INTERNATIONAL JOURNAL OF MEDICAL INFORMATICS
-LA  - English
-KW  - Clinical information extraction
-KW  - Breast cancer
-KW  - Deep learning
-KW  - Fine-tuning BERT
-KW  - Information model
-KW  - AUTOMATED EXTRACTION
-AB  - Objective: Breast cancer is the most common malignant tumor among women. The diagnosis and treatment information of breast cancer patients is abundant in multiple types of clinical fields, including clinicopathological data, genotype and phenotype information, treatment information, and prognosis information. However, current studies are mainly focused on extracting information from one specific type of clinical field. This study defines a comprehensive information model to represent the whole-course clinical information of patients. Furthermore, deep learning approaches are used to extract the concepts and their attributes from clinical breast cancer documents by fine-tuning pretrained Bidirectional Encoder Representations from Transformers (BERT) language models.
-   Materials and methods: The clinical corpus that was used in this study was from one 3A cancer hospital in China, consisting of the encounter notes, operation records, pathology notes, radiology notes, progress notes and discharge summaries of 100 breast cancer patients. Our system consists of two components: a named entity recognition (NER) component and a relation recognition component. For each component, we implemented deep learning-based approaches by fine-tuning BERT, which outperformed other state-of-the-art methods on multiple natural language processing (NLP) tasks. A clinical language model is first pretrained using BERT on a large-scale unlabeled corpus of Chinese clinical text. For NER, the context embeddings that were pretrained using BERT were used as the input features of the Bi-LSTM-CRF (Bidirectional long-short-memory-conditional random fields) model and were fine-tuned using the annotated breast cancer notes. Furthermore, we proposed an approach to fine-tune BERT for relation extraction. It was considered to be a classification problem in which the two entities that were mentioned in the input sentence were replaced with their semantic types.
-   Results: Our best-performing system achieved F1 scores of 93.53% for the NER and 96.73% for the relation extraction. Additional evaluations showed that the deep learning-based approaches that fine-tuned BERT did outperform the traditional Bi-LSTM-CRF and CRF machine learning algorithms in NER and the attention-Bi-LSTM and SVM (support vector machines) algorithms in relation recognition.
-   Conclusion: In this study, we developed a deep learning approach that fine-tuned BERT to extract the breast cancer concepts and their attributes. It demonstrated its superior performance compared to traditional machine learning algorithms, thus supporting its uses in broader NER and relation extraction tasks in the medical domain.
-AD  - Peking Union Med Coll, Peking Union Med Coll Hosp, Beijing, Peoples R ChinaAD  - Chinese Acad Med Sci, Beijing, Peoples R ChinaAD  - Digital China Hlth Technol Co Ltd, Beijing, Peoples R ChinaAD  - Peking Union Med Coll, Natl Canc Ctr, Canc Hosp, Beijing, Peoples R ChinaC3  - Chinese Academy of Medical Sciences - Peking Union Medical CollegeC3  - Peking Union Medical College HospitalC3  - Peking Union Medical CollegeC3  - Chinese Academy of Medical Sciences - Peking Union Medical CollegeC3  - Chinese Academy of Medical Sciences - Peking Union Medical CollegeC3  - Peking Union Medical CollegeFU  - Chinese Academy of Medical Science Initiative for Innovative Medicine [2017-I2M-2-003]; Chinese National Key RD [2018YFC0116901]
-FX  - The research was supported by the Chinese Academy of Medical Science Initiative for Innovative Medicine (2017-I2M-2-003) and the Chinese National Key R&D (2018YFC0116901).
-PU  - ELSEVIER IRELAND LTD
-PI  - CLARE
-PA  - ELSEVIER HOUSE, BROOKVALE PLAZA, EAST PARK SHANNON, CO, CLARE, 00000, IRELAND
-SN  - 1386-5056
-SN  - 1872-8243
-J9  - INT J MED INFORM
-JI  - Int. J. Med. Inform.
-DA  - DEC
-PY  - 2019
-VL  - 132
-C7  - 103985
-DO  - 10.1016/j.ijmedinf.2019.103985
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000492149900018
-N1  - Times Cited in Web of Science Core Collection:  97
-Total Times Cited:  102
-Cited Reference Count:  25
-ER  -
-
-TY  - CPAPER
-AU  - Correia, GM
-AU  - Niculae, V
-AU  - Martins, AFT
-A1  - Assoc Computat Linguist
-TI  - Adaptively Sparse Transformers
-T2  - 2019 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING AND THE 9TH INTERNATIONAL JOINT CONFERENCE ON NATURAL LANGUAGE PROCESSING (EMNLP-IJCNLP 2019): PROCEEDINGS OF THE CONFERENCE
-LA  - English
-CP  - Conference on Empirical Methods in Natural Language Processing / 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP)
-AB  - Attention mechanisms have become ubiquitous in NLP. Recent architectures, notably the Transformer, learn powerful context-aware word representations through layered, multi-headed attention. The multiple heads learn diverse types of word relationships. However, with standard softmax attention, all attention heads are dense, assigning a non-zero weight to all context words. In this work, we introduce the adaptively sparse Transformer, wherein attention heads have flexible, context-dependent sparsity patterns. This sparsity is accomplished by replacing softmax with alpha-entmax: a differentiable generalization of softmax that allows low-scoring words to receive precisely zero weight. Moreover, we derive a method to automatically learn the alpha parameter - which controls the shape and sparsity of alpha-entmax - allowing attention heads to choose between focused or spread-out behavior. Our adaptively sparse Transformer improves interpretability and head diversity when compared to softmax Transformers on machine translation datasets. Findings of the quantitative and qualitative analysis of our approach include that heads in different layers learn different sparsity preferences and tend to be more diverse in their attention distributions than softmax Transformers. Furthermore, at no cost in accuracy, sparsity in attention heads helps to uncover different head specializations.
-AD  - Inst Telecomunicacoes, Lisbon, PortugalAD  - Unbabel, Lisbon, PortugalC3  - Instituto de TelecomunicacoesFU  - European Research Council [ERC StG DeepSPIN 758969]; Fundacao para a Ciencia e Tecnologia [UID/EEA/50008/2019, CMUPERI/TIC/0046/2014]
-FX  - This work was supported by the European Research Council (ERC StG DeepSPIN 758969), and by the Fundacao para a Ciencia e Tecnologia through contracts UID/EEA/50008/2019 and CMUPERI/TIC/0046/2014 (GoLocal). We are grateful to Ben Peters for the a-entmax code and Erick Fonseca, Marcos Treviso, Pedro Martins, and Tsvetomila Mihaylova for insightful group discussion. We thank Mathieu Blondel for the idea to learn a. We would also like to thank the anonymous reviewers for their helpful feedback.
-PU  - ASSOC COMPUTATIONAL LINGUISTICS-ACL
-PI  - STROUDSBURG
-PA  - 209 N EIGHTH STREET, STROUDSBURG, PA 18360 USA
-SN  - 978-1-950737-90-1
-PY  - 2019
-SP  - 2174
-EP  - 2184
-WE  - Conference Proceedings Citation Index - Science (CPCI-S)WE  - Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)AN  - WOS:000854193302031
-N1  - Times Cited in Web of Science Core Collection:  79
-Total Times Cited:  85
-Cited Reference Count:  39
-ER  -
-
-TY  - CPAPER
-AU  - van Aken, B
-AU  - Winter, B
-AU  - Löser, A
-AU  - Gers, FA
-A1  - ACM
-TI  - How Does BERT Answer Questions? A Layer-Wise Analysis of Transformer Representations
-T2  - PROCEEDINGS OF THE 28TH ACM INTERNATIONAL CONFERENCE ON INFORMATION & KNOWLEDGE MANAGEMENT (CIKM '19)
-LA  - English
-CP  - 28th ACM International Conference on Information and Knowledge Management (CIKM)
-KW  - neural networks
-KW  - transformers
-KW  - explainability
-KW  - word representation
-KW  - natural language processing
-KW  - question answering
-AB  - Bidirectional Encoder Representations from Transformers (BERT) reach state-of-the-art results in a variety of Natural Language Processing tasks. However, understanding of their internal functioning is still insufficient and unsatisfactory. In order to better understand BERT and other Transformer-based models, we present a layer-wise analysis of BERT's hidden states. Unlike previous research, which mainly focuses on explaining Transformer models by their attention weights, we argue that hidden states contain equally valuable information. Specifically, our analysis focuses on models fine-tuned on the task of Question Answering (QA) as an example of a complex downstream task. We inspect how QA models transform token vectors in order to find the correct answer. To this end, we apply a set of general and QA-specific probing tasks that reveal the information stored in each representation layer. Our qualitative analysis of hidden state visualizations provides additional insights into BERT's reasoning process. Our results show that the transformations within BERT go through phases that are related to traditional pipeline tasks. The system can therefore implicitly incorporate task-specific information into its token representations. Furthermore, our analysis reveals that fine-tuning has little impact on the models' semantic abilities and that prediction errors can be recognized in the vector representations of even early layers.
-AD  - Beuth Univ Appl Sci Berlin, Berlin, GermanyFU  - European Unions Horizon 2020 research and innovation programme [732328]; German Federal Ministry of Education and Research (BMBF) [01UG1735BX, 01MD19003B]; H2020 - Industrial Leadership [732328] Funding Source: H2020 - Industrial Leadership
-FX  - Our work is funded by the European Unions Horizon 2020 research and innovation programme under grant agreement No. 732328 (FashionBrain) and by the German Federal Ministry of Education and Research (BMBF) under grant agreement No. 01UG1735BX (NOHATE) and No. 01MD19003B (PLASS).
-PU  - ASSOC COMPUTING MACHINERY
-PI  - NEW YORK
-PA  - 1601 Broadway, 10th Floor, NEW YORK, NY, UNITED STATES
-SN  - 978-1-4503-6976-3
-PY  - 2019
-SP  - 1823
-EP  - 1832
-DO  - 10.1145/3357384.3358028
-WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000539898201088
-N1  - Times Cited in Web of Science Core Collection:  68
-Total Times Cited:  73
-Cited Reference Count:  41
-ER  -
-
-TY  - CPAPER
-AU  - Sung, C
-AU  - Dhamecha, TI
-AU  - Mukhi, N
-ED  - Isotani, S
-ED  - Millan, E
-ED  - Ogan, A
-ED  - Hastings, P
-ED  - McLaren, B
-ED  - Luckin, R
-TI  - Improving Short Answer Grading Using Transformer-Based Pre-training
-T2  - ARTIFICIAL INTELLIGENCE IN EDUCATION (AIED 2019), PT I
-LA  - English
-CP  - 20th International Conference on Artificial Intelligence in Education (AIED)
-KW  - Self-attention
-KW  - Transfer learning
-KW  - Student answer scoring
-AB  - Dialogue-based tutoring platforms have shown great promise in helping individual students improve mastery. Short answer grading is a crucial component of such platforms. However, generative short answer grading using the same platform for diverse disciplines and titles is a crucial challenge due to data distribution variations across domains and a frequent occurrence of non-sentential answers. Recent NLP research has introduced novel deep learning architectures such as the Transformer, which merely uses self-attention mechanisms. Pre-trained models based on the Transformer architecture have been used to produce impressive results across a range of NLP tasks. In this work, we experiment with fine-tuning a pre-trained self-attention language model, namely Bidirectional Encoder Representations from Transformers (BERT) applying it to short answer grading, and show that it produces superior results across multiple domains. On the benchmarking dataset of SemEval-2013, we report up to 10% absolute improvement in macro-average-F1 over state-of-the-art results. On our two psychology domain datasets, the fine-tuned model yields classification almost up to the human-agreement levels. Moreover, we study the effectiveness of fine-tuning as a function of the size of the task-specific labeled data, the number of training epochs, and its generalizability to cross-domain and join-domain scenarios.
-AD  - IBM Watson Educ, Yorktown Hts, NY 10598 USAAD  - IBM Res, Bangalore, Karnataka, IndiaPU  - SPRINGER INTERNATIONAL PUBLISHING AG
-PI  - CHAM
-PA  - GEWERBESTRASSE 11, CHAM, CH-6330, SWITZERLAND
-SN  - 2945-9133
-SN  - 1611-3349
-SN  - 978-3-030-23204-7
-SN  - 978-3-030-23203-0
-J9  - LECT NOTES ARTIF INT
-PY  - 2019
-VL  - 11625
-SP  - 469
-EP  - 481
-DO  - 10.1007/978-3-030-23204-7_39
-WE  - Conference Proceedings Citation Index - Science (CPCI-S)WE  - Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)AN  - WOS:000495604300039
-N1  - Times Cited in Web of Science Core Collection:  67
-Total Times Cited:  71
-Cited Reference Count:  28
-ER  -
-
-TY  - CPAPER
-AU  - Zhang, BA
-AU  - Titov, I
-AU  - Sennrich, R
-A1  - Assoc Computat Linguist
-TI  - Improving Deep Transformer with Depth-Scaled Initialization and Merged Attention
-T2  - 2019 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING AND THE 9TH INTERNATIONAL JOINT CONFERENCE ON NATURAL LANGUAGE PROCESSING (EMNLP-IJCNLP 2019): PROCEEDINGS OF THE CONFERENCE
-LA  - English
-CP  - Conference on Empirical Methods in Natural Language Processing / 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP)
-AB  - The general trend in NLP is towards increasing model capacity and performance via deeper neural networks. However, simply stacking more layers of the popular Transformer architecture for machine translation results in poor convergence and high computational overhead. Our empirical analysis suggests that convergence is poor due to gradient vanishing caused by the interaction between residual connections and layer normalization. We propose depth-scaled initialization (DS-Init), which decreases parameter variance at the initialization stage, and reduces output variance of residual connections so as to ease gradient back-propagation through normalization layers. To address computational cost, we propose a merged attention sublayer (MAtt) which combines a simplified average-based self-attention sublayer and the encoderdecoder attention sublayer on the decoder side. Results on WMT and IWSLT translation tasks with five translation directions show that deep Transformers with DS-Init and MAtt can substantially outperform their base counterpart in terms of BLEU (+1.1 BLEU on average for 12-layer models), while matching the decoding speed of the baseline model thanks to the efficiency improvements of MAtt.(1)
-AD  - Univ Edinburgh, Sch Informat, Edinburgh, Midlothian, ScotlandAD  - Univ Amsterdam, ILLC, Amsterdam, NetherlandsAD  - Univ Zurich, Inst Computat Linguist, Zurich, SwitzerlandC3  - University of EdinburghC3  - University of AmsterdamC3  - University of ZurichFU  - European Union [H2020-ICT-2018-2-825460]; Baidu Scholarship; EPSRC Tier-2 capital grant [EP/P020259/1]
-FX  - We thank the reviewers for their insightful comments. This project has received funding from the grant H2020-ICT-2018-2-825460 (ELITR) by the European Union. Biao Zhang also acknowledges the support of the Baidu Scholarship. This work has been performed using resources provided by the Cambridge Tier-2 system operated by the University of Cambridge Research Computing Service (http://www.hpc.cam.ac.uk) funded by EPSRC Tier-2 capital grant EP/P020259/1.
-PU  - ASSOC COMPUTATIONAL LINGUISTICS-ACL
-PI  - STROUDSBURG
-PA  - 209 N EIGHTH STREET, STROUDSBURG, PA 18360 USA
-SN  - 978-1-950737-90-1
-PY  - 2019
-SP  - 898
-EP  - 909
-WE  - Conference Proceedings Citation Index - Science (CPCI-S)WE  - Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)AN  - WOS:000854193301005
-N1  - Times Cited in Web of Science Core Collection:  26
-Total Times Cited:  28
-Cited Reference Count:  43
-ER  -
-

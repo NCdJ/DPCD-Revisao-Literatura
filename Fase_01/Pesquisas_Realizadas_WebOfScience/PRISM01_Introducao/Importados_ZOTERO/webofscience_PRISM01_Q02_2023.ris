@@ -1,355 +1,0 @@
-﻿TY  - JOUR
-AU  - Dave, T
-AU  - Athaluri, SA
-AU  - Singh, S
-TI  - ChatGPT in medicine: an overview of its applications, advantages, limitations, future prospects, and ethical considerations
-T2  - FRONTIERS IN ARTIFICIAL INTELLIGENCE
-LA  - English
-KW  - ChatGPT
-KW  - artificial intelligence
-KW  - AI
-KW  - natural language processing
-KW  - generative pre-training transformer
-KW  - medicine
-KW  - healthcare
-AB  - This paper presents an analysis of the advantages, limitations, ethical considerations, future prospects, and practical applications of ChatGPT and artificial intelligence (AI) in the healthcare and medical domains. ChatGPT is an advanced language model that uses deep learning techniques to produce human-like responses to natural language inputs. It is part of the family of generative pre-training transformer (GPT) models developed by OpenAI and is currently one of the largest publicly available language models. ChatGPT is capable of capturing the nuances and intricacies of human language, allowing it to generate appropriate and contextually relevant responses across a broad spectrum of prompts. The potential applications of ChatGPT in the medical field range from identifying potential research topics to assisting professionals in clinical and laboratory diagnosis. Additionally, it can be used to help medical students, doctors, nurses, and all members of the healthcare fraternity to know about updates and new developments in their respective fields. The development of virtual assistants to aid patients in managing their health is another important application of ChatGPT in medicine. Despite its potential applications, the use of ChatGPT and other AI tools in medical writing also poses ethical and legal concerns. These include possible infringement of copyright laws, medico-legal complications, and the need for transparency in AI-generated content. In conclusion, ChatGPT has several potential applications in the medical and healthcare fields. However, these applications come with several limitations and ethical considerations which are presented in detail along with future prospects in medicine and healthcare.
-AD  - Bukovinian State Med Univ, Internal Med, Chernovtsy, UkraineAD  - Rangaraya Med Coll, Kakinada, Andhra Pradesh, IndiaAD  - GSVM Med Coll, Kanpur, Uttar Pradesh, IndiaC3  - Bukovinian State Medical UniversityC3  - G.S.V.M. Medical College, KanpurPU  - FRONTIERS MEDIA SA
-PI  - LAUSANNE
-PA  - AVENUE DU TRIBUNAL FEDERAL 34, LAUSANNE, CH-1015, SWITZERLAND
-SN  - 2624-8212
-J9  - FRONT ARTIF INTELL
-JI  - Front. Artif. Intell.
-DA  - MAY 4
-PY  - 2023
-VL  - 6
-C7  - 1169595
-DO  - 10.3389/frai.2023.1169595
-WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:000989845200001
-N1  - Times Cited in Web of Science Core Collection:  419
-Total Times Cited:  429
-Cited Reference Count:  24
-ER  -
-
-TY  - JOUR
-AU  - Grassini, S
-TI  - Shaping the Future of Education: Exploring the Potential and Consequences of AI and ChatGPT in Educational Settings
-T2  - EDUCATION SCIENCES
-LA  - English
-KW  - artificial intelligence (AI)
-KW  - ChatGPT
-KW  - educational technology
-KW  - university education
-KW  - ARTIFICIAL-INTELLIGENCE
-KW  - TRENDS
-AB  - Over the last decade, technological advancements, especially artificial intelligence (AI), have significantly transformed educational practices. Recently, the development and adoption of Generative Pre-trained Transformers (GPT), particularly OpenAI's ChatGPT, has sparked considerable interest. The unprecedented capabilities of these models, such as generating humanlike text and facilitating automated conversations, have broad implications in various sectors, including education and health. Despite their immense potential, concerns regarding their widespread use and opacity have been raised within the scientific community. ChatGPT, the latest version of the GPT series, has displayed remarkable proficiency, passed the US bar law exam, and amassed over a million subscribers shortly after its launch. However, its impact on the education sector has elicited mixed reactions, with some educators heralding it as a progressive step and others raising alarms over its potential to reduce analytical skills and promote misconduct. This paper aims to delve into these discussions, exploring the potential and problems associated with applying advanced AI models in education. It builds on extant literature and contributes to understanding how these technologies reshape educational norms in the "new AI gold rush" era.
-AD  - Univ Bergen, Dept Psychosocial Sci, N-5020 Bergen, NorwayC3  - University of BergenPU  - MDPI
-PI  - BASEL
-PA  - ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
-SN  - 2227-7102
-J9  - EDUC SCI
-JI  - Educ. Sci.
-DA  - JUL
-PY  - 2023
-VL  - 13
-IS  - 7
-C7  - 692
-DO  - 10.3390/educsci13070692
-WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001035047100001
-N1  - Times Cited in Web of Science Core Collection:  173
-Total Times Cited:  176
-Cited Reference Count:  115
-ER  -
-
-TY  - JOUR
-AU  - Zhang, J
-AU  - Zhang, ZM
-TI  - Ethics and governance of trustworthy medical artificial intelligence
-T2  - BMC MEDICAL INFORMATICS AND DECISION MAKING
-LA  - English
-KW  - Artificial intelligence
-KW  - Healthcare
-KW  - Ethics
-KW  - Governance
-KW  - Regulation
-KW  - Data
-KW  - Algorithms
-KW  - Responsibility attribution
-KW  - HEALTH-CARE
-KW  - BLACK-BOX
-KW  - BIG DATA
-KW  - MACHINE
-AB  - BackgroundThe growing application of artificial intelligence (AI) in healthcare has brought technological breakthroughs to traditional diagnosis and treatment, but it is accompanied by many risks and challenges. These adverse effects are also seen as ethical issues and affect trustworthiness in medical AI and need to be managed through identification, prognosis and monitoring.MethodsWe adopted a multidisciplinary approach and summarized five subjects that influence the trustworthiness of medical AI: data quality, algorithmic bias, opacity, safety and security, and responsibility attribution, and discussed these factors from the perspectives of technology, law, and healthcare stakeholders and institutions. The ethical framework of ethical values-ethical principles-ethical norms is used to propose corresponding ethical governance countermeasures for trustworthy medical AI from the ethical, legal, and regulatory aspects.ResultsMedical data are primarily unstructured, lacking uniform and standardized annotation, and data quality will directly affect the quality of medical AI algorithm models. Algorithmic bias can affect AI clinical predictions and exacerbate health disparities. The opacity of algorithms affects patients' and doctors' trust in medical AI, and algorithmic errors or security vulnerabilities can pose significant risks and harm to patients. The involvement of medical AI in clinical practices may threaten doctors 'and patients' autonomy and dignity. When accidents occur with medical AI, the responsibility attribution is not clear. All these factors affect people's trust in medical AI.ConclusionsIn order to make medical AI trustworthy, at the ethical level, the ethical value orientation of promoting human health should first and foremost be considered as the top-level design. At the legal level, current medical AI does not have moral status and humans remain the duty bearers. At the regulatory level, strengthening data quality management, improving algorithm transparency and traceability to reduce algorithm bias, and regulating and reviewing the whole process of the AI industry to control risks are proposed. It is also necessary to encourage multiple parties to discuss and assess AI risks and social impacts, and to strengthen international cooperation and communication.
-AD  - Nanjing Univ Chinese Med, Inst Literature Chinese Med, Nanjing 210023, Peoples R ChinaAD  - Nantong Univ, Xinglin Coll, Nantong 226236, Peoples R ChinaAD  - Nanjing Univ Chinese Med, Res Ctr Chinese Med Culture, Nanjing 210023, Peoples R ChinaC3  - Nanjing University of Chinese MedicineC3  - Nantong UniversityC3  - Nanjing University of Chinese MedicinePU  - BMC
-PI  - LONDON
-PA  - CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
-SN  - 1472-6947
-J9  - BMC MED INFORM DECIS
-JI  - BMC Med. Inform. Decis. Mak.
-DA  - JAN 13
-PY  - 2023
-VL  - 23
-IS  - 1
-C7  - 7
-DO  - 10.1186/s12911-023-02103-9
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000912721600001
-N1  - Times Cited in Web of Science Core Collection:  98
-Total Times Cited:  102
-Cited Reference Count:  98
-ER  -
-
-TY  - CPAPER
-AU  - Hacker, P
-AU  - Engel, A
-AU  - Mauer, M
-A1  - ASSOC COMPUTING MACHINERY
-TI  - Regulating ChatGPT and other Large Generative AI Models
-T2  - PROCEEDINGS OF THE 6TH ACM CONFERENCE ON FAIRNESS, ACCOUNTABILITY, AND TRANSPARENCY, FACCT 2023
-LA  - English
-CP  - 6th ACM Conference on Fairness, Accountability, and Transparency (FAccT)
-KW  - ARTIFICIAL-INTELLIGENCE
-KW  - OPPORTUNITIES
-KW  - CHALLENGES
-KW  - MARKET
-AB  - Large generative AI models (LGAIMs), such as ChatGPT, GPT-4 or Stable Diffusion, are rapidly transforming the way we communicate, illustrate, and create. However, AI regulation, in the EU and beyond, has primarily focused on conventional AI models, not LGAIMs. This paper will situate these new generative models in the current debate on trustworthy AI regulation, and ask how the law can be tailored to their capabilities. After laying technical foundations, the legal part of the paper proceeds in four steps, covering (1) direct regulation, (2) data protection, (3) content moderation, and (4) policy proposals. It suggests a novel terminology to capture the AI value chain in LGAIM settings by differentiating between LGAIM developers, deployers, professional and non-professional users, as well as recipients of LGAIM output. We tailor regulatory duties to these different actors along the value chain and suggest strategies to ensure that LGAIMs are trustworthy and deployed for the benefit of society at large. Rules in the AI Act and other direct regulation must match the specificities of pre-trained models. The paper argues for three layers of obligations concerning LGAIMs (minimum standards for all LGAIMs; high-risk obligations for high-risk use cases; collaborations along the AI value chain). In general, regulation should focus on concrete high-risk applications, and not the pre-trained model itself, and should include (i) obligations regarding transparency and (ii) risk management. Non-discrimination provisions (iii) may, however, apply to LGAIM developers. Lastly, (iv) the core of the DSA's content moderation rules should be expanded to cover LGAIMs. This includes notice and action mechanisms, and trusted flaggers.
-AD  - European Univ Viadrina, European New Sch Digital Studies, Frankfurt, GermanyAD  - Heidelberg Univ, Heidelberg, GermanyAD  - Humboldt Univ, Berlin, GermanyC3  - European University Viadrina Frankfurt OderC3  - Ruprecht Karls University HeidelbergC3  - Humboldt University of BerlinPU  - ASSOC COMPUTING MACHINERY
-PI  - NEW YORK
-PA  - 1601 Broadway, 10th Floor, NEW YORK, NY, UNITED STATES
-SN  - 978-1-4503-7252-7
-PY  - 2023
-SP  - 1112
-EP  - 1123
-DO  - 10.1145/3593013.3594067
-WE  - Conference Proceedings Citation Index - Science (CPCI-S)WE  - Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)AN  - WOS:001062819300096
-N1  - Times Cited in Web of Science Core Collection:  91
-Total Times Cited:  92
-Cited Reference Count:  120
-ER  -
-
-TY  - JOUR
-AU  - Díaz-Rodríguez, N
-AU  - Del Ser, J
-AU  - Coeckelbergh, M
-AU  - de Prado, ML
-AU  - Herrera-Viedma, E
-AU  - Herrera, F
-TI  - Connecting the dots in trustworthy Artificial Intelligence: From AI principles, ethics, and key requirements to responsible AI systems and regulation
-T2  - INFORMATION FUSION
-LA  - English
-KW  - Trustworthy AI
-KW  - AI ethics
-KW  - Responsible AI systems
-KW  - AI regulation
-KW  - Regulatory sandbox
-KW  - BIG DATA
-KW  - FRAMEWORK
-KW  - QUALITY
-KW  - PRIVACY
-KW  - METRICS
-AB  - Trustworthy Artificial Intelligence (AI) is based on seven technical requirements sustained over three main pillars that should be met throughout the system's entire life cycle: it should be (1) lawful, (2) ethical, and (3) robust, both from a technical and a social perspective. However, attaining truly trustworthy AI concerns a wider vision that comprises the trustworthiness of all processes and actors that are part of the system's life cycle, and considers previous aspects from different lenses. A more holistic vision contemplates four essential axes: the global principles for ethical use and development of AI-based systems, a philosophical take on AI ethics, a risk-based approach to AI regulation, and the mentioned pillars and requirements. The seven requirements (human agency and oversight; robustness and safety; privacy and data governance; transparency; diversity, non-discrimination and fairness; societal and environmental wellbeing; and accountability) are analyzed from a triple perspective: What each requirement for trustworthy AI is, Why it is needed, and How each requirement can be implemented in practice. On the other hand, a practical approach to implement trustworthy AI systems allows defining the concept of responsibility of AI-based systems facing the law, through a given auditing process. Therefore, a responsible AI system is the resulting notion we introduce in this work, and a concept of utmost necessity that can be realized through auditing processes, subject to the challenges posed by the use of regulatory sandboxes. Our multidisciplinary vision of trustworthy AI culminates in a debate on the diverging views published lately about the future of AI. Our reflections in this matter conclude that regulation is a key for reaching a consensus among these views, and that trustworthy and responsible AI systems will be crucial for the present and future of our society.
-AD  - Univ Granada, DaSCI Andalusian Inst Data Sci & Computat Intellig, Dept Comp Sci & Artificial Intelligence, Granada 18071, SpainAD  - TECNALIA, Basque Res & Technol Alliance BRTA, Derio 48160, SpainAD  - Univ Basque Country UPV, EHU, Dept Commun Engn, Bilbao 48013, SpainAD  - Univ Vienna, Dept Philosophy, A-1010 Vienna, AustriaAD  - Cornell Univ, Sch Engn, Ithaca, NY 14850 USAAD  - ADIA Lab, Al Maryah Isl, Abu Dhabi, U Arab EmiratesAD  - Khalifa Univ Sci & Technol, Dept Math, Abu Dhabi, U Arab EmiratesC3  - University of GranadaC3  - University of Basque CountryC3  - University of ViennaC3  - Cornell UniversityC3  - Khalifa University of Science & TechnologyFU  - Marie Sklodowska- Curie Actions (MSCA) Postdoctoral Fellowship [101059332]; Leonardo Scholarship for Researchers and Cultural Creators 2022 from the BBVA Foundation; Spanish Centro para el Desarrollo Tecnologico Industrial (CDTI); Basque Government (Eusko Jaurlaritza) [IT1456-22]; Spanish Ministry of Science and Innovation [PID2020-119478GB-I00]; Marie Curie Actions (MSCA) [101059332] Funding Source: Marie Curie Actions (MSCA)
-FX  - N. Diaz-Rodriguez is currently supported by a Marie Sklodowska- Curie Actions (MSCA) Postdoctoral Fellowship with agreement ID: 101059332 and the Leonardo Scholarship for Researchers and Cultural Creators 2022 from the BBVA Foundation. J. Del Ser has received funding support from the Spanish Centro para el Desarrollo Tecnologico Industrial (CDTI) through the AI4ES project, and from the Basque Government (Eusko Jaurlaritza) through the Consolidated Research Group MATHMODE (IT1456-22) . F. Herrera has received funding support from the Spanish Ministry of Science and Innovation (grant PID2020-119478GB-I00) .
-PU  - ELSEVIER
-PI  - AMSTERDAM
-PA  - RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
-SN  - 1566-2535
-SN  - 1872-6305
-J9  - INFORM FUSION
-JI  - Inf. Fusion
-DA  - NOV
-PY  - 2023
-VL  - 99
-C7  - 101896
-DO  - 10.1016/j.inffus.2023.101896
-C6  - JUL 2023
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001040646900001
-N1  - Times Cited in Web of Science Core Collection:  75
-Total Times Cited:  75
-Cited Reference Count:  149
-ER  -
-
-TY  - JOUR
-AU  - Desislavov, R
-AU  - Martínez-Plumed, F
-AU  - Hernández-Orallo, J
-TI  - Trends in AI inference energy consumption: Beyond the performance-vs-parameter laws of deep learning
-T2  - SUSTAINABLE COMPUTING-INFORMATICS & SYSTEMS
-LA  - English
-KW  - Artificial Intelligence
-KW  - Deep learning
-KW  - Inference
-KW  - Energy consumption
-KW  - Performance analysis
-KW  - Performance evaluation
-KW  - AI progress
-AB  - The progress of some AI paradigms such as deep learning is said to be linked to an exponential growth in the number of parameters. There are many studies corroborating these trends, but does this translate into an exponential increase in energy consumption? In order to answer this question we focus on inference costs rather than training costs, as the former account for most of the computing effort, solely because of the multiplicative factors. Also, apart from algorithmic innovations, we account for more specific and powerful hardware (leading to higher FLOPS) that is usually accompanied with important energy efficiency optimisations. We also move the focus from the first implementation of a breakthrough paper towards the consolidated version of the techniques one or two year later. Under this distinctive and comprehensive perspective, we analyse relevant models in the areas of computer vision and natural language processing: for a sustained increase in performance we see a much softer growth in energy consumption than previously anticipated. The only caveat is, yet again, the multiplicative factor, as future AI increases penetration and becomes more pervasive.
-AD  - Univ Politecn Valencia, VRAIN, Valencia, SpainC3  - Universitat Politecnica de ValenciaFU  - MIT-Spain-INDITEX Sustainability Seed Fund; MCIN/AEI/10.13039/501100011033 [PID2021-122830OB-C42]; "ERDF A way of making Europe"; Generalitat Valenciana [INNEST/2021/317, PROMETEO/2019/098]; EU's Horizon 2020 research and innovation programme [952215]; Future of Life Institute, FLI [RFP2-152]; US DARPA [HR00112120007]
-FX  - We thank the reviewers for their insightful remarks, which have helped improve the paper significantly. This work has been partially supported by the MIT-Spain-INDITEX Sustainability Seed Fund under project COST-OMIZE, the grant PID2021-122830OB-C42 funded by MCIN/AEI/10.13039/501100011033 and "ERDF A way of making Europe", Generalitat Valenciana under INNEST/2021/317 and PROMETEO/2019/098, EU's Horizon 2020 research and innovation programme under grant agreement No. 952215 (TAILOR) , the Future of Life Institute, FLI, under grant RFP2-152, US DARPA HR00112120007 (RECoG-AI) .
-PU  - ELSEVIER
-PI  - AMSTERDAM
-PA  - RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
-SN  - 2210-5379
-SN  - 2210-5387
-J9  - SUSTAIN COMPUT-INFOR
-JI  - Sust. Comput.
-DA  - APR
-PY  - 2023
-VL  - 38
-C7  - 100857
-DO  - 10.1016/j.suscom.2023.100857
-C6  - FEB 2023
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000997935500001
-N1  - Times Cited in Web of Science Core Collection:  59
-Total Times Cited:  61
-Cited Reference Count:  110
-ER  -
-
-TY  - JOUR
-AU  - Moshirfar, M
-AU  - Altaf, AW
-AU  - Stoakes, IM
-AU  - Tuttle, JJ
-AU  - Hoopes, PC
-TI  - Artificial Intelligence in Ophthalmology: A Comparative Analysis of GPT-3.5, GPT-4, and Human Expertise in Answering StatPearls Questions
-T2  - CUREUS JOURNAL OF MEDICAL SCIENCE
-LA  - English
-KW  - cornea
-KW  - chatgpt-4
-KW  - chatgpt-3
-KW  - 5
-KW  - conversational generative pre-trained transformer
-KW  - chatbot
-KW  - ophthalmology
-KW  - clinical decision-making
-KW  - conversational ai
-KW  - statpearls
-KW  - artificial intelligence
-AB  - ImportanceChat Generative Pre-Trained Transformer (ChatGPT) has shown promising performance in various fields, including medicine, business, and law, but its accuracy in specialty-specific medical questions, particularly in ophthalmology, is still uncertain.PurposeThis study evaluates the performance of two ChatGPT models (GPT-3.5 and GPT-4) and human professionals in answering ophthalmology questions from the StatPearls question bank, assessing their outcomes, and providing insights into the integration of artificial intelligence (AI) technology in ophthalmology.MethodsChatGPT's performance was evaluated using 467 ophthalmology questions from the StatPearls question bank. These questions were stratified into 11 subcategories, four difficulty levels, and three generalized anatomical categories. The answer accuracy of GPT-3.5, GPT-4, and human participants was assessed. Statistical analysis was conducted via the Kolmogorov-Smirnov test for normality, one-way analysis of variance (ANOVA) for the statistical significance of GPT-3 versus GPT-4 versus human performance, and repeated unpaired two-sample t-tests to compare the means of two groups. ResultsGPT-4 outperformed both GPT-3.5 and human professionals on ophthalmology StatPearls questions, except in the "Lens and Cataract" category. The performance differences were statistically significant overall, with GPT-4 achieving higher accuracy (73.2%) compared to GPT-3.5 (55.5%, p-value < 0.001) and humans (58.3%, p-value < 0.001). There were variations in performance across difficulty levels (rated one to four), but GPT-4 consistently performed better than both GPT-3.5 and humans on level-two,-three, and-four questions. On questions of level-four difficulty, human performance significantly exceeded that of GPT-3.5 (p = 0.008).ConclusionThe study's findings demonstrate GPT-4's significant performance improvements over GPT-3.5 and human professionals on StatPearls ophthalmology questions. Our results highlight the potential of advanced conversational AI systems to be utilized as important tools in the education and practice of medicine.
-AD  - Hoopes Vis Res Ctr, Corneal & Refract Surg, Draper, UT 84020 USAAD  - Univ Utah, Ophthalmol, Salt Lake City, UT 84112 USAAD  - Utah Lions Eye Bank, Eye Banking & Corneal Transplantat, Murray, UT 84107 USAAD  - Univ Arizona, Coll Med Phoenix, Med Sch, Phoenix, AZ 85721 USAAD  - Pacific Northwest Univ Hlth Sci, Med Sch, Yakima, WA USAAD  - Hoopes Vis Res Ctr, Ophthalmol, Draper, UT 84020 USAAD  - Univ Texas Hlth Sci Ctr San Antonio, Med Sch, San Antonio, TX 78229 USAC3  - Utah System of Higher EducationC3  - University of UtahC3  - University of ArizonaC3  - University of Texas SystemC3  - University of Texas Health Science Center at San AntonioPU  - SPRINGERNATURE
-PI  - LONDON
-PA  - CAMPUS, 4 CRINAN ST, LONDON, N1 9XW, ENGLAND
-SN  - 2168-8184
-J9  - CUREUS J MED SCIENCE
-JI  - Cureus J Med Sci
-DA  - JUN 22
-PY  - 2023
-VL  - 15
-IS  - 6
-C7  - e40822
-DO  - 10.7759/cureus.40822
-WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001034596500007
-N1  - Times Cited in Web of Science Core Collection:  54
-Total Times Cited:  54
-Cited Reference Count:  18
-ER  -
-
-TY  - JOUR
-AU  - Zhang, P
-AU  - Boulos, MNK
-TI  - Generative AI in Medicine and Healthcare: Promises, Opportunities and Challenges
-T2  - FUTURE INTERNET
-LA  - English
-KW  - generative AI
-KW  - large language models
-KW  - ChatGPT
-KW  - artificial intelligence
-KW  - medicine
-KW  - healthcare
-KW  - human health
-AB  - Generative AI (artificial intelligence) refers to algorithms and models, such as OpenAI's ChatGPT, that can be prompted to generate various types of content. In this narrative review, we present a selection of representative examples of generative AI applications in medicine and healthcare. We then briefly discuss some associated issues, such as trust, veracity, clinical safety and reliability, privacy, copyrights, ownership, and opportunities, e.g., AI-driven conversational user interfaces for friendlier human-computer interaction. We conclude that generative AI will play an increasingly important role in medicine and healthcare as it further evolves and gets better tailored to the unique settings and requirements of the medical domain and as the laws, policies and regulatory frameworks surrounding its use start taking shape.
-AD  - Vanderbilt Univ, Dept Comp Sci, Nashville, TN 37240 USAAD  - Vanderbilt Univ, Data Sci Inst, Nashville, TN 37240 USAAD  - Univ Lisbon, Sch Med, P-1649028 Lisbon, PortugalC3  - Vanderbilt UniversityC3  - Vanderbilt UniversityC3  - Universidade de LisboaPU  - MDPI
-PI  - BASEL
-PA  - ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
-SN  - 1999-5903
-J9  - FUTURE INTERNET
-JI  - Future Internet
-DA  - SEP
-PY  - 2023
-VL  - 15
-IS  - 9
-C7  - 286
-DO  - 10.3390/fi15090286
-WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001074041500001
-N1  - Times Cited in Web of Science Core Collection:  52
-Total Times Cited:  54
-Cited Reference Count:  93
-ER  -
-
-TY  - JOUR
-AU  - Benemaran, RS
-AU  - Esmaeili-Falak, M
-TI  - Predicting the Young's modulus of frozen sand using machine learning approaches: State-of-the-art review
-T2  - GEOMECHANICS AND ENGINEERING
-LA  - English
-KW  - Artificial Ground Freezing
-KW  - data mining
-KW  - forecasting
-KW  - laboratory test
-KW  - numerical simulation
-KW  - GAUSSIAN PROCESS REGRESSION
-KW  - FREEZE-THAW
-KW  - MECHANICAL-PROPERTIES
-KW  - COMPRESSIVE STRENGTH
-KW  - MODEL
-KW  - BEHAVIOR
-KW  - OPTIMIZATION
-KW  - STONES
-KW  - SOILS
-KW  - FLOW
-AB  - Accurately estimation of the geo-mechanical parameters in Artificial Ground Freezing (AGF) is a most important scientific topic in soil improvement and geotechnical engineering. In order for this, one way is using classical and conventional constitutive models based on different theories like critical state theory, Hooke's law, and so on, which are time-consuming, costly, and troublous. The others are the application of artificial intelligence (AI) techniques to predict considered parameters and behaviors accurately. This study presents a comprehensive data-mining-based model for predicting the Young's Modulus of frozen sand under the triaxial test. For this aim, several single and hybrid models were considered including additive regression, bagging, M5-Rules, M5P, random forests (RF), support vector regression (SVR), locally weighted linear (LWL), gaussian process regression (GPR), and multi-layered perceptron neural network (MLP). In the present study, cell pressure, strain rate, temperature, time, and strain were considered as the input variables, where the Young's Modulus was recognized as target. The results showed that all selected single and hybrid predicting models have acceptable agreement with measured experimental results. Especially, hybrid Additive Regression-Gaussian Process Regression and Bagging-Gaussian Process Regression have the best accuracy based on Model performance assessment criteria.
-AD  - Univ Zanjan, Fac Geotech Engn, Dept Civil Engn, Zanjan, IranAD  - Islamic Azad Univ, Dept Civil Engn, North Tehran Branch, Tehran, IranC3  - University ZanjanC3  - Islamic Azad UniversityPU  - TECHNO-PRESS
-PI  - DAEJEON
-PA  - PO BOX 33, YUSEONG, DAEJEON 305-600, SOUTH KOREA
-SN  - 2005-307X
-SN  - 2092-6219
-J9  - GEOMECH ENG
-JI  - Geomech. Eng.
-DA  - SEP 10
-PY  - 2023
-VL  - 34
-IS  - 5
-SP  - 507
-EP  - 527
-DO  - 10.12989/gae.2023.34.5.507
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001064929200004
-N1  - Times Cited in Web of Science Core Collection:  49
-Total Times Cited:  49
-Cited Reference Count:  74
-ER  -
-
-TY  - JOUR
-AU  - Cohen, IG
-TI  - What Should ChatGPT Mean for Bioethics?
-T2  - AMERICAN JOURNAL OF BIOETHICS
-LA  - English
-KW  - ChatGPT
-KW  - large language model (LLM)
-KW  - informed consent
-KW  - privacy
-KW  - oligopoly
-KW  - bias
-KW  - environment
-KW  - PRIVACY
-AB  - In the last several months, several major disciplines have started their initial reckoning with what ChatGPT and other Large Language Models (LLMs) mean for them - law, medicine, business among other professions. With a heavy dose of humility, given how fast the technology is moving and how uncertain its social implications are, this article attempts to give some early tentative thoughts on what ChatGPT might mean for bioethics. I will first argue that many bioethics issues raised by ChatGPT are similar to those raised by current medical AI - built into devices, decision support tools, data analytics, etc. These include issues of data ownership, consent for data use, data representativeness and bias, and privacy. I describe how these familiar issues appear somewhat differently in the ChatGPT context, but much of the existing bioethical thinking on these issues provides a strong starting point. There are, however, a few "new-ish" issues I highlight - by new-ish I mean issues that while perhaps not truly new seem much more important for it than other forms of medical AI. These include issues about informed consent and the right to know we are dealing with an AI, the problem of medical deepfakes, the risk of oligopoly and inequitable access related to foundational models, environmental effects, and on the positive side opportunities for the democratization of knowledge and empowering patients. I also discuss how races towards dominance (between large companies and between the U.S. and geopolitical rivals like China) risk sidelining ethics.
-AD  - Harvard Law Sch, Petrie Flom Ctr Hlth Law Policy Biotechnol & Bioet, Cambridge, MA 02138 USAC3  - Harvard UniversityFU  - Novo Nordisk Foundation [NNF17SA0027784]
-FX  - My work on medical AI is supported by a Novo Nordisk Foundation-grant for a scientifically independent Collaborative Research Programme in Biomedical Innovation Law (grant agreement number NNF17SA0027784).
-PU  - ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
-PI  - ABINGDON
-PA  - 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
-SN  - 1526-5161
-SN  - 1536-0075
-J9  - AM J BIOETHICS
-JI  - Am. J. Bioeth.
-DA  - OCT 3
-PY  - 2023
-VL  - 23
-IS  - 10
-SP  - 8
-EP  - 16
-DO  - 10.1080/15265161.2023.2233357
-C6  - JUL 2023
-WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:001029754900001
-N1  - Times Cited in Web of Science Core Collection:  47
-Total Times Cited:  48
-Cited Reference Count:  50
-ER  -
-

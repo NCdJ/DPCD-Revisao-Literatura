@@ -1,410 +1,0 @@
-﻿TY  - JOUR
-AU  - Zheng, NN
-AU  - Du, SY
-AU  - Wang, JJ
-AU  - Zhang, H
-AU  - Cui, WT
-AU  - Kang, ZJ
-AU  - Yang, T
-AU  - Lou, B
-AU  - Chi, YT
-AU  - Long, H
-AU  - Ma, M
-AU  - Yuan, Q
-AU  - Zhang, SP
-AU  - Zhang, D
-AU  - Ye, F
-AU  - Xin, JM
-TI  - Predicting COVID-19 in China Using Hybrid AI Model
-T2  - IEEE TRANSACTIONS ON CYBERNETICS
-LA  - English
-KW  - Epidemics
-KW  - Viruses (medical)
-KW  - Predictive models
-KW  - Market research
-KW  - Analytical models
-KW  - Natural language processing
-KW  - Coronavirus disease 2019 (COVID-19) prediction
-KW  - epidemic model
-KW  - hybrid artificial-intelligence (AI) model
-KW  - natural language processing (NLP)
-KW  - OUTBREAK CONTROL
-KW  - EPIDEMIC MODEL
-KW  - EBOLA
-KW  - SEIR
-AB  - The coronavirus disease 2019 (COVID-19) breaking out in late December 2019 is gradually being controlled in China, but it is still spreading rapidly in many other countries and regions worldwide. It is urgent to conduct prediction research on the development and spread of the epidemic. In this article, a hybrid artificial-intelligence (AI) model is proposed for COVID-19 prediction. First, as traditional epidemic models treat all individuals with coronavirus as having the same infection rate, an improved susceptible-infected (ISI) model is proposed to estimate the variety of the infection rates for analyzing the transmission laws and development trend. Second, considering the effects of prevention and control measures and the increase of the public's prevention awareness, the natural language processing (NLP) module and the long short-term memory (LSTM) network are embedded into the ISI model to build the hybrid AI model for COVID-19 prediction. The experimental results on the epidemic data of several typical provinces and cities in China show that individuals with coronavirus have a higher infection rate within the third to eighth days after they were infected, which is more in line with the actual transmission laws of the epidemic. Moreover, compared with the traditional epidemic models, the proposed hybrid AI model can significantly reduce the errors of the prediction results and obtain the mean absolute percentage errors (MAPEs) with 0.52%, 0.38%, 0.05%, and 0.86% for the next six days in Wuhan, Beijing, Shanghai, and countrywide, respectively.
-AD  - Xi An Jiao Tong Univ, Inst Artificial Intelligence & Robot, Xian 710049, Peoples R ChinaAD  - Xi An Jiao Tong Univ, Sch Software, Xian 710049, Peoples R ChinaAD  - Xi An Jiao Tong Univ, Affiliated Hosp 1, Infect Dept, Xian 710061, Peoples R ChinaC3  - Xi'an Jiaotong UniversityC3  - Xi'an Jiaotong UniversityC3  - Xi'an Jiaotong UniversityFU  - National Key Research and Development Program of China [2016YFB1000900]
-FX  - This work was supported by the National Key Research and Development Program of China under Grant 2016YFB1000900. This article was recommended by Associate Editor J. Han.
-PU  - IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
-PI  - PISCATAWAY
-PA  - 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
-SN  - 2168-2267
-SN  - 2168-2275
-J9  - IEEE T CYBERNETICS
-JI  - IEEE T. Cybern.
-DA  - JUL
-PY  - 2020
-VL  - 50
-IS  - 7
-SP  - 2891
-EP  - 2904
-DO  - 10.1109/TCYB.2020.2990162
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000544035300001
-N1  - Times Cited in Web of Science Core Collection:  142
-Total Times Cited:  150
-Cited Reference Count:  38
-ER  -
-
-TY  - JOUR
-AU  - Medvedeva, M
-AU  - Vols, M
-AU  - Wieling, M
-TI  - Using machine learning to predict decisions of the European Court of Human Rights
-T2  - ARTIFICIAL INTELLIGENCE AND LAW
-LA  - English
-KW  - Machine learning
-KW  - Case law
-KW  - European Court of Human Rights
-KW  - Natural language processing
-KW  - Judicial decisions
-KW  - NETWORK ANALYSIS
-KW  - LAW
-KW  - CITATIONS
-KW  - JUDICIARY
-KW  - BEHAVIOR
-KW  - JUDGES
-AB  - When courts started publishing judgements, big data analysis (i.e. large-scale statistical analysis of case law and machine learning) within the legal domain became possible. By taking data from the European Court of Human Rights as an example, we investigate how natural language processing tools can be used to analyse texts of the court proceedings in order to automatically predict (future) judicial decisions. With an average accuracy of 75% in predicting the violation of 9 articles of the European Convention on Human Rights our (relatively simple) approach highlights the potential of machine learning approaches in the legal domain. We show, however, that predicting decisions for future cases based on the cases from the past negatively impacts performance (average accuracy range from 58 to 68%). Furthermore, we demonstrate that we can achieve a relatively high classification performance (average accuracy of 65%) when predicting outcomes based only on the surnames of the judges that try the case.
-AD  - Univ Groningen, Fac Arts, Ctr Language & Cognit Groningen, Groningen, NetherlandsAD  - Univ Groningen, Fac Law, Dept Legal Methods, Groningen, NetherlandsC3  - University of GroningenC3  - University of GroningenFU  - NVIDIA Corporation
-FX  - We gratefully acknowledge the support of NVIDIA Corporation with the donation of the Titan Xp GPU used for this research.
-PU  - SPRINGER
-PI  - DORDRECHT
-PA  - VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
-SN  - 0924-8463
-SN  - 1572-8382
-J9  - ARTIF INTELL LAW
-JI  - Artif. Intell. Law
-DA  - JUN
-PY  - 2020
-VL  - 28
-IS  - 2
-SP  - 237
-EP  - 266
-DO  - 10.1007/s10506-019-09255-y
-WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:000537433500003
-N1  - Times Cited in Web of Science Core Collection:  142
-Total Times Cited:  145
-Cited Reference Count:  69
-ER  -
-
-TY  - JOUR
-AU  - Dyer, J
-AU  - Kolic, B
-TI  - Public risk perception and emotion on Twitter during the Covid-19 pandemic
-T2  - APPLIED NETWORK SCIENCE
-LA  - English
-KW  - Risk perception
-KW  - Twitter
-KW  - Covid-19
-KW  - Natural language processing
-KW  - Psychophysics
-KW  - Regression analysis
-KW  - Linguistic networks
-KW  - Network partitions
-KW  - INSENSITIVITY
-KW  - EXPECTATION
-AB  - Successful navigation of the Covid-19 pandemic is predicated on public cooperation with safety measures and appropriate perception of risk, in which emotion and attention play important roles. Signatures of public emotion and attention are present in social media data, thus natural language analysis of this text enables near-to-real-time monitoring of indicators of public risk perception. We compare key epidemiological indicators of the progression of the pandemic with indicators of the public perception of the pandemic constructed from similar to 20 million unique Covid-19-related tweets from 12 countries posted between 10th March and 14th June 2020. We find evidence of psychophysical numbing:Twitter users increasingly fixate on mortality, but in a decreasingly emotional and increasingly analytic tone. Semantic network analysis based on word co-occurrences reveals changes in the emotional framing of Covid-19 casualties that are consistent with this hypothesis. We also find that the average attention afforded to national Covid-19 mortality rates is modelled accurately with the Weber-Fechner and power law functions of sensory perception. Our parameter estimates for these models are consistent with estimates from psychological experiments, and indicate that users in this dataset exhibit differential sensitivity by country to the national Covid-19 death rates. Our work illustrates the potential utility of social media for monitoring public risk perception and guiding public communication during crisis scenarios.
-AD  - Univ Oxford, Inst New Econ Thinking, Oxford Martin Sch, Oxford, EnglandAD  - Univ Oxford, Math Inst, Oxford, EnglandC3  - University of OxfordC3  - University of OxfordFU  - EPSRC Centre For Doctoral Training in Industrially Focused Mathematical Modelling [EP/L015803/1]; Conacyt-SENER: Sustentabilidad Energetica scoloraship; Improbable Worlds Limited
-FX  - JD is supported by the EPSRC Centre For Doctoral Training in Industrially Focused Mathematical Modelling (EP/L015803/1) in collaboration with Improbable Worlds Limited. BK acknowledges funding from the Conacyt-SENER: Sustentabilidad Energetica scoloraship.
-PU  - SPRINGERNATURE
-PI  - LONDON
-PA  - CAMPUS, 4 CRINAN ST, LONDON, N1 9XW, ENGLAND
-SN  - 2364-8228
-J9  - APPL NETW SCI
-JI  - Appl. Netw. Sci.
-DA  - DEC 16
-PY  - 2020
-VL  - 5
-IS  - 1
-C7  - 99
-DO  - 10.1007/s41109-020-00334-7
-WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:000680406800001
-N1  - Times Cited in Web of Science Core Collection:  54
-Total Times Cited:  57
-Cited Reference Count:  69
-ER  -
-
-TY  - JOUR
-AU  - Qu, YR
-AU  - Zhu, HZ
-AU  - Shen, YC
-AU  - Zhang, J
-AU  - Tao, CN
-AU  - Ghosh, PT
-AU  - Qiu, M
-TI  - Inverse design of an integrated-nanophotonics optical neural network
-T2  - SCIENCE BULLETIN
-LA  - English
-AB  - Artificial neural networks have dramatically improved the performance of many machine-learning applications such as image recognition and natural language processing. However, the electronic hardware implementations of the above-mentioned tasks are facing performance ceiling because Moore's Law is slowing down. In this article, we propose an optical neural network architecture based on optical scattering units to implement deep learning tasks with fast speed, low power consumption and small footprint. The optical scattering units allow light to scatter back and forward within a small region and can be optimized through an inverse design method. The optical scattering units can implement high-precision stochastic matrix multiplication with mean squared error < 10(-4) and a mere 4x4 mu m(2) footprint. Furthermore, an optical neural network framework based on optical scattering units is constructed by introducing "Kernel Matrix", which can achieve 97.1% accuracy on the classic image classification dataset MNIST.
-AD  - Westlake Univ, Sch Engn, Key Lab 3D Micro Nano Fabricat & Characterizat Zh, Hangzhou 310024, Peoples R ChinaAD  - Westlake Inst Adv Study, Inst Adv Technol, Hangzhou 310024, Peoples R ChinaAD  - Zhejiang Univ, Coll Opt Sci & Engn, State Key Lab Modern Opt Instrumentat, Hangzhou 310027, Peoples R ChinaAD  - MIT, Dept Phys, Cambridge, MA 02139 USAAD  - Univ Calif San Diego, Elect & Comp Engn, San Diego, CA 92093 USAC3  - Westlake UniversityC3  - Westlake UniversityC3  - Zhejiang UniversityC3  - Massachusetts Institute of Technology (MIT)C3  - University of California SystemC3  - University of California San DiegoFU  - National Key Research and Development Program of China [2017YFA0205700]; National Natural Science Foundation of China [61927820]; Zhejiang Lab's International Talent Fund for Young Professionals
-FX  - This work was supported by the National Key Research and Development Program of China (2017YFA0205700) and the National Natural Science Foundation of China (61927820). Yurui Qu was supported by Zhejiang Lab's International Talent Fund for Young Professionals.
-PU  - ELSEVIER
-PI  - AMSTERDAM
-PA  - RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
-SN  - 2095-9273
-SN  - 2095-9281
-J9  - SCI BULL
-JI  - Sci. Bull.
-DA  - JUL 30
-PY  - 2020
-VL  - 65
-IS  - 14
-SP  - 1177
-EP  - 1183
-DO  - 10.1016/j.scib.2020.03.042
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000540320300010
-N1  - Times Cited in Web of Science Core Collection:  50
-Total Times Cited:  55
-Cited Reference Count:  41
-ER  -
-
-TY  - JOUR
-AU  - Andreu, L
-AU  - Bigne, E
-AU  - Amaro, S
-AU  - Palomo, J
-TI  - Airbnb research: an analysis in tourism and hospitality journals
-T2  - INTERNATIONAL JOURNAL OF CULTURE TOURISM AND HOSPITALITY RESEARCH
-LA  - English
-KW  - Airbnb
-KW  - Sharing economy
-KW  - Collaborative economy
-KW  - Peer-to-peer accommodation
-KW  - Bibliometric study
-KW  - Co-word analysis
-KW  - SHARING ECONOMY
-KW  - BIBLIOMETRIC ANALYSIS
-KW  - ACCOMMODATION
-KW  - NETWORKS
-KW  - PLATFORM
-AB  - Purpose
-   The purpose of this study is to examine Airbnb research using bibliometric methods. Using research performance analysis, this study highlights and provides an updated overview of Airbnb research by revealing patterns in journals, papers and most influential authors and countries. Furthermore, it graphically illustrates how research themes have evolved by mapping a co-word analysis and points out potential trends for future research.
-   Design/methodology/approach
-   The methodological design for this study involves three phases: the document source selection, the definition of the variables to be analyzed and the bibliometric analysis. A statistical multivariate analysis of all the documents' characteristics was performed with R software. Furthermore, natural language processing techniques were used to analyze all the abstracts and keywords specified in the 129 selected documents.
-   Findings
-   Results show the genesis and evolution of publications on Airbnb research, scatter of journals and journals' characteristics, author and productivity characteristics, geographical distribution of the research and content analysis using keywords.
-   Originality/value
-   This study analyzed bibliometric set of laws (Price's, Lotka's and Bradford's) to better understand the patterns of the most relevant scientific production regarding Airbnb in tourism and hospitality journals. Using natural language processing techniques, this study analyzes all the abstracts and keywords specified in the selected documents. Results show the evolution of research topics in four periods: 2015-2016, 2017, 2018 and 2019.
-AD  - Univ Valencia, Dept Mkt, Valencia, SpainAD  - Polytech Inst Viseu, Dept Management, Viseu, PortugalAD  - Rey Juan Carlos Univ, Dept Business Adm, Madrid, SpainC3  - University of ValenciaC3  - Instituto Politecnico de ViseuC3  - Universidad Rey Juan CarlosPU  - EMERALD GROUP PUBLISHING LTD
-PI  - Leeds
-PA  - Floor 5, Northspring 21-23 Wellington Street, Leeds, W YORKSHIRE, ENGLAND
-SN  - 1750-6182
-SN  - 1750-6190
-J9  - INT J CULT TOUR HOSP
-JI  - Int. J. Cult. Tour. Hosp. Res.
-DA  - JAN 27
-PY  - 2020
-VL  - 14
-IS  - 1
-SP  - 2
-EP  - 20
-DO  - 10.1108/IJCTHR-06-2019-0113
-C6  - JAN 2020
-WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:000512192400001
-N1  - Times Cited in Web of Science Core Collection:  42
-Total Times Cited:  42
-Cited Reference Count:  54
-ER  -
-
-TY  - JOUR
-AU  - Frey, WR
-AU  - Patton, DU
-AU  - Gaskell, MB
-AU  - McGregor, KA
-TI  - Artificial Intelligence and Inclusion: Formerly Gang-Involved Youth as Domain Experts for Analyzing Unstructured Twitter Data
-T2  - SOCIAL SCIENCE COMPUTER REVIEW
-LA  - English
-KW  - social media
-KW  - gang violence
-KW  - domain experts
-KW  - artificial intelligence
-KW  - inclusion
-KW  - qualitative methods
-KW  - natural language processing
-KW  - Big Data
-KW  - ethics
-KW  - law enforcement
-KW  - SOCIAL MEDIA
-KW  - VIOLENCE
-AB  - Mining social media data for studying the human condition has created new and unique challenges. When analyzing social media data from marginalized communities, algorithms lack the ability to accurately interpret off-line context, which may lead to dangerous assumptions about and implications for marginalized communities. To combat this challenge, we hired formerly gang-involved young people as domain experts for contextualizing social media data in order to create inclusive, community-informed algorithms. Utilizing data from the Gang Intervention and Computer Science Project-a comprehensive analysis of Twitter data from gang-involved youth in Chicago-we describe the process of involving formerly gang-involved young people in developing a new part-of-speech tagger and content classifier for a prototype natural language processing system that detects aggression and loss in Twitter data. We argue that involving young people as domain experts leads to more robust understandings of context, including localized language, culture, and events. These insights could change how data scientists approach the development of corpora and algorithms that affect people in marginalized communities and who to involve in that process. We offer a contextually driven interdisciplinary approach between social work and data science that integrates domain insights into the training of qualitative annotators and the production of algorithms for positive social impact.
-AD  - Columbia Univ, Sch Social Work, SAFElab, New York, NY USAAD  - New York Univ Langone Hlth, Dept Child & Adolescent Psychol, New York, NY USAAD  - New York Univ Langone Hlth, Dept Populat Hlth, New York, NY USAC3  - Columbia UniversityC3  - New York UniversityC3  - New York UniversityFU  - NIMH NIH HHS [L40 MH117731] Funding Source: Medline
-PU  - SAGE PUBLICATIONS INC
-PI  - THOUSAND OAKS
-PA  - 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
-SN  - 0894-4393
-SN  - 1552-8286
-J9  - SOC SCI COMPUT REV
-JI  - Soc. Sci. Comput. Rev.
-DA  - FEB
-PY  - 2020
-VL  - 38
-IS  - 1
-SP  - 42
-EP  - 56
-DO  - 10.1177/0894439318788314
-WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:000506055900004
-N1  - Times Cited in Web of Science Core Collection:  36
-Total Times Cited:  39
-Cited Reference Count:  31
-ER  -
-
-TY  - JOUR
-AU  - Paladines, J
-AU  - Ramírez, J
-TI  - A Systematic Literature Review of Intelligent Tutoring Systems With Dialogue in Natural Language
-T2  - IEEE ACCESS
-LA  - English
-KW  - Systematics
-KW  - Bibliographies
-KW  - Tutorials
-KW  - Natural language processing
-KW  - Task analysis
-KW  - Licenses
-KW  - Intelligent tutoring system
-KW  - natural language dialogue
-KW  - natural language processing
-KW  - systematic literature review
-KW  - COLLABORATIVE DISCOURSE THEORY
-KW  - AUTOTUTOR
-KW  - FEEDBACK
-KW  - EXPLANATIONS
-AB  - Intelligent tutoring systems (ITSs) are computer programs that provide instruction adapted to the needs of individual students. Dialog systems are computer programs that communicate with human users by using natural language. This paper presents a systematic literature review to address ITSs that incorporate dialog systems and have been implemented in the last twenty years. The review found 33 ITSs and focused on answering the following five research questions. a) What ITSs with natural language dialogue have been developed? b) What is the main purpose of the tutoring dialogue in each system? c) What are the pedagogical features of the teaching process performed by the ITSs with natural language dialogue? d) What natural language understanding approach does each system employ to understand students' utterances? e) What evidence exists related to the evaluation of ITSs with natural language dialogue? The results of this review reveal that most ITSs are directed toward science, technology, engineering, and mathematics (STEM) domains at the university level, and the majority of the selected ITSs implement the expectations and misconceptions tailored approach. Furthermore, most ITSs use dialog to help students learn how to solve a problem by applying rules, laws, etc. (the apply level in Bloom's taxonomy). With regard to the instructional approach, the selected ITSs help students write correct explanations or answers for deep questions; assist students in problem solving; or support a reflective dialogue motivated by either previously provided content or the result of a simulation. Additionally, we found empirical evaluations for 90.91% of the selected ITSs that measure the learning gains and/or assess the impacts of different tutoring strategies.
-AD  - Univ Politecn Madrid, Comp Sci Sch, Madrid 28660, SpainAD  - Univ Estatal Sur Manab, Thecn Sci Fac, Manabi 130650, EcuadorC3  - Universidad Politecnica de MadridFU  - Universidad Estatal del Sur de Manabi
-FX  - This work was supported by the Universidad Estatal del Sur de Manabi.
-PU  - IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
-PI  - PISCATAWAY
-PA  - 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
-SN  - 2169-3536
-J9  - IEEE ACCESS
-JI  - IEEE Access
-PY  - 2020
-VL  - 8
-SP  - 164246
-EP  - 164267
-DO  - 10.1109/ACCESS.2020.3021383
-WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:000572896900001
-N1  - Times Cited in Web of Science Core Collection:  35
-Total Times Cited:  36
-Cited Reference Count:  115
-ER  -
-
-TY  - CHAP
-AU  - Frankenreiter, J
-AU  - Livermore, MA
-ED  - MacCoun, RJ
-TI  - Computational Methods in Legal Analysis
-T2  - ANNUAL REVIEW OF LAW AND SOCIAL SCIENCE, VOL 16
-LA  - English
-KW  - computational law
-KW  - machine learning
-KW  - empirical legal studies
-KW  - legal history
-KW  - digital humanities
-KW  - big data
-KW  - SUPREME-COURT OPINIONS
-KW  - NETWORK ANALYSIS
-KW  - EUROPEAN COURT
-KW  - LAW
-KW  - PRECEDENT
-KW  - CITATIONS
-KW  - COMPLEXITY
-KW  - RULES
-KW  - BIAS
-KW  - INNOVATION
-AB  - The digitization of legal texts and advances in artificial intelligence, natural language processing, text mining, network analysis, and machine learning have led to new forms of legal analysis by lawyers and law scholars. This article provides an overview of how computational methods are affecting research across the varied landscape of legal scholarship, from the interpretation of legal texts to the quantitative estimation of causal factors that shape the law. As computational tools continue to penetrate legal scholarship, they allow scholars to gain traction on traditional research questions and may engender entirely new research programs. Already, computational methods have facilitated important contributions in a diverse array of law-related research areas. As these tools continue to advance, and law scholars become more familiar with their potential applications, the impact of computational methods is likely to continue to grow.
-AD  - Columbia Univ, Columbia Law Sch, Ira M Millstein Ctr Global Markets & Corp Ownersh, New York, NY 10027 USAAD  - Univ Virginia, Sch Law, Charlottesville, VA 22903 USAC3  - Columbia UniversityC3  - University of VirginiaPU  - ANNUAL REVIEWS
-PI  - PALO ALTO
-PA  - 4139 EL CAMINO WAY, PO BOX 10139, PALO ALTO, CA 94303-0897 USA
-SN  - 1550-3585
-SN  - 978-0-8243-4116-9
-J9  - ANNU REV LAW SOC SCI
-JI  - Annu. Rev. Law. Soc. Sci.
-PY  - 2020
-VL  - 16
-SP  - 39
-EP  - 57
-DO  - 10.1146/annurev-lawsocsci-052720-121843
-WE  - Book Citation Index – Social Sciences & Humanities (BKCI-SSH)WE  - Social Science Citation Index (SSCI)AN  - WOS:000590408800003
-N1  - Times Cited in Web of Science Core Collection:  33
-Total Times Cited:  36
-Cited Reference Count:  150
-ER  -
-
-TY  - JOUR
-AU  - Ji, DH
-AU  - Tao, P
-AU  - Fei, H
-AU  - Ren, YF
-TI  - An end-to-end joint model for evidence information extraction from court record document
-T2  - INFORMATION PROCESSING & MANAGEMENT
-LA  - English
-KW  - Natural language processing
-KW  - Information extraction
-KW  - Court record document
-KW  - Neural networks
-KW  - Joint model
-KW  - LEGAL
-KW  - CLASSIFICATION
-AB  - Information extraction is one of the important tasks in the field of Natural Language Processing (NLP). Most of the existing methods focus on general texts and little attention is paid to information extraction in specialized domains such as legal texts. This paper explores the task of information extraction in the legal field, which aims to extract evidence information from court record documents (CRDs). In the general domain, entities and relations are mostly words and phrases, indicating that they do not span multiple sentences. In contrast, evidence information in CRDs may span multiple sentences, while existing models cannot handle this situation. To address this issue, we first add a classification task in addition to the extraction task. We then formulate the two tasks as a multi-task learning problem and present a novel end-to-end model to jointly address the two tasks. The joint model adopts a shared encoder followed by separate decoders for the two tasks. The experimental results on the dataset show the effectiveness of the proposed model, which can obtain 72.36% F1 score, outperforming previous methods and strong baselines by a large margin.
-AD  - Wuhan Univ, Sch Cyber Sci & Engn, Wuhan 430072, Peoples R ChinaAD  - Guangdong Univ Foreign Studies, Lab Language & Artificial Intelligence, Guangzhou 510420, Peoples R ChinaC3  - Wuhan UniversityC3  - Guangdong University of Foreign StudiesFU  - National Natural Science Foundation of China [61702121, 61772378]; Research Foundation of Ministry of Education of China [18JZD015]; Key Project of State Language Commission of China [ZDI135112]; Guangdong Basic and Applied Basic Research Foundation of China [2020A151501705]; Science and Technology Project of Guangzhou [201704030002]
-FX  - This work is supported by the National Natural Science Foundation of China (Nos. 61702121 and 61772378), the Research Foundation of Ministry of Education of China (No. 18JZD015), the Key Project of State Language Commission of China (No. ZDI135112), Guangdong Basic and Applied Basic Research Foundation of China (No. 2020A151501705) and the Science and Technology Project of Guangzhou (No. 201704030002).
-PU  - ELSEVIER SCI LTD
-PI  - London
-PA  - 125 London Wall, London, ENGLAND
-SN  - 0306-4573
-SN  - 1873-5371
-J9  - INFORM PROCESS MANAG
-JI  - Inf. Process. Manage.
-DA  - NOV
-PY  - 2020
-VL  - 57
-IS  - 6
-C7  - 102305
-DO  - 10.1016/j.ipm.2020.102305
-WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:000582206800033
-N1  - Times Cited in Web of Science Core Collection:  32
-Total Times Cited:  35
-Cited Reference Count:  55
-ER  -
-
-TY  - JOUR
-AU  - Yang, Z
-AU  - Dehmer, M
-AU  - Yli-Harja, O
-AU  - Emmert-Streib, F
-TI  - Combining deep learning with token selection for patient phenotyping from electronic health records
-T2  - SCIENTIFIC REPORTS
-LA  - English
-KW  - NATURAL-LANGUAGE
-KW  - NEURAL-NETWORKS
-KW  - LAW
-AB  - Artificial intelligence provides the opportunity to reveal important information buried in large amounts of complex data. Electronic health records (eHRs) are a source of such big data that provide a multitude of health related clinical information about patients. However, text data from eHRs, e.g., discharge summary notes, are challenging in their analysis because these notes are free-form texts and the writing formats and styles vary considerably between different records. For this reason, in this paper we study deep learning neural networks in combination with natural language processing to analyze text data from clinical discharge summaries. We provide a detail analysis of patient phenotyping, i.e., the automatic prediction of ten patient disorders, by investigating the influence of network architectures, sample sizes and information content of tokens. Importantly, for patients suffering from Chronic Pain, the disorder that is the most difficult one to classify, we find the largest performance gain for a combined word- and sentence-level input convolutional neural network (ws-CNN). As a general result, we find that the combination of data quality and data quantity of the text data is playing a crucial role for using more complex network architectures that improve significantly beyond a word-level input CNN model. From our investigations of learning curves and token selection mechanisms, we conclude that for such a transition one requires larger sample sizes because the amount of information per sample is quite small and only carried by few tokens and token categories. Interestingly, we found that the token frequency in the eHRs follow a Zipf law and we utilized this behavior to investigate the information content of tokens by defining a token selection mechanism. The latter addresses also issues of explainable AI.
-AD  - Tampere Univ, Predict Soc & Data Analyt Lab, Korkeakoulunkatu 10, Tampere 33720, FinlandAD  - Univ Appl Sci Upper Austria, Steyr Sch Management, Steyr Campus, A-4400 Steyr, AustriaAD  - Nankai Univ, Coll Artificial Intelligence, Tianjin 300350, Peoples R ChinaAD  - UMIT Hlth & Life Sci Univ, Dept Biomed Comp Sci & Mechatron, A-6060 Hall In Tirol, AustriaAD  - Tampere Univ, Computat Syst Biol Lab, Korkeakoulunkatu 10, Tampere 33720, FinlandAD  - Tampere Univ, Inst Biosci & Med Technol, Korkeakoulunkatu 10, Tampere 33720, FinlandAD  - Inst Syst Biol, Seattle, WA 98109 USAC3  - Tampere UniversityC3  - Nankai UniversityC3  - Tampere UniversityC3  - Tampere UniversityC3  - Institute for Systems Biology (ISB)FU  - Austrian Science Funds [P30031]
-FX  - Matthias Dehmer thanks the Austrian Science Funds for supporting this work (project P30031). Part of the presented results have been obtained in the MSc thesis of Zhen Yang<SUP>73</SUP>.
-PU  - NATURE PORTFOLIO
-PI  - BERLIN
-PA  - HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
-SN  - 2045-2322
-J9  - SCI REP-UK
-JI  - Sci Rep
-DA  - JAN 29
-PY  - 2020
-VL  - 10
-IS  - 1
-C7  - 1432
-DO  - 10.1038/s41598-020-58178-1
-WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:000528915400012
-N1  - Times Cited in Web of Science Core Collection:  30
-Total Times Cited:  31
-Cited Reference Count:  74
-ER  -
-

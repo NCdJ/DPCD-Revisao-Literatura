@@ -1,441 +1,0 @@
-﻿TY  - JOUR
-AU  - Dale, R
-TI  - Industry Watch Law and Word Order : NLP in Legal Tech
-T2  - NATURAL LANGUAGE ENGINEERING
-LA  - English
-AB  - The law has language at its heart, so it's not surprising that software that operates on natural language has played a role in some areas of the legal profession for a long time. But the last few years have seen an increased interest in applying modern techniques to a wider range of problems, so I look here at how natural language processing is being used in the legal sector today.
-AD  - Language Technol Grp, Sydney, NSW, AustraliaPU  - CAMBRIDGE UNIV PRESS
-PI  - CAMBRIDGE
-PA  - EDINBURGH BLDG, SHAFTESBURY RD, CB2 8RU CAMBRIDGE, ENGLAND
-SN  - 1351-3249
-SN  - 1469-8110
-J9  - NAT LANG ENG
-JI  - Nat. Lang. Eng.
-DA  - JAN
-PY  - 2019
-VL  - 25
-IS  - 1
-SP  - 211
-EP  - 217
-DO  - 10.1017/S1351324918000475
-WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)WE  - Arts &amp; Humanities Citation Index (A&amp;HCI)AN  - WOS:000454302800008
-N1  - Times Cited in Web of Science Core Collection:  38
-Total Times Cited:  41
-Cited Reference Count:  1
-ER  -
-
-TY  - CPAPER
-AU  - Wang, ZY
-AU  - Wang, BX
-AU  - Duan, XY
-AU  - Wu, DY
-AU  - Wang, SJ
-AU  - Hu, GP
-AU  - Hu, T
-A1  - ASSOC COMPUTAT LINGUIST
-TI  - IFlyLegal: A Chinese Legal System for Consultation, Law Searching, and Document Analysis
-T2  - 2019 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING AND THE 9TH INTERNATIONAL JOINT CONFERENCE ON NATURAL LANGUAGE PROCESSING (EMNLP-IJCNLP 2019): PROCEEDINGS OF SYSTEM DEMONSTRATIONS
-LA  - English
-CP  - Conference on Empirical Methods in Natural Language Processing / 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP)
-AB  - Legal Tech is developed to help people with legal services and solve legal problems via machines. To achieve this, one of the key requirements for machines is to utilize legal knowledge and comprehend legal context. This can be fulfilled by natural language processing (NLP) techniques, for instance, text representation, text categorization, question answering (QA) and natural language inference, etc. To this end, we introduce a freely available Chinese Legal Tech system (IFlyLegal) that benefits from multiple NLP tasks. It is an integrated system that performs legal consulting, multiway law searching, and legal document analysis by exploiting techniques such as deep contextual representations and various attention mechanisms. To our knowledge, IFlyLegal is the first Chinese legal system that employs upto-date NLP techniques and caters for needs of different user groups, such as lawyers, judges, procurators, and clients. Since Jan, 2019, we have gathered 2,349 users and 28,238 page views (till June, 23, 2019).
-AD  - iFLYTEK Res, State Key Lab Cognit Intelligence, Beijing, Peoples R ChinaAD  - Harbin Inst Technol, Res Ctr Social Comp & Informat Retrieval, Harbin, Peoples R ChinaAD  - iFLYTEK AI Res Hebei, Langfang, Peoples R ChinaC3  - Harbin Institute of TechnologyFU  - National Key R&D Program of China [2018YFC0807701]
-FX  - The authors would like to thank all the reviewers for their insight reviews. This paper is funded by National Key R&D Program of China (No.2018YFC0807701).
-PU  - ASSOC COMPUTATIONAL LINGUISTICS-ACL
-PI  - STROUDSBURG
-PA  - 209 N EIGHTH STREET, STROUDSBURG, PA 18360 USA
-SN  - 978-1-950737-92-5
-PY  - 2019
-SP  - 97
-EP  - 102
-WE  - Conference Proceedings Citation Index - Science (CPCI-S)WE  - Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)AN  - WOS:000855231500017
-N1  - Times Cited in Web of Science Core Collection:  22
-Total Times Cited:  22
-Cited Reference Count:  12
-ER  -
-
-TY  - CPAPER
-AU  - Öztürk, CE
-AU  - Özçelik, SB
-AU  - Koç, A
-A1  - IEEE
-TI  - A Transformer-based Prior Legal Case Retrieval Method
-T2  - 2023 31ST SIGNAL PROCESSING AND COMMUNICATIONS APPLICATIONS CONFERENCE, SIU
-LA  - Turkish
-CP  - 31st IEEE Conference on Signal Processing and Communications Applications (SIU)
-KW  - Natural language processing
-KW  - legal tech
-KW  - deep learning
-KW  - prior legal case retrieval
-KW  - legal NLP
-KW  - Turkish NLP
-AB  - In this work, BERTurk-Legal, a transformer-based language model, is introduced to retrieve prior legal cases. BERTurk-Legal is pre-trained on a dataset from the Turkish legal domain. This dataset does not contain any labels related to the prior court case retrieval task. Masked language modeling is used to train BERTurk-Legal in a self-supervised manner. With zero-shot classification, BERTurk-Legal provides state-of-the-art results on the dataset consisting of legal cases of the Court of Cassation of Turkey. The results of the experiments show the necessity of developing language models specific to the Turkish law domain.
-AD  - Bilkent Univ, Elekt & Elekt Muhendisligi Bolumu, ASELSAN Res Ctr, Ankara, TurkiyeAD  - Bilkent Univ, Hukuk Fak, Ankara, TurkiyeAD  - Bilkent Univ, Elekt & Elekt Muhendisligi Bolumu, Ulusal Manyet Rezonans Arastirma Merkezi, Ankara, TurkiyeC3  - Ihsan Dogramaci Bilkent UniversityC3  - AselsanC3  - Ihsan Dogramaci Bilkent UniversityC3  - Ihsan Dogramaci Bilkent UniversityPU  - IEEE
-PI  - NEW YORK
-PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
-SN  - 2165-0608
-SN  - 979-8-3503-4355-7
-J9  - SIG PROCESS COMMUN
-PY  - 2023
-DO  - 10.1109/SIU59756.2023.10223938
-WE  - Conference Proceedings Citation Index - Science (CPCI-S)WE  - Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)AN  - WOS:001062571000166
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  28
-ER  -
-
-TY  - CPAPER
-AU  - Kalamkar, P
-AU  - Venugopalan, J
-AU  - Raghavan, V
-ED  - Yada, K
-ED  - Takama, Y
-ED  - Mineshima, K
-ED  - Satoh, K
-TI  - Benchmarks for Indian Legal NLP: A Survey
-T2  - NEW FRONTIERS IN ARTIFICIAL INTELLIGENCE, JSAI-ISAI 2021 WORKSHOPS, JURISIN 2021, LENLS18, SCIDOCA 2021, KANSEI-AI 2021, AND AI-BIZ 2021
-LA  - English
-CP  - International Symposium on Artificial Intelligence (ISAI)
-KW  - Natural Language Processing
-KW  - Legal Text Processing
-KW  - NLP Benchmarks
-AB  - Legal text is significantly different from English text (e.g. Wikipedia, News) used for training most natural language processing (NLP) algorithms. As a result, the state of the art algorithms (e.g. GPT3, BERT derivatives), need additional effort (e.g. fine-tuning and further pre-training) to achieve optimal performance on legal text. Hence there is a need to create separate NLP data sets and benchmarks for legal text which are challenging and focus on tasks specific to legal systems. This will spur innovation in applications of NLP for legal text and will benefit AI community and legal fraternity. This paper focuses on an empirical review of the existing work in the use of NLP in Indian legal text and proposes ideas to create new benchmarks for Indian Legal NLP.
-AD  - Thoughtworks India Pvt Ltd, Chennai, Tamil Nadu, IndiaAD  - Ek Step Fdn, Bangalore, Karnataka, IndiaFU  - EkStep Foundation
-FX  - This paper is funded by EkStep Foundation
-PU  - SPRINGER INTERNATIONAL PUBLISHING AG
-PI  - CHAM
-PA  - GEWERBESTRASSE 11, CHAM, CH-6330, SWITZERLAND
-SN  - 2945-9133
-SN  - 1611-3349
-SN  - 978-3-031-36189-0
-SN  - 978-3-031-36190-6
-J9  - LECT NOTES ARTIF INT
-PY  - 2023
-VL  - 13856
-SP  - 33
-EP  - 48
-DO  - 10.1007/978-3-031-36190-6_3
-WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:001298764700003
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  42
-ER  -
-
-TY  - JOUR
-AU  - Gomez, FJD
-AU  - Galende, JN
-TI  - ChatGPT and GPT-4: utilities in the legal sector, functioning, limitations and risks of foundational models
-T2  - TECNOLOGIA CIENCIA Y EDUCACION
-LA  - Spanish
-KW  - ChatGPT
-KW  - GPT-4
-KW  - OpenAI
-KW  - artificial intelligence
-KW  - legal tech
-KW  - natural language processing
-KW  - intellectual property
-KW  - data protection
-KW  - legal industry innovation
-KW  - LAW
-AB  - Artificial intelligence systems such as ChatGPT, the OpenAI chatbot, based on the language model family GPT (generative pre -trained transformers), as well as other solutions built on this technology and fine-tuned for specific tasks, have generated considerable interest across various sectors, including the legal sector. However, such models still feature important limitations and legal risks associated to their use, which must be considered in order to make a proper and legally responsible use of this technology. This work aims to familiarize the readers (men and women) with the configuration, architecture, and functioning of these systems, as well as their functionalities in the legal sector. It includes a review of their associated legal limitations and risks, with crucial practical implications in their application.
-AD  - Univ Cantabria, LLM Derecho Int los Negocios, Ctr Estudios Garrigues, Santander, SpainAD  - Univ Autonoma Madrid, Derecho & Adm Empresas, Madrid, SpainAD  - Ctr Estudios Garrigues, LLM Derecho Int Negocios, Madrid, SpainC3  - Universidad de CantabriaC3  - Autonomous University of MadridPU  - CENTRO ESTUDIOS FINANCIEROS
-PI  - MADRID
-PA  - P A GENERAL MARTANEZ CAMPOS, MADRID, 5, SPAIN
-SN  - 2444-250X
-SN  - 2444-2887
-J9  - TECNOL CIENC ED-ESP
-JI  - Tecnol. Cienc. Educ.
-DA  - MAY-AUG
-PY  - 2024
-IS  - 28
-SP  - 45
-EP  - 88
-DO  - 10.51302/tce.2024.19081
-WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001222663200006
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  202
-ER  -
-
-TY  - CPAPER
-AU  - Vianna, D
-AU  - de Moura, ES
-A1  - ACM
-TI  - Organizing Portuguese Legal Documents through Topic Discovery
-T2  - PROCEEDINGS OF THE 45TH INTERNATIONAL ACM SIGIR CONFERENCE ON RESEARCH AND DEVELOPMENT IN INFORMATION RETRIEVAL (SIGIR '22)
-LA  - English
-CP  - 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)
-KW  - law tech
-KW  - legal cases
-KW  - topic model
-KW  - language models
-AB  - A significant challenge in the legal domain is to organize and summarize a constantly growing collection of legal documents, uncovering hidden topics, or themes, that later can support tasks such as legal case retrieval and legal judgment prediction. This massive amount of digital legal documents, combined with the inherent complexity of judiciary systems worldwide, presents a promising scenario for Machine Learning solutions, mainly those taking advantage of all the advancements in the area of Natural Language Processing (NLP). It is in this scenario that Jusbrasil, the largest legal tech company in Brazil, is situated. Using a dataset partially curated by the Jusbrasil legal team, we explore topic modeling solutions using state of the art language models, trained with legal Portuguese documents, to automatically organize and summarize this complex collection of documents. Instead of using an entire legal case, which usually is composed of many pages, we show that it is possible to efficiently organize the collection using the syllabus (in Portuguese, ementa jurisprudencial) from each court decision as they concisely summarize the main points presented by the entire decision.
-AD  - Univ Fed Amazonas, Inst Comp, Manaus, Amazonas, BrazilAD  - Jusbrasil, Salvador, BA, BrazilC3  - Universidade Federal de AmazonasFU  - Jusbrasil Postdoctoral Fellowship Program, Brazilian [002/2020]; Coordination for the Improvement of Higher Education Personnel-Brazil (CAPES) [001]; CNPq [309765/2018-8]
-FX  - This research is partially supported by Jusbrasil Postdoctoral Fellowship Program, Brazilian funding agency FAPEAM-POSGRAD 2020 (Resolution 002/2020), the Coordination for the Improvement of Higher Education Personnel-Brazil (CAPES) financial code 001, and individual grant from CNPq (309765/2018-8) to Edleno Silva de Moura.
-PU  - ASSOC COMPUTING MACHINERY
-PI  - NEW YORK
-PA  - 1601 Broadway, 10th Floor, NEW YORK, NY, UNITED STATES
-SN  - 978-1-4503-8732-3
-PY  - 2022
-SP  - 3388
-EP  - 3392
-DO  - 10.1145/3477495.3536329
-WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000852715903060
-N1  - Times Cited in Web of Science Core Collection:  2
-Total Times Cited:  3
-Cited Reference Count:  20
-ER  -
-
-TY  - JOUR
-AU  - Francia, OAA
-AU  - Nunez-del-Prado, M
-AU  - Alatrista-Salas, H
-TI  - Survey of Text Mining Techniques Applied to Judicial Decisions Prediction
-T2  - APPLIED SCIENCES-BASEL
-LA  - English
-KW  - judicial prediction
-KW  - legal tech
-KW  - legal prediction
-KW  - machine learning
-KW  - natural language processing
-KW  - deep learning
-KW  - ARTIFICIAL-INTELLIGENCE
-KW  - LEGAL
-KW  - OUTCOMES
-KW  - SCIENCE
-KW  - COURT
-AB  - This paper reviews the most recent literature on experiments with different Machine Learning, Deep Learning and Natural Language Processing techniques applied to predict judicial and administrative decisions. Among the most outstanding findings, we have that the most used data mining techniques are Support Vector Machine (SVM), K Nearest Neighbours (K-NN) and Random Forest (RF), and in terms of the most used deep learning techniques, we found Long-Term Memory (LSTM) and transformers such as BERT. An important finding in the papers reviewed was that the use of machine learning techniques has prevailed over those of deep learning. Regarding the place of origin of the research carried out, we found that 64% of the works belong to studies carried out in English-speaking countries, 8% in Portuguese and 28% in other languages (such as German, Chinese, Turkish, Spanish, etc.). Very few works of this type have been carried out in Spanish-speaking countries. The classification criteria of the works have been based, on the one hand, on the identification of the classifiers used to predict situations (or events with legal interference) or judicial decisions and, on the other hand, on the application of classifiers to the phenomena regulated by the different branches of law: criminal, constitutional, human rights, administrative, intellectual property, family law, tax law and others. The corpus size analyzed in the reviewed works reached 100,000 documents in 2020. Finally, another important finding lies in the accuracy of these predictive techniques, reaching predictions of over 60% in different branches of law.
-AD  - Univ Lima, Fac Law, Lima 15023, PeruAD  - Peru Res Dev & Innovat Ctr Peru IDI, Lima 15076, PeruAD  - Univ Andina Cusco, Inst Invest, Cuzco 080104, PeruAD  - Escuela Posgrad Newman, Tacna 23001, PeruAD  - Pontificia Univ Catolica Peru, Fac Ciencias & Ingn, Lima 15088, PeruC3  - Universidad de LimaC3  - Universidad Andina del CuscoC3  - Pontificia Universidad Catolica del PeruFU  - Instituto de Investigacion Cientifica (IDIC), Universidad de Lima
-FX  - This research was funded by the Instituto de Investigacion Cientifica (IDIC), Universidad de Lima.
-PU  - MDPI
-PI  - BASEL
-PA  - ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
-SN  - 2076-3417
-J9  - APPL SCI-BASEL
-JI  - Appl. Sci.-Basel
-DA  - OCT
-PY  - 2022
-VL  - 12
-IS  - 20
-C7  - 10200
-DO  - 10.3390/app122010200
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000872322400001
-N1  - Times Cited in Web of Science Core Collection:  10
-Total Times Cited:  10
-Cited Reference Count:  77
-ER  -
-
-TY  - JOUR
-AU  - Licari, D
-AU  - Comandè, G
-TI  - ITALIAN-LEGAL-BERT models for improving natural language processing tasks in the Italian legal domain
-T2  - COMPUTER LAW & SECURITY REVIEW
-LA  - English
-KW  - Italian Legal NLP
-KW  - Legal AI
-KW  - Pre-trained Language Models
-KW  - Italian Legal BERT
-AB  - Legal-BERT models are based on the BERT architecture (or its variants) and have been developed specifically for the legal domain. They have reached the state of the art in complex legal tasks such as legal research, document synthesis, contract analysis, argument extraction, and legal prediction. In this paper, we proposed four versions of Legal-BERT models pre-trained on the Italian legal domain. They aim to improve NLP applications in the Italian legal context. We have shown that they outperforms the Italian "generalpurpose" BERT in several domain-specific tasks, such as named entity recognition, sentence classification, semantic similarity with Bi-encoders, and document classification.
-AD  - St Anna Sch Adv Studies, Piazza Martiri Liberta 33, I-56127 Pisa, ItalyC3  - Scuola Superiore Sant'AnnaPU  - ELSEVIER ADVANCED TECHNOLOGY
-PI  - OXFORD
-PA  - OXFORD FULFILLMENT CENTRE THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
-SN  - 0267-3649
-J9  - COMPUT LAW SECUR REV
-JI  - Comput. Law Secur. Rev.
-DA  - APR
-PY  - 2024
-VL  - 52
-C7  - 105908
-DO  - 10.1016/j.clsr.2023.105908
-C6  - OCT 2023
-WE  - Social Science Citation Index (SSCI)AN  - WOS:001102220200001
-N1  - Times Cited in Web of Science Core Collection:  3
-Total Times Cited:  3
-Cited Reference Count:  38
-ER  -
-
-TY  - CPAPER
-AU  - Chalkidis, I
-AU  - Fergadiotis, M
-AU  - Malakasiotis, P
-AU  - Aletras, N
-AU  - Androutsopoulos, I
-ED  - Cohn, T
-ED  - He, Y
-ED  - Liu, Y
-TI  - LEGAL-BERT: The Muppets straight out of Law School
-T2  - FINDINGS OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS, EMNLP 2020
-LA  - English
-CP  - Meeting of the Association-for-Computational-Linguistics (ACL-EMNLP)
-AB  - BERT has achieved impressive performance in several NLP tasks. However, there has been limited investigation on its adaptation guidelines in specialised domains. Here we focus on the legal domain, where we explore several approaches for applying BERT models to downstream legal tasks, evaluating on multiple datasets. Our findings indicate that the previous guidelines for pre-training and fine-tuning, often blindly followed, do not always generalize well in the legal domain. Thus we propose a systematic investigation of the available strategies when applying BERT in specialised domains. These are: (a) use the original BERT out of the box, (b) adapt BERT by additional pre-training on domain-specific corpora, and (c) pre-train BERT from scratch on domain-specific corpora. We also propose a broader hyper-parameter search space when fine-tuning for downstream tasks and we release LEGAL- BERT, a family of BERT models intended to assist legal NLP research, computational law, and legal technology applications.
-AD  - Athens Univ Econ & Business, Dept Informat, Athens, GreeceAD  - NCSR Demokritos, Inst Informat & Telecommun, Athens, GreeceAD  - Univ Sheffield, Dept Comp Sci, Sheffield, S Yorkshire, EnglandC3  - Athens University of Economics & BusinessC3  - National Centre of Scientific Research "Demokritos"C3  - University of SheffieldFU  - Google Cloud Compute (GCP) research program
-FX  - This project was supported by the Google Cloud Compute (GCP) research program, while we also used a Google Cloud TPU v3-8 for free provided by the TensorFlow Research Cloud (TFRC) program7. We are grateful to both Google programs.
-PU  - ASSOC COMPUTATIONAL LINGUISTICS-ACL
-PI  - STROUDSBURG
-PA  - 209 N EIGHTH STREET, STROUDSBURG, PA 18360 USA
-SN  - 978-1-952148-90-3
-PY  - 2020
-WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:001181866502003
-N1  - Times Cited in Web of Science Core Collection:  29
-Total Times Cited:  29
-Cited Reference Count:  26
-ER  -
-
-TY  - CPAPER
-AU  - Moreno-Schneider, J
-AU  - Rehm, G
-AU  - Montiel-Ponsoda, E
-AU  - Rodriguez-Doncel, Ví
-AU  - Revenko, A
-AU  - Karampatakis, S
-AU  - Khvalchik, M
-AU  - Sageder, C
-AU  - Gracia, J
-AU  - Maganza, F
-ED  - Calzolari, N
-ED  - Bechet, F
-ED  - Blache, P
-ED  - Choukri, K
-ED  - Cieri, C
-ED  - Declerck, T
-ED  - Goggi, S
-ED  - Isahara, H
-ED  - Maegaard, B
-ED  - Mariani, J
-ED  - Mazo, H
-ED  - Moreno, A
-ED  - Odijk, J
-ED  - Piperidis, S
-TI  - Orchestrating NLP Services for the Legal Domain
-T2  - PROCEEDINGS OF THE 12TH INTERNATIONAL CONFERENCE ON LANGUAGE RESOURCES AND EVALUATION (LREC 2020)
-LA  - English
-CP  - 12th International Conference on Language Resources and Evaluation (LREC)
-KW  - Text Analytics
-KW  - Tools
-KW  - Systems
-KW  - Applications
-KW  - Knowledge Discovery/Representation
-AB  - Legal technology is currently receiving a lot of attention from various angles. In this contribution we describe the main technical components of a system that is currently under development in the European innovation project Lynx, which includes partners from industry and research. The key contribution of this paper is a workflow manager that enables the flexible orchestration of workflows based on a portfolio of Natural Language Processing and Content Curation services as well as a Multilingual Legal Knowledge Graph that contains semantic information and meaningful references to legal documents. We also describe different use cases with which we experiment and develop prototypical solutions.
-AD  - DFKI GmbH, Lubeck, GermanyAD  - Univ Politecn Madrid, Madrid, SpainAD  - Semant Web Co GmbH, Vienna, AustriaAD  - Openlaws GmbH, Salzburg, AustriaAD  - Univ Zaragoza, Zaragoza, SpainAD  - Alpenite, Venice, ItalyC3  - German Research Center for Artificial Intelligence (DFKI)C3  - Universidad Politecnica de MadridC3  - University of ZaragozaFU  - project LYNX from the EU's Horizon 2020 research and innovation programme [780602]; H2020 - Industrial Leadership [780602] Funding Source: H2020 - Industrial Leadership
-FX  - This work has been partially funded by the project LYNX, which has received funding from the EU's Horizon 2020 research and innovation programme under grant agreement no. 780602, see http://www.lynx-project.eu.
-PU  - EUROPEAN LANGUAGE RESOURCES ASSOC-ELRA
-PI  - PARIS
-PA  - 55-57, RUE BRILLAT-SAVARIN, PARIS, 75013, FRANCE
-SN  - 979-10-95546-34-4
-PY  - 2020
-SP  - 2332
-EP  - 2340
-WE  - Conference Proceedings Citation Index - Science (CPCI-S)WE  - Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)AN  - WOS:000724697203037
-N1  - Times Cited in Web of Science Core Collection:  6
-Total Times Cited:  6
-Cited Reference Count:  31
-ER  -
-
-TY  - CPAPER
-AU  - Khatri, M
-AU  - Sheik, R
-AU  - Wadhwa, P
-AU  - Satija, G
-AU  - Kumar, Y
-AU  - Shah, RR
-AU  - Kumaraguru, P
-ED  - Spanakis, J
-ED  - VanDijck, G
-ED  - Sileno, G
-TI  - CiteCaseLAW: Citation Worthiness Detection in Caselaw for Legal Assistive Writing
-T2  - LEGAL KNOWLEDGE AND INFORMATION SYSTEMS
-LA  - English
-CP  - 36th Annual International Conference on Legal Knowledge and Information Systems (JURIX)
-KW  - Legal NLP
-KW  - Citation
-KW  - Classification
-AB  - Complex legal language, filled with jargon, nuanced language semantics, and a high level of domain specificity, poses a significant challenge for automation in handling various legal tasks. In the realm of legal document composition, a pivotal component revolves around accurately referencing case laws and other sources to substantiate assertions and arguments. Understanding the legal domain and identifying appropriate citation context or cite-worthy sentences automatically is challenging. Our research is centered on the issue of citation-worthiness identification of a given sentence. This serves as the initial phase in contemporary citation recommendation systems, aimed at alleviating the effort involved in extracting a suitable array of citation contexts. To address this, we first introduce a labeled dataset comprising 178 million sentences, specifically tailored for detecting citation-worthy content within the legal domain. This dataset is curated from the Caselaw Access Project (CAP)(2) (https://case.law/). We proceeded to assess the performance of a range of deep learning models on this novel dataset. Among the models examined, the domain-specific pre-trained model consistently demonstrated superior performance, achieving an 88% F1-score in the task of detecting citation-worthy material. To enhance our insights, we employed inputXGradient explainable AI techniques to dissect the predictions, thereby identifying the tokens that contribute to specific citation classes.
-AD  - IIIT Delhi, New Delhi, IndiaAD  - NIT, Tiruchirappalli, IndiaAD  - Adobe MDSR, Bangalore, Karnataka, IndiaAD  - IIIT, Hyderabad, IndiaC3  - Indraprastha Institute of Information Technology DelhiC3  - International Institute of Information Technology HyderabadFU  - Department of Science and Technology, India; Infosys Center for AI; Center for Design and New Media; Center of Excellence in Healthcare at IIIT Delhi
-FX  - We acknowledge the support of the IHUB-ANUBHUTI-IIITD FOUNDATION set up under the NM-ICPS scheme of the Department of Science and Technology, India. Thanking Rajiv Ratn Shah, who is partly supported by the Infosys Center for AI, the Center for Design and New Media, and the Center of Excellence in Healthcare at IIIT Delhi. We also want to thank Dr. Debanjan Mahata for motivating us and providing insights on the task[5].
-PU  - IOS PRESS
-PI  - AMSTERDAM
-PA  - NIEUWE HEMWEG 6B, 1013 BG AMSTERDAM, NETHERLANDS
-SN  - 0922-6389
-SN  - 1879-8314
-SN  - 978-1-64368-472-7
-SN  - 978-1-64368-473-4
-J9  - FRONT ARTIF INTEL AP
-PY  - 2023
-VL  - 379
-SP  - 257
-EP  - 262
-DO  - 10.3233/FAIA230971
-WE  - Conference Proceedings Citation Index - Science (CPCI-S)WE  - Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)AN  - WOS:001175464100031
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  22
-ER  -
-
-TY  - CPAPER
-AU  - Vayadande, K
-AU  - Bhat, A
-AU  - Bachhav, P
-AU  - Bhoyar, A
-AU  - Charoliya, Z
-AU  - Chavan, A
-A1  - IEEE COMPUTER SOC
-TI  - AI-Powered Legal Documentation Assistant
-T2  - 2024 4TH INTERNATIONAL CONFERENCE ON PERVASIVE COMPUTING AND SOCIAL NETWORKING, ICPCSN 2024
-LA  - English
-CP  - 4th International Conference on Pervasive Computing and Social Networking (ICPCSN)
-KW  - Legal Document Processing
-KW  - Natural Language Processing (NLP)
-KW  - Irregularities Detection
-KW  - Legal Technology
-KW  - OpenAI Embeddings
-KW  - LAW
-AB  - Legal systems worldwide vary in structure and principles, reflecting the diverse legal traditions of different countries. The legal system, inherently complex and reliant on meticulous documentation, often faces challenges related to time-consuming manual processes and the potential for human errors. The system proposed provides a transformative solution to the above problems. The system emerges as a groundbreaking solution within the intricate landscape of legal systems which responds to these challenges by seamlessly integrating advanced AI techniques. At its core, OpenAI embeddings takes center stage, demonstrating unparalleled proficiency in document generation, comprehension, and abnormality detection, addressing the complexities ingrained in legal documentation. In contrast to traditional approaches, this system maximizes the versatility of ChatGPT 3.5, allowing it to not only issue commands but also proficiently generate a diverse array of legal documents. By incorporating an understanding module equipped with PyPDF, Amazon Textract, and langchain utilities, the system adeptly handles document intricacies. The utilization of OpenAI Embeddings further enhances natural language understanding. Leveraging sentiment analysis and Named Entity Recognition (NER) in its natural language processing (NLP) toolkit, the system employs an intuitive web interface for irregularities detection. The exploration of AI for automated irregularity detection showcases its transformative potential in ensuring document accuracy within the legal domain. This project, therefore, stands as a beacon of innovation, promising to reshape the dynamics of legal document processing by merging advanced AI capabilities with the unique demands of legal systems.
-AD  - Vishwakarma Inst Technol, Dept Informat Technol, Pune, Maharashtra, IndiaPU  - IEEE COMPUTER SOC
-PI  - LOS ALAMITOS
-PA  - 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1264 USA
-SN  - 979-8-3503-8635-6
-SN  - 979-8-3503-8634-9
-PY  - 2024
-SP  - 84
-EP  - 91
-DO  - 10.1109/ICPCSN62568.2024.00022
-WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:001289477900015
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  16
-ER  -
-
-TY  - JOUR
-AU  - Martínez, E
-TI  - Re-evaluating GPT-4's bar exam performance
-T2  - ARTIFICIAL INTELLIGENCE AND LAW
-LA  - English
-KW  - NLP
-KW  - Legal NLP
-KW  - Legal analytics
-KW  - Natural language processing
-KW  - Machine learning
-KW  - Artificial intelligence
-KW  - Artificial intelligence and law
-KW  - Law and technology
-KW  - Legal profession
-KW  - LAW
-AB  - Perhaps the most widely touted of GPT-4's at-launch, zero-shot capabilities has been its reported 90th-percentile performance on the Uniform Bar Exam. This paper begins by investigating the methodological challenges in documenting and verifying the 90th-percentile claim, presenting four sets of findings that indicate that OpenAI's estimates of GPT-4's UBE percentile are overinflated. First, although GPT-4's UBE score nears the 90th percentile when examining approximate conversions from February administrations of the Illinois Bar Exam, these estimates are heavily skewed towards repeat test-takers who failed the July administration and score significantly lower than the general test-taking population. Second, data from a recent July administration of the same exam suggests GPT-4's overall UBE percentile was below the 69th percentile, and similar to \documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\sim$$\end{document} 48th percentile on essays. Third, examining official NCBE data and using several conservative statistical assumptions, GPT-4's performance against first-time test takers is estimated to be similar to \documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\sim$$\end{document} 62nd percentile, including similar to \documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\sim$$\end{document} 42nd percentile on essays. Fourth, when examining only those who passed the exam (i.e. licensed or license-pending attorneys), GPT-4's performance is estimated to drop to similar to \documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\sim$$\end{document} 48th percentile overall, and similar to \documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\sim$$\end{document} 15th percentile on essays. In addition to investigating the validity of the percentile claim, the paper also investigates the validity of GPT-4's reported scaled UBE score of 298. The paper successfully replicates the MBE score, but highlights several methodological issues in the grading of the MPT + MEE components of the exam, which call into question the validity of the reported essay score. Finally, the paper investigates the effect of different hyperparameter combinations on GPT-4's MBE performance, finding no significant effect of adjusting temperature settings, and a significant effect of few-shot chain-of-thought prompting over basic zero-shot prompting. Taken together, these findings carry timely insights for the desirability and feasibility of outsourcing legally relevant tasks to AI models, as well as for the importance for AI developers to implement rigorous and transparent capabilities evaluations to help secure safe and trustworthy AI.
-AD  - MIT, Dept Brain & Cognit Sci, Cambridge, MA 02138 USAC3  - Massachusetts Institute of Technology (MIT)FU  - Massachusetts Institute of Technology (MIT)
-FX  - Acknowledgements omitted for anonymous review.
-PU  - SPRINGER
-PI  - DORDRECHT
-PA  - VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
-SN  - 0924-8463
-SN  - 1572-8382
-J9  - ARTIF INTELL LAW
-JI  - Artif. Intell. Law
-DA  - 2024 MAR 30
-PY  - 2024
-DO  - 10.1007/s10506-024-09396-9
-C6  - MAR 2024
-WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:001194581100001
-N1  - Times Cited in Web of Science Core Collection:  1
-Total Times Cited:  1
-Cited Reference Count:  77
-ER  -
-

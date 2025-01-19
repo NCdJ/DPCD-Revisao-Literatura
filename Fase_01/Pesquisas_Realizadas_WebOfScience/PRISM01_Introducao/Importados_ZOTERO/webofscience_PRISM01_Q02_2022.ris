@@ -1,398 +1,0 @@
-﻿TY  - JOUR
-AU  - Choi, JH
-AU  - Hickman, KE
-AU  - Monahan, AB
-AU  - Schwarcz, D
-TI  - ChatGPT Goes to Law School
-T2  - JOURNAL OF LEGAL EDUCATION
-LA  - English
-AB  - How well can AI models write law school exams without human assistance? To find out, we used the widely publicized AI model ChatGPT to generate answers to the final exams for four classes at the University of Minnesota Law School. We then blindly graded these exams as part of our regular grading processes for each class. Over ninety-five multiple-choice questions and twelve essay questions, ChatGPT performed on average at the level of a C+ student, achieving a low but passing grade in all four courses. After detailing these results, we discuss their implications for legal education and lawyering. We also provide example prompts and advice on how ChatGPT can assist with legal writing.
-AD  - Univ Minnesota, Law Sch, Law, Minneapolis, MN 55455 USAAD  - Law Sch, Law, Minneapolis, MN USAC3  - University of Minnesota SystemC3  - University of Minnesota Twin CitiesPU  - SOUTHWESTERN LAW SCH
-PI  - LOS ANGELES
-PA  - 3050 WILSHIRE BLVD, LOS ANGELES, CA 90010-1106 USA
-SN  - 0022-2208
-J9  - J LEGAL EDUC
-JI  - J. Legal Educ.
-PY  - 2022
-VL  - 71
-IS  - 3
-SP  - 387
-EP  - 400
-WE  - Social Science Citation Index (SSCI)AN  - WOS:001219591400002
-N1  - Times Cited in Web of Science Core Collection:  129
-Total Times Cited:  132
-Cited Reference Count:  54
-ER  -
-
-TY  - JOUR
-AU  - Ras, G
-AU  - Xie, N
-AU  - van Gerven, M
-AU  - Doran, D
-TI  - Explainable Deep Learning: A Field Guide for the Uninitiated
-T2  - JOURNAL OF ARTIFICIAL INTELLIGENCE RESEARCH
-LA  - English
-KW  - BLACK-BOX
-KW  - CLASSIFICATION
-KW  - INTERPRETABILITY
-KW  - MODELS
-KW  - EXPLANATIONS
-KW  - PREDICTION
-KW  - DECISIONS
-AB  - Deep neural networks (DNNs) are an indispensable machine learning tool despite the difficulty of diagnosing what aspects of a model's input drive its decisions. In countless real-world domains, from legislation and law enforcement to healthcare, such diagnosis is essential to ensure that DNN decisions are driven by aspects appropriate in the context of its use. The development of methods and studies enabling the explanation of a DNN's decisions has thus blossomed into an active and broad area of research. The field's complexity is exacerbated by competing definitions of what it means "to explain" the actions of a DNN and to evaluate an approach's "ability to explain". This article offers a field guide to explore the space of explainable deep learning for those in the AI/ML field who are uninitiated. The field guide: i) Introduces three simple dimensions defining the space of foundational methods that contribute to explainable deep learning, ii) discusses the evaluations for model explanations, iii) places explainability in the context of other related deep learning research areas, and iv) discusses user-oriented explanation design and future directions. We hope the guide is seen as a starting point for those embarking on this research field.
-AD  - Radboud Univ Nijmegen, Donders Inst Brain Cognit & Behav, NL-6525 HR Nijmegen, NetherlandsAD  - Amazon, Seattle, WA USAAD  - Tenet3 LLC, Dayton, OH USAC3  - Radboud University NijmegenC3  - Amazon.comFU  - Ohio Federal Research Network; Multidisciplinary Research Program of the Department of Defense [MURI N00014-00-1-0637]; Fulbright-NSF
-FX  - Gabrielle Ras and Ning Xie are co-first authors on this work. Ning Xie and Derek Doran completed some of this work while at the Dept. of Computer Science and Engineering, Wright State University, Dayton, OH. We acknowledge project support from the Ohio Federal Research Network, the Multidisciplinary Research Program of the Department of Defense (MURI N00014-00-1-0637), and the organizers and participants of the Schloss Dagstuhl Leibniz Center for Informatics Seminar 17192 on Human-Like Neural-Symbolic Computing for providing the environment to develop the ideas in this paper. Parts of this work was completed under a Fulbright-NSF Fellowship for Cyber Security and Critical Infrastructure. We would also like to thank Erdi Calli and Pim Haselager for the helpful discussions and general support.
-PU  - AI ACCESS FOUNDATION
-PI  - MARINA DEL REY
-PA  - USC INFORMATION SCIENCES INST, 4676 ADMIRALITY WAY, MARINA DEL REY, CA 90292-6695 USA
-SN  - 1076-9757
-SN  - 1943-5037
-J9  - J ARTIF INTELL RES
-JI  - J. Artif. Intell. Res.
-PY  - 2022
-VL  - 73
-SP  - 329
-EP  - 396
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000747953100001
-N1  - Times Cited in Web of Science Core Collection:  121
-Total Times Cited:  125
-Cited Reference Count:  237
-ER  -
-
-TY  - JOUR
-AU  - Petersson, L
-AU  - Larsson, I
-AU  - Nygren, JM
-AU  - Nilsen, P
-AU  - Neher, M
-AU  - Reed, JE
-AU  - Tyskbo, D
-AU  - Svedberg, P
-TI  - Challenges to implementing artificial intelligence in healthcare: a qualitative interview study with healthcare leaders in Sweden
-T2  - BMC HEALTH SERVICES RESEARCH
-LA  - English
-KW  - Artificial intelligence
-KW  - Digital transformation
-KW  - Healthcare
-KW  - Implementation
-KW  - Healthcare leaders
-KW  - Organizational change
-KW  - Qualitative methods
-KW  - Stakeholders
-KW  - PRACTICAL IMPLEMENTATION
-KW  - PERFORMANCE
-KW  - TECHNOLOGY
-KW  - MEDICINE
-AB  - Background Artificial intelligence (AI) for healthcare presents potential solutions to some of the challenges faced by health systems around the world. However, it is well established in implementation and innovation research that novel technologies are often resisted by healthcare leaders, which contributes to their slow and variable uptake. Although research on various stakeholders' perspectives on AI implementation has been undertaken, very few studies have investigated leaders' perspectives on the issue of AI implementation in healthcare. It is essential to understand the perspectives of healthcare leaders, because they have a key role in the implementation process of new technologies in healthcare. The aim of this study was to explore challenges perceived by leaders in a regional Swedish healthcare setting concerning the implementation of AI in healthcare. Methods The study takes an explorative qualitative approach. Individual, semi-structured interviews were conducted from October 2020 to May 2021 with 26 healthcare leaders. The analysis was performed using qualitative content analysis, with an inductive approach. Results The analysis yielded three categories, representing three types of challenge perceived to be linked with the implementation of AI in healthcare: 1) Conditions external to the healthcare system; 2) Capacity for strategic change management; 3) Transformation of healthcare professions and healthcare practice. Conclusions In conclusion, healthcare leaders highlighted several implementation challenges in relation to AI within and beyond the healthcare system in general and their organisations in particular. The challenges comprised conditions external to the healthcare system, internal capacity for strategic change management, along with transformation of healthcare professions and healthcare practice. The results point to the need to develop implementation strategies across healthcare organisations to address challenges to AI-specific capacity building. Laws and policies are needed to regulate the design and execution of effective AI implementation strategies. There is a need to invest time and resources in implementation processes, with collaboration across healthcare, county councils, and industry partnerships.
-AD  - Halmstad Univ, Sch Hlth & Welf, Box 823, S-30118 Halmstad, SwedenAD  - Linkoping Univ, Fac Hlth Sci, Dept Hlth Med & Caring Sci, Div Publ Hlth, Linkoping, SwedenAD  - Jonkoping Univ, Sch Hlth Sci, Dept Rehabil, Jonkoping, SwedenC3  - Halmstad UniversityC3  - Linkoping UniversityC3  - Jonkoping UniversityFU  - Halmstad University; Swedish Government Innovation Agency Vinnova [2019-04526]; Knowledge Foundation [20200208 01H]; Vinnova [2019-04526] Funding Source: Vinnova
-FX  - Open access funding provided by Halmstad University. The funders for this study are the Swedish Government Innovation Agency Vinnova (grant 2019-04526) and the Knowledge Foundation (grant 20200208 01H). The funders were not involved in any aspect of study design, collection, analysis, interpretation of data, or in the writing or publication process.
-PU  - BMC
-PI  - LONDON
-PA  - CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
-SN  - 1472-6963
-J9  - BMC HEALTH SERV RES
-JI  - BMC Health Serv. Res.
-DA  - JUL 1
-PY  - 2022
-VL  - 22
-IS  - 1
-C7  - 850
-DO  - 10.1186/s12913-022-08215-8
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000819783700002
-N1  - Times Cited in Web of Science Core Collection:  84
-Total Times Cited:  86
-Cited Reference Count:  75
-ER  -
-
-TY  - JOUR
-AU  - Saura, JR
-AU  - Ribeiro-Soriano, D
-AU  - Palacios-Marqués, D
-TI  - Assessing behavioral data science privacy issues in government artificial intelligence deployment
-T2  - GOVERNMENT INFORMATION QUARTERLY
-LA  - English
-KW  - Behavioral data sciences
-KW  - Governments
-KW  - Collective behavior analysis
-KW  - Artificial intelligence
-KW  - Surveillance capitalism
-KW  - Privacy
-KW  - BIG DATA ANALYTICS
-KW  - SOCIAL MEDIA
-KW  - CAMBRIDGE ANALYTICA
-KW  - DECISION-MAKING
-KW  - ETHICAL-ISSUES
-KW  - LEGAL
-KW  - AI
-KW  - TECHNOLOGY
-KW  - CHALLENGES
-KW  - RETRIEVAL
-AB  - In today's global culture where the Internet has established itself as the main tool for communication and commerce, the capability to massively analyze and predict citizens' behavior has become a priority for governments in terms of collective intelligence and security. At the same time, in the context of novel possibilities that artificial intelligence (AI) brings to governments in terms of understanding and developing collective behavior analysis, important concerns related to citizens' privacy have emerged. In order to identify the main uses that governments make of AI and to define citizens' concerns about their privacy, in the present study, we undertook a systematic review of the literature, conducted in-depth interviews, and applied data-mining techniques. Based on our results, we classified and discussed the risks to citizens' privacy according to the types of AI strategies used by governments that may affect collective behavior and cause massive behavior modification. Our results revealed 11 uses of AI strategies used by the government to improve their interaction with citizens, organizations in cities, services provided by public institutions or the economy, among other areas. In relation to citizens' privacy when AI is used by governments, we identified 8 topics related to human behavior predictions, intelligence decision making, decision automation, digital surveillance, data privacy law and regulation, and the risk of behavior modification. The paper concludes with a discussion of the development of regulations focused on the ethical design of citizen data collection, where implications for governments are presented aimed at regulating security, ethics, and data privacy. Additionally, we propose a research agenda composed by 16 research questions to be investigated in further research.
-AD  - Rey Juan Carlos Univ, Madrid, SpainAD  - Univ Valencia, Valencia, SpainAD  - Univ Politecn Valencia, Valencia, SpainC3  - Universidad Rey Juan CarlosC3  - University of ValenciaC3  - Universitat Politecnica de ValenciaFU  - Ministry of Science, Innovation and Universities; European Regional Development [RTI2018-096295-BC22]
-FX  - In gratitude to the Ministry of Science, Innovation and Universities and the European Regional Development. Fund: RTI2018-096295-BC22
-PU  - ELSEVIER INC
-PI  - SAN DIEGO
-PA  - 525 B STREET, STE 1900, SAN DIEGO, CA 92101-4495 USA
-SN  - 0740-624X
-SN  - 1872-9517
-J9  - GOV INFORM Q
-JI  - Gov. Inf. Q.
-DA  - OCT
-PY  - 2022
-VL  - 39
-IS  - 4
-C7  - 101679
-DO  - 10.1016/j.giq.2022.101679
-C6  - SEP 2022
-WE  - Social Science Citation Index (SSCI)AN  - WOS:000888846500007
-N1  - Times Cited in Web of Science Core Collection:  73
-Total Times Cited:  74
-Cited Reference Count:  148
-ER  -
-
-TY  - JOUR
-AU  - Landers, RN
-AU  - Behrend, TS
-TI  - Auditing the AI Auditors: A Framework for Evaluating Fairness and Bias in High Stakes AI Predictive Models
-T2  - AMERICAN PSYCHOLOGIST
-LA  - English
-KW  - audit
-KW  - bias
-KW  - psychology
-KW  - machine learning
-KW  - artificial intelligence
-KW  - RISK-ASSESSMENT
-KW  - SELECTION
-KW  - DECISIONS
-KW  - JUDGMENTS
-KW  - VALIDITY
-KW  - JUSTICE
-KW  - IMPACT
-AB  - Researchers, governments, ethics watchdogs, and the public are increasingly voicing concerns about unfairness and bias in artificial intelligence (AI)-based decision tools. Psychology's more-than-a-century of research on the measurement of psychological traits and the prediction of human behavior can benefit such conversations, yet psychological researchers often find themselves excluded due to mismatches in terminology, values, and goals across disciplines. In the present paper, we begin to build a shared interdisciplinary understanding of AI fairness and bias by first presenting three major lenses, which vary in focus and prototypicality by discipline, from which to consider relevant issues: (a) individual attitudes, (b) legality, ethicality, and morality, and (c) embedded meanings within technical domains. Using these lenses, we next present psychological audits as a standardized approach for evaluating the fairness and bias of AI systems that make predictions about humans across disciplinary perspectives. We present 12 crucial components to audits across three categories: (a) components related to AI models in terms of their source data, design, development, features, processes, and outputs, (b) components related to how information about models and their applications are presented, discussed, and understood from the perspectives of those employing the algorithm, those affected by decisions made using its predictions, and third-party observers, and (c) meta-components that must be considered across all other auditing components, including cultural context, respect for persons, and the integrity of individual research designs used to support all model developer claims.
-   Public Significance Statement Although artificial intelligence (AI) is now being used to make decisions about people's employment, education, healthcare, and experiences with law enforcement, external evaluators do not often agree on what is necessary to show that an AI is "unbiased" or "fair." This is in part because "bias" and "fairness" mean different things to different people. We created a framework for auditing that respects these differences in pursuit of better, fairer AI.
-AD  - Univ Minnesota, Dept Psychol, N-218,75 E River Rd, Minneapolis, MN 55455 USAAD  - Purdue Univ, Dept Psychol Sci, W Lafayette, IN 47907 USAC3  - University of Minnesota SystemC3  - University of Minnesota Twin CitiesC3  - Purdue University SystemC3  - Purdue UniversityPU  - AMER PSYCHOLOGICAL ASSOC
-PI  - WASHINGTON
-PA  - 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
-SN  - 0003-066X
-SN  - 1935-990X
-J9  - AM PSYCHOL
-JI  - Am. Psychol.
-DA  - JAN
-PY  - 2023
-VL  - 78
-IS  - 1
-SP  - 36
-EP  - 49
-DO  - 10.1037/amp0000972
-C6  - FEB 2022
-WE  - Social Science Citation Index (SSCI)AN  - WOS:000754045100001
-N1  - Times Cited in Web of Science Core Collection:  63
-Total Times Cited:  67
-Cited Reference Count:  58
-ER  -
-
-TY  - JOUR
-AU  - Devagiri, JS
-AU  - Paheding, S
-AU  - Niyaz, Q
-AU  - Yang, XL
-AU  - Smith, S
-TI  - Augmented Reality and Artificial Intelligence in industry: Trends, tools, and future challenges
-T2  - EXPERT SYSTEMS WITH APPLICATIONS
-LA  - English
-KW  - Augmented Reality
-KW  - Artificial Intelligence
-KW  - Machine learning
-KW  - Industrial applications
-KW  - Deep learning
-KW  - VIRTUAL-REALITY
-KW  - DESIGN
-KW  - AR
-KW  - INSPECTION
-KW  - TRACKING
-KW  - AI
-AB  - Augmented Reality (AR) is an augmented depiction of reality formed by overlaying digital information on an image of objects being seen through a device. Artificial Intelligence (AI) techniques have experienced unprecedented growth and are being applied in various industries. The combination of AR and AI is the next prominent direction in upcoming years with many industries and academia recognizing the importance of their adoption. With the advancements in the silicone industry that push the boundaries of Moore's law, processors will be less expensive, more efficient, and power-optimized in the forthcoming years. This is a tremendous support and necessity for an AR boom, and with the help of AI, there is an excellent potential for smart industries to increase the production speed and workforce training along with improved manufacturing, error handling, assembly, and packaging. In this work, we provide a systematic review of recent advances, tools, techniques, and platforms of AI-empowered AR along with the challenges of using AI in AR applications. This paper will serve as a guideline for future research in the domain of AI-assisted AR in industrial applications.
-AD  - Michigan Technol Univ, Dept Appl Comp, 1400 Townsend Dr, Houghton, MI 49931 USAAD  - Purdue Univ Northwest, Dept Elect & Comp Engn, 2200 169th St Hammond, Hammond, IN 46323 USAAD  - Fairfield Univ, Dept Comp Sci & Engn, 1073 North Benson Rd, Fairfield, CT 06824 USAAD  - Michigan Technol Univ, Dept Cognit & Learning Sci, 1400 Townsend Dr, Houghton, MI 49931 USAC3  - Michigan Technological UniversityC3  - Fairfield UniversityC3  - Michigan Technological UniversityFU  - National Science Foundation (USA) [2129092, 2129093]; Div Of Civil, Mechanical, & Manufact Inn; Directorate For Engineering [2129093] Funding Source: National Science Foundation; Div Of Electrical, Commun & Cyber Sys; Directorate For Engineering [2129092] Funding Source: National Science Foundation
-FX  - This work is supported by the National Science Foundation (USA) #2129092 and #2129093, 2021.
-PU  - PERGAMON-ELSEVIER SCIENCE LTD
-PI  - OXFORD
-PA  - THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
-SN  - 0957-4174
-SN  - 1873-6793
-J9  - EXPERT SYST APPL
-JI  - Expert Syst. Appl.
-DA  - NOV 30
-PY  - 2022
-VL  - 207
-C7  - 118004
-DO  - 10.1016/j.eswa.2022.118002
-C6  - JUL 2022
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000867575900010
-N1  - Times Cited in Web of Science Core Collection:  60
-Total Times Cited:  61
-Cited Reference Count:  128
-ER  -
-
-TY  - JOUR
-AU  - Chu, CH
-AU  - Nyrup, R
-AU  - Leslie, K
-AU  - Shi, JM
-AU  - Bianchi, A
-AU  - Lyn, A
-AU  - McNicholl, M
-AU  - Khan, S
-AU  - Rahimi, S
-AU  - Grenier, A
-AU  - Meeks, S
-TI  - Digital Ageism: Challenges and Opportunities in Artificial Intelligence for Older Adults
-T2  - GERONTOLOGIST
-LA  - English
-KW  - Bias
-KW  - Gerontology
-KW  - Machine learning
-KW  - Technology
-KW  - TECHNOLOGY
-KW  - INTERNET
-KW  - HEALTH
-KW  - IMPACT
-KW  - BIAS
-AB  - Artificial intelligence (AI) and machine learning are changing our world through their impact on sectors including health care, education, employment, finance, and law. AI systems are developed using data that reflect the implicit and explicit biases of society, and there are significant concerns about how the predictive models in AI systems amplify inequity, privilege, and power in society. The widespread applications of AI have led to mainstream discourse about how AI systems are perpetuating racism, sexism, and classism; yet, concerns about ageism have been largely absent in the AI bias literature. Given the globally aging population and proliferation of AI, there is a need to critically examine the presence of age-related bias in AI systems. This forum article discusses ageism in AI systems and introduces a conceptual model that outlines intersecting pathways of technology development that can produce and reinforce digital ageism in AI systems. We also describe the broader ethical and legal implications and considerations for future directions in digital ageism research to advance knowledge in the field and deepen our understanding of how ageism in AI is fostered by broader cycles of injustice.
-AD  - Univ Toronto, Lawrence S Bloomberg Fac Nursing, Hlth Sci Bldg,155 Coll St,Suite 130, Toronto, ON M5T 1P8, CanadaAD  - Univ Hlth Network, KITE Toronto Rehabil Inst, Toronto, ON, CanadaAD  - Univ Cambridge, Leverhulme Ctr Future Intelligence, Cambridge, EnglandAD  - Athabasca Univ, Fac Hlth Disciplines, Athabasca, AB, CanadaAD  - Univ Toronto, Dalla Lana Sch Publ Hlth, Toronto, ON, CanadaAD  - Univ Hlth Network, Toronto, ON, CanadaAD  - Univ Cambridge, Cambridge, EnglandAD  - Univ London, London Sch Hyg & Trop Med, London, EnglandAD  - Univ Toronto, Inst Biomed Engn, Toronto, ON, CanadaAD  - McGill Univ, Dept Family Med, Montreal, PQ, CanadaAD  - Mila Quebec AI Inst, Montreal, PQ, CanadaAD  - Univ Toronto, Factor Inwentash Fac Social Work, Toronto, ON, CanadaAD  - Baycrest Hosp, Toronto, ON, CanadaC3  - University of TorontoC3  - University of TorontoC3  - University Health Network TorontoC3  - Toronto Rehabilitation InstituteC3  - University of CambridgeC3  - Athabasca UniversityC3  - University of TorontoC3  - University of TorontoC3  - University Health Network TorontoC3  - University of CambridgeC3  - University of LondonC3  - London School of Hygiene & Tropical MedicineC3  - University of TorontoC3  - McGill UniversityC3  - University of TorontoC3  - University of TorontoC3  - BaycrestFU  - Social Sciences and Humanities Research Council in Canada [00362]
-FX  - The work was led by Dr. C. H. Chu (Principal Investigator) and funded by the Social Sciences and Humanities Research Council in Canada (grant number 00362).
-PU  - OXFORD UNIV PRESS INC
-PI  - CARY
-PA  - JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
-SN  - 0016-9013
-SN  - 1758-5341
-J9  - GERONTOLOGIST
-JI  - Gerontologist
-DA  - AUG 12
-PY  - 2022
-VL  - 62
-IS  - 7
-SP  - 947
-EP  - 955
-DO  - 10.1093/geront/gnab167
-C6  - JAN 2022
-WE  - Social Science Citation Index (SSCI)AN  - WOS:000839628500006
-N1  - Times Cited in Web of Science Core Collection:  59
-Total Times Cited:  63
-Cited Reference Count:  74
-ER  -
-
-TY  - JOUR
-AU  - Kiseleva, A
-AU  - Kotzinos, D
-AU  - De Hert, P
-TI  - Transparency of AI in Healthcare as a Multilayered System of Accountabilities: Between Legal Requirements and Technical Limitations
-T2  - FRONTIERS IN ARTIFICIAL INTELLIGENCE
-LA  - English
-KW  - transparency
-KW  - interpretability
-KW  - explainability
-KW  - artificial intelligence (AI)
-KW  - accountability
-KW  - healthcare
-KW  - informed medical consent
-KW  - medical devices
-KW  - ARTIFICIAL-INTELLIGENCE
-KW  - INFORMED-CONSENT
-KW  - CAUSABILITY
-AB  - The lack of transparency is one of the artificial intelligence (AI)'s fundamental challenges, but the concept of transparency might be even more opaque than AI itself. Researchers in different fields who attempt to provide the solutions to improve AI's transparency articulate different but neighboring concepts that include, besides transparency, explainability and interpretability. Yet, there is no common taxonomy neither within one field (such as data science) nor between different fields (law and data science). In certain areas like healthcare, the requirements of transparency are crucial since the decisions directly affect people's lives. In this paper, we suggest an interdisciplinary vision on how to tackle the issue of AI's transparency in healthcare, and we propose a single point of reference for both legal scholars and data scientists on transparency and related concepts. Based on the analysis of the European Union (EU) legislation and literature in computer science, we submit that transparency shall be considered the "way of thinking" and umbrella concept characterizing the process of AI's development and use. Transparency shall be achieved through a set of measures such as interpretability and explainability, communication, auditability, traceability, information provision, record-keeping, data governance and management, and documentation. This approach to deal with transparency is of general nature, but transparency measures shall be always contextualized. By analyzing transparency in the healthcare context, we submit that it shall be viewed as a system of accountabilities of involved subjects (AI developers, healthcare professionals, and patients) distributed at different layers (insider, internal, and external layers, respectively). The transparency-related accountabilities shall be built-in into the existing accountability picture which justifies the need to investigate the relevant legal frameworks. These frameworks correspond to different layers of the transparency system. The requirement of informed medical consent correlates to the external layer of transparency and the Medical Devices Framework is relevant to the insider and internal layers. We investigate the said frameworks to inform AI developers on what is already expected from them with regards to transparency. We also discover the gaps in the existing legislative frameworks concerning AI's transparency in healthcare and suggest the solutions to fill them in.
-AD  - Vrije Univ Brussels, Fac Law, LSTS Res Grp Law Sci Technol & Soc, Brussels, BelgiumAD  - CY Cergy Paris Univ, ETIS Res Lab, Facul Comp Sci, Cergy Pontoise, FranceC3  - Vrije Universiteit BrusselC3  - CY Cergy Paris UniversiteFU  - EUTOPIA Ph.D. co-tutelle program 2020; Erasmus+ Program of the European Union [OZRIFTM4]
-FX  - This research was funded and supported by the EUTOPIA Ph.D. co-tutelle program 2020. This program is co-funded by the Erasmus+ Program of the European Union and promotes scientific excellence, research collaboration and academic mobility. Grant number and name: OZRIFTM4 (Balancing transparency of AI in healthcare with safety and quality. A legal and technical perspective).
-PU  - FRONTIERS MEDIA SA
-PI  - LAUSANNE
-PA  - AVENUE DU TRIBUNAL FEDERAL 34, LAUSANNE, CH-1015, SWITZERLAND
-SN  - 2624-8212
-J9  - FRONT ARTIF INTELL
-JI  - Front. Artif. Intell.
-DA  - MAY 30
-PY  - 2022
-VL  - 5
-C7  - 879603
-DO  - 10.3389/frai.2022.879603
-WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:000915216700001
-N1  - Times Cited in Web of Science Core Collection:  54
-Total Times Cited:  56
-Cited Reference Count:  70
-ER  -
-
-TY  - JOUR
-AU  - Salas-Pilco, SZ
-AU  - Yang, YQ
-TI  - Artificial intelligence applications in Latin American higher education: a systematic review
-T2  - INTERNATIONAL JOURNAL OF EDUCATIONAL TECHNOLOGY IN HIGHER EDUCATION
-LA  - English
-KW  - Artificial intelligence (AI)
-KW  - Higher education
-KW  - Latin America
-KW  - Machine learning
-KW  - Deep learning
-KW  - Natural language processing
-KW  - Algorithm
-KW  - Systematic review
-KW  - PREDICTING ACADEMIC-PERFORMANCE
-KW  - TEACHER PERFORMANCE
-KW  - NEURAL-NETWORKS
-AB  - Over the last decade, there has been great research interest in the application of artificial intelligence (AI) in various fields, such as medicine, finance, and law. Recently, there has been a research focus on the application of AI in education, where it has great potential. Therefore, a systematic review of the literature on AI in education is therefore necessary. This article considers its usage and applications in Latin American higher education institutions. After identifying the studies dedicated to educational innovations brought about by the application of AI techniques, this review examines AI applications in three educational processes: learning, teaching, and administration. Each study is analyzed for the AI techniques used, such as machine learning, deep learning, and natural language processing, the AI tools and algorithms that are applied, and the main education topic. The results reveal that the main AI applications in education are: predictive modelling, intelligent analytics, assistive technology, automatic content analysis, and image analytics. It is further demonstrated that AI applications help to address important education issues (e.g., detecting students at risk of dropping out) and thereby contribute to ensuring quality education. Finally, the article presents the lessons learned from the review concerning the application of AI technologies in higher education in the Latin American context.
-AD  - Cent China Normal Univ, Fac Artificial Intelligence Educ, 152 Luoyu Rd, Wuhan 430079, Hubei, Peoples R ChinaAD  - Cent China Normal Univ, Fac Artificial Intelligence Educ, Hubei Res Ctr Educ Informationizat, 152 Luoyu Rd, Wuhan 430079, Hubei, Peoples R ChinaC3  - Central China Normal UniversityC3  - Central China Normal UniversityFU  - Central China Normal University [1100/30106200286]; National Natural Science Foundation of China [62107020]; Ministry of Education of the People's Republic of China [21YJA880078]; University-level Educational Reformation Research Project for Teacher Professional Development [CCNUTEIII 2021-11]; Central China Normal University, China [ZNXBJY202108]
-FX  - Sdenka Zobeida Salas-Pilco acknowledges the financial support for the Research Project: Research on Artificial Intelligence Applied into Education, Central China Normal University (Grant No. 1100/30106200286). Yuqin Yang acknowledges the financial support from the National Natural Science Foundation of China (Grant No. 62107020), Ministry of Education of the People's Republic of China (Grant No. 21YJA880078), and University-level Educational Reformation Research Project for Teacher Professional Development (CCNUTEIII 2021-11) and for Undergraduate Education, Central China Normal University, China (ZNXBJY202108).
-PU  - SPRINGER
-PI  - NEW YORK
-PA  - ONE NEW YORK PLAZA, SUITE 4600, NEW YORK, NY, UNITED STATES
-SN  - 2365-9440
-J9  - INT J EDUC TECHNOL H
-JI  - Int. J. Educ. Technol. High. Educ.
-DA  - APR 18
-PY  - 2022
-VL  - 19
-IS  - 1
-C7  - 21
-DO  - 10.1186/s41239-022-00326-w
-WE  - Social Science Citation Index (SSCI)AN  - WOS:000782983800001
-N1  - Times Cited in Web of Science Core Collection:  51
-Total Times Cited:  52
-Cited Reference Count:  70
-ER  -
-
-TY  - JOUR
-AU  - de Croon, GCHE
-AU  - Dupeyroux, JJG
-AU  - Fuller, SB
-AU  - Marshall, JAR
-TI  - Insect-inspired AI for autonomous robots
-T2  - SCIENCE ROBOTICS
-LA  - English
-KW  - ORTHOPTERAN DCMD NEURON
-KW  - MOBILE ROBOT
-KW  - COLLISION DETECTION
-KW  - SMALLEST INSECTS
-KW  - MOVING-OBJECTS
-KW  - AERIAL VEHICLE
-KW  - MUSHROOM BODY
-KW  - COMPOUND EYE
-KW  - MOORES LAW
-KW  - DROSOPHILA
-AB  - Autonomous robots are expected to perform a wide range of sophisticated tasks in complex, unknown environments. However, available onboard computing capabilities and algorithms represent a considerable obstacle to reaching higher levels of autonomy, especially as robots get smaller and the end of Moore's law approaches. Here, we argue that inspiration from insect intelligence is a promising alternative to classic methods in robotics for the artificial intelligence (AI) needed for the autonomy of small, mobile robots. The advantage of insect intelligence stems from its resource efficiency (or parsimony) especially in terms of power and mass. First, we discuss the main aspects of insect intelligence underlying this parsimony: embodiment, sensory-motor coordination, and swarming. Then, we take stock of where insect-inspired AI stands as an alternative to other approaches to important robotic tasks such as navigation and identify open challenges on the road to its more widespread adoption. Last, we reflect on the types of processors that are suitable for implementing insect-inspired AI, from more traditional ones such as microcontrollers and field-programmable gate arrays to unconventional neuromorphic processors. We argue that even for neuromorphic processors, one should not simply apply existing AI algorithms but exploit insights from natural insect intelligence to get maximally efficient AI for robot autonomy.
-AD  - Delft Univ Technol, Fac Aerosp Engn, Micro Air Vehicle Lab, Delft, NetherlandsAD  - Univ Washington, Dept Mech Engn, Autonomous Insect Robot Lab, Seattle, WA 98195 USAAD  - Univ Washington, Paul G Allen Sch Comp Sci, Seattle, WA 98195 USAAD  - Opteran Technol, Sheffield, S Yorkshire, EnglandAD  - Univ Sheffield, Dept Comp Sci, Complex Syst Modeling Grp, Sheffield, S Yorkshire, EnglandC3  - Delft University of TechnologyC3  - University of WashingtonC3  - University of Washington SeattleC3  - University of WashingtonC3  - University of Washington SeattleC3  - University of SheffieldFU  - U.S. Air Force Office of Scientific Research [FA9550-14-1-0398]; National Science Foundation [ECCS-2054850]; Engineering and Physical Sciences Research Council [EP/P006094/1, EP/S030964/1]
-FX  - S.B.F. was partially supported by the U.S. Air Force Office of Scientific Research under award FA9550-14-1-0398 and the National Science Foundation under award ECCS-2054850. J.A.R.M. was partially supported by the Engineering and Physical Sciences Research Council grant nos. EP/P006094/1 and EP/S030964/1.
-PU  - AMER ASSOC ADVANCEMENT SCIENCE
-PI  - WASHINGTON
-PA  - 1200 NEW YORK AVE, NW, WASHINGTON, DC 20005 USA
-SN  - 2470-9476
-J9  - SCI ROBOT
-JI  - Sci. Robot.
-DA  - JUN 8
-PY  - 2022
-VL  - 7
-IS  - 67
-C7  - eabl6334
-DO  - 10.1126/scirobotics.abl6334
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000832768700005
-N1  - Times Cited in Web of Science Core Collection:  46
-Total Times Cited:  49
-Cited Reference Count:  193
-ER  -
-

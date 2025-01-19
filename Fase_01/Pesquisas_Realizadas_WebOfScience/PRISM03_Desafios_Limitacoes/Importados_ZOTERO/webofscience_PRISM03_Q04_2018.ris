@@ -1,306 +1,0 @@
-﻿TY  - JOUR
-AU  - Cath, C
-TI  - Governing artificial intelligence: ethical, legal and technical opportunities and challenges Introduction
-T2  - PHILOSOPHICAL TRANSACTIONS OF THE ROYAL SOCIETY A-MATHEMATICAL PHYSICAL AND ENGINEERING SCIENCES
-LA  - English
-KW  - artificial intelligence
-KW  - law
-KW  - ethics
-KW  - technology
-KW  - governance
-KW  - culture
-KW  - EXPLANATION
-KW  - AI
-AB  - This paper is the introduction to the special issue entitled: 'Governing artificial intelligence: ethical, legal and technical opportunities and challenges. Artificial intelligence (AI) increasingly permeates every aspect of our society, from the critical, like urban infrastructure, law enforcement, banking, healthcare and humanitarian aid, to the mundane like dating. AI, including embodied AI in robotics and techniques like machine learning, can improve economic, social welfare and the exercise of human rights. Owing to the proliferation of AI in high-risk areas, the pressure is mounting to design and govern AI to be accountable, fair and transparent. How can this be achieved and through which frameworks? This is one of the central questions addressed in this special issue, in which eight authors present in-depth analyses of the ethical, legal-regulatory and technical challenges posed by developing governance regimes for AI systems. It also gives a brief overview of recent developments in AI governance, how much of the agenda for defining AI regulation, ethical frameworks and technical approaches is set, as well as providing some concrete suggestions to further the debate on AI governance.
-   This article is part of the theme issue 'Governing artificial intelligence: ethical, legal, and technical opportunities and challenges'.
-AD  - Univ Oxford, Oxford Internet Inst, 1 St Giles, Oxford OX1 3JS, EnglandAD  - Alan Turing Inst, 96 Euston Rd, London NW1 2DB, EnglandC3  - University of OxfordFU  - Privacy and Trust Stream-Social lead of the PETRAS Internet of Things research hub; Engineering and Physical Sciences Research Council (EPSRC) [EP/N023013/1]; EPSRC [EP/N023013/1] Funding Source: UKRI
-FX  - Cath's and Floridi's contributions to the editing of this theme issue have been funded as part of the Privacy and Trust Stream-Social lead of the PETRAS Internet of Things research hub. PETRAS is funded by the Engineering and Physical Sciences Research Council (EPSRC), grant agreement no. EP/N023013/1.
-PU  - ROYAL SOC
-PI  - LONDON
-PA  - 6-9 CARLTON HOUSE TERRACE, LONDON SW1Y 5AG, ENGLAND
-SN  - 1364-503X
-SN  - 1471-2962
-J9  - PHILOS T R SOC A
-JI  - Philos. Trans. R. Soc. A-Math. Phys. Eng. Sci.
-DA  - NOV 28
-PY  - 2018
-VL  - 376
-IS  - 2133
-C7  - 20180080
-DO  - 10.1098/rsta.2018.0080
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000447313000001
-N1  - Times Cited in Web of Science Core Collection:  187
-Total Times Cited:  193
-Cited Reference Count:  41
-ER  -
-
-TY  - JOUR
-AU  - Choo, J
-AU  - Liu, SX
-TI  - Visual Analytics for Explainable Deep Learning
-T2  - IEEE COMPUTER GRAPHICS AND APPLICATIONS
-LA  - English
-AB  - Recently, deep learning has been advancing the state of the art in artificial intelligence to a new level, and humans rely on artificial intelligence techniques more than ever. However, even with such unprecedented advancements, the lack of explanation regarding the decisions made by deep learning models and absence of control over their internal processes act as major drawbacks in critical decision-making processes, such as precision medicine and law enforcement. In response, efforts are being made to make deep learning interpretable and controllable by humans. This article reviews visual analytics, information visualization, and machine learning perspectives relevant to this aim, and discusses potential challenges and future research directions.
-AD  - Korea Univ, Dept Comp Sci & Engn, Seoul, South KoreaAD  - Tsinghua Univ, Sch Software, Beijing, Peoples R ChinaC3  - Korea UniversityC3  - Tsinghua UniversityFU  - Basic Science Research Program through the National Research Foundation of Korea (NRF) grant - Korea government (MSIP) [NRF-2016R1C1B2015924]; National NSF of China [61672308]
-FX  - We greatly appreciate the feedback from anonymous reviewers. This work was partially supported by the Basic Science Research Program through the National Research Foundation of Korea (NRF) grant funded by the Korea government (MSIP) (No. NRF-2016R1C1B2015924) and National NSF of China (No. 61672308). Any opinions, findings, and conclusions or recommendations expressed here are those of the authors and do not necessarily reflect the views of funding agencies.
-PU  - IEEE COMPUTER SOC
-PI  - LOS ALAMITOS
-PA  - 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
-SN  - 0272-1716
-SN  - 1558-1756
-J9  - IEEE COMPUT GRAPH
-JI  - IEEE Comput. Graph. Appl.
-DA  - JUL-AUG
-PY  - 2018
-VL  - 38
-IS  - 4
-SP  - 84
-EP  - 92
-DO  - 10.1109/MCG.2018.042731661
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000437786700009
-N1  - Times Cited in Web of Science Core Collection:  158
-Total Times Cited:  175
-Cited Reference Count:  18
-ER  -
-
-TY  - JOUR
-AU  - Dean, J
-AU  - Patterson, D
-AU  - Young, C
-TI  - A New Golden Age in Computer Architecture: Empowering the Machine-Learning Revolution
-T2  - IEEE MICRO
-LA  - English
-KW  - DEEP NEURAL-NETWORKS
-AB  - The end of Moore's law and Dennard scaling has led to the end of rapid improvement in general-purpose program performance. Machine learning (ML), and in particular deep learning, is an attractive alternative for architects to explore. It has recently revolutionized vision, speech, language understanding, and many other fields, and it promises to help with the grand challenges facing our society. The computation at its core is low-precision linear algebra. Thus, ML is both broad enough to apply to many domains and narrow enough to benefit from domain-specific architectures, such as Google's Tensor Processing Unit (TPU). Moreover, the growth in demand for ML computing exceeds Moore's law at its peak, just as it is fading. Hence, ML experts and computer architects must work together to design the computing systems required to deliver on the potential of ML. This article offers motivation, suggestions, and warnings to computer architects on how to best contribute to the ML revolution.
-AD  - Google Brain, Mountain View, CA 94039 USAC3  - Google IncorporatedPU  - IEEE COMPUTER SOC
-PI  - LOS ALAMITOS
-PA  - 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
-SN  - 0272-1732
-SN  - 1937-4143
-J9  - IEEE MICRO
-JI  - IEEE Micro
-DA  - MAR-APR
-PY  - 2018
-VL  - 38
-IS  - 2
-SP  - 21
-EP  - 29
-DO  - 10.1109/MM.2018.112130030
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000430736600002
-N1  - Times Cited in Web of Science Core Collection:  108
-Total Times Cited:  128
-Cited Reference Count:  31
-ER  -
-
-TY  - JOUR
-AU  - Veale, M
-AU  - Binns, R
-AU  - Edwards, L
-TI  - Algorithms that remember: model inversion attacks and data protection law
-T2  - PHILOSOPHICAL TRANSACTIONS OF THE ROYAL SOCIETY A-MATHEMATICAL PHYSICAL AND ENGINEERING SCIENCES
-LA  - English
-KW  - model inversion
-KW  - personal data
-KW  - model trading
-KW  - machine learning
-KW  - RIGHTS
-AB  - Many individuals are concerned about the governance of machine learning systems and the prevention of algorithmic harms. The EU's recent General Data Protection Regulation (GDPR) has been seen as a core tool for achieving better governance of this area. While the GDPR does apply to the use of models in some limited situations, most of its provisions relate to the governance of personal data, while models have traditionally been seen as intellectual property. We present recent work from the information security literature around 'model inversion' and 'membership inference' attacks, which indicates that the process of turning training data into machine-learned systems is not one way, and demonstrate how this could lead some models to be legally classified as personal data. Taking this as a probing experiment, we explore the different rights and obligations this would trigger and their utility, and posit future directions for algorithmic governance and regulation.
-   This article is part of the theme issue 'Governing artificial intelligence: ethical, legal, and technical opportunities and challenges'.
-AD  - UCL, Dept Sci Technol Engn & Publ Policy, London, EnglandAD  - Univ Oxford, Dept Comp Sci, Oxford, EnglandAD  - Newcastle Univ, Newcastle Law Sch, Newcastle, EnglandC3  - University of LondonC3  - University College LondonC3  - University of OxfordC3  - Newcastle University - UKFU  - Engineering and Physical Sciences Research Council (EPSRC) [EP/M507970/1, EP/J017728/2, EP/G065802/1]; Arts and Humanities Research Council (AHRC) [AH/K000179/1]
-FX  - Supported by the Engineering and Physical Sciences Research Council (EPSRC): EP/M507970/1 (M.V.), EP/J017728/2 (R.B.), EP/G065802/1 (L.E.); and the Arts and Humanities Research Council (AHRC) AH/K000179/1 (L.E.).
-PU  - ROYAL SOC
-PI  - LONDON
-PA  - 6-9 CARLTON HOUSE TERRACE, LONDON SW1Y 5AG, ENGLAND
-SN  - 1364-503X
-SN  - 1471-2962
-J9  - PHILOS T R SOC A
-JI  - Philos. Trans. R. Soc. A-Math. Phys. Eng. Sci.
-DA  - NOV 28
-PY  - 2018
-VL  - 376
-IS  - 2133
-C7  - 20180083
-DO  - 10.1098/rsta.2018.0083
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000447313000003
-N1  - Times Cited in Web of Science Core Collection:  87
-Total Times Cited:  94
-Cited Reference Count:  53
-ER  -
-
-TY  - JOUR
-AU  - Alarie, B
-AU  - Niblett, A
-AU  - Yoon, AH
-TI  - HOW ARTIFICIAL INTELLIGENCE WILL AFFECT THE PRACTICE OF LAW
-T2  - UNIVERSITY OF TORONTO LAW JOURNAL
-LA  - English
-KW  - law
-KW  - law firms
-KW  - legal profession
-KW  - machine learning
-KW  - technology
-KW  - COMPUTER
-AB  - Artificial intelligence is exerting an influence on all professions and industries. We have autonomous vehicles, instantaneous translation among the world's leading languages, and search engines that rapidly locate information anywhere on the web in a way that is tailored to a user's interests and past search history. Law is not immune from disruption by new technology. Software tools are beginning to affect various aspects of lawyers' work, including those tasks that historically relied upon expert human judgment, such as predicting court outcomes. These new software tools present new challenges and new opportunities. In the short run, we can expect greater legal transparency, more efficient dispute resolution, improved access to justice, and new challenges to the traditional organization of private law firms delivering legal services on a billable hour basis through a leveraged partner-associate model. With new technology, lawyers will be empowered to work more efficiently, deepen and broaden their areas of expertise, and provide more value to clients. These developments will predictably transform both how lawyers do legal work and resolve disputes on behalf of their clients. In the longer term, it is difficult to predict what the impact of artificially intelligent tools will be, as lawyers incorporate them into their practice and expand their range of services on behalf of clients.
-AD  - Univ Toronto, Fac Law, Toronto, ON, CanadaC3  - University of TorontoPU  - UNIV TORONTO PRESS INC
-PI  - TORONTO
-PA  - JOURNALS DIVISION, 5201 DUFFERIN ST, DOWNSVIEW, TORONTO, ON M3H 5T8, CANADA
-SN  - 0042-0220
-SN  - 1710-1174
-J9  - U TORONTO LAW J
-JI  - Univ. Toronto Law J.
-PY  - 2018
-VL  - 68
-SP  - 106
-EP  - 124
-DO  - 10.3138/utlj.2017-0052
-WE  - Social Science Citation Index (SSCI)AN  - WOS:000427068000006
-N1  - Times Cited in Web of Science Core Collection:  77
-Total Times Cited:  81
-Cited Reference Count:  62
-ER  -
-
-TY  - CPAPER
-AU  - Kahng, AB
-A1  - IEEE
-TI  - New Directions for Learning-Based IC Design Tools and Methodologies
-T2  - 2018 23RD ASIA AND SOUTH PACIFIC DESIGN AUTOMATION CONFERENCE (ASP-DAC)
-LA  - English
-CP  - 23rd Asia and South Pacific Design Automation Conference (ASP-DAC)
-AB  - Design-based equivalent scaling now bears much of the burden of continuing the semiconductor industry's trajectory of Moore's-Law value scaling. In the future, reductions of design effort and design schedule must comprise a substantial portion of this equivalent scaling. In this context, machine learning and deep learning in EDA tools and design flows offer enormous potential for value creation. Examples of opportunities include: improved design convergence through prediction of downstream flow outcomes; margin reduction through new analysis correlation mechanisms; and use of open platforms to develop learning-based applications. These will be the foundations of future design-based equivalent scaling in the IC industry. This paper describes several near-term challenges and opportunities, along with concrete existence proofs, for application of learning-based methods within the ecosystem of commercial EDA, IC design, and academic research.
-AD  - Univ Calif San Diego, CSE Dept, La Jolla, CA 92093 USAAD  - Univ Calif San Diego, ECE Dept, La Jolla, CA 92093 USAC3  - University of California SystemC3  - University of California San DiegoC3  - University of California SystemC3  - University of California San DiegoPU  - IEEE
-PI  - NEW YORK
-PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
-SN  - 2153-6961
-SN  - 978-1-5090-0602-1
-J9  - ASIA S PACIF DES AUT
-PY  - 2018
-SP  - 405
-EP  - 410
-WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000426987100083
-N1  - Times Cited in Web of Science Core Collection:  26
-Total Times Cited:  31
-Cited Reference Count:  50
-ER  -
-
-TY  - CPAPER
-AU  - Arechiga, AP
-AU  - Michaels, AJ
-AU  - Black, JT
-A1  - IEEE
-TI  - Onboard Image Processing for Small Satellites
-T2  - NAECON 2018 - IEEE NATIONAL AEROSPACE AND ELECTRONICS CONFERENCE
-LA  - English
-CP  - IEEE National Aerospace and Electronics Conference (NAECON)
-KW  - Machine Learning
-KW  - Neural Networks
-KW  - Onboard Processing
-KW  - Satellite Imagery
-KW  - HYBRID
-AB  - In general, the computational ability of spacecraft and satellites has lagged behind terrestrial computers by several generations. Moore's Law turns the supercomputers of yesterday into the laptops of today, but space computing remains relatively underpowered due to the harsh radiation environment and low risk-tolerance of most space missions. Space missions are generally low risk because of the high cost of components and launch. However, launch costs are drastically decreasing and innovations such as CubeSats are changing the risk equation. By accepting more risk and utilizing commercial of the shelf (COTS) parts, it is possible to cheaply build and launch extremely capable computing platforms into space. Iligh performance satellites will be required for advanced interplanetary exploration due to latency challenges. The long transmission times between planets means satellites or robotic explorers need onboard processing to perform tasks in real-time. This paper explores one possible application that could be hosted onboard the next generation of high performance satellites, performing object classification on satellite imagery. Automation of satellite imagery processing is currently performed by servers or workstations on Earth, but this paper will show that those algorithms can be moved onboard satellites by using COTS components. First traditional computer vision techniques such as edge detection and sliding windows are used to detect possible objects on the open ocean. Then a modern neural network architecture is used to classify the object as a ship or not. This application is implemented on a Nvidia Jason TX2 and measurements of the application's power use confirm that it fits within the Size Weight and Power (SWAP) requirements of SmallSats and possibly even CubeSats.
-AD  - Virginia Polytech Inst & State Univ, Hume Ctr Natl Secur & Technol, Blacksburg, VA 24061 USAC3  - Virginia Polytechnic Institute & State UniversityPU  - IEEE
-PI  - NEW YORK
-PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
-SN  - 0547-3578
-SN  - 978-1-5386-6557-2
-J9  - PROC NAECON IEEE NAT
-PY  - 2018
-SP  - 234
-EP  - 240
-WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000458759100038
-N1  - Times Cited in Web of Science Core Collection:  21
-Total Times Cited:  23
-Cited Reference Count:  20
-ER  -
-
-TY  - JOUR
-AU  - Dalenberg, DJ
-TI  - Preventing discrimination in the automated targeting of job advertisements
-T2  - COMPUTER LAW & SECURITY REVIEW
-LA  - English
-KW  - 2000/43/EC
-KW  - 2000/78/EC
-KW  - 2006/54/EC
-KW  - Algorithmic models
-KW  - Artificial intelligence
-KW  - Big data
-KW  - Data mining
-KW  - Employment equality
-KW  - Machine learning
-KW  - Non-discrimination directives
-AB  - On the background of the increasing amount of discriminatory challenges facing artificial intelligence applications, this paper examines the requirements that are needed to comply with European non-discrimination law to prevent discrimination in the automated online job advertising business. This paper explains under which circumstance the automated targeting of job advertisements can amount to direct or indirect discrimination. The paper concludes with technical recommendations to dismantle the dangers of automated job advertising. Various options like influencing the pre-processing of big data and altering the algorithmic models are evaluated. This paper also examines the possibilities of using techniques like data mining and machine learning to actively battle direct and indirect discrimination. The European non-discrimination directives 2000/43/EC, 2000/78/EC, and 2006/54/EC which prohibit direct and indirect discrimination in the field of employment on the grounds of race or ethnic origin, sex, sexual orientation, religious belief, age and disability are used as a legal framework. (C) 2017 David Jacobus Dalenberg. Published by Elsevier Ltd. All rights reserved.
-AD  - Univ Amsterdam, Fac Law Int & European Law Publ Int Law, Rombout Hogerbeetsstr 52-3, NL-1052XG Amsterdam, NetherlandsC3  - University of AmsterdamPU  - ELSEVIER ADVANCED TECHNOLOGY
-PI  - OXFORD
-PA  - OXFORD FULFILLMENT CENTRE THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
-SN  - 0267-3649
-J9  - COMPUT LAW SECUR REV
-JI  - Comput. Law Secur. Rev.
-DA  - JUN
-PY  - 2018
-VL  - 34
-IS  - 3
-SP  - 615
-EP  - 627
-DO  - 10.1016/j.clsr.2017.11.009
-WE  - Social Science Citation Index (SSCI)AN  - WOS:000434747800014
-N1  - Times Cited in Web of Science Core Collection:  20
-Total Times Cited:  24
-Cited Reference Count:  33
-ER  -
-
-TY  - CPAPER
-AU  - Dadras, S
-AU  - Dadras, S
-AU  - Winstead, C
-A1  - IEEE
-TI  - Identification of the Attacker in Cyber-Physical Systems with an Application to Vehicular Platooning in Adversarial Environment
-T2  - 2018 ANNUAL AMERICAN CONTROL CONFERENCE (ACC)
-LA  - English
-CP  - American Control Conference
-AB  - Cyber-Physical Systems (CPS) are systems with tight coupling between integration of physical, computational and networking components. Control systems play an important role to help these systems to adhere to their desired performance. Having a reliable and secure control system which can cope with high risk situations and various attacks is one of the bottlenecks for real world cyber-physical systems. It has been proven that using control modification attack, where the adversary modifies the sensor information or the control law, can disrupt the desired performance of the system. In this paper, a novel scheme is presented to detect and identify the attacker in control systems. The detection algorithm is the combination of the system identification method and machine learning technique which effectively recognizes the malicious actors. The proposed algorithm is efficient, viable, and simply adequate to address the challenges posed by complex cyber-physical systems. Finally, the efficiency of the presented method is verified with the case of platooning in an adversarial environment.
-AD  - Utah State Univ, Elect & Comp Engn Dept, Logan, UT 84321 USAC3  - Utah System of Higher EducationC3  - Utah State UniversityFU  - National Science Foundation [1410000]; Direct For Computer & Info Scie & Enginr; Division Of Computer and Network Systems [1410000] Funding Source: National Science Foundation
-FX  - This material is based in part upon work supported by the National Science Foundation under Grant No. 1410000.
-PU  - IEEE
-PI  - NEW YORK
-PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
-SN  - 0743-1619
-SN  - 2378-5861
-SN  - 978-1-5386-5428-6
-J9  - P AMER CONTR CONF
-PY  - 2018
-SP  - 5560
-EP  - 5567
-WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000591256605104
-N1  - Times Cited in Web of Science Core Collection:  15
-Total Times Cited:  19
-Cited Reference Count:  21
-ER  -
-
-TY  - JOUR
-AU  - Stern, S
-TI  - INTRODUCTION: ARTIFICIAL INTELLIGENCE, TECHNOLOGY, AND THE LAW
-T2  - UNIVERSITY OF TORONTO LAW JOURNAL
-LA  - English
-KW  - artificial intelligence
-KW  - legal theory
-KW  - machine learning
-KW  - natural language processing
-KW  - rule of law
-AB  - On 25 March 2017, the Centre for Innovation Law and Policy at the University of Toronto hosted a Conference on Artificial Intelligence, Technology, and the Law. The conference was supported by generous funding from the University of Toronto Press and from the Social Science and Humanities Research Council of Canada. The contributions to this special issue of the UTLJ are based on articles originally presented at the conference. Some of the speakers discussed the kinds of tasks that machine learning (ML) and natural language processing (NLP) can perform, when used to conduct legal research, to identify biases and discrepancies at the doctrinal level and in the performance of lawyers and judges, and to facilitate access to justice for those who cannot readily afford legal services. Other speakers considered the challenges that algorithms based on ML and NLP pose to democratic conceptions of legal authority. Taken together, the articles offered a range of views on the prospects and perils of AI for the practice of law and for the legal system as a whole. This introduction briefly describes the contributions, moving roughly from the more theoretical to the more concrete aspects of these issues.
-AD  - Univ Toronto, Ctr Innovat Law & Policy, Toronto, ON, CanadaC3  - University of TorontoPU  - UNIV TORONTO PRESS INC
-PI  - TORONTO
-PA  - JOURNALS DIVISION, 5201 DUFFERIN ST, DOWNSVIEW, TORONTO, ON M3H 5T8, CANADA
-SN  - 0042-0220
-SN  - 1710-1174
-J9  - U TORONTO LAW J
-JI  - Univ. Toronto Law J.
-PY  - 2018
-VL  - 68
-SP  - 1
-EP  - 11
-DO  - 10.3138/utlj.2017-0102
-WE  - Social Science Citation Index (SSCI)AN  - WOS:000427068000001
-N1  - Times Cited in Web of Science Core Collection:  8
-Total Times Cited:  11
-Cited Reference Count:  12
-ER  -
-

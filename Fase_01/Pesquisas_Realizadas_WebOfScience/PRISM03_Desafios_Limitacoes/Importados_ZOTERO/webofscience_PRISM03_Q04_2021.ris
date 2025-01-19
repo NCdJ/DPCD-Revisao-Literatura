@@ -1,394 +1,0 @@
-﻿TY  - JOUR
-AU  - Zhang, C
-AU  - Xie, Y
-AU  - Bai, H
-AU  - Yu, B
-AU  - Li, WH
-AU  - Gao, Y
-TI  - A survey on federated learning
-T2  - KNOWLEDGE-BASED SYSTEMS
-LA  - English
-KW  - Federated learning
-KW  - Privacy protection
-KW  - Machine learning
-KW  - PRIVACY
-KW  - OPPORTUNITIES
-KW  - FRAMEWORK
-KW  - SECURITY
-KW  - LAW
-AB  - Federated learning is a set-up in which multiple clients collaborate to solve machine learning problems, which is under the coordination of a central aggregator. This setting also allows the training data decentralized to ensure the data privacy of each device. Federated learning adheres to two major ideas: local computing and model transmission, which reduces some systematic privacy risks and costs brought by traditional centralized machine learning methods. The original data of the client is stored locally and cannot be exchanged or migrated. With the application of federated learning, each device uses local data for local training, then uploads the model to the server for aggregation, and finally the server sends the model update to the participants to achieve the learning goal. To provide a comprehensive survey and facilitate the potential research of this area, we systematically introduce the existing works of federated learning from five aspects: data partitioning, privacy mechanism, machine learning model, communication architecture and systems heterogeneity. Then, we sort out the current challenges and future research directions of federated learning. Finally, we summarize the characteristics of existing federated learning, and analyze the current practical application of federated learning. (C) 2021 Elsevier B.V. All rights reserved.
-AD  - Xidian Univ, Sch Comp Sci & Technol, Xian 710071, Shaanxi, Peoples R ChinaAD  - Shanxi Univ, Key Lab Computat Intelligence & Chinese Informat, Minist Educ, Taiyuan 030006, Peoples R ChinaAD  - Xidian Univ, Sch Elect Engn, Xian 710071, Shaanxi, Peoples R ChinaC3  - Xidian UniversityC3  - Shanxi UniversityC3  - Xidian UniversityFU  - Key Research and Development Program of Shaanxi Province, China [2019ZDLGY17-01, 2019GY-042]; Fundamental Research Funds for the Central Universities, China; Innovation Fund of Xidian University, China
-FX  - The authors wish to thank the editors and anonymous reviewers for their valuable comments and helpful suggestions which greatly improved the paper's quality. This work was supported by the Key Research and Development Program of Shaanxi Province, China (Grant no. 2019ZDLGY17-01, 2019GY-042), the Fundamental Research Funds for the Central Universities, China, and the Innovation Fund of Xidian University, China.
-PU  - ELSEVIER
-PI  - AMSTERDAM
-PA  - RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
-SN  - 0950-7051
-SN  - 1872-7409
-J9  - KNOWL-BASED SYST
-JI  - Knowledge-Based Syst.
-DA  - MAR 15
-PY  - 2021
-VL  - 216
-C7  - 106775
-DO  - 10.1016/j.knosys.2021.106775
-C6  - FEB 2021
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000620462600001
-N1  - Times Cited in Web of Science Core Collection:  611
-Total Times Cited:  638
-Cited Reference Count:  86
-ER  -
-
-TY  - JOUR
-AU  - Chai, D
-AU  - Wang, LY
-AU  - Chen, K
-AU  - Yang, Q
-TI  - Secure Federated Matrix Factorization
-T2  - IEEE INTELLIGENT SYSTEMS
-LA  - English
-KW  - Servers
-KW  - Encryption
-KW  - Privacy
-KW  - Data models
-KW  - Mathematical model
-KW  - Machine learning
-KW  - IEEE Intelligent system
-KW  - Security and Privacy Protection
-KW  - Distributed system
-AB  - To protect user privacy and meet law regulations, federated (machine) learning is obtaining vast interests in recent years. The key principle of federated learning is training a machine learning model without needing to know each user's personal raw private data. In this article, we propose a secure matrix factorization framework under the federated learning setting, called FedMF. First, we design a user-level distributed matrix factorization framework where the model can be learned when each user only uploads the gradient information (instead of the raw preference data) to the server. While gradient information seems secure, we prove that it could still leak users' raw data. To this end, we enhance the distributed matrix factorization framework with homomorphic encryption. We implement the prototype of FedMF and test it with a real movie rating dataset. Results verify the feasibility of FedMF. We also discuss the challenges for applying FedMF in practice for future research.
-AD  - Hong Kong Univ Sci & Technol, Comp Sci & Engn, Hong Kong, Peoples R ChinaAD  - Peking Univ, Key Lab High Confidence Software Technol, Beijing, Peoples R ChinaAD  - Hong Kong Univ Sci & Technol, Hong Kong, Peoples R ChinaC3  - Hong Kong University of Science & TechnologyC3  - Peking UniversityC3  - Hong Kong University of Science & TechnologyFU  - NSFC [61972008]; National Key Research and Development Program of China [2018AAA0101100]
-FX  - The work of L. Wang was supported by the NSFC under Grant 61972008. The work of Q. Yang was supported by the National Key Research and Development Program of China under Grant 2018AAA0101100. This research was partially supported by the collaboration project at HKUST-DiDi Joint Lab. Di Chai and Leye Wang contributed equally to this work.
-PU  - IEEE COMPUTER SOC
-PI  - LOS ALAMITOS
-PA  - 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
-SN  - 1541-1672
-SN  - 1941-1294
-J9  - IEEE INTELL SYST
-JI  - IEEE Intell. Syst.
-DA  - SEPT 1
-PY  - 2021
-VL  - 36
-IS  - 5
-SP  - 11
-EP  - 19
-DO  - 10.1109/MIS.2020.3014880
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000711734100007
-N1  - Times Cited in Web of Science Core Collection:  189
-Total Times Cited:  205
-Cited Reference Count:  10
-ER  -
-
-TY  - JOUR
-AU  - Nomura, Y
-AU  - Imada, M
-TI  - Dirac-Type Nodal Spin Liquid Revealed by Refined Quantum Many-Body Solver Using Neural-Network Wave Function, Correlation Ratio, and Level Spectroscopy
-T2  - PHYSICAL REVIEW X
-LA  - English
-KW  - RESONATING-VALENCE-BOND
-KW  - TRANSITIONS
-KW  - INSULATOR
-KW  - STATES
-KW  - ORDER
-KW  - MODEL
-KW  - GAP
-AB  - Pursuing fractionalized particles that do not bear properties of conventional measurable objects, exemplified by bare particles in the vacuum such as electrons and elementary excitations such as magnons, is a challenge in physics. Here we show that a machine-learning method for quantum many-body systems that has achieved state-of-the-art accuracy reveals the existence of a quantum spin liquid (QSL) phase in the region 0.49 <= J(2)/J(1) <= 0.54 convincingly in spin-1/2 frustrated Heisenberg model with the nearest and next-nearest-neighbor exchanges, J(1) and J(2), respectively, on the square lattice. This is achieved by combining with the cutting-edge computational schemes known as the correlation ratio and level spectroscopy methods to mitigate the finite-size effects. The quantitative one-to-one correspondence between the correlations in the ground state and the excitation spectra found in the present analyses enables the reliable identification and estimation of the QSL and its nature. The spin excitation spectra containing both singlet and triplet gapless Dirac-like dispersions signal the emergence of gapless fractionalized spin-1/2 Dirac-type spinons in the distinctive QSL phase. Unexplored critical behavior with coexisting and dual power-law decays of Neel antiferromagnetic and dimer correlations is revealed. The power-law decay exponents of the two correlations differently vary with J(2)/J(1) in the QSL phase and thus have different values except for a single point satisfying the symmetry of the two correlations. The isomorph of excitations with the cuprate d-wave superconductors revealed here implies a tight connection between the present QSL and superconductivity. This achievement demonstrates that the quantum-state representation using machine-learning techniques, which had mostly been limited to benchmarks, is a promising tool for investigating grand challenges in quantum many-body physics.
-AD  - RIKEN Ctr Emergent Matter Sci, 2-1 Hirosawa, Wako, Saitama 3510198, JapanAD  - Toyota Phys & Chem Res Inst, 41-1 Yokomichi, Nagakute, Aichi 4801192, JapanAD  - Waseda Univ, Res Inst Sci & Engn, Shinjuku Ku, 3-4-1 Okubo, Tokyo 1698555, JapanC3  - RIKENC3  - Waseda UniversityFU  - Ministry of Education, Culture, Sports, Science and Technology (MEXT), Japan [16H06345]; JSPS KAKENHI [17K14336, 18H01158]; MEXT HPCI Strategic Programs; Creation of New Functional Devices and High-Performance Materials to Support Next Generation Industries (CDMSI); "Program for Promoting Researches on the Supercomputer Fugaku" (Basic Science for Emergence and Functionality in Quantum Matter-Innovative StronglyCorrelated Electron Science by Integration of "Fugaku" and Frontier Experiments) [hp200132, hp210163]; RIKEN Advanced Institute for Computational Science under the HPCI System Research project [hp170263, hp180170, hp190145]
-FX  - We acknowledge useful discussions with Satoshi Morita, Anders W. Sandvik, and Zi Yang Meng. We also thank Satoshi Morita for providing us with the raw data in Ref. [27]. Y. N. is grateful for fruitful discussions with Ribhu Kaul, Hidemaro Suwa, Yoshitomo Kamiya, Kenji Harada, Zheng-Cheng Gu, Giuseppe Carleo, and Ryui Kaneko. The implementation of the RBM thorn PP scheme is done based on the mVMC package [65]. The computation was mainly done at Supercomputer Center, Institute for Solid State Physics, University of Tokyo, and RIKEN supercomputers K and Fugaku. The authors are grateful for the financial support by a Grant-in-Aid for Scientific Research (Grant No. 16H06345) from Ministry of Education, Culture, Sports, Science and Technology (MEXT), Japan. Y. N. was supported by Grant-in-Aids for Scientific Research (JSPS KAKENHI) (Grants No. 17K14336 and No. 18H01158). This work is financially supported by the MEXT HPCI Strategic Programs, and the Creation of New Functional Devices and High-Performance Materials to Support Next Generation Industries (CDMSI), as well as by "Program for Promoting Researches on the Supercomputer Fugaku" (Basic Science for Emergence and Functionality in Quantum Matter-Innovative StronglyCorrelated Electron Science by Integration of "Fugaku" and Frontier Experiments) (Grants No. hp200132 and No. hp210163). We also acknowledge the support provided by the RIKEN Advanced Institute for Computational Science under the HPCI System Research project (Grants No. hp170263, No. hp180170, and No. hp190145).
-PU  - AMER PHYSICAL SOC
-PI  - COLLEGE PK
-PA  - ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
-SN  - 2160-3308
-J9  - PHYS REV X
-JI  - Phys. Rev. X
-DA  - AUG 12
-PY  - 2021
-VL  - 11
-IS  - 3
-C7  - 031034
-DO  - 10.1103/PhysRevX.11.031034
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000685112400001
-N1  - Times Cited in Web of Science Core Collection:  99
-Total Times Cited:  106
-Cited Reference Count:  73
-ER  -
-
-TY  - JOUR
-AU  - Stender, M
-AU  - Tiedemann, M
-AU  - Spieler, D
-AU  - Schoepflin, D
-AU  - Hoffmann, N
-AU  - Oberst, S
-TI  - Deep learning for brake squeal: Brake noise detection, characterization and prediction
-T2  - MECHANICAL SYSTEMS AND SIGNAL PROCESSING
-LA  - English
-KW  - Friction-induced vibrations
-KW  - Data science
-KW  - Object detection
-KW  - Time series classification
-KW  - Virtual twin
-KW  - FRICTION-INDUCED VIBRATION
-KW  - MODE-COUPLING INSTABILITY
-KW  - NEURAL-NETWORKS
-KW  - MINIMAL MODEL
-KW  - UNCERTAINTY
-KW  - BIFURCATIONS
-KW  - LAW
-KW  - CLASSIFICATION
-KW  - MULTISTABILITY
-KW  - OSCILLATORS
-AB  - Despite significant advances in modeling of friction-induced vibrations and brake squeal, the majority of industrial research and design is still conducted experimentally, since many aspects of squeal and its mechanisms involved remain unknown. In practice, measurement data is available in large amounts. We report here for the first time on novel strategies for handling data-intensive vibration testings to gain better insights into friction brake system vibrations and noise generation mechanisms. Machine learning-based methods to detect and characterize vibrations, to understand sensitivities and to predict brake squeal are applied with the aim to illustrate how interdisciplinary approaches can leverage the poten-tial of data science techniques for classical mechanical engineering challenges.
-   In the first part, a deep learning brake squeal detector is developed to identify several classes of typical friction noise recordings. The detection method is rooted in recent computer vision techniques for object detection based on convolutional neural networks (CNN). It allows to overcome limitations of classical approaches that solely rely on instantaneous spectral properties of the recorded noise. Results indicate superior detection and characterization quality when compared to a state-of-the-art brake squeal detector. In the second part, a recurrent neural network (RNN) is employed to learn the parametric patterns that determine the dynamic stability of an operating brake system. Given a set of multivariate loading conditions, the RNN learns to predict the noise generation of the structure. The validated RNN represents a virtual twin model for the squeal behavior of a specific brake system. It is found that this model can predict the occurrence and the onset of brake squeal with high accuracy and that it can identify the complicated patterns and temporal dependencies in the loading conditions that drive the dynamical structure into regimes of instability. Large data sets from commercial brake system testing are used to train and validate the models. This work is a contribution to the MSSP Special Issue in Honor of Professor Lothar Gaul. (c) 2020 Elsevier Ltd. All rights reserved.
-AD  - Hamburg Univ Technol, Dynam Grp, Hamburg, GermanyAD  - AUDI AG, Brake Syst Dev, Ingolstadt, GermanyAD  - Univ Appl Sci Munich, Dept Comp Sci & Math, Munich, GermanyAD  - Hamburg Univ Technol, Inst Aircraft Prod Technol, Hamburg, GermanyAD  - Imperial Coll London, Dept Mech Engn, London, EnglandAD  - Univ Technol Sydney, Fac Engn & Informat Technol, Ctr Audio Acoust & Vibrat, Sydney, NSW, AustraliaC3  - Hamburg University of TechnologyC3  - VolkswagenC3  - AudiC3  - Hamburg University of TechnologyC3  - Imperial College LondonC3  - University of Technology SydneyFU  - German Research Foundation (DFG) [Ho 3851/12-1]
-FX  - MS was supported by the German Research Foundation (DFG) within the Priority Program "calm, smooth, smart"' under the reference Ho 3851/12-1.
-PU  - ACADEMIC PRESS LTD- ELSEVIER SCIENCE LTD
-PI  - LONDON
-PA  - 24-28 OVAL RD, LONDON NW1 7DX, ENGLAND
-SN  - 0888-3270
-SN  - 1096-1216
-J9  - MECH SYST SIGNAL PR
-JI  - Mech. Syst. Signal Proc.
-DA  - FEB 15
-PY  - 2021
-VL  - 149
-C7  - 107181
-DO  - 10.1016/j.ymssp.2020.107181
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000587904800005
-N1  - Times Cited in Web of Science Core Collection:  48
-Total Times Cited:  50
-Cited Reference Count:  108
-ER  -
-
-TY  - JOUR
-AU  - Reina-Romo, E
-AU  - Mandal, S
-AU  - Amorim, P
-AU  - Bloemen, V
-AU  - Ferraris, E
-AU  - Geris, L
-TI  - Towards the Experimentally-Informed <i>In Silico</i> Nozzle Design Optimization for Extrusion-Based Bioprinting of Shear-Thinning Hydrogels
-T2  - FRONTIERS IN BIOENGINEERING AND BIOTECHNOLOGY
-LA  - English
-KW  - power law fluid model
-KW  - computational modeling
-KW  - computational fluid dynamics
-KW  - machine learning
-KW  - bioink
-KW  - cell viability
-KW  - design of experiements
-KW  - Gaussian process
-KW  - CELL-DAMAGE
-KW  - BIOFABRICATION
-KW  - GEOMETRY
-KW  - TISSUES
-AB  - Research in bioprinting is booming due to its potential in addressing several manufacturing challenges in regenerative medicine. However, there are still many hurdles to overcome to guarantee cell survival and good printability. For the 3D extrusion-based bioprinting, cell viability is amongst one of the lowest of all the bioprinting techniques and is strongly influenced by various factors including the shear stress in the print nozzle. The goal of this study is to quantify, by means of in silico modeling, the mechanical environment experienced by the bioink during the printing process. Two ubiquitous nozzle shapes, conical and blunted, were considered, as well as three common hydrogels with material properties spanning from almost Newtonian to highly shear-thinning materials following the power-law behavior: Alginate-Gelatin, Alginate and PF127. Comprehensive in silico testing of all combinations of nozzle geometry variations and hydrogels was achieved by combining a design of experiments approach (DoE) with a computational fluid dynamics (CFD) of the printing process, analyzed through a machine learning approach named Gaussian Process. Available experimental results were used to validate the CFD model and justify the use of shear stress as a surrogate for cell survival in this study. The lower and middle nozzle radius, lower nozzle length and the material properties, alone and combined, were identified as the major influencing factors affecting shear stress, and therefore cell viability, during printing. These results were successfully compared with those of reported experiments testing viability for different nozzle geometry parameters under constant flow rate or constant pressure. The in silico 3D bioprinting platform developed in this study offers the potential to assist and accelerate further development of 3D bioprinting.
-AD  - Univ Seville, Dept Mech Engn & Mfg, Seville, SpainAD  - Univ Liege, Biomech Res Unit, GIGA In Silico Med, Liege, BelgiumAD  - Katholieke Univ Leuven, Div Skeletal Tissue Engn, Prometheus, Leuven, BelgiumAD  - Katholieke Univ Leuven, Mat Technol TC, Campus Grp T, Leuven, BelgiumAD  - Katholieke Univ Leuven, Dept Mech Engn, Campus Nayer, Leuven, BelgiumAD  - Katholieke Univ Leuven, Skeletal Biol & Engn Res Ctr, Leuven, BelgiumAD  - Katholieke Univ Leuven, Biomech Sect, Dept Mech Engn, Leuven, BelgiumC3  - University of SevillaC3  - University of LiegeC3  - KU LeuvenC3  - KU LeuvenC3  - KU LeuvenC3  - KU LeuvenC3  - KU LeuvenFU  - Jose Castillejo grant [CAS17/00179]; FNRS [T.0256.16]; European Union's Horizon 2020 research and innovation programme from the European Research Council [ERC CoG INSITE 772418]; European Union's Horizon 2020 research and innovation programme from EU H2020 RIA [874837]; University of Liege, Belgium
-FX  - ER-R received support from the "Jose Castillejo grant" (CAS17/00179), This work received financial support from FNRS (grant T.0256.16) and under the European Union's Horizon 2020 research and innovation programme from the European Research Council (ERC CoG INSITE 772418) and from EU H2020 RIA (JointPromise, 874837). SM acknowledges the "IPD-STEMA" fellowship offered by University of Liege, Belgium.
-PU  - FRONTIERS MEDIA SA
-PI  - LAUSANNE
-PA  - AVENUE DU TRIBUNAL FEDERAL 34, LAUSANNE, CH-1015, SWITZERLAND
-SN  - 2296-4185
-J9  - FRONT BIOENG BIOTECH
-JI  - Front. Bioeng. Biotechnol.
-DA  - AUG 6
-PY  - 2021
-VL  - 9
-DO  - 10.3389/fbioe.2021.701778
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000694885200001
-N1  - Times Cited in Web of Science Core Collection:  37
-Total Times Cited:  46
-Cited Reference Count:  70
-ER  -
-
-TY  - JOUR
-AU  - Cordeiro, JV
-TI  - Digital Technologies and Data Science as Health Enablers: An Outline of Appealing Promises and Compelling Ethical, Legal, and Social Challenges
-T2  - FRONTIERS IN MEDICINE
-LA  - English
-KW  - digital health
-KW  - ethics
-KW  - law
-KW  - artificial intelligence
-KW  - telemedicine
-KW  - big data
-KW  - patient-doctor relationship
-KW  - ARTIFICIAL-INTELLIGENCE
-KW  - BIG DATA
-KW  - MEDICINE
-KW  - CARE
-KW  - PHYSICIAN
-KW  - QUALITY
-KW  - JUSTICE
-KW  - ACCESS
-KW  - ROBOT
-KW  - STOP
-AB  - Digital technologies and data science have laid down the promise to revolutionize healthcare by transforming the way health and disease are analyzed and managed in the future. Digital health applications in healthcare include telemedicine, electronic health records, wearable, implantable, injectable and ingestible digital medical devices, health mobile apps as well as the application of artificial intelligence and machine learning algorithms to medical and public health prognosis and decision-making. As is often the case with technological advancement, progress in digital health raises compelling ethical, legal, and social implications (ELSI). This article aims to succinctly map relevant ELSI of the digital health field. The issues of patient autonomy; assessment, value attribution, and validation of health innovation; equity and trustworthiness in healthcare; professional roles and skills and data protection and security are highlighted against the backdrop of the risks of dehumanization of care, the limitations of machine learning-based decision-making and, ultimately, the future contours of human interaction in medicine and public health. The running theme to this article is the underlying tension between the promises of digital health and its many challenges, which is heightened by the contrasting pace of scientific progress and the timed responses provided by law and ethics. Digital applications can prove to be valuable allies for human skills in medicine and public health. Similarly, ethics and the law can be interpreted and perceived as more than obstacles, but also promoters of fairness, inclusiveness, creativity and innovation in health.
-AD  - Univ Nova Lisboa, NOVA Natl Sch Publ Hlth, Publ Hlth Res Ctr, Lisbon, PortugalAD  - Univ Nova Lisboa, Comprehens Hlth Res Ctr, Lisbon, PortugalAD  - Ctr Interdisciplinar Ciencias Sociais, Lisbon, PortugalC3  - Universidade Nova de LisboaC3  - Universidade Nova de LisboaFU  - Fundacao Ciencia e Tecnologia, IP national support through CHRC [UIDP/04923/2020]
-FX  - This present publication was funded by Fundacao Ciencia e Tecnologia, IP national support through CHRC (UIDP/04923/2020).
-PU  - FRONTIERS MEDIA SA
-PI  - LAUSANNE
-PA  - AVENUE DU TRIBUNAL FEDERAL 34, LAUSANNE, CH-1015, SWITZERLAND
-SN  - 2296-858X
-J9  - FRONT MED-LAUSANNE
-JI  - Front. Med.
-DA  - JUL 8
-PY  - 2021
-VL  - 8
-C7  - 647897
-DO  - 10.3389/fmed.2021.647897
-WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:000675381100001
-N1  - Times Cited in Web of Science Core Collection:  29
-Total Times Cited:  30
-Cited Reference Count:  158
-ER  -
-
-TY  - JOUR
-AU  - Martinez-Martin, N
-AU  - Greely, HT
-AU  - Cho, MK
-TI  - Ethical Development of Digital Phenotyping Tools for Mental Health Applications: Delphi Study
-T2  - JMIR MHEALTH AND UHEALTH
-LA  - English
-KW  - ethics
-KW  - neuroethics
-KW  - digital phenotyping
-KW  - digital mental health
-KW  - Delphi study
-KW  - mental health
-KW  - machine learning
-KW  - artificial intelligence
-KW  - mobile phone
-KW  - SCIENCE
-KW  - MOBILE
-KW  - BIAS
-AB  - Background: Digital phenotyping (also known as personal sensing, intelligent sensing, or body computing) involves the collection of biometric and personal data in situ from digital devices, such as smartphones, wearables, or social media, to measure behavior or other health indicators. The collected data are analyzed to generate moment-by-moment quantification of a person's mental state and potentially predict future mental states. Digital phenotyping projects incorporate data from multiple sources, such as electronic health records, biometric scans, or genetic testing. As digital phenotyping tools can be used to study and predict behavior, they are of increasing interest for a range of consumer, government, and health care applications. In clinical care, digital phenotyping is expected to improve mental health diagnoses and treatment. At the same time, mental health applications of digital phenotyping present significant areas of ethical concern, particularly in terms of privacy and data protection, consent, bias, and accountability. Objective: This study aims to develop consensus statements regarding key areas of ethical guidance for mental health applications of digital phenotyping in the United States. Methods: We used a modified Delphi technique to identify the emerging ethical challenges posed by digital phenotyping for mental health applications and to formulate guidance for addressing these challenges. Experts in digital phenotyping, data science, mental health, law, and ethics participated as panelists in the study. The panel arrived at consensus recommendations through an iterative process involving interviews and surveys. The panelists focused primarily on clinical applications for digital phenotyping for mental health but also included recommendations regarding transparency and data protection to address potential areas of misuse of digital phenotyping data outside of the health care domain. Results: The findings of this study showed strong agreement related to these ethical issues in the development of mental health applications of digital phenotyping: privacy, transparency, consent, accountability, and fairness. Consensus regarding the recommendation statements was strongest when the guidance was stated broadly enough to accommodate a range of potential applications. The privacy and data protection issues that the Delphi participants found particularly critical to address related to the perceived inadequacies of current regulations and frameworks for protecting sensitive personal information and the potential for sale and analysis of personal data outside of health systems. Conclusions: The Delphi study found agreement on a number of ethical issues to prioritize in the development of digital phenotyping for mental health applications. The Delphi consensus statements identified general recommendations and principles regarding the ethical application of digital phenotyping to mental health. As digital phenotyping for mental health is implemented in clinical care, there remains a need for empirical research and consultation with relevant stakeholders to further understand and address relevant ethical issues.
-AD  - Stanford Univ, Ctr Biomed Eth, Sch Med, 1215 Welch Rd,Modular A, Stanford, CA 94305 USAAD  - Stanford Law Sch, Stanford, CA USAC3  - Stanford UniversityC3  - Stanford UniversityFU  - Greenwall Foundation Making a Difference in Real-World Bioethics grant; NIH/NIMH [K01 MH118375-01A1]
-FX  - This study was funded by a Greenwall Foundation Making a Difference in Real-World Bioethics grant. The work of NMM was also supported by NIH/NIMH grant K01 MH118375-01A1.
-PU  - JMIR PUBLICATIONS, INC
-PI  - TORONTO
-PA  - 130 QUEENS QUAY E, STE 1102, TORONTO, ON M5A 0P6, CANADA
-SN  - 2291-5222
-J9  - JMIR MHEALTH UHEALTH
-JI  - JMIR mHealth uHealth
-DA  - JUL
-PY  - 2021
-VL  - 9
-IS  - 7
-C7  - e27343
-DO  - 10.2196/27343
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000692249000023
-N1  - Times Cited in Web of Science Core Collection:  29
-Total Times Cited:  29
-Cited Reference Count:  104
-ER  -
-
-TY  - JOUR
-AU  - Safat, W
-AU  - Asghar, S
-AU  - Gillani, SA
-TI  - Empirical Analysis for Crime Prediction and Forecasting Using Machine Learning and Deep Learning Techniques
-T2  - IEEE ACCESS
-LA  - English
-KW  - Forecasting
-KW  - Prediction algorithms
-KW  - Urban areas
-KW  - Machine learning
-KW  - Time series analysis
-KW  - Law enforcement
-KW  - Support vector machines
-KW  - LSTM and ARIMA based crime prediction
-KW  - analysis and forecast
-KW  - OPTIMIZATION
-KW  - MODEL
-AB  - Crime and violation are the threat to justice and meant to be controlled. Accurate crime prediction and future forecasting trends can assist to enhance metropolitan safety computationally. The limited ability of humans to process complex information from big data hinders the early and accurate prediction and forecasting of crime. The accurate estimation of the crime rate, types and hot spots from past patterns creates many computational challenges and opportunities. Despite considerable research efforts, yet there is a need to have a better predictive algorithm, which direct police patrols toward criminal activities. Previous studies are lacking to achieve crime forecasting and prediction accuracy based on learning models. Therefore, this study applied different machine learning algorithms, namely, the logistic regression, support vector machine (SVM), Naive Bayes, k-nearest neighbors (KNN), decision tree, multilayer perceptron (MLP), random forest, and eXtreme Gradient Boosting (XGBoost), and time series analysis by long-short term memory (LSTM) and autoregressive integrated moving average (ARIMA) model to better fit the crime data. The performance of LSTM for time series analysis was reasonably adequate in order of magnitude of root mean square error (RMSE) and mean absolute error (MAE), on both data sets. Exploratory data analysis predicts more than 35 crime types and suggests a yearly decline in Chicago crime rate, and a slight increase in Los Angeles crime rate; with fewer crimes occurred in February as compared to other months. The overall crime rate in Chicago will continue to increase moderately in the future, with a probable decline in future years. The Los Angeles crime rate and crimes sharply declined, as suggested by the ARIMA model. Moreover, crime forecasting results were further identified in the main regions for both cities. Overall, these results provide early identification of crime, hot spots with higher crime rate, and future trends with improved predictive accuracy than with other methods and are useful for directing police practice and strategies.
-AD  - COMSATS Univ, Dept Comp Sci, Islamabad 44000, PakistanAD  - Bahria Univ Karachi Campus, Dept Comp Sci, Karachi 75260, PakistanC3  - COMSATS University Islamabad (CUI)FU  - COMSATS University, Islamabad
-FX  - Wajiha Safat acknowledges the financial support for M.S. study from COMSATS University, Islamabad. She especially thank Dr. Abdul Ghaffar (Institute of Metal Research, Chinese Academy of Sciences, Shenyang) for fruitful discussions.
-PU  - IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
-PI  - PISCATAWAY
-PA  - 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
-SN  - 2169-3536
-J9  - IEEE ACCESS
-JI  - IEEE Access
-PY  - 2021
-VL  - 9
-SP  - 70080
-EP  - 70094
-DO  - 10.1109/ACCESS.2021.3078117
-WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:000650456000001
-N1  - Times Cited in Web of Science Core Collection:  27
-Total Times Cited:  28
-Cited Reference Count:  53
-ER  -
-
-TY  - JOUR
-AU  - Stöger, K
-AU  - Schneeberger, D
-AU  - Kieseberg, P
-AU  - Holzinger, A
-TI  - Legal aspects of data cleansing in medical AI
-T2  - COMPUTER LAW & SECURITY REVIEW
-LA  - English
-KW  - Data cleansing
-KW  - Data quality
-KW  - Medical AI
-KW  - Medical devices
-AB  - Data quality is of paramount importance for the smooth functioning of modem data-driven AI applications with machine learning as a core technology. This is also true for medical AI, where malfunctions due to "dirty data" can have particularly dramatic harmful implications. Consequently, data cleansing is an important part in improving the usability of (Big) Data for medical AI systems. However, it should not be overlooked that data cleansing can also have negative effects on data quality if not performed carefully. This paper takes an interdisciplinary look at some of the technical and legal challenges of data cleansing against the background of European medical device law, with the key message that technical and legal aspects must always be considered together in such a sensitive context. (c) 2021 Karl Stdger, David Schneeberger, Peter Kieseberg, Andreas Holzinger. Published by Elsevier Ltd. This is an open access article under the CC BY license ( http://creativecommons.org/licenses/by/4.0/ )
-AD  - Univ Vienna, Fac Law, Dept Constitut & Adm Law, Schottenbastei 10-16, A-1010 Vienna, AustriaAD  - Med Univ Graz, Auenbruggerpl 2, A-8036 Graz, AustriaAD  - Fachhsch Sankt Polten Univ Appl Sci Sankt Polten, Inst IT Secur Res, Matthias Corvinus Str 15, A-3100 Sankt Polten, AustriaC3  - University of ViennaC3  - Medical University of GrazFU  - Austrian Science Fund (FWF) [P-32,554]
-FX  - Parts of this work have received funding by the Austrian Science Fund (FWF), Project: P-32,554 "A reference model for explainable Artificial Intelligence in the medical domain".
-PU  - ELSEVIER ADVANCED TECHNOLOGY
-PI  - OXFORD
-PA  - OXFORD FULFILLMENT CENTRE THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
-SN  - 0267-3649
-J9  - COMPUT LAW SECUR REV
-JI  - Comput. Law Secur. Rev.
-DA  - SEP
-PY  - 2021
-VL  - 42
-C7  - 105587
-DO  - 10.1016/j.clsr.2021.105587
-C6  - AUG 2021
-WE  - Social Science Citation Index (SSCI)AN  - WOS:000701815200009
-N1  - Times Cited in Web of Science Core Collection:  24
-Total Times Cited:  24
-Cited Reference Count:  57
-ER  -
-
-TY  - JOUR
-AU  - Hacker, P
-TI  - Manipulation by algorithms. Exploring the triangle of unfair commercial practice, data protection, and privacy law
-T2  - EUROPEAN LAW JOURNAL
-LA  - English
-KW  - EU CONSUMER-LAW
-KW  - PERSONAL DATA
-KW  - AVERAGE CONSUMER
-KW  - ECONOMIC-THEORY
-KW  - CONTRACTS
-KW  - INTERNET
-KW  - EMOTION
-KW  - DISCRIMINATION
-KW  - INFORMATION
-KW  - COMPETITION
-AB  - The optimisation of sales practices in consumer markets through machine learning not only harbours the potential to better match consumer preferences with products, but also risks to facilitate the exploitation of consumer weaknesses discovered via data analysis. More specifically, recent technological advances have brought us to the edge of mind-reading technologies, which automatically analyse mental states and adapt offers accordingly, in potentially manipulative ways. This article shows that, in market contexts, the challenges of manipulation by algorithm necessitate an integrated understanding of unfair commercial practice, data protection, and privacy law. It maps the interactions between these contiguous yet distinct fields of law, and draws on economics and computer science to develop a novel framework to deal with algorithmic influence. Furthermore, it critically discusses the Commission proposals for the Digital Services Act and the Artificial Intelligence Act, and suggests to complement them with more broadly applicable measures to mitigate algorithmic manipulation.
-AD  - European Univ Viadrina, European New Sch Digital Studies, Law & Eth Digital Soc, Frankfurt, Oder, GermanyC3  - European University Viadrina Frankfurt OderFU  - AXA Research Fund
-FX  - This paper benefitted from valuable comments by Prof. Hans-W. Micklitz, Prof. Sandra Wachter and audiences at Humboldt University of Berlin, the University of Graz and the European New School of Digital Studies, as well as very helpful suggestions by three anonymous reviewers and the Editor in Chief. Funding information: AXA Research Fund, Grant/Award Number: AXA Postdoctoral Scholarship. Funding information: AXA Research Fund, Grant/Award Number AXA Postdoctoral Scholarship.
-PU  - WILEY
-PI  - HOBOKEN
-PA  - 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
-SN  - 1351-5993
-SN  - 1468-0386
-J9  - EUR LAW J
-JI  - Eur. Law J.
-DA  - JAN
-PY  - 2023
-VL  - 29
-IS  - 1-2
-SP  - 142
-EP  - 175
-DO  - 10.1111/eulj.12389
-C6  - DEC 2021
-WE  - Social Science Citation Index (SSCI)AN  - WOS:000728505800001
-N1  - Times Cited in Web of Science Core Collection:  22
-Total Times Cited:  22
-Cited Reference Count:  150
-ER  -
-

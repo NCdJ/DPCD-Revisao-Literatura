@@ -1,718 +1,0 @@
-﻿TY  - CPAPER
-AU  - Henderson, P
-AU  - Chugg, B
-AU  - Anderson, B
-AU  - Ho, DE
-A1  - ACM
-TI  - Beyond Ads: Sequential Decision-Making Algorithms in Law and Public Policy
-T2  - PROCEEDINGS OF THE 2022 SYMPOSIUM ON COMPUTER SCIENCE AND LAW, CSLAW 2022
-LA  - English
-CP  - ACM Symposium on Computer Science and Law (CSLAW)
-KW  - Sequential Decision-making
-KW  - Reinforcement Learning
-KW  - Bandits
-KW  - Active Learning
-KW  - AI and Society
-KW  - Law and AI
-KW  - Responsible AI
-KW  - BIAS
-KW  - GOVERNMENT
-KW  - RISK
-AB  - We explore the promises and challenges of employing sequential decision-making algorithms - such as bandits, reinforcement learning, and active learning - in law and public policy. While such algorithms have well-characterized performance in the private sector (e.g., online advertising), the tendency to naively apply algorithms motivated by one domain, often online advertisements, can be called the "advertisement fallacy." Our main thesis is that law and public policy pose distinct methodological challenges that the machine learning community has not yet addressed. Machine learning will need to address these methodological problems to move "beyond ads." Public law, for instance, can pose multiple objectives, necessitate batched and delayed feedback, and require systems to learn rational, causal decision-making policies, each of which presents novel questions at the research frontier. We discuss a wide range of potential applications of sequential decision-making algorithms in regulation and governance, including public health, environmental protection, tax administration, occupational safety, and benefits adjudication. We use these examples to highlight research needed to render sequential decision making policy-compliant, adaptable, and effective in the public sector. We also note the potential risks of such deployments and describe how sequential decision systems can also facilitate the discovery of harms. We hope our work inspires more investigation of sequential decision making in law and public policy, which provide unique challenges for machine learning researchers with potential for significant social benefit.
-AD  - Stanford Univ, Stanford, CA 94305 USAC3  - Stanford UniversityPU  - ASSOC COMPUTING MACHINERY
-PI  - NEW YORK
-PA  - 1601 Broadway, 10th Floor, NEW YORK, NY, UNITED STATES
-SN  - 978-1-4503-9234-1
-PY  - 2022
-SP  - 87
-EP  - 100
-DO  - 10.1145/3511265.3550439
-WE  - Conference Proceedings Citation Index - Science (CPCI-S)WE  - Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)AN  - WOS:001074472400009
-N1  - Times Cited in Web of Science Core Collection:  2
-Total Times Cited:  3
-Cited Reference Count:  159
-ER  -
-
-TY  - JOUR
-AU  - Kretschmer, M
-AU  - Margoni, T
-AU  - Oruç, P
-TI  - Copyright Law and the Lifecycle of Machine Learning Models
-T2  - IIC-INTERNATIONAL REVIEW OF INTELLECTUAL PROPERTY AND COMPETITION LAW
-LA  - English
-KW  - Copyright
-KW  - Artificial intelligence
-KW  - Text mining
-KW  - Data mining
-KW  - EU
-KW  - Digital single market
-KW  - TEXT
-AB  - Machine learning, a subfield of artificial intelligence (AI), relies on large corpora of data as input for learning algorithms, resulting in trained models that can perform a variety of tasks. While data or information are not subject matter within copyright law, almost all materials used to construct corpora for machine learning are protected by copyright law: texts, images, videos, and so on. There are global policy moves to address the copyright implications of machine learning, in particular in the context of so-called "foundation models" that underpin generative AI. This paper takes a step back, exploring empirically three technological settings through detailed case studies. We set out the established industry methodology of a lifecycle of AI (collecting data, organising data, model training, model operation) to arrive at descriptions suitable for legal analysis. This will allow an assessment of the challenges for a harmonisation of rights, exceptions and disclosure under EU copyright law. The three case studies are:Machine learning for scientific purposes, in the context of a study of regional short-term letting markets;Natural Language Processing (NLP), in the context of large language models;Computer vision, in the context of content moderation of images.We find that the nature and quality of data corpora at the input stage is central to the lifecycle of machine learning. Because of the uncertain legal status of data collection and processing, combined with the competitive advantage gained by firms not disclosing technological advances, the inputs of the models deployed are often unknown. Moreover, the "lawful access" requirement of the EU exception for text and data mining may turn the exception into a decision by rightholders to allow machine learning in the context of their decision to allow access. We assess policy interventions at EU level, seeking to clarify the legal status of input data via copyright exceptions, opt-outs or the forced disclosure of copyright materials. We find that the likely result is a fully copyright-licensed environment of machine learning that may have problematic effects for the structure of industry, innovation and scientific research.
-AD  - Univ Glasgow, Sch Law, Intellectual Property Law, Glasgow, ScotlandAD  - CREATe UK Copyright & Creat Econ Ctr, Glasgow, ScotlandAD  - Univ Leuven KU Leuven, Ctr IT & IP Law CiTiP, Intellectual Property Law, Fac Law & Criminol, Leuven, BelgiumAD  - Univ Manchester, Commercial Law, Manchester, EnglandC3  - University of GlasgowC3  - KU LeuvenC3  - University of ManchesterFU  - European Union [870626870626]; Urban Big Data Centre [ES/L011921/1]; CREATe, University of Glasgow
-FX  - The research was funded by the European Union's Horizon 2020 research and innovation programme under grant agreement No. 870626870626 (reCreating Europe: Rethinking digital copyright law for aculturally diverse, accessible, creative Europe). Case study 1 was developed with ESRC support for the Urban Big Data Centre (ES/L011921/1). Pinar Oruc prepared a first draft of the case studies as a postdoctoral researcher at CREATe, University of Glasgow.
-PU  - SPRINGER HEIDELBERG
-PI  - HEIDELBERG
-PA  - TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
-SN  - 0018-9855
-SN  - 2195-0237
-J9  - IIC-INT REV INTELL P
-JI  - Int. Rev. Intellect. Prop. Compet. Law
-DA  - JAN
-PY  - 2024
-VL  - 55
-IS  - 1
-SP  - 110
-EP  - 138
-DO  - 10.1007/s40319-023-01419-3
-C6  - FEB 2024
-WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001155789200001
-N1  - Times Cited in Web of Science Core Collection:  3
-Total Times Cited:  3
-Cited Reference Count:  77
-ER  -
-
-TY  - JOUR
-AU  - Madziwa, E
-TI  - Advancing honour and dignity in death for victims of armed conflicts: Exploring the challenges and opportunities of AI and machine learning in humanitarian forensic action under IHL
-T2  - INTERNATIONAL REVIEW OF THE RED CROSS
-LA  - English
-KW  - artificial intelligence
-KW  - machine learning
-KW  - humanitarian forensic action
-KW  - human rights
-KW  - HUMAN-RIGHTS
-KW  - WAR DEAD
-KW  - LAW
-AB  - With technological developments presenting tremendous opportunities, rapid developments in data-driven artificial intelligence (AI) and machine learning (ML) have the potential to significantly transform humanitarian forensic action. Yet, their role in the forensic identification of dead bodies remains unexamined. The correct and early identification of dead bodies is not only important to afford the deceased their honour and dignity and to ensure that their families know the fate of their loved ones, but also has broader implications for human rights and international humanitarian law (IHL). This article examines the opportunities and challenges of AI and ML in advancing honour and dignity in death for armed conflict victims in humanitarian forensic action under IHL. It argues that the application of AI and ML in humanitarian forensic action has the potential to revolutionize and support forensic practitioners in the identification of human remains. This will consequently guarantee that families know the fate of their loved ones and that the deceased are afforded dignified burials according to their religious and cultural rites. The article proposes recommendations for the future use of AI and ML in humanitarian forensic action, including the adoption of a legally binding international instrument governing their use, the development of guidelines for their use, the training of forensic actors in IHL and human rights law, and the use of new technologies in humanitarian action.
-AD  - UN Inst Disarmament Res, Secur & Technol Programme, Geneva, SwitzerlandPU  - CAMBRIDGE UNIV PRESS
-PI  - CAMBRIDGE
-PA  - EDINBURGH BLDG, SHAFTESBURY RD, CB2 8RU CAMBRIDGE, ENGLAND
-SN  - 1816-3831
-SN  - 1607-5889
-J9  - INT REV RED CROSS
-JI  - Int. Rev. Red Cross
-DA  - 2024 SEP 27
-PY  - 2024
-DO  - 10.1017/S181638312400033X
-C6  - SEP 2024
-WE  - Social Science Citation Index (SSCI)AN  - WOS:001320482700001
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  173
-ER  -
-
-TY  - JOUR
-AU  - Blackham, A
-TI  - SETTING THE FRAMEWORK FOR ACCOUNTABILITY FOR ALGORITHMIC DISCRIMINATION AT WORK
-T2  - MELBOURNE UNIVERSITY LAW REVIEW
-LA  - English
-KW  - EQUALITY
-KW  - PRIVACY
-KW  - LAW
-KW  - AGE
-AB  - Algorithmic discrimination represents a growing challenge for equality law. While the elimination of discrimination in employment and occupation is a fundamental obligation of International Labour Organization members, Australian equality law remains ill-adapted to respond to emerging risks. This article argues that the automated application of machine learning algorithms presents five critical challenges to equality law related to the scale of data used; their speed and scale of application; lack of transparency; growth in employer control; and the complex supply chain associated with digital technologies. Considering principles from privacy and data protection law, third -party and accessorial liability, and collective solutions, this article puts forward reforms and suggestions to better set the framework for accountability for algorithmic discrimination in the workplace.
-AD  - Univ Melbourne, Melbourne Law Sch, Melbourne, Vic, AustraliaC3  - University of MelbournePU  - MELBOURNE UNIV LAW REVIEW ASSOC
-PI  - VICTORIA
-PA  - UNIV MELBOURNE LAW SCH, VICTORIA, 3010, AUSTRALIA
-SN  - 0025-8938
-SN  - 1839-3810
-J9  - MELB UNIV LAW REV
-JI  - Melb. Univ. Law Rev.
-PY  - 2023
-VL  - 47
-IS  - 1
-SP  - 63
-EP  - 113
-WE  - Social Science Citation Index (SSCI)AN  - WOS:001111483100005
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  95
-ER  -
-
-TY  - JOUR
-AU  - Adams-Prassl, J
-AU  - Binns, R
-AU  - Kelly-Lyth, A
-TI  - Directly Discriminatory Algorithms
-T2  - MODERN LAW REVIEW
-LA  - English
-KW  - FAIRNESS
-AB  - Discriminatory bias in algorithmic systems is widely documented. How should the law respond? A broad consensus suggests approaching the issue principally through the lens of indirect discrimination, focusing on algorithmic systems' impact. In this article, we set out to challenge this analysis, arguing that while indirect discrimination law has an important role to play, a narrow em on this regime in the context of machine learning algorithms is both normatively undesirable and legally flawed. We illustrate how certain forms of algorithmic bias in frequently deployed algorithms might constitute direct discrimination, and explore the ramifications-both in practical terms, and the broader challenges automated decision-making systems pose to the conceptual apparatus of anti-discrimination law.
-AD  - Univ Oxford, Magdalen Coll, Law, Oxford, EnglandAD  - Univ Oxford, Dept Comp Sci, Human Ctr Comp, Oxford, EnglandAD  - Univ Oxford, Bonavero Inst Human Rights, Oxford, EnglandC3  - University of OxfordC3  - University of OxfordC3  - University of OxfordFU  - European Research Council under the European Union [947806]; European Research Council (ERC) [947806] Funding Source: European Research Council (ERC)
-FX  - The authors acknowledge funding from the European Research Council under the European Union's Horizon 2020 research and innovation programme (grant agreement No 947806), and are grateful to Robin Allen QC, Shreya Atrey, Catherine Barnard, Mark Bell, Hugh Collins, Jinghe Fan, Sandy Fredman, Philipp Hacker, Deborah Hellman, Tarun Khaitan, Dee Masters, Dinah Rose QC, Sandra Wachter and Raphaele Xenidis, as well as participants at the Oxford Algorithms at Work Reading Group, the UT Austin iSchool Research Colloquium, the Oxford Ethics in AI Research Seminar, the Lorentz Centre Workshop on Fairness in Algorithmic Decision Making and the Oxford Business Law Workshop, as well as the anonymous reviewers, for feedback and discussion. The usual disclaimers apply.
-PU  - WILEY
-PI  - HOBOKEN
-PA  - 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
-SN  - 0026-7961
-SN  - 1468-2230
-J9  - MOD LAW REV
-JI  - Mod. Law Rev.
-DA  - JAN
-PY  - 2023
-VL  - 86
-IS  - 1
-SP  - 144
-EP  - 175
-DO  - 10.1111/1468-2230.12759
-C6  - AUG 2022
-WE  - Social Science Citation Index (SSCI)AN  - WOS:000834063200001
-N1  - Times Cited in Web of Science Core Collection:  32
-Total Times Cited:  32
-Cited Reference Count:  159
-ER  -
-
-TY  - JOUR
-AU  - Walker-Munro, B
-TI  - Can Autonomous Weapon Systems be Seized? Interactions with the Law of Prize and War Booty
-T2  - JOURNAL OF CONFLICT & SECURITY LAW
-LA  - English
-KW  - COURTS
-KW  - CAPTURE
-KW  - POWER
-KW  - KILL
-AB  - The military has often been used as a proving ground for advances in technology. With the advent of machine learning, algorithms and artificial intelligence, there has been a slew of scholarship around the legal and ethical challenges of applying those technologies to the military. Nowhere has the debate been fiercer than in examining whether international law is resilient enough to impose individual and State responsibility for the misuse of these autonomous weapon systems (AWSs). However, by introducing increasing levels of electronic and digital components into weapon systems, States are also introducing opportunities for adversaries to hack, suborn or take over AWSs in a manner unthinkable compared to conventional weaponry. Yet, no academic discussion has considered how the law of prize and war booty might apply to AWSs that are captured in such a way. This article seeks to address this gap.
-AD  - Univ Queensland, Law & Future War Res Grp, TC Beirne Sch Law, St Lucia, AustraliaC3  - University of QueenslandFU  - Trusted Autonomous Systems; Defence Cooperative Research Centre funded through the Next Generation Technologies Fund
-FX  - Funding support for this article was provided by the Trusted Autonomous Systems, a Defence Cooperative Research Centre funded through the Next Generation Technologies Fund.
-PU  - OXFORD UNIV PRESS
-PI  - OXFORD
-PA  - GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
-SN  - 1467-7954
-SN  - 1467-7962
-J9  - J CONFL SECUR LAW
-JI  - J. Confl. Secur. Law
-DA  - APR 27
-PY  - 2024
-VL  - 29
-IS  - 1
-SP  - 143
-EP  - 163
-DO  - 10.1093/jcsl/krad016
-C6  - JAN 2024
-WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001137078400001
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  113
-ER  -
-
-TY  - CPAPER
-AU  - Rudzite, L
-AU  - Kelli, A
-A1  - UNIV LATVIA PRESS
-TI  - THE INTERACTION BETWEEN ALGORITHMIC TRANSPARENCY AND LEGALITY: PERSONAL DATA PROTECTION AND PATENT LAW PERSPECTIVES
-T2  - NEW LEGAL REALITY: CHALLENGES AND PERSPECTIVES. II
-LA  - English
-CP  - 8th International Conference on New Legal Reality - Challenges and Perspectives
-KW  - artificial intelligence
-KW  - transparency
-KW  - data protection
-KW  - patent
-AB  - Artificial Intelligence and its sub-field Machine Learning in the European Union has been directed as one of the political priorities towards the augmentation of human prosperity. However, due to its characteristics, for instance, the "black-box" problem, AI may pose challenges within the existing legal framework.
-   The article focuses on analysing the legality of algorithmic transparency in two fields in the EU-data protection (obligation to provide information to the data subject) and under the criteria of "sufficient disclosure" of the patent legal framework - to improve legal clarity concerning the issue.
-AD  - Univ Tartu, Fac Social Sci, Tartu, EstoniaC3  - University of TartuPU  - UNIV LATVIA PRESS
-PI  - RIGA
-PA  - BAZNICAS STR 5, RIGA, LV-1010, LATVIA
-SN  - 978-9934-18-825-1
-SN  - 978-9934-18-826-8
-PY  - 2022
-SP  - 400
-EP  - 408
-DO  - 10.22364/iscflul.8.2.27
-WE  - Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)AN  - WOS:001070845700027
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  22
-ER  -
-
-TY  - CPAPER
-AU  - Kesari, A
-A1  - ACM
-TI  - The Privacy-Fairness-Accuracy Frontier: A Computational Law & Economics Toolkit for Making Algorithmic Tradeoffs
-T2  - PROCEEDINGS OF THE 2022 SYMPOSIUM ON COMPUTER SCIENCE AND LAW, CSLAW 2022
-LA  - English
-CP  - ACM Symposium on Computer Science and Law (CSLAW)
-KW  - privacy
-KW  - fairness
-KW  - consumer protection
-AB  - Both law and computer science are concerned with developing frameworks for protecting privacy and ensuring fairness. Both fields often consider these two values separately and develop legal doctrines and machine learning metrics in isolation from one another. Yet, privacy and fairness values can conflict, especially when considered alongside the accuracy of an algorithm. The computer science literature often treats this problem as an "impossibility theorem" - we can have privacy or fairness but not both. Legal doctrine is similarly constrained by a focus on the inputs to a decision - did the decisionmaker intend to use information about protected attributes. Despite these challenges, there is a way forward. The law has integrated economic frameworks to consider tradeoffs in other domains, and a similar approach can clarify policymakers' thinking around balancing accuracy, privacy, and fairnesss. This piece illustrates this idea by using a law & economics lens to formalize the notion of a Privacy-Fairness-Accuracy frontier, and demonstrating this framework on a consumer lending dataset. An open-source Python software library and GUI will be made available.
-AD  - NYU, New York, NY 10003 USAC3  - New York UniversityPU  - ASSOC COMPUTING MACHINERY
-PI  - NEW YORK
-PA  - 1601 Broadway, 10th Floor, NEW YORK, NY, UNITED STATES
-SN  - 978-1-4503-9234-1
-PY  - 2022
-SP  - 77
-EP  - 85
-DO  - 10.1145/3511265.3550437
-WE  - Conference Proceedings Citation Index - Science (CPCI-S)WE  - Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)AN  - WOS:001074472400008
-N1  - Times Cited in Web of Science Core Collection:  1
-Total Times Cited:  1
-Cited Reference Count:  33
-ER  -
-
-TY  - JOUR
-AU  - López, JBG
-TI  - Goals, Effects and Challenges of the Financial Transaction Tax : A Comparative Law Study in France, Italy and Spain
-T2  - REVIEW OF EUROPEAN AND COMPARATIVE LAW
-LA  - English
-KW  - artificial intelligence
-KW  - financial transaction tax
-KW  - shares
-KW  - HFT
-KW  - distributed ledger technology
-AB  - The Preamble of the Spanish Financial Transactions Tax Law establishes that "[t]he shaping of the tax follows the line taken by our neighbouring countries, including France and Italy, thus contributing to greater coordination of these taxes across Europe." In this sense, the Spanish tax shows important similarities with those established in France and Italy in relation to the levy on the acquisition of certain shares and securities representing the capital of a company for consideration. Nevertheless, both the French and the Italian taxes apply to other types of transactions, not covered by the Spanish Law, which is why it is necessary to carry out the corresponding comparative study. Furthermore, the effects that have arisen from the application of this kind of taxes to financial transactions merited a proper analysis in order to determine if the main goals pursued by these taxes have been achieved in an efficient way. In any case, there are emerging tax challenges in financial markets connected, on the one hand, to the use of crypto-assets and distributed ledger technology, and, on the other hand, to the implementation of artificial intelligence and machine learning and the fair taxation of these operations.
-AD  - Miguel Hernandez Univ Elche, Fac Social & Legal Sci, Elche, SpainC3  - Universidad Miguel Hernandez de ElchePU  - JOHN PAUL II CATHOLIC UNIV LUBLIN
-PI  - LUBLIN
-PA  - AL RACLAWICKIE 14, LUBLIN, PL 20-950, POLAND
-SN  - 2545-384X
-J9  - REV EUR COMP LAW
-JI  - Rev. Eur. Comparative Law
-DA  - 2024 SEP 30
-PY  - 2024
-DO  - 10.31743/recl.17435
-C6  - SEP 2024
-WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001328348000001
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  23
-ER  -
-
-TY  - JOUR
-AU  - Lettieri, N
-AU  - Guarino, A
-AU  - Malandrino, D
-AU  - Zaccagnino, R
-TI  - Knowledge mining and social dangerousness assessment in criminal justice: metaheuristic integration of machine learning and graph-based inference
-T2  - ARTIFICIAL INTELLIGENCE AND LAW
-LA  - English
-KW  - AUGMENTED INTELLIGENCE COLLABORATION
-KW  - NETWORK ANALYSIS
-KW  - CRIME
-KW  - LAW
-KW  - CLASSIFICATION
-KW  - ARGUMENTATION
-KW  - EXTRACTION
-AB  - One of the main challenges for computational legal research is drawing up innovative heuristics to derive actionable knowledge from legal documents. While a large part of the research has been so far devoted to the extraction of purely legal information, less attention has been paid to seeking out in the texts the clues of more complex entities: legally relevant facts whose detection requires to link and interpret, as a unified whole, legal information and results of empirical analyses. This paper presents an ongoing research that points in this direction, trying to devise new ways to support public prosecutors in assessing the dangerousness of individuals and groups under investigation, an activity that precisely relies on the cross-sectional evaluation of legal and empirical data. A knowledge mining strategy will be outlined that lines up, into a single metaheuristic model, information extraction, network-based inference, machine learning and visual analytics. We will focus, in particular, on the integration of graph-based inference and machine learning methods used both to support classification tasks and to explore new forms of man-machine cooperation. Experiments made involving public prosecutors from the Italian Anti-Mafia Investigation Directorate and using data from real investigations have not only shown the potentialities of our approach but also offered an opportunity to reflect on the role we could assign to AI when thinking about the future of legal science and practice.
-AD  - Natl Inst Publ Policy Anal INAPP, Rome, ItalyAD  - Univ Salerno, Fisciano, ItalyC3  - University of SalernoPU  - SPRINGER
-PI  - DORDRECHT
-PA  - VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
-SN  - 0924-8463
-SN  - 1572-8382
-J9  - ARTIF INTELL LAW
-JI  - Artif. Intell. Law
-DA  - DEC
-PY  - 2023
-VL  - 31
-IS  - 4
-SP  - 653
-EP  - 702
-DO  - 10.1007/s10506-022-09334-7
-C6  - OCT 2022
-WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:000870659500001
-N1  - Times Cited in Web of Science Core Collection:  4
-Total Times Cited:  4
-Cited Reference Count:  137
-ER  -
-
-TY  - JOUR
-AU  - Nolan, P
-AU  - Matulionyte, R
-TI  - Artificial Intelligence in Medicine: Issues When Determining Negligence
-T2  - JOURNAL OF LAW AND MEDICINE
-LA  - English
-KW  - artificial intelligence
-KW  - machine learning
-KW  - black box effect
-KW  - medical care
-KW  - negligence
-KW  - legal liability
-KW  - reasonable foreseeability
-KW  - res ipsa loquitur
-KW  - INFORMED-CONSENT
-KW  - PERFORMANCE
-KW  - CANCER
-KW  - RISK
-KW  - AI
-AB  - The introduction of novel medical technology, such as artificial intelligence (AI), into traditional clinical practice presents legal liability challenges that need to be squarely addressed by litigants and courts when something goes wrong. Some of the most promising applications for the use of AI in medicine will lead to vexed liability questions. As AI in health care is in its relative infancy, there is a paucity of case law globally upon which to draw. This article analyses medical malpractice where AI is involved, what problems arise when applying the tort of negligence - such as establishing the essential elements of breach of duty of care and causation - and how can these can be addressed. Product liability under Australian Consumer Law is beyond the scope of this article. In order to address this question, the article: (1) identifies the general problems that black box AI causes in the health care sector; (2) identifies the problems that will arise in establishing breach and causation due to the "black box" nature of AI, with reference to the Civil Liability Act 2002 (NSW) and common law through two hypothetical examples; and (3) considers selected legal solutions to the problems caused by "black box" AI.
-AD  - NSW Bar, Sydney, AustraliaAD  - Macquarie Univ, Macquarie Law Sch, Macquarie Pk, AustraliaC3  - Macquarie UniversityPU  - THOMSON REUTERS AUSTRALIA LTD
-PI  - NORTH RYDE
-PA  - THOMSON REUTERS AUSTRALIA LTD, NORTH RYDE, 00000, AUSTRALIA
-SN  - 1320-159X
-J9  - J LAW MED
-JI  - J. Law Med.
-PY  - 2023
-VL  - 30
-IS  - 3
-WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001162587800004
-N1  - Times Cited in Web of Science Core Collection:  1
-Total Times Cited:  1
-Cited Reference Count:  149
-ER  -
-
-TY  - JOUR
-AU  - Jones, CC
-TI  - SYSTEMATIZING DISCRIMINATION: AI VENDORS & TITLE VII ENFORCEMENT
-T2  - UNIVERSITY OF PENNSYLVANIA LAW REVIEW
-LA  - English
-AB  - For much of the last decade, scholars have highlighted both the role of AI and machine learning in reproducing inequality and the practical litigation di ffi culties such technologies create for proving intent. What the scholarship largely overlooks is the role of a handful of vendors who convert idiosyncratic biases into systematic, industry-wide barriers to employment opportunity. This capacity to scale discrimination in a way that may exclude certain groups from large segments of the labor market is a unique danger of AI vendors that warrants special scrutiny from Congress and regulators. Although underestimating the potential for harm, many scholars have also underestimated the e ff ectiveness of current law in addressing these problems. Thus, the EEOC and Congress should focus enforcement energy on AI vendors-through commissioner charges in the short term and through new legislation and regulation designed to meet the evolving challenges of AI hiring tools in the long term.
-AD  - Univ Penn, Law Sch, Philadelphia, PA 19104 USAC3  - University of PennsylvaniaPU  - UNIV PENN LAW SCH
-PI  - PHILADELPHIA
-PA  - 3400 CHESTNUT ST, PHILADELPHIA, PA 19104-6204 USA
-SN  - 0041-9907
-J9  - U PENN LAW REV
-JI  - Univ. Pa. Law Rev.
-DA  - DEC
-PY  - 2022
-VL  - 171
-IS  - 1
-SP  - 235
-EP  - 266
-WE  - Social Science Citation Index (SSCI)AN  - WOS:001219086500005
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  98
-ER  -
-
-TY  - JOUR
-AU  - Greif, E
-AU  - Grosz, T
-TI  - To see, or not to see: Online job advertisement and EU non-discrimination law
-T2  - EUROPEAN LABOUR LAW JOURNAL
-LA  - English
-KW  - non-discrimination
-KW  - EU labour law
-KW  - AI Act
-KW  - Digital Services Act
-KW  - Digital Markets Act
-KW  - online job advertisements
-AB  - The recruitment process has largely moved online. Job advertisements which used to be bound to newspapers and other print media have become an online service as part of a growing trend towards a more digitalised hiring process. Alongside increased flexibility and cost-cutting, this trend brings so previously unseen challenges. The technology behind online job portals and social media allows job ads to be shown to targeted groups of people using machine learning techniques to filter through the available data and search for the most suitable audience. The correlations that are inferred by algorithms between content and audience, however, can lead to biased outcomes. This is a serious problem since the specific risk with online job ads is that jobseekers who are considered less suitable by the algorithm will not see the ad at all. Such a result effectively hinders access to the labour market and poses the risk of perpetuating existing biases and discrimination. Those discrimination risks raise questions about the legal framework of online job advertisements. This article examines the requirements of the new EU initiatives to regulate artificial intelligence and the digital market and EU non-discrimination law regarding online job advertisements. It also proposes a low-tech solution to the high-tech problems associated with online job advertisements by introducing a legal requirement to publicly tender job ads on an online noticeboard, thus ensuring transparency and effective access to employment.
-AD  - Johannes Kepler Univ Linz, Linz, AustriaC3  - Johannes Kepler University LinzPU  - SAGE PUBLICATIONS INC
-PI  - THOUSAND OAKS
-PA  - 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
-SN  - 2031-9525
-SN  - 2399-5556
-J9  - EUR LABOUR LAW J
-JI  - Eur. Labour Law J.
-DA  - SEP
-PY  - 2023
-VL  - 14
-IS  - 3
-SP  - 376
-EP  - 390
-DO  - 10.1177/20319525231172089
-WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001046536000003
-N1  - Times Cited in Web of Science Core Collection:  1
-Total Times Cited:  1
-Cited Reference Count:  42
-ER  -
-
-TY  - JOUR
-AU  - Farmaki, D
-TI  - The player, the programmer and the AI: a copyright odyssey in gaming
-T2  - JOURNAL OF INTELLECTUAL PROPERTY LAW & PRACTICE
-LA  - English
-KW  - ARTIFICIAL-INTELLIGENCE
-AB  - The advancement of machine learning and artificial intelligence (AI) technology has fundamentally altered the production and ownership of works, including video games. That is because, with the development of AI systems, machines are now capable of not only producing works that are similar to existing ones but also creating works that are truly original and creative.The question of how such works should be protected under copyright law is a complex and evolving one. It is crucial to take into account the numerous approaches that have been proposed in this regard for the copyright protection of AI-generated works alongside related criticisms. Regardless of the approach employed, the issue of copyright protection for AI-generated works becomes more complicated if one considers the exclusive rights copyright holders enjoy, such as the communication to the public right via video game streaming.It will be feasible to create a framework for the protection of AI-generated works that is fair, effective and responsive to the requirements of both creators and users by carefully examining the legal and practical challenges involved.
-AD  - Brunel Pathway Coll, London, EnglandPU  - OXFORD UNIV PRESS
-PI  - OXFORD
-PA  - GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
-SN  - 1747-1532
-SN  - 1747-1540
-J9  - J INTELLET PROP LAW
-JI  - J. Intellect. Prop. Law Pract.
-DA  - DEC 23
-PY  - 2023
-VL  - 18
-IS  - 12
-SP  - 920
-EP  - 928
-DO  - 10.1093/jiplp/jpad095
-C6  - NOV 2023
-WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001107620900001
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  51
-ER  -
-
-TY  - JOUR
-AU  - Juliussen, BA
-AU  - Rui, JP
-AU  - Johansen, D
-TI  - Algorithms that forget: Machine unlearning and the right to erasure
-T2  - COMPUTER LAW & SECURITY REVIEW
-LA  - English
-KW  - Data protection law
-KW  - General data protection regulation
-KW  - The right to erasure
-KW  - The right to be forgotten
-KW  - Machine learning
-KW  - Machine unlearning
-KW  - Privacy
-AB  - Article 17 of the General Data Protection Regulation (GDPR) contains a right for the data subject to obtain the erasure of personal data. The right to erasure in the GDPR gives, however, little clear guidance on how controllers processing personal data should erase the personal data to meet the requirements set out in Article 17. Machine Learning (ML) models that have been trained on personal data are downstream derivatives of the personal data used in the training data set of the ML process. A characteristic of ML is the non-deterministic nature of the learning process. The non-deterministic nature of ML poses significant difficulties in determining whether the personal data in the training data set affects the internal weights and adjusted parameters of the ML model. As a result, invoking the right to erasure in ML and to erase personal data from a ML model is a challenging task.This paper explores the complexities of enforcing and complying with the right to erasure in a ML context. It examines how novel developments in machine unlearning methods relate to Article 17 of the GDPR. Specifically, the paper delves into the intricacies of how personal data is processed in ML models and how the right to erasure could be implemented in such models. The paper also provides insights into how newly developed machine unlearning techniques could be applied to make ML models more GDPR compliant. The research aims to provide a functional understanding and contribute to a better comprehension of the applied challenges associated with the right to erasure in ML.(c) 2023 Bjorn Aslak Juliussen, Jon Petter Rui, Dag Johansen. Published by Elsevier Ltd. ( http://creativecommons.org/licenses/by/4.0/ )
-AD  - UiT Arctic Univ Norway, Dept Comp Sci, POB 6050 Langnes, N-9037 Tromso, NorwayAD  - Univ Bergen, Fac Law, Bergen, NorwayAD  - UiT Arctic Univ Norway, Fac Law, Tromso, NorwayC3  - UiT The Arctic University of TromsoC3  - University of BergenC3  - UiT The Arctic University of TromsoPU  - ELSEVIER ADVANCED TECHNOLOGY
-PI  - OXFORD
-PA  - OXFORD FULFILLMENT CENTRE THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
-SN  - 0267-3649
-J9  - COMPUT LAW SECUR REV
-JI  - Comput. Law Secur. Rev.
-DA  - NOV
-PY  - 2023
-VL  - 51
-C7  - 105885
-DO  - 10.1016/j.clsr.2023.105885
-C6  - SEP 2023
-WE  - Social Science Citation Index (SSCI)AN  - WOS:001081259400001
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  40
-ER  -
-
-TY  - JOUR
-AU  - Pacholska, M
-TI  - Military Artificial Intelligence and the Principle of Distinction: A State Responsibility Perspective
-T2  - ISRAEL LAW REVIEW
-LA  - English
-KW  - artificial intelligence
-KW  - state responsibility
-KW  - principle of distinction
-KW  - mistake of fact
-KW  - autonomous weapons systems
-KW  - WAR
-KW  - WEAPONS
-AB  - Military artificial intelligence (AI)-enabled technology might still be in the relatively fledgling stages but the debate on how to regulate its use is already in full swing. Much of the discussion revolves around autonomous weapons systems (AWS) and the 'responsibility gap' they would ostensibly produce. This contribution argues that while some military AI technologies may indeed cause a range of conceptual hurdles in the realm of individual responsibility, they do not raise any unique issues under the law of state responsibility. The following analysis considers the latter regime and maps out crucial junctions in applying it to potential violations of the cornerstone of international humanitarian law (IHL) - the principle of distinction - resulting from the use of AI-enabled military technologies. It reveals that any challenges in ascribing responsibility in cases involving AWS would not be caused by the incorporation of AI, but stem from pre-existing systemic shortcomings of IHL and the unclear reverberations of mistakes thereunder. The article reiterates that state responsibility for the effects of AWS deployment is always retained through the commander's ultimate responsibility to authorise weapon deployment in accordance with IHL. It is proposed, however, that should the so-called fully autonomous weapon systems - that is, machine learning-based lethal systems that are capable of changing their own rules of operation beyond a predetermined framework - ever be fielded, it might be fairer to attribute their conduct to the fielding state, by conceptualising them as state agents, and treat them akin to state organs.
-AD  - Univ Amsterdam, Asser Inst The Hague, Amsterdam, NetherlandsC3  - University of AmsterdamFU  - European Union Horizon 2020 research and innovation programme under Marie Sklodowska-Curie Grant [101031698]; Marie Curie Actions (MSCA) [101031698] Funding Source: Marie Curie Actions (MSCA)
-FX  - y This research received funding from the European Union Horizon 2020 research and innovation programme under Marie Sklodowska-Curie Grant Agreement No 101031698. An earlier version of the article was presented during the 4th Young Researchers Workshop on Terrorism and Belligerency organised by the Minerva Center for the Rule of Law under Extreme Conditions at the University of Haifa Faculty of Law and the Geography and Environmental Studies Department.
-PU  - CAMBRIDGE UNIV PRESS
-PI  - CAMBRIDGE
-PA  - EDINBURGH BLDG, SHAFTESBURY RD, CB2 8RU CAMBRIDGE, ENGLAND
-SN  - 0021-2237
-SN  - 2047-9336
-J9  - ISR LAW REV
-JI  - Isr. Law Rev.
-DA  - MAR
-PY  - 2023
-VL  - 56
-IS  - 1
-SP  - 3
-EP  - 23
-DO  - 10.1017/S0021223722000188
-WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001140502300001
-N1  - Times Cited in Web of Science Core Collection:  1
-Total Times Cited:  1
-Cited Reference Count:  87
-ER  -
-
-TY  - JOUR
-AU  - Van den Meerssche, D
-TI  - Virtual Borders: International Law and the Elusive Inequalities of Algorithmic Association
-T2  - EUROPEAN JOURNAL OF INTERNATIONAL LAW
-LA  - English
-AB  - The use of algorithmic tools by international public authorities is changing how norms are made and enacted. This seismic shift in global governance has important distributive consequences: the digital turn not only empowers specific corporate actors and forms of expertise but also entails new modes of social sorting based on the placement of people in patterns of data. This article focuses on the emergent inequalities that machine learning and data analytics thereby import in the domain of global governance. In line with the symposium's theme, I thereby frame the importance of computational decision-making processes from a distributional, and not a procedural, perspective - from a perspective of inequality and not privacy, data protection or transparency. The empirical site for the assessment of these emergent inequalities is the 'virtual border'. By focusing on the technological tools of data extraction and algorithmic risk assessment that are reshaping practices of border control, the article makes a dual contribution: it reveals the social hierarchies engendered by these data-driven forms of grouping and grading - captured in the novel concept of 'associative inequality' - and highlights the difficulty of registering or counteracting this mode of subject-making in existing legal terms. This intervention both traces the particular distributive effects of data-driven governance and signals the challenges it poses to the prospects and emancipatory promises of collectivity, solidarity and equality entertained in modernist ideals of international law. In resisting the logic of algorithmic governance, I suggest, we should strive not for transparency but for opacity, not inclusion but incomparability, not privacy but open-ended and defiant commonality.
-AD  - Edinburgh Law Sch, Edinburgh, Midlothian, ScotlandAD  - TMC Asser Inst, The Hague, NetherlandsC3  - University of EdinburghFU  - UKRI Future Leaders Fellowship [MR/T041552/1]; FLF [MR/T041552/1] Funding Source: UKRI
-FX  - Postdoctoral Research Fellow, Edinburgh Law School, Edinburgh, United Kingdom; Associate Fellow, T.M.C. Asser Institute, The Hague, The Netherlands. Email:d.van.den.meerssche@ed.ac.uk.This work was supported by a UKRI Future Leaders Fellowship, awarded to Dr. Gavin Sullivan (University of Edinburgh), Grant Ref: MR/T041552/1.
-PU  - OXFORD UNIV PRESS
-PI  - OXFORD
-PA  - GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
-SN  - 0938-5428
-SN  - 1464-3596
-J9  - EUR J INT LAW
-JI  - Eur. J. Int. Law
-DA  - JUL 30
-PY  - 2022
-VL  - 33
-IS  - 1
-SP  - 171
-EP  - 204
-DO  - 10.1093/ejil/chac007
-C6  - MAY 2022
-WE  - Social Science Citation Index (SSCI)AN  - WOS:000793046800001
-N1  - Times Cited in Web of Science Core Collection:  19
-Total Times Cited:  19
-Cited Reference Count:  123
-ER  -
-
-TY  - JOUR
-AU  - Fenwick, M
-AU  - Jurcys, P
-TI  - Originality and the future of copyright in an age of generative AI
-T2  - COMPUTER LAW & SECURITY REVIEW
-LA  - English
-KW  - AI
-KW  - Generative AI
-KW  - Copyright
-KW  - Creativity
-KW  - Originality
-KW  - Artificial intelligence
-KW  - Data
-KW  - Feist
-KW  - David Guetta
-KW  - ChatGPT
-KW  - Input
-KW  - Output
-KW  - Machine Learning
-KW  - Authorship
-KW  - Intellectual Property
-KW  - LAW
-AB  - This paper takes the occasion of French DJ David Guetta's use of generative AI tools to create lyrics and a voice in the style of Eminem, which he then used in one of his concerts, as the basis for an exploration of the shifting meaning of creativity and originality in the age of generative AI. Our main contention is that the Guetta form of creativity with generative AI tools differs in certain important respects from what has come before.The paper describes an iterative, dynamic process of conception, prompting, generation, refining, and deployment to characterise creativity in this context. Nevertheless, we contend that copyright - specifically the concept of originality as articulated in US federal law - is a sufficiently durable legal mechanism that can manage these new cultural forms, and that the two basic requirements of modern copyright law (a tangible medium of expression and a modest degree of creativity) remain relevant in identifying the scope of legal protection. The paper argues that the David Guetta story reveals something more general about creativity in a digital age, namely that while hybrid-networked (i.e., human - corporate - machine) creators have always created hybridnetworked cultural forms (i.e., creations that blend human and technology-constituted elements), such hybridity becomes increasingly visible and complex in the context of a new world of generative AI. At the very least, earlier - and influential - models of creativity as human-driven involving creation ex nihilo become harder to sustain in a new age of generative AI. But this does not mean copyright or notions of originality are redundant or that copyright law cannot accommodate Guetta and other cases. Such an account seems important as it challenges the hegemonic and reductive view that AI "generates" artistic works autonomously and avoids reducing the copyright issues raised by such creative works to the related but distinct question of whether learning models rely on copyrighted data. As such, copyright law should remain an important mechanism to facilitate genuine creators who are using AI systems in innovative and unique ways to push the boundaries of their creativity.
-AD  - Kyushu Univ, Grad Sch Law, Fukuoka, JapanAD  - Vilnius Univ, Law Fac, Vilnius, LithuaniaAD  - Prifina Inc, San Francisco, CA USAAD  - 1090 Eddy St Atp 403, San Francisco, CA 94109 USAC3  - Kyushu UniversityC3  - Vilnius UniversityPU  - ELSEVIER ADVANCED TECHNOLOGY
-PI  - OXFORD
-PA  - OXFORD FULFILLMENT CENTRE THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
-SN  - 0267-3649
-J9  - COMPUT LAW SECUR REV
-JI  - Comput. Law Secur. Rev.
-DA  - NOV
-PY  - 2023
-VL  - 51
-C7  - 105892
-DO  - 10.1016/j.clsr.2023.105892
-C6  - NOV 2023
-WE  - Social Science Citation Index (SSCI)AN  - WOS:001111839200001
-N1  - Times Cited in Web of Science Core Collection:  4
-Total Times Cited:  4
-Cited Reference Count:  112
-ER  -
-
-TY  - JOUR
-AU  - Hoffmann, H
-AU  - Vogt, V
-AU  - Hauer, MP
-AU  - Zweig, K
-TI  - Fairness by awareness? On the inclusion of protected features in algorithmic decisions
-T2  - COMPUTER LAW & SECURITY REVIEW
-LA  - English
-KW  - Fairness
-KW  - Discrimination
-KW  - Machine learning
-KW  - Legal policy
-KW  - Algorithmic decision making
-AB  - AI decisions are increasingly determining our everyday lives. At present, European antidiscrimination law is process-oriented; it prohibits the inclusion of sensitive data that is particularly protected. However, especially in the context of AI decisions, constellations can be identified in which the inclusion of sensitive characteristics will lead to better and sometimes even less discriminatory result. A result-oriented approach, therefore, might be a more fitting strategy for algorithmic decision making.In this paper we examine the legal framework for including sensitive features in a Support Vector Machine for a fictitious scenario and discuss the resulting challenges in practical application. It turns out that generally ignoring sensitive features - as has been the practice up to now - does not seem to be a fitting strategy for algorithmic decision making. A process-oriented procedure only supposedly comes closer to individual case justice: If one assumes that fewer errors occur when protected characteristics are included, individuals will ultimately also be assessed incorrectly less often, especially when one protected group is more prone to errors than the other. This paper aims to support the current debate about legal regulation of algorithmic decision making systems by discussing an often neglected perspective.(c) 2022 Hanna Hoffmann, Verena Vogt, Marc P. Hauer, Katharina Zweig. Published by Elsevier Ltd. All rights reserved.
-AD  - Inst Informat, Telecommun & Media law ITM WWU Munster, Munster, GermanyAD  - Algorithm Accountabil Lab AAL TU Kaiserslautern, Kaiserslautern, GermanyFU  - German Federal Ministry of Education and Research [01IS19020]
-FX  - The research was performed within the project GOAL "Governance of and by algorithms"(Funding code 01IS19020; https://goal-projekt.de/en/) which is funded by the German Federal Ministry of Education and Research. The content of this paper is the sole responsibility of its authors.
-PU  - ELSEVIER ADVANCED TECHNOLOGY
-PI  - OXFORD
-PA  - OXFORD FULFILLMENT CENTRE THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
-SN  - 0267-3649
-J9  - COMPUT LAW SECUR REV
-JI  - Comput. Law Secur. Rev.
-DA  - APR
-PY  - 2022
-VL  - 44
-C7  - 105658
-DO  - 10.1016/j.clsr.2022.105658
-C6  - FEB 2022
-WE  - Social Science Citation Index (SSCI)AN  - WOS:000791281300005
-N1  - Times Cited in Web of Science Core Collection:  3
-Total Times Cited:  3
-Cited Reference Count:  30
-ER  -
-
-TY  - JOUR
-AU  - Izarova, I
-AU  - Uhrynovska, O
-AU  - Khotynska-Nor, O
-AU  - Prytyka, Y
-AU  - Bedyukh, O
-AU  - Alendar, Y
-TI  - ADVANCING SUSTAINABLE JUSTICE THROUGH AI-BASED CASE LAW ANALYSIS: UKRAINIAN EXPERIENCE
-T2  - ACCESS TO JUSTICE IN EASTERN EUROPE
-LA  - English
-KW  - artificial intelligence
-KW  - judicial system
-KW  - legal proceedings
-KW  - civil procedure
-KW  - court decisions
-KW  - e-justice
-KW  - judicial reform
-KW  - analysis of large data sets
-KW  - judicial statistics
-AB  - Background: Ukraine has a unique Unified State Register of Court Decisions that publishes all court decisions in cases considered and resolved by courts in the public domain. There are more than one hundred million such documents in the register today. This provides unique opportunities for collecting, analysing, and summarising the empirical base of justice. This has the potential to form the basis for further transformation of the national model of justice. This study's impetus may have risen from the realisation that relying solely on human resources for such endeavours may present challenges.Methods: The study is based on the hypothesis that using hardware and software to analyse large data sets of state registers of court decisions and judicial statistics data can identify persistent patterns and causes of inefficient functioning of the judicial system.Results and Conclusions: The study led to the development of software with functionality that annotates court decision text, intended for further use in advanced Natural Language Processing algorithms. Furthermore, the study underscores the need to develop an algorithm for predicting risks and outcomes of court proceedings and a methodology for processing large amounts of data from the Unified State Register of Court Decisions. This is justified based on specific indicators of the effectiveness of dispute resolution. This article advocates for the use of machine learning algorithms as an innovative tool to generalise large data sets from court decision registers, particularly to obtain objective data on a large scale. The article also examines the prerequisites for establishing the Institute of National Judicial Practice and explores its functioning in the present stage of judicial reform.
-AD  - Taras Shevchenko Natl Unibers Kyiv, Law Sch, Kiev, UkraineAD  - Ivan Franko Natl Univ Lviv, Dept Civil Law & Procedure, Lvov, UkraineAD  - Taras Shevchenko Natl Univ Kyiv, Civil Procedure Dept, Kiev, UkraineAD  - Int Commercial Arbitrat Court ICAC, Kiev, UkraineAD  - Justice Ukraine, Kiev, UkraineAD  - Taras Shevchenko Natl Univ Kyiv, Kiev, UkraineC3  - Ministry of Education & Science of UkraineC3  - Ivan Franko National University LvivC3  - Ministry of Education & Science of UkraineC3  - Taras Shevchenko National University of KyivC3  - Ministry of Education & Science of UkraineC3  - Taras Shevchenko National University of KyivFU  - European Union
-FX  - Within the project "Innovative technologies for processing court decisions using machine learning algorithms", that financed by an external instrument of assistance of the European Union to fulfill Ukraine's obligations in the European Union Framework Program for Research and Innovation "Horizon 2020".
-PU  - EAST EUROPEAN LAW RESEARCH CENTER
-PI  - KYIV
-PA  - BANDERY STEPANA STR., 20A, KYIV, 04655, UKRAINE
-SN  - 2663-0575
-SN  - 2663-0583
-J9  - ACCESS JUSTICE E EUR
-JI  - Access Justice East Eur.
-DA  - FEB
-PY  - 2024
-IS  - 1
-SP  - 127
-EP  - 148
-DO  - 10.33327/AJEE-18-7.1-a000123
-C6  - DEC 2023
-WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001128775200001
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  7
-ER  -
-
-TY  - JOUR
-AU  - Segate, RV
-AU  - Daly, A
-TI  - Encoding the Enforcement of Safety Standards into Smart Robots to Harness Their Computing Sophistication and Collaborative Potential: A Legal Risk Assessment for European Union Policymakers
-T2  - EUROPEAN JOURNAL OF RISK REGULATION
-LA  - English
-KW  - Encoding of safety rules enforcement
-KW  - quantum computing
-KW  - smart collaborative robots
-KW  - INTELLIGENT
-KW  - DESIGN
-KW  - MANAGEMENT
-KW  - BEHAVIOR
-KW  - COMPLEX
-KW  - LAW
-AB  - Until robots and humans mostly worked in fast-paced and yet separate environments, occupational health and safety (OHS) rules could address workers' safety largely independently from robotic conduct. This is no longer the case: collaborative robots (cobots) working alongside humans warrant the design of policies ensuring the safety of both humans and robots at once, within shared spaces and upon delivery of cooperative workflows. Within the European Union (EU), the applicable regulatory framework stands at the intersection between international industry standards and legislation at the EU as well as Member State level. Not only do current standards and laws fail to satisfactorily attend to the physical and mental health challenges prompted by human-robot interaction (HRI), but they exhibit important gaps in relation to smart cobots ("SmaCobs") more specifically. In fact, SmaCobs combine the black-box unforeseeability afforded by machine learning with more general HRI-associated risks, towards increasingly complex, mobile and interconnected operational interfaces and production chains. Against this backdrop, based on productivity and health motivations, we urge the encoding of the enforcement of OHS policies directly into SmaCobs. First, SmaCobs could harness the sophistication of quantum computing to adapt a tangled normative architecture in a responsive manner to the contingent needs of each situation. Second, entrusting them with OHS enforcement vis-a-vis both themselves and humans may paradoxically prove safer as well as more cost-effective than for humans to do so. This scenario raises profound legal, ethical and somewhat philosophical concerns around SmaCobs' legal personality, the apportionment of liability and algorithmic explainability. The first systematic proposal to tackle such questions is henceforth formulated. For the EU, we propose that this is achieved through a new binding OHS Regulation aimed at the SmaCobs age.
-AD  - Univ Dundee, Sch Sci & Engn, Dundee, ScotlandAD  - Univ Dundee, Sch Law, Dundee, ScotlandC3  - University of DundeeC3  - University of DundeeFU  - Earlier drafts of the present work were presented by the authors at the University of Oxford's Bonavero Institute of Human Rights ("Algorithms at Work" Reading Group, 9 March 2023), University of Aberdeen (2nd Annual SCOTLIN Conference, 27 March 2023), as [2021-2025]; UK Engineering and Physical Sciences Research Council's "Made Smarter Innovation - Research Centre for Smart, Collaborative Industrial Robotics" Project [EP/V062158/1]; EPSRC
-FX  - Earlier drafts of the present work were presented by the authors at the University of Oxford's Bonavero Institute of Human Rights ("Algorithms at Work" Reading Group, 9 March 2023), University of Aberdeen (2nd Annual SCOTLIN Conference, 27 March 2023), as well as at Belfast's Titanic Centre during the SPRITE+ Conference on 29 June 2023. We are grateful to the organisers and attendees of these three scholarly gatherings for their challenging questions and comments about our work. We acknowledge funding from the UK Engineering and Physical Sciences Research Council's "Made Smarter Innovation - Research Centre for Smart, Collaborative Industrial Robotics" Project (2021-2025, EPSRC Reference: EP/V062158/1). We also acknowledge precious inputs and insights from former and current members of the aforementioned Centre, including Professor YAN Xiu-Tian, Dr Tiziana Carmen Callari and Dr NIU Cong. Riccardo Vecellio Segate gratefully acknowledges the superlative learning environment at Politecnico di Milano (Polytechnic University of Milan), where he is currently enrolled as a BEng Candidate in Industrial Production Engineering and without whose inspiring teaching staff and library resources this paper would have never been accomplished. No humans or animals were involved in this research. While the substance of the present article was conceived for the first draft as completed and submitted in early December 2022, the authors have tried their best to keep the manuscript and its references current throughout the extensive peer-review and editorial process.
-PU  - CAMBRIDGE UNIV PRESS
-PI  - CAMBRIDGE
-PA  - EDINBURGH BLDG, SHAFTESBURY RD, CB2 8RU CAMBRIDGE, ENGLAND
-SN  - 1867-299X
-SN  - 2190-8249
-J9  - EUR J RISK REGUL
-JI  - Eur. J. Risk Regul.
-DA  - 2023 NOV 6
-PY  - 2023
-DO  - 10.1017/err.2023.72
-C6  - NOV 2023
-WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001098967400001
-N1  - Times Cited in Web of Science Core Collection:  3
-Total Times Cited:  3
-Cited Reference Count:  242
-ER  -
-
-TY  - JOUR
-AU  - Martínez, E
-TI  - Re-evaluating GPT-4's bar exam performance
-T2  - ARTIFICIAL INTELLIGENCE AND LAW
-LA  - English
-KW  - NLP
-KW  - Legal NLP
-KW  - Legal analytics
-KW  - Natural language processing
-KW  - Machine learning
-KW  - Artificial intelligence
-KW  - Artificial intelligence and law
-KW  - Law and technology
-KW  - Legal profession
-KW  - LAW
-AB  - Perhaps the most widely touted of GPT-4's at-launch, zero-shot capabilities has been its reported 90th-percentile performance on the Uniform Bar Exam. This paper begins by investigating the methodological challenges in documenting and verifying the 90th-percentile claim, presenting four sets of findings that indicate that OpenAI's estimates of GPT-4's UBE percentile are overinflated. First, although GPT-4's UBE score nears the 90th percentile when examining approximate conversions from February administrations of the Illinois Bar Exam, these estimates are heavily skewed towards repeat test-takers who failed the July administration and score significantly lower than the general test-taking population. Second, data from a recent July administration of the same exam suggests GPT-4's overall UBE percentile was below the 69th percentile, and similar to \documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\sim$$\end{document} 48th percentile on essays. Third, examining official NCBE data and using several conservative statistical assumptions, GPT-4's performance against first-time test takers is estimated to be similar to \documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\sim$$\end{document} 62nd percentile, including similar to \documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\sim$$\end{document} 42nd percentile on essays. Fourth, when examining only those who passed the exam (i.e. licensed or license-pending attorneys), GPT-4's performance is estimated to drop to similar to \documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\sim$$\end{document} 48th percentile overall, and similar to \documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\sim$$\end{document} 15th percentile on essays. In addition to investigating the validity of the percentile claim, the paper also investigates the validity of GPT-4's reported scaled UBE score of 298. The paper successfully replicates the MBE score, but highlights several methodological issues in the grading of the MPT + MEE components of the exam, which call into question the validity of the reported essay score. Finally, the paper investigates the effect of different hyperparameter combinations on GPT-4's MBE performance, finding no significant effect of adjusting temperature settings, and a significant effect of few-shot chain-of-thought prompting over basic zero-shot prompting. Taken together, these findings carry timely insights for the desirability and feasibility of outsourcing legally relevant tasks to AI models, as well as for the importance for AI developers to implement rigorous and transparent capabilities evaluations to help secure safe and trustworthy AI.
-AD  - MIT, Dept Brain & Cognit Sci, Cambridge, MA 02138 USAC3  - Massachusetts Institute of Technology (MIT)FU  - Massachusetts Institute of Technology (MIT)
-FX  - Acknowledgements omitted for anonymous review.
-PU  - SPRINGER
-PI  - DORDRECHT
-PA  - VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
-SN  - 0924-8463
-SN  - 1572-8382
-J9  - ARTIF INTELL LAW
-JI  - Artif. Intell. Law
-DA  - 2024 MAR 30
-PY  - 2024
-DO  - 10.1007/s10506-024-09396-9
-C6  - MAR 2024
-WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:001194581100001
-N1  - Times Cited in Web of Science Core Collection:  1
-Total Times Cited:  1
-Cited Reference Count:  77
-ER  -
-

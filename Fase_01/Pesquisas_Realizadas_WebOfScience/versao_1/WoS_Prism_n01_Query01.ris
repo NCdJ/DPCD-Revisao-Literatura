@@ -1,1202 +1,0 @@
-﻿TY  - JOUR
-AU  - Egger, C
-AU  - Caselli, T
-AU  - Tziafas, G
-AU  - Phalle, ED
-AU  - Vries, WD
-TI  - Extracting and classifying exceptional COVID-19 measures from multilingual legal texts: The merits and limitations of automated approaches
-T2  - REGULATION & GOVERNANCE
-LA  - English
-KW  - computational text analysis
-KW  - COVID-19
-KW  - crisis governance
-KW  - law-as-data
-KW  - natural language processing
-KW  - EMERGENCY
-KW  - SCIENCE
-AB  - This paper contributes to ongoing scholarly debates on the merits and limitations of computational legal text analysis by reflecting on the results of a research project documenting exceptional COVID-19 management measures in Europe. The variety of exceptional measures adopted in countries characterized by different legal systems and natural languages, as well as the rapid evolution of such measures, pose considerable challenges to manual textual analysis methods traditionally used in the social sciences. To address these challenges, we develop a supervised classifier to support the manual coding of exceptional policies by a multinational team of human coders. After presenting the results of various natural language processing (NLP) experiments, we show that human-in-the-loop approaches to computational text analysis outperform unsupervised approaches in accurately extracting policy events from legal texts. We draw lessons from our experience to ensure the successful integration of NLP methods into social science research agendas.
-AD  - Erasmus Univ, Erasmus Sch Social & Behav Sci, Dept Publ Adm & Sociol, Rotterdam, NetherlandsAD  - Univ Groningen, Fac Arts, Ctr Language & Cognit CLGC, Groningen, NetherlandsAD  - Univ Groningen, Fac Arts, Int Relat & Int Org, Groningen, NetherlandsC3  - Erasmus University Rotterdam - Excl Erasmus MCC3  - Erasmus University RotterdamC3  - University of GroningenC3  - University of GroningenFU  - This work is part of the EXCEPTIUS project, financed by Dutch Organization for Health Development and Research (ZonMw, project number: 10430032010026). [10430032010026]; Dutch Organization for Health Development and Research (ZonMw)
-FX  - This work is part of the EXCEPTIUS project, financed by Dutch Organization for Health Development and Research (ZonMw, project number: 10430032010026).
-PU  - WILEY
-PI  - HOBOKEN
-PA  - 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
-SN  - 1748-5983
-SN  - 1748-5991
-J9  - REGUL GOV
-JI  - Regul. Gov.
-DA  - JUL
-PY  - 2024
-VL  - 18
-IS  - 3
-SP  - 704
-EP  - 723
-DO  - 10.1111/rego.12557
-C6  - OCT 2023
-WE  - Social Science Citation Index (SSCI)AN  - WOS:001079523000001
-N1  - Times Cited in Web of Science Core Collection:  1
-Total Times Cited:  1
-Cited Reference Count:  51
-ER  -
-
-TY  - CPAPER
-AU  - Hershowitz, A
-AU  - Mador-Haim, S
-ED  - Spanakis, J
-ED  - VanDijck, G
-ED  - Sileno, G
-TI  - "Comparative Prints Suite" of the United States House of Representatives: NLP for Tracking Changes in Bills and Laws
-T2  - LEGAL KNOWLEDGE AND INFORMATION SYSTEMS
-LA  - English
-CP  - 36th Annual International Conference on Legal Knowledge and Information Systems (JURIX)
-KW  - United States Congress
-KW  - legislation
-KW  - Natural Language Processing
-KW  - Amendment Modeling and Parsing Language (AMPL)
-KW  - CItation Modeling and Parsing Language (CIMPL)
-AB  - We demonstrate the "Comparative Prints Suite", a browser-based family of tools developed for the United States House of Representatives to track changes in United States federal legislation. The tools use a model grammar to parse amendments to bills, execute those amendments into law, and compare versions of bills. The tools are available at to Members and staff in the U.S. House, the Congressional Research Service of the Library of Congress, and other Congressional entities to support the legislative process.
-AD  - Govable Palo Alto, Palo Alto, CA 94306 USAAD  - XCiteDB LLC Austin, Austin, TX 78751 USAPU  - IOS PRESS
-PI  - AMSTERDAM
-PA  - NIEUWE HEMWEG 6B, 1013 BG AMSTERDAM, NETHERLANDS
-SN  - 0922-6389
-SN  - 1879-8314
-SN  - 978-1-64368-472-7
-SN  - 978-1-64368-473-4
-J9  - FRONT ARTIF INTEL AP
-PY  - 2023
-VL  - 379
-SP  - 379
-EP  - 382
-DO  - 10.3233/FAIA230993
-WE  - Conference Proceedings Citation Index - Science (CPCI-S)WE  - Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)AN  - WOS:001175464100052
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  1
-ER  -
-
-TY  - CPAPER
-AU  - Behnke, G
-AU  - Wais, N
-A1  - ACM
-TI  - On the Semantic Difference of Judicial and Standard Language
-T2  - PROCEEDINGS OF THE 19TH INTERNATIONAL CONFERENCE ON ARTIFICIAL INTELLIGENCE AND LAW, ICAIL 2023
-LA  - English
-CP  - 19th International Conference on Artificial Intelligence and Law (ICAIL)
-KW  - NLP
-KW  - semantics of legal texts
-AB  - Legal language is considered to be a key obstacle to the comprehensibility of court decisions for laypeople. While differences between written 'standard' and legal language have already been analysed with regard to syntactic peculiarities, there is still a lack of findings on the influence of divergent word meanings on comprehensibility. We present the course and the preliminary results of a study elaborating such ambiguities on the basis of over half a million German court decisions. As these differences are highly language-dependent, our study consequentially relates (only) to German.
-AD  - Univ Amsterdam, Inst Log Language & Comp, Amsterdam, NetherlandsAD  - Univ Leipzig, Inst Civil Informat Data & Media Law, Leipzig, GermanyC3  - University of AmsterdamC3  - Leipzig UniversityPU  - ASSOC COMPUTING MACHINERY
-PI  - NEW YORK
-PA  - 1601 Broadway, 10th Floor, NEW YORK, NY, UNITED STATES
-SN  - 979-8-4007-0197-9
-PY  - 2023
-SP  - 382
-EP  - 386
-DO  - 10.1145/3594536.3595123
-WE  - Conference Proceedings Citation Index - Science (CPCI-S)WE  - Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)AN  - WOS:001139079400040
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  17
-ER  -
-
-TY  - JOUR
-AU  - Schepers, I
-AU  - Medvedeva, M
-AU  - Bruijn, M
-AU  - Wieling, M
-AU  - Vols, M
-TI  - Predicting citations in Dutch case law with natural language processing
-T2  - ARTIFICIAL INTELLIGENCE AND LAW
-LA  - English
-KW  - Machine learning
-KW  - Case law
-KW  - Natural language processing
-KW  - Citation analysis
-KW  - Judicial decisions
-KW  - NETWORK ANALYSIS
-AB  - With the ever-growing accessibility of case law online, it has become challenging to manually identify case law relevant to one's legal issue. In the Netherlands, the planned increase in the online publication of case law is expected to exacerbate this challenge. In this paper, we tried to predict whether court decisions are cited by other courts or not after being published, thus in a way distinguishing between more and less authoritative cases. This type of system may be used to process the large amounts of available data by filtering out large quantities of non-authoritative decisions, thus helping legal practitioners and scholars to find relevant decisions more easily, and drastically reducing the time spent on preparation and analysis. For the Dutch Supreme Court, the match between our prediction and the actual data was relatively strong (with a Matthews Correlation Coefficient of 0.60). Our results were less successful for the Council of State and the district courts (MCC scores of 0.26 and 0.17, relatively). We also attempted to identify the most informative characteristics of a decision. We found that a completely explainable model, consisting only of handcrafted metadata features, performs almost as well as a less well-explainable system based on all text of the decision.
-AD  - Univ Groningen, Fac Law, Dept Legal Methods, Groningen, NetherlandsAD  - Univ Groningen, Fac Arts, Ctr Language & Cognit Groningen, Groningen, NetherlandsAD  - Leiden Univ, Fac Law, Ctr Law & Digital Technol, Leiden, NetherlandsC3  - University of GroningenC3  - University of GroningenC3  - Leiden University - Excl LUMCC3  - Leiden UniversityFU  - European Union [949316]; Center for Information Technology of the University of Groningen; European Research Council (ERC) [949316] Funding Source: European Research Council (ERC)
-FX  - The research presented in this paper has received funding from the European Union's ERC Research Grant under grant agreement No 949316. We would like to thank the Center for Information Technology of the University of Groningen for their support and for providing access to the Peregrine High Performance Computing Cluster. We would like to thank dr. Marc van Opijnen for making it possible to use the updated LIDO dataset and for his feedback in the early stages of this research.
-PU  - SPRINGER
-PI  - DORDRECHT
-PA  - VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
-SN  - 0924-8463
-SN  - 1572-8382
-J9  - ARTIF INTELL LAW
-JI  - Artif. Intell. Law
-DA  - SEP
-PY  - 2024
-VL  - 32
-IS  - 3
-SP  - 807
-EP  - 837
-DO  - 10.1007/s10506-023-09368-5
-C6  - JUN 2023
-WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:001018103700001
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  45
-ER  -
-
-TY  - JOUR
-AU  - Williams, C
-TI  - Framing the Future: The <i>Foundation</i> Series, Foundation Models and Framing AI
-T2  - LAW TECHNOLOGY AND HUMANS
-LA  - English
-KW  - Science fiction
-KW  - Artificial intelligence (AI)
-KW  - foundation models
-KW  - Natural Language Processing (NLP)
-KW  - Asimov
-KW  - LAW
-AB  - Are we at risk of preserving in digital aspic current hegemonic ways of doing, talking and thinking about law and economy? Our dominant frames are those of neoclassical economics and doctrinal law, which, combined, align with neoliberal assumptions and preferences. Invisible through their ubiquity, these partially reveal and conceal problems and solutions, perpetuating inequalities. And yet, unlike social biases, our framing tends to fly largely under the radar, as we see in Isaac Asimov's Foundation series.
-   Taking three themes from Asimov's work that align with current hegemonic frames, namely the centrality of the individual as the subject, a belief in scientism and technological progress to save humanity, and a dissatisfaction with the limitations of language, this paper explores what, how and why we might exercise caution in the development of natural language processing (NLP) artificial intelligence (AI). By drawing parallels with Asimov's work and the development of foundation models that underpin all NLP AI systems, this paper asks to what extent neoliberal framing and the inequalities perpetuated therein might come to be embedded in future technologies.
-AD  - Univ Kent, Canterbury, Kent, EnglandC3  - University of KentFU  - ESRC [ES/V005634/1] Funding Source: UKRI
-PU  - QUEENSLAND UNIV TECHNOLOGY
-PI  - BRISBANE
-PA  - GPO  BOX 2434, BRISBANE, QLD 4001, AUSTRALIA
-SN  - 2652-4074
-J9  - LAW TECHNOL HUMANS
-JI  - Law Technol. Humans
-PY  - 2022
-VL  - 4
-IS  - 2
-SP  - 109
-EP  - 123
-DO  - 10.5204/lthj.2452
-WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:000892027600008
-N1  - Times Cited in Web of Science Core Collection:  1
-Total Times Cited:  1
-Cited Reference Count:  73
-ER  -
-
-TY  - JOUR
-AU  - Pais, V
-AU  - Ion, R
-AU  - Irimia, E
-AU  - Mititelu, VB
-AU  - Badea, V
-AU  - Tufis, D
-TI  - System for the anonymization of Romanian jurisprudence
-T2  - ARTIFICIAL INTELLIGENCE AND LAW
-LA  - English
-KW  - Anonymization
-KW  - Jurisprudence
-KW  - Natural language processing
-KW  - Romanian language
-AB  - The transparency of the judicial process and the consistency of judicial decisions can be improved through their publication. Access to jurisprudence is of paramount importance both for law professionals (judges, lawyers, law students) and for the larger public. However, public access must ensure the preservation of privacy for people involved, in accordance with national and international regulations. This paper presents the work behind building an artificial intelligence system for the anonymization of Romanian jurisprudence, allowing it to be accessed through the ReJust portal operated by the Superior Council of Magistracy in Romania.
-AD  - Romanian Acad, Res Inst Artificial Intelligence Mihai Draganescu, Calea 13 Septembrie 13, Bucharest 050711, RomaniaC3  - Romanian Academy of SciencesC3  - Research Institute Artificial Intelligence Mihai DraganescuFU  - Council of Europe, within the project "Foster Transparency of Judicial Decisions and Enhancing the National Implementation of the ECHR (TJENI)" - EEA; Norway Grants Fund for Regional Cooperation
-FX  - This project was carried out with funding from the Council of Europe, within the project "Foster Transparency of Judicial Decisions and Enhancing the National Implementation of the ECHR (TJENI)" funded by the EEA and Norway Grants Fund for Regional Cooperation. The views expressed herein can in no way be taken to reflect the official opinion of the Council of Europe. The authors have no Conflict of interest to declare that are relevant to the content of this article.
-PU  - SPRINGER
-PI  - DORDRECHT
-PA  - VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
-SN  - 0924-8463
-SN  - 1572-8382
-J9  - ARTIF INTELL LAW
-JI  - Artif. Intell. Law
-DA  - 2024 SEP 11
-PY  - 2024
-DO  - 10.1007/s10506-024-09420-y
-C6  - SEP 2024
-WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:001310020200001
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  40
-ER  -
-
-TY  - JOUR
-AU  - Coupette, C
-AU  - Hartung, D
-AU  - Beckedorf, J
-AU  - Böther, M
-AU  - Katz, DM
-TI  - Law Smells Defining and Detecting Problematic Patterns in Legal Drafting
-T2  - ARTIFICIAL INTELLIGENCE AND LAW
-LA  - English
-KW  - Refactoring
-KW  - Software engineering
-KW  - Law
-KW  - Natural language processing
-KW  - Network analysis
-KW  - CODE QUALITY
-AB  - Building on the computer science concept of code smells, we initiate the study of law smells, i.e., patterns in legal texts that pose threats to the comprehensibility and maintainability of the law. With five intuitive law smells as running examples-namely, duplicated phrase, long element, large reference tree, ambiguous syntax, and natural language obsession-, we develop a comprehensive law smell taxonomy. This taxonomy classifies law smells by when they can be detected, which aspects of law they relate to, and how they can be discovered. We introduce text-based and graph-based methods to identify instances of law smells, confirming their utility in practice using the United States Code as a test case. Our work demonstrates how ideas from software engineering can be leveraged to assess and improve the quality of legal code, thus drawing attention to an understudied area in the intersection of law and computer science and highlighting the potential of computational legal drafting.
-AD  - Max Planck Inst Informat, Saarbrucken, GermanyAD  - Bucerius Law Sch, Ctr Legal Technol & Data Sci, Hamburg, GermanyAD  - Stanford Law Sch, CodeX Stanford Ctr Legal Informat, Stanford, CA 94305 USAAD  - Heidelberg Univ, Heidelberg, GermanyAD  - Univ Potsdam, Hasso Plattner Inst, Potsdam, GermanyAD  - Illinois Tech Chicago Kent Coll Law, Chicago, IL USAC3  - Max Planck SocietyC3  - Stanford UniversityC3  - Ruprecht Karls University HeidelbergC3  - University of PotsdamPU  - SPRINGER
-PI  - DORDRECHT
-PA  - VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
-SN  - 0924-8463
-SN  - 1572-8382
-J9  - ARTIF INTELL LAW
-JI  - Artif. Intell. Law
-DA  - JUN
-PY  - 2023
-VL  - 31
-IS  - 2
-SP  - 335
-EP  - 368
-DO  - 10.1007/s10506-022-09315-w
-C6  - JUN 2022
-WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:000806657000001
-N1  - Times Cited in Web of Science Core Collection:  1
-Total Times Cited:  1
-Cited Reference Count:  47
-ER  -
-
-TY  - JOUR
-AU  - Medvedeva, M
-AU  - Wieling, M
-AU  - Vols, M
-TI  - Rethinking the field of automatic prediction of court decisions
-T2  - ARTIFICIAL INTELLIGENCE AND LAW
-LA  - English
-KW  - Judicial decisions
-KW  - Machine learning
-KW  - Case law
-KW  - Natural language processing
-KW  - OUTCOMES
-AB  - In this paper, we discuss previous research in automatic prediction of court decisions. We define the difference between outcome identification, outcome-based judgement categorisation and outcome forecasting, and review how various studies fall into these categories. We discuss how important it is to understand the legal data that one works with in order to determine which task can be performed. Finally, we reflect on the needs of the legal discipline regarding the analysis of court judgements.
-AD  - Univ Groningen, Ctr Language & Cognit Groningen, Groningen, NetherlandsAD  - Univ Groningen, Dept Legal Methods, Groningen, NetherlandsC3  - University of GroningenC3  - University of GroningenPU  - SPRINGER
-PI  - DORDRECHT
-PA  - VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
-SN  - 0924-8463
-SN  - 1572-8382
-J9  - ARTIF INTELL LAW
-JI  - Artif. Intell. Law
-DA  - MAR
-PY  - 2023
-VL  - 31
-IS  - 1
-SP  - 195
-EP  - 212
-DO  - 10.1007/s10506-021-09306-3
-C6  - JAN 2022
-WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:000746791200001
-N1  - Times Cited in Web of Science Core Collection:  30
-Total Times Cited:  30
-Cited Reference Count:  54
-ER  -
-
-TY  - CPAPER
-AU  - Darji, H
-AU  - Mitrovic, J
-AU  - Granitzer, M
-A1  - ACM
-TI  - A Dataset of German Legal Reference Annotations
-T2  - PROCEEDINGS OF THE 19TH INTERNATIONAL CONFERENCE ON ARTIFICIAL INTELLIGENCE AND LAW, ICAIL 2023
-LA  - English
-CP  - 19th International Conference on Artificial Intelligence and Law (ICAIL)
-KW  - Legal Language Processing
-KW  - NLP
-KW  - Sentence Transformers
-KW  - Open Legal Data
-KW  - Law References
-KW  - Law Reference Annotations
-AB  - The field of legal Natural Language Processing faces a lot of challenges due to the unavailability of properly structured datasets. One such instance is the need for a dataset that not only separates different parts of legal references, such as an article or paragraph number but also provides information about what a particular legal reference dictates. Having access to such a dataset can provide easy access to researchers working on experiments such as context similarity between law texts and legal cases that refer to a particular law. In this paper, we present a dataset of 2944 legal references in German law that are manually annotated by law experts. This dataset has 21 properties for each law reference in the dataset, such as Buch, Teil, Titel, Untertitel, etc. It also provides the complete text of each law reference in the dataset, along with specific paragraph text mentioned in the law reference. Furthermore, using this dataset together with Open Legal Data, we perform a law reference prediction task to compare the performance between predicting full law reference and only the base law reference.
-AD  - Univ Passau, Passau, GermanyAD  - Inst AI R&D Serbia, Novi Sad, SerbiaC3  - University of PassauFU  - German Federal Ministry of Education and Research (BMBF) [01|S20049, 16DHBKI059]
-FX  - The project on which this report is based was funded by the German Federal Ministry of Education and Research (BMBF) under the funding code 01|S20049, and also partially by the project DEEP WRITE (Grant No. 16DHBKI059). The author is responsible for the content of this publication.
-PU  - ASSOC COMPUTING MACHINERY
-PI  - NEW YORK
-PA  - 1601 Broadway, 10th Floor, NEW YORK, NY, UNITED STATES
-SN  - 979-8-4007-0197-9
-PY  - 2023
-SP  - 392
-EP  - 396
-DO  - 10.1145/3594536.3595173
-WE  - Conference Proceedings Citation Index - Science (CPCI-S)WE  - Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)AN  - WOS:001139079400042
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  14
-ER  -
-
-TY  - CPAPER
-AU  - Al Mouatamid, Y
-AU  - Zahir, J
-AU  - Bonnin, M
-AU  - Mousannif, H
-ED  - Spanakis, J
-ED  - VanDijck, G
-ED  - Sileno, G
-TI  - Assessing Ocean's Legal Protection Using AI: A New Dataset and a BERT-Based Classifier
-T2  - LEGAL KNOWLEDGE AND INFORMATION SYSTEMS
-LA  - English
-CP  - 36th Annual International Conference on Legal Knowledge and Information Systems (JURIX)
-KW  - Classification
-KW  - Machine learning
-KW  - datasets
-KW  - CamemBERT
-KW  - marine environmental law
-KW  - empirical legal studies
-AB  - This paper aims to address the challenge of using artificial intelligence for empirical legal studies. We introduce a new annotated dataset on French marine environmental law dealing with definitions, bans, sanctions, and controls on living (turtles and seabirds) and non-living (plastic bags and straws) subjects. The annotation has been produced by law students and validated by a legal expert. Based on the developed dataset, we train a CamemBERT-based classifier which accurately predicts the class of a given legal article according to the pre-defined classes within the dataset we have created. The proposed training set and the resulting trained model provide a better interpretation and accessibility of legal texts to specialists and the general public, based on findings from legal studies and on natural language processing techniques.
-AD  - Cadi Ayyad Univ, LISI Lab, Marrakech, MoroccoAD  - IRD France Nord, UMMISCO, F-93143 Bondy, FranceAD  - Univ Brest, CNRS, IRD, IFREMER,LEMAR, F-29280 Plouzane, FranceAD  - Univ Brest, LEMAR, F-29280 Plouzane, FranceC3  - Cadi Ayyad University of MarrakechC3  - Cadi Ayyad University of MarrakechC3  - Hanoi University of Science & Technology (HUST)C3  - Institut de Recherche pour le Developpement (IRD)C3  - Sorbonne UniversiteC3  - University Cheikh Anta Diop DakarC3  - University of Yaounde IC3  - Universite de Bretagne OccidentaleC3  - Centre National de la Recherche Scientifique (CNRS)C3  - IfremerC3  - Institut de Recherche pour le Developpement (IRD)C3  - Centre National de la Recherche Scientifique (CNRS)C3  - IfremerC3  - Institut de Recherche pour le Developpement (IRD)C3  - Universite de Bretagne OccidentaleFU  - AIME project; ISblue project, Interdisciplinary graduate school for the blue planet [ANR-17-EURE-0015]; French government
-FX  - This work has been supported by AIME project, and ISblue project, Interdisciplinary graduate school for the blue planet (ANR-17-EURE-0015) and co-funded by a grant from the French government under the program "Investissements d'Avenir" embedded in France 2030.
-PU  - IOS PRESS
-PI  - AMSTERDAM
-PA  - NIEUWE HEMWEG 6B, 1013 BG AMSTERDAM, NETHERLANDS
-SN  - 0922-6389
-SN  - 1879-8314
-SN  - 978-1-64368-472-7
-SN  - 978-1-64368-473-4
-J9  - FRONT ARTIF INTEL AP
-PY  - 2023
-VL  - 379
-SP  - 263
-EP  - 268
-DO  - 10.3233/FAIA230972
-WE  - Conference Proceedings Citation Index - Science (CPCI-S)WE  - Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)AN  - WOS:001175464100032
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  12
-ER  -
-
-TY  - JOUR
-AU  - Bertalan, VGF
-AU  - Ruiz, EES
-TI  - Using attention methods to predict judicial outcomes
-T2  - ARTIFICIAL INTELLIGENCE AND LAW
-LA  - English
-KW  - Legal prediction
-KW  - Hierarchical attention networks
-KW  - Natural language processing
-KW  - Machine learning
-KW  - LEGAL
-KW  - CLASSIFICATION
-KW  - RESOLUTION
-AB  - The prediction of legal judgments is one of the most recognized fields in Natural Language Processing, Artificial Intelligence, and Law combined. By legal prediction, we mean intelligent systems capable of predicting specific judicial characteristics such as the judicial outcome, the judicial class, and the prediction of a particular case. In this study, we used an artificial intelligence classifier to predict the decisions of Brazilian courts. Also, kindly confirm the details in the metadata are correct. To this end, we developed a text crawler to extract data from official Brazilian electronic legal systems, consisting of two datasets of cases of second-degree murder and active corruption. We applied various classifiers, such as Support Vector Machines, Neural Networks, and others, to predict judicial outcomes by analyzing text features from the dataset. Our research demonstrated that Regression Trees, Gated Recurring Units, and Hierarchical Attention Networks tended to have higher metrics across our datasets. As the final goal, we searched the weights of one of the algorithms, Hierarchical Attention Networks, to find samples of the words that might be used to acquit or convict defendants based on their relevance to the algorithm.
-AD  - Univ Montreal, Ecole Polytech Montreal, Dept Genie Informat & Genie Logiciel, Montreal, PQ, CanadaAD  - Univ Sao Paulo, Dept Computacao & Matemat FFCLRP, Ribeirao Preto, BrazilC3  - Universite de MontrealC3  - Polytechnique MontrealC3  - Universidade de Sao PauloPU  - SPRINGER
-PI  - DORDRECHT
-PA  - VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
-SN  - 0924-8463
-SN  - 1572-8382
-J9  - ARTIF INTELL LAW
-JI  - Artif. Intell. Law
-DA  - MAR
-PY  - 2024
-VL  - 32
-IS  - 1
-SP  - 87
-EP  - 115
-DO  - 10.1007/s10506-022-09342-7
-C6  - DEC 2022
-WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:000905015800001
-N1  - Times Cited in Web of Science Core Collection:  1
-Total Times Cited:  1
-Cited Reference Count:  60
-ER  -
-
-TY  - JOUR
-AU  - Ragazzi, L
-AU  - Moro, G
-AU  - Guidi, S
-AU  - Frisoni, G
-TI  - LAWSUIT: a LArge expert-Written SUmmarization dataset of ITalian constitutional court verdicts
-T2  - ARTIFICIAL INTELLIGENCE AND LAW
-LA  - English
-KW  - Italian legal documents
-KW  - Abstractive summarization
-KW  - Large-scale dataset
-KW  - Law
-KW  - Natural language processing
-KW  - DOCUMENTS
-AB  - Large-scale public datasets are vital for driving the progress of abstractive summarization, especially in law, where documents have highly specialized jargon. However, the available resources are English-centered, limiting research advancements in other languages. This paper introduces LAWSUIT, a collection of 14K Italian legal verdicts with expert-authored abstractive maxims drawn from the Constitutional Court of the Italian Republic. LAWSUIT presents an arduous task with lengthy source texts and evenly distributed salient content. We offer extensive experiments with sequence-to-sequence and segmentation-based approaches, revealing that the latter achieve better results in full and few-shot settings. We openly release LAWSUIT to foster the development and automation of real-world legal applications.
-AD  - Univ Bologna, Dept Comp Sci & Engn DISI, Via Univ 50, I-47522 Cesena, ItalyC3  - University of BolognaFU  - Artificial Intelligence for Public Administration Connected (AI-PACT) [PNC-I.1]; Complementary National Plan [PNC0000002, CUP B53C22006450001]; PNRR, M4C2, FAIR-Future Artificial Intelligence Research; European Commission; Alma Mater Studiorum - Universita di Bologna within CRUI-CARE Agreement
-FX  - This research is partially supported by (i) Artificial Intelligence for Public Administration Connected (AI-PACT): https://disi-unibo-nlp.github.io/projects/aipact/, (ii) the Complementary National Plan PNC-I.1, "Research initiatives for innovative technologies and pathways in the health and welfare sector" D.D. 931 of 06/06/2022, DARE-DigitAl lifelong pRevEntion initiative, code PNC0000002, CUP B53C22006450001, (iii) the PNRR, M4C2, FAIR-Future Artificial Intelligence Research, Spoke 8 "Pervasive AI," funded by the European Commission under the NextGeneration EU program. We thank the Maggioli Group (https://www.maggioli.com/who-we-are/company-profile) for granting the Ph.D. scholarship to Luca Ragazzi from November 2020 to January 2024.Open access funding provided by Alma Mater Studiorum - Universita di Bologna within the CRUI-CARE Agreement
-PU  - SPRINGER
-PI  - DORDRECHT
-PA  - VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
-SN  - 0924-8463
-SN  - 1572-8382
-J9  - ARTIF INTELL LAW
-JI  - Artif. Intell. Law
-DA  - 2024 SEP 9
-PY  - 2024
-DO  - 10.1007/s10506-024-09414-w
-C6  - SEP 2024
-WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:001308283800001
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  117
-ER  -
-
-TY  - CPAPER
-AU  - Zhang, GC
-AU  - Nulty, P
-AU  - Lillis, D
-A1  - ACM
-TI  - Argument Mining with Graph Representation Learning
-T2  - PROCEEDINGS OF THE 19TH INTERNATIONAL CONFERENCE ON ARTIFICIAL INTELLIGENCE AND LAW, ICAIL 2023
-LA  - English
-CP  - 19th International Conference on Artificial Intelligence and Law (ICAIL)
-KW  - Argument Mining
-KW  - Graph Neural Networks
-KW  - Legal Text
-AB  - Argument Mining (AM) is a unique task in Natural Language Processing (NLP) that targets arguments: a meaningful logical structure in human language. Since the argument plays a significant role in the legal field, the interdisciplinary study of AM on legal texts has significant promise. For years, a pipeline architecture has been used as the standard paradigm in this area. Although this simplifies the development and management of AM systems, the connection between different parts of the pipeline causes inevitable shortcomings such as cascading error propagation. This paper presents an alternative perspective of the AM task, whereby legal documents are represented as graph structures and the AM task is undertaken as a hybrid approach incorporating Graph Neural Networks (GNNs), graph augmentation and collective classification. GNNs have been demonstrated to be an effective method for representation learning on graphs, and they have been successfully applied to many other NLP tasks. In contrast to previous pipeline-based architecture, our approach results in a single end-to-end classifier for the identification and classification of argumentative text segments. Experiments based on corpora from both the European Court of Human Rights (ECHR) and the Court of Justice of the European Union (CJEU) show that our approach achieves strong results compared to state-of-the-art baselines. Both the graph augmentation and collective classification steps are shown to improve performance on both datasets when compared to using GNNs alone.
-AD  - Univ Coll Dublin, Sch Comp Sci, Dublin, IrelandAD  - Birkbeck Univ London, Dept Comp Sci & Informat Syst, London, EnglandC3  - University College DublinC3  - University of LondonC3  - Birkbeck University LondonPU  - ASSOC COMPUTING MACHINERY
-PI  - NEW YORK
-PA  - 1601 Broadway, 10th Floor, NEW YORK, NY, UNITED STATES
-SN  - 979-8-4007-0197-9
-PY  - 2023
-SP  - 371
-EP  - 380
-DO  - 10.1145/3594536.3595152
-WE  - Conference Proceedings Citation Index - Science (CPCI-S)WE  - Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)AN  - WOS:001139079400039
-N1  - Times Cited in Web of Science Core Collection:  1
-Total Times Cited:  1
-Cited Reference Count:  69
-ER  -
-
-TY  - CPAPER
-AU  - van Drie, RAN
-AU  - de Boer, MHT
-AU  - Bakker, RM
-AU  - Tolios, I
-AU  - Vos, D
-A1  - ACM
-TI  - The Dutch Law as a Semantic Role Labeling Dataset
-T2  - PROCEEDINGS OF THE 19TH INTERNATIONAL CONFERENCE ON ARTIFICIAL INTELLIGENCE AND LAW, ICAIL 2023
-LA  - English
-CP  - 19th International Conference on Artificial Intelligence and Law (ICAIL)
-KW  - datasets
-KW  - semantic role labeling
-KW  - natural language processing
-KW  - legal text
-KW  - legal interpretation
-KW  - norms
-AB  - Legal documents, and specifically law texts, are not easy to understand by humans. The specific terminology and sentence constructions are particular, which also makes it a difficult machine understanding task. In this paper, we present a publicly available benchmark dataset containing Dutch law texts which can be used to train AI models that assist humans equipped with the task of interpreting legal texts. However, the dataset can be used in a broader context, such as semantic role labeling of Dutch (legal) texts. Our dataset contains 4463 annotated sentences from 55 different Dutch laws, in which four roles are annotated by human annotators: action, actor, object and recipient. The inter-annotator agreement is substantial (kappa =0.75). In experiments with a rule-based and a transformer-based method, results show that the transformerbased method performs quite well on the dataset (accuracy > 0.8). These results indicate that we can reliably predict actions, actors, objects and recipients in legal texts. This can help people equipped with the task of formal interpretation of legal texts.
-AD  - TNO, The Hague, NetherlandsAD  - Leiden Univ, Leiden, NetherlandsC3  - Netherlands Organization Applied Science ResearchC3  - Leiden UniversityC3  - Leiden University - Excl LUMCFU  - Governmental Advisory Board on Digital Government (OBDO); Dutch Ministry of the Interior and Kingdom Relations
-FX  - We would like to thank the Governmental Advisory Board on Digital Government (OBDO) and Dutch Ministry of the Interior and Kingdom Relations for financially supporting our research. Additionally, we would like to thank Robert van Doesburg, Jeroen Breteler and Thom van Gessel for their work on the foundations of Flint, Erik Boertjes for his work on the front end of the annotation tool, our colleagues and interns (Edwin, Joris, Shannon, Stevan, Thom and Wouter) for their annotation work in the pilot, and our external annotators for their work in the other annotation rounds.
-PU  - ASSOC COMPUTING MACHINERY
-PI  - NEW YORK
-PA  - 1601 Broadway, 10th Floor, NEW YORK, NY, UNITED STATES
-SN  - 979-8-4007-0197-9
-PY  - 2023
-SP  - 316
-EP  - 322
-DO  - 10.1145/3594536.3595124
-WE  - Conference Proceedings Citation Index - Science (CPCI-S)WE  - Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)AN  - WOS:001139079400033
-N1  - Times Cited in Web of Science Core Collection:  1
-Total Times Cited:  1
-Cited Reference Count:  25
-ER  -
-
-TY  - CPAPER
-AU  - Hillebrand, L
-AU  - Pielka, M
-AU  - Leonhard, D
-AU  - Deusser, T
-AU  - Dilmaghani, T
-AU  - Kliem, B
-AU  - Loitz, R
-AU  - Morad, M
-AU  - Temath, C
-AU  - Bell, T
-AU  - Stenzel, R
-AU  - Sifa, R
-A1  - ACM
-TI  - sustain.AI: a Recommender System to analyze Sustainability Reports
-T2  - PROCEEDINGS OF THE 19TH INTERNATIONAL CONFERENCE ON ARTIFICIAL INTELLIGENCE AND LAW, ICAIL 2023
-LA  - English
-CP  - 19th International Conference on Artificial Intelligence and Law (ICAIL)
-KW  - natural language processing
-KW  - recommender system
-KW  - sustainability
-AB  - We present sustain.AI, an intelligent, context-aware recommender system that assists auditors and financial investors as well as the general public to efficiently analyze companies' sustainability reports. The tool leverages an end-to-end trainable architecture that couples a BERT-based encoding module with a multi-label classification head to match relevant text passages from sustainability reports to their respective law regulations from the Global Reporting Initiative (GRI) standards. We evaluate our model on two novel German sustainability reporting data sets and consistently achieve a significantly higher recommendation performance compared to multiple strong baselines. Furthermore, sustain.AI is publicly available for everyone at https://sustain.ki.nrw/.
-AD  - Fraunhofer IAIS, Bonn, GermanyAD  - PricewaterhouseCoopers GmbH, Dusseldorf, GermanyFU  - Federal Ministry of Education and Research of Germany; state of North-Rhine Westphalia
-FX  - This research has been partially funded by the Federal Ministry of Education and Research of Germany and the state of North-Rhine Westphalia as part of the Lamarr-Institute for Machine Learning and Artificial Intelligence.
-PU  - ASSOC COMPUTING MACHINERY
-PI  - NEW YORK
-PA  - 1601 Broadway, 10th Floor, NEW YORK, NY, UNITED STATES
-SN  - 979-8-4007-0197-9
-PY  - 2023
-SP  - 412
-EP  - 416
-DO  - 10.1145/3594536.3595131
-WE  - Conference Proceedings Citation Index - Science (CPCI-S)WE  - Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)AN  - WOS:001139079400046
-N1  - Times Cited in Web of Science Core Collection:  2
-Total Times Cited:  2
-Cited Reference Count:  16
-ER  -
-
-TY  - CPAPER
-AU  - Mador-Haim, S
-AU  - Hershowitz, A
-ED  - Spanakis, J
-ED  - VanDijck, G
-ED  - Sileno, G
-TI  - Executing United States Bills into Law: A HouseWorking Application in the United States
-T2  - LEGAL KNOWLEDGE AND INFORMATION SYSTEMS
-LA  - English
-CP  - 36th Annual International Conference on Legal Knowledge and Information Systems (JURIX)
-KW  - legislation
-KW  - congress
-KW  - Natural Language Processing
-KW  - Amendment
-AB  - We describe a system to execute U.S. federal bills into law, as part of a working application for the United States House. This system is based on a formal grammar we developed, which achieves greater than 94% accuracy in parsing amendatory phrases in bills; it is in production at the United States House of Representatives and is used to produce official 'Comparative Print' reports showing how a bill would amend current law. The grammar consists of two components: CItation Modeling and Processing Language (CIMPL), which captures citations to current law as they are found in bill amendments, and AMendment Processing Language (AMPL), which includes directive language to amend the text referred to by the CIMPL phrase. Here, we describe the analysis that led to development of the grammar, and provide an overview of how the grammar is applied to execute proposed amendments in the Comparative Print Suite of the U.S. House of Representatives. This application is available to all Members and staff at the internal site, compare.house.gov. Both the executable grammar and the full, point-in-time U.S. law dataset upon which they act, are publicly described here in technical detail for the first time.
-AD  - XCiteDB Llc, Austin, TX 78751 USAAD  - Govable, Palo Alto, CA USAPU  - IOS PRESS
-PI  - AMSTERDAM
-PA  - NIEUWE HEMWEG 6B, 1013 BG AMSTERDAM, NETHERLANDS
-SN  - 0922-6389
-SN  - 1879-8314
-SN  - 978-1-64368-472-7
-SN  - 978-1-64368-473-4
-J9  - FRONT ARTIF INTEL AP
-PY  - 2023
-VL  - 379
-SP  - 237
-EP  - 246
-DO  - 10.3233/FAIA230969
-WE  - Conference Proceedings Citation Index - Science (CPCI-S)WE  - Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)AN  - WOS:001175464100029
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  17
-ER  -
-
-TY  - CPAPER
-AU  - Alves, A
-AU  - Miranda, P
-AU  - Mello, R
-AU  - Nascimento, A
-ED  - Spanakis, J
-ED  - VanDijck, G
-ED  - Sileno, G
-TI  - Automatic Simplification of Legal Texts in Portuguese Using Machine Learning
-T2  - LEGAL KNOWLEDGE AND INFORMATION SYSTEMS
-LA  - English
-CP  - 36th Annual International Conference on Legal Knowledge and Information Systems (JURIX)
-KW  - automatic text simplification
-KW  - machine learning
-KW  - natural language processing
-AB  - Texts produced by the Brazilian judiciary have a complex and technical vocabulary, with elaborate use of the Portuguese language and many legal terms difficult to be understood, generating a barrier in communication between the judiciary and the population. In this sense, the Automatic Text Simplification (ATS), activity of the Natural Language Processing (NLP) area, can be applied to improve the readability of these types of text using specialized algorithms, and promote scalability in simplifying them, in view of the great demand in the courts. In this context, this article presents an evaluation of four methods of state of the art in text simplification, evaluated according to readability metrics, to improve the quality of existing texts in the judicial summaries, dataset containing 100 summaries of the Federal Regional Court of the 5th Region (TRF5) and another 100 of the Federal Supreme Court (STF). The methods MUSS(EN), MUSS(PT), Transformers and NMT + Attention were tested, and the results of the simplifications exceeded the FRE readability index of the original texts, making them more readable.
-AD  - Cesar Sch, Recife, PE, BrazilAD  - Univ Fed Rural Pernambuco, Recife, PE, BrazilC3  - Universidade Federal Rural de Pernambuco (UFRPE)PU  - IOS PRESS
-PI  - AMSTERDAM
-PA  - NIEUWE HEMWEG 6B, 1013 BG AMSTERDAM, NETHERLANDS
-SN  - 0922-6389
-SN  - 1879-8314
-SN  - 978-1-64368-472-7
-SN  - 978-1-64368-473-4
-J9  - FRONT ARTIF INTEL AP
-PY  - 2023
-VL  - 379
-SP  - 281
-EP  - 286
-DO  - 10.3233/FAIA230975
-WE  - Conference Proceedings Citation Index - Science (CPCI-S)WE  - Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)AN  - WOS:001175464100035
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  23
-ER  -
-
-TY  - JOUR
-AU  - Chen, SS
-TI  - THE DAWN OF AI GENERATED CONTENTS: REVISITING COMPULSORY MEDIATION AND IP DISPUTES RESOLUTION
-T2  - CONTEMPORARY ASIA ARBITRATION JOURNAL
-LA  - English
-KW  - artificial intelligence
-KW  - AI
-KW  - machine learning
-KW  - natural language processing
-KW  - intellectual property
-KW  - IP protection
-KW  - IP infringement through AI
-KW  - Alternate dispute resolution
-KW  - compulsory mediation
-KW  - deficiency in law
-KW  - AIgenerated content
-KW  - machine learning data
-AB  - With the popularity of generative artificial intelligence (hereinafter "AI"), current intellectual property laws are being greatly challenged and the established doctrines redefined. As different jurisdictions are in the process of "catching up" to the technology, this paper argues that compulsory mediation, as an alternate dispute resolution, has the potential to address legal uncertainties. The flexible and informal nature of the compulsory mediation process makes a suitable environment for all stakeholders involved, the right owners, the creators, and the users of the AI, to come to an agreement, thus lessening the impact such new invention brings to domestic legal framework. Moreover, by looking into compulsory mediations in Taiwan, the Philippines, and Turkey, this paper hopes to outline key factors for compulsory mediation to properly tackle the subject of intellectual property disputes of AI nature.
-AD  - Natl Taiwan Univ, Dept Law, Taipei, TaiwanAD  - Asian Ctr WTO & Int Hlth Law & Policy, Taipei, TaiwanC3  - National Taiwan UniversityPU  - ASIAN CENTER WTO & INT HEALTH LAW & POLICY, COLL LAW
-PI  - TAIPEI
-PA  - NATL TAIWAN UNIV-ACWH, NO 1, SEC 4, ROOSEVELT RD, TAIPEI, 106, TAIWAN
-SN  - 1999-9747
-J9  - CONTEMP ASIA ARBITAT
-JI  - Contemp. Asia Arbitat. J.
-PY  - 2023
-VL  - 16
-IS  - 2
-SP  - 301
-EP  - 331
-WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001111303600004
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  78
-ER  -
-
-TY  - JOUR
-AU  - Hurka, S
-AU  - Knill, C
-AU  - Steinebach, Y
-TI  - Rules as policy data? Measuring and linking policy substance and legislative context
-T2  - REGULATION & GOVERNANCE
-LA  - English
-KW  - policy accumulation
-KW  - policy change
-KW  - policy complexity
-KW  - political science data
-KW  - NATIONAL CLIMATE POLICIES
-KW  - EUROPEAN-UNION
-KW  - COMPLEXITY
-KW  - LAW
-KW  - POLITICS
-KW  - EXPANSION
-KW  - EVOLUTION
-KW  - OUTPUTS
-KW  - STATES
-AB  - There is growing scholarly interest in analyzing changes in policies, laws, and regulations. Some concepts depart from the goal of identifying changes in policy substance. Other contributions have concentrated on the structural characteristics of laws and regulations containing these substantive changes. Extracting measures of policy substance from legislative texts is a challenging and time-consuming endeavor as it requires the manual assessment and coding of legal acts. The assessment of the structural characteristics of laws and regulations, by contrast, can be done applying automated natural language processing. An important critical question is, thus, whether we can combine these approaches and simplify the information extraction by inferring changes in the policy substance from the legislative context in which these changes are embedded. Examining more than 100 legal acts in the area of EU environmental and climate policy, we find that the measures capturing policy substance and the structural characteristics of legal acts context are not systematically linked. In other words: changes in the structural features of legal acts cannot be used as an approximation for changes in policy substance. We conclude by sketching out a research agenda when (and when not) to use the different concepts and related measurements.
-AD  - Ludwig Maximilians Univ Munchen, Geschwister Scholl Inst Polit Sci, Munich, GermanyAD  - Univ Oslo UiO, Oslo, NorwayAD  - Univ Oslo UiO, POB 1097,Blindern, N-0317 Oslo, NorwayC3  - University of MunichC3  - University of OsloFU  - EUPLEX (Deutsche Forschungsgemeinschaft (DFG, German Research Foundation)); ACCUPOL (ERC) [407514878];  [788941]
-FX  - This study was conducted as part of the ACCUPOL (ERC Advanced Grant No. 788941) and the EUPLEX (funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) - 407514878) research projects. We thank Laura Lindner for her great data collection and coding efforts. Open Access funding enabled and organized by Projekt DEAL.
-PU  - WILEY
-PI  - HOBOKEN
-PA  - 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
-SN  - 1748-5983
-SN  - 1748-5991
-J9  - REGUL GOV
-JI  - Regul. Gov.
-DA  - JUL
-PY  - 2024
-VL  - 18
-IS  - 3
-SP  - 724
-EP  - 739
-DO  - 10.1111/rego.12528
-C6  - MAY 2023
-WE  - Social Science Citation Index (SSCI)AN  - WOS:000984792200001
-N1  - Times Cited in Web of Science Core Collection:  4
-Total Times Cited:  4
-Cited Reference Count:  62
-ER  -
-
-TY  - JOUR
-AU  - Watson, J
-AU  - Aglionby, G
-AU  - March, S
-TI  - Using machine learning to create a repository of judgments concerning a new practice area: a case study in animal protection law
-T2  - ARTIFICIAL INTELLIGENCE AND LAW
-LA  - English
-KW  - Machine learning
-KW  - Court judgments
-KW  - Document classification
-KW  - TF-IDF
-KW  - Support vector machine
-AB  - Judgments concerning animals have arisen across a variety of established practice areas. There is, however, no publicly available repository of judgments concerning the emerging practice area of animal protection law. This has hindered the identification of individual animal protection law judgments and comprehension of the scale of animal protection law made by courts. Thus, we detail the creation of an initial animal protection law repository using natural language processing and machine learning techniques. This involved domain expert classification of 500 judgments according to whether or not they were concerned with animal protection law. 400 of these judgments were used to train various models, each of which was used to predict the classification of the remaining 100 judgments. The predictions of each model were superior to a baseline measure intended to mimic current searching practice, with the best performing model being a support vector machine (SVM) approach that classified judgments according to term frequency-inverse document frequency (TF-IDF) values. Investigation of this model consisted of considering its most influential features and conducting an error analysis of all incorrectly predicted judgments. This showed the features indicative of animal protection law judgments to include terms such as 'welfare', 'hunt' and 'cull', and that incorrectly predicted judgments were often deemed marginal decisions by the domain expert. The TF-IDF SVM was then used to classify non-labelled judgments, resulting in an initial animal protection law repository. Inspection of this repository suggested that there were 175 animal protection judgments between January 2000 and December 2020 from the Privy Council, House of Lords, Supreme Court and upper England and Wales courts.
-AD  - Univ Cambridge, Psychometr Ctr, Judge Business Sch, Cambridge, EnglandAD  - Univ Cambridge, Dept Comp Sci & Technol, Cambridge, EnglandAD  - Advocates Anim, London, EnglandC3  - University of CambridgeC3  - University of CambridgePU  - SPRINGER
-PI  - DORDRECHT
-PA  - VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
-SN  - 0924-8463
-SN  - 1572-8382
-J9  - ARTIF INTELL LAW
-JI  - Artif. Intell. Law
-DA  - JUN
-PY  - 2023
-VL  - 31
-IS  - 2
-SP  - 293
-EP  - 324
-DO  - 10.1007/s10506-022-09313-y
-C6  - MAY 2022
-WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:000792091600001
-N1  - Times Cited in Web of Science Core Collection:  2
-Total Times Cited:  2
-Cited Reference Count:  63
-ER  -
-
-TY  - JOUR
-AU  - Keydar, R
-AU  - Shikhelman, V
-AU  - Broude, T
-AU  - Elkobi, J
-TI  - The Discursive Evolution of Human Rights Law: Empirical Insights from a Computational Analysis of 180,000 UN Recommendations
-T2  - HUMAN RIGHTS LAW REVIEW
-LA  - English
-KW  - United Nations human rights bodies
-KW  - human rights
-KW  - natural language processing
-KW  - human rights proliferation
-KW  - international human rights institutions
-KW  - structural critique of the United Nations
-KW  - INTERNATIONAL HUMAN-RIGHTS
-KW  - INTERSECTIONALITY
-KW  - GOVERNMENT
-KW  - TESTIMONY
-AB  - Building on an independent database of 180,000 UN recommendations and a novel computational method, we present the most comprehensive study of human rights (HR) debates to date. We develop a unique empirical model that measures topical density of discourse. This innovative instrument measures the discursive activity of UN HR bodies through a machine-learning textual analysis of their outputs, offering a dynamic map of evolving trends in human rights, both over time (diachronically) and across different mechanisms (synchronically) within the UN HR ecosystem. Leveraging this comprehensive dataset and sophisticated computational methodologies, we identify which protected groups are central to different mechanisms' attention and highlight the major human rights issues that have witnessed significant changes in attention. Our research presents significant findings on the density of UN HR discourse and its implications for two major debates in the field of HR law-HR proliferation and the structural critique of UN HR bodies.
-AD  - Hebrew Univ Jerusalem, Law & Digital Humanities, Jerusalem, IsraelAD  - Hebrew Univ Jerusalem, Fac Law, Jerusalem, IsraelAD  - Hebrew Univ Jerusalem, Fac Law, Publ & Int Law, Jerusalem, IsraelAD  - Hebrew Univ Jerusalem, Dept Int Relat, Jerusalem, IsraelAD  - Hebrew Univ Jerusalem, Business Adm & East Asian Studies, Jerusalem, IsraelC3  - Hebrew University of JerusalemC3  - Hebrew University of JerusalemC3  - Hebrew University of JerusalemC3  - Hebrew University of JerusalemC3  - Hebrew University of JerusalemFX  - The authors would like to thank Helmut Aust, Michael Livermore, Sergio Puig, Yuval Shany, Yahli Shereshevsky, Joseph Weiler, the participants of the KFG and FUELS Workshop at the Freie Universitat Berlin, and the Online Workshop on the Computational Analysis of Law (OWCAL). All views expressed here, as well as any errors are, of course, only our own.
-PU  - OXFORD UNIV PRESS
-PI  - OXFORD
-PA  - GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
-SN  - 1461-7781
-SN  - 1744-1021
-J9  - HUM RIGHTS LAW REV
-JI  - Hum. Rights Law Rev.
-DA  - SEP 3
-PY  - 2024
-VL  - 24
-IS  - 4
-C7  - ngae021
-DO  - 10.1093/hrlr/ngae021
-WE  - Social Science Citation Index (SSCI)AN  - WOS:001304005400001
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  60
-ER  -
-
-TY  - CPAPER
-AU  - Haim, A
-A1  - ACM
-TI  - Binding Language in Administrative Guidance Documents
-T2  - PROCEEDINGS OF THE 19TH INTERNATIONAL CONFERENCE ON ARTIFICIAL INTELLIGENCE AND LAW, ICAIL 2023
-LA  - English
-CP  - 19th International Conference on Artificial Intelligence and Law (ICAIL)
-KW  - natural language processing
-KW  - administrative law
-KW  - guidance
-KW  - rules
-KW  - regulation
-KW  - RULEMAKING
-AB  - Do regulatory guidance documents use binding language despite being purportedly non-binding? Regulatory agencies play a crucial role in modern societies by issuing regulations. While most regulations are promulgated as rules with public notice and comment procedures, administrative guidance documents are as abundant but less studied. They have less formal requirements and are meant as non-binding guidelines, yet skeptics argue they are often used to evade judicial review, and courts turn to their text to inquire whether they are effectively binding. Recent advancements in text analysis methods have allowed scholars to analyze regulatory text, including the measurement of binding language. However, guidance documents have not been part of this trend, largely due to their inaccessibility. This article contributes to the field of empirical legal studies and administrative law by constructing a novel dataset of guidance documents, leveraging a unique policy change. It uses text analysis methods with qualitative insights from doctrinal court decisions, and finds that guidance documents are in fact less binding than rules, but that binding language increased over time and that substantial portions of available documents score higher than a document struck down by a court.
-AD  - Stanford Law Sch, Stanford, CA 94305 USAC3  - Stanford UniversityPU  - ASSOC COMPUTING MACHINERY
-PI  - NEW YORK
-PA  - 1601 Broadway, 10th Floor, NEW YORK, NY, UNITED STATES
-SN  - 979-8-4007-0197-9
-PY  - 2023
-SP  - 407
-EP  - 411
-DO  - 10.1145/3594536.3595127
-WE  - Conference Proceedings Citation Index - Science (CPCI-S)WE  - Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)AN  - WOS:001139079400045
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  22
-ER  -
-
-TY  - JOUR
-AU  - Castano, S
-AU  - Ferrara, A
-AU  - Furiosi, E
-AU  - Montanelli, S
-AU  - Picascia, S
-AU  - Riva, D
-AU  - Stefanetti, C
-TI  - Enforcing legal information extraction through context-aware techniques: The ASKE approach
-T2  - COMPUTER LAW & SECURITY REVIEW
-LA  - English
-KW  - Legal knowledge extraction
-KW  - Natural Language Processing
-KW  - Legal knowledge graph
-KW  - Digital justice
-AB  - To cope with the growing volume, complexity, and articulation of legal documents as well as to foster digital justice and digital law, increasing effort is being devoted to legal knowledge extraction and digital transformation processes. In this paper, we present the ASKE (Automated System for Knowledge Extraction) approach to legal knowledge extraction, based on a combination of context-aware embedding models and zero-shot learning techniques into a three-phase extraction cycle, which is executed a number of times (called generations) to progressively extract concepts representative of the different meanings of terminology used in legal documents chunks. A graph-based data structure called ASKE Conceptual Graph is initially populated through a data preparation step, and it is continuously enriched at each ASKE generation with results of document chunk classification, new extracted terminology, and newly derived concepts. A quantitative evaluation of ASKE knowledge extraction and document classification is provided by considering the EurLex dataset. Furthermore, we present the results of applying ASKE to a real case-study of Italian case law decisions with qualitative feedback from legal experts in the framework of an ongoing national research project.
-AD  - Univ Milan, Dept Comp Sci, Via Celoria, I-20133 Milan 18, ItalyAD  - IUSS Ist Univ Super Pavia, Piazza Vittoria 15, I-27100 Pavia, ItalyAD  - Univ Milan, Dept Italian & Supranatl Publ Law, Via Festa del Perdono, I-20122 Milan, ItalyC3  - University of MilanC3  - IUSS PAVIAC3  - University of MilanFU  - Next Generation UPP project within the PON programme of the Italian Ministry of Justice; EU-NextGenerationEU [PE00000014]
-FX  - This work is partially supported by the Next Generation UPP project within the PON programme of the Italian Ministry of Justice and by project SERICS (PE00000014) under the MUR NRRP funded by the EU-NextGenerationEU.
-PU  - ELSEVIER ADVANCED TECHNOLOGY
-PI  - OXFORD
-PA  - OXFORD FULFILLMENT CENTRE THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
-SN  - 0267-3649
-J9  - COMPUT LAW SECUR REV
-JI  - Comput. Law Secur. Rev.
-DA  - APR
-PY  - 2024
-VL  - 52
-C7  - 105903
-DO  - 10.1016/j.clsr.2023.105903
-C6  - OCT 2023
-WE  - Social Science Citation Index (SSCI)AN  - WOS:001096933600001
-N1  - Times Cited in Web of Science Core Collection:  2
-Total Times Cited:  2
-Cited Reference Count:  44
-ER  -
-
-TY  - JOUR
-AU  - Helland, E
-AU  - Vojta, G
-TI  - Legal Outcomes and Home-Court Advantage: Evidence from the Securities and Exchange Commission's Shift to Administrative Courts
-T2  - JOURNAL OF LAW & ECONOMICS
-LA  - English
-AB  - Administrative law judges' (ALJs') relative lack of formal independence has engendered worries that they give agencies a home-court advantage. We examine the 2010 Dodd-Frank Act, which allowed the Securities and Exchange Commission (SEC) to move cases into its administrative court. The problem with this policy experiment is that the SEC retains the discretion to bring cases in federal court, so it is impossible to identify which cases the policy treats. We propose a difference-in-differences design, using natural-language-processing methods to create control and treatment groups. We construct propensity scores using random-forest methods. After binning cases into likely or not likely to be affected by the courts' expansion, the difference-in-differences estimation indicates that the expansion made defendants 30 percentage points more likely to settle and 36 percentage points more likely to receive a nonmonetary penalty. There is a 24-percentage-point reduction in the likelihood of a monetary penalty.
-AD  - Claremont McKenna Coll, Claremont, CA 91711 USAAD  - Univ Chicago, Chicago, IL USAC3  - Claremont CollegesC3  - Claremont Graduate SchoolC3  - Claremont McKenna CollegeC3  - University of ChicagoPU  - UNIV CHICAGO PRESS
-PI  - CHICAGO
-PA  - 1427 E 60TH ST, CHICAGO, IL 60637-2954 USA
-SN  - 0022-2186
-SN  - 1537-5285
-J9  - J LAW ECON
-JI  - J. Law Econ.
-DA  - NOV 1
-PY  - 2023
-VL  - 66
-IS  - 4
-SP  - 797
-EP  - 835
-DO  - 10.1086/725413
-WE  - Social Science Citation Index (SSCI)AN  - WOS:001158856800003
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  29
-ER  -
-
-TY  - CPAPER
-AU  - Blair-Stanek, A
-AU  - Holzenberger, N
-AU  - Van Durme, B
-A1  - ACM
-TI  - Can GPT-3 Perform Statutory Reasoning?
-T2  - PROCEEDINGS OF THE 19TH INTERNATIONAL CONFERENCE ON ARTIFICIAL INTELLIGENCE AND LAW, ICAIL 2023
-LA  - English
-CP  - 19th International Conference on Artificial Intelligence and Law (ICAIL)
-KW  - natural language processing
-KW  - reasoning
-KW  - law
-KW  - statutes
-KW  - GPT-3
-AB  - Statutory reasoning is the task of reasoning with facts and statutes, which are rules written in natural language by a legislature. It is a basic legal skill. In this paper we explore the capabilities of the most capable GPT-3 model, text-davinci-003, on an established statutory-reasoning dataset called SARA. We consider a variety of approaches, including dynamic few-shot prompting, chain-of-thought prompting, and zero-shot prompting. While we achieve results with GPT-3 that are better than the previous best published results, we also identify several types of clear errors it makes. We investigate why these errors happen. We discover that GPT-3 has imperfect prior knowledge of the actual U.S. statutes on which SARA is based. More importantly, we create simple synthetic statutes, which GPT-3 is guaranteed not to have seen during training. We find GPT-3 performs poorly at answering straightforward questions about these simple synthetic statutes.
-AD  - Univ Maryland, Sch Law, Baltimore, MD 21201 USAAD  - Inst Polytech Paris, Palaiseau, FranceAD  - Johns Hopkins Univ, Baltimore, MD USAC3  - University System of MarylandC3  - University of Maryland BaltimoreC3  - Institut Polytechnique de ParisC3  - Johns Hopkins UniversityFU  - U.S. National Science Foundation [2204926]
-FX  - This work has been supported by the U.S. National Science Foundation under grant No. 2204926. Any opinions, findings, and conclusions or recommendations expressed in this article are those of the authors and do not necessarily reflect the views of the National Science Foundation.
-PU  - ASSOC COMPUTING MACHINERY
-PI  - NEW YORK
-PA  - 1601 Broadway, 10th Floor, NEW YORK, NY, UNITED STATES
-SN  - 979-8-4007-0197-9
-PY  - 2023
-SP  - 22
-EP  - 31
-DO  - 10.1145/3594536.3595163
-WE  - Conference Proceedings Citation Index - Science (CPCI-S)WE  - Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)AN  - WOS:001139079400003
-N1  - Times Cited in Web of Science Core Collection:  3
-Total Times Cited:  3
-Cited Reference Count:  27
-ER  -
-
-TY  - JOUR
-AU  - Adler, RF
-AU  - Paley, A
-AU  - Zhao, ADLL
-AU  - Pack, H
-AU  - Servantez, S
-AU  - Pah, AR
-AU  - Hammond, K
-A1  - SCALES OKN Consortium
-TI  - A user-centered approach to developing an AI system analyzing US federal court data
-T2  - ARTIFICIAL INTELLIGENCE AND LAW
-LA  - English
-KW  - User-centered design
-KW  - Notebook interface
-KW  - Data analytics
-KW  - Natural language processing
-KW  - Visualization
-KW  - BIG DATA
-KW  - USABILITY
-KW  - ANALYTICS
-KW  - SCIENCE
-KW  - FUTURE
-KW  - DESIGN
-AB  - We implemented a user-centered approach to the design of an artificial intelligence (AI) system that provides users with access to information about the workings of the United States federal court system regardless of their technical background. Presently, most of the records associated with the federal judiciary are provided through a federal system that does not support exploration aimed at discovering systematic patterns about court activities. In addition, many users lack the data analytical skills necessary to conduct their own analyses and convert data into information. We conducted interviews, observations, and surveys to uncover the needs of our users and discuss the development of an intuitive platform informed from these needs that makes it possible for legal scholars, lawyers, and journalists to discover answers to more advanced questions about the federal court system. We report on results from usability testing and discuss design implications for AI and law practitioners and researchers.
-AD  - Northwestern Univ, Evanston, IL 60208 USAAD  - NE Illinois Univ, Chicago, IL 60625 USAC3  - Northwestern UniversityC3  - Northeastern Illinois UniversityFU  - National Science Foundation Convergence Accelerator Program [1937123, 2033604]; Dir for Tech, Innovation, & Partnerships; Innovation and Technology Ecosystems [2033604] Funding Source: National Science Foundation; Office of Integrative Activities; Office Of The Director [1937123] Funding Source: National Science Foundation
-FX  - This material is based upon work supported by the National Science Foundation Convergence Accelerator Program under grant no. 1937123 and grant no. 2033604.
-PU  - SPRINGER
-PI  - DORDRECHT
-PA  - VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
-SN  - 0924-8463
-SN  - 1572-8382
-J9  - ARTIF INTELL LAW
-JI  - Artif. Intell. Law
-DA  - SEP
-PY  - 2023
-VL  - 31
-IS  - 3
-SP  - 547
-EP  - 570
-DO  - 10.1007/s10506-022-09320-z
-C6  - AUG 2022
-WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:000834707300001
-N1  - Times Cited in Web of Science Core Collection:  2
-Total Times Cited:  2
-Cited Reference Count:  64
-ER  -
-
-TY  - JOUR
-AU  - Hueso, LC
-TI  - ARTIFICIAL INTELLIGENCE, LANGUAGE TECHNOLOGIES AND RESOURCES: POLICIES AND LEGISLATION FOR THE USE OF CORPORA AND DATABASES
-T2  - REVISTA DE LLENGUA I DRET-JOURNAL OF LANGUAGE AND LAW
-LA  - English
-KW  - artificial intelligence
-KW  - language technologies
-KW  - language databases
-KW  - intellectual property
-KW  - law
-AB  - Automatic natural language processing and, in particular, machine translation offer an enormous potential for Spanish and other languages spoken in Spain. For the last decade, public authorities have set policy objectives in artificial intelligence (AI) and languages, which are now endowed with over 1.1 billion euros in the Strategic Projectsfor Economic Recovery and Transformation (PERTE) "New Language Economy". A key factor is the (public) generation of infrastructures, resources, databases and, above all, language corpora that feed AI and other language technologies developed particularly by the private sector. EU Law tends towards flexibility and open use of these language resources. However, under intellectual property and data reuse regulations, there is no obligation to open these resources and make them available. On the other hand, the developers have the sui generis right to not allow data mining or other processing without their authorisation. Regulation is criticised for being insufficient. Given this situation, it is essential to choose permissive licences, such as those of the Meta-Share ecosystem, which has potential for extrapolation to Spanish corpora. Lastly, the key elements for planning and adopting models for language resource use and sustainability in Spain are discussed.
-AD  - Univ Valencia, Derecho Constituc, Valencia, SpainC3  - University of ValenciaPU  - ESCOLA ADM PUBLICA CATALUNYA
-PI  - BARCELONA
-PA  - C GIRONA, 20, BARCELONA, 08010, SPAIN
-SN  - 0212-5056
-SN  - 2013-1453
-J9  - REV LLENG DRET
-JI  - Rev. Lleng. Dret
-DA  - JUN
-PY  - 2023
-IS  - 79
-SP  - 61
-EP  - 77
-DO  - 10.58992/rld.i79.2023.3860
-WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001024054800005
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  39
-ER  -
-
-TY  - JOUR
-AU  - Ghodoosi, F
-TI  - CONTRACTING RISKS
-T2  - UNIVERSITY OF ILLINOIS LAW REVIEW
-LA  - English
-KW  - PROMISSORY ESTOPPEL
-KW  - INCOMPLETE CONTRACTS
-KW  - ECONOMIC-THEORY
-KW  - FRUSTRATION
-KW  - DOCTRINE
-KW  - CONSENT
-KW  - RULES
-KW  - OFFER
-KW  - LAW
-AB  - Contracts serve an important function: allocation of risks. In achieving this function, contractual parties routinely include a force majeure clause in their contracts to be excused from performance in the face of a supervening event. But how do force majeure clauses allocate risks? This Article breaks down this inquiry into three interrelated questions: (i) why do parties include force majeure clauses considering the robust common law excuse doctrines such as impossibility? (ii) How have courts historically approached force majeure clauses? And (iii) what serves as the most equitable and efficient framework for the risk-allocative function of force majeure clauses? This Article's fresh look at force majeure clauses will inform courts' approach to a slew of claims arising out of Covid-19 disruptions and future shocks.
-   Using empirical methods (including machine learning and natural language processing) and doctrinal analysis, this Article makes the following contributions: First, based on empirical analysis of force majeure clauses and behavioral economics, it argues that parties primarily do away with common law's basic assumption (ex ante) requirement in their force majeure clauses to focus instead on ex post analysis. Second, 'using computational methods on force majeure cases since 1810, it shows that the control factor (as opposed to foreseeability, parties' intent, and contractual language) has been the leading factor in courts' decisions. Third, the Article normatively suggests an overhaul shift towards a proportional ex post analysis of force majeure clauses which allocates risks pursuant to promisor's measures to control the effects of the supervening event and promisee's degree of reliance on contractual promises.
-AD  - Calif State Univ Northridge, David Nazarian Coll Business & Econ, Dept Business Law, Northridge, CA 91330 USAC3  - California State University SystemC3  - California State University NorthridgePU  - UNIV ILLINOIS
-PI  - CHAMPAIGN
-PA  - COLLEGE OF LAW-76 LAW BLDG 504 E PENNSYLVANIA AVE, CHAMPAIGN, IL 61820 USA
-SN  - 0276-9948
-SN  - 1942-9231
-J9  - U ILLINOIS LAW REV
-JI  - Univ. Ill. Law Rev.
-PY  - 2022
-IS  - 2
-SP  - 805
-EP  - 860
-WE  - Social Science Citation Index (SSCI)AN  - WOS:000784260700006
-N1  - Times Cited in Web of Science Core Collection:  5
-Total Times Cited:  5
-Cited Reference Count:  151
-ER  -
-
-TY  - JOUR
-AU  - Rehaag, S
-TI  - Luck of the Draw III: Using AI to Extract Data About Decision-Making in Federal Court Stays of Removal
-T2  - QUEENS LAW JOURNAL
-LA  - English
-KW  - REFUGEE DETERMINATIONS
-AB  - This article examines decision-making in Federal Court of Canada immigration law applications for stays of removal, focusing on how the rates at which stays are granted depend on which justice decides the case. The article deploys a form of computational natural language processing, using a large-language model machine learning process (GPT-3) to extract data from online Federal Court dockets. The article reviews patterns in outcomes in thousands of stay of removal applications identified through this process and reveals a wide range in stay grant rates across many justices. The article argues that the Federal Court should take measures to encourage more consistency in stay decision-making and cautions against relying heavily on stays of removal to ensure that deportation complies with constitutional procedural justice protections. The article is also a demonstration of how machine learning can be used to pursue empirical legal research projects that would have been cost prohibitive or technically challenging only a few years ago-and shows how technology that is increasingly used to enhance the power of the state at the expense of marginalized migrants can instead be used to scrutinize legal decision-making in the immigration law field, hopefully in ways that enhance the rights of migrants. The article also contributes to the broader field of computational legal research in Canada by making available to other non-commercial researchers the code used for the project, as well as a dataset of several thousand Federal Court dockets that can be used for future research.
-AD  - York Univ, Osgoode Hall Law Sch, Toronto, ON, CanadaC3  - York University - CanadaPU  - QUEENS UNIV, FAC LAW
-PI  - KINGSTON
-PA  - KINGSTON, ONTARIO K7L 3N6, CANADA
-SN  - 0316-778X
-J9  - QUEENS LAW J
-JI  - Queens Law J.
-DA  - SPR
-PY  - 2024
-VL  - 49
-IS  - 2
-SP  - 73
-EP  - 126
-WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001245221700003
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  83
-ER  -
-
-TY  - JOUR
-AU  - Kretschmer, M
-AU  - Margoni, T
-AU  - Oruç, P
-TI  - Copyright Law and the Lifecycle of Machine Learning Models
-T2  - IIC-INTERNATIONAL REVIEW OF INTELLECTUAL PROPERTY AND COMPETITION LAW
-LA  - English
-KW  - Copyright
-KW  - Artificial intelligence
-KW  - Text mining
-KW  - Data mining
-KW  - EU
-KW  - Digital single market
-KW  - TEXT
-AB  - Machine learning, a subfield of artificial intelligence (AI), relies on large corpora of data as input for learning algorithms, resulting in trained models that can perform a variety of tasks. While data or information are not subject matter within copyright law, almost all materials used to construct corpora for machine learning are protected by copyright law: texts, images, videos, and so on. There are global policy moves to address the copyright implications of machine learning, in particular in the context of so-called "foundation models" that underpin generative AI. This paper takes a step back, exploring empirically three technological settings through detailed case studies. We set out the established industry methodology of a lifecycle of AI (collecting data, organising data, model training, model operation) to arrive at descriptions suitable for legal analysis. This will allow an assessment of the challenges for a harmonisation of rights, exceptions and disclosure under EU copyright law. The three case studies are:Machine learning for scientific purposes, in the context of a study of regional short-term letting markets;Natural Language Processing (NLP), in the context of large language models;Computer vision, in the context of content moderation of images.We find that the nature and quality of data corpora at the input stage is central to the lifecycle of machine learning. Because of the uncertain legal status of data collection and processing, combined with the competitive advantage gained by firms not disclosing technological advances, the inputs of the models deployed are often unknown. Moreover, the "lawful access" requirement of the EU exception for text and data mining may turn the exception into a decision by rightholders to allow machine learning in the context of their decision to allow access. We assess policy interventions at EU level, seeking to clarify the legal status of input data via copyright exceptions, opt-outs or the forced disclosure of copyright materials. We find that the likely result is a fully copyright-licensed environment of machine learning that may have problematic effects for the structure of industry, innovation and scientific research.
-AD  - Univ Glasgow, Sch Law, Intellectual Property Law, Glasgow, ScotlandAD  - CREATe UK Copyright & Creat Econ Ctr, Glasgow, ScotlandAD  - Univ Leuven KU Leuven, Ctr IT & IP Law CiTiP, Intellectual Property Law, Fac Law & Criminol, Leuven, BelgiumAD  - Univ Manchester, Commercial Law, Manchester, EnglandC3  - University of GlasgowC3  - KU LeuvenC3  - University of ManchesterFU  - European Union [870626870626]; Urban Big Data Centre [ES/L011921/1]; CREATe, University of Glasgow
-FX  - The research was funded by the European Union's Horizon 2020 research and innovation programme under grant agreement No. 870626870626 (reCreating Europe: Rethinking digital copyright law for aculturally diverse, accessible, creative Europe). Case study 1 was developed with ESRC support for the Urban Big Data Centre (ES/L011921/1). Pinar Oruc prepared a first draft of the case studies as a postdoctoral researcher at CREATe, University of Glasgow.
-PU  - SPRINGER HEIDELBERG
-PI  - HEIDELBERG
-PA  - TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
-SN  - 0018-9855
-SN  - 2195-0237
-J9  - IIC-INT REV INTELL P
-JI  - Int. Rev. Intellect. Prop. Compet. Law
-DA  - JAN
-PY  - 2024
-VL  - 55
-IS  - 1
-SP  - 110
-EP  - 138
-DO  - 10.1007/s40319-023-01419-3
-C6  - FEB 2024
-WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001155789200001
-N1  - Times Cited in Web of Science Core Collection:  3
-Total Times Cited:  3
-Cited Reference Count:  77
-ER  -
-
-TY  - JOUR
-AU  - Ravid, I
-AU  - Dror, R
-TI  - 140 CHARACTERS OF JUSTICE? THE PROMISE AND PERILS OF USING SOCIAL MEDIA TO REVEAL LAY PUNISHMENT PERSPECTIVES
-T2  - UNIVERSITY OF ILLINOIS LAW REVIEW
-LA  - English
-KW  - EXPRESSIVE FUNCTION
-KW  - PUBLIC-OPINION
-KW  - FACEBOOK
-KW  - DESERTS
-KW  - MOTIVES
-KW  - UTILITY
-KW  - VIEWS
-AB  - For centuries, penal theorists have debated two key criminal justice questions: justifying state punishment power and determining proper pun-ishment levels. Moral philosophers offered several theories to address these questions. Over time, calls emerged to move beyond theories and to con-sider community views on punishment rationales in criminal law and policy design, an approach that gained support alongside meaningful critique. Concurrently, social science advancements enabled empirically deepening understanding of public attitudes about punishment, largely through sur-veys and experiments. One domain, however, remained untouched by those calling to assess lay intuitions of justice: social media. Such oversight is puzzling in light of social media's potential to reveal public perceptions without scientific in-tervention. This Article thus engages with two main questions. First, a methodological question: whether social media discourse can be used to reflect laypeople's attitudes about criminal culpability and punishment, and second, a normative question: should it be used for these purposes? To answer these questions, the Article first synthesizes current schol-arship about the promises and challenges of using social media data to study human behavior and applies it to the context of punishment justifica-tions. The Article moves beyond theory, however, and utilizes recent tech-nological developments in the field of Artificial Intelligence ("AI") and Law and Natural Language Processing ("NLP") to offer a novel empirical exploration of the potential promise of social media discourse in assessing community views on justice and punishment. While our findings offer some support for the potentiality of using so-cial media to assess laypeople's attitudes regarding punishment, we also expose the complex challenges of utilizing such data, particularly for penal law and policy design. First, due to a host of methodological challenges, and second, due to normative challenges, particularly social media's po-larizing nature and the ambiguity around who's voice is amplified through these platforms. The Article thus urges caution when leveraging social me-dia to evaluate the public's perceptions of justice.
-AD  - Villanova Univ, Charles Widger Sch Law, Law, Villanova, PA 19085 USAAD  - Univ Penn, Dept Comp & Informat Sci, Philadelphia, PA USAC3  - Villanova UniversityC3  - University of PennsylvaniaPU  - UNIV ILLINOIS
-PI  - CHAMPAIGN
-PA  - COLLEGE OF LAW-76 LAW BLDG 504 E PENNSYLVANIA AVE, CHAMPAIGN, IL 61820 USA
-SN  - 0276-9948
-SN  - 1942-9231
-J9  - U ILLINOIS LAW REV
-JI  - Univ. Ill. Law Rev.
-PY  - 2023
-IS  - 5
-SP  - 1473
-EP  - 1532
-WE  - Social Science Citation Index (SSCI)AN  - WOS:001097478400002
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  129
-ER  -
-
-TY  - JOUR
-AU  - Naik, V
-AU  - Rajeswari, K
-AU  - Patel, P
-TI  - Enhancing Semantic Searching of Legal Documents Through LSTM-Based Named Entity Recognition and Semantic Classification
-T2  - INTERNATIONAL JOURNAL FOR THE SEMIOTICS OF LAW-REVUE INTERNATIONALE DE SEMIOTIQUE JURIDIQUE
-LA  - English
-KW  - Name Entity Recognition(NER)
-KW  - Long Short Term Memory(LSTM)
-KW  - Legal judgement
-KW  - Law
-KW  - INFORMATION
-AB  - In natural language processing (NLP), named entity recognition (NER) and semantic classification are essential tasks. NER is a fundamental task, that identify named entities in text such as people, organizations, and locations. In Legal domain, NER is particularly important due to the variety of named entities that appear in legal documents and are important for legal analysis whereas Semantic classification is the process of giving each sentence in a text a semantic label, such as "fact,""arguments," or"judgement". Both NER and Semantic classi- fication are critical component of many NLP applications such as Knowledge base construction and semantic search. Semantic searching of legal documents is a powerful technique that can be used to quickly find the information that you need. By combining NER and semantic classification, one can identify the key elements of a legal document and search for documents that are related to a particular topic or contain a particular type of information. This paper proposes a novel approach to NER and Semantic classification in legal domain using Long short-term memory (LSTM) model. The proposed approach is evaluated on a corpus of legal text and the result of this study suggest that LSTM models are a promising approach for NER and Semantic classification in legal domain and can be used to improve the performance of semantic searching of legal documents.
-AD  - Pimpri Chinchwad Coll Engn, Pune, Maharashtra, IndiaAD  - Dr Vishwanath Karad MIT World Peace Univ, Pune, Maharashtra, IndiaC3  - Dr. Vishwanath Karad MIT World Peace UniversityPU  - SPRINGER
-PI  - DORDRECHT
-PA  - VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
-SN  - 0952-8059
-SN  - 1572-8722
-J9  - INT J SEMIOTIC LAW
-JI  - Int. J. Semiotics Law
-DA  - 2024 APR 27
-PY  - 2024
-DO  - 10.1007/s11196-024-10157-9
-C6  - APR 2024
-WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001208833500001
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  25
-ER  -
-
-TY  - JOUR
-AU  - Izarova, I
-AU  - Uhrynovska, O
-AU  - Khotynska-Nor, O
-AU  - Prytyka, Y
-AU  - Bedyukh, O
-AU  - Alendar, Y
-TI  - ADVANCING SUSTAINABLE JUSTICE THROUGH AI-BASED CASE LAW ANALYSIS: UKRAINIAN EXPERIENCE
-T2  - ACCESS TO JUSTICE IN EASTERN EUROPE
-LA  - English
-KW  - artificial intelligence
-KW  - judicial system
-KW  - legal proceedings
-KW  - civil procedure
-KW  - court decisions
-KW  - e-justice
-KW  - judicial reform
-KW  - analysis of large data sets
-KW  - judicial statistics
-AB  - Background: Ukraine has a unique Unified State Register of Court Decisions that publishes all court decisions in cases considered and resolved by courts in the public domain. There are more than one hundred million such documents in the register today. This provides unique opportunities for collecting, analysing, and summarising the empirical base of justice. This has the potential to form the basis for further transformation of the national model of justice. This study's impetus may have risen from the realisation that relying solely on human resources for such endeavours may present challenges.Methods: The study is based on the hypothesis that using hardware and software to analyse large data sets of state registers of court decisions and judicial statistics data can identify persistent patterns and causes of inefficient functioning of the judicial system.Results and Conclusions: The study led to the development of software with functionality that annotates court decision text, intended for further use in advanced Natural Language Processing algorithms. Furthermore, the study underscores the need to develop an algorithm for predicting risks and outcomes of court proceedings and a methodology for processing large amounts of data from the Unified State Register of Court Decisions. This is justified based on specific indicators of the effectiveness of dispute resolution. This article advocates for the use of machine learning algorithms as an innovative tool to generalise large data sets from court decision registers, particularly to obtain objective data on a large scale. The article also examines the prerequisites for establishing the Institute of National Judicial Practice and explores its functioning in the present stage of judicial reform.
-AD  - Taras Shevchenko Natl Unibers Kyiv, Law Sch, Kiev, UkraineAD  - Ivan Franko Natl Univ Lviv, Dept Civil Law & Procedure, Lvov, UkraineAD  - Taras Shevchenko Natl Univ Kyiv, Civil Procedure Dept, Kiev, UkraineAD  - Int Commercial Arbitrat Court ICAC, Kiev, UkraineAD  - Justice Ukraine, Kiev, UkraineAD  - Taras Shevchenko Natl Univ Kyiv, Kiev, UkraineC3  - Ministry of Education & Science of UkraineC3  - Ivan Franko National University LvivC3  - Ministry of Education & Science of UkraineC3  - Taras Shevchenko National University of KyivC3  - Ministry of Education & Science of UkraineC3  - Taras Shevchenko National University of KyivFU  - European Union
-FX  - Within the project "Innovative technologies for processing court decisions using machine learning algorithms", that financed by an external instrument of assistance of the European Union to fulfill Ukraine's obligations in the European Union Framework Program for Research and Innovation "Horizon 2020".
-PU  - EAST EUROPEAN LAW RESEARCH CENTER
-PI  - KYIV
-PA  - BANDERY STEPANA STR., 20A, KYIV, 04655, UKRAINE
-SN  - 2663-0575
-SN  - 2663-0583
-J9  - ACCESS JUSTICE E EUR
-JI  - Access Justice East Eur.
-DA  - FEB
-PY  - 2024
-IS  - 1
-SP  - 127
-EP  - 148
-DO  - 10.33327/AJEE-18-7.1-a000123
-C6  - DEC 2023
-WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001128775200001
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  7
-ER  -
-
-TY  - JOUR
-AU  - Choi, JH
-TI  - Measuring Clarity in Legal Text
-T2  - UNIVERSITY OF CHICAGO LAW REVIEW
-LA  - English
-KW  - STATUTORY INTERPRETATION
-KW  - CONTRACT INTERPRETATION
-KW  - CORPUS
-KW  - LAW
-KW  - TEXTUALISM
-KW  - DELEGATION
-KW  - VAGUENESS
-KW  - CONSENSUS
-AB  - Legal cases often turn on judgments of textual clarity: when the text is unclear, judges allow extrinsic evidence in contract disputes, consult legislative history in statutory interpretation, and more. Despite this, almost no empirical work considers the nature or prevalence of legal clarity. Scholars and judges who study real-world documents to inform the interpretation of legal text primarily treat unclear text as a research problem to be solved with more data rather than a fundamental feature of language.This Article makes both theoretical and empirical contributions to the legal concept of textual clarity. It first advances a theory of clarity that distinguishes between information and determinacy. A judge might find text unclear because she personally lacks sufficient information to decide which interpretation is best; alternatively, she might find it unclear because the text itself is fundamentally indeterminate. Fundamental linguistic indeterminacy explains ongoing interpretive debates and limits the potential for text-focused methods (including corpus linguistics) to decide cases.With this theoretical background, the Article then proposes a new method to algorithmically evaluate textual clarity. Applying techniques from natural language processing and artificial intelligence that measure the semantic similarity between words, we can shed valuable new light on questions of legal interpretation.This Article finds that text is frequently indeterminate in real-world legal cases. Moreover, estimates of similarity vary substantially from corpus to corpus, even for large and reputable corpora. This suggests that word use is highly corpus specific and that meaning can vary even between general-purpose corpora that theoretically capture ordinary meaning.These empirical findings have important implications for ongoing doctrinal debates, suggesting that text is less clear and objective than many textualists believe. Ultimately, the Article offers new insights both to theorists considering the role of legal text and to empiricists seeking to understand how text is used in the real world.
-AD  - Univ Southern Calif, Gould Sch Law, Los Angeles, CA 90089 USAC3  - University of Southern CaliforniaPU  - UNIV CHICAGO LAW SCH
-PI  - CHICAGO
-PA  - 1111 E 60TH ST, CHICAGO, IL 60637 USA
-SN  - 0041-9494
-J9  - U CHICAGO LAW REV
-JI  - Univ. Chic. Law Rev.
-DA  - JAN
-PY  - 2024
-VL  - 91
-IS  - 1
-SP  - 1
-EP  - 82
-WE  - Social Science Citation Index (SSCI)AN  - WOS:001140085100003
-N1  - Times Cited in Web of Science Core Collection:  3
-Total Times Cited:  3
-Cited Reference Count:  127
-ER  -
-
-TY  - JOUR
-AU  - Martínez, E
-TI  - Re-evaluating GPT-4's bar exam performance
-T2  - ARTIFICIAL INTELLIGENCE AND LAW
-LA  - English
-KW  - NLP
-KW  - Legal NLP
-KW  - Legal analytics
-KW  - Natural language processing
-KW  - Machine learning
-KW  - Artificial intelligence
-KW  - Artificial intelligence and law
-KW  - Law and technology
-KW  - Legal profession
-KW  - LAW
-AB  - Perhaps the most widely touted of GPT-4's at-launch, zero-shot capabilities has been its reported 90th-percentile performance on the Uniform Bar Exam. This paper begins by investigating the methodological challenges in documenting and verifying the 90th-percentile claim, presenting four sets of findings that indicate that OpenAI's estimates of GPT-4's UBE percentile are overinflated. First, although GPT-4's UBE score nears the 90th percentile when examining approximate conversions from February administrations of the Illinois Bar Exam, these estimates are heavily skewed towards repeat test-takers who failed the July administration and score significantly lower than the general test-taking population. Second, data from a recent July administration of the same exam suggests GPT-4's overall UBE percentile was below the 69th percentile, and similar to \documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\sim$$\end{document} 48th percentile on essays. Third, examining official NCBE data and using several conservative statistical assumptions, GPT-4's performance against first-time test takers is estimated to be similar to \documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\sim$$\end{document} 62nd percentile, including similar to \documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\sim$$\end{document} 42nd percentile on essays. Fourth, when examining only those who passed the exam (i.e. licensed or license-pending attorneys), GPT-4's performance is estimated to drop to similar to \documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\sim$$\end{document} 48th percentile overall, and similar to \documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\sim$$\end{document} 15th percentile on essays. In addition to investigating the validity of the percentile claim, the paper also investigates the validity of GPT-4's reported scaled UBE score of 298. The paper successfully replicates the MBE score, but highlights several methodological issues in the grading of the MPT + MEE components of the exam, which call into question the validity of the reported essay score. Finally, the paper investigates the effect of different hyperparameter combinations on GPT-4's MBE performance, finding no significant effect of adjusting temperature settings, and a significant effect of few-shot chain-of-thought prompting over basic zero-shot prompting. Taken together, these findings carry timely insights for the desirability and feasibility of outsourcing legally relevant tasks to AI models, as well as for the importance for AI developers to implement rigorous and transparent capabilities evaluations to help secure safe and trustworthy AI.
-AD  - MIT, Dept Brain & Cognit Sci, Cambridge, MA 02138 USAC3  - Massachusetts Institute of Technology (MIT)FU  - Massachusetts Institute of Technology (MIT)
-FX  - Acknowledgements omitted for anonymous review.
-PU  - SPRINGER
-PI  - DORDRECHT
-PA  - VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
-SN  - 0924-8463
-SN  - 1572-8382
-J9  - ARTIF INTELL LAW
-JI  - Artif. Intell. Law
-DA  - 2024 MAR 30
-PY  - 2024
-DO  - 10.1007/s10506-024-09396-9
-C6  - MAR 2024
-WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:001194581100001
-N1  - Times Cited in Web of Science Core Collection:  1
-Total Times Cited:  1
-Cited Reference Count:  77
-ER  -
-

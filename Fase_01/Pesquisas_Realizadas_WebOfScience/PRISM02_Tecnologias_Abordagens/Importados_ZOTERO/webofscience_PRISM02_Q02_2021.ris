@@ -1,361 +1,0 @@
-﻿TY  - CPAPER
-AU  - Bender, EM
-AU  - Gebru, T
-AU  - McMillan-Major, A
-AU  - Shmitchell, S
-A1  - ACM
-TI  - On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?
-T2  - PROCEEDINGS OF THE 2021 ACM CONFERENCE ON FAIRNESS, ACCOUNTABILITY, AND TRANSPARENCY, FACCT 2021
-LA  - English
-CP  - ACM Conference on Fairness, Accountability, and Transparency (FAccT)
-KW  - STEREOTYPES
-KW  - GENDER
-AB  - The past 3 years of work in NLP have been characterized by the development and deployment of ever larger language models, especially for English. BERT, its variants, GPT-2/3, and others, most recently Switch-C, have pushed the boundaries of the possible both through architectural innovations and through sheer size. Using these pretrained models and the methodology of fine-tuning them for specific tasks, researchers have extended the state of the art on a wide array of tasks as measured by leaderboards on specific benchmarks for English. In this paper, we take a step back and ask: How big is too big? What are the possible risks associated with this technology and what paths are available for mitigating those risks? We provide recommendations including weighing the environmental and financial costs first, investing resources into curating and carefully documenting datasets rather than ingesting everything on the web, carrying out pre-development exercises evaluating how the planned approach fits into research and development goals and supports stakeholder values, and encouraging research directions beyond ever larger language models.
-AD  - Univ Washington, Seattle, WA 98195 USAAD  - Black AI, Palo Alto, CA USAAD  - Aether, Seattle, WA USAC3  - University of WashingtonC3  - University of Washington SeattlePU  - ASSOC COMPUTING MACHINERY
-PI  - NEW YORK
-PA  - 1601 Broadway, 10th Floor, NEW YORK, NY, UNITED STATES
-SN  - 978-1-4503-8309-7
-PY  - 2021
-SP  - 610
-EP  - 623
-DO  - 10.1145/3442188.3445922
-WE  - Conference Proceedings Citation Index - Science (CPCI-S)WE  - Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)AN  - WOS:001074649900058
-N1  - Times Cited in Web of Science Core Collection:  1627
-Total Times Cited:  1756
-Cited Reference Count:  158
-ER  -
-
-TY  - CPAPER
-AU  - Chen, HT
-AU  - Wang, YH
-AU  - Guo, TY
-AU  - Xu, C
-AU  - Deng, YP
-AU  - Liu, ZH
-AU  - Ma, SW
-AU  - Xu, CJ
-AU  - Xu, C
-AU  - Gao, W
-A1  - IEEE COMP SOC
-TI  - Pre-Trained Image Processing Transformer
-T2  - 2021 IEEE/CVF CONFERENCE ON COMPUTER VISION AND PATTERN RECOGNITION, CVPR 2021
-LA  - English
-CP  - IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
-AB  - As the computing power of modern hardware is increasing strongly, pre-trained deep learning models (e.g., BERT, GPT-3) learned on large-scale datasets have shown their effectiveness over conventional methods. The big progress is mainly contributed to the representation ability of transformer and its variant architectures. In this paper, we study the low-level computer vision task (e.g., denoising, super-resolution and deraining) and develop a new pre-trained model, namely, image processing transformer (IPT). To maximally excavate the capability of transformer, we present to utilize the well-known ImageNet benchmark for generating a large amount of corrupted image pairs. The IPT model is trained on these images with multi-heads and multi-tails. In addition, the contrastive learning is introduced for well adapting to different image processing tasks. The pre-trained model can therefore efficiently employed on desired task after fine-tuning. With only one pre-trained model, IPT outperforms the current state-of-the-art methods on various low-level benchmarks.
-AD  - Peking Univ, Dept Machine Intelligence, Key Lab Machine Percept MOE, Beijing, Peoples R ChinaAD  - Huawei Technol, Noahs Ark Lab, Shenzhen, Peoples R ChinaAD  - Univ Sydney, Fac Engn, Sch Comp Sci, Sydney, NSW, AustraliaAD  - Huawei Technol, Cent Software Inst, Shenzhen, Peoples R ChinaAD  - Peking Univ, Sch Elect Engn & Comp Sci, Inst Digital Media, Beijing, Peoples R ChinaAD  - Peng Cheng Lab, Shenzhen, Peoples R ChinaC3  - Peking UniversityC3  - Huawei TechnologiesC3  - University of SydneyC3  - Huawei TechnologiesC3  - Peking UniversityC3  - Peng Cheng LaboratoryFU  - National Natural Science Foundation of China [61876007]; Australian Research Council [DE180101438, DP210101859]
-FX  - This work is supported by National Natural Science Foundation of China under Grant No. 61876007, and Australian Research Council under Project DE180101438 and DP210101859.
-PU  - IEEE COMPUTER SOC
-PI  - LOS ALAMITOS
-PA  - 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1264 USA
-SN  - 1063-6919
-SN  - 978-1-6654-4509-2
-J9  - PROC CVPR IEEE
-PY  - 2021
-SP  - 12294
-EP  - 12305
-DO  - 10.1109/CVPR46437.2021.01212
-WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000742075002049
-N1  - Times Cited in Web of Science Core Collection:  988
-Total Times Cited:  1043
-Cited Reference Count:  86
-ER  -
-
-TY  - JOUR
-AU  - Hsu, WN
-AU  - Bolte, B
-AU  - Tsai, YHH
-AU  - Lakhotia, K
-AU  - Salakhutdinov, R
-AU  - Mohamed, A
-TI  - HuBERT: Self-Supervised Speech Representation Learning by Masked Prediction of Hidden Units
-T2  - IEEE-ACM TRANSACTIONS ON AUDIO SPEECH AND LANGUAGE PROCESSING
-LA  - English
-KW  - Predictive models
-KW  - Data models
-KW  - Acoustics
-KW  - Speech processing
-KW  - Computational modeling
-KW  - Task analysis
-KW  - Bit error rate
-KW  - Self-supervised learning
-KW  - BERT
-KW  - MODEL VARIATIONAL AUTOENCODER
-KW  - MARKOV MODEL
-AB  - Self-supervised approaches for speech representation learning are challenged by three unique problems: (1) there are multiple sound units in each input utterance, (2) there is no lexicon of input sound units during the pre-training phase, and (3) sound units have variable lengths with no explicit segmentation. To deal with these three problems, we propose the Hidden-Unit BERT (HuBERT) approach for self-supervised speech representation learning, which utilizes an offline clustering step to provide aligned target labels for a BERT-like prediction loss. A key ingredient of our approach is applying the prediction loss over the masked regions only, which forces the model to learn a combined acoustic and language model over the continuous inputs. HuBERT relies primarily on the consistency of the unsupervised clustering step rather than the intrinsic quality of the assigned cluster labels. Starting with a simple k-means teacher of 100 clusters, and using two iterations of clustering, the HuBERT model either matches or improves upon the state-of-the-art wav2vec 2.0 performance on the Librispeech (960 h) and Libri-light (60,000 h) benchmarks with 10 min, 1 h, 10 h, 100 h, and 960 h fine-tuning subsets. Using a 1B parameter model, HuBERT shows up to 19% and 13% relative WER reduction on the more challenging dev-other and test-other evaluation subsets.(1)(2)
-AD  - Facebook Inc, New York, NY 10003 USAAD  - Facebook AI Res, Menlo Pk, CA 94025 USAAD  - Carnegie Mellon Univ, Machine Learning Dept, Pittsburgh, PA 15213 USAC3  - Facebook IncC3  - Facebook IncC3  - Carnegie Mellon UniversityPU  - IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
-PI  - PISCATAWAY
-PA  - 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
-SN  - 2329-9290
-SN  - 2329-9304
-J9  - IEEE-ACM T AUDIO SPE
-JI  - IEEE-ACM Trans. Audio Speech Lang.
-PY  - 2021
-VL  - 29
-SP  - 3451
-EP  - 3460
-DO  - 10.1109/TASLP.2021.3122291
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000722716400001
-N1  - Times Cited in Web of Science Core Collection:  736
-Total Times Cited:  773
-Cited Reference Count:  64
-ER  -
-
-TY  - JOUR
-AU  - Cui, YM
-AU  - Che, WX
-AU  - Liu, T
-AU  - Qin, B
-AU  - Yang, ZQ
-TI  - Pre-Training With Whole Word Masking for Chinese BERT
-T2  - IEEE-ACM TRANSACTIONS ON AUDIO SPEECH AND LANGUAGE PROCESSING
-LA  - English
-KW  - Bit error rate
-KW  - Task analysis
-KW  - Computational modeling
-KW  - Training
-KW  - Analytical models
-KW  - Adaptation models
-KW  - Predictive models
-KW  - Pre-trained language model
-KW  - representation learning
-KW  - natural language processing
-AB  - Bidirectional Encoder Representations from Transformers (BERT) has shown marvelous improvements across various NLP tasks, and its consecutive variants have been proposed to further improve the performance of the pre-trained language models. In this paper, we aim to first introduce the whole word masking (wwm) strategy for Chinese BERT, along with a series of Chinese pre-trained language models. Then we also propose a simple but effective model called MacBERT, which improves upon RoBERTa in several ways. Especially, we propose a new masking strategy called MLM as correction (Mac). To demonstrate the effectiveness of these models, we create a series of Chinese pre-trained language models as our baselines, including BERT, RoBERTa, ELECTRA, RBT, etc. We carried out extensive experiments on ten Chinese NLP tasks to evaluate the created Chinese pre-trained language models as well as the proposed MacBERT. Experimental results show that MacBERT could achieve state-of-the-art performances on many NLP tasks, and we also ablate details with several findings that may help future research. We open-source our pre-trained language models for further facilitating our research community.(1)
-AD  - Harbin Inst Technol, Harbin 150001, Peoples R ChinaAD  - iFLYTEK Res, State Key Lab Cognit Intelligence, Beijing 100010, Peoples R ChinaC3  - Harbin Institute of TechnologyFU  - Google TPU Research Cloud program; National Key R&D Program of China [2020AAA0106501]; NationalNatural Science Foundation of China [61976072, 61772153]
-FX  - The work of Yiming Cui was supported in part by the Google TPU Research Cloud program for Cloud TPU access. This work was supported by the National Key R&D Program of China under Grant 2020AAA0106501 and the NationalNatural Science Foundation of China under Grants 61976072 and 61772153.
-PU  - IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
-PI  - PISCATAWAY
-PA  - 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
-SN  - 2329-9290
-SN  - 2329-9304
-J9  - IEEE-ACM T AUDIO SPE
-JI  - IEEE-ACM Trans. Audio Speech Lang.
-PY  - 2021
-VL  - 29
-SP  - 3504
-EP  - 3514
-DO  - 10.1109/TASLP.2021.3124365
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000728135200002
-N1  - Times Cited in Web of Science Core Collection:  591
-Total Times Cited:  705
-Cited Reference Count:  40
-ER  -
-
-TY  - CPAPER
-AU  - Wang, Y
-AU  - Wang, WS
-AU  - Joty, S
-AU  - Hoi, SCH
-A1  - Assoc Computat Linguist
-TI  - CodeT5: Identifier-aware Unified Pre-trained Encoder-Decoder Models for Code Understanding and Generation
-T2  - 2021 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING (EMNLP 2021)
-LA  - English
-CP  - Conference on Empirical Methods in Natural Language Processing (EMNLP)
-AB  - Pre-trained models for Natural Languages (NL) like BERT and GPT have been recently shown to transfer well to Programming Languages (PL) and largely benefit a broad set of code-related tasks. Despite their success, most current methods either rely on an encoder-only (or decoder-only) pre-training that is suboptimal for generation (resp. understanding) tasks or process the code snippet in the same way as NL, neglecting the special characteristics of PL such as token types. We present CodeT5, a unified pre-trained encoder-decoder Transformer model that better leverages the code semantics conveyed from the developer-assigned identifiers. Our model employs a unified framework to seamlessly support both code understanding and generation tasks and allows for multi-task learning. Besides, we propose a novel identifier-aware pre-training task that enables the model to distinguish which code tokens are identifiers and to recover them when they are masked. Furthermore, we propose to exploit the user-written code comments with a bimodal dual generation task for better NL-PL alignment. Comprehensive experiments show that CodeT5 significantly outperforms prior methods on understanding tasks such as code defect detection and clone detection, and generation tasks across various directions including PL-NL, NL-PL, and PL-PL. Further analysis reveals that our model can better capture semantic information from code.
-AD  - Salesforce Res Asia, Singapore, SingaporeAD  - Nanyang Technol Univ, Singapore, SingaporeC3  - SalesforceC3  - Nanyang Technological UniversityPU  - ASSOC COMPUTATIONAL LINGUISTICS-ACL
-PI  - STROUDSBURG
-PA  - 209 N EIGHTH STREET, STROUDSBURG, PA 18360 USA
-SN  - 978-1-955917-09-4
-PY  - 2021
-SP  - 8696
-EP  - 8708
-WE  - Conference Proceedings Citation Index - Science (CPCI-S)WE  - Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)AN  - WOS:000860727002063
-N1  - Times Cited in Web of Science Core Collection:  367
-Total Times Cited:  378
-Cited Reference Count:  35
-ER  -
-
-TY  - CPAPER
-AU  - Chen, LL
-AU  - Lu, K
-AU  - Rajeswaran, A
-AU  - Lee, K
-AU  - Grover, A
-AU  - Laskin, M
-AU  - Abbeel, P
-AU  - Srinivas, A
-AU  - Mordatch, I
-ED  - Ranzato, M
-ED  - Beygelzimer, A
-ED  - Dauphin, Y
-ED  - Liang, PS
-ED  - Vaughan, JW
-TI  - Decision Transformer: Reinforcement Learning via Sequence Modeling
-T2  - ADVANCES IN NEURAL INFORMATION PROCESSING SYSTEMS 34 (NEURIPS 2021)
-LA  - English
-CP  - 35th Annual Conference on Neural Information Processing Systems (NeurIPS)
-AB  - We introduce a framework that abstracts Reinforcement Learning (RL) as a sequence modeling problem. This allows us to draw upon the simplicity and scalability of the Transformer architecture, and associated advances in language modeling such as GPT-x and BERT. In particular, we present Decision Transformer, an architecture that casts the problem of RL as conditional sequence modeling. Unlike prior approaches to RL that fit value functions or compute policy gradients, Decision Transformer simply outputs the optimal actions by leveraging a causally masked Transformer. By conditioning an autoregressive model on the desired return (reward), past states, and actions, our Decision Transformer model can generate future actions that achieve the desired return. Despite its simplicity, Decision Transformer matches or exceeds the performance of state-of-the-art model-free offline RL baselines on Atari, OpenAI Gym, and Key-to-Door tasks.
-   [GRAPHICS]
-AD  - Univ Calif Berkeley, Berkeley, CA 94720 USAAD  - Facebook AI Res, London, EnglandAD  - Univ Calif Los Angeles, Los Angeles, CA 90024 USAAD  - OpenAI, San Francisco, CA USAAD  - Google Brain, New York, NY USAC3  - University of California SystemC3  - University of California BerkeleyC3  - Facebook IncC3  - University of California SystemC3  - University of California Los AngelesC3  - OpenAIC3  - Google IncorporatedFU  - Berkeley Deep Drive; Open Philanthropy; National Science Foundation under NSF:NRI [2024675]; J.P. Morgan PhD Fellowship in AI (2020-21); Direct For Computer & Info Scie & Enginr [2024675] Funding Source: National Science Foundation; Div Of Information & Intelligent Systems [2024675] Funding Source: National Science Foundation
-FX  - This research was supported by Berkeley Deep Drive, Open Philanthropy, and the National Science Foundation under NSF:NRI #2024675. Part of this work was completed when Aravind Rajeswaran was a PhD student at the University of Washington, where he was supported by the J.P. Morgan PhD Fellowship in AI (2020-21). We also thank Luke Metz, Daniel Freeman, and anonymous reviewers for valuable feedback and discussions, as well as Justin Fu for assistance in setting up D4RL benchmarks, and Aviral Kumar for assistance with the CQL baselines and hyperparameters.
-PU  - NEURAL INFORMATION PROCESSING SYSTEMS (NIPS)
-PI  - LA JOLLA
-PA  - 10010 NORTH TORREY PINES RD, LA JOLLA, CALIFORNIA 92037 USA
-SN  - 1049-5258
-J9  - ADV NEUR IN
-PY  - 2021
-VL  - 34
-WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000901616406051
-N1  - Times Cited in Web of Science Core Collection:  363
-Total Times Cited:  404
-Cited Reference Count:  66
-ER  -
-
-TY  - JOUR
-AU  - Han, X
-AU  - Zhang, ZY
-AU  - Ding, N
-AU  - Gu, YX
-AU  - Liu, X
-AU  - Huo, YQ
-AU  - Qiu, JZ
-AU  - Yao, Y
-AU  - Zhang, A
-AU  - Zhang, L
-AU  - Han, WT
-AU  - Huang, ML
-AU  - Jin, Q
-AU  - Lan, YY
-AU  - Liu, Y
-AU  - Liu, ZY
-AU  - Lu, ZW
-AU  - Qiu, XP
-AU  - Song, RH
-AU  - Tang, J
-AU  - Wen, JR
-AU  - Yuan, JH
-AU  - Zhao, WX
-AU  - Zhu, J
-TI  - Pre-trained models: Past, present and future
-T2  - AI OPEN
-LA  - English
-KW  - Pre-trained models
-KW  - Language models
-KW  - Transfer learning
-KW  - Self-supervised learning
-KW  - Natural language processing
-KW  - Multimodal processing
-KW  - Artificial intelligence
-KW  - LANGUAGE
-KW  - GENERATION
-AB  - Large-scale pre -trained models (PTMs) such as BERT and GPT have recently achieved great success and become a milestone in the field of artificial intelligence (AI). Owing to sophisticated pre -training objectives and huge model parameters, large-scale PTMs can effectively capture knowledge from massive labeled and unlabeled data. By storing knowledge into huge parameters and fine-tuning on specific tasks, the rich knowledge implicitly encoded in huge parameters can benefit a variety of downstream tasks, which has been extensively demonstrated via experimental verification and empirical analysis. It is now the consensus of the AI community to adopt PTMs as backbone for downstream tasks rather than learning models from scratch. In this paper, we take a deep look into the history of pre -training, especially its special relation with transfer learning and self -supervised learning, to reveal the crucial position of PTMs in the AI development spectrum. Further, we comprehensively review the latest breakthroughs of PTMs. These breakthroughs are driven by the surge of computational power and the increasing availability of data, towards four important directions: designing effective architectures, utilizing rich contexts, improving computational efficiency, and conducting interpretation and theoretical analysis. Finally, we discuss a series of open problems and research directions of PTMs, and hope our view can inspire and advance the future study of PTMs.
-AD  - Tsinghua Univ, Dept Comp Sci & Technol, Beijing, Peoples R ChinaAD  - Renmin Univ China, Sch Informat, Beijing, Peoples R ChinaAD  - Renmin Univ China, Gaoling Sch Artificial Intelligence, Beijing, Peoples R ChinaAD  - Tsinghua Univ, Inst AI Ind Res, Beijing, Peoples R ChinaAD  - Fudan Univ, Sch Comp Sci, Shanghai, Peoples R ChinaAD  - OneFlow Inc, Beijing, Peoples R ChinaC3  - Tsinghua UniversityC3  - Renmin University of ChinaC3  - Renmin University of ChinaC3  - Tsinghua UniversityC3  - Fudan UniversityPU  - KEAI PUBLISHING LTD
-PI  - BEIJING
-PA  - 16 DONGHUANGCHENGGEN NORTH ST, Building 5, Room 411, BEIJING, DONGCHENG DISTRICT 100009, PEOPLES R CHINA
-SN  - 2666-6510
-J9  - AI OPEN
-JI  - AI Open
-PY  - 2021
-VL  - 2
-SP  - 225
-EP  - 250
-DO  - 10.1016/j.aiopen.2021.08.002
-WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001220553400001
-N1  - Times Cited in Web of Science Core Collection:  303
-Total Times Cited:  334
-Cited Reference Count:  319
-ER  -
-
-TY  - JOUR
-AU  - Rasmy, L
-AU  - Xiang, Y
-AU  - Xie, ZQ
-AU  - Tao, C
-AU  - Zhi, DG
-TI  - Med-BERT: pretrained contextualized embeddings on large-scale structured electronic health records for disease prediction
-T2  - NPJ DIGITAL MEDICINE
-LA  - English
-KW  - ARTIFICIAL-INTELLIGENCE
-KW  - BIG DATA
-KW  - CARE
-AB  - Deep learning (DL)-based predictive models from electronic health records (EHRs) deliver impressive performance in many clinical tasks. Large training cohorts, however, are often required by these models to achieve high accuracy, hindering the adoption of DL-based models in scenarios with limited training data. Recently, bidirectional encoder representations from transformers (BERT) and related models have achieved tremendous successes in the natural language processing domain. The pretraining of BERT on a very large training corpus generates contextualized embeddings that can boost the performance of models trained on smaller datasets. Inspired by BERT, we propose Med-BERT, which adapts the BERT framework originally developed for the text domain to the structured EHR domain. Med-BERT is a contextualized embedding model pretrained on a structured EHR dataset of 28,490,650 patients. Fine-tuning experiments showed that Med-BERT substantially improves the prediction accuracy, boosting the area under the receiver operating characteristics curve (AUC) by 1.21-6.14% in two disease prediction tasks from two clinical databases. In particular, pretrained Med-BERT obtains promising performances on tasks with small fine-tuning training sets and can boost the AUC by more than 20% or obtain an AUC as high as a model trained on a training set ten times larger, compared with deep learning models without Med-BERT. We believe that Med-BERT will benefit disease prediction studies with small local training datasets, reduce data collection expenses, and accelerate the pace of artificial intelligence aided healthcare.
-AD  - Univ Texas Hlth Sci Ctr Houston, Sch Biomed Informat, Houston, TX 77030 USAAD  - Peng Cheng Lab, Shenzhen, Peoples R ChinaC3  - University of Texas SystemC3  - University of Texas Health Science Center HoustonC3  - Peng Cheng LaboratoryFU  - CPRIT Grant [RP170668]; Xiaoqian Jiang's UT Star Award; American Heart Association [19GPSGC35180031]; Cancer Prevention and Research Institute of Texas (CPRIT) [RP170668]; UTHealth Innovation for Cancer Prevention Research Training Program Pre-Doctoral Fellowship (CPRIT Grant) [RP160015]; NVIDIA Corporation
-FX  - We are grateful for our collaborators, David Aguilar, MD, Masayuki Nigo, MD, and Bijun S. Kannadath, MBBS, MS, for the helpful discussions on cohorts' definitions and results' evaluation. This research was undertaken with the assistance of resources and services from the School of Biomedical Informatics Data Service, which is supported in part by CPRIT Grant RP170668. Specifically, we would like to acknowledge the use of Cerner Health Facts<SUP>(R)</SUP> and the IBM Truven MarketScan (TM) datasets as well as the assistance provided by the UTHealth SBMI Data Service team to extract the data. The Nvidia GPU hardware is partly supported through Xiaoqian Jiang's UT Star Award. We are also grateful to the NVIDIA Corporation for supporting our research by donating a Tesla GPU. CT and DZ are supported by the American Heart Association under award number 19GPSGC35180031 and partly supported by the Cancer Prevention and Research Institute of Texas (CPRIT) Grant RP170668. LR is supported by UTHealth Innovation for Cancer Prevention Research Training Program Pre-Doctoral Fellowship (CPRIT Grant RP160015). The content is solely the responsibility of the authors and does not necessarily represent the official views of the Cancer Prevention and Research Institute of Texas.
-PU  - NATURE PORTFOLIO
-PI  - BERLIN
-PA  - HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
-SN  - 2398-6352
-J9  - NPJ DIGIT MED
-JI  - npj Digit. Med.
-DA  - MAY 20
-PY  - 2021
-VL  - 4
-IS  - 1
-C7  - 86
-DO  - 10.1038/s41746-021-00455-y
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000652608900001
-N1  - Times Cited in Web of Science Core Collection:  301
-Total Times Cited:  331
-Cited Reference Count:  62
-ER  -
-
-TY  - JOUR
-AU  - Kaliyar, RK
-AU  - Goswami, A
-AU  - Narang, P
-TI  - FakeBERT: Fake news detection in social media with a BERT-based deep learning approach
-T2  - MULTIMEDIA TOOLS AND APPLICATIONS
-LA  - English
-KW  - Fake news
-KW  - Neural network
-KW  - Social media
-KW  - Deep learning
-KW  - BERT
-KW  - CONVOLUTIONAL NEURAL-NETWORK
-KW  - REPRESENTATIONS
-KW  - CLASSIFICATION
-AB  - In the modern era of computing, the news ecosystem has transformed from old traditional print media to social media outlets. Social media platforms allow us to consume news much faster, with less restricted editing results in the spread of fake news at an incredible pace and scale. In recent researches, many useful methods for fake news detection employ sequential neural networks to encode news content and social context-level information where the text sequence was analyzed in a unidirectional way. Therefore, a bidirectional training approach is a priority for modelling the relevant information of fake news that is capable of improving the classification performance with the ability to capture semantic and long-distance dependencies in sentences. In this paper, we propose a BERT-based (Bidirectional Encoder Representations from Transformers) deep learning approach (FakeBERT) by combining different parallel blocks of the single-layer deep Convolutional Neural Network (CNN) having different kernel sizes and filters with the BERT. Such a combination is useful to handle ambiguity, which is the greatest challenge to natural language understanding. Classification results demonstrate that our proposed model (FakeBERT) outperforms the existing models with an accuracy of 98.90%.
-AD  - Bennett Univ, Dept Comp Sci Engn, Greater Noida, IndiaAD  - BITS Pilani, Dept CSIS, Pilani, Rajasthan, IndiaC3  - Birla Institute of Technology & Science Pilani (BITS Pilani)PU  - SPRINGER
-PI  - DORDRECHT
-PA  - VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
-SN  - 1380-7501
-SN  - 1573-7721
-J9  - MULTIMED TOOLS APPL
-JI  - Multimed. Tools Appl.
-DA  - MAR
-PY  - 2021
-VL  - 80
-IS  - 8
-SP  - 11765
-EP  - 11788
-DO  - 10.1007/s11042-020-10183-2
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000642237200002
-N1  - Times Cited in Web of Science Core Collection:  267
-Total Times Cited:  279
-Cited Reference Count:  54
-ER  -
-
-TY  - JOUR
-AU  - Acheampong, FA
-AU  - Nunoo-Mensah, H
-AU  - Chen, WY
-TI  - Transformer models for text-based emotion detection: a review of BERT-based approaches
-T2  - ARTIFICIAL INTELLIGENCE REVIEW
-LA  - English
-KW  - Natural language processing
-KW  - Sentiment analysis
-KW  - Text-based emotion detection
-KW  - Transformers
-KW  - SENTIMENT ANALYSIS
-KW  - PERSONALITY
-AB  - We cannot overemphasize the essence of contextual information in most natural language processing (NLP) applications. The extraction of context yields significant improvements in many NLP tasks, including emotion recognition from texts. The paper discusses transformer-based models for NLP tasks. It highlights the pros and cons of the identified models. The models discussed include the Generative Pre-training (GPT) and its variants, Transformer-XL, Cross-lingual Language Models (XLM), and the Bidirectional Encoder Representations from Transformers (BERT). Considering BERT's strength and popularity in text-based emotion detection, the paper discusses recent works in which researchers proposed various BERT-based models. The survey presents its contributions, results, limitations, and datasets used. We have also provided future research directions to encourage research in text-based emotion detection using these models.
-AD  - Univ Elect Sci & Technol China, Sch Comp Sci & Technol, Computat Intelligence Lab, Chengdu, Peoples R ChinaAD  - Kwame Nkrumah Univ Sci & Technol, Dept Comp Engn, Connected Devices Lab, Kumasi, GhanaC3  - University of Electronic Science & Technology of ChinaC3  - Kwame Nkrumah University Science & TechnologyPU  - SPRINGER
-PI  - DORDRECHT
-PA  - VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
-SN  - 0269-2821
-SN  - 1573-7462
-J9  - ARTIF INTELL REV
-JI  - Artif. Intell. Rev.
-DA  - DEC
-PY  - 2021
-VL  - 54
-IS  - 8
-SP  - 5789
-EP  - 5829
-DO  - 10.1007/s10462-021-09958-2
-C6  - FEB 2021
-WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:000616046200001
-N1  - Times Cited in Web of Science Core Collection:  215
-Total Times Cited:  231
-Cited Reference Count:  107
-ER  -
-

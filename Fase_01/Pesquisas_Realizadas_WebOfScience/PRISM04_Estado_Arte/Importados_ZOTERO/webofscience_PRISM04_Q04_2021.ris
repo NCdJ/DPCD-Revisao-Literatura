@@ -1,185 +1,0 @@
-﻿TY  - JOUR
-AU  - Wachter, S
-AU  - Mittelstadt, B
-AU  - Russell, C
-TI  - Why fairness cannot be automated: Bridging the gap between EU non-discrimination law and AI
-T2  - COMPUTER LAW & SECURITY REVIEW
-LA  - English
-KW  - European union
-KW  - Non-discrimination
-KW  - Fairness
-KW  - Discrimination
-KW  - Bias
-KW  - Algorithm
-KW  - Law
-KW  - Demographic&nbsp
-KW  - parity
-KW  - Machine learning
-KW  - Artificial intelligence
-KW  - BIG DATA
-KW  - DISCRIMINATION
-KW  - BIAS
-KW  - ETHICS
-KW  - IMPACT
-AB  - In recent years a substantial literature has emerged concerning bias, discrimination, and fairness in artificial intelligence (AI) and machine learning. Connecting this work to existing legal non-discrimination frameworks is essential to create tools and methods that are practically useful across divergent legal regimes. While much work has been undertaken from an American legal perspective, comparatively little has mapped the effects and requirements of EU law. This Article addresses this critical gap between legal, technical, and organisational notions of algorithmic fairness. Through analysis of EU non-discrimination law and jurisprudence of the European Court of Justice (ECJ) and national courts, we identify a critical incompatibility between European notions of discrimination and existing work on algorithmic and automated fairness. A clear gap exists between statistical measures of fairness as embedded in myriad fairness toolkits and governance mechanisms and the context-sensitive, often intuitive and ambiguous discrimination metrics and evidential requirements used by the ECJ; we refer to this approach as "contextual equality." This Article makes three contributions. First, we review the evidential requirements to bring a claim under EU non-discrimination law. Due to the disparate nature of algorithmic and human discrimination, the EU's current requirements are too contextual, reliant on intuition, and open to judicial interpretation to be automated. Many of the concepts fundamental to bringing a claim, such as the composition of the disadvantaged and advantaged group, the severity and type of harm suffered, and requirements for the relevance and admissibility of evidence, require normative or political choices to be made by the judiciary on a caseby-case basis. We show that automating fairness or non-discrimination in Europe may be impossible because the law, by design, does not provide a static or homogenous framework suited to testing for discrimination in AI systems. Second, we show how the legal protection offered by non-discrimination law is challenged when AI, not humans, discriminate. Humans discriminate due to negative attitudes (e.g. stereotypes, prejudice) and unintentional biases (e.g. organisational practices or internalised stereotypes) which can act as a signal to victims that discrimination has occurred. Equivalent signalling mechanisms and agency do not exist in algorithmic systems. Compared to traditional forms of discrimination, automated discrimination is more abstract and unintuitive, subtle, intangible, and difficult to detect. The increasing use of algorithms disrupts traditional legal remedies and procedures for detection, investigation, prevention, and correction of discrimination which have predominantly relied upon intuition. Consistent assessment procedures that define a common standard for statistical evidence to detect and assess prima facie automated discrimination are urgently needed to support judges, regulators, system controllers and developers, and claimants. Finally, we examine how existing work on fairness in machine learning lines up with procedures for assessing cases under EU non-discrimination law. A 'gold standard' for assessment of prima facie discrimination has been advanced by the European Court of Justice but not yet translated into standard assessment procedures for automated discrimination. We propose 'conditional demographic disparity' (CDD) as a standard baseline statistical measurement that aligns with the Court's 'gold standard'.
-   Establishing a standard set of statistical evidence for automated discrimination cases can help ensure consistent procedures for assessment, but not judicial interpretation, of cases involving AI and automated systems. Through this proposal for procedural regularity in the identification and assessment of automated discrimination, we clarify how to build considerations of fairness into automated systems as far as possible while still respecting and enabling the contextual approach to judicial interpretation practiced under EU non-discrimination law.
-AD  - Univ Oxford, Oxford Internet Inst, 1St Giles, Oxford OX1 3JS, EnglandAD  - Harvard Univ, Harvard Law Sch, Cambridge, MA 02138 USAAD  - British Lib, Alan Turing Inst, 96 Euston Rd, London NW1 2DB, EnglandAD  - Univ Surrey, Dept Elect & Elect Engn, Guildford GU2 7HX, Surrey, EnglandAD  - Amazon, Paul Ehrlich Str, Tubingen, GermanyC3  - University of OxfordC3  - Harvard UniversityC3  - University of SurreyC3  - Amazon.comFU  - EPSRC [EP/N510129/1] Funding Source: UKRI
-PU  - ELSEVIER ADVANCED TECHNOLOGY
-PI  - OXFORD
-PA  - OXFORD FULFILLMENT CENTRE THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
-SN  - 0267-3649
-J9  - COMPUT LAW SECUR REV
-JI  - Comput. Law Secur. Rev.
-DA  - JUL
-PY  - 2021
-VL  - 41
-C7  - 105567
-DO  - 10.1016/j.clsr.2021.105567
-C6  - JUN 2021
-WE  - Social Science Citation Index (SSCI)AN  - WOS:000685463100019
-N1  - Times Cited in Web of Science Core Collection:  130
-Total Times Cited:  133
-Cited Reference Count:  126
-ER  -
-
-TY  - JOUR
-AU  - Chatterjee, S
-AU  - Sreenivasulu, NS
-TI  - Artificial intelligence and human rights: a comprehensive study from Indian legal and policy perspective
-T2  - INTERNATIONAL JOURNAL OF LAW AND MANAGEMENT
-LA  - English
-KW  - Law and regulation
-KW  - Governance and ethics
-KW  - Policy and law
-KW  - Data privacy law
-KW  - Technology law
-KW  - AI
-KW  - Regulation
-KW  - Law
-KW  - Policy
-KW  - India
-KW  - Technology
-KW  - Jurisprudence
-KW  - TECHNOLOGY
-KW  - GOVERNANCE
-KW  - INTERNET
-AB  - Purpose - The purpose of this study is to investigate the impact of artificial intelligence (AI) on the human rights issue. This study has also examined issues with AI for business and its civil and criminal liability. This study has provided inputs to the policymakers and government authorities to overcome different challenges.
-   Design/methodology/approach - This study has analysed different international and Indian laws on human rights issues and the impacts of these laws to protect the human rights of the individual, which could be under threat due to the advancement of AI technology. This study has used descriptive doctrinal legal research methods to examine and understand the insights of existing laws and regulations in India to protect human rights and how these laws could be further developed to protect human rights under the Indian jurisprudence, which is under threat due to rapid advancement of AI-related technology.
-   Findings - The study provides a comprehensive insight on the influence of AI on human rights issues and the existing laws in India. The study also shows different policy initiatives by the Government of India to regulate AI.
-   Research limitations/implications - The study highlights some of the key policy recommendations helpful to regulate AI. Moreover, this study provides inputs to the regulatory authorities and legal fraternity to draft a much-needed comprehensive policy to regulate AI in the context of the protection of human rights of the citizens.
-   Originality/value - AI is constantly posing entangled challenges to human rights. There is no comprehensive study, which investigated the emergence of AI and its influence on human rights issues, especially from the Indian legal perspective. So there is a research gap. This study provides a unique insight of the emergence of AI applications and its influence on human rights issues and provides inputs to the policymaker to help them to draft an effective regulation on AI to protect the human rights of Indian citizens. Thus, this study is considered a unique study that adds value towards the overall literature.
-AD  - WB Natl Univ Jurid Sci, Kolkata, IndiaPU  - EMERALD GROUP PUBLISHING LTD
-PI  - BINGLEY
-PA  - HOWARD HOUSE, WAGON LANE, BINGLEY BD16 1WA, W YORKSHIRE, ENGLAND
-SN  - 1754-243X
-SN  - 1754-2448
-J9  - INT J LAW MANAG
-JI  - Int. J. Law Manag.
-DA  - JAN 7
-PY  - 2022
-VL  - 64
-IS  - 1
-SP  - 110
-EP  - 134
-DO  - 10.1108/IJLMA-02-2021-0049
-C6  - JUN 2021
-WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:000663042700001
-N1  - Times Cited in Web of Science Core Collection:  8
-Total Times Cited:  8
-Cited Reference Count:  54
-ER  -
-
-TY  - JOUR
-AU  - Ferrari, M
-TI  - The advantage of joint liability from the structured use of algorithms
-T2  - RAGION PRATICA
-LA  - Italian
-KW  - algorithm
-KW  - knowability
-KW  - understandability
-KW  - responsibility
-KW  - joint liability
-KW  - Artificial Intelligence
-KW  - human rights
-AB  - The widespread use of AI in human activities, both public and private, is desirable, as long as the fundamental rights and freedoms of human beings are not sacrificed. Administrative jurisprudence has identified three rules: 1) the full knowability/understandability of the form and criteria used by the AI; 2) the principle of non-exclusivity of the algorithmic decision; 3) the principle of non-discrimination. The structured use of algorithms brings with it the need to identify who is responsible for any damage: it is a joint liability, attributable to different degrees of fault, between the creator (producer) of the algorithm, the computer technician (for use of potentially dangerous tools), the owner of the database (custodian of the data provided to build the algorithm) and the official who benefits from the use (custodian and user).
-AD  - Univ Milano Bicocca, Dipartimento Giurisprudenza, Piazza Atenco Nuovo, Milan, ItalyC3  - University of Milano-BicoccaPU  - SOC ED IL MULINO
-PI  - BOLOGNA
-PA  - STRADA MAGGIORE 37, 40125 BOLOGNA, ITALY
-SN  - 1720-2396
-J9  - RAGION PRAT
-JI  - Ragion Prat.
-DA  - DEC
-PY  - 2021
-VL  - 57
-IS  - 2
-SP  - 405
-EP  - 426
-WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:000729109100006
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  54
-ER  -
-
-TY  - JOUR
-AU  - Gündüz, E
-TI  - The Classification of Zaydi Fuqaha: A Study within The Framework of The Work Named <i>Bulugh al</i>-<i>arab wa</i>- <i>kunfiz al</i>-<i>dhahab fi mari fat al</i>-<i>madhhab</i>
-T2  - CUMHURIYET ILAHIYAT DERGISI-CUMHURIYET THEOLOGY JOURNAL
-LA  - Turkish
-KW  - Islamic Law
-KW  - Zaydi
-KW  - Tabaqat al-fuqaha
-KW  - Bulagb al-arab
-KW  - al-Muhassililn
-KW  - al-Mudhakiriln
-AB  - In this study, the classification of Zaydi fuqaha' that emerged in the mutaabbiriln period of Zaydi fiqh and related terms are examined. The book named Bulagh al-arab wa- kunaz al-dhahab ff-marifat al-madhhab, which has great importance among the studies ai- ming to present the Zaydi fiqh accumulation as a uniform doctrinal structure was taken as a basis in the processing of the subject. After an introduction in which Zaydi fiqh studies are evaluated in their relationship with the subject, the issue is addressed under three main headings. In the first title, the author and his work are introduced, and in the second and third titles, the methods and terms used in the classification of the Zaydi fukaha are examined. The author of the work is 'Ali b. `Abd Allah al-Shahari (d. 1190/1776) who lived during the period of the Qasimi dynasty (al-dawla al-Qasimiyya) in Yemen. The most important characteristic of this work, which was prepared by using many important sources in the Zaydi literature, is that it was the most comprehensive study written on madhhab doctrine until then. The first part of the work explains that the right madhhab to be followed is Zaydiyya. In the second part, the classes of the Zaydi fuqaha', which is the subject of our study, are explained. The fuqaha' classes are primarily divided into two parts: al-salaf al-salihin and al-halaf al-salihin. The first dates back to the beginning of the 3rd/10th century. This class is divided into two parts, as al-sabiqiin and al-mutaabbiriln. The sabiqiin starts with 'Ali b. Abi Talib and his two sons al-Hasan, and ljusayn, and ends with the sons of twelve imams who are their descendants. Zayd b. 'Ali (d. 122/740) is one of the twelve imams. The most important of the faqihs in the part of mutaabbiriln, which started with al-Qasim b. Ibrahim al-Rassi (d. 246/860), are the six imams called ahl-al-nusils or a'imma al-nusils. The reason why they are named as such is that their words were taken as a basis in determining the views of the sect on the field of usill and Mill' 1-fiqh. al-Qasim al-Rassi is at a point where all the knowledge of the Prophet's family and the principles agreed upon by sabiqon, reach him through many channels. al-Hadi Yahya b. al-ljusayn (d. 298/911), grandson of al-Qasim, is the most important imams in terms of his position in the madhhab. The halaf al-salihin is also divided into two parts as ahl l-tahsil and ahll-naar. The first part also referred to as muhassain or a'imma al-tahsil, has no subcategories. The second part is divided into two sub-sections as ahll-tacwir and mudhakiriln. The muhassain class starts with those who catch up with the last class of ahl al-nusils and ends with 'Abd Allah b. Hamza (d. 614/1217), one of the three important imams. Two other important imams of muhassain are Ahmad b. al-Husayn (d. 411/1020) and his brother Yahya b. al-Husayn (d. 424/1032). It is the fiqh activity of the jurists of this class, called tahsil 1-madhhab, that brought Zaydi fiqh, which was fiqh of imams (madhahib 1-a'imma) in its first period, into a single madhhab and to its classical form in the last period. Mudhakiriln jurists lived at the same time as the ahl-t-taqrir.
-   This period is about 700 years from the beginning of the 6th/12th century, which is the last century of the muhassilfin class, to the end of the 12th/18th century, when Shahari lived. The roles of the ahl al-tacifir in the madhhab mostly consist of reviewing the works of the ahl-1 tahsil, approving the correct ones, and correcting the wrong ones. That's why they are so named. The author of Kit4b 1-Azithr, Ahmad b. Yahya 1-Murtada (d. 840/1437), is one of the prominent jurists among the ahll-tacwir. The majority of Zaydi fuqaha' belongs to the muzakiriln class. These are the lowest class of the ahl-al-naar. As an important result reached in the study, it is possible to state the following: There is a difference between some of the knowledge and opinions in modern Zaydi studies, which include the same subject as Shahari's work, in terms of the classification of Zaydi fuqaha' and the terms used. Therefore, the findings and conclusions based on this work should be confirmed by new studies on other Zaydi classics, and existing opinions on Zaydi jurisprudence should be reviewed.
-AD  - Bursa Uludag Univ, Fac Theol, Dept Basic Islamic Sci, Bursa, TurkeyC3  - Uludag UniversityPU  - CUMHURIYET UNIV, FAC THEOLOGY
-PI  - SIVAS
-PA  - CAMPUS, SIVAS, 58140, TURKEY
-SN  - 2528-9861
-SN  - 2528-987X
-J9  - CUMHUR ILAH DERG
-JI  - Cumhur. Ilah. Derg.
-DA  - DEC
-PY  - 2021
-VL  - 25
-IS  - 3
-SP  - 1485
-EP  - 1505
-WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:000756697600027
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  66
-ER  -
-
-TY  - JOUR
-AU  - Oimann, AK
-TI  - First Steps Towards an Artificial Judge
-T2  - TIJDSCHRIFT VOOR FILOSOFIE
-LA  - Dutch
-KW  - jurisprudence
-KW  - artificial intelligence (AI)
-KW  - automatisation
-KW  - algorithms
-KW  - decision-making
-KW  - philosophy of law
-AB  - Within the field of AI and Law, attempts are being made to model legal reasoning. Many arguments against algorithmic decision-making are based on the fact that algorithmic systems cannot meet the nature of legal reasoning. This paper claims that some of the traditional arguments that can be made against the use of algorithms in decision-making may be technically solvable in the future. A more fundamental argument is required if one wants to oppose fully automated decision-making systems. To this end, the first part of this paper explains why the use of algorithms in the judiciary is an appealing idea and provides a brief overview of the current state of the art in the domain of law and AI. The second part then discusses the transparency obligation and the duty to provide reasons and argues why these requirements are not necessarily an insurmountable problem when applied to algorithmic decision-making. The final section points to the inability of systems to give meaning that can serve as a basis when seeking fundamental arguments against algorithmic decision-making.
-AD  - Koninklijke Mil Sch, Brussels, BelgiumAD  - Katholieke Univ Leuven, Hoger Inst Wijsbegeerte, Leuven, BelgiumC3  - KU LeuvenPU  - PEETERS
-PI  - LEUVEN
-PA  - BONDGENOTENLAAN 153, B-3000 LEUVEN, BELGIUM
-SN  - 0040-750X
-SN  - 2031-8952
-J9  - TIJDSCHR FILOS
-JI  - Tijdschr. Filos.
-PY  - 2021
-VL  - 83
-IS  - 3
-SP  - 375
-EP  - 401
-DO  - 10.2143/TVF.83.3.3289987
-WE  - Arts &amp; Humanities Citation Index (A&amp;HCI)AN  - WOS:000758196400001
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  78
-ER  -
-

@@ -1,126 +1,0 @@
-﻿TY  - JOUR
-AU  - Jaremko, JL
-AU  - Azar, M
-AU  - Bromwich, R
-AU  - Lum, A
-AU  - Cheong, LA
-AU  - Gibert, M
-AU  - Laviolette, F
-AU  - Gray, B
-AU  - Reinhold, C
-AU  - Cicero, M
-AU  - Chong, J
-AU  - Shaw, J
-AU  - Rybicki, FJ
-AU  - Hurrell, C
-AU  - Lee, E
-AU  - Tang, A
-A1  - Canadian Assoc Radiologists CAR Ar
-TI  - Canadian Association of Radiologists White Paper on Ethical and Legal Issues Related to Artificial Intelligence in Radiology
-T2  - CANADIAN ASSOCIATION OF RADIOLOGISTS JOURNAL-JOURNAL DE L ASSOCIATION CANADIENNE DES RADIOLOGISTES
-LA  - English
-KW  - Artificial intelligence
-KW  - Machine learning
-KW  - Ethics
-KW  - Legal
-KW  - Radiology
-KW  - Imaging
-KW  - PERSONALIZED MEDICINE
-KW  - DE-IDENTIFICATION
-KW  - CONSENT
-KW  - IMAGES
-AB  - Artificial intelligence (AI) software that analyzes medical images is becoming increasingly prevalent. Unlike earlier generations of AI software, which relied on expert knowledge to identify imaging features, machine learning approaches automatically learn to recognize these features. However, the promise of accurate personalized medicine can only be fulfilled with access to large quantities of medical data from patients. This data could be used for purposes such as predicting disease, diagnosis, treatment optimization, and prognostication. Radiology is positioned to lead development and implementation of AI algorithms and to manage the associated ethical and legal challenges. This white paper from the Canadian Association of Radiologists provides a framework for study of the legal and ethical issues related to AI in medical imaging, related to patient data (privacy, confidentiality, ownership, and sharing); algorithms (levels of autonomy, liability, and jurisprudence); practice (best practices and current legal framework); and finally, opportunities in AI from the perspective of a universal health care system.
-AD  - Univ Alberta, Dept Radiol & Diagnost Imaging, Edmonton, AB, CanadaAD  - Univ Montreal, Dept Med, Montreal, PQ, CanadaAD  - Carleton Univ, Dept Law & Legal Studies, Ottawa, ON, CanadaAD  - Western Univ, Dept Med Imaging, London, ON, CanadaAD  - Univ Toronto, Dept Med Imaging, Toronto, ON, CanadaAD  - Univ Montreal, Ctr Rech Eth, Montreal, PQ, CanadaAD  - Univ Laval, Dept Comp Sci, Quebec City, PQ, CanadaAD  - Univ Toronto, St Michaels Hosp, Dept Med Imaging, Toronto, ON, CanadaAD  - McGill Univ, Dept Radiol, Hlth Ctr, Montreal, PQ, CanadaAD  - 16 Bit Inc, Toronto, ON, CanadaAD  - Womens Coll Hosp, Inst Hlth Syst Solut & Virtual Care, Toronto, ON, CanadaAD  - Univ Ottawa, Fac Med, Dept Radiol, Ottawa, ON, CanadaAD  - Ottawa Hosp Res Inst, Ottawa, ON, CanadaAD  - Imagia Cybernet, Montreal, PQ, CanadaAD  - Canadian Assoc Radiologists, Ottawa, ON, CanadaAD  - Valley Med Imaging, Dept Radiol, Langley, BC, CanadaAD  - Fraser Hlth Author, Dept Med Imaging, Delta, BC, CanadaAD  - Univ Montreal, Dept Radiol Radiooncol & Nucl Med, Montreal, PQ, CanadaC3  - University of AlbertaC3  - Universite de MontrealC3  - Carleton UniversityC3  - Western University (University of Western Ontario)C3  - University of TorontoC3  - Universite de MontrealC3  - Laval UniversityC3  - University of TorontoC3  - Saint Michaels Hospital TorontoC3  - McGill UniversityC3  - University of TorontoC3  - Womens College HospitalC3  - University of OttawaC3  - University of OttawaC3  - Ottawa Hospital Research InstituteC3  - Universite de MontrealFU  - Fonds de recherche du Quebec en Sante (FRQ-S); Fondation de l'association des Radiologistes du Quebec (FARQ) Clinical Research Scholarship Salary Award (FRQR-ARQ) [34939]
-FX  - Fonds de recherche du Quebec en Sante (FRQ-S) and Fondation de l'association des Radiologistes du Quebec (FARQ) Clinical Research Scholarship Salary Award (FRQR-ARQ #34939) to An Tang.
-PU  - ELSEVIER SCIENCE BV
-PI  - AMSTERDAM
-PA  - PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
-SN  - 0846-5371
-SN  - 1488-2361
-J9  - CAN ASSOC RADIOL J
-JI  - Can. Assoc. Radiol. J.-J. Assoc. Can. Radiol.
-DA  - MAY
-PY  - 2019
-VL  - 70
-IS  - 2
-SP  - 107
-EP  - 118
-DO  - 10.1016/j.carj.2019.03.001
-WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:000469164000002
-N1  - Times Cited in Web of Science Core Collection:  101
-Total Times Cited:  107
-Cited Reference Count:  44
-ER  -
-
-TY  - JOUR
-AU  - Becker, K
-AU  - Lipprandt, M
-AU  - Röhrig, R
-AU  - Neumuth, T
-TI  - Digital health - Software as a medical device in focus of the medical device regulation (MDR)
-T2  - IT-INFORMATION TECHNOLOGY
-LA  - English
-KW  - medical device legislation
-KW  - software/legislation and jurisprudence
-KW  - software as a medical device
-KW  - medical software
-KW  - regulatory affairs
-KW  - medical device regulation
-AB  - The Medical Device Directive (MDD) will be replaced on 26.05.2020 by the new Medical Device Regulation (MDR). The European Parliament wants to create a transparent, solid, predictable and sustainable legal framework. One of the major upcoming changes effects the perspective on software as a medical device. This paper describes the fundamental relationships between the policy framework and the challenges faced by manufacturers and operators of medical devices, in particular medical software and artificial intelligence (AI) systems, who need to verify compliance. To address this topic, we review and discuss the main implications of medical device regulations on software as a medical device and digital health applications along the MDR structure. Furthermore, we address practical limitations of the implementation, such as the availability of notified bodies and costs of the approval procedure.
-AD  - APOLLON Hsch Gesundheitswirtschaft, D-28359 Bremen, GermanyAD  - Univ Hosp RWTH Aachen, Inst Med Informat, D-52074 Aachen, GermanyAD  - Univ Leipzig, ICCAS, D-04103 Leipzig, GermanyC3  - RWTH Aachen UniversityC3  - RWTH Aachen University HospitalC3  - Leipzig UniversityPU  - WALTER DE GRUYTER GMBH
-PI  - BERLIN
-PA  - GENTHINER STRASSE 13, D-10785 BERLIN, GERMANY
-SN  - 1611-2776
-SN  - 2196-7032
-J9  - IT-INF TECHNOL
-JI  - IT-Inf. Technol.
-DA  - OCT
-PY  - 2019
-VL  - 61
-IS  - 5-6
-SP  - 211
-EP  - 218
-DO  - 10.1515/itit-2019-0026
-WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:000500353700002
-N1  - Times Cited in Web of Science Core Collection:  7
-Total Times Cited:  7
-Cited Reference Count:  4
-ER  -
-
-TY  - JOUR
-AU  - Kanuck, S
-TI  - Humor, Ethics, and Dignity: Being Human in the Age of Artificial Intelligence
-T2  - ETHICS & INTERNATIONAL AFFAIRS
-LA  - English
-KW  - humor
-KW  - ethics
-KW  - dignity
-KW  - human rights
-KW  - artificial intelligence
-KW  - Philippa Foot
-KW  - law
-KW  - philosophy
-KW  - driverless cars
-KW  - lethal autonomous weapons
-AB  - The growing adoption of artificial intelligence (AI) raises questions about what comparative advantage, if any, human beings will have over machines in the future. This essay explores what it means to be human and how those unique characteristics relate to the digital age. Humor and ethics both rely upon higher-level cognition that accounts for unstructured and unrelated data. That capability is also vital to decision-making processes-such as jurisprudence and voting systems. Since machine learning algorithms lack the ability to understand context or nuance, reliance on them could lead to undesired results for society. By way of example, two case studies are used to illustrate the legal and moral considerations regarding the software algorithms used by driverless cars and lethal autonomous weapons systems. Social values must be encoded or introduced into training data sets if AI applications are to be expected to produce results similar to a "human in the loop." There is a choice to be made, then, about whether we impose limitations on these new technologies in favor of maintaining human control, or whether we seek to replicate ethical reasoning and lateral thinking in the systems we create. The answer will have profound effects not only on how we interact with AI but also on how we interact with one another and perceive ourselves.
-AD  - Stanford Univ, Hoover Inst, Stanford, CA 94305 USAAD  - Stanford Univ, Ctr Int Secur & Cooperat, Stanford, CA 94305 USAAD  - Off Director Natl Intelligence, Cyber Issues, Washington, DC USAAD  - Global Commiss Stabil Cyberspace, Res Advisory Grp, The Hague, NetherlandsAD  - Int Inst Strateg Studies, Cyber Space & Future Conflict, London, EnglandC3  - Stanford UniversityC3  - Stanford UniversityPU  - CAMBRIDGE UNIV PRESS
-PI  - NEW YORK
-PA  - 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
-SN  - 0892-6794
-SN  - 1747-7093
-J9  - ETHICS INT AFF
-JI  - Ethics Int. Aff.
-DA  - SPR
-PY  - 2019
-VL  - 33
-IS  - 1
-SP  - 3
-EP  - 12
-C7  - PII S0892679418000928
-DO  - 10.1017/S0892679418000928
-WE  - Social Science Citation Index (SSCI)AN  - WOS:000460659600001
-N1  - Times Cited in Web of Science Core Collection:  4
-Total Times Cited:  5
-Cited Reference Count:  16
-ER  -
-

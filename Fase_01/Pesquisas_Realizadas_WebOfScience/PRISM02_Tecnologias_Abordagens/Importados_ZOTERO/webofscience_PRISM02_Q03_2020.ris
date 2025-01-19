@@ -1,29 +1,0 @@
-﻿TY  - CPAPER
-AU  - Farooq, H
-AU  - Kaushik, B
-A1  - IEEE
-TI  - Review of Deep Learning Techniques for Improving the Performance of Machine Reading Comprehension Problem
-T2  - PROCEEDINGS OF THE INTERNATIONAL CONFERENCE ON INTELLIGENT COMPUTING AND CONTROL SYSTEMS (ICICCS 2020)
-LA  - English
-CP  - International Conference on Intelligent Computing and Control Systems (ICICCS)
-KW  - Reading comprehension (MRC)
-KW  - natural language processing (NLP)
-KW  - convolutional neural network (CNN)
-KW  - Bi-directional long short term memory (Bi LSTM)
-KW  - recurrent neural network (RNN)
-KW  - gated recurrent neural network (GRU)
-AB  - The amazing research of Artificial Intelligence is natural language processing (NLP) and the mesmerizing field in NLP is machine reading comprehension (MRC). MRC alleviates the efforts of making machines behave like a human as it helps information accessing in natural language by developing Question answering systems. MRC is summarized as a task to read a piece of text, understand it, and answer the related question of the text. Reading text can be cloze style reading (fill in the blanks from the text) as well as open style reading (separate question) and understanding the piece of text as well as the query is accomplished by contextual representation and Attention mechanism. In the MRC literature, various methodologies have been used for extracting answers from the given text including primitive methods to the deep learning methods to have a step towards deploying machine intelligence. The introduction of deep learning and large datasets in the recent few years has encouraged the success of MRC. This paper gives a recent review of MRC models based on deep learning, datasets on which they have been evaluated, and also their word representations.
-AD  - Shri Mata Vaishno Devi Univ, Comp Sci, Jammu, IndiaC3  - Shri Mata Vaishno Devi UniversityPU  - IEEE
-PI  - NEW YORK
-PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
-SN  - 978-1-7281-4876-2
-PY  - 2020
-SP  - 928
-EP  - 935
-DO  - 10.1109/iciccs48265.2020.9121015
-WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000609825100159
-N1  - Times Cited in Web of Science Core Collection:  2
-Total Times Cited:  3
-Cited Reference Count:  48
-ER  -
-

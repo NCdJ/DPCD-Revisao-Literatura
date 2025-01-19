@@ -1,359 +1,0 @@
-﻿TY  - JOUR
-AU  - Elnaggar, A
-AU  - Heinzinger, M
-AU  - Dallago, C
-AU  - Rehawi, G
-AU  - Wang, Y
-AU  - Jones, L
-AU  - Gibbs, T
-AU  - Feher, T
-AU  - Angerer, C
-AU  - Steinegger, M
-AU  - Bhowmik, D
-AU  - Rost, B
-TI  - ProtTrans: Toward Understanding the Language of Life Through Self-Supervised Learning
-T2  - IEEE TRANSACTIONS ON PATTERN ANALYSIS AND MACHINE INTELLIGENCE
-LA  - English
-KW  - Proteins
-KW  - Training
-KW  - Amino acids
-KW  - Task analysis
-KW  - Databases
-KW  - Computational modeling
-KW  - Three-dimensional displays
-KW  - Computational biology
-KW  - high performance computing
-KW  - machine learning
-KW  - language modeling
-KW  - deep learning
-KW  - PROTEIN SECONDARY STRUCTURE
-KW  - NEURAL-NETWORKS
-KW  - PREDICTION
-KW  - LOCALIZATION
-AB  - Computational biology and bioinformatics provide vast data gold-mines from protein sequences, ideal for Language Models (LMs) taken from Natural Language Processing (NLP). These LMs reach for new prediction frontiers at low inference costs. Here, we trained two auto-regressive models (Transformer-XL, XLNet) and four auto-encoder models (BERT, Albert, Electra, T5) on data from UniRef and BFD containing up to 393 billion amino acids. The protein LMs (pLMs) were trained on the Summit supercomputer using 5616 GPUs and TPU Pod up-to 1024 cores. Dimensionality reduction revealed that the raw pLM-embeddings from unlabeled data captured some biophysical features of protein sequences. We validated the advantage of using the embeddings as exclusive input for several subsequent tasks: (1) a per-residue (per-token) prediction of protein secondary structure (3-state accuracy Q3=81%-87%); (2) per-protein (pooling) predictions of protein sub-cellular location (ten-state accuracy: Q10=81%) and membrane versus water-soluble (2-state accuracy Q2=91%). For secondary structure, the most informative embeddings (ProtT5) for the first time outperformed the state-of-the-art without multiple sequence alignments (MSAs) or evolutionary information thereby bypassing expensive database searches. Taken together, the results implied that pLMs learned some of the grammar of the language of life. All our models are available through https://github.com/agemagician/ProtTrans.
-AD  - Tech Univ Munich TUM, Dept Informat Bioinformat & Computat Biol i12, D-85748 Garching, GermanyAD  - Med AI Technol Wu Xi Ltd, Wuxi 214000, Jiangsu, Peoples R ChinaAD  - Google, Google AI, Mountain View, CA 94043 USAAD  - NVIDIA, Santa Clara, CA 95051 USAAD  - Seoul Natl Univ, Sch Biol Sci, Seoul 08826, South KoreaAD  - Oak Ridge Natl Lab, POB 2009, Oak Ridge, TN 37830 USAC3  - Technical University of MunichC3  - Google IncorporatedC3  - Nvidia CorporationC3  - Seoul National University (SNU)C3  - United States Department of Energy (DOE)C3  - Oak Ridge National LaboratoryFU  - Software Campus 2.0 (TUM) through the German Ministry for Research and Education (BMBF); Alexander von Humboldt foundation through the German Ministry for Research and Education (BMBF); Deutsche Forschungsgemeinschaft [DFG-GZ: RO1320/4-1]; NVIDIA; National Research Foundation of Korea [2019R1A6A1A10073437, NRF-2020M3A9G7103933]; SeoulNational University; Google Cloud; Google Cloud Research Credits Program under Covid19 HPC Consortium grant; DOE Office of Science User Facility [DEAC05-00OR22725]; TPU pods under TensorFlow Research Cloud grant
-FX  - The authors would like to thank Tim Karl, TUM, and Jian Kong, TUM, for invaluable help with hard-and software, Inga Weise, TUM, and Aline Schmidt, TUM, for support with many other aspects of this work, Florian Matthes, TUM, for his generous support and encouragement, crucial support and feedback from NVIDIA, in particular to Ulrich Michaelis, Ada Sedova, Geetika Gupta, Axel Koehler, Frederic Pariente, Jonathan Lefman, and Thomas Bradley, and many at ORNL without whom no aspect of this work could have been realized, particular thanks to John Gounley, Hong-Jun Yoon, Georgia Tourassi, Bill, Brian, Junqi, Graham, and Ver~onica (ORNL Summit). The authors would also like to thank Jack Wells (ORNL) for opening the door to kicking off this project. From IBM, the authors would like to thank Nicolas Castet and Bryant Nelson for their help to fix issues and enhance the performance of IBM PowerAI. From Google, the authors would like to thank Jamie Kinney, Alex Schroeder, Nicole DeSantis, Andrew Stein, Vishal Mishra, Eleazar Ortiz, Nora Limbourg, Cristian Mezzanotte, and all TFRC Team for helping to setup a project on Google Cloud and solving Google cloud issues. No ProtTrans model was easily publicly available without support from the Hugging Face team, including Patrick von Platen, Julien Chaumond, and Clement Delangue. The authors would also like to thank Konstantin Wei ss enow for helping with grant writing and providing early results for the structure prediction task. The authors would also like to thank both Adam Roberts and Colin Raffel for help with the T5 model, and the editor and the anonymous reviewers for essential criticism, especially, for suggesting to compare t-SNEs to randomly initialized models. The authors would also like to thank Leibniz Rechenzentrum (LRZ) for providing access to DGX-1(V100) for the testing phase. This work was supported in part by Software Campus 2.0 (TUM) through the German Ministry for Research and Education (BMBF), in part by the Alexander von Humboldt foundation through the German Ministry for Research and Education (BMBF), in part by the Deutsche Forschungsgemeinschaft under Grant DFG-GZ: RO1320/4-1, and in part by NVIDIA with the donation of 2 Titan GPUs used for the development phase. The work of Martin Steinegger was supported in part by the National Research Foundation of Korea under Grants 2019R1A6A1A10073437 and NRF-2020M3A9G7103933, in part by the New Faculty Startup Fund and the Creative-Pioneering Researchers Program through SeoulNational University. The work of Rostlab was supported in part by Google Cloud and in part by Google Cloud Research Credits Program to fund this project under Covid19 HPC Consortium grant. This work used resources of the Oak Ridge National Laboratory (ORNL) Leadership Computing Facility, which is a DOE Office of Science User Facility supported under Grant DEAC05-00OR22725, and resources of TPU pods under TensorFlow Research Cloud grant. A. Elnaggar and M. Heinzinger contributed equally to thiswork.
-PU  - IEEE COMPUTER SOC
-PI  - LOS ALAMITOS
-PA  - 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
-SN  - 0162-8828
-SN  - 1939-3539
-J9  - IEEE T PATTERN ANAL
-JI  - IEEE Trans. Pattern Anal. Mach. Intell.
-DA  - OCT 1
-PY  - 2022
-VL  - 44
-IS  - 10
-SP  - 7112
-EP  - 7127
-DO  - 10.1109/TPAMI.2021.3095381
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000853875300088
-N1  - Times Cited in Web of Science Core Collection:  423
-Total Times Cited:  435
-Cited Reference Count:  99
-ER  -
-
-TY  - JOUR
-AU  - Luo, RQ
-AU  - Sun, LA
-AU  - Xia, YC
-AU  - Qin, T
-AU  - Zhang, S
-AU  - Poon, H
-AU  - Liu, TY
-TI  - BioGPT: generative pre-trained transformer for biomedical text generation and mining
-T2  - BRIEFINGS IN BIOINFORMATICS
-LA  - English
-KW  - biomedical literature
-KW  - generative pre-trained language model
-KW  - text generation
-KW  - text mining
-AB  - Pre-trained language models have attracted increasing attention in the biomedical domain, inspired by their great success in the general natural language domain. Among the two main branches of pre-trained language models in the general language domain, i.e. BERT (and its variants) and GPT (and its variants), the first one has been extensively studied in the biomedical domain, such as BioBERT and PubMedBERT. While they have achieved great success on a variety of discriminative downstream biomedical tasks, the lack of generation ability constrains their application scope. In this paper, we propose BioGPT, a domain-specific generative Transformer language model pre-trained on large-scale biomedical literature. We evaluate BioGPT on six biomedical natural language processing tasks and demonstrate that our model outperforms previous models on most tasks. Especially, we get 44.98%, 38.42% and 40.76% F1 score on BC5CDR, KD-DTI and DDI end-to-end relation extraction tasks, respectively, and 78.2% accuracy on PubMedQA, creating a new record. Our case study on text generation further demonstrates the advantage of BioGPT on biomedical literature to generate fluent descriptions for biomedical terms.
-AD  - Microsoft Res AI4Sci, Beijing, Peoples R ChinaAD  - Peking Univ, Beijing, Peoples R ChinaAD  - Microsoft Res, Beijing, Peoples R ChinaAD  - Microsoft, Beijing, Peoples R ChinaAD  - Microsoft Res Asia, Beijing, Peoples R ChinaC3  - Peking UniversityC3  - MicrosoftC3  - MicrosoftC3  - Microsoft Research AsiaPU  - OXFORD UNIV PRESS
-PI  - OXFORD
-PA  - GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
-SN  - 1467-5463
-SN  - 1477-4054
-J9  - BRIEF BIOINFORM
-JI  - Brief. Bioinform.
-DA  - NOV
-PY  - 2022
-VL  - 23
-IS  - 6
-DO  - 10.1093/bib/bbac409
-C6  - SEP 2022
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000859127700001
-N1  - Times Cited in Web of Science Core Collection:  236
-Total Times Cited:  245
-Cited Reference Count:  53
-ER  -
-
-TY  - CPAPER
-AU  - Yu, XM
-AU  - Tang, LL
-AU  - Rao, YM
-AU  - Huang, TJ
-AU  - Zhou, J
-AU  - Lu, JW
-A1  - IEEE COMP SOC
-TI  - Point-BERT: Pre-training 3D Point Cloud Transformers with Masked Point Modeling
-T2  - 2022 IEEE/CVF CONFERENCE ON COMPUTER VISION AND PATTERN RECOGNITION (CVPR 2022)
-LA  - English
-CP  - IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
-AB  - We present Point-BERT, a new paradigm for learning Transformers to generalize the concept of BERT [8] to 3D point cloud. Inspired by BERT, we devise a Masked Point Modeling (MPM) task to pre-train point cloud Transformers. Specifically, we first divide a point cloud into several local point patches, and a point cloud Tokenizer with a discrete Variational AutoEncoder (dVAE) is designed to generate discrete point tokens containing meaningful local information. Then, we randomly mask out some patches of input point clouds and feed them into the backbone Transformers. The pre-training objective is to recover the original point tokens at the masked locations under the supervision of point tokens obtained by the Tokenizer. Extensive experiments demonstrate that the proposed BERT-style pre-training strategy significantly improves the performance of standard point cloud Transformers. Equipped with our pre-training strategy, we show that a pure Transformer architecture attains 93.8% accuracy on ModelNet40 and 83.1% accuracy on the hardest setting of ScanObjectNN, surpassing carefully designed point cloud models with much fewer hand-made designs. We also demonstrate that the representations learned by Point-BERT transfer well to new tasks and domains, where our models largely advance the state-of-the-art of few-shot point cloud classification task. The code and pre-trained models are available at https://github.com/lulutang0608/Point-BERT.
-AD  - Tsinghua Univ, Beijing, Peoples R ChinaAD  - BAAI, Beijing, Peoples R ChinaAD  - Peking Univ, Beijing, Peoples R ChinaC3  - Tsinghua UniversityC3  - Peking UniversityFU  - National Key Research and Development Program of China [2017YFA0700802]; National Natural Science Foundation of China [62152603, U1813218]; Beijing Academy of Artificial Intelligence (BAAI); Institute for Guo Qiang, Tsinghua University
-FX  - This work was supported in part by the National Key Research and Development Program of China under Grant 2017YFA0700802, in part by the National Natural Science Foundation of China under Grant 62152603, Grant U1813218, in part by a grant from the Beijing Academy of Artificial Intelligence (BAAI), and in part by a grant from the Institute for Guo Qiang, Tsinghua University.
-PU  - IEEE COMPUTER SOC
-PI  - LOS ALAMITOS
-PA  - 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1264 USA
-SN  - 1063-6919
-SN  - 978-1-6654-6946-3
-J9  - PROC CVPR IEEE
-PY  - 2022
-SP  - 19291
-EP  - 19300
-DO  - 10.1109/CVPR52688.2022.01871
-WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000870783005012
-N1  - Times Cited in Web of Science Core Collection:  210
-Total Times Cited:  217
-Cited Reference Count:  66
-ER  -
-
-TY  - CPAPER
-AU  - Du, ZX
-AU  - Qian, YJ
-AU  - Liu, X
-AU  - Ding, M
-AU  - Qiu, JZ
-AU  - Yang, ZL
-AU  - Tang, J
-A1  - Assoc Computat Linguist
-TI  - GLM: General Language Model Pretraining with Autoregressive Blank Infilling
-T2  - PROCEEDINGS OF THE 60TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2022), VOL 1: (LONG PAPERS)
-LA  - English
-CP  - 60th Annual Meeting of the Association-for-Computational-Linguistics (ACL)
-AB  - There have been various types of pretraining architectures including autoencoding models (e.g., BERT), autoregressive models (e.g., GPT), and encoder-decoder models (e.g., T5). However, none of the pretraining frameworks performs the best for all tasks of three main categories including natural language understanding (NLU), unconditional generation, and conditional generation. We propose a General Language Model (GLM) based on autoregressive blank infilling to address this challenge. GLM improves blank filling pretraining by adding 2D positional encodings and allowing an arbitrary order to predict spans, which results in performance gains over BERT and T5 on NLU tasks. Meanwhile, GLM can be pretrained for different types of tasks by varying the number and lengths of blanks. On a wide range of tasks across NLU, conditional and unconditional generation, GLM outperforms BERT, T5, and GPT given the same model sizes and data, and achieves the best performance from a single pretrained model with 1.25x parameters of BERTLarge, demonstrating its generalizability to different downstream tasks.(1)
-AD  - Tsinghua Univ, Beijing, Peoples R ChinaAD  - Beijing Acad Artificial Intelligence BAAI, Beijing, Peoples R ChinaAD  - MIT, CSAIL, Cambridge, MA 02139 USAAD  - Shanghai Qi Zhi Inst, Shanghai, Peoples R ChinaC3  - Tsinghua UniversityC3  - Beijing Academy of Artificial IntelligenceC3  - Massachusetts Institute of Technology (MIT)FU  - NSFC [61825602]; Beijing Academy of Artificial Intelligence (BAAI)
-FX  - The work is supported by the NSFC for Distinguished Young Scholar(61825602), and Beijing Academy of Artificial Intelligence (BAAI).
-PU  - ASSOC COMPUTATIONAL LINGUISTICS-ACL
-PI  - STROUDSBURG
-PA  - 209 N EIGHTH STREET, STROUDSBURG, PA 18360 USA
-SN  - 978-1-955917-21-6
-PY  - 2022
-SP  - 320
-EP  - 335
-WE  - Conference Proceedings Citation Index - Science (CPCI-S)WE  - Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)AN  - WOS:000828702300026
-N1  - Times Cited in Web of Science Core Collection:  199
-Total Times Cited:  222
-Cited Reference Count:  50
-ER  -
-
-TY  - CPAPER
-AU  - Hou, ZY
-AU  - Liu, X
-AU  - Cen, YK
-AU  - Dong, YX
-AU  - Yang, HX
-AU  - Wang, CJ
-AU  - Tang, J
-A1  - ACM
-TI  - GraphMAE: Self-Supervised Masked Graph Autoencoders
-T2  - PROCEEDINGS OF THE 28TH ACM SIGKDD CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING, KDD 2022
-LA  - English
-CP  - 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KKD)
-KW  - Graph Neural Networks
-KW  - Self-Supervised Learning
-KW  - Graph Representation Learning
-KW  - Pre-Training
-AB  - Self-supervised learning (SSL) has been extensively explored in recent years. Particularly, generative SSL has seen emerging success in natural language processing and other AI fields, such as the wide adoption of BERT and GPT. Despite this, contrastive learning-which heavily relies on structural data augmentation and complicated training strategies-has been the dominant approach in graph SSL, while the progress of generative SSL on graphs, especially graph autoencoders (GAEs), has thus far not reached the potential as promised in other fields. In this paper, we identify and examine the issues that negatively impact the development of GAEs, including their reconstruction objective, training robustness, and error metric. We present a masked graph autoencoder GraphMAE(1) that mitigates these issues for generative self-supervised graph learning. Instead of reconstructing graph structures, we propose to focus on feature reconstruction with both a masking strategy and scaled cosine error that benefit the robust training of Graph-MAE. We conduct extensive experiments on 21 public datasets for three different graph learning tasks. The results manifest that GraphMAE-a simple graph autoencoder with careful designs-can consistently generate outperformance over both contrastive and generative state-of-the-art baselines. This study provides an understanding of graph autoencoders and demonstrates the potential of generative self-supervised learning on graphs.
-AD  - Tsinghua Univ, Beijing, Peoples R ChinaAD  - Alibaba Grp, DAMO Acad, Hangzhou, Peoples R ChinaAD  - BirenTech Res, Beijing, Peoples R ChinaC3  - Tsinghua UniversityC3  - Alibaba GroupFU  - Technology and Innovation Major Project of the Ministry of Science and Technology of China [2020AAA0108400, 2020AAA0108402]; Natural Science Foundation of China [61836013]; National Science Foundation for Distinguished Young Scholars [61825602]
-FX  - This work is supported by Technology and Innovation Major Project of the Ministry of Science and Technology of China under Grant 2020AAA0108400 and 2020AAA0108402, Natural Science Foundation of China (Key Program, No. 61836013), and National Science Foundation for Distinguished Young Scholars (No. 61825602).
-PU  - ASSOC COMPUTING MACHINERY
-PI  - NEW YORK
-PA  - 1601 Broadway, 10th Floor, NEW YORK, NY, UNITED STATES
-SN  - 978-1-4503-9385-0
-PY  - 2022
-SP  - 594
-EP  - 604
-DO  - 10.1145/3534678.3539321
-WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:001119000300060
-N1  - Times Cited in Web of Science Core Collection:  162
-Total Times Cited:  169
-Cited Reference Count:  61
-ER  -
-
-TY  - CPAPER
-AU  - Qiu, RH
-AU  - Huang, Z
-AU  - Yin, HZ
-AU  - Wang, ZJ
-A1  - ASSOC COMP MACHINERY
-TI  - Contrastive Learning for Representation Degeneration Problem in Sequential Recommendation
-T2  - WSDM'22: PROCEEDINGS OF THE FIFTEENTH ACM INTERNATIONAL CONFERENCE ON WEB SEARCH AND DATA MINING
-LA  - English
-CP  - 15th ACM International Conference on Web Search and Data Mining (WSDM)
-KW  - sequential recommendation
-KW  - contrastive learning
-KW  - NETWORKS
-AB  - Recent advancements of sequential deep learning models such as Transformer and BERT have significantly facilitated the sequential recommendation. However, according to our study, the distribution of item embeddings generated by these models tends to degenerate into an anisotropic shape, which may result in high semantic similarities among embeddings. In this paper, both empirical and theoretical investigations of this representation degeneration problem are first provided, based on which a novel recommender model DuoRec is proposed to improve the item embeddings distribution. Specifically, in light of the uniformity property of contrastive learning, a contrastive regularization is designed for DuoRec to reshape the distribution of sequence representations. Given the convention that the recommendation task is performed by measuring the similarity between sequence representations and item embeddings in the same space via dot product, the regularization can be implicitly applied to the item embedding distribution. Existing contrastive learning methods mainly rely on data level augmentation for user-item interaction sequences through item cropping, masking, or reordering and can hardly provide semantically consistent augmentation samples. In DuoRec, a model-level augmentation is proposed based on Dropout to enable better semantic preserving. Furthermore, a novel sampling strategy is developed, where sequences having the same target item are chosen hard positive samples. Extensive experiments conducted on five datasets demonstrate the superior performance of the proposed DuoRec model compared with baseline methods. Visualization results of the learned representations validate that DuoRec can largely alleviate the representation degeneration problem.
-AD  - Univ Queensland, Brisbane, Qld, AustraliaC3  - University of QueenslandFU  -  [CE200100025];  [DP190102353];  [DP190101985];  [FT210100624]
-FX  - The work is supported byAustralian Research Council (CE200100025, DP190102353, DP190101985, FT210100624).
-PU  - ASSOC COMPUTING MACHINERY
-PI  - NEW YORK
-PA  - 1601 Broadway, 10th Floor, NEW YORK, NY, UNITED STATES
-SN  - 978-1-4503-9132-0
-PY  - 2022
-SP  - 813
-EP  - 823
-DO  - 10.1145/3488560.3498433
-WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000810504300088
-N1  - Times Cited in Web of Science Core Collection:  162
-Total Times Cited:  173
-Cited Reference Count:  58
-ER  -
-
-TY  - CPAPER
-AU  - Dao, T
-AU  - Fu, DY
-AU  - Ermon, S
-AU  - Rudra, A
-AU  - Ré, C
-ED  - Koyejo, S
-ED  - Mohamed, S
-ED  - Agarwal, A
-ED  - Belgrave, D
-ED  - Cho, K
-ED  - Oh, A
-TI  - FLASHATTENTION: Fast and Memory-Efficient Exact Attention with IO-Awareness
-T2  - ADVANCES IN NEURAL INFORMATION PROCESSING SYSTEMS 35 (NEURIPS 2022)
-LA  - English
-CP  - 36th Conference on Neural Information Processing Systems (NeurIPS)
-KW  - COMPILER
-KW  - MODEL
-KW  - SET
-AB  - Transformers are slow and memory-hungry on long sequences, since the time and memory complexity of self-attention are quadratic in sequence length. Approximate attention methods have attempted to address this problem by trading off model quality to reduce the compute complexity, but often do not achieve wall-clock speedup. We argue that a missing principle is making attention algorithms IO-aware-accounting for reads and writes between levels of GPU memory. We propose FLASHATTENTION, an IO-aware exact attention algorithm that uses tiling to reduce the number of memory reads/writes between GPU high bandwidth memory (HBM) and GPU on-chip SRAM. We analyze the IO complexity of FLASHATTENTION, showing that it requires fewer HBM accesses than standard attention, and is optimal for a range of SRAM sizes. We also extend FLASHATTENTION to block-sparse attention, yielding an approximate attention algorithm that is faster than any existing approximate attention method. FLASHATTENTION trains Transformers faster than existing baselines: 15% end-to-end wall-clock speedup on BERT-large (seq. length 512) compared to the MLPerf 1.1 training speed record, 3 x speedup on GPT-2 (seq. length 1K), and 2.4 x speedup on long-range arena (seq. length 1K-4K). FLASHATTENTION and block-sparse FLASHATTENTION enable longer context in Transformers, yielding higher quality models (0.7 better perplexity on GPT-2 and 6.4 points of lift on long-document classification) and entirely new capabilities: the first Transformers to achieve better-than-chance performance on the Path-X challenge (seq. length 16K, 61.4% accuracy) and Path-256 (seq. length 64K, 63.1% accuracy).
-AD  - Stanford Univ, Dept Comp Sci, Stanford, CA 94305 USAAD  - SUNY Buffalo, Dept Comp Sci & Engn, Buffalo, NY USAC3  - Stanford UniversityC3  - State University of New York (SUNY) SystemC3  - University at Buffalo, SUNYFU  - NIH [U54EB020405]; NSF [CCF-1763481]; (Velocity) [1937301]; ARL [W911NF-21-2-0251]; ONR; Applying Non-Euclidean Geometry in Machine Learning [N000142012275]; Xilinx; Intel; Microsoft; Accenture, Ericsson; Analog Devices; Google Cloud, Salesforce; Total; Department of Defense (DoD) through the National Defense Science and Engineering Graduate Fellowship (NDSEG) Program; Google; VMWare
-FX  - We gratefully acknowledge the support of NIH under No. U54EB020405 (Mobilize), NSF under Nos. CCF1763315 (Beyond Sparsity), CCF1563078 (Volume to Velocity), and 1937301 (RTML); ARL under No. W911NF-21-2-0251 (Interactive Human-AI Teaming); ONR under No. N000141712266 (Unifying Weak Supervision); ONR N00014-20-1-2480: Understanding and Applying Non-Euclidean Geometry in Machine Learning; N000142012275 (NEPTUNE); NXP, Xilinx, LETI-CEA, Intel, IBM, Microsoft, NEC, Toshiba, TSMC, ARM, Hitachi, BASF, Accenture, Ericsson, Qualcomm, Analog Devices, Google Cloud, Salesforce, Total, the HAI-GCP & HAI-Azure Cloud Credits for Research program, the Stanford Data Science Initiative (SDSI), Department of Defense (DoD) through the National Defense Science and Engineering Graduate Fellowship (NDSEG) Program, and members of the Stanford DAWN project: Facebook, Google, and VMWare. The U.S. Government is authorized to reproduce and distribute reprints for Governmental purposes notwithstanding any copyright notation thereon. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views, policies, or endorsements, either expressed or implied, of NIH, ONR, or the U.S. Government. Atri Rudra's research is supported by NSF grant CCF-1763481.
-PU  - NEURAL INFORMATION PROCESSING SYSTEMS (NIPS)
-PI  - LA JOLLA
-PA  - 10010 NORTH TORREY PINES RD, LA JOLLA, CALIFORNIA 92037 USA
-SN  - 1049-5258
-SN  - 978-1-7138-7108-8
-J9  - ADV NEUR IN
-PY  - 2022
-WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:001213927503043
-N1  - Times Cited in Web of Science Core Collection:  158
-Total Times Cited:  164
-Cited Reference Count:  98
-ER  -
-
-TY  - JOUR
-AU  - Yang, F
-AU  - Wang, WC
-AU  - Wang, F
-AU  - Fang, Y
-AU  - Tang, DY
-AU  - Huang, JZ
-AU  - Lu, H
-AU  - Yao, JH
-TI  - scBERT as a large-scale pretrained deep language model for cell type annotation of single-cell RNA-seq data
-T2  - NATURE MACHINE INTELLIGENCE
-LA  - English
-AB  - Annotating cell types on the basis of single-cell RNA-seq data is a prerequisite for research on disease progress and tumour microenvironments. Here we show that existing annotation methods typically suffer from a lack of curated marker gene lists, improper handling of batch effects and difficulty in leveraging the latent gene-gene interaction information, impairing their generalization and robustness. We developed a pretrained deep neural network-based model, single-cell bidirectional encoder representations from transformers (scBERT), to overcome the challenges. Following BERT's approach to pretraining and fine-tuning, scBERT attains a general understanding of gene-gene interactions by being pretrained on huge amounts of unlabelled scRNA-seq data; it is then transferred to the cell type annotation task of unseen and user-specific scRNA-seq data for supervised fine-tuning. Extensive and rigorous benchmark studies validated the superior performance of scBERT on cell type annotation, novel cell type discovery, robustness to batch effects and model interpretability.
-   Cell type annotation is a core task for single cell RNA-sequencing, but current bioinformatic tools struggle with some of the underlying challenges, including high dimensionality, data sparsity, batch effects and a lack of labels. In a self-supervised approach, a transformer model called scBERT is pretrained on millions of unlabelled public single cell RNA-seq data and then fine-tuned with a small number of labelled samples for cell annotation tasks.
-AD  - Tencent, AI Lab, Shenzhen, Peoples R ChinaAD  - Shanghai Jiao Tong Univ, AI Inst, MoE Key Lab Artificial Intelligence, Sch Life Sci & Biotechnol,SJTU Yale Joint Ctr Bio, Shanghai, Peoples R ChinaAD  - Harvard Univ, Dept Mol & Cellular Biol, Cambridge, MA 02138 USAAD  - Harvard Med Sch, Dept Immunol, Boston, MA 02115 USAAD  - Univ Texas Arlington, Dept Comp Sci & Engn, Arlington, TX 76019 USAAD  - Shanghai Childrens Hosp, Shanghai Engn Res Ctr Big Data Pediat Precis Med, Ctr Biomed Informat, Shanghai, Peoples R ChinaC3  - TencentC3  - Shanghai Jiao Tong UniversityC3  - Harvard UniversityC3  - Harvard UniversityC3  - Harvard Medical SchoolC3  - University of Texas SystemC3  - University of Texas ArlingtonC3  - Shanghai Jiao Tong UniversityFU  - National Key R&D Program of China [2018YFC0910500]; SJTU-Yale Collaborative Research Seed Fund; Neil Shen's SJTU Medical Research and Key-Area Research; Development Program of Guangdong Province [2021B0101420005]
-FX  - We thank B. Jiang and Y. Ji for their valuable suggestions on model building and experimental design. We thank T. Shen for advice on the large-scale model pretraining. H.L. was supported by the National Key R&D Program of China (grant no. 2018YFC0910500), a SJTU-Yale Collaborative Research Seed Fund, and Neil Shen's SJTU Medical Research and Key-Area Research. F.Y. was supported by Development Program of Guangdong Province (grant no. 2021B0101420005).
-PU  - NATURE PORTFOLIO
-PI  - BERLIN
-PA  - HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
-SN  - 2522-5839
-J9  - NAT MACH INTELL
-JI  - Nat. Mach. Intell.
-DA  - OCT
-PY  - 2022
-VL  - 4
-IS  - 10
-SP  - 852
-EP  - +
-DO  - 10.1038/s42256-022-00534-z
-C6  - SEP 2022
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000859605000002
-N1  - Times Cited in Web of Science Core Collection:  128
-Total Times Cited:  133
-Cited Reference Count:  60
-ER  -
-
-TY  - CPAPER
-AU  - Lin, XJ
-AU  - Xiong, G
-AU  - Gou, GP
-AU  - Li, Z
-AU  - Shi, JZ
-AU  - Yu, J
-A1  - ACM
-TI  - ET-BERT: A Contextualized Datagram Representation with Pre-training Transformers for Encrypted Traffic Classification
-T2  - PROCEEDINGS OF THE ACM WEB CONFERENCE 2022 (WWW'22)
-LA  - English
-CP  - 31st ACM Web Conference (WWW)
-KW  - Encrypted Traffic Classification
-KW  - Pre-training
-KW  - Transformer
-KW  - Masked BURST Model
-KW  - Same-origin BURST Prediction
-KW  - NETWORK
-AB  - Encrypted traffic classification requires discriminative and robust traffic representation captured from content-invisible and imbalanced traffic data for accurate classification, which is challenging but indispensable to achieve network security and network management. The major limitation of existing solutions is that they highly rely on the deep features, which are overly dependent on data size and hard to generalize on unseen data. How to leverage the open-domain unlabeled traffic data to learn representation with strong generalization ability remains a key challenge. In this paper, we propose a new traffic representation model called Encrypted Traffic Bidirectional Encoder Representations from Transformer (ET-BERT), which pre-trains deep contextualized datagram-level representation from large-scale unlabeled data. The pre-trained model can be fine-tuned on a small number of task-specific labeled data and achieves state-of-the-art performance across five encrypted traffic classification tasks, remarkably pushing the F1 of ISCX-VPN-Service to 98.9% (5.2%.), Cross-Platform (Android) to 92.5% (5.4%.), CSTNET-TLS 1.3 to 97.4% (10.0%.). Notably, we provide explanation of the empirically powerful pre-training model by analyzing the randomness of ciphers. It gives us insights in understanding the boundary of classification ability over encrypted traffic. The code is available at: https://github.com/linwhitehat/ET-BERT.
-AD  - Chinese Acad Sci, Inst Informat Engn, Beijing, Peoples R ChinaAD  - Univ Chinese Acad Sci, Sch Cyber Secur, Beijing, Peoples R ChinaC3  - Chinese Academy of SciencesC3  - Institute of Information Engineering, CASC3  - Chinese Academy of SciencesC3  - University of Chinese Academy of Sciences, CASFU  - National Key Research and Development Program of China [2021YFB3101400]; Strategic Priority Research Program of Chinese Academy of Sciences [XDC02040400]
-FX  - This work is supported by The National Key Research and Development Program of China No. 2021YFB3101400 and the Strategic Priority Research Program of Chinese Academy of Sciences, Grant No. XDC02040400. We are grateful to anonymous reviewers for their fruitful comments, corrections and inspiration to improve this paper. We also sincerely appreciate the shepherding from Magnus Almgren and writing help from Zhong Guan and Lulin Wang.
-PU  - ASSOC COMPUTING MACHINERY
-PI  - NEW YORK
-PA  - 1601 Broadway, 10th Floor, NEW YORK, NY, UNITED STATES
-SN  - 978-1-4503-9096-5
-PY  - 2022
-SP  - 633
-EP  - 642
-DO  - 10.1145/3485447.3512217
-WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000852713000064
-N1  - Times Cited in Web of Science Core Collection:  112
-Total Times Cited:  118
-Cited Reference Count:  42
-ER  -
-
-TY  - JOUR
-AU  - Liu, S
-AU  - Liu, SQ
-AU  - Liu, Z
-AU  - Peng, X
-AU  - Yang, ZK
-TI  - Automated detection of emotional and cognitive engagement in MOOC discussions to predict learning achievement
-T2  - COMPUTERS & EDUCATION
-LA  - English
-KW  - Cooperative/collaborative learning
-KW  - Distance education and online learning
-KW  - Data science applications in education
-KW  - Evaluation methodologies
-KW  - 21st century abilities
-KW  - RELATIVE INCIDENCE
-KW  - AFFECTIVE STATES
-KW  - ONLINE
-AB  - In the MOOC forum discussions, emotional and cognitive engagement are two prominent aspects of learning engagement. Moreover, emotional and cognitive engagement have an interactive relationship and can jointly predict learning achievement. However, these interwoven relation-ships have not been thoroughly explored. Furthermore, the limitations on detection methods for emotional and cognitive engagement have hindered the practice and theory progress. This study aimed to develop a novel text classification model to automatically detect emotional and cognitive engagement and investigate their complex relationships with achievement, which are beneficial for improving learning engagement and historically low completion rates of MOOCs. Firstly, this study proposed a robust and interpretable NLP model called the bidirectional encoder representation from the transformers-convolutional neural network (BERT-CNN). Compared with models in previous studies, it improved the F1 values of emotional and cognitive engagement recognition tasks by 10% and 8%, respectively. Secondly, this study used BERT-CNN to analyze 8867 learners' discussions in a MOOC forum. Structural equation modeling indicated that emotional and cognitive engagement have an interactive relationship and a combined effect on learning achievement. Specifically, positive and confused emotions contributed more to higher -level cognition than negative emotions. Co-occurring emotion and cognition indicators jointly predicted learning achievement with higher reliability. In summary, this study has significant methodological implications for the automated measurement of emotional and cognitive engagement. Moreover, the study revealed the dominant role of emotional engagement on cognitive engagement and provided suggestions for improving MOOC learners' achievement.
-AD  - Cent China Normal Univ, Fac Artificial Intelligence Educ, Natl Engn Lab Educ Big Data, Wuhan, Peoples R ChinaAD  - Cent China Normal Univ, Fac Artificial Intelligence Educ, Natl Engn Res Ctr E Learning, Wuhan, Peoples R ChinaC3  - Central China Normal UniversityC3  - Central China Normal UniversityFU  - National Natural Science Foundation of China [61977030, 62077017, 61937001, 62107016]; Humanities and Social Sciences Foundation of the Ministry of Education [21YJC880057]; Hubei Pro-vincial Natural Science Foundation of China [2021CFB140]; Self-determined Research Funds of CCNU from the Colleges' Basic Research and Operation of MOE Fundamental Research Funds of the Central Universities [CCNU20TS032, 30106200548, CCNU19ZN012]
-FX  - This work was supported by the National Natural Science Foundation of China (Grant Nos. 61977030, 62077017, 61937001, 62107016) , the Humanities and Social Sciences Foundation of the Ministry of Education (Grant No. 21YJC880057) , the Hubei Pro-vincial Natural Science Foundation of China (Grant No. 2021CFB140) , and the Self-determined Research Funds of CCNU from the Colleges' Basic Research and Operation of MOE Fundamental Research Funds of the Central Universities (Grant Nos. CCNU20TS032, 30106200548, CCNU19ZN012) .
-PU  - PERGAMON-ELSEVIER SCIENCE LTD
-PI  - OXFORD
-PA  - THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
-SN  - 0360-1315
-SN  - 1873-782X
-J9  - COMPUT EDUC
-JI  - Comput. Educ.
-DA  - MAY
-PY  - 2022
-VL  - 181
-C7  - 104461
-DO  - 10.1016/j.compedu.2022.104461
-C6  - FEB 2022
-WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:000793263700008
-N1  - Times Cited in Web of Science Core Collection:  111
-Total Times Cited:  111
-Cited Reference Count:  63
-ER  -
-

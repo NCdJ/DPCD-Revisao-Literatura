@@ -1,371 +1,0 @@
-﻿TY  - JOUR
-AU  - Min, BN
-AU  - Ross, H
-AU  - Sulem, E
-AU  - Ben Veyseh, AP
-AU  - Nguyen, TH
-AU  - Sainz, O
-AU  - Agirre, E
-AU  - Heintz, I
-AU  - Roth, D
-TI  - Recent Advances in Natural Language Processing via Large Pre-trained Language Models: A Survey
-T2  - ACM COMPUTING SURVEYS
-LA  - English
-KW  - Large language models
-KW  - foundational models
-KW  - generative AI
-KW  - neural networks
-AB  - Large, pre-trained language models (PLMs) such as BERT and GPT have drastically changed the Natural Language Processing (NLP) field. For numerous NLP tasks, approaches leveraging PLMs have achieved state-of-the-art performance. The key idea is to learn a generic, latent representation of language from a generic task once, then share it across disparate NLP tasks. Language modeling serves as the generic task, one with abundant self-supervised text available for extensive training. This article presents the key fundamental concepts of PLM architectures and a comprehensive view of the shift to PLM-driven NLP techniques. It surveys work applying the pre-training then fine-tuning, prompting, and text generation approaches. In addition, it discusses PLM limitations and suggested directions for future research.
-AD  - Amazon AWS AI Labs, 2795 Augustine Dr, Santa Clara, CA 95054 USAAD  - Dept Linguist, Boylston Hall,3rd floor, Cambridge, MA 02138 USAAD  - Ben Gurion Univ Negev, Dept Software & Informat Syst Engn, Bldg 96,Room 207,Marcus Family Campus,POB 653, IL-8410501 Beer Sheva, IsraelAD  - 1841 Garden Ave,Unit 213, Eugene, OR USAAD  - Univ Oregon, 330 Deschutes Hall,1477 E 13th Ave, Eugene, OR 97403 USAAD  - Univ Basque Country UPV EHU, Manuel Lardizabal 1, Donostia San Sebastian 20008, SpainAD  - Synopt Engn, 3030 Clarendon Blvd, Arlington, VA 22201 USAAD  - Univ Penn, 3330 Walnut St, Philadelphia, PA 19104 USAC3  - Ben Gurion UniversityC3  - University of OregonC3  - University of Basque CountryC3  - University of PennsylvaniaFU  - Office of the Director of National Intelligence (ODNI), Intelligence Advanced Research Projects Activity (IARPA) [2019-19051600006]; IARPA BETTER program; US Defense Advanced Research Projects Agency (DARPA) [FA8750-19-2-0201, FA8750-19-2-1004]
-FX  - This research is based upon work supported in part by the Office of the Director of National Intelligence (ODNI), Intelligence Advanced Research Projects Activity (IARPA), via Contract No. 2019-19051600006 under the IARPA BETTER program and by Contracts FA8750-19-2-0201 and FA8750-19-2-1004 with the US Defense Advanced Research Projects Agency (DARPA). Approved for Public Release, Distribution Unlimited. The views and conclusions contained herein are those of the authors and should not be interpreted as necessarily representing the official policies, either expressed or implied, of ODNI, IARPA, the Department of Defense or the U.S. Government. The U.S. Government is authorized to reproduce and distribute reprints for governmental purposes notwithstanding any copyright annotation therein. We would like to thank Paul Cummer for his insightful comments on this work.
-PU  - ASSOC COMPUTING MACHINERY
-PI  - NEW YORK
-PA  - 1601 Broadway, 10th Floor, NEW YORK, NY USA
-SN  - 0360-0300
-SN  - 1557-7341
-J9  - ACM COMPUT SURV
-JI  - ACM Comput. Surv.
-DA  - FEB
-PY  - 2024
-VL  - 56
-IS  - 2
-C7  - 30
-DO  - 10.1145/3605943
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001085637600005
-N1  - Times Cited in Web of Science Core Collection:  209
-Total Times Cited:  222
-Cited Reference Count:  225
-ER  -
-
-TY  - JOUR
-AU  - Katz, DM
-AU  - Bommarito, MJ
-AU  - Gao, S
-AU  - Arredondo, P
-TI  - GPT-4 passes the bar exam
-T2  - PHILOSOPHICAL TRANSACTIONS OF THE ROYAL SOCIETY A-MATHEMATICAL PHYSICAL AND ENGINEERING SCIENCES
-LA  - English
-KW  - large language models
-KW  - Bar Exam
-KW  - GPT-4
-KW  - legal services
-KW  - legal complexity
-KW  - legal language
-KW  - LAW
-AB  - In this paper, we experimentally evaluate the zero-shot performance of GPT-4 against prior generations of GPT on the entire uniform bar examination (UBE), including not only the multiple-choice multistate bar examination (MBE), but also the open-ended multistate essay exam (MEE) and multistate performance test (MPT) components. On the MBE, GPT-4 significantly outperforms both human test-takers and prior models, demonstrating a 26% increase over ChatGPT and beating humans in five of seven subject areas. On the MEE and MPT, which have not previously been evaluated by scholars, GPT-4 scores an average of 4.2/6.0 when compared with much lower scores for ChatGPT. Graded across the UBE components, in the manner in which a human test-taker would be, GPT-4 scores approximately 297 points, significantly in excess of the passing threshold for all UBE jurisdictions. These findings document not just the rapid and remarkable advance of large language model performance generally, but also the potential for such models to support the delivery of legal services in society.This article is part of the theme issue 'A complexity science approach to law and governance'.
-AD  - Chicago Kent Coll Law, Illinois Tech, Chicago, IL 60661 USAAD  - Stanford Ctr Legal Informat, CodeX, Stanford, CA USAAD  - Bucerius Law Sch, Hamburg, GermanyAD  - 273 Ventures LLC, Woburn, MA USAAD  - Casetext Inc, Herndon, VA USAPU  - ROYAL SOC
-PI  - LONDON
-PA  - 6-9 CARLTON HOUSE TERRACE, LONDON SW1Y 5AG, ENGLAND
-SN  - 1364-503X
-SN  - 1471-2962
-J9  - PHILOS T R SOC A
-JI  - Philos. Trans. R. Soc. A-Math. Phys. Eng. Sci.
-DA  - APR 15
-PY  - 2024
-VL  - 382
-IS  - 2270
-C7  - 20230254
-DO  - 10.1098/rsta.2023.0254
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001175989800012
-N1  - Times Cited in Web of Science Core Collection:  67
-Total Times Cited:  69
-Cited Reference Count:  85
-ER  -
-
-TY  - JOUR
-AU  - Li, JN
-AU  - Dada, A
-AU  - Puladi, B
-AU  - Kleesiek, J
-AU  - Egger, J
-TI  - ChatGPT in healthcare: A taxonomy and systematic review
-T2  - COMPUTER METHODS AND PROGRAMS IN BIOMEDICINE
-LA  - English
-KW  - ChatGPT
-KW  - Healthcare
-KW  - NLP
-KW  - Transformer
-KW  - LLM
-KW  - OpenAI
-KW  - Taxonomy
-KW  - Bard
-KW  - BERT
-KW  - LLaMA
-KW  - LANGUAGE MODELS
-KW  - MEDICINE
-KW  - AUTHOR
-AB  - The recent release of ChatGPT, a chat bot research project/product of natural language processing (NLP) by OpenAI, stirs up a sensation among both the general public and medical professionals, amassing a phenomenally large user base in a short time. This is a typical example of the 'productization' of cutting-edge technologies, which allows the general public without a technical background to gain firsthand experience in artificial intelligence (AI), similar to the AI hype created by AlphaGo (DeepMind Technologies, UK) and self-driving cars (Google, Tesla, etc.). However, it is crucial, especially for healthcare researchers, to remain prudent amidst the hype. This work provides a systematic review of existing publications on the use of ChatGPT in healthcare, elucidating the 'status quo' of ChatGPT in medical applications, for general readers, healthcare professionals as well as NLP scientists. The large biomedical literature database PubMed is used to retrieve published works on this topic using the keyword 'ChatGPT'. An inclusion criterion and a taxonomy are further proposed to filter the search results and categorize the selected publications, respectively. It is found through the review that the current release of ChatGPT has achieved only moderate or 'passing' performance in a variety of tests, and is unreliable for actual clinical deployment, since it is not intended for clinical applications by design. We conclude that specialized NLP models trained on (bio)medical datasets still represent the right direction to pursue for critical clinical applications.
-AD  - Univ Hosp Essen AoR, Inst Artificial Intelligence Med, Girardetstr 2, D-45131 Essen, GermanyAD  - Univ Hosp RWTH Aachen, Inst Med Informat, Pauwelsstr 30, D-52074 Aachen, GermanyAD  - Univ Hosp RWTH Aachen, Dept Oral & Maxillofacial Surg, Pauwelsstr 30, D-52074 Aachen, GermanyAD  - Univ Med Essen, Univ Hosp Essen, Ctr Virtual & Extended Real Med ZvRM, Hufelandstr 55, D-45147 Essen, GermanyAD  - TU Dortmund Univ, Dept Phys, Otto Hahn Str 4, D-44227 Dortmund, GermanyC3  - RWTH Aachen UniversityC3  - RWTH Aachen University HospitalC3  - RWTH Aachen UniversityC3  - RWTH Aachen University HospitalC3  - University of Duisburg EssenC3  - Dortmund University of TechnologyFU  - REACT-EU project KITE (Plattform fur KI-Translation Essen) [EFRE-0801977]; K-Radiomics project from the Bruno and Helene Joester - Foundation [01KX2121]; NUM 2.0 [FKZ: 01KX2121]; Cancer Research Center Cologne Essen (CCCE); Medical Faculty of RWTH Aachen University as part of the Clinician Scientist Program
-FX  - This work was supported by the REACT-EU project KITE (Plattform fur KI-Translation Essen, EFRE-0801977, https://kite .ikim .nrw/) , the k-Radiomics project from the Bruno and Helene Joester Foundation (https://k -radiomics .ikim .nrw/) , "NUM 2.0" (FKZ: 01KX2121) and the Cancer Research Center Cologne Essen (CCCE) . Behrus Puladi was funded by the Medical Faculty of RWTH Aachen University as part of the Clinician Scientist Program.
-PU  - ELSEVIER IRELAND LTD
-PI  - CLARE
-PA  - ELSEVIER HOUSE, BROOKVALE PLAZA, EAST PARK SHANNON, CO, CLARE, 00000, IRELAND
-SN  - 0169-2607
-SN  - 1872-7565
-J9  - COMPUT METH PROG BIO
-JI  - Comput. Meth. Programs Biomed.
-DA  - MAR
-PY  - 2024
-VL  - 245
-C7  - 108013
-DO  - 10.1016/j.cmpb.2024.108013
-C6  - JAN 2024
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001175237600001
-N1  - Times Cited in Web of Science Core Collection:  58
-Total Times Cited:  58
-Cited Reference Count:  146
-ER  -
-
-TY  - JOUR
-AU  - Akbar, S
-AU  - Zou, Q
-AU  - Raza, A
-AU  - Alarfaj, FK
-TI  - iAFPs-Mv-BiTCN: Predicting antifungal peptides using self-attention transformer embedding and transform evolutionary based multi-view features with bidirectional temporal convolutional networks
-T2  - ARTIFICIAL INTELLIGENCE IN MEDICINE
-LA  - English
-KW  - Antifungal peptides
-KW  - Word embedding
-KW  - BERT
-KW  - Feature selection
-KW  - Bidirectional temporal convolutional networks
-KW  - CORROSION TYPE
-KW  - PROTEIN
-KW  - CLASSIFICATION
-KW  - IDENTIFICATION
-AB  - Globally, fungal infections have become a major health concern in humans. Fungal diseases generally occur due to the invading fungus appearing on a specific portion of the body and becoming hard for the human immune system to resist. The recent emergence of COVID-19 has intensely increased different nosocomial fungal infections. The existing wet -laboratory -based medications are expensive, time-consuming, and may have adverse side effects on normal cells. In the last decade, peptide therapeutics have gained significant attention due to their high specificity in targeting affected cells without affecting healthy cells. Motivated by the significance of peptide -based therapies, we developed a highly discriminative prediction scheme called iAFPs-Mv-BiTCN to predict antifungal peptides correctly. The training peptides are encoded using word embedding methods such as skip -gram and attention mechanism -based bidirectional encoder representation using transformer. Additionally, transform -based evolutionary features are generated using the Pseduo position -specific scoring matrix using discrete wavelet transform (PsePSSM-DWT). The fused vector of word embedding and evolutionary descriptors is formed to compensate for the limitations of single encoding methods. A Shapley Additive exPlanations (SHAP) based global interpolation approach is applied to reduce training costs by choosing the optimal feature set. The selected feature set is trained using a bi-directional temporal convolutional network (BiTCN). The proposed iAFPs-Mv-BiTCN model achieved a predictive accuracy of 98.15 % and an AUC of 0.99 using training samples. In the case of the independent samples, our model obtained an accuracy of 94.11 % and an AUC of 0.98. Our iAFPsMv-BiTCN model outperformed existing models with a -4 % and -5 % higher accuracy using training and independent samples, respectively. The reliability and efficacy of the proposed iAFPs-Mv-BiTCN model make it a valuable tool for scientists and may perform a beneficial role in pharmaceutical design and research academia.
-AD  - Univ Elect Sci & Technol China, Inst Fundamental & Frontier Sci, Chengdu 610054, Peoples R ChinaAD  - Abdul Wali Khan Univ Mardan, Dept Comp Sci, Kp 23200, PakistanAD  - Univ Elect Sci & Technol China, Yangtze Delta Reg Inst Quzhou, Quzhou 324000, Peoples R ChinaAD  - Qurtuba Univ Sci & Informat Technol, Dept Phys & Numer Sci, Peshawar 25124, KP, PakistanAD  - King Faisal Univ KFU, Sch Business, Dept Management Informat Syst MIS, Al Hasa 31982, Saudi ArabiaC3  - University of Electronic Science & Technology of ChinaC3  - University of Electronic Science & Technology of ChinaFU  - National Natural Science Foundation of China [62131004, 62250028]; National Key Research and Development Program of China [2022ZD0117700]; Municipal Government of Quzhou [2023D036]
-FX  - The work was supported by the National Natural Science Foundation of China (No. 62131004, No. 62250028) , the National Key Research and Development Program of China (2022ZD0117700) , and the Municipal Government of Quzhou (No. 2023D036) .
-PU  - ELSEVIER
-PI  - AMSTERDAM
-PA  - RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
-SN  - 0933-3657
-SN  - 1873-2860
-J9  - ARTIF INTELL MED
-JI  - Artif. Intell. Med.
-DA  - MAY
-PY  - 2024
-VL  - 151
-C7  - 102860
-DO  - 10.1016/j.artmed.2024.102860
-C6  - MAR 2024
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001240521300001
-N1  - Times Cited in Web of Science Core Collection:  32
-Total Times Cited:  32
-Cited Reference Count:  84
-ER  -
-
-TY  - JOUR
-AU  - Hassan, E
-AU  - Abd El-Hafeez, T
-AU  - Shams, MY
-TI  - Optimizing classification of diseases through language model analysis of symptoms
-T2  - SCIENTIFIC REPORTS
-LA  - English
-KW  - PEPTIDES
-AB  - This paper investigated the use of language models and deep learning techniques for automating disease prediction from symptoms. Specifically, we explored the use of two Medical Concept Normalization-Bidirectional Encoder Representations from Transformers (MCN-BERT) models and a Bidirectional Long Short-Term Memory (BiLSTM) model, each optimized with a different hyperparameter optimization method, to predict diseases from symptom descriptions. In this paper, we utilized two distinct dataset called Dataset-1, and Dataset-2. Dataset-1 consists of 1,200 data points, with each point representing a unique combination of disease labels and symptom descriptions. While, Dataset-2 is designed to identify Adverse Drug Reactions (ADRs) from Twitter data, comprising 23,516 rows categorized as ADR (1) or Non-ADR (0) tweets. The results indicate that the MCN-BERT model optimized with AdamP achieved 99.58% accuracy for Dataset-1 and 96.15% accuracy for Dataset-2. The MCN-BERT model optimized with AdamW performed well with 98.33% accuracy for Dataset-1 and 95.15% for Dataset-2, while the BiLSTM model optimized with Hyperopt achieved 97.08% accuracy for Dataset-1 and 94.15% for Dataset-2. Our findings suggest that language models and deep learning techniques have promise for supporting earlier detection and more prompt treatment of diseases, as well as expanding remote diagnostic capabilities. The MCN-BERT and BiLSTM models demonstrated robust performance in accurately predicting diseases from symptoms, indicating the potential for further related research.
-AD  - Kafrelsheikh Univ, Fac Artificial Intelligence, Kafrelsheikh 33516, EgyptAD  - Minia Univ, Fac Sci, Dept Comp Sci, Al Minya 61519, EgyptAD  - Minia Univ, Deraya Univ, Comp Sci Unit, Al Minya 61765, EgyptC3  - Egyptian Knowledge Bank (EKB)C3  - Kafrelsheikh UniversityC3  - Egyptian Knowledge Bank (EKB)C3  - Minia UniversityC3  - Deraya UniversityC3  - Egyptian Knowledge Bank (EKB)C3  - Minia UniversityFU  - Kafr El Shiekh University
-FX  - No Statement Available
-PU  - NATURE PORTFOLIO
-PI  - BERLIN
-PA  - HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
-SN  - 2045-2322
-J9  - SCI REP-UK
-JI  - Sci Rep
-DA  - JAN 17
-PY  - 2024
-VL  - 14
-IS  - 1
-C7  - 1507
-DO  - 10.1038/s41598-024-51615-5
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001184473900065
-N1  - Times Cited in Web of Science Core Collection:  28
-Total Times Cited:  29
-Cited Reference Count:  50
-ER  -
-
-TY  - JOUR
-AU  - Liang, K
-AU  - Liu, Y
-AU  - Zhou, SH
-AU  - Tu, WX
-AU  - Wen, Y
-AU  - Yang, XH
-AU  - Dong, XJ
-AU  - Liu, XW
-TI  - Knowledge Graph Contrastive Learning Based on Relation-Symmetrical Structure
-T2  - IEEE TRANSACTIONS ON KNOWLEDGE AND DATA ENGINEERING
-LA  - English
-KW  - Graph learning
-KW  - knowledge graph embedding
-KW  - self-supervised contrastive learning
-KW  - symmetrical property
-AB  - Knowledge graph embedding (KGE) aims at learning powerful representations to benefit various artificial intelligence applications. Meanwhile, contrastive learning has been widely leveraged in graph learning as an effective mechanism to enhance the discriminative capacity of the learned representations. However, the complex structures of KG make it hard to construct appropriate contrastive pairs. Only a few attempts have integrated contrastive learning strategies with KGE. But, most of them rely on language models (e.g., Bert) for contrastive pair construction instead of fully mining information underlying the graph structure, hindering expressive ability. Surprisingly, we find that the entities within a relational symmetrical structure are usually similar and correlated. To this end, we propose a knowledge graph contrastive learning framework based on relation-symmetrical structure, KGE-SymCL, which mines symmetrical structure information in KGs to enhance the discriminative ability of KGE models. Concretely, a plug-and-play approach is proposed by taking entities in the relation-symmetrical positions as positive pairs. Besides, a self-supervised alignment loss is designed to pull together positive pairs. Experimental results on link prediction and entity classification datasets demonstrate that our KGE-SymCL can be easily adopted to various KGE models for performance improvements. Moreover, extensive experiments show that our model could outperform other state-of-the-art baselines.
-AD  - Natl Univ Def Technol, Sch Comp, Changsha 410073, Hunan, Peoples R ChinaAD  - Natl Univ Def Technol, Coll Intelligence Sci & Technol, Changsha 410073, Hunan, Peoples R ChinaAD  - Qilu Univ Technol, Sch Comp Sci & Technol, Jinan 250316, Shandong, Peoples R ChinaC3  - National University of Defense Technology - ChinaC3  - National University of Defense Technology - ChinaC3  - Qilu University of TechnologyFU  - National Key Ramp;D Program of China
-FX  - No Statement Available
-PU  - IEEE COMPUTER SOC
-PI  - LOS ALAMITOS
-PA  - 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
-SN  - 1041-4347
-SN  - 1558-2191
-J9  - IEEE T KNOWL DATA EN
-JI  - IEEE Trans. Knowl. Data Eng.
-DA  - JAN
-PY  - 2024
-VL  - 36
-IS  - 1
-SP  - 226
-EP  - 238
-DO  - 10.1109/TKDE.2023.3282989
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001124222100015
-N1  - Times Cited in Web of Science Core Collection:  26
-Total Times Cited:  27
-Cited Reference Count:  93
-ER  -
-
-TY  - JOUR
-AU  - Zaretsky, J
-AU  - Kim, JM
-AU  - Baskharoun, S
-AU  - Zhao, YN
-AU  - Austrian, J
-AU  - Aphinyanaphongs, Y
-AU  - Gupta, R
-AU  - Blecker, SB
-AU  - Feldman, J
-TI  - Generative Artificial Intelligence to Transform Inpatient Discharge Summaries to Patient-Friendly Language and Format
-T2  - JAMA NETWORK OPEN
-LA  - English
-KW  - READABILITY
-KW  - UNDERSTANDABILITY
-KW  - INFORMATION
-KW  - ACTIVATION
-AB  - Importance By law, patients have immediate access to discharge notes in their medical records. Technical language and abbreviations make notes difficult to read and understand for a typical patient. Large language models (LLMs [eg, GPT-4]) have the potential to transform these notes into patient-friendly language and format. Objective To determine whether an LLM can transform discharge summaries into a format that is more readable and understandable. Design, Setting, and Participants This cross-sectional study evaluated a sample of the discharge summaries of adult patients discharged from the General Internal Medicine service at NYU (New York University) Langone Health from June 1 to 30, 2023. Patients discharged as deceased were excluded. All discharge summaries were processed by the LLM between July 26 and August 5, 2023. Interventions A secure Health Insurance Portability and Accountability Act-compliant platform, Microsoft Azure OpenAI, was used to transform these discharge summaries into a patient-friendly format between July 26 and August 5, 2023. Main Outcomes and Measures Outcomes included readability as measured by Flesch-Kincaid Grade Level and understandability using Patient Education Materials Assessment Tool (PEMAT) scores. Readability and understandability of the original discharge summaries were compared with the transformed, patient-friendly discharge summaries created through the LLM. As balancing metrics, accuracy and completeness of the patient-friendly version were measured. Results Discharge summaries of 50 patients (31 female [62.0%] and 19 male [38.0%]) were included. The median patient age was 65.5 (IQR, 59.0-77.5) years. Mean (SD) Flesch-Kincaid Grade Level was significantly lower in the patient-friendly discharge summaries (6.2 [0.5] vs 11.0 [1.5]; P < .001). PEMAT understandability scores were significantly higher for patient-friendly discharge summaries (81% vs 13%; P < .001). Two physicians reviewed each patient-friendly discharge summary for accuracy on a 6-point scale, with 54 of 100 reviews (54.0%) giving the best possible rating of 6. Summaries were rated entirely complete in 56 reviews (56.0%). Eighteen reviews noted safety concerns, mostly involving omissions, but also several inaccurate statements (termed hallucinations). Conclusions and Relevance The findings of this cross-sectional study of 50 discharge summaries suggest that LLMs can be used to translate discharge summaries into patient-friendly language and formats that are significantly more readable and understandable than discharge summaries as they appear in electronic health records. However, implementation will require improvements in accuracy, completeness, and safety. Given the safety concerns, initial implementation will require physician review.
-AD  - NYU Langone Hlth, 550 First Ave, New York, NY 10016 USAAD  - NYU New York Univ Langone Hlth, Div Hosp Med, Dept Med, New York, NY USAAD  - NYU Long Isl Sch Med, Dept Med, Mineola, NY USAAD  - NYU Langone Hlth, Dept Populat Hlth, New York, NY USAAD  - NYU Langone Med Ctr Informat Technol, Dept Hlth Informat, New York, NY USAAD  - Predict Analyt Unit, NYU Langone Hlth, New York, NY USAAD  - Long Isl Community Hosp, Dept Internal Med, NYU Langone Hlth, New York, NY USAC3  - NYU Langone Medical CenterC3  - NYU Langone Medical CenterC3  - NYU Langone Medical CenterC3  - NYU Langone Medical CenterPU  - AMER MEDICAL ASSOC
-PI  - CHICAGO
-PA  - 330 N WABASH AVE, STE 39300, CHICAGO, IL 60611-5885 USA
-SN  - 2574-3805
-J9  - JAMA NETW OPEN
-JI  - JAMA Netw. Open
-DA  - MAR 11
-PY  - 2024
-VL  - 7
-IS  - 3
-C7  - e240357
-DO  - 10.1001/jamanetworkopen.2024.0357
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001185758300008
-N1  - Times Cited in Web of Science Core Collection:  17
-Total Times Cited:  18
-Cited Reference Count:  37
-ER  -
-
-TY  - JOUR
-AU  - Yang, JY
-AU  - Liu, C
-AU  - Deng, WY
-AU  - Wu, D
-AU  - Weng, CH
-AU  - Zhou, YY
-AU  - Wang, K
-TI  - Enhancing phenotype recognition in clinical notes using large language models: PhenoBCBERT and PhenoGPT
-T2  - PATTERNS
-LA  - English
-KW  - BIOMEDICAL TEXT
-AB  - To enhance phenotype recognition in clinical notes of genetic diseases, we developed two models-PhenoBCBERT and PhenoGPT-for expanding the vocabularies of Human Phenotype Ontology (HPO) terms. While HPO offers a standardized vocabulary for phenotypes, existing tools often fail to capture the full scope of phenotypes due to limitations from traditional heuristic or rule -based approaches. Our models leverage large language models to automate the detection of phenotype terms, including those not in the current HPO. We compare these models with PhenoTagger, another HPO recognition tool, and found that our models identify a wider range of phenotype concepts, including previously uncharacterized ones. Our models also show strong performance in case studies on biomedical literature. We evaluate the strengths and weaknesses of BERT- and GPT-based models in aspects such as architecture and accuracy. Overall, our models enhance automated phenotype detection from clinical texts, improving downstream analyses on human diseases.
-AD  - Childrens Hosp Philadelphia, Raymond G Perelman Ctr Cellular & Mol Therapeut, Philadelphia, PA 19104 USAAD  - Columbia Univ, Dept Biomed Informat, New York, NY 10032 USAAD  - Fox Chase Canc Ctr, Biostat & Bioinformat Facil, Philadelphia, PA 19111 USAAD  - Univ Penn, Dept Pathol & Lab Med, Philadelphia, PA 19104 USAAD  - Univ Penn, Dept Math, Philadelphia, PA 19104 USAC3  - University of PennsylvaniaC3  - Pennsylvania MedicineC3  - Childrens Hospital of PhiladelphiaC3  - Columbia UniversityC3  - Fox Chase Cancer CenterC3  - University of PennsylvaniaC3  - University of PennsylvaniaFU  - NIH [LM012895, HG012655, HG013031]; Federal Work-Study Program; Penn DDDI fellowship program; CHOP Research Institute; IDDRC Biostatistics and Data Science core [HD105354]; CHOP Information Services
-FX  - We thank Dr. Li Fang for providing insightful suggestions and guidance. This study is in part supported by the NIH (grant nos. LM012895, HG012655, and HG013031) , the Federal Work-Study Program, Penn DDDI fellowship program, and CHOP Research Institute. We give thanks for technical support from the IDDRC Biostatistics and Data Science core (HD105354) and CHOP Information Services for support on GPU computing.
-PU  - CELL PRESS
-PI  - CAMBRIDGE
-PA  - 50 HAMPSHIRE ST, FLOOR 5, CAMBRIDGE, MA 02139 USA
-SN  - 2666-3899
-J9  - PATTERNS
-JI  - Patterns
-DA  - JAN 12
-PY  - 2024
-VL  - 5
-IS  - 1
-C7  - 100887
-DO  - 10.1016/j.patter.2023.100887
-C6  - JAN 2024
-WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001165274200001
-N1  - Times Cited in Web of Science Core Collection:  14
-Total Times Cited:  15
-Cited Reference Count:  72
-ER  -
-
-TY  - CPAPER
-AU  - Hu, BZ
-AU  - Sheng, Q
-AU  - Cao, J
-AU  - Shi, YH
-AU  - Li, Y
-AU  - Wang, DD
-AU  - Qi, P
-ED  - Wooldridge, M
-ED  - Dy, J
-ED  - Natarajan, S
-TI  - Bad Actor, Good Advisor: Exploring the Role of Large Language Models in Fake News Detection
-T2  - THIRTY-EIGHTH AAAI CONFERENCE ON ARTIFICIAL INTELLIGENCE, VOL 38 NO 20
-LA  - English
-CP  - 38th AAAI Conference on Artificial Intelligence (AAAI) / 36th Conference on Innovative Applications of Artificial Intelligence / 14th Symposium on Educational Advances in Artificial Intelligence
-AB  - Detecting fake news requires both a delicate sense of diverse clues and a profound understanding of the real-world background, which remains challenging for detectors based on small language models (SLMs) due to their knowledge and capability limitations. Recent advances in large language models (LLMs) have shown remarkable performance in various tasks, but whether and how LLMs could help with fake news detection remains underexplored. In this paper, we investigate the potential of LLMs in fake news detection. First, we conduct an empirical study and find that a sophisticated LLM such as GPT 3.5 could generally expose fake news and provide desirable multi-perspective rationales but still underperforms the basic SLM, fine-tuned BERT. Our subsequent analysis attributes such a gap to the LLM's inability to select and integrate rationales properly to conclude. Based on these findings, we propose that current LLMs may not substitute fine-tuned SLMs in fake news detection but can be a good advisor for SLMs by providing multi-perspective instructive rationales. To instantiate this proposal, we design an adaptive rationale guidance network for fake news detection (ARG), in which SLMs selectively acquire insights on news analysis from the LLMs' rationales. We further derive a rationale-free version of ARG by distillation, namely ARG-D, which services cost-sensitive scenarios without querying LLMs. Experiments on two real-world datasets demonstrate that ARG and ARG-D outperform three types of baseline methods, including SLM-based, LLM-based, and combinations of small and large language models.
-AD  - Chinese Acad Sci, Inst Comp Technol, CAS Key Lab Intelligent Informat Proc, Beijing, Peoples R ChinaAD  - Univ Chinese Acad Sci, Beijing, Peoples R ChinaAD  - Natl Univ Singapore, Singapore, SingaporeC3  - Chinese Academy of SciencesC3  - Institute of Computing Technology, CASC3  - Chinese Academy of SciencesC3  - University of Chinese Academy of Sciences, CASC3  - National University of SingaporeFU  - National Natural Science Foundation of China [62203425]; Zhejiang Provincial Key Research and Development Program of China [2021C01164]; Project of Chinese Academy of Sciences [E141020]; Post-doctoral Fellowship Program of CPSF [GZC20232738]; CIPSC-SMP-Zhipu.AI Large Model Cross-Disciplinary Fund
-FX  - The authors would like to thank the anonymous reviewers for their insightful comments. This work is supported by the National Natural Science Foundation of China (62203425), the Zhejiang Provincial Key Research and Development Program of China (2021C01164), the Project of Chinese Academy of Sciences (E141020), the Post-doctoral Fellowship Program of CPSF (GZC20232738) (GZC20232738) and the CIPSC-SMP-Zhipu.AI Large Model Cross-Disciplinary Fund. The corresponding author is Qiang Sheng.
-PU  - ASSOC ADVANCEMENT ARTIFICIAL INTELLIGENCE
-PI  - PALO ALTO
-PA  - 2275 E BAYSHORE RD, STE 160, PALO ALTO, CA 94303 USA
-SN  - 2159-5399
-SN  - 2374-3468
-J9  - AAAI CONF ARTIF INTE
-PY  - 2024
-SP  - 22105
-EP  - 22113
-WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:001239985800026
-N1  - Times Cited in Web of Science Core Collection:  14
-Total Times Cited:  15
-Cited Reference Count:  48
-ER  -
-
-TY  - JOUR
-AU  - Liu, Z
-AU  - Tang, QH
-AU  - Ouyang, F
-AU  - Long, TT
-AU  - Liu, SNYY
-TI  - Profiling students' learning engagement in MOOC discussions to identify learning achievement: An automated configurational approach
-T2  - COMPUTERS & EDUCATION
-LA  - English
-KW  - Learning communities
-KW  - Distance education and online learning
-KW  - Applications in subject areas
-KW  - Data science applications in education
-KW  - Evaluation methodologies
-KW  - ONLINE
-KW  - COMMUNITIES
-KW  - DISCIPLINE
-KW  - COMPLEXITY
-KW  - BEHAVIOR
-KW  - OUTCOMES
-KW  - INQUIRY
-AB  - In the Massive Online Open Course (MOOC) forum, learning engagement encompasses three fundamental dimensions-cognitive, emotional, and behavioral engagement-that intricately interact to jointly influence students' learning achievements. However, the interplay between multiple engagement dimensions and their correlations with learning achievement remain understudied, particularly across different academic disciplines. This study adopts an automated configurational approach that integrates bidirectional encoder representation from transformers (BERT) and fuzzy set qualitative comparative analysis (fsQCA) to explore the configurations of learning engagement, their connections with learning achievement, and variations across disciplines. Our analysis reveals a nuanced profile of learners' learning engagement, indicating the high-achieving individuals demonstrated more frequent posting and commenting behaviors and the high-level cognitive engagement than low-achieving individuals. Second, our analysis revealed multiple configurations where the coexistence or absence of factors at different levels of the cognitive, behavioral, and emotional dimensions significantly impacted learning achievement. Learners who conducted posting and replying behaviors, expressed positive emotions, and engaged in deep cognitive engagement tended to achieve superior learning outcomes. Third, there were significant differences in behavioral and emotional engagement among learners across different academic disciplines. Specifically, pure discipline learners were more inclined to engage in posting behaviors than the applied discipline learners. Across academic disciplines, positive emotions correlated strongly with higher achievement. These findings deepen our understanding of the multifaceted characteristics of learning engagement in MOOCs and highlight the importance of disciplinary distinctions, providing a foundation for educators and designers to optimize learners' MOOC effects and tailor learning experiences in diverse disciplinary contexts.
-AD  - Cent China Normal Univ, Fac Artificial Intelligence Educ, 7th Floor, South Lake Bldg, 382 Xiongchu Rd, Wuhan, Hubei, Peoples R ChinaAD  - Cent China Normal Univ, Natl Engn Res Ctr Educ Big Data, Wuhan 430079, Peoples R ChinaAD  - Zhejiang Univ, Coll Educ, Hangzhou 310063, Peoples R ChinaAD  - Cent China Normal Univ, Natl Engn Res Ctr Elearning, Wuhan 430079, Peoples R ChinaC3  - Central China Normal UniversityC3  - Central China Normal UniversityC3  - Zhejiang UniversityC3  - Central China Normal UniversityFU  - National Science and Technology Major Project [2022ZD0117101]; National Natural Science Foundation of China [62377016, 62307017, 62177041]; Hubei Provincial Natural Science Foundation of China [2023AFA020]
-FX  - This work was financially supported by the National Science and Technology Major Project (2022ZD0117101) , National Natural Science Foundation of China (62377016, 62307017, 62177041) , Hubei Provincial Natural Science Foundation of China (2023AFA020) .
-PU  - PERGAMON-ELSEVIER SCIENCE LTD
-PI  - OXFORD
-PA  - THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
-SN  - 0360-1315
-SN  - 1873-782X
-J9  - COMPUT EDUC
-JI  - Comput. Educ.
-DA  - OCT
-PY  - 2024
-VL  - 219
-C7  - 105109
-DO  - 10.1016/j.compedu.2024.105109
-C6  - JUL 2024
-WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:001269314100001
-N1  - Times Cited in Web of Science Core Collection:  13
-Total Times Cited:  13
-Cited Reference Count:  81
-ER  -
-

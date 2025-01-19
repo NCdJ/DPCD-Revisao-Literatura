@@ -1,1619 +1,0 @@
-﻿TY  - JOUR
-AU  - Herbosch, M
-TI  - Fraud by generative AI chatbots: On the thin line between deception and negligence
-T2  - COMPUTER LAW & SECURITY REVIEW
-LA  - English
-KW  - Artificial intelligence
-KW  - Contract law
-KW  - Fraud
-KW  - Law of obligations
-KW  - Vice of consent
-KW  - BLACK-BOX
-AB  - The use of generative AI systems is on the rise. As a result, we are increasingly often conversing with AI chatbots rather than with fellow humans. This increasing use of AI systems leads to legal challenges as well, particularly when the chatbot provides incorrect information. In this article, we study whether someone who decides to contract on the basis of incorrect information provided by a generative AI chatbot might invoke the fraud regime to annul the resulting contract in various legal systems. During this analysis, it becomes clear that some of the requirements that are currently being put forward from a public law perspective, such as in the European AI Act, may also naturally arise from existing private law figures. In the same vein, this analysis highlights the interesting intradisciplinary feedback between instruments of public law and other legal domains.
-AD  - Katholieke Univ Leuven, Fac Law & Criminol, Leuven, BelgiumAD  - FWO Flanders, Brussels, BelgiumAD  - Katholieke Univ Leuven, Ctr Methodol Law, Leuven, BelgiumC3  - KU LeuvenC3  - KU LeuvenFU  - FWO Flanders [11K4421N]
-FX  - <BOLD>Funding</BOLD> This research was funded by FWO Flanders (grant number 11K4421N) .
-PU  - ELSEVIER ADVANCED TECHNOLOGY
-PI  - OXFORD
-PA  - OXFORD FULFILLMENT CENTRE THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
-SN  - 0267-3649
-J9  - COMPUT LAW SECUR REV
-JI  - Comput. Law Secur. Rev.
-DA  - APR
-PY  - 2024
-VL  - 52
-C7  - 105941
-DO  - 10.1016/j.clsr.2024.105941
-C6  - JAN 2024
-WE  - Social Science Citation Index (SSCI)AN  - WOS:001178316700001
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  150
-ER  -
-
-TY  - JOUR
-AU  - Cohen, MC
-AU  - Dahan, S
-AU  - Khern-am-nuai, W
-AU  - Shimao, H
-AU  - Touboul, J
-TI  - The use of AI in legal systems: determining independent contractor vs. employee status
-T2  - ARTIFICIAL INTELLIGENCE AND LAW
-LA  - English
-KW  - Employment law
-KW  - Artificial intelligence
-KW  - Predictive models
-KW  - Decision-support legal systems
-KW  - ARTIFICIAL-INTELLIGENCE
-AB  - The use of artificial intelligence (AI) to aid legal decision making has become prominent. This paper investigates the use of AI in a critical issue in employment law, the determination of a worker's status-employee vs. independent contractor-in two common law countries (the U.S. and Canada). This legal question has been a contentious labor issue insofar as independent contractors are not eligible for the same benefits as employees. It has become an important societal issue due to the ubiquity of the gig economy and the recent disruptions in employment arrangements. To address this problem, we collected, annotated, and structured the data for all Canadian and Californian court cases related to this legal question between 2002 and 2021, resulting in 538 Canadian cases and 217 U.S. cases. In contrast to legal literature focusing on complex and correlated characteristics of the employment relationship, our statistical analyses of the data show very strong correlations between the worker's status and a small subset of quantifiable characteristics of the employment relationship. In fact, despite the variety of situations in the case law, we show that simple, off-the-shelf AI models classify the cases with an out-of-sample accuracy of more than 90%. Interestingly, the analysis of misclassified cases reveals consistent misclassification patterns by most algorithms. Legal analyses of these cases led us to identify how equity is ensured by judges in ambiguous situations. Finally, our findings have practical implications for access to legal advice and justice. We deployed our AI model via the open-access platform, https://MyOpenCourt.org/, to help users answer employment legal questions. This platform has already assisted many Canadian users, and we hope it will help democratize access to legal advice to large crowds.
-AD  - McGill Univ, Desautels Fac Management, 1001 Rue Sherbrooke O, Montreal, PQ H3A 1G5, CanadaAD  - Queens Univ, Fac Law, 128 Union St, Kingston, ON K7L 2P1, CanadaAD  - Brandeis Univ, Dept Math, 415 South St, Waltham, MA 02453 USAC3  - McGill UniversityC3  - Queens University - CanadaC3  - Brandeis UniversityFU  - Social Sciences and Humanities Research Council of Canada
-FX  - The Project is funded by Social Sciences and Humanities Research Council of Canada, Grant no. New Frontier.
-PU  - SPRINGER
-PI  - DORDRECHT
-PA  - VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
-SN  - 0924-8463
-SN  - 1572-8382
-J9  - ARTIF INTELL LAW
-JI  - Artif. Intell. Law
-DA  - 2023 MAR 30
-PY  - 2023
-DO  - 10.1007/s10506-023-09353-y
-C6  - MAR 2023
-WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:000961487000001
-N1  - Times Cited in Web of Science Core Collection:  5
-Total Times Cited:  5
-Cited Reference Count:  32
-ER  -
-
-TY  - JOUR
-AU  - Abad, AA
-TI  - ARTIFICIAL INTELLIGENCE AND THE FUTURE OF INTERNATIONAL TRADE LAW AND DISPUTE SETTLEMENT
-T2  - CONTEMPORARY ASIA ARBITRATION JOURNAL
-LA  - English
-KW  - artificial intelligence
-KW  - international trade law
-KW  - dispute settlement
-KW  - arbitration
-KW  - predictive analytics
-KW  - decision support systems
-KW  - automation in trade disputes
-KW  - sustainable trade policies
-AB  - This study examines the role of Artificial Intelligence (hereinafter "AI") in revolutionizing international trade law and the World Trade Organization (hereinafter "WTO")'s dispute resolution mechanisms. By automating complex decisions and processing extensive datasets, AI promises to enhance both the efficiency and effectiveness of trade and dispute resolution. This research delves into AI's potential applications within the WTO, highlighting how predictive analytics and decision support systems could transform trade dispute resolutions. However, the integration of AI also presents challenges, including ethical concerns, the need for transparency, and data privacy issues. Balancing these challenges with the benefits of AI is crucial to maintaining fairness and accuracy in legal processes. This paper advocates for international collaboration to establish standards guiding AI applications in international trade and dispute resolution, ensuring that technological advancements support the WTO's goals without compromising the integrity of the legal system. A new legal framework is essential to harness the full potential of AI while mitigating associated risks, ensuring that advancements in AI contribute to a more equitable, efficient, and transparent global trade system. Emphasizing the broader implications, the integration of AI technologies is posited as a cornerstone for promoting free trade and opening up the world economy. By reducing barriers and enhancing access, AI has the potential to drive global economic integration and foster a more interconnected market environment. This vision aligns with contemporary global trade objectives, advocating for a harmonious blend of technology and traditional trade principles to navigate the complexities of modern international relations and trade policies. The exploration of AI's role across these dimensions underscores the broad and impactful nature of technological progress on the fabric of international trade and law, echoing the urgent call for adaptive strategies that embrace technological advancements while upholding the principles of free and fair trade.
-AD  - Natl Univ Singapore, Fac Law, Singapore, SingaporeC3  - National University of SingaporePU  - ASIAN CENTER WTO & INT HEALTH LAW & POLICY, COLL LAW
-PI  - TAIPEI
-PA  - NATL TAIWAN UNIV-ACWH, NO 1, SEC 4, ROOSEVELT RD, TAIPEI, 106, TAIWAN
-SN  - 1999-9747
-J9  - CONTEMP ASIA ARBITAT
-JI  - Contemp. Asia Arbitat. J.
-PY  - 2024
-VL  - 17
-IS  - 1
-WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001250310400002
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  24
-ER  -
-
-TY  - JOUR
-AU  - Kenneth-Southworth, E
-AU  - Li, YH
-TI  - AI inventors: deference for legal personality without respect for innovation?
-T2  - JOURNAL OF INTELLECTUAL PROPERTY LAW & PRACTICE
-LA  - English
-AB  - This article provides insights into current developments in relation to artificial intelligence (AI) inventors, discussing recent case law and placing it in the context of legal personality and patent justification theory. Legal personality is the cornerstone of the operation of law and legal systems. Similarly, innovation provides the core justification for intellectual property rights. AI systems have demonstrated the ability to produce novel inventions. Ordinarily, the inventor would be the recipient of patents for their inventions. However, AI systems lack legal personality. Thus, should patent law protect inventions made by inventors lacking legal personality? We analyse three jurisdictions-the UK, the US and Australia-and their respective approaches to AI inventors, to explore the conflict between legal personality questions and innovation. The article argues that legal personality is essential for the grant of patent rights and that refusing the entitlement of AI systems to patents is the correct approach. It further argues that statutory reform would be desirable to focus on ensuring that the end user of AI systems is adequately incentivised to create inventions beneficial to society.
-AD  - Chinese Univ Hong Kong, Hong Kong, Peoples R ChinaAD  - Univ Hong Kong, LLM Program Technol & Intellectual Property IP Law, Dept Law, Hong Kong, Peoples R ChinaC3  - Chinese University of Hong KongC3  - University of Hong KongPU  - OXFORD UNIV PRESS
-PI  - OXFORD
-PA  - GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
-SN  - 1747-1532
-SN  - 1747-1540
-J9  - J INTELLET PROP LAW
-JI  - J. Intellect. Prop. Law Pract.
-DA  - JAN 30
-PY  - 2023
-VL  - 18
-IS  - 1
-SP  - 58
-EP  - 69
-DO  - 10.1093/jiplp/jpac111
-C6  - DEC 2022
-WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:000901459300001
-N1  - Times Cited in Web of Science Core Collection:  2
-Total Times Cited:  3
-Cited Reference Count:  23
-ER  -
-
-TY  - JOUR
-AU  - Kaplina, O
-AU  - Tumanyants, A
-AU  - Krytska, I
-AU  - Verkhoglyad-Gerasymenko, O
-TI  - APPLICATION OF ARTIFICIAL INTELLIGENCE SYSTEMS IN CRIMINAL PROCEDURE: KEY AREAS, BASIC LEGAL PRINCIPLES AND PROBLEMS OF CORRELATION WITH FUNDAMENTAL HUMAN RIGHTS
-T2  - ACCESS TO JUSTICE IN EASTERN EUROPE
-LA  - English
-KW  - human rights
-KW  - criminal proceedings
-KW  - digital technologies
-KW  - artificial intelligence
-KW  - predictive justice, Ukraine
-AB  - Background: Digital technologies are an important factor currently driving society' development in various areas, affecting not only traditional spheres, such as medicine, manufacturing, and education, but also legal relations, including criminal proceedings. This is not just about using technologies related to videoconferencing, automated distribution, digital evidence, etc. Development is constantly and rapidly moving forward, and we are now facing issues related to the use of artificial intelligence technologies in criminal proceedings. Such changes also entail new threats and challenges - we are referring to the challenges of respecting fundamental human rights and freedoms in the context of technological development. In addition, there is the matter of ensuring the implementation of basic legal principles, such as the presumption of innocence, non-discrimination and the protection of the right to privacy. This concern arises when applying artificial intelligence systems in the criminal justice system.
-   Methods: The general philosophical framework of this research consisted of axiological and hermeneutic approaches, which allowed us to conduct a value analysis of fundamental human rights and changes in their perception in the context of the AI application, as well as apply in-depth study and interpretation of legal texts. While building up the system of the basic principles of using AI systems in criminal justice, we used the system-structural and logical methods of research. The study also relied on the comparative law method in terms of comparing legal regulation and law enforcement practice in different legal systems. The method of legal modelling was applied to emphasise the main areas of possible application of AI systems in criminal proceedings.
-   Results and Conclusions: The article identifies the main possible vectors of the use of artificial intelligence systems in criminal proceedings and assesses the feasibility and prospects of their implementation. In addition, it is stated that only using AI systems for auxiliary purposes carries minimal risks of interference with human rights and freedoms. Instead, other areas of AI adoption may significantly infringe rights and freedoms, and therefore the use of AI for such purposes should be fully controlled, verified and only subsidiary, and in certain cases, prohibited altogether.
-AD  - Yaroslav Mudryi Natl Law Univ, Dept Criminal Procedure, Kharkiv, UkraineC3  - Ministry of Education & Science of UkraineC3  - Yaroslav Mudryi National Law UniversityPU  - EAST EUROPEAN LAW RESEARCH CENTER
-PI  - KYIV
-PA  - BANDERY STEPANA STR., 20A, KYIV, 04655, UKRAINE
-SN  - 2663-0575
-SN  - 2663-0583
-J9  - ACCESS JUSTICE E EUR
-JI  - Access Justice East Eur.
-DA  - AUG
-PY  - 2023
-IS  - 3
-SP  - 147
-EP  - 166
-DO  - 10.33327/AJEE-18-6.3-a000314
-WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001069365200001
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  20
-ER  -
-
-TY  - JOUR
-AU  - Zedalis, J
-TI  - THE TIME-TRAVELING LAWYER: USING TIME TRAVEL STORIES AND SCIENCE FICTION IN LEGAL EDUCATION
-T2  - BRITISH JOURNAL OF AMERICAN LEGAL STUDIES
-LA  - English
-KW  - Law and Literature
-KW  - Law and Science Fiction
-KW  - Law and Time Travel
-KW  - Artificial Intelligence
-KW  - Emotional Intelligence and the Law
-AB  - Science fiction and time travel can be used to inform and enhance the education of law students in profound ways. Within the broader field of law and literature, the relationship between law and science fiction, especially time travel stories, is rich and useful. Themes and concepts in time travel can be applied in the exploration of existing legal philosophies as well as a more expansive and engaging study of power, authority, freedom, and a number of global issues. As governments and people worldwide wrestle with climate change, armed conflict, pandemics, and the increasing significance of artificial intelligence and other advances in technology, time travel stories give students unique contexts in which to consider what law is and the degree to which it defines human experience. For generations, brilliant science fiction writers have offered thought-provoking stories and worlds that law professors and their students can use to reimagine legal thought and practice. Like its close relatives, mythology and fantasy, the science fiction genre is untethered to current social or political experience or projections necessarily corrupted by narrowly conceived historical perspectives. Science fiction writers are interested in illuminating possibilities by considering identifiable problems in unidentifiable environments. It is no accident that gender identity, racism, reproductive rights, extremist ideologies, global health crises, and various recognizable forms of labor exploitation are addressed in provocative and insightful ways by a number of the best science fiction writers. Law has a strong presence in their work. Judges, law givers, ruling groups, and other less familiar forms of power and control appear in these stories and help to move and shape the experience of the time traveler. Law students can draw on the work of these writers to consider old questions in new and refreshingly broad ways. The importance of communication and access to information are also strong themes common to law and science fiction. How are concepts of truth and propaganda significant to power? Is truth necessary for legitimacy? Information technologies introduced in the science fiction world now exist in real time in forms and with speed and volume unimagined even a few decades ago. As artificial intelligence becomes dominant in many aspects of our daily lives, law students must consider how it may change law making, court procedures, entire legal systems, and perhaps even concepts of justice. As a project, law students might develop a case and conduct a trial using an AI judge or try a case to an AI jury. How human is the law? The role of emotional intelligence and concepts like mercy, restorative justice, forgiveness, or retribution are also things they might explore in seminars or other classes using science fiction literature and other time travel media as a framework.
-AD  - Univ Florida, Criminal Justice Ctr, Levin Coll Law, Gainesville, FL 32611 USAC3  - State University System of FloridaC3  - University of FloridaPU  - SCIENDO
-PI  - WARSAW
-PA  - BOGUMILA ZUGA 32A, WARSAW, MAZOVIA, POLAND
-SN  - 2049-4092
-SN  - 2719-5864
-J9  - BRIT J AM LEG STUD
-JI  - Brit. J. Am. Leg. Stud.
-DA  - NOV 1
-PY  - 2022
-VL  - 11
-IS  - 1
-SP  - 355
-EP  - 378
-DO  - 10.2478/bjals-2022-0008
-WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:000882351900007
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  90
-ER  -
-
-TY  - JOUR
-AU  - Cortez, EK
-AU  - Maslej, N
-TI  - Adjudication of Artificial Intelligence and Automated Decision-Making Cases in Europe and the USA
-T2  - EUROPEAN JOURNAL OF RISK REGULATION
-LA  - English
-KW  - Adjudication of artificial intelligence
-KW  - administrative decisions on artificial intelligence
-KW  - artificial intelligence
-KW  - artificial intelligence regulation
-KW  - bias
-KW  - court cases
-KW  - privacy
-AB  - Artificial Intelligence (AI) has started to impact many facets of the economy and people's routine activities. This article contributes to our understanding of how the legal system is reacting to the ongoing uptake of AI and the disputes or right infringements this uptake creates. Select legal cases regarding the use of AI technology for automated decisions are reviewed, with a focus on filings in Europe and the USA. This exercise reveals which type of legal challenges can be expected when it comes to deploying automated systems in these jurisdictions. Additionally, incipient regulatory efforts targeting AI on both sides of the North Atlantic are introduced and briefly discussed. The paper sheds light on how different legal systems accommodate an emerging technology with disruptive potential and offers a mapping of exemplary legal risks for prospective actors or organisations seeking to develop and deploy AI.
-AD  - Stanford Univ, Stanford, CA 94305 USAC3  - Stanford UniversityPU  - CAMBRIDGE UNIV PRESS
-PI  - CAMBRIDGE
-PA  - EDINBURGH BLDG, SHAFTESBURY RD, CB2 8RU CAMBRIDGE, ENGLAND
-SN  - 1867-299X
-SN  - 2190-8249
-J9  - EUR J RISK REGUL
-JI  - Eur. J. Risk Regul.
-DA  - SEP
-PY  - 2023
-VL  - 14
-IS  - 3
-SP  - 457
-EP  - 475
-DO  - 10.1017/err.2023.61
-C6  - SEP 2023
-WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001073558600001
-N1  - Times Cited in Web of Science Core Collection:  1
-Total Times Cited:  1
-Cited Reference Count:  52
-ER  -
-
-TY  - JOUR
-AU  - Shevchuk, O
-AU  - Martynovskyi, V
-AU  - Volianska, O
-AU  - Kompaniiets, I
-AU  - Bululukov, O
-TI  - Problems of legal regulation of artificial intelligence in administrative judicial procedure
-T2  - JURIDICAL TRIBUNE-TRIBUNA JURIDICA
-LA  - English
-KW  - right to judicial protection
-KW  - artificial intelligence
-KW  - digital technology
-KW  - electronic technology
-KW  - administrative judicial procedure
-KW  - legal regulation
-AB  - The use of digital technologies in administrative courts uses the legal systems of the European Union and the world to strengthen the ways of protecting human rights. This paper examines certain problems of legal regulation of the use of artificial intelligence technologies in administrative judicial procedure. The methodology of this work is based on an interdisciplinary approach using comparative legal, dialectical and systemic methods. The main objective of this article is to determine the forms and directions, risks and benefits, prospects for the use of artificial intelligence in administrative judicial procedure, taking into account foreign experience in legal regulation in this area. The concept of "artificial intelligence" is investigated. It is emphasized that the use of artificial intelligence technologies in administrative judicial procedure is an acceptable use only of specialized intelligent systems that can work under human control. It is stated that when considering administrative cases in an administrative court of minor complexity, it is possible to use artificial intelligence technologies, which will be able to independently generalize and analyze legislation, judicial practice and be a recommendation for a judge when making a fair and lawful decision on the principles of the rule of law. It has been established that the use of artificial intelligence technologies in administrative proceedings provides opportunities for the effective implementation of the right to judicial protection, but can be used to take actions that are contrary to the rule of law, in particular regarding the violation of the right to a fair trial in administrative cases in administrative courts. The latter requires the improvement of legal regulation of the use of artificial intelligence technologies in administrative judicial procedure using international principles and standards.
-AD  - Yaroslav Mudryi Natl Law Univ, Dept Adm Law & Adm Act, Kharkiv, UkraineAD  - Yaroslav Mudryi Natl Law Univ, Dept Sociol & Polit Sci, Kharkiv, UkraineAD  - Yaroslav Mudryi Natl Law Univ, Dept Criminalist, Kharkiv, UkraineC3  - Ministry of Education & Science of UkraineC3  - Yaroslav Mudryi National Law UniversityC3  - Ministry of Education & Science of UkraineC3  - Yaroslav Mudryi National Law UniversityC3  - Ministry of Education & Science of UkraineC3  - Yaroslav Mudryi National Law UniversityPU  - EDITURA ASE
-PI  - BUCURESTI
-PA  - PIATA ROMANA, NR 6, SECTOR 1, BUCURESTI, 701731, ROMANIA
-SN  - 2247-7195
-SN  - 2248-0382
-J9  - JURID TRIB
-JI  - Jurid. Trib.
-DA  - OCT
-PY  - 2023
-VL  - 13
-IS  - 3
-SP  - 346
-EP  - 362
-DO  - 10.24818/TBJ/2023/13/3.02
-WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001090715000002
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  24
-ER  -
-
-TY  - JOUR
-AU  - Bex, FJ
-TI  - AI, Law and beyond. A transdisciplinary ecosystem for the future of AI & Law
-T2  - ARTIFICIAL INTELLIGENCE AND LAW
-LA  - English
-KW  - ARGUMENTATION
-AB  - We live in exciting times for AI and Law: technical developments are moving at a breakneck pace, and at the same time, the call for more robust AI governance and regulation grows stronger. How should we as an AI & Law community navigate these dramatic developments and claims? In this Presidential Address, I present my ideas for a way forward: researching, developing and evaluating real AI systems for the legal field with researchers from AI, Law and beyond. I will demonstrate how we at the Netherlands National Police Lab AI are developing responsible AI by combining insights from different disciplines, and how this connects to the future of our field.
-AD  - Univ Utrecht, Dept Informat & Comp Sci, Utrecht, NetherlandsAD  - Tilburg Univ, Tilburg Inst Law Technol & Soc, Tilburg, NetherlandsC3  - Utrecht UniversityC3  - Tilburg UniversityPU  - SPRINGER
-PI  - DORDRECHT
-PA  - VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
-SN  - 0924-8463
-SN  - 1572-8382
-J9  - ARTIF INTELL LAW
-JI  - Artif. Intell. Law
-DA  - 2024 MAY 16
-PY  - 2024
-DO  - 10.1007/s10506-024-09404-y
-C6  - MAY 2024
-WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:001226674400001
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  76
-ER  -
-
-TY  - JOUR
-AU  - Kappos, DJ
-AU  - Fodouop, KMK
-TI  - Optimising Intellectual Property in the Age of AI Creativity: Perspectives from the United States
-T2  - AUSTRALIAN INTELLECTUAL PROPERTY JOURNAL
-LA  - English
-AB  - Artificial Intelligence (AI) is increasingly becoming a subject of, and contributor to, innovation across industries. These AI-related inventions raise important intellectual property (IP) law issues, most notably under copyright and patent law. Copyright law must grapple with the issue of "AI as author" and patent law faces the issue of "AI as inventor". AI also raises novel challenges for patent law's subject matter eligibility, non-obviousness and disclosure requirements. Additionally, AI implementers and other data owners should consider how IP can protect data - the fundamental ingredient of all AI systems. As AI continues to rapidly transform every industry and field of innovation, AI implementers and data owners should take proactive steps to stay ahead of the curve in adapting to corresponding changes in available IP protection for their AI and data assets. This article provides AI implementers with 10 practical steps to begin the process of optimising their AI- related IP.
-AD  - Cravath Swaine & Moore LLP, New York, NY 10019 USAAD  - NYU, Sch Law, New York, NY 10003 USAC3  - New York UniversityPU  - LAWBOOK CO LTD
-PI  - PYRMONT
-PA  - LEVEL 6, 19 HARRIS ST, PYRMONT, NSW 2009, AUSTRALIA
-SN  - 1038-1635
-J9  - AUSTR INTELLECT PROP
-JI  - Austr. Intellect. Prop. J.
-PY  - 2022
-VL  - 33
-IS  - 2
-SP  - 51
-EP  - 58
-WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:000900262000002
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  7
-ER  -
-
-TY  - JOUR
-AU  - Karim, R
-TI  - Toward an International Law of Just AI Development
-T2  - JOURNAL OF EAST ASIA AND INTERNATIONAL LAW
-LA  - English
-KW  - Justice
-KW  - AI Artificial lntelligence
-KW  - International Law Equality
-KW  - Governance
-KW  - JUSTICE
-KW  - EQUALITY
-AB  - AI-driven technology is becoming an integral part of our daily lives, spanning from smart home devices to social media platforms. However, the uneven distribution of AI technologies could result in a scenario where certain groups exert dominance over the direction of AI development. The consequences of inequality in AI evolution could further exacerbate existing economic gaps by concentrating benefits among a privileged few with access to advanced AI technologies. To address this question the, international communities should come forward and regulate the just development of AI with new and existing international laws. Although the existing international legal frameworks can be adapted to address AI-specific issues without the need for entirely new laws, however, the novel challenges presented by AI require unique and new international laws. Issues such as data sovereignty, data privacy, and data localization are areas where international laws and agreements need to evolve to accommodate the just development of AI.
-AD  - Monash Univ Malaysia, Sch Business, Dept Business Law & Taxat, Bandar Sunway, MalaysiaC3  - Monash UniversityC3  - Monash University MalaysiaPU  - YIJUN INST INT LAW
-PI  - SEOUL
-PA  - 562 GWANGNARURO, KWANGJIN-GU, NO 201 KYUNGWOO BD, SEOUL, 05033, SOUTH KOREA
-SN  - 1976-9229
-J9  - J E ASIA INT LAW
-JI  - J. East Asia Int. Law
-PY  - 2023
-VL  - 16
-IS  - 2
-DO  - 10.14330/jeail.2023.16.2.03
-WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001143070000004
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  46
-ER  -
-
-TY  - JOUR
-AU  - Rochel, J
-TI  - Learning from the Ethics of AI-A Research Proposal on Soft Law and Ethics of AI
-T2  - TILBURG LAW REVIEW-JOURNAL OF INTERNATIONAL AND EUROPEAN LAW
-LA  - English
-KW  - International law
-KW  - Soft Law
-KW  - Legal Theory
-KW  - Technology
-KW  - AI
-KW  - Law as Data
-KW  - LEGAL
-KW  - AUTOMATION
-KW  - HARD
-AB  - This contribution outlines a research proposal combining ethical guidelines on AI and a law-as-data approach. Building upon the definitions of soft law discussed in legal scholarship, it proposes a way of structuring the regulatory landscape on AI and of addressing the question of what is included in the "soft law of AI" today. By adopting a building-blocks approach (combining distinct definitional components of soft law), the paper shows that the state of current soft law on AI depends on which position on international law one defends. Concretely, the paper firstly offers a complete codebook for identifying the different types of soft law. Secondly, it applies this codebook as a proof-of-concept for the research proposal by analyzing 40+ ethical guidelines and by clustering preliminary results according to the actor enacting the guidelines and the legally relevant effects they could deploy. Four paradigmatic types of soft law emerge: statist and international organization soft law, process-oriented soft law, expertise -oriented soft law, and de facto relevant standards soft law. These results illustrate the contributions which are to be expected from a law-as-data research proposal.
-AD  - Ecole Polytech Fed Lausanne, Lausanne, SwitzerlandC3  - Swiss Federal Institutes of Technology DomainC3  - Ecole Polytechnique Federale de LausannePU  - UBIQUITY PRESS LTD
-PI  - LONDON
-PA  - Unit 3.22, East London Works, 65-75 Whitechapel Road, LONDON, E1 1DU, ENGLAND
-SN  - 2211-0046
-SN  - 2211-2596
-J9  - TILBURG LAW REV
-JI  - Tilburg Law Rev.
-PY  - 2022
-VL  - 27
-IS  - 1
-SP  - 37
-EP  - 59
-DO  - 10.5334/tilr.297
-WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001000908400003
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  114
-ER  -
-
-TY  - JOUR
-AU  - Picht, PG
-AU  - Thouvenin, F
-TI  - AI and IP: Theory to Policy and Back Again - Policy and Research Recommendations at the Intersection of Artificial Intelligence and Intellectual Property
-T2  - IIC-INTERNATIONAL REVIEW OF INTELLECTUAL PROPERTY AND COMPETITION LAW
-LA  - English
-KW  - Artificial intelligence
-KW  - Intellectual property law
-KW  - AI
-KW  - DABUS
-KW  - Machine learning
-KW  - Deep learning
-KW  - America Invents Act
-KW  - Text and data mining
-KW  - Neural networks
-KW  - Patents
-KW  - Copyright
-KW  - Trade secrets
-KW  - Software protection
-AB  - The interaction between artificial intelligence and intellectual property rights (IPRs) is one of the key areas of development in intellectual property law. After much, albeit selective, debate, it seems to be gaining increasing practical relevance through intense AI-related market activity, an initial set of case law on the matter, and policy initiatives by international organizations and lawmakers. Against this background, Zurich University's Center for Intellectual Property and Competition Law is conducting, together with the Swiss Intellectual Property Institute, a research and policy project that explores the future of intellectual property law in an AI context. This paper briefly describes the AI/IP Research Project and presents an initial set of policy recommendations for the development of IP law with a view to AI. The recommendations address topics such as AI inventorship in patent law; AI authorship in copyright law; the need for sui generis rights to protect innovative AI output; rules for the allocation of AI-related IPRs; IP protection carve-outs in order to facilitate AI system development, training, and testing; the use of AI tools by IP offices; and suitable software protection and data usage regimes.
-AD  - Univ Zurich, Chair Econ Law, Zurich, SwitzerlandAD  - Univ Zurich, Chair Informat & Commun Law, Zurich, SwitzerlandC3  - University of ZurichC3  - University of ZurichFU  - University of Zurich
-FX  - Open access funding provided by University of Zurich
-PU  - SPRINGER HEIDELBERG
-PI  - HEIDELBERG
-PA  - TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
-SN  - 0018-9855
-SN  - 2195-0237
-J9  - IIC-INT REV INTELL P
-JI  - Int. Rev. Intellect. Prop. Compet. Law
-DA  - JUL
-PY  - 2023
-VL  - 54
-IS  - 6
-SP  - 916
-EP  - 940
-DO  - 10.1007/s40319-023-01344-5
-C6  - JUN 2023
-WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001011509900001
-N1  - Times Cited in Web of Science Core Collection:  1
-Total Times Cited:  1
-Cited Reference Count:  57
-ER  -
-
-TY  - JOUR
-AU  - Ramli, TS
-AU  - Ramli, AM
-AU  - Mayana, RF
-AU  - Ramadayanti, E
-AU  - Fauzi, R
-TI  - Artificial intelligence as object of intellectual property in Indonesian law
-T2  - JOURNAL OF WORLD INTELLECTUAL PROPERTY
-LA  - English
-KW  - AI
-KW  - copyright
-KW  - IoT
-KW  - patent
-AB  - Artificial intelligence (AI) has an important role in digital transformation worldwide, including in Indonesia. AI itself is a simulation of human intelligence that is modeled in machines and programmed to think like humans. At the time AI and the Internet of Things are connected, it can, in principle, act on data without the need for human intervention. AI was originally created by humans as a consequence of the massive digital revolution. Recently, AI has also developed rapidly to perform functions like humans and even produce works of intellectual property like humans, such as creating songs, making new inventions, making industrial designs, and so on. Thus, it is a question whether AI can be qualified as a legal subject of creator, inventor or designer and then register as intellectual property. This research answers this question from the perspective of Indonesian law based on Copyright Law, Patent Law, Industrial Design Law, as well as Trademark Law, and Geographical Indications as the existing Indonesian laws.
-AD  - Univ Padjadjaran, Fac Law, Cyber Law & Digital Transformat Ctr, Bandung, IndonesiaC3  - Universitas PadjadjaranPU  - WILEY
-PI  - HOBOKEN
-PA  - 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
-SN  - 1422-2213
-SN  - 1747-1796
-J9  - J WORLD INTELLECT PR
-JI  - J. World Intellect. Prop.
-DA  - JUL
-PY  - 2023
-VL  - 26
-IS  - 2
-SP  - 142
-EP  - 154
-DO  - 10.1111/jwip.12264
-C6  - FEB 2023
-WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:000929922900001
-N1  - Times Cited in Web of Science Core Collection:  1
-Total Times Cited:  1
-Cited Reference Count:  20
-ER  -
-
-TY  - JOUR
-AU  - Matulionyte, R
-TI  - 'AI is not an Inventor': <i>Thaler</i> v <i>Comptroller of Patents, Designs and Trademarks</i> and the Patentability of AI Inventions
-T2  - MODERN LAW REVIEW
-LA  - English
-AB  - The increasing use of Artificial Intelligence (AI) technologies in inventive processes raises numerous patent law issues, including whether AI can be an inventor under law and who owns the AI-generated inventions. The UK Supreme Court decision in Thaler v Comptroller of Patents, Designs and Trademarks has provided an ultimate answer to this question: AI cannot be an inventor for the purposes of patent law. This note argues, first, that while such a human-centric approach to inventorship might discourage the use and development of AI technologies with autonomous invention capabilities, it will help retain an active human involvement in technologically supported inventive processes and continuously foster human ingenuity. Second, despite the Court focusing on what patent law is and not on what the law should be, the decision will be influential in the ongoing discussions on the future of patent law and will make it more difficult to expand patent law to incorporate non-human inventors. Third, the decision has opened, or revealed, the gaps in patent law that the emergence of AI technologies have created and for which new legal solutions will be needed, especially with relation to the ownership of AI-assisted inventions and the validation of inventorship claims.
-AD  - Macquarie Univ, Macquarie Law Sch, Sydney, AustraliaC3  - Macquarie UniversityPU  - WILEY
-PI  - HOBOKEN
-PA  - 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
-SN  - 0026-7961
-SN  - 1468-2230
-J9  - MOD LAW REV
-JI  - Mod. Law Rev.
-DA  - 2024 JUL 5
-PY  - 2024
-DO  - 10.1111/1468-2230.12907
-C6  - JUL 2024
-WE  - Social Science Citation Index (SSCI)AN  - WOS:001263080800001
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  30
-ER  -
-
-TY  - JOUR
-AU  - Burgess, P
-TI  - The Rule of Law, Science Fiction and Fears of Artificial Intelligence
-T2  - LAW TECHNOLOGY AND HUMANS
-LA  - English
-KW  - Rule of Law
-KW  - science fiction
-KW  - artificial intelligence
-KW  - fear
-KW  - concept
-KW  - conception
-KW  - GOVERNMENT
-KW  - FUTURE
-AB  - In this article, I consider how fears of the future operation and use of artificial intelligence (AI) in the exercise of constitutional power and how the depiction of AI in science fiction may play a role in determining future conceptions of the Rule of Law. Through its role in limiting the exercise of arbitrary power, the Rule of Law plays a crucial role in society. Where popular Rule of Law conceptions were frequently shaped by their authors' fears, the Rule of Law is a product of fear. The operation of AI in society is also tainted by fear. This fear is exacerbated by science fiction accounts that frequently portray AI as complicit in a dystopian future. This portrayal of AI's role is capable of generating a state of fear in society that assists in priming society to accept a different form of the Rule of Law in the future. In other words, where contemporary ideas of the Rule of Law are shaped by fear, and where fear exists in relation to AI's exercise of constitutional power (and where this is influenced by depictions of AI in science fiction), fears associated with AI's exercise of power may shape future conceptions of the Rule of Law.
-AD  - Monash Univ, Melbourne, Vic, AustraliaC3  - Monash UniversityPU  - QUEENSLAND UNIV TECHNOLOGY
-PI  - BRISBANE
-PA  - GPO  BOX 2434, BRISBANE, QLD 4001, AUSTRALIA
-SN  - 2652-4074
-J9  - LAW TECHNOL HUMANS
-JI  - Law Technol. Humans
-PY  - 2022
-VL  - 4
-IS  - 2
-SP  - 124
-EP  - 136
-DO  - 10.5204/lthj.2461
-WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:000892027600009
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  79
-ER  -
-
-TY  - JOUR
-AU  - Cefaliello, A
-AU  - Kullmann, M
-TI  - Offering false security: How the draft artificial intelligence act undermines fundamental workers rights
-T2  - EUROPEAN LABOUR LAW JOURNAL
-LA  - English
-KW  - AI Act
-KW  - EU labour law
-KW  - occupational health and safety
-KW  - non-discrimination
-KW  - worker protection
-AB  - In April 2021, the European Commission published its first draft of the Proposal for a Regulation on Artificial Intelligence. Since AI in the work context has increasingly become important in organising work and managing workers, the AI Act will undoubtedly have an impact on EU and national labour law systems. One aim of the proposal is to guarantee 'consistency with existing Union legislation applicable to sectors where high-risk Artificial Intelligence systems are already used or likely to be used in the near future', which includes the EU social acquis. It could be argued that ensuring true consistency with EU law means guaranteeing that the way the AI Act will be implemented and applied will still allow the other pieces of EU labour law to fulfil their purpose. It is undeniable that the implementation of the AI Act will overlap with various fields of EU law, especially considering the increasing use of AI technology at work. Thus, this article seeks to identify ways to refine the AI Act, insofar as it impacts work. The contribution discusses the current AI Act as proposed in April 2021, thereby focusing on two particular areas, EU non-discrimination law and EU law on occupational health and safety (OSH), as these two areas are, more or less explicitly, addressed as legal fields in the AI Act. The article starts with taking the perspective of EU labour law influencing the development of AI systems used in the employment context. We argue that providers should respect EU labour law throughout the development of the AI system (section 2). Then, the areas where EU labour law and the AI overlap are identified, thereby viewing it from an employer's perspective, i.e., the user of the AI system (section 3). Using two specific EU labour law areas (the right not to be discriminated against and the right to healthy and safe working conditions) the article provides a first assessment of how the AI Act might influence work and the regulation thereof (section 4). Finally, the conclusion critically explores whether and to what extent AI in employment situations warrants particular attention (section 5).
-AD  - European Trade Union Inst ETUI, Brussels, BelgiumAD  - Radboud Univ Nijmegen, Nijmegen, NetherlandsC3  - Radboud University NijmegenPU  - SAGE PUBLICATIONS INC
-PI  - THOUSAND OAKS
-PA  - 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
-SN  - 2031-9525
-SN  - 2399-5556
-J9  - EUR LABOUR LAW J
-JI  - Eur. Labour Law J.
-DA  - DEC
-PY  - 2022
-VL  - 13
-IS  - 4
-SP  - 542
-EP  - 562
-DO  - 10.1177/20319525221114474
-WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:000891132300006
-N1  - Times Cited in Web of Science Core Collection:  5
-Total Times Cited:  5
-Cited Reference Count:  45
-ER  -
-
-TY  - JOUR
-AU  - Wang, Y
-TI  - Do not go gentle into that good night: The European Union's and China's different approaches to the extraterritorial application of artificial intelligence laws and regulations
-T2  - COMPUTER LAW & SECURITY REVIEW
-LA  - English
-KW  - Artificial intelligence
-KW  - Extraterritorial effects
-KW  - Global governance
-AB  - The extraterritorial application of artificial intelligence (AI) laws and regulations is a form of global AI governance. The EU and China serve as two different examples of how to achieve the extraterritorial applicability of AI laws and regulations. The former shows an explicit territorial extension with more trigger factors, whereas the latter shows vertical regulation with a narrower territorial scope. Both countries' legislative motivations differ but also have some commonalities. One of the primary goals of extraterritorial application of domestic laws is to protect citizens within their territory. The digital economy's characteristics make it necessary for AI laws to have extraterritorial effects. Without international conventions or treaties, there is a legal vacuum in AI regulation. Additionally, the extraterritorial application of AI laws and regulations helps a state become a global standardsetter and gain an international sphere of influence. However, the extraterritorial application of AI laws and regulations sometimes functions as a form of legal imperialism. This exacerbates the injustice between great powers and weak countries in AI competition. To justify the legitimacy of the extraterritorial application of AI laws and regulations, it is beneficial to adopt the 'inner morality of extraterritoriality', a theoretical framework proposed by Professor Dan Svantesson. In fact, extraterritorial applicability depends on the market size and attractiveness. For other countries, whether their AI laws and regulations are endowed with extraterritorial effects is their prerogative. However, they should consider their soft power before implementing legislation.
-AD  - Huaqiao Univ, Law Sch, Quanzhou, Fujian, Peoples R ChinaC3  - Huaqiao UniversityFU  - Huaqiao University [23SKBS011]
-FX  - Funding This research was made possible thanks to grant no. 23SKBS011, supported by Huaqiao University.
-PU  - ELSEVIER ADVANCED TECHNOLOGY
-PI  - OXFORD
-PA  - OXFORD FULFILLMENT CENTRE THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
-SN  - 0267-3649
-J9  - COMPUT LAW SECUR REV
-JI  - Comput. Law Secur. Rev.
-DA  - JUL
-PY  - 2024
-VL  - 53
-C7  - 105965
-DO  - 10.1016/j.clsr.2024.105965
-C6  - APR 2024
-WE  - Social Science Citation Index (SSCI)AN  - WOS:001224139700001
-N1  - Times Cited in Web of Science Core Collection:  2
-Total Times Cited:  2
-Cited Reference Count:  66
-ER  -
-
-TY  - JOUR
-AU  - Le Thi, M
-TI  - Copyright Protection for Works Created by AI Technology under the EU Law and Vietnamese Law
-T2  - REVIEW OF EUROPEAN AND COMPARATIVE LAW
-LA  - English
-KW  - European Union,
-KW  - copyright,
-KW  - artificial intelligence,
-KW  - Vietnamese
-KW  - intellectual
-KW  - property law,
-KW  - copyright law
-AB  - The legislation of the European Union increasingly focuses on expanding the scope of works protected by intellectual property rights, including literary works, music, films, and phonograms. The breakthrough in artificial intelligence (AI) has contributed significantly to creating works of art with little or no human intervention. The article examines the current situation of EU copyright law and Vietnamese law regarding AI-generated works. The article concludes that EU law governs copyright for these works based on the extent of human contribution to the creation of the work. Meanwhile, Vietnamese law still needs to resolve the issue of intellectual property rights for works created by AI.
-AD  - Thu Dau Mot Univ, Fac Management Sci, Thu Dau Mot, VietnamAD  - 06 Tran Van On St, Thu Dau Mot, Binh Duong, VietnamC3  - Thu Dau Mot UniversityPU  - JOHN PAUL II CATHOLIC UNIV LUBLIN
-PI  - LUBLIN
-PA  - AL RACLAWICKIE 14, LUBLIN, PL 20-950, POLAND
-SN  - 2545-384X
-J9  - REV EUR COMP LAW
-JI  - Rev. Eur. Comparative Law
-PY  - 2023
-VL  - 55
-IS  - 4
-SP  - 7
-EP  - 28
-DO  - 10.31743/recl.16258
-C6  - DEC 2023
-WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001148668700001
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  15
-ER  -
-
-TY  - JOUR
-AU  - Daly, S
-TI  - ARTIFICIAL INTELLIGENCE, THE RULE OF LAW AND PUBLIC ADMINISTRATION: THE CASE OF TAXATION
-T2  - CAMBRIDGE LAW JOURNAL
-LA  - English
-KW  - tax administration
-KW  - administrative law
-KW  - the Rule of Law
-KW  - comparative law
-KW  - artificial intelligence
-KW  - OECD
-AB  - It is now a clich & eacute; to highlight that whilst artificial intelligence (AI) provides many opportunities, it also presents myriad risks to established norms. Amongst the norms considered in the literature, the Rule of Law unsurprisingly features. But the analyses of the Rule of Law are narrow. AI has the capacity to augment as well as to undermine fidelity to the ideal of the Rule of Law. Rather than viewing AI only as a threat to important norms, this article's core argument is that AI should also be presented as an opportunity to meet their demands. It uses the Rule of Law in tax administration to support this argument.
-AD  - Kings Coll London, Tax Law, London, EnglandC3  - University of LondonC3  - King's College LondonPU  - CAMBRIDGE UNIV PRESS
-PI  - CAMBRIDGE
-PA  - EDINBURGH BLDG, SHAFTESBURY RD, CB2 8RU CAMBRIDGE, ENGLAND
-SN  - 0008-1973
-SN  - 1469-2139
-J9  - CAMB LAW J
-JI  - Camb. Law J.
-DA  - 2024 SEP 23
-PY  - 2024
-DO  - 10.1017/S0008197324000448
-C6  - SEP 2024
-WE  - Social Science Citation Index (SSCI)AN  - WOS:001318848400001
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  2
-ER  -
-
-TY  - JOUR
-AU  - Chamberlain, J
-TI  - The Risk-Based Approach of the European Union's Proposed Artificial Intelligence Regulation: Some Comments from a Tort Law Perspective
-T2  - EUROPEAN JOURNAL OF RISK REGULATION
-LA  - English
-KW  - Artificial Intelligence Act
-KW  - damages
-KW  - risk-based approach
-KW  - strict liability
-KW  - tort law
-KW  - LIABILITY
-AB  - How can tort law contribute to a better understanding of the risk-based approach in the European Union's (EU) Artificial Intelligence Act proposal and evolving liability regime? In a new legal area of intense development, it is pivotal to make the best use possible of existing regulation and legal knowledge. The main objective of this article is thus to investigate the relationship between traditional tort law principles, with a focus on risk assessments, and the developing legislation on artificial intelligence (AI) in the EU. The article offers a critical analysis and evaluation from a tort law perspective of the risk-based approach in the proposed AI Act and the European Parliament resolution on a civil liability regime for AI, with comparisons also to the proposal for a revised and AI-adapted product liability directive and the recently proposed directive on civil liability for AI. The discussion leads to the illumination of both challenges and possibilities in the interplay between AI, tort law and the concept of risk, displaying the large potential of tort law as a tool for handling rising AI issues.
-AD  - Uppsala Univ, Dept Business Studies, Uppsala, SwedenC3  - Uppsala UniversityFU  - WASP-HS
-FX  - Thanks to the members of the WASP-HS project "AI and the Financial Markets: Accountability and Risk Management with Legal Tools" and the group members of the sister project "AI-based RegTech", which is also WASP-HS-funded, for valuable input at an early writing stage. The author is also grateful to the anonymous reviewer for very useful comments.
-PU  - CAMBRIDGE UNIV PRESS
-PI  - CAMBRIDGE
-PA  - EDINBURGH BLDG, SHAFTESBURY RD, CB2 8RU CAMBRIDGE, ENGLAND
-SN  - 1867-299X
-SN  - 2190-8249
-J9  - EUR J RISK REGUL
-JI  - Eur. J. Risk Regul.
-DA  - MAR
-PY  - 2023
-VL  - 14
-IS  - 1
-SP  - 1
-EP  - 13
-C7  - PII S1867299X22000381
-DO  - 10.1017/err.2022.38
-C6  - DEC 2022
-WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:000893966500001
-N1  - Times Cited in Web of Science Core Collection:  10
-Total Times Cited:  12
-Cited Reference Count:  29
-ER  -
-
-TY  - JOUR
-AU  - Lane, L
-TI  - CLARIFYING HUMAN RIGHTS STANDARDS THROUGH ARTIFICIAL INTELLIGENCE INITIATIVES
-T2  - INTERNATIONAL & COMPARATIVE LAW QUARTERLY
-LA  - English
-KW  - human rights law
-KW  - artificial intelligence
-KW  - legal certainty
-KW  - business and human rights
-KW  - AI ethics
-KW  - law-and-governance approach
-KW  - comparative law
-AB  - Taking a law-and-governance approach, this article addresses legal certainty in international human rights law as it applies to artificial intelligence (AI). After introducing key issues concerning legal certainty, a comparative analysis of AI law-and-governance initiatives at the international, regional and national levels is undertaken. The article argues that many initiatives contribute to increased legal certainty and can partially compensate for some of the shortcomings of the international human rights law framework, but that further clarification is badly needed. This is especially true for the responsibilities of private businesses which are developing AI and the corpus of human rights beyond privacy and data protection.
-AD  - Univ Groningen, Publ Int Law, Groningen, NetherlandsC3  - University of GroningenFU  - Dutch Sectorplan for Social Sciences and Humanities
-FX  - This research was funded by the Dutch Sectorplan for Social Sciences and Humanities. The author is grateful to the anonymous reviewers for their very constructive feedback on earlier drafts of this article.
-PU  - CAMBRIDGE UNIV PRESS
-PI  - CAMBRIDGE
-PA  - EDINBURGH BLDG, SHAFTESBURY RD, CB2 8RU CAMBRIDGE, ENGLAND
-SN  - 0020-5893
-SN  - 1471-6895
-J9  - INT COMP LAW Q
-JI  - Int. Comp. Law Quart.
-DA  - OCT
-PY  - 2022
-VL  - 71
-IS  - 4
-SP  - 915
-EP  - 944
-C7  - PII S0020589322000380
-DO  - 10.1017/S0020589322000380
-WE  - Social Science Citation Index (SSCI)AN  - WOS:000870327400008
-N1  - Times Cited in Web of Science Core Collection:  11
-Total Times Cited:  11
-Cited Reference Count:  116
-ER  -
-
-TY  - JOUR
-AU  - Pashentsev, DA
-AU  - Babaeva, YG
-TI  - Artificial intelligence in law-making and law enforcement: Risks and new opportunities
-T2  - VESTNIK OF SAINT PETERSBURG UNIVERSITY-LAW-VESTNIK SANKT-PETERBURGSKOGO UNIVERSITETA-PRAVO
-LA  - English
-KW  - artificial intelligence
-KW  - law-making
-KW  - law enforcement
-KW  - subject of law
-KW  - legal norm
-KW  - digitalization
-KW  - legal consciousness.
-AB  - The article examines the use of artificial intelligence (AI) in law-making and law enforcement, analyzing it through the lens of the technological paradigm theory and utilizing a new methodology rooted in post-classical scientific rationality. The examination of the AI's legal personality takes into account the modern anthropocentrism standpoint, where humans are perceived as the central figure in the legal system. A human, as a subject of law, plays a crucial role in constructing legal reality. Through exercising his powers, a human transforms abstract norms into existing law. The proposal to delegate this anthropological function to AI carries significant risks that may have detrimental effects on the established system of legal regulation for public relations. The correlation between law-making and law enforcement, as integral components in establishing legal reality, pertains to the legal consciousness of individuals as subjects of law. This correlation does not necessitate the substitution of human decision- making with AI. Simultaneously, AI is capable of effectively handling auxiliary legal tasks. It possesses the necessary skills to draft regulatory acts, court decisions, and consolidate proposals obtained through law-making crowdsourcing. Additionally, it is proficient in executing automated actions, such as issuing writs of execution. The utilization of AI to implement the concept of machine- readable law and algorithmize the application of legal norms appears to hold promise. The incorporation of a digital state notion, which pertains to the transition of public service provision into digital format, is also unattainable without AI, which greatly enhances the public administration efficiency. In this case, the focal point will revolve around the matter of attaining effective control over decisions carried out by AI, as well as the prescribed boundaries of its capabilities within the legal domain, as established by legislative measures.
-AD  - Inst Legislat & Comparat Law Govt Russian Federat, 34 ul Bolshaya Cheremushkinskaya, Moscow 117218, RussiaAD  - Moscow Metropolitan Governance Yury Luzhkov Univ, 28 ul Sretenka, Moscow 107045, RussiaPU  - ST PETERSBURG UNIV PRESS
-PI  - ST PETERSBURG
-PA  - 6TH LINE VO, 11, ST PETERSBURG, 199004, RUSSIA
-SN  - 2074-1243
-SN  - 2587-5833
-J9  - VESTN ST PETER U-LAW
-JI  - Vestn. St. Petersb. Univ.-Law
-PY  - 2024
-VL  - 15
-IS  - 2
-SP  - 516
-EP  - 526
-DO  - 10.21638/spbu14.2024.214
-WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001288915700014
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  14
-ER  -
-
-TY  - JOUR
-AU  - DE Graaf, T
-AU  - Veldt, G
-TI  - The AI Act and Its Impact on Product Safety, Contracts and Liability
-T2  - EUROPEAN REVIEW OF PRIVATE LAW
-LA  - English
-AB  - On 21 April 2021, the European Commission presented a proposal for an Artificial Intelligence (AI) Act. The proposal's aim is to address the risks associated with the placement and putting into service of an AI system on the EU market. In this contribution the Draft Regulation, its relationship to existing product safety law and its consequences for the private law liability of providers and users are assessed. More in particular, the proposed risk-based approach is explained, high-risk AI systems are dis-cussed in more detail and what the implications of this public law instrument are for the private law contractual relationships and liability of the provider and user of an AI system.
-AD  - Leiden Univ, Technol & Private Law, Leiden, NetherlandsAD  - Leiden Univ, Private Law & Empir Legal Studies, Leiden, NetherlandsC3  - Leiden UniversityC3  - Leiden University - Excl LUMCC3  - Leiden University - Excl LUMCC3  - Leiden UniversityFU  -  [NJB 2021 (43)];  [3534-3544]
-FX  - For his contribution, we used our Dutch language article ?Productveiligheid en aansprakelijkheid voor AI?, NJB 2021 (43) , pp 3534-3544 as a basis, to the translation of which we added more sources and a far more extensive discussion on liability. De Graaf?s research was funded by means of Leiden University?s SAILS-project. The authors thank Sandra Dixon for editing large parts of this contribution. The final version of this contribution was submitted on 20 July 2022.
-PU  - KLUWER LAW INT
-PI  - ALPHEN AAN DEN RIJN
-PA  - ZUIDPOOLSINGEL 2, PO BOX 316, 2400 AH ALPHEN AAN DEN RIJN, NETHERLANDS
-SN  - 0928-9801
-SN  - 1875-8371
-J9  - EUR REV PRIV LAW
-JI  - Eur. Rev. Priv. Law
-DA  - DEC
-PY  - 2022
-VL  - 30
-IS  - 5
-SP  - 803
-EP  - 834
-WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:000974903900002
-N1  - Times Cited in Web of Science Core Collection:  1
-Total Times Cited:  1
-Cited Reference Count:  96
-ER  -
-
-TY  - JOUR
-AU  - Bertalan, VGF
-AU  - Ruiz, EES
-TI  - Using attention methods to predict judicial outcomes
-T2  - ARTIFICIAL INTELLIGENCE AND LAW
-LA  - English
-KW  - Legal prediction
-KW  - Hierarchical attention networks
-KW  - Natural language processing
-KW  - Machine learning
-KW  - LEGAL
-KW  - CLASSIFICATION
-KW  - RESOLUTION
-AB  - The prediction of legal judgments is one of the most recognized fields in Natural Language Processing, Artificial Intelligence, and Law combined. By legal prediction, we mean intelligent systems capable of predicting specific judicial characteristics such as the judicial outcome, the judicial class, and the prediction of a particular case. In this study, we used an artificial intelligence classifier to predict the decisions of Brazilian courts. Also, kindly confirm the details in the metadata are correct. To this end, we developed a text crawler to extract data from official Brazilian electronic legal systems, consisting of two datasets of cases of second-degree murder and active corruption. We applied various classifiers, such as Support Vector Machines, Neural Networks, and others, to predict judicial outcomes by analyzing text features from the dataset. Our research demonstrated that Regression Trees, Gated Recurring Units, and Hierarchical Attention Networks tended to have higher metrics across our datasets. As the final goal, we searched the weights of one of the algorithms, Hierarchical Attention Networks, to find samples of the words that might be used to acquit or convict defendants based on their relevance to the algorithm.
-AD  - Univ Montreal, Ecole Polytech Montreal, Dept Genie Informat & Genie Logiciel, Montreal, PQ, CanadaAD  - Univ Sao Paulo, Dept Computacao & Matemat FFCLRP, Ribeirao Preto, BrazilC3  - Universite de MontrealC3  - Polytechnique MontrealC3  - Universidade de Sao PauloPU  - SPRINGER
-PI  - DORDRECHT
-PA  - VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
-SN  - 0924-8463
-SN  - 1572-8382
-J9  - ARTIF INTELL LAW
-JI  - Artif. Intell. Law
-DA  - MAR
-PY  - 2024
-VL  - 32
-IS  - 1
-SP  - 87
-EP  - 115
-DO  - 10.1007/s10506-022-09342-7
-C6  - DEC 2022
-WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:000905015800001
-N1  - Times Cited in Web of Science Core Collection:  1
-Total Times Cited:  1
-Cited Reference Count:  60
-ER  -
-
-TY  - JOUR
-AU  - Li, KG
-AU  - Wu, H
-AU  - Dong, YP
-TI  - Copyright protection during the training stage of generative AI: Industry-oriented US law, rights-oriented EU law, and fair remuneration rights for generative AI training under the UN's international governance regime for AI
-T2  - COMPUTER LAW & SECURITY REVIEW
-LA  - English
-KW  - Generative AI
-KW  - Copyright
-KW  - Training
-KW  - Data content
-KW  - Fair use
-KW  - Comparative study
-KW  - ANTICOMMONS
-KW  - TRAGEDY
-KW  - PROPERTY
-KW  - TEXT
-AB  - Generative AI relies on simulating and learning from complex data distributions to automatically generate new, meaningful content from large datasets. Training generative AI models carries the risk of copyright infringement. How can we balance the development of generative AI technology with copyright protection during the training stage of these models? In contrast to existing legal scholarship, this article conducts a comparative study of industry-oriented U.S. copyright law and rights-oriented EU copyright law. It draws insights from the concepts of the tragedy of the commons and the tragedy of the anti-commons, proposing the creation of fair remuneration rights for Generative AI training under the UN's international governance regime for AI. This article offers a typological analysis of potential operational models for fair remuneration rights in Generative AI training, drawing analogies to existing remuneration rights in international copyright treaties. The goal is to provide an open framework for further discussion within the international academic community.
-AD  - Ningbotech Univ, Ningbo, Zhejiang, Peoples R ChinaC3  - NingboTech UniversityFU  - National Social Science Foundation [21BXW040]
-FX  - This article is funded by the 2021 National Social Science Foundation Project (21BXW040) .
-PU  - ELSEVIER ADVANCED TECHNOLOGY
-PI  - OXFORD
-PA  - OXFORD FULFILLMENT CENTRE THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
-SN  - 0267-3649
-J9  - COMPUT LAW SECUR REV
-JI  - Comput. Law Secur. Rev.
-DA  - NOV
-PY  - 2024
-VL  - 55
-C7  - 106056
-DO  - 10.1016/j.clsr.2024.106056
-C6  - OCT 2024
-WE  - Social Science Citation Index (SSCI)AN  - WOS:001329594500001
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  133
-ER  -
-
-TY  - JOUR
-AU  - Thampapillai, D
-AU  - Ray, A
-TI  - A House with Two Masters? Copyright Law and Originality in the Age of Artificial Intelligence
-T2  - AUSTRALIAN INTELLECTUAL PROPERTY JOURNAL
-LA  - English
-AB  - The emergence of artificial intelligence (AI) and the implications that it has for authorship has created a crisis within copyright law. There has been much debate about whether copyright should permit AI authorship within its borders. However, the major question that needs to be addressed is really what happens after AI-authored or AI-augmented works are permitted within the boundaries of copyright law. What would be the implications for originality? Where works have been concerned, originality has long been the primary doctrinal vehicle gatekeeping entry into the copyright system. A change in the law that would permit AI-authored or AI-augmented works to sit within the system of copyright protection would call that role into question. In this article, we argue that originality will face challenges, but it will survive as a re-purposed doctrine delineating which level of protection a work may enjoy.
-AD  - Univ New South Wales, Sydney, AustraliaAD  - Jesus Coll, Intellectual Forum, Cambridge, EnglandAD  - Australian Natl Univ, ANU Coll Law, Canberra, AustraliaC3  - University of New South Wales SydneyC3  - University of CambridgeC3  - Australian National UniversityPU  - LAWBOOK CO LTD
-PI  - PYRMONT
-PA  - LEVEL 6, 19 HARRIS ST, PYRMONT, NSW 2009, AUSTRALIA
-SN  - 1038-1635
-J9  - AUSTR INTELLECT PROP
-JI  - Austr. Intellect. Prop. J.
-PY  - 2023
-VL  - 33
-IS  - 3
-WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:000993070100002
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  30
-ER  -
-
-TY  - JOUR
-AU  - Nerantzi, E
-AU  - Sartor, G
-TI  - 'Hard AI Crime': The Deterrence Turn
-T2  - OXFORD JOURNAL OF LEGAL STUDIES
-LA  - English
-KW  - criminal law
-KW  - artificial intelligence
-KW  - legal theory
-KW  - law and economics
-KW  - deterrence
-KW  - responsibility
-KW  - ROBOTS
-KW  - LAW
-AB  - Machines powered by artificial intelligence (AI) are increasingly taking over tasks previously performed by humans alone. In accomplishing such tasks, they may intentionally commit 'AI crimes', ie engage in behaviour which would be considered a crime if it were accomplished by humans. For instance, an advanced AI trading agent may-despite its designer's best efforts-autonomously manipulate markets while lacking the properties for being held criminally responsible. In such cases (hard AI crimes) a criminal responsibility gap emerges since no agent (human or artificial) can be legitimately punished for this outcome. We aim to shift the 'hard AI crime' discussion from blame to deterrence and design an 'AI deterrence paradigm', separate from criminal law and inspired by the economic theory of crime. The homo economicus has come to life as a machina economica, which, even if cannot be meaningfully blamed, can nevertheless be effectively deterred since it internalises criminal sanctions as costs.
-AD  - European Univ Inst, Law Dept, Fiesole, ItalyC3  - European University InstituteFU  - European Research Council (ERC) [833647]; European Research Council (ERC) [833647] Funding Source: European Research Council (ERC)
-FX  - Law Department, European University Institute. Email: giovanni.sartor@eui.eu; Department of Legal Studies, University of Bologna. Email: giovanni.sartor@unibo.it. This research has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (Grant Agreement no. 833647). We would like to thank Fabrizio Esposito, Sabine Gless, Pekka Maekelae, Nicolas Petit and Athina Sachoulidou for helpful comments at various stages.
-PU  - OXFORD UNIV PRESS
-PI  - OXFORD
-PA  - GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
-SN  - 0143-6503
-SN  - 1464-3820
-J9  - OXFORD J LEGAL STUD
-JI  - Oxf. J. Legal Stud.
-DA  - MAY 7
-PY  - 2024
-VL  - 44
-IS  - 3
-SP  - 673
-EP  - 701
-DO  - 10.1093/ojls/gqae018
-C6  - MAY 2024
-WE  - Social Science Citation Index (SSCI)AN  - WOS:001215165200001
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  65
-ER  -
-
-TY  - JOUR
-AU  - Alenezi, AM
-TI  - Artificial Intelligence and Foreign Investment Law Arbitration: an Analysis of Regulatory Framework Implications
-T2  - JOURNAL OF WORLD INVESTMENT & TRADE
-LA  - English
-KW  - artificial intelligence integration challenges
-KW  - foreign investment law arbitration
-KW  - international investment law
-KW  - investor state arbitration adaptation
-AB  - This paper proposes a structured, tiered framework through a UNCITRAL Model Law to gradually integrate artificial intelligence (AI) into foreign investment law arbitration in an ethical and effective manner. It also explores the critical role arbitration institutions can play in facilitating AI implementation. It details how AI can assist arbitrators by searching vast datasets, automating routine tasks, and enhancing decision-making through analysis of previous cases. Current AI regulations in regions like the EU, UK, and Canada fall short in addressing the complexities of cross-border arbitration and ensuring interoperability. By emphasising the distinct contributions of the proposed UNCITRAL Model Law and arbitration institutions, the paper highlights a multi-faceted strategy to overcome challenges posed by outdated international conventions, inconsistencies in bilateral investment treaties, and the lack of comprehensive guidance. This approach aims to refine the integration of AI in arbitration processes, enhancing efficiency, fairness, and the legitimacy of the arbitration system.
-AD  - Univ Tabuk, Sch Shariaa & Law, Tabuk, Saudi ArabiaC3  - University of TabukPU  - BRILL
-PI  - LEIDEN
-PA  - PLANTIJNSTRAAT 2, P O BOX 9000, 2300 PA LEIDEN, NETHERLANDS
-SN  - 1660-7112
-SN  - 2211-9000
-J9  - J WORLD INVEST TRADE
-JI  - J. World Invest. Trade
-DA  - JUN
-PY  - 2024
-VL  - 25
-IS  - 3
-SP  - 369
-EP  - 409
-DO  - 10.1163/22119000-12340329
-WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001268719900003
-N1  - Times Cited in Web of Science Core Collection:  1
-Total Times Cited:  1
-Cited Reference Count:  114
-ER  -
-
-TY  - JOUR
-AU  - Su, AN
-TI  - The Promise and Perils of International Human Rights Law for AI Governance
-T2  - LAW TECHNOLOGY AND HUMANS
-LA  - English
-KW  - International human rights
-KW  - AI governance
-KW  - cooptation
-KW  - AI nationalism
-KW  - regulatory arbitrage
-KW  - AI ethics
-KW  - DIGITAL CONSTITUTIONALISM
-KW  - ARTIFICIAL-INTELLIGENCE
-KW  - ETHICS
-KW  - AGE
-AB  - This article considers the benefits and pitfalls of international human rights law as a component of artificial intelligence (AI) governance initiatives. It argues that (1) human rights law can serve as an authoritative resource for providing definitions to highly contested tenns such as fairness or equality, (2) it can be used to address the problem of international regulatory arbitrage, and (3) it provides a framework to hold public and private actors legally accountable. At the same time, the paper considers recent critiques of human rights law and its application to AI governance, such as (1) lack of effectiveness; (2) inability to effect structural change, and finally, (3) the problem of cooptation. The article argues that while there is room for international human rights in the realm of AI governance, we should look to it with tempered expectations as to its promises and limitations.
-AD  - Univ Toronto, Toronto, ON, CanadaC3  - University of TorontoPU  - QUEENSLAND UNIV TECHNOLOGY
-PI  - BRISBANE
-PA  - GPO  BOX 2434, BRISBANE, QLD 4001, AUSTRALIA
-SN  - 2652-4074
-J9  - LAW TECHNOL HUMANS
-JI  - Law Technol. Humans
-PY  - 2022
-VL  - 4
-IS  - 2
-SP  - 166
-EP  - 182
-DO  - 10.5204/lthj.2332
-WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:000892027600012
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  117
-ER  -
-
-TY  - JOUR
-AU  - Sachoulidou, A
-TI  - Harnessing AI for law enforcement: Solutions and boundaries from the forthcoming AI Act
-T2  - NEW JOURNAL OF EUROPEAN CRIMINAL LAW
-LA  - English
-AD  - Aristotle Univ Thessaloniki, Thessaloniki, GreeceAD  - Univ Nova Lisboa, Lisbon, PortugalC3  - Aristotle University of ThessalonikiC3  - Universidade Nova de LisboaPU  - SAGE PUBLICATIONS INC
-PI  - THOUSAND OAKS
-PA  - 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
-SN  - 2032-2844
-SN  - 2399-293X
-J9  - NEW J EUR CRIM LAW
-JI  - New J. Eur. Crim. Law
-DA  - JUN
-PY  - 2024
-VL  - 15
-IS  - 2
-SP  - 117
-EP  - 125
-DO  - 10.1177/20322844241260114
-WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001252140300001
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  30
-ER  -
-
-TY  - JOUR
-AU  - McLaughlin, M
-TI  - Regulating Artificial Intelligence in International Investment Law
-T2  - JOURNAL OF WORLD INVESTMENT & TRADE
-LA  - English
-KW  - artificial intelligence
-KW  - digital economy
-KW  - international investment law
-KW  - international
-KW  - law and technology
-KW  - investment arbitration
-KW  - INTELLECTUAL PROPERTY-RIGHTS
-KW  - SECURITY
-KW  - TRADE
-KW  - CHINA
-KW  - US
-AB  - The interaction between artificial intelligence (AI) and international investment treaties is an uncharted territory of international law. Concerns over the national security, safety, and privacy implications of AI are spurring regulators into action around the world. States have imposed restrictions on data transfer, utilised automated decision-making, mandated algorithmic transparency, and limited market access. This article explores the interaction between AI regulation and standards of investment protection. It is argued that the current framework provides an unpredictable legal environment in which to adjudicate the contested norms and ethics of AI. Treaties should be recalibrated to reinforce their anti-protectionist origins, embed human-centric AI principles, and embrace expert witnesses and amicus briefs.
-AD  - Singapore Management Univ, Sch Law, Singapore, SingaporeC3  - Singapore Management UniversityPU  - BRILL
-PI  - LEIDEN
-PA  - PLANTIJNSTRAAT 2, P O BOX 9000, 2300 PA LEIDEN, NETHERLANDS
-SN  - 1660-7112
-SN  - 2211-9000
-J9  - J WORLD INVEST TRADE
-JI  - J. World Invest. Trade
-DA  - APR
-PY  - 2023
-VL  - 24
-IS  - 2
-SP  - 256
-EP  - 300
-DO  - 10.1163/22119000-12340288
-WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:000992726600003
-N1  - Times Cited in Web of Science Core Collection:  2
-Total Times Cited:  2
-Cited Reference Count:  159
-ER  -
-
-TY  - JOUR
-AU  - Soh, J
-TI  - Legal dispositionism and artificially-intelligent attributions
-T2  - LEGAL STUDIES
-LA  - English
-KW  - artificial intelligence
-KW  - autonomous systems
-KW  - attribution theory
-KW  - law and technology
-KW  - law and psychology
-AB  - It is conventionally argued that because an artificially-intelligent (AI) system acts autonomously, its makers cannot easily be held liable should the system's actions harm. Since the system cannot be liable on its own account either, existing laws expose victims to accountability gaps and need to be reformed. Recent legal instruments have nonetheless established obligations against AI developers and providers. Drawing on attribution theory, this paper examines how these seemingly opposing positions are shaped by the ways in which AI systems are conceptualised. Specifically, folk dispositionism underpins conventional legal discourse on AI liability, personality, publications, and inventions and leads us towards problematic legal outcomes. Examining the technology and terminology driving contemporary AI systems, the paper contends that AI systems are better conceptualised instead as situational characters whose actions remain constrained by their programming. Properly viewing AI systems as such illuminates how existing legal doctrines could be sensibly applied to AI and reinforces emerging calls for placing greater scrutiny on the broader AI ecosystem.
-AD  - Singapore Management Univ, Singapore, SingaporeC3  - Singapore Management UniversityPU  - CAMBRIDGE UNIV PRESS
-PI  - CAMBRIDGE
-PA  - EDINBURGH BLDG, SHAFTESBURY RD, CB2 8RU CAMBRIDGE, ENGLAND
-SN  - 0261-3875
-SN  - 1748-121X
-J9  - LEGAL STUD
-JI  - Leg. Stud.
-DA  - DEC
-PY  - 2023
-VL  - 43
-IS  - 4
-SP  - 583
-EP  - 602
-C7  - PII S0261387522000526
-DO  - 10.1017/lst.2022.52
-C6  - FEB 2023
-WE  - Social Science Citation Index (SSCI)AN  - WOS:000933699000001
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  78
-ER  -
-
-TY  - JOUR
-AU  - Buckingham, L
-AU  - Williams, M
-TI  - I, Robot: Is IP Law Ready for the Age of AI? (Thaler and Other Provocations to Our Existing Systems)
-T2  - AUSTRALIAN INTELLECTUAL PROPERTY JOURNAL
-LA  - English
-KW  - ARTIFICIAL-INTELLIGENCE
-KW  - CREATIVITY
-KW  - PHILOSOPHY
-KW  - DEFINITION
-KW  - COPYRIGHT
-KW  - RIGHTS
-AB  - We are entering the age of artificial intelligence (AI). Once a matter of science fiction, significant developments in AI are now being regularly reported and the public is becoming more familiar with AI through applications relying on ordinary English language commands. One of the most recent applications, ChatGPT, has given people a taste of what AI may be able to accomplish. While interest in AI is rising, key questions remain about how ready intellectual property (IP) laws are for the revolution it promises to bring. Can AI invent? And even if it can create, can the creations be protected under copyright laws? Recent cases, particularly those pursued by Dr Stephen Thaler reveal a raft of problems with the interaction between AI and inventions and creations under existing IP laws, including whether AI has the legal personality necessary to qualify as an inventor or creator. The resultant category of inventions and creations may be denied any form of protection. Is this the IP system we intend or is it increasingly deficient in addressing the impact of AI, in terms of incentives and regulations around both ingestion and output? These are issues which will be explored in this article.
-PU  - LAWBOOK CO LTD
-PI  - PYRMONT
-PA  - LEVEL 6, 19 HARRIS ST, PYRMONT, NSW 2009, AUSTRALIA
-SN  - 1038-1635
-J9  - AUSTR INTELLECT PROP
-JI  - Austr. Intellect. Prop. J.
-PY  - 2023
-VL  - 33
-IS  - 3
-WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:000993070100004
-N1  - Times Cited in Web of Science Core Collection:  1
-Total Times Cited:  1
-Cited Reference Count:  122
-ER  -
-
-TY  - JOUR
-AU  - Li, Q
-AU  - Philipsen, N
-AU  - Cauffman, C
-TI  - AI-enabled price discrimination as an abuse of dominance: a law and economics analysis
-T2  - CHINA-EU LAW JOURNAL
-LA  - English
-KW  - AI-enabled price discrimination
-KW  - Abuse of dominance
-KW  - Efficiency
-KW  - Consumer welfare
-KW  - Exclusionary and exploitative effects
-KW  - Competition law intervention
-KW  - OUTPUT
-AB  - In digital markets, concentrated Big Data and analytical algorithms enable undertakings to predict each consumer's willingness to pay with increasing accuracy and offer consumers personalized recommendations and tailored prices accordingly. In this context, concerns have arisen about whether and when AI-enabled price discrimination amounts to an abuse of dominance under competition law and would require a legal response. To address these concerns, this paper will analyze AI-enabled price discrimination from a comparative law and economics perspective. In economics, price discrimination is not always undesirable as it can increase static efficiency, and, on some occasions, it can promote dynamic efficiency and boost consumer welfare. Nevertheless, it may also lead to exclusionary and exploitative effects, especially once Tech Giants abuse their dominant positions in relevant markets. Since the protection of free competition and consumer welfare are objectives of competition law in China and the EU, competition law seems a proper instrument to step into digital markets to address these concerns. Indeed, the EU and China have established mixed regimes of competition law and other rules to tackle unfair and/or anti-competitive AI-enabled price discrimination. As such, AI-enabled price discrimination does not always require a competition law response and it requires competition authorities to make a trade-off between different considerations.
-AD  - Maastricht Univ, Fac Law, Maastricht, NetherlandsAD  - Erasmus Sch Law, Rotterdam, NetherlandsC3  - Maastricht UniversityC3  - Erasmus University RotterdamC3  - Erasmus University Rotterdam - Excl Erasmus MCFU  - China Scholarship Council [202009370093]
-FX  - This paper is supported by the China Scholarship Council (Grant No. CSC NO.202009370093).
-PU  - SPRINGER HEIDELBERG
-PI  - HEIDELBERG
-PA  - TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
-SN  - 1868-5153
-SN  - 1868-5161
-J9  - CHINA-EU LAW J
-JI  - China-EU Law J.
-DA  - OCT
-PY  - 2023
-VL  - 9
-IS  - 1-4
-SP  - 51
-EP  - 72
-DO  - 10.1007/s12689-023-00099-z
-C6  - APR 2023
-WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:000977817800001
-N1  - Times Cited in Web of Science Core Collection:  1
-Total Times Cited:  1
-Cited Reference Count:  42
-ER  -
-
-TY  - JOUR
-AU  - Tzimas, T
-TI  - Algorithmic Transparency and Explainability under EU Law
-T2  - EUROPEAN PUBLIC LAW
-LA  - English
-KW  - Algorithms
-KW  - transparency
-KW  - Explainability
-KW  - GDPR
-KW  - AI Act
-KW  - Meaningful Information
-KW  - EU Law
-KW  - AUTOMATED DECISION-MAKING
-KW  - ARTIFICIAL-INTELLIGENCE
-KW  - BLACK-BOX
-KW  - RISK-ASSESSMENT
-KW  - AI
-KW  - EXPLANATION
-AB  - This article focuses on algorithmic transparency under EU law, specifically exploring the 'right to explanation'. It addresses the legal framework concerning Artificial Intelligence (AI) algorithms from the above - mentioned perspective, focusing on remedies which ensure transparency and accountability, given the black box effect of algorithms. Proprietary information, and transparency-performance trade-offs are analysed, as well as the 'right to explanation' within the General Data Protection Regulation (GDPR) and in light of the EU 'AI Act', which is expected to be adopted. The legal remedies under EU law are examined and assessed in terms of their efficiency.
-AD  - Aristotle Univ Thessaloniki, Hellen Open Univ, Thessaloniki, GreeceC3  - Aristotle University of ThessalonikiC3  - Hellenic Open UniversityPU  - KLUWER LAW INT
-PI  - ALPHEN AAN DEN RIJN
-PA  - ZUIDPOOLSINGEL 2, PO BOX 316, 2400 AH ALPHEN AAN DEN RIJN, NETHERLANDS
-SN  - 1354-3725
-SN  - 1875-8207
-J9  - EUR PUBLIC LAW
-JI  - Eur. Public Law
-DA  - DEC
-PY  - 2023
-VL  - 29
-IS  - 4
-SP  - 385
-EP  - 411
-WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001170300400004
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  116
-ER  -
-
-TY  - JOUR
-AU  - Poesen, M
-TI  - Private International Law and Artificial Intelligence: An EU Perspective
-T2  - EUROPEAN REVIEW OF PRIVATE LAW
-LA  - English
-AB  - This article bridges artificial intelligence (AI) and EU private international law (PIL), also known as 'conflict of laws'. PIL is the body of (usually domestic or regional) rules that determine which country's law applies to cross-border private legal relationships, such as contracts or torts. The article will start by bringing EU PIL to bear on the application of AI in cross-border settings. To that aim, it will first evaluate whether the current framework is up to the task of determining what country's law is applicable to claims (with an emphasis on liability claims) arising out of private applications of AI systems. Then, the article will turn to discuss a recent proposal of the European Parliament for a bespoke future Regulation concerning civil liability for AI systems, including a novel rule of PIL. Finally, the enquiry will switch perspective by outlining how AI can facilitate the application of often complex rules of EU PIL in practice.
-AD  - Univ Aberdeen, Sch Law, Aberdeen, ScotlandC3  - University of AberdeenPU  - KLUWER LAW INT
-PI  - ALPHEN AAN DEN RIJN
-PA  - ZUIDPOOLSINGEL 2, PO BOX 316, 2400 AH ALPHEN AAN DEN RIJN, NETHERLANDS
-SN  - 0928-9801
-SN  - 1875-8371
-J9  - EUR REV PRIV LAW
-JI  - Eur. Rev. Priv. Law
-DA  - JUL
-PY  - 2023
-VL  - 31
-IS  - 2-3
-SP  - 365
-EP  - 386
-WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001085773300006
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  67
-ER  -
-
-TY  - JOUR
-AU  - Swierczynski, M
-AU  - Wieckowski, Z
-TI  - Applicable Law Concerning Obligations Arising from the Infringements of Personal Data Laws Due to the Use of Artificial Intelligence Systems
-T2  - REVIEW OF EUROPEAN AND COMPARATIVE LAW
-LA  - English
-KW  - AI personal data
-KW  - data protection law
-KW  - conflict-of-laws
-KW  - DATA PROTECTION REGULATION
-KW  - TORT CONFLICTS
-KW  - ROME II
-KW  - SCOPE
-AB  - An issue that is characteristic of AI is data process-ing on a massive scale (giga data, Big Data). This issue is also important because of the proposition to require manufactur-ers to equip AI systems with a means to record information about the operation of the technology, in particular the type and magnitude of the risk posed by the technology and any negative effects that logging may have on the rights of others. Data gathering must be carried out in accordance with the ap-plicable laws, particularly data protection laws and trade secret protection laws. Therefore, it is necessary to determine the ap-plicable law in line with existing conflict-of-law regulations.
-AD  - Cardinal Stefan Wyszynski Univ Warsaw, Inst Legal Studies, Ul Woycickiego 1-3,B 17, PL-01938 Warsaw, PolandC3  - Cardinal Stefan Wyszynski University in WarsawPU  - JOHN PAUL II CATHOLIC UNIV LUBLIN
-PI  - LUBLIN
-PA  - AL RACLAWICKIE 14, LUBLIN, PL 20-950, POLAND
-SN  - 2545-384X
-J9  - REV EUR COMP LAW
-JI  - Rev. Eur. Comparative Law
-PY  - 2023
-VL  - 52
-IS  - 1
-SP  - 169
-EP  - 181
-DO  - 10.31743/recl.13995
-WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:000961860200008
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  36
-ER  -
-
-TY  - JOUR
-AU  - Bruner, CM
-TI  - Artificially intelligent boards and the future of Delaware corporate law
-T2  - JOURNAL OF CORPORATE LAW STUDIES
-LA  - English
-KW  - Artificial intelligence
-KW  - corporate law
-KW  - corporate governance
-KW  - fiduciary duty
-KW  - oversight
-KW  - compliance
-KW  - COMPETITION
-AB  - This article argues that the prospects for Artificial Intelligence (AI) to impact corporate law are at once over- and under-stated, focusing on the law of Delaware - the predominant jurisdiction of incorporation for US public companies. Claims that AI systems might displace human directors not only exaggerate AI's foreseeable technological potential, but ignore doctrinal and institutional impediments intrinsic to Delaware's competitive model - notably, heavy reliance on nuanced applications of the fiduciary duty of loyalty by a true court of equity. At the same time, however, there are discrete AI applications that might not merely be accommodated by Delaware corporate law, but perhaps eventually required. This would appear most likely in the oversight context, where loyalty has been interpreted to require good faith effort to adopt a reasonable compliance monitoring system, an approach driven by an implicit cost-benefit analysis that could lean decisively in favour of AI-based approaches in the foreseeable future.
-AD  - Univ Georgia, Sch Law, 225 Herty Dr, Athens, GA 30602 USAC3  - University System of GeorgiaC3  - University of GeorgiaPU  - ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
-PI  - ABINGDON
-PA  - 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
-SN  - 1473-5970
-SN  - 1757-8426
-J9  - J CORP LAW STUD
-JI  - J. Corp. Law Stud.
-DA  - JUL 3
-PY  - 2022
-VL  - 22
-IS  - 2
-SP  - 783
-EP  - 805
-DO  - 10.1080/14735970.2022.2153965
-C6  - DEC 2022
-WE  - Social Science Citation Index (SSCI)AN  - WOS:000903268100001
-N1  - Times Cited in Web of Science Core Collection:  2
-Total Times Cited:  2
-Cited Reference Count:  122
-ER  -
-
-TY  - JOUR
-AU  - Francesconi, E
-TI  - The winter, the summer and the summer dream of artificial intelligence in law Presidential address to the 18th International Conference on Artificial Intelligence and Law
-T2  - ARTIFICIAL INTELLIGENCE AND LAW
-LA  - English
-KW  - AI
-KW  - Semantic web
-KW  - Provisions
-KW  - Norms
-KW  - Smart data
-KW  - Godel theorem
-KW  - LEGAL
-KW  - CLASSIFICATION
-KW  - MODEL
-AB  - This paper reflects my address as IAAIL president at ICAIL 2021. It is aimed to give my vision of the status of the AI and Law discipline, and possible future perspectives. In this respect, I go through different seasons of AI research (of AI and Law in particular): from the Winter of AI, namely a period of mistrust in AI (throughout the eighties until early nineties), to the Summer of AI, namely the current period of great interest in the discipline with lots of expectations. One of the results of the first decades of AI research is that "intelligence requires knowledge". Since its inception the Web proved to be an extraordinary vehicle for knowledge creation and sharing, therefore it's not a surprise if the evolution of AI has followed the evolution of the Web. I argue that a bottom-up approach, in terms of machine/deep learning and NLP to extract knowledge from raw data, combined with a top-down approach, in terms of legal knowledge representation and models for legal reasoning and argumentation, may represent a promotion for the development of the Semantic Web, as well as of AI systems. Finally, I provide my insight in the potential of AI development, which takes into account technological opportunities and theoretical limits.
-AD  - CNR, Ist Informat Giurid Sistemi Giudiziari IGSG CNR, Florence, ItalyAD  - European Parliament, Luxembourg, LuxembourgC3  - Consiglio Nazionale delle Ricerche (CNR)C3  - European Parliament LuxembourgPU  - SPRINGER
-PI  - DORDRECHT
-PA  - VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
-SN  - 0924-8463
-SN  - 1572-8382
-J9  - ARTIF INTELL LAW
-JI  - Artif. Intell. Law
-DA  - JUN
-PY  - 2022
-VL  - 30
-IS  - 2
-SP  - 147
-EP  - 161
-DO  - 10.1007/s10506-022-09309-8
-C6  - FEB 2022
-WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:000750746600001
-N1  - Times Cited in Web of Science Core Collection:  7
-Total Times Cited:  7
-Cited Reference Count:  74
-ER  -
-
-TY  - JOUR
-AU  - Cohen, J
-AU  - Curtis, S
-AU  - Economou, N
-AU  - Evans, K
-AU  - Hedin, B
-AU  - Iliadis, N
-AU  - Lapenta, F
-AU  - Miailhe, N
-AU  - Nemitz, P
-AU  - Psarrou, D
-AU  - Quintarelli, S
-AU  - Rotenberg, M
-AU  - Spiekermann, S
-AU  - Streinz, T
-AU  - Wallach, W
-TI  - A Manifesto on Enforcing Law in the Age of 'Artificial Intelligence'
-T2  - EUROPEAN LAW JOURNAL
-LA  - English
-AB  - Building upon A Manifesto In Defense of Democracy and the Rule of Law in the Age of 'Artificial Intelligence', we, the Transatlantic Reflection Group on Democracy and the Rule of Law in the Age of 'Artificial Intelligence', have reconvened to draft a second consensus manifesto that calls for the effective and legitimate enforcement of laws concerning AI systems. In doing so, we recognise the important and complementary role of standards and compliance practices. Whereas the first manifesto focused on the relationship between democratic law-making and technology, this second manifesto shifts focus from the design of law in the age of AI to the enforcement of law. Concretely, we offer 10 recommendations for addressing the key enforcement challenges shared across transatlantic stakeholders. We call on those who support these recommendations to sign this manifesto. The Fifth Edition of The Athens Roundtable on AI and the Rule of Law will take place on November 30th and December 1st, 2023. It will delve into pressing governance challenges posed by foundation models and generative AI across jurisdictions.
-PU  - WILEY
-PI  - HOBOKEN
-PA  - 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
-SN  - 1351-5993
-SN  - 1468-0386
-J9  - EUR LAW J
-JI  - Eur. Law J.
-DA  - JAN
-PY  - 2023
-VL  - 29
-IS  - 1-2
-SP  - 249
-EP  - 255
-DO  - 10.1111/eulj.12474
-C6  - OCT 2023
-WE  - Social Science Citation Index (SSCI)AN  - WOS:001087555700001
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  0
-ER  -
-
-TY  - JOUR
-AU  - De Ussel, II
-TI  - EUROPEAN PROJECT LAW ON ARTIFICIAL INTELLIGENCE
-T2  - REVISTA GENERAL DE DERECHO ADMINISTRATIVO
-LA  - Spanish
-KW  - Artificial intelligence
-KW  - European Union Artificial Intelligence Act
-KW  - AI Risks
-AB  - The article addresses the European Artificial Intelligence (AI) Act processed in the Parliament of the European Union. The regulation promotes precautions for the risks associated with AI, while favoring its development. It classifies AI systems into three categories based on the level of risk they present: unacceptable, high, and minor. Unacceptable risk AI systems, such as harmful or discriminatory are prohibited; high risk are subject to more stringent requirements; while low risk systems are not subject to any specific requirements.
-   The law includes provisions to address risks associated with AI, such as security, ethical and discrimination risks. It is an important step in AI regulation in the EU and could have a significant impact on the development and use of AI with potential effects even outside the EU.
-AD  - Swiss Fed Inst Technol, Salvador Pane Vidal, Zurich, SwitzerlandC3  - Swiss Federal Institutes of Technology DomainC3  - ETH ZurichPU  - IUSTEL
-PI  - MADRID
-PA  - C PRINCESA NO 29, 2A DCHA, MADRID, 28008, SPAIN
-SN  - 1696-9650
-J9  - REV GEN DERECHO ADM
-JI  - Rev. Gen. Derecho Adm.
-DA  - OCT
-PY  - 2023
-IS  - 64
-C7  - 426403
-WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001091477400012
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  38
-ER  -
-
-TY  - JOUR
-AU  - Castán, CT
-TI  - The legal concept of artificial intelligence: the debate surrounding the definition of AI System in the AI Act
-T2  - BIOLAW JOURNAL-RIVISTA DI BIODIRITTO
-LA  - English
-KW  - Artificial Intelligence
-KW  - legal definitions
-KW  - AI Act
-KW  - legislative process
-KW  - European Union institutions
-KW  - OF-LIFE DECISIONS
-KW  - ADVANCE DIRECTIVES
-KW  - EUROPEAN COUNTRIES
-KW  - PREFERENCES
-KW  - CARE
-KW  - STABILITY
-KW  - ATTITUDES
-KW  - ENGLAND
-KW  - PROXIES
-KW  - LAW
-AB  - The concept of AI has always been controversial because there is no broad consensus on its definition. This is problematic from a legal perspective, as laws require precise and specific definitions, especially for concepts that have a direct impact on the scope and reach of the regulation, having this choice technological, economical and legal implications. During the European Union's AI Act legislative process, there has been a debate on the legal definition of AI, with diverging definitions of AI System being proposed by the different bodies of the European Union.
-AD  - Univ La Laguna, Fac Law, Tenerife, SpainC3  - Universidad de la LagunaFU  - ESF Invest in your future [PRE2019-091660]; MCIN/AEI [PRE2019-091660]
-FX  - This article has been possible thanks to the grant PRE2019-091660 financed by MCIN/AEI/10.13039/501100011033, by ESF Invest in your future. The article was subject to a double-blind peer review pro-cess.
-PU  - UNIV TRENTO, FAC LAW
-PI  - TRENTO
-PA  - VIA VERDI 53, TRENTO, 38122, ITALY
-SN  - 2284-4503
-J9  - BIOLAW J
-JI  - BioLaw J.
-PY  - 2024
-IS  - 1
-SP  - 305
-EP  - 334
-WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001195482700023
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  57
-ER  -
-
-TY  - JOUR
-AU  - Gaumann, N
-AU  - Veale, M
-TI  - AI providers as criminal essay mills? Large language models meet contract cheating law
-T2  - INFORMATION & COMMUNICATIONS TECHNOLOGY LAW
-LA  - English
-KW  - Contract cheating
-KW  - essay mills
-KW  - large language models
-KW  - AI
-KW  - academic integrity
-AB  - Many jurisdictions have passed very broadly drafted laws to tackle academic integrity issues, criminalising the provision or advertising of contract cheating or essay mills, such as the Skills and Post-16 Education Act 2022 in England and Wales. Recently, AI models such as chatGPT have amplified academic concerns. Here, we look at the intersection between these phenomena. We review academic cheating laws, showing that several may apply even to general-purpose AI services like chatGPT, without knowledge and intent. We identify a range of illegal adverts for AI-enhanced essay mills, and illustrate how difficult it is to draw the line between writing an essay and supporting it, such as by generating bone fide references. We also outline the consequences for intermediaries hosting these ads or providing these services, which may be significantly affected by these primarily symbolic laws. We conclude with a series of recommendations for policymakers, legislators, and education providers.
-AD  - UCL, Fac Laws, London, EnglandC3  - University of LondonC3  - University College LondonFU  - UKRI; Trustworthy Autonomous Systems Hub; UCL ChangeMakers fund
-FX  - This work is supported by the UKRI [grant number EP/V00784X/1] (https://tas.ac.uk) Trustworthy Autonomous Systems Hub, and the UCL ChangeMakers fund
-PU  - ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
-PI  - ABINGDON
-PA  - 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
-SN  - 1360-0834
-SN  - 1469-8404
-J9  - INF COMMUN TECHNOL L
-JI  - Inf. Commun. Technol. Law
-DA  - SEP 1
-PY  - 2024
-VL  - 33
-IS  - 3
-SP  - 276
-EP  - 309
-DO  - 10.1080/13600834.2024.2352692
-C6  - MAY 2024
-WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001228171300001
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  74
-ER  -
-
-TY  - JOUR
-AU  - Naithani, P
-TI  - Issues of Authorship and Ownership in Work created by Artificial Intelligence - Indian Copyright Law Perspective
-T2  - NTUT JOURNAL OF INTELLECTUAL PROPERTY LAW AND MANAGEMENT
-LA  - English
-KW  - Artificial Intelligence
-KW  - Copyright Law
-KW  - Ownership
-KW  - Computer-generated work
-KW  - Copyright Act
-KW  - 1957
-AB  - The fact that Artificial Intelligence (AI) is creating literary, artistic, and musical work raises important questions concerning copyrightability and authorship and ownership of such work under Copyright Law. A question that arises is whether AI can be considered the author and owner of work? Further, as per the Copyright Act, 1957, the author means... in relation to... work which is computer-generated, the person who causes the work to be created. Thus, who should be considered to have caused work to be created when work is created by AI? Alternatively, can it be said that no person has caused the work to be created? This paper answers these questions from the perspective of Indian Copyright Law and copyright law justifications, while briefly looking at the position in other jurisdictions such as the US and UK. It also provides possible solutions to the issue of authorship and ownership in work created by AI which include - the work entering into the public domain, compulsory licenses being sought to make use of the work, recognition of limited personhood for AI, joint authorship for the persons involved or recognizing a sui generis right in work created by AI.
-AD  - OP Jindal Global Univ, Jindal Global Law Sch, Sonipat, IndiaC3  - O.P. Jindal Global UniversityPU  - NATL TAIPEI UNIV TECHNOLOGY
-PI  - TAIPEI
-PA  - 1, SEC 3, CHUNG-HSIAO E RD, TAIPEI, 10608, TAIWAN
-SN  - 2226-6771
-J9  - NTUT J INTELLECT PRO
-JI  - NTUT J. Intellect. Prop. Law Manag.
-DA  - JUN
-PY  - 2022
-VL  - 11
-IS  - 1
-SP  - 1
-EP  - 12
-WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:000923950300002
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  37
-ER  -
-
-TY  - JOUR
-AU  - Li, YZ
-TI  - AI restoration brings 'dying' masterpieces back to life, but tricks copyright?
-T2  - INTERNATIONAL JOURNAL OF LAW AND INFORMATION TECHNOLOGY
-LA  - English
-KW  - artificial intelligence
-KW  - restoration
-KW  - AI-restored work
-KW  - copyright protection
-KW  - limitations and exceptions
-KW  - authenticity
-KW  - ARTIFICIAL-INTELLIGENCE
-AB  - Recently, artificial intelligence (AI) has shed light on the restoration of fragmentary masterpieces. It is said that AI-restored content can reproduce the missing part in fragmentary works, reveal authors' initial intention, and give the younger generation a chance to appreciate the essence of cultural heritage. AI restoration leads to a discussion on whether copyright law should apply to AI-restored works. The existing literature about the nexus between the restoration of works and copyright is scarce, and none is related to AI-restored works. Therefore, this paper focuses on investigating the potential copyright issues regarding AI-restored works and exploring how the traditional copyright regime fails to solve those issues. Besides, this paper suggests recalibrating the copyright regime to enhance the authenticity of AI-restored output. Lastly, this cutting-edge article provides theoretical evidence for IP scholars interested in AI-related issues and advocates future research on the relation between AI models and copyright law.
-AD  - Chinese Univ Hong Kong, Fac Law, Sha Tin, 6-F Lee Shau Kee Bldg, Hong Kong, Peoples R ChinaC3  - Chinese University of Hong KongPU  - OXFORD UNIV PRESS
-PI  - OXFORD
-PA  - GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
-SN  - 0967-0769
-SN  - 1464-3693
-J9  - INT J LAW INFORM TEC
-JI  - Int. J. Law Inform. Technol.
-DA  - DEC 27
-PY  - 2022
-VL  - 30
-IS  - 3
-SP  - 368
-EP  - 384
-DO  - 10.1093/ijlit/eaac023
-C6  - NOV 2022
-WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:000892394400001
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  70
-ER  -
-
-TY  - JOUR
-AU  - McFarland, T
-TI  - Reconciling trust and control in the military use of artificial intelligence
-T2  - INTERNATIONAL JOURNAL OF LAW AND INFORMATION TECHNOLOGY
-LA  - English
-KW  - artificial intelligence
-KW  - law of armed conflict
-KW  - military technology
-KW  - international law
-KW  - trust
-KW  - control
-KW  - ROME STATUTE
-AB  - In regulating military applications of artificial intelligence (AI), the relationship between humans and the AI systems they operate is of central importance. AI developers commonly frame the desired human-AI relationship in terms of 'trust', aiming to make AI systems sufficiently 'trustworthy' for the task at hand and foster appropriate levels of human 'trust' in complex, often inscrutable, AI systems. Meanwhile, in legal and ethical discussions, the challenge is generally framed as ensuring that humans retain 'control' over AI such that responsible operators can reliably guide the behaviour of AI systems as required by legal and other norms. Surprisingly, few have asked whether the paradigms of 'trust' and 'control' are guiding development of the human-AI relationship in the same direction. This paper outlines the nature of trust and control as they relate to regulation of the human-AI relationship and surveys some challenges which arise in regulating the military uptake of AI systems.
-AD  - Univ Queensland, TC Beirne Sch Law, Brisbane, AustraliaC3  - University of QueenslandFU  - Australian Government through Trusted Autonomous Systems, Defence Cooperative Research Centre through Next Generation Technologies Fund
-FX  - The research for this paper received funding from the Australian Government through Trusted Autonomous Systems, a Defence Cooperative Research Centre funded through the Next Generation Technologies Fund.
-PU  - OXFORD UNIV PRESS
-PI  - OXFORD
-PA  - GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
-SN  - 0967-0769
-SN  - 1464-3693
-J9  - INT J LAW INFORM TEC
-JI  - Int. J. Law Inform. Technol.
-DA  - DEC 31
-PY  - 2022
-VL  - 30
-IS  - 4
-SP  - 472
-EP  - 483
-DO  - 10.1093/ijlit/eaad008
-C6  - MAR 2023
-WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:000954316000001
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  27
-ER  -
-
-TY  - JOUR
-AU  - Kunc, JF
-TI  - AI, JUDGES AND THE LAW
-T2  - AUSTRALIAN LAW JOURNAL
-LA  - English
-PU  - LAWBOOK CO LTD
-PI  - PYRMONT
-PA  - LEVEL 6, 19 HARRIS ST, PYRMONT, NSW 2009, AUSTRALIA
-SN  - 0004-9611
-J9  - AUST LAW J
-JI  - Aust. Law J.
-DA  - SEP
-PY  - 2024
-VL  - 98
-IS  - 9
-WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001318720900001
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  0
-ER  -
-
-TY  - JOUR
-AU  - Li, S
-AU  - Faure, M
-AU  - Havu, K
-TI  - Liability Rules for AI-Related Harm: Law and Economics Lessons for a European Approach
-T2  - EUROPEAN JOURNAL OF RISK REGULATION
-LA  - English
-KW  - AI-related harm
-KW  - artificial intelligence
-KW  - deterrence
-KW  - developers
-KW  - law and economics
-KW  - liability rules
-KW  - operators
-KW  - risk-bearing
-AB  - The potential of artificial intelligence (AI) has grown exponentially in recent years, which not only generates value but also creates risks. AI systems are characterised by their complexity, opacity and autonomy in operation. Now and in the foreseeable future, AI systems will be operating in a manner that is not fully autonomous. This signifies that providing appropriate incentives to the human parties involved is still of great importance in reducing AI-related harm. Therefore, liability rules should be adapted in such a way to provide the relevant parties with incentives to efficiently reduce the social costs of potential accidents. Relying on a law and economics approach, we address the theoretical question of what kind of liability rules should be applied to different parties along the value chain related to AI. In addition, we critically analyse the ongoing policy debates in the European Union, discussing the risk that European policymakers will fail to determine efficient liability rules with regard to different stakeholders.
-AD  - Univ Helsinki, Fac Law, Yliopistonkatu 3, Helsinki 00100, FinlandAD  - Maastricht Univ, METRO, Bouillonstr 1-3, NL-6211 LH Maastricht, NetherlandsAD  - Erasmus Univ, Rotterdam, Zuid Holland, NetherlandsC3  - University of HelsinkiC3  - Maastricht UniversityC3  - Erasmus University RotterdamC3  - Erasmus University Rotterdam - Excl Erasmus MCFU  - Academy of Finland [330884]; Academy of Finland (AKA) [330884] Funding Source: Academy of Finland (AKA)
-FX  - The authors would like to acknowledge the project funding granted by the Academy of Finland, decision number 330884 (2020).
-PU  - CAMBRIDGE UNIV PRESS
-PI  - CAMBRIDGE
-PA  - EDINBURGH BLDG, SHAFTESBURY RD, CB2 8RU CAMBRIDGE, ENGLAND
-SN  - 1867-299X
-SN  - 2190-8249
-J9  - EUR J RISK REGUL
-JI  - Eur. J. Risk Regul.
-DA  - DEC
-PY  - 2022
-VL  - 13
-IS  - 4
-SP  - 618
-EP  - 634
-C7  - PII S1867299X22000265
-DO  - 10.1017/err.2022.26
-C6  - SEP 2022
-WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:000854362600001
-N1  - Times Cited in Web of Science Core Collection:  2
-Total Times Cited:  2
-Cited Reference Count:  79
-ER  -
-
-TY  - JOUR
-AU  - Hacker, P
-AU  - Cordes, J
-AU  - Rochon, J
-TI  - Regulating Gatekeeper Artificial Intelligence and Data: Transparency, Access and Fairness under the Digital Markets Act, the General Data Protection Regulation and Beyond
-T2  - EUROPEAN JOURNAL OF RISK REGULATION
-LA  - English
-KW  - AI
-KW  - data
-KW  - DMA
-KW  - AUTOMATED DECISION-MAKING
-KW  - TRADE SECRETS
-KW  - INNOVATION EVIDENCE
-KW  - DISCRIMINATION
-AB  - Artificial intelligence (AI) is not only increasingly being used in business and administration contexts, but a race for its regulation is also underway, with the European Union (EU) spearheading the efforts. Contrary to existing literature, this article suggests that the most far-reaching and effective EU rules for AI applications in the digital economy will not be contained in the proposed AI Act, but in the Digital Markets Act (DMA). We analyse the impact of the DMA and related EU acts on AI models and underlying data across four key areas: disclosure requirements; the regulation of AI training data; access rules; and the regime for fair rankings. We demonstrate that fairness, under the DMA, goes beyond traditionally protected categories of non-discrimination law on which scholarship at the intersection of AI and law has focused on. Rather, we draw on competition law and the FRAND criteria known from intellectual property law to interpret and refine the DMA provisions on fair rankings. Moreover, we show how, based on Court of Justice of the European Union jurisprudence, a coherent interpretation of the concept of non-discrimination in both traditional non-discrimination and competition law may be found. The final section sketches out proposals for a comprehensive framework of transparency, access and fairness under the DMA and beyond.
-AD  - European Univ Viadrina, Chair Law & Eth Digital Soc, European New Sch Digital Studies, Frankfurt, GermanyC3  - European University Viadrina Frankfurt OderPU  - CAMBRIDGE UNIV PRESS
-PI  - CAMBRIDGE
-PA  - EDINBURGH BLDG, SHAFTESBURY RD, CB2 8RU CAMBRIDGE, ENGLAND
-SN  - 1867-299X
-SN  - 2190-8249
-J9  - EUR J RISK REGUL
-JI  - Eur. J. Risk Regul.
-DA  - MAR
-PY  - 2024
-VL  - 15
-IS  - 1
-SP  - 49
-EP  - 86
-DO  - 10.1017/err.2023.81
-C6  - DEC 2023
-WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001125220300001
-N1  - Times Cited in Web of Science Core Collection:  2
-Total Times Cited:  2
-Cited Reference Count:  221
-ER  -
-

@@ -1,36 +1,0 @@
-﻿TY  - CPAPER
-AU  - Núñez-Robinson, D
-AU  - Talavera-Montalto, J
-AU  - Ugarte, W
-ED  - Guarda, T
-ED  - Portela, F
-ED  - Augusto, MF
-TI  - A Comparative Analysis on the Summarization of Legal Texts Using Transformer Models
-T2  - ADVANCED RESEARCH IN TECHNOLOGIES, INFORMATION, INNOVATION AND SUSTAINABILITY, ARTIIS 2022, PT I
-LA  - English
-CP  - 2nd International Conference Advanced Research in Technologies, Information, Innovation and Sustainability ARTIIS
-KW  - Abstractive text summarization
-KW  - Benchmark
-KW  - Deep learning
-KW  - Natural language processing
-KW  - Transformers
-AB  - Transformer models have evolved natural language processing tasks in machine learning and set a new standard for the state of the art. Thanks to the self-attention component, these models have achieved significant improvements in text generation tasks (such as extractive and abstractive text summarization). However, research works involving text summarization and the legal domain are still in their infancy, and as such, benchmarks and a comparative analysis of these state of the art models is important for the future of text summarization of this highly specialized task. In order to contribute to these research works, the researchers propose a comparative analysis of different, fine-tuned Transformer models and datasets in order to provide a better understanding of the task at hand and the challenges ahead. The results show that Transformer models have improved upon the text summarization task, however, consistent and generalized learning is a challenge that still exists when training the models with large text dimensions. Finally, after analyzing the correlation between objective results and human opinion, the team concludes that the Recall-Oriented Understudy for Gisting Evaluation (ROUGE) [13] metrics used in the current state of the art are limited and do not reflect the precise quality of a generated summary.
-AD  - Univ Peruana Ciencias Aplicadas, Lima, PeruC3  - Universidad Peruana de Ciencias Aplicadas (UPC)PU  - SPRINGER INTERNATIONAL PUBLISHING AG
-PI  - CHAM
-PA  - GEWERBESTRASSE 11, CHAM, CH-6330, SWITZERLAND
-SN  - 1865-0929
-SN  - 1865-0937
-SN  - 978-3-031-20318-3
-SN  - 978-3-031-20319-0
-J9  - COMM COM INF SC
-PY  - 2022
-VL  - 1675
-SP  - 372
-EP  - 386
-DO  - 10.1007/978-3-031-20319-0_28
-WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000921196400028
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  19
-ER  -
-

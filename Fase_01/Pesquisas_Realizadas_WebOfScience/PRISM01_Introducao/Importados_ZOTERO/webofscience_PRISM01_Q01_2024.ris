@@ -1,380 +1,0 @@
-﻿TY  - JOUR
-AU  - Bozkurt, A
-TI  - GenAI et al.: Cocreation, Authorship, Ownership, Academic Ethics and Integrity in a Time of Generative AI
-T2  - OPEN PRAXIS
-LA  - English
-KW  - Generative AI
-KW  - GenAI
-KW  - artificial intelligence
-KW  - AI
-KW  - AIEd
-KW  - chatbots
-KW  - conversational agents
-KW  - education
-KW  - teaching
-KW  - learning
-KW  - higher education
-KW  - educational technology
-KW  - GPT
-KW  - generative pre-trained transformer
-KW  - ChatGPT
-KW  - large language models
-KW  - LLMs
-KW  - natural language processing
-KW  - collaboration
-KW  - cocreating
-KW  - academic writing
-KW  - transparency in research
-KW  - authorship
-KW  - ownership
-KW  - ethics
-KW  - academic integrity
-KW  - CHATGPT
-AB  - This paper investigates the complex interplay between generative artificial intelligence (AI) and human intellect in academic writing and publishing. It examines the 'organic versus synthetic' paradox, emphasizing the implications of using generative AI tools in educational and academic integrity contexts. The paper critiques the prevalent 'publish or perish' culture in academia, highlighting the need for systemic reevaluation due to generative AI's emerging role in academic writing and reporting. It delves into the legal and ethical challenges of authorship and ownership, especially in relation to copyright laws and AI -generated content. The paper discusses generative AI's diverse roles and advocates for transparent reporting to uphold academic integrity. Additionally, it calls for a broader examination of generative AI tools and stresses the need for new mechanisms to identify generative AI use and ensure adherence to academic integrity and ethics. The implications of generative AI are also explored, suggesting the need for innovative AI -inclusive strategies in academia. The paper concludes by emphasizing the significance of generative AI in various informationprocessing domains, highlighting the urgency to adapt and transform academic practices in an era of rapid generative AI -driven change.
-AD  - Tripura Univ, Agartala, Tripura, IndiaC3  - Tripura UniversityFU  - Anadolu University [SBA -2023-1852]
-FX  - This paper is funded by Anadolu University with grant number SBA -2023-1852.
-PU  - INT COUNCIL OPEN & DISTANCE EDUCATION
-PI  - OSLO
-PA  - LILLEAKERVEIEN 23, OSLO, 0283, NORWAY
-SN  - 2304-070X
-J9  - OPEN PRAX
-JI  - Open Prax.
-PY  - 2024
-VL  - 16
-IS  - 1
-SP  - 1
-EP  - 10
-DO  - 10.55982/openpraxis.16.1.654
-WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001204361200009
-N1  - Times Cited in Web of Science Core Collection:  11
-Total Times Cited:  11
-Cited Reference Count:  59
-ER  -
-
-TY  - JOUR
-AU  - Greco, CM
-AU  - Tagarelli, A
-TI  - Bringing order into the realm of Transformer-based language models for artificial intelligence and law
-T2  - ARTIFICIAL INTELLIGENCE AND LAW
-LA  - English
-KW  - Language models
-KW  - BERT
-KW  - GPT
-KW  - Legal search
-KW  - Legal document review
-KW  - Legal outcome prediction
-KW  - Retrieval
-KW  - Entailment
-KW  - Inference
-KW  - Caselaw data
-KW  - Statutory law data
-KW  - Benchmarks
-KW  - AI for law
-AB  - Transformer-based language models (TLMs) have widely been recognized to be a cutting-edge technology for the successful development of deep-learning-based solutions to problems and applications that require natural language processing and understanding. Like for other textual domains, TLMs have indeed pushed the state-of-the-art of AI approaches for many tasks of interest in the legal domain. Despite the first Transformer model being proposed about six years ago, there has been a rapid progress of this technology at an unprecedented rate, whereby BERT and related models represent a major reference, also in the legal domain. This article provides the first systematic overview of TLM-based methods for AI-driven problems and tasks in the legal sphere. A major goal is to highlight research advances in this field so as to understand, on the one hand, how the Transformers have contributed to the success of AI in supporting legal processes, and on the other hand, what are the current limitations and opportunities for further research development.
-AD  - Univ Calabria, Dept Comp Engn Modeling Elect & Syst Engn DIMES, I-87036 Arcavacata Di Rende, CS, ItalyC3  - University of CalabriaFU  - Universita della Calabria within the CRUI-CARE Agreement
-FX  - Open access funding provided by Universita della Calabria within the CRUI-CARE Agreement
-PU  - SPRINGER
-PI  - DORDRECHT
-PA  - VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
-SN  - 0924-8463
-SN  - 1572-8382
-J9  - ARTIF INTELL LAW
-JI  - Artif. Intell. Law
-DA  - DEC
-PY  - 2024
-VL  - 32
-IS  - 4
-SP  - 863
-EP  - 1010
-DO  - 10.1007/s10506-023-09374-7
-WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:001339862000004
-N1  - Times Cited in Web of Science Core Collection:  5
-Total Times Cited:  5
-Cited Reference Count:  323
-ER  -
-
-TY  - JOUR
-AU  - Choi, JH
-TI  - Measuring Clarity in Legal Text
-T2  - UNIVERSITY OF CHICAGO LAW REVIEW
-LA  - English
-KW  - STATUTORY INTERPRETATION
-KW  - CONTRACT INTERPRETATION
-KW  - CORPUS
-KW  - LAW
-KW  - TEXTUALISM
-KW  - DELEGATION
-KW  - VAGUENESS
-KW  - CONSENSUS
-AB  - Legal cases often turn on judgments of textual clarity: when the text is unclear, judges allow extrinsic evidence in contract disputes, consult legislative history in statutory interpretation, and more. Despite this, almost no empirical work considers the nature or prevalence of legal clarity. Scholars and judges who study real-world documents to inform the interpretation of legal text primarily treat unclear text as a research problem to be solved with more data rather than a fundamental feature of language.This Article makes both theoretical and empirical contributions to the legal concept of textual clarity. It first advances a theory of clarity that distinguishes between information and determinacy. A judge might find text unclear because she personally lacks sufficient information to decide which interpretation is best; alternatively, she might find it unclear because the text itself is fundamentally indeterminate. Fundamental linguistic indeterminacy explains ongoing interpretive debates and limits the potential for text-focused methods (including corpus linguistics) to decide cases.With this theoretical background, the Article then proposes a new method to algorithmically evaluate textual clarity. Applying techniques from natural language processing and artificial intelligence that measure the semantic similarity between words, we can shed valuable new light on questions of legal interpretation.This Article finds that text is frequently indeterminate in real-world legal cases. Moreover, estimates of similarity vary substantially from corpus to corpus, even for large and reputable corpora. This suggests that word use is highly corpus specific and that meaning can vary even between general-purpose corpora that theoretically capture ordinary meaning.These empirical findings have important implications for ongoing doctrinal debates, suggesting that text is less clear and objective than many textualists believe. Ultimately, the Article offers new insights both to theorists considering the role of legal text and to empiricists seeking to understand how text is used in the real world.
-AD  - Univ Southern Calif, Gould Sch Law, Los Angeles, CA 90089 USAC3  - University of Southern CaliforniaPU  - UNIV CHICAGO LAW SCH
-PI  - CHICAGO
-PA  - 1111 E 60TH ST, CHICAGO, IL 60637 USA
-SN  - 0041-9494
-J9  - U CHICAGO LAW REV
-JI  - Univ. Chic. Law Rev.
-DA  - JAN
-PY  - 2024
-VL  - 91
-IS  - 1
-SP  - 1
-EP  - 82
-WE  - Social Science Citation Index (SSCI)AN  - WOS:001140085100003
-N1  - Times Cited in Web of Science Core Collection:  5
-Total Times Cited:  5
-Cited Reference Count:  127
-ER  -
-
-TY  - CPAPER
-AU  - Louis, A
-AU  - van Dijck, G
-AU  - Spanakis, G
-ED  - Wooldridge, M
-ED  - Dy, J
-ED  - Natarajan, S
-TI  - Interpretable Long-Form Legal Question Answering with Retrieval-Augmented Large Language Models
-T2  - THIRTY-EIGHTH AAAI CONFERENCE ON ARTIFICIAL INTELLIGENCE, VOL 38 NO 20
-LA  - English
-CP  - 38th AAAI Conference on Artificial Intelligence (AAAI) / 36th Conference on Innovative Applications of Artificial Intelligence / 14th Symposium on Educational Advances in Artificial Intelligence
-AB  - Many individuals are likely to face a legal dispute at some point in their lives, but their lack of understanding of how to navigate these complex issues often renders them vulnerable. The advancement of natural language processing opens new avenues for bridging this legal literacy gap through the development of automated legal aid systems. However, existing legal question answering (LQA) approaches often suffer from a narrow scope, being either confined to specific legal domains or limited to brief, uninformative responses. In this work, we propose an end-to-end methodology designed to generate long-form answers to any statutory law questions, utilizing a "retrieve-then-read" pipeline. To support this approach, we introduce and release the Long-form Legal Question Answering (LLeQA) dataset, comprising 1,868 expert-annotated legal questions in the French language, complete with detailed answers rooted in pertinent legal provisions. Our experimental results demonstrate promising performance on automatic evaluation metrics, but a qualitative analysis uncovers areas for refinement. As one of the only comprehensive, expert-annotated long-form LQA dataset, LLeQA has the potential to not only accelerate research towards resolving a significant real-world issue, but also act as a rigorous benchmark for evaluating NLP models in specialized domains. We publicly release our code, data, and models.
-AD  - Maastricht Univ, Law & Tech Lab, Maastricht, NetherlandsC3  - Maastricht UniversityFU  - Sector Plan Digital Legal Studies of the Dutch Ministry of Education, Culture, and Science
-FX  - This research is partially supported by the Sector Plan Digital Legal Studies of the Dutch Ministry of Education, Culture, and Science. In addition, this research was made possible, in part, using the Data Science Research Infrastructure (DSRI) hosted at Maastricht University.
-PU  - ASSOC ADVANCEMENT ARTIFICIAL INTELLIGENCE
-PI  - PALO ALTO
-PA  - 2275 E BAYSHORE RD, STE 160, PALO ALTO, CA 94303 USA
-SN  - 2159-5399
-SN  - 2374-3468
-J9  - AAAI CONF ARTIF INTE
-PY  - 2024
-SP  - 22266
-EP  - 22275
-WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:001239985800044
-N1  - Times Cited in Web of Science Core Collection:  5
-Total Times Cited:  6
-Cited Reference Count:  78
-ER  -
-
-TY  - JOUR
-AU  - Latrach, A
-AU  - Malki, ML
-AU  - Morales, M
-AU  - Mehana, M
-AU  - Rabiei, M
-TI  - A critical review of physics-informed machine learning applications in subsurface energy systems
-T2  - GEOENERGY SCIENCE AND ENGINEERING
-LA  - English
-KW  - Physics-informed machine learning
-KW  - Deep learning
-KW  - Subsurface
-KW  - Energy
-KW  - Petroleum engineering
-KW  - NEURAL-NETWORKS
-KW  - UNIVERSAL APPROXIMATION
-KW  - NONLINEAR OPERATORS
-KW  - PREDICTION
-KW  - FRAMEWORK
-KW  - PERMEABILITY
-AB  - Machine learning has emerged as a powerful tool in various fields, including computer vision, natural language processing, and speech recognition. It can unravel hidden patterns within large data sets and reveal unparalleled insights, revolutionizing many industries and disciplines. However, machine and deep learning models lack interpretability and limited domain -specific knowledge, especially in applications such as physics and engineering. Alternatively, physics -informed machine learning (PIML) techniques integrate physics principles into data -driven models. By combining deep learning with domain knowledge, PIML improves the generalization of the model, abidance by the governing physical laws, and interpretability. This paper comprehensively reviews PIML applications related to subsurface energy systems, mainly within the context of the oil and gas industry. The review highlights the successful utilization of PIML for tasks such as seismic applications, reservoir and fluid flow simulation, and hydrocarbons production forecasting. Additionally, it demonstrates PIML's capabilities to revolutionize the oil and gas industry and other emerging areas of interest, such as carbon and hydrogen storage, by providing more accurate and reliable predictions for resource management and operational efficiency.
-AD  - Univ Wyoming, Energy & Petr Engn Dept, Laramie, WY USAAD  - Los Alamos Natl Lab, Environm & Earth Sci Grp, Los Alamos, NM 87545 USAAD  - Univ Texas Austin, Petr & Geosyst Engn, Austin, TX USAC3  - University of WyomingC3  - United States Department of Energy (DOE)C3  - Los Alamos National LaboratoryC3  - University of Texas SystemC3  - University of Texas AustinPU  - ELSEVIER
-PI  - AMSTERDAM
-PA  - RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
-SN  - 2949-8929
-SN  - 2949-8910
-J9  - GEOENERGY SCI ENG
-JI  - Geoenergy Sci. Eng.
-DA  - AUG
-PY  - 2024
-VL  - 239
-C7  - 212938
-DO  - 10.1016/j.geoen.2024.212938
-C6  - MAY 2024
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001247824300002
-N1  - Times Cited in Web of Science Core Collection:  4
-Total Times Cited:  4
-Cited Reference Count:  193
-ER  -
-
-TY  - JOUR
-AU  - Yang, XX
-AU  - Wang, ZF
-AU  - Wang, Q
-AU  - Wei, K
-AU  - Zhang, KQ
-AU  - Shi, JG
-TI  - Large language models for automated Q&A involving legal documents: a survey on algorithms, frameworks and applications
-T2  - INTERNATIONAL JOURNAL OF WEB INFORMATION SYSTEMS
-LA  - English
-KW  - Large language model
-KW  - Legal documents
-KW  - Natural language processing
-KW  - Automated Q&A application
-AB  - Purpose - This study aims to adopt a systematic review approach to examine the existing literature on law and LLMs.It involves analyzing and synthesizing relevant research papers, reports and scholarly articles that discuss the use of LLMs in the legal domain. The review encompasses various aspects, including an analysis of LLMs, legal natural language processing (NLP), model tuning techniques, data processing strategies and frameworks for addressing the challenges associated with legal question-and-answer (Q&A) systems. Additionally, the study explores potential applications and services that can benefit from the integration of LLMs in the field of intelligent justice. Design/methodology/approach - This paper surveys the state-of-the-art research on law LLMs and their application in the field of intelligent justice. The study aims to identify the challenges associated with developing Q&A systems based on LLMs and explores potential directions for future research and development. The ultimate goal is to contribute to the advancement of intelligent justice by effectively leveraging LLMs. Findings - To effectively apply a law LLM, systematic research on LLM, legal NLP and model adjustment technology is required. Originality/value - This study contributes to the field of intelligent justice by providing a comprehensive review of the current state of research on law LLMs.
-AD  - Shanghai Polytech Univ, Shanghai, Peoples R ChinaAD  - Shanghai Shang Da Hai Run Informat Syst Co Ltd, Shanghai, Peoples R ChinaC3  - Shanghai Polytechnic UniversityPU  - EMERALD GROUP PUBLISHING LTD
-PI  - Leeds
-PA  - Floor 5, Northspring 21-23 Wellington Street, Leeds, W YORKSHIRE, ENGLAND
-SN  - 1744-0084
-SN  - 1744-0092
-J9  - INT J WEB INF SYST
-JI  - Int. J. Web Inf. Syst.
-DA  - JUL 19
-PY  - 2024
-VL  - 20
-IS  - 4
-SP  - 413
-EP  - 435
-DO  - 10.1108/IJWIS-12-2023-0256
-C6  - APR 2024
-WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001193080600001
-N1  - Times Cited in Web of Science Core Collection:  4
-Total Times Cited:  4
-Cited Reference Count:  78
-ER  -
-
-TY  - JOUR
-AU  - Martínez, E
-TI  - Re-evaluating GPT-4's bar exam performance
-T2  - ARTIFICIAL INTELLIGENCE AND LAW
-LA  - English
-KW  - NLP
-KW  - Legal NLP
-KW  - Legal analytics
-KW  - Natural language processing
-KW  - Machine learning
-KW  - Artificial intelligence
-KW  - Artificial intelligence and law
-KW  - Law and technology
-KW  - Legal profession
-KW  - LAW
-AB  - Perhaps the most widely touted of GPT-4's at-launch, zero-shot capabilities has been its reported 90th-percentile performance on the Uniform Bar Exam. This paper begins by investigating the methodological challenges in documenting and verifying the 90th-percentile claim, presenting four sets of findings that indicate that OpenAI's estimates of GPT-4's UBE percentile are overinflated. First, although GPT-4's UBE score nears the 90th percentile when examining approximate conversions from February administrations of the Illinois Bar Exam, these estimates are heavily skewed towards repeat test-takers who failed the July administration and score significantly lower than the general test-taking population. Second, data from a recent July administration of the same exam suggests GPT-4's overall UBE percentile was below the 69th percentile, and similar to \documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\sim$$\end{document} 48th percentile on essays. Third, examining official NCBE data and using several conservative statistical assumptions, GPT-4's performance against first-time test takers is estimated to be similar to \documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\sim$$\end{document} 62nd percentile, including similar to \documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\sim$$\end{document} 42nd percentile on essays. Fourth, when examining only those who passed the exam (i.e. licensed or license-pending attorneys), GPT-4's performance is estimated to drop to similar to \documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\sim$$\end{document} 48th percentile overall, and similar to \documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\sim$$\end{document} 15th percentile on essays. In addition to investigating the validity of the percentile claim, the paper also investigates the validity of GPT-4's reported scaled UBE score of 298. The paper successfully replicates the MBE score, but highlights several methodological issues in the grading of the MPT + MEE components of the exam, which call into question the validity of the reported essay score. Finally, the paper investigates the effect of different hyperparameter combinations on GPT-4's MBE performance, finding no significant effect of adjusting temperature settings, and a significant effect of few-shot chain-of-thought prompting over basic zero-shot prompting. Taken together, these findings carry timely insights for the desirability and feasibility of outsourcing legally relevant tasks to AI models, as well as for the importance for AI developers to implement rigorous and transparent capabilities evaluations to help secure safe and trustworthy AI.
-AD  - MIT, Dept Brain & Cognit Sci, Cambridge, MA 02138 USAC3  - Massachusetts Institute of Technology (MIT)FU  - Massachusetts Institute of Technology (MIT)
-FX  - Acknowledgements omitted for anonymous review.
-PU  - SPRINGER
-PI  - DORDRECHT
-PA  - VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
-SN  - 0924-8463
-SN  - 1572-8382
-J9  - ARTIF INTELL LAW
-JI  - Artif. Intell. Law
-DA  - 2024 MAR 30
-PY  - 2024
-DO  - 10.1007/s10506-024-09396-9
-C6  - MAR 2024
-WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:001194581100001
-N1  - Times Cited in Web of Science Core Collection:  4
-Total Times Cited:  5
-Cited Reference Count:  77
-ER  -
-
-TY  - JOUR
-AU  - Krasadakis, P
-AU  - Sakkopoulos, E
-AU  - Verykios, VS
-TI  - A Survey on Challenges and Advances in Natural Language Processing with a Focus on Legal Informatics and Low-Resource Languages
-T2  - ELECTRONICS
-LA  - English
-KW  - natural language processing
-KW  - deep learning
-KW  - information extraction
-KW  - large language models
-KW  - generative AI
-KW  - NAMED ENTITY RECOGNITION
-KW  - COREFERENCE RESOLUTION
-AB  - The field of Natural Language Processing (NLP) has experienced significant growth in recent years, largely due to advancements in Deep Learning technology and especially Large Language Models. These improvements have allowed for the development of new models and architectures that have been successfully applied in various real-world applications. Despite this progress, the field of Legal Informatics has been slow to adopt these techniques. In this study, we conducted an extensive literature review of NLP research focused on legislative documents. We present the current state-of-the-art NLP tasks related to Law Consolidation, highlighting the challenges that arise in low-resource languages. Our goal is to outline the difficulties faced by this field and the methods that have been developed to overcome them. Finally, we provide examples of NLP implementations in the legal domain and discuss potential future directions.
-AD  - Univ Piraeus, Dept Informat, Piraeus 18534, GreeceAD  - Hellen Open Univ, Sch Sci & Technol, Patras 26335, GreeceC3  - University of PiraeusC3  - Hellenic Open UniversityFU  - University of Piraeus Research Center
-FX  - No Statement Available
-PU  - MDPI
-PI  - BASEL
-PA  - ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
-SN  - 2079-9292
-J9  - ELECTRONICS-SWITZ
-JI  - Electronics
-DA  - FEB
-PY  - 2024
-VL  - 13
-IS  - 3
-C7  - 648
-DO  - 10.3390/electronics13030648
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001160494900001
-N1  - Times Cited in Web of Science Core Collection:  4
-Total Times Cited:  4
-Cited Reference Count:  113
-ER  -
-
-TY  - JOUR
-AU  - Delcea, C
-AU  - Oprea, SV
-AU  - Dima, AM
-AU  - Domenteanu, A
-AU  - Bâra, A
-AU  - Cotfas, LA
-TI  - Energy communities: Insights from scientific publications
-T2  - OECONOMIA COPERNICANA
-LA  - English
-KW  - energy communities
-KW  - bibliometrics
-KW  - generative models
-KW  - text analytics
-KW  - energy sustainabil- ity
-KW  - energy resilience
-KW  - MARKETS
-AB  - Research background: Over the last ten years, a substantial amount of scholarly research has delved into energy communities (ECs) from diverse viewpoints. These ECs are extremely important in setting the pathway to a clean energy transition. Purpose of the article: Our objective is to glean valuable insights from publications indexed in the Web of Science (WoS) database to deepen our comprehension of ECs and their academic discourse. Methods: Data analytics, factorial analysis, and more complex natural language processing (NLP) techniques such as latent Dirichlet et al location (LDA) are implemented to extract valuable insights from over 1000 WoS publications relevant in the EC field. The primary contribution of this study lies in furnishing details regarding the key contributors to the EC scholarly landscape, including authors, their affiliations, universities, and countries of origin. Additionally, we aim to elucidate the prevalent keywords and thematic approaches employed in their research endeavors. Findings & value added: Considering the extracted dataset, an annual growth rate of 21.15% has been recorded, highlighting the research community's interest in the field of ECs. Furthermore, three topics are optimally obtained. Overall, a coherence score of 0.44 suggests that the LDA model performs adequately in terms of topic interpretation. Topic 1 relates to community-based energy initiatives. Topic 2, featuring terms like "grid," "study" and "EU" alongside "energy" and "community," suggests a focus on energy systems. Topic 3 includes terms such as "generation," "analysis" and "consumption," indicating a topic that is centered around the technical or analytical aspects of energy production and usage. This study underscores how the alignment between state laws and EU directives in supporting ECs can serve as a model for other regions. The findings suggest that similar policy frameworks could be effectively adapted to different national contexts, providing valuable insights for countries looking to enhance their renewable energy strategies.
-AD  - Bucharest Univ Econ Studies, Bucharest, RomaniaC3  - Bucharest University of Economic StudiesFU  - Ministry of Research, Innovation and Digitization; CNCS/CCCDI-UEFISCDI [DUT-OPEN4CEC-1]
-FX  - This work was supported by a grant of the Ministry of Research, Innovation and Digitization, CNCS/CCCDI-UEFISCDI, project number COFUND-DUT-OPEN4CEC-1, within PNCDI IV.
-PU  - INST BADAN GOSPODARCZYCH
-PI  - OLSZTYN
-PA  - UL KS ROBERTA BILITEWSKIEGO NR 5, LOK 19, OLSZTYN, 10-693, POLAND
-SN  - 2083-1277
-SN  - 2353-1827
-J9  - OECON COPERNIC
-JI  - Oecon. Copernic.
-DA  - SEP
-PY  - 2024
-VL  - 15
-IS  - 3
-SP  - 1101
-EP  - 1155
-DO  - 10.24136/oc.3137
-WE  - Social Science Citation Index (SSCI)AN  - WOS:001334882100009
-N1  - Times Cited in Web of Science Core Collection:  3
-Total Times Cited:  3
-Cited Reference Count:  68
-ER  -
-
-TY  - JOUR
-AU  - Kretschmer, M
-AU  - Margoni, T
-AU  - Oruç, P
-TI  - Copyright Law and the Lifecycle of Machine Learning Models
-T2  - IIC-INTERNATIONAL REVIEW OF INTELLECTUAL PROPERTY AND COMPETITION LAW
-LA  - English
-KW  - Copyright
-KW  - Artificial intelligence
-KW  - Text mining
-KW  - Data mining
-KW  - EU
-KW  - Digital single market
-KW  - TEXT
-AB  - Machine learning, a subfield of artificial intelligence (AI), relies on large corpora of data as input for learning algorithms, resulting in trained models that can perform a variety of tasks. While data or information are not subject matter within copyright law, almost all materials used to construct corpora for machine learning are protected by copyright law: texts, images, videos, and so on. There are global policy moves to address the copyright implications of machine learning, in particular in the context of so-called "foundation models" that underpin generative AI. This paper takes a step back, exploring empirically three technological settings through detailed case studies. We set out the established industry methodology of a lifecycle of AI (collecting data, organising data, model training, model operation) to arrive at descriptions suitable for legal analysis. This will allow an assessment of the challenges for a harmonisation of rights, exceptions and disclosure under EU copyright law. The three case studies are:Machine learning for scientific purposes, in the context of a study of regional short-term letting markets;Natural Language Processing (NLP), in the context of large language models;Computer vision, in the context of content moderation of images.We find that the nature and quality of data corpora at the input stage is central to the lifecycle of machine learning. Because of the uncertain legal status of data collection and processing, combined with the competitive advantage gained by firms not disclosing technological advances, the inputs of the models deployed are often unknown. Moreover, the "lawful access" requirement of the EU exception for text and data mining may turn the exception into a decision by rightholders to allow machine learning in the context of their decision to allow access. We assess policy interventions at EU level, seeking to clarify the legal status of input data via copyright exceptions, opt-outs or the forced disclosure of copyright materials. We find that the likely result is a fully copyright-licensed environment of machine learning that may have problematic effects for the structure of industry, innovation and scientific research.
-AD  - Univ Glasgow, Sch Law, Intellectual Property Law, Glasgow, ScotlandAD  - CREATe UK Copyright & Creat Econ Ctr, Glasgow, ScotlandAD  - Univ Leuven KU Leuven, Ctr IT & IP Law CiTiP, Intellectual Property Law, Fac Law & Criminol, Leuven, BelgiumAD  - Univ Manchester, Commercial Law, Manchester, EnglandC3  - University of GlasgowC3  - KU LeuvenC3  - University of ManchesterFU  - European Union [870626870626]; Urban Big Data Centre [ES/L011921/1]; CREATe, University of Glasgow
-FX  - The research was funded by the European Union's Horizon 2020 research and innovation programme under grant agreement No. 870626870626 (reCreating Europe: Rethinking digital copyright law for aculturally diverse, accessible, creative Europe). Case study 1 was developed with ESRC support for the Urban Big Data Centre (ES/L011921/1). Pinar Oruc prepared a first draft of the case studies as a postdoctoral researcher at CREATe, University of Glasgow.
-PU  - SPRINGER HEIDELBERG
-PI  - HEIDELBERG
-PA  - TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
-SN  - 0018-9855
-SN  - 2195-0237
-J9  - IIC-INT REV INTELL P
-JI  - Int. Rev. Intellect. Prop. Compet. Law
-DA  - JAN
-PY  - 2024
-VL  - 55
-IS  - 1
-SP  - 110
-EP  - 138
-DO  - 10.1007/s40319-023-01419-3
-C6  - FEB 2024
-WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001155789200001
-N1  - Times Cited in Web of Science Core Collection:  3
-Total Times Cited:  3
-Cited Reference Count:  77
-ER  -
-

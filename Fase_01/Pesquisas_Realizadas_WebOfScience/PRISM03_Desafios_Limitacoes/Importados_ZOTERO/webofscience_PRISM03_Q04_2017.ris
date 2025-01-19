@@ -1,91 +1,0 @@
-﻿TY  - JOUR
-AU  - Goodman, B
-AU  - Flaxman, S
-TI  - European Union Regulations on Algorithmic Decision Making and a "Right to Explanation"
-T2  - AI MAGAZINE
-LA  - English
-KW  - DISCRIMINATION
-AB  - We summarize the potential impact that the European Union's new General Data Protection Regulation will have on the routine use of machine-learning algorithms. Slated to take effect as law across the European Union in 2018, it will place restrictions on automated individual decision making (that is, algorithms that make decisions based on user-level predictors) that "significantly affect" users. When put into practice, the law may also effectively create a right to explanation, whereby a user can ask for an explanation of an algorithmic decision that significantly affects them. We argue that while this law may pose large challenges for industry, it highlights opportunities for computer scientists to take the lead in designing algorithms and evaluation frameworks that avoid discrimination and enable explanation.
-AD  - Oxford Internet Inst, Oxford, EnglandAD  - Univ Oxford, Dept Stat, Oxford, EnglandC3  - University of OxfordC3  - University of OxfordFU  - ERC [FP7/617071]; EPSRC [EP/K009362/1]
-FX  - Seth Flaxman was supported by the ERC (FP7/617071) and EPSRC (EP/K009362/1).
-PU  - AMER ASSOC ARTIFICIAL INTELL
-PI  - MENLO PK
-PA  - 445 BURGESS DRIVE, MENLO PK, CA 94025-3496 USA
-SN  - 0738-4602
-J9  - AI MAG
-JI  - AI Mag.
-DA  - FAL
-PY  - 2017
-VL  - 38
-IS  - 3
-SP  - 50
-EP  - 57
-DO  - 10.1609/aimag.v38i3.2741
-WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:000412266800004
-N1  - Times Cited in Web of Science Core Collection:  944
-Total Times Cited:  1024
-Cited Reference Count:  35
-ER  -
-
-TY  - JOUR
-AU  - Ezrachi, A
-AU  - Stucke, ME
-TI  - ARTIFICIAL INTELLIGENCE & COLLUSION: WHEN COMPUTERS INHIBIT COMPETITION
-T2  - UNIVERSITY OF ILLINOIS LAW REVIEW
-LA  - English
-AB  - The development of self-learning and independent computers has long captured our imagination. The HAL 9000 computer, in the 1968 film, 2001: A Space Odyssey, for example, assured, "I am putting myself to the fullest possible use, which is all I think that any conscious entity can ever hope to do." Machine learning raises many challenging legal and ethical questions as to the relationship between man and machine, humans' control or lack of it over machines, and accountability for machine activities.
-   While these issues have long captivated our interest, few would envision the day when these developments (and the legal and ethical challenges raised by them) would become an antitrust issue. Sophisticated computers are central to the competitiveness of present and future markets. With the accelerating development of AI, they are set to change the competitive landscape and the nature of competitive restraints. As pricing mechanisms shift to computer pricing algorithms, so too will the types of collusion. We are shifting from the world where executives expressly collude in smoke-filled hotel rooms to a world where pricing algorithms continually monitor and adjust to each other's prices and market data.
-   Our paper addresses these developments and considers the application of competition law to an advanced "computerised trade environment." After discussing the way in which computerised technology is changing the competitive landscape, we explore four scenarios where AI can foster anticompetitive collusion and the legal and ethical challenges each scenario raises.
-AD  - Univ Oxford, Competit Law, Oxford, EnglandAD  - Univ Oxford, Ctr Competit Law & Policy, Oxford, EnglandAD  - Univ Tennessee, Coll Law, Knoxville, TN 37996 USAAD  - Data Competit Inst, Washington, DC USAC3  - University of OxfordC3  - University of OxfordC3  - University of Tennessee SystemC3  - University of Tennessee KnoxvillePU  - UNIV ILLINOIS
-PI  - CHAMPAIGN
-PA  - COLLEGE OF LAW-76 LAW BLDG 504 E PENNSYLVANIA AVE, CHAMPAIGN, IL 61820 USA
-SN  - 0276-9948
-SN  - 1942-9231
-J9  - U ILLINOIS LAW REV
-JI  - Univ. Ill. Law Rev.
-PY  - 2017
-IS  - 5
-SP  - 1775
-EP  - 1810
-WE  - Social Science Citation Index (SSCI)AN  - WOS:000415132900003
-N1  - Times Cited in Web of Science Core Collection:  70
-Total Times Cited:  75
-Cited Reference Count:  54
-ER  -
-
-TY  - CPAPER
-AU  - Aimone, JB
-AU  - Parekh, O
-AU  - Severa, W
-A1  - ACM
-TI  - Neural Computing for Scientific Computing Applications More than Just Machine Learning
-T2  - PROCEEDINGS OF NEUROMORPHIC COMPUTING SYMPOSIUM (NCS 2017)
-LA  - English
-CP  - Neuromorphic Computing Symposium
-KW  - Neuromorphic Computing
-KW  - Scientific Computing
-KW  - High Performance Computing
-KW  - Brain
-KW  - GENERAL-PURPOSE COMPUTATION
-KW  - NETWORKS
-KW  - CIRCUITS
-KW  - ARCHITECTURES
-KW  - HIPPOCAMPUS
-KW  - SYSTEMS
-KW  - MEMORY
-KW  - POWER
-AB  - Neural computing has been identified as a computing alternative in the post-Moore's Law era, however much of its attention has been directed at specialized applications such as machine learning. For scientific computing applications, particularly those that often depend on supercomputing, it is not clear that neural machine learning is the exclusive contribution to be made by neuromorphic platforms. In our presentation, we will discuss ways that looking to the brain as a whole and neurons specifically can provide new sources for inspiration for computing beyond current machine learning applications. Particularly for scientific computing, where approximate methods for computation introduce additional challenges, the development of non-approximate methods for neural computation is potentially quite valuable. In addition, the brain's dramatic ability to utilize context at many different scales and incorporate information from many different modalities is a capability currently poorly realized by neural machine learning approaches yet offers considerable potential impact on scientific applications.
-AD  - Sandia Natl Labs, Ctr Comp Res, POB 5800, Albuquerque, NM 87185 USAC3  - United States Department of Energy (DOE)C3  - Sandia National LaboratoriesFU  - DOE Advanced Simulation and Computing program; U.S. Department of Energy's National Nuclear Security Administration [DE-NA0003525]; Laboratory-Directed Research and Development Program at Sandia National Laboratories
-FX  - This work was funded by the DOE Advanced Simulation and Computing program and Laboratory-Directed Research and Development Program at Sandia National Laboratories. Sandia National Laboratories is a multiprogram laboratory managed and operated by National Technology and Engineering Solutions of Sandia, LLC, for the U.S. Department of Energy's National Nuclear Security Administration under contract DE-NA0003525.
-PU  - ASSOC COMPUTING MACHINERY
-PI  - NEW YORK
-PA  - 1601 Broadway, 10th Floor, NEW YORK, NY, UNITED STATES
-SN  - 978-1-4503-6442-3
-PY  - 2017
-DO  - 10.1145/3183584.3183618
-WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000788641400007
-N1  - Times Cited in Web of Science Core Collection:  2
-Total Times Cited:  2
-Cited Reference Count:  42
-ER  -
-

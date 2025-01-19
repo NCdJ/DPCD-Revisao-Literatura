@@ -1,185 +1,0 @@
-﻿TY  - JOUR
-AU  - Lan, YS
-AU  - Wang, SH
-AU  - Jiang, J
-TI  - Knowledge Base Question Answering With a Matching-Aggregation Model and Question-Specific Contextual Relations
-T2  - IEEE-ACM TRANSACTIONS ON AUDIO SPEECH AND LANGUAGE PROCESSING
-LA  - English
-KW  - Artificial intelligence
-KW  - natural language processing
-KW  - knowledge base question answering
-AB  - Making use of knowledge bases to answer questions (KBQA) is a key direction in question answering systems. Researchers have developed a diverse range of methods to address this problem, but there are still some limitations with the existing methods. Specifically, the existing neural network-based methods for KBQA have not taken advantage of the recent "matching-aggregation" framework for the sequence matching, and when representing a candidate answer entity, they may not choose the most useful context of the candidate for matching. In this paper, we explore the use of a "matching-aggregation" framework to match candidate answers with questions. We further make use of question-specific contextual relations to enhance the representations of candidate answer entities. Our complete method is able to achieve state-of-the-art performance on two benchmark datasets: WebQuestions and SimpleQuestions.
-AD  - Singapore Management Univ, Sch Informat Syst, Singapore 178902, SingaporeC3  - Singapore Management UniversityFU  - National Research Foundation, Prime Minister's Office, Singapore, under its International Research Centres in Singapore Funding Initiative
-FX  - This work was supported by the National Research Foundation, Prime Minister's Office, Singapore, under its International Research Centres in Singapore Funding Initiative. The associate editor coordinating the review of this manuscript and approving it for publication was Dr. Eric Fosler-Lussier.
-PU  - IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
-PI  - PISCATAWAY
-PA  - 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
-SN  - 2329-9290
-SN  - 2329-9304
-J9  - IEEE-ACM T AUDIO SPE
-JI  - IEEE-ACM Trans. Audio Speech Lang.
-DA  - OCT
-PY  - 2019
-VL  - 27
-IS  - 10
-SP  - 1629
-EP  - 1638
-DO  - 10.1109/TASLP.2019.2926125
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000477727900002
-N1  - Times Cited in Web of Science Core Collection:  32
-Total Times Cited:  35
-Cited Reference Count:  51
-ER  -
-
-TY  - CPAPER
-AU  - Kano, Y
-AU  - Kim, MY
-AU  - Yoshioka, M
-AU  - Lu, Y
-AU  - Rabelo, J
-AU  - Kiyota, N
-AU  - Goebel, R
-AU  - Satoh, K
-ED  - Kojima, K
-ED  - Sakamoto, M
-ED  - Mineshima, K
-ED  - Satoh, K
-TI  - COLIEE-2018: Evaluation of the Competition on Legal Information Extraction and Entailment
-T2  - NEW FRONTIERS IN ARTIFICIAL INTELLIGENCE (JSAI-ISAI 2018)
-LA  - English
-CP  - Japanese-Society-of-Artificial-Intelligence 10th International Symposium on Artificial Intelligence (JSAI-isAI)
-KW  - COLIEE
-KW  - Legal information retrieval
-KW  - Legal textual entailment
-KW  - Legal question answering
-KW  - AI and law
-KW  - Juris-informatics
-AB  - We summarize the evaluation of the 5th Competition on Legal Information Extraction/Entailment 2018 (COLIEE-2018). The COLIEE-2018 tasks include two tasks in each of statute law and case law. The case law component includes an information retrieval (Task 1), and the confirmation of an entailment relation between an existing case and an unseen case (Task 2). The statute law component includes information retrieval (Task 3) and entailment/question answering (Task 4). Participation was open to any group based on any approach. 13 teams participated in the case law competition, and we received results from 7 teams where 6 submissions to Task 1 (12 runs), and 4 submissions to Task 2 (8 runs). Regarding the statute law, there were submissions of 17 runs from 8 teams (including 2 organizers' runs) for Task 3 and 7 runs from 3 teams for Task 4. We describe each team's approaches, our official evaluation, and analysis on our data and submission results. We also discuss possibilities for future competition tasks.
-AD  - Univ Alberta, Augustana Fac, Dept Sci, Camrose, AB, CanadaAD  - Univ Alberta, Alberta Machine Intelligence Inst, Edmonton, AB, CanadaAD  - Univ Alberta, Dept Comp Sci, Edmonton, AB, CanadaAD  - Hokkaido Univ, Grad Sch Informat Sci & Technol, Kita Ku, N14 W9, Sapporo, Hokkaido, JapanAD  - Hokkaido Univ, Global Inst Collaborat Res & Educ, Global Stn Big Date & Cybersecur, Kita Ku, Sapporo, Hokkaido, JapanAD  - Shizuoka Univ, Fac Informat, Naka Ku, 3-5-1 Johoku, Hamamatsu, Shizuoka, JapanAD  - Natl Inst Informat, Chiyoda Ku, 2-1-2 Hitotsubashi, Tokyo, JapanC3  - University of AlbertaC3  - University of AlbertaC3  - University of AlbertaC3  - Hokkaido UniversityC3  - Hokkaido UniversityC3  - Shizuoka UniversityC3  - Research Organization of Information & Systems (ROIS)C3  - National Institute of Informatics (NII) - JapanFU  - Alberta Machine Intelligence Institute (AMII), National Institute of Informatics, Shizuoka University; Hokkaido University; Ross Intelligence; Intellicon; JSPS KAKENHI [16H01756, 18H0333808, 17H06103]; JST CREST; Grants-in-Aid for Scientific Research [16H01756, 17H06103] Funding Source: KAKEN
-FX  - This research was supported by Alberta Machine Intelligence Institute (AMII), National Institute of Informatics, Shizuoka University and Hokkaido University. Thanks to Colin Lachance from vLex for his constant support in the development of the case law data set, and to support from Ross Intelligence and Intellicon. This work was partially supported by JSPS KAKENHI Grant Number 16H01756, 18H0333808, 17H06103, and JST CREST.
-PU  - SPRINGER INTERNATIONAL PUBLISHING AG
-PI  - CHAM
-PA  - GEWERBESTRASSE 11, CHAM, CH-6330, SWITZERLAND
-SN  - 0302-9743
-SN  - 1611-3349
-SN  - 978-3-030-31605-1
-SN  - 978-3-030-31604-4
-J9  - LECT NOTES ARTIF INT
-PY  - 2019
-VL  - 11717
-SP  - 177
-EP  - 192
-DO  - 10.1007/978-3-030-31605-1_14
-WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000772142300014
-N1  - Times Cited in Web of Science Core Collection:  15
-Total Times Cited:  15
-Cited Reference Count:  15
-ER  -
-
-TY  - JOUR
-AU  - Honda, H
-AU  - Hagiwara, M
-TI  - Question Answering Systems With Deep Learning-Based Symbolic Processing
-T2  - IEEE ACCESS
-LA  - English
-KW  - Deep learning
-KW  - Knowledge discovery
-KW  - Knowledge based systems
-KW  - Neural networks
-KW  - Reflective binary codes
-KW  - Training data
-KW  - Deep learning
-KW  - knowledge base
-KW  - prolog
-KW  - question answering system
-KW  - neural machine translation
-KW  - symbolic processing
-KW  - Word2Vec
-AB  - The authors propose methods to learn symbolic processing with deep learning and to build question answering systems by means of learned models. Symbolic processing, performed by the Prolog processing systems which execute unification, resolution, and list operations, is learned by a combination of deep learning models, Neural Machine Translation (NMT) and Word2Vec training. To our knowledge, the implementation of a Prolog-like processing system using deep learning is a new experiment that has not been conducted in the past. The results of their experiments revealed that the proposed methods are superior to the conventional methods because symbolic processing (1) has rich representations, (2) can interpret inputs even if they include unknown symbols, and (3) can be learned with a small amount of training data. In particular (2), handling of unknown data, which is a major task in artificial intelligence research, is solved using Word2Vec. Furthermore, question answering systems can be built from knowledge bases written in Prolog with learned symbolic processing, which, with conventional methods, is extremely difficult to accomplish. Their proposed systems can not only answer questions through powerful inferences by utilizing facts that harbor unknown data but also have the potential to build knowledge bases from a large amount of data, including unknown data, on the Web. The proposed systems are a completely new trial, there is no state-of-the-art methods in the sense of newest. Therefore, to evaluate their efficiency, they are compared with the most traditional and robust system i.e., the Prolog system. This is new research that encompasses the subjects of conventional artificial intelligence and neural network, and their systems have higher potential to build applications such as FAQ chatbots, decision support systems and energy-efficient estimation using a large amount of information on the Web. Mining hidden information through these applications will provide great value.
-AD  - Keio Univ, Fac Sci & Technol, Yokohama, Kanagawa 2238522, JapanC3  - Keio UniversityFU  - Keio University Kenkyu-no-Susume Scholarship; KLL Ph.D. Program Research Grant
-FX  - This work was supported in part by the Keio University Kenkyu-no-Susume Scholarship, and in part by the KLL Ph.D. Program Research Grant.
-PU  - IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
-PI  - PISCATAWAY
-PA  - 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
-SN  - 2169-3536
-J9  - IEEE ACCESS
-JI  - IEEE Access
-PY  - 2019
-VL  - 7
-SP  - 152368
-EP  - 152378
-DO  - 10.1109/ACCESS.2019.2948081
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000497163000160
-N1  - Times Cited in Web of Science Core Collection:  8
-Total Times Cited:  8
-Cited Reference Count:  56
-ER  -
-
-TY  - JOUR
-AU  - Su, L
-AU  - He, T
-AU  - Fan, ZY
-AU  - Zhang, Y
-AU  - Guizani, M
-TI  - Answer Acquisition for Knowledge Base Question Answering Systems Based on Dynamic Memory Network
-T2  - IEEE ACCESS
-LA  - English
-KW  - Semantics
-KW  - Cognition
-KW  - Knowledge based systems
-KW  - Knowledge discovery
-KW  - Internet of Things
-KW  - Man-machine systems
-KW  - Task analysis
-KW  - Internet of things
-KW  - human-machine interaction
-KW  - knowledge base question answering systems
-KW  - dynamic memory network
-KW  - LARGE-SCALE
-AB  - In recent years, with the rapid growth of Artificial Intelligence (AI) and the Internet of Things (IoT), the question answering systems for human-machine interaction based on deep learning have become a research hotspot of the IoT. Different from the structured query method in traditional Knowledge Base Question Answering (KBQA) systems based on templates or rules, representation learning is one of the most promising approaches to solving the problems of data sparsity and semantic gaps. In this paper, an answer acquisition method for KBQA systems based on a dynamic memory network is proposed, in which representation learning is employed to represent the natural language questions that are raised by users and the knowledge base subgraphs of the related entities. These representations are taken as inputs of the dynamic memory network. The correct answers are obtained by utilizing the memory and inferential capabilities. The experimental results demonstrate the effectiveness of the proposed approach.
-AD  - Kunming Univ Sci & Technol, Sch Informat & Automat, Kunming 650500, Yunnan, Peoples R ChinaAD  - Zhongnan Univ Econ & Law, Sch Informat & Safety Engn, Wuhan 430073, Hubei, Peoples R ChinaAD  - Qatar Univ, Dept Comp Sci & Engn, Doha, QatarC3  - Kunming University of Science & TechnologyC3  - Zhongnan University of Economics & LawC3  - Qatar UniversityFU  - National Science Foundation of China [61365010]
-FX  - This work was supported by the National Science Foundation of China under Grant 61365010.
-PU  - IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
-PI  - PISCATAWAY
-PA  - 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
-SN  - 2169-3536
-J9  - IEEE ACCESS
-JI  - IEEE Access
-PY  - 2019
-VL  - 7
-SP  - 161329
-EP  - 161339
-DO  - 10.1109/ACCESS.2019.2949993
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000497169800034
-N1  - Times Cited in Web of Science Core Collection:  5
-Total Times Cited:  5
-Cited Reference Count:  41
-ER  -
-
-TY  - CPAPER
-AU  - Ye, QF
-AU  - Misra, K
-AU  - Devarapalli, H
-AU  - Rayz, JT
-A1  - IEEE
-TI  - A SENTIMENT BASED NON-FACTOID QUESTION-ANSWERING FRAMEWORK
-T2  - 2019 IEEE INTERNATIONAL CONFERENCE ON SYSTEMS, MAN AND CYBERNETICS (SMC)
-LA  - English
-CP  - IEEE International Conference on Systems, Man and Cybernetics (SMC)
-AB  - With the rapid advances in Artificial Intelligence, a question of emotional intelligence of a system may become as important as its accuracy. This paper investigates whether emotions should be considered for non-factoid "how" Question-Answering systems with the eventual goal of enabling the system to retrieve answers in a more emotionally intelligent way. This study proposes an architecture that adds extended representation of sentiment information to questions and answers, and reports on to what extent a prediction of the best answer be improved by the proposed architecture.
-AD  - Purdue Univ, W Lafayette, IN 47906 USAC3  - Purdue University SystemC3  - Purdue UniversityPU  - IEEE
-PI  - NEW YORK
-PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
-SN  - 1062-922X
-SN  - 978-1-7281-4569-3
-J9  - IEEE SYS MAN CYBERN
-PY  - 2019
-SP  - 372
-EP  - 377
-DO  - 10.1109/smc.2019.8913898
-WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000521353900061
-N1  - Times Cited in Web of Science Core Collection:  4
-Total Times Cited:  6
-Cited Reference Count:  14
-ER  -
-

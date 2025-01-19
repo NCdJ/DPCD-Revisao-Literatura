@@ -1,394 +1,0 @@
-﻿TY  - JOUR
-AU  - Raiaan, MAK
-AU  - Mukta, MSH
-AU  - Fatema, K
-AU  - Fahad, NM
-AU  - Sakib, S
-AU  - Mim, MMJ
-AU  - Ahmad, J
-AU  - Ali, ME
-AU  - Azam, S
-TI  - A Review on Large Language Models: Architectures, Applications, Taxonomies, Open Issues and Challenges
-T2  - IEEE ACCESS
-LA  - English
-KW  - Cognition
-KW  - Artificial intelligence
-KW  - Transformers
-KW  - Training
-KW  - Taxonomy
-KW  - Task analysis
-KW  - Surveys
-KW  - Natural language processing
-KW  - Question answering (information retrieval)
-KW  - Information analysis
-KW  - Linguistics
-KW  - Large language models (LLM)
-KW  - natural language processing (NLP)
-KW  - artificial intelligence
-KW  - transformer
-KW  - pre-trained models
-KW  - taxonomy
-KW  - application
-KW  - GPT-4
-KW  - BIAS
-AB  - Large Language Models (LLMs) recently demonstrated extraordinary capability in various natural language processing (NLP) tasks including language translation, text generation, question answering, etc. Moreover, LLMs are new and essential part of computerized language processing, having the ability to understand complex verbal patterns and generate coherent and appropriate replies in a given context. Though this success of LLMs has prompted a substantial increase in research contributions, rapid growth has made it difficult to understand the overall impact of these improvements. Since a plethora of research on LLMs have been appeared within a short time, it is quite impossible to track all of these and get an overview of the current state of research in this area. Consequently, the research community would benefit from a short but thorough review of the recent changes in this area. This article thoroughly overviews LLMs, including their history, architectures, transformers, resources, training methods, applications, impacts, challenges, etc. This paper begins by discussing the fundamental concepts of LLMs with its traditional pipeline of the LLMs training phase. Then the paper provides an overview of the existing works, the history of LLMs, their evolution over time, the architecture of transformers in LLMs, the different resources of LLMs, and the different training methods that have been used to train them. The paper also demonstrates the datasets utilized in the studies. After that, the paper discusses the wide range of applications of LLMs, including biomedical and healthcare, education, social, business, and agriculture. The study also illustrates how LLMs create an impact on society and shape the future of AI and how they can be used to solve real-world problems. Finally, the paper also explores open issues and challenges to deploy LLMs in real-world scenario. Our review paper aims to help practitioners, researchers, and experts thoroughly understand the evolution of LLMs, pre-trained architectures, applications, challenges, and future goals.
-AD  - United Int Univ, Dept Comp Sci & Engn, Dhaka 1212, BangladeshAD  - Lappeenranta Lahti Univ Technol, LUT Sch Engn Sci, Lappeenranta 53850, FinlandAD  - Charles Darwin Univ, Fac Sci & Technol, Casuarina, NT 0909, AustraliaAD  - Bangladesh Univ Engn & Technol BUET, Dept CSE, Dhaka 1000, BangladeshC3  - United International University (UIU)C3  - Lappeenranta-Lahti University of Technology LUTC3  - Charles Darwin UniversityC3  - Bangladesh University of Engineering & Technology (BUET)FU  - Institute of Advance Research, United International University
-FX  - No Statement Available
-PU  - IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
-PI  - PISCATAWAY
-PA  - 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
-SN  - 2169-3536
-J9  - IEEE ACCESS
-JI  - IEEE Access
-PY  - 2024
-VL  - 12
-SP  - 26839
-EP  - 26874
-DO  - 10.1109/ACCESS.2024.3365742
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001173153100001
-N1  - Times Cited in Web of Science Core Collection:  49
-Total Times Cited:  50
-Cited Reference Count:  187
-ER  -
-
-TY  - JOUR
-AU  - Taylor, N
-AU  - Zhang, Y
-AU  - Joyce, DW
-AU  - Gao, ZM
-AU  - Kormilitzin, A
-AU  - Nevado-Holgado, A
-TI  - Clinical Prompt Learning With Frozen Language Models
-T2  - IEEE TRANSACTIONS ON NEURAL NETWORKS AND LEARNING SYSTEMS
-LA  - English
-KW  - Task analysis
-KW  - Adaptation models
-KW  - Training
-KW  - Tuning
-KW  - Computer architecture
-KW  - Bit error rate
-KW  - Transformers
-KW  - Clinical decision support
-KW  - few-shot learning
-KW  - pretrained language models (PLMs)
-KW  - prompt learning
-AB  - When the first transformer-based language models were published in the late 2010s, pretraining with general text and then fine-tuning the model on a task-specific dataset often achieved the state-of-the-art performance. However, more recent work suggests that for some tasks, directly prompting the pretrained model matches or surpasses fine-tuning in performance with few or no model parameter updates required. The use of prompts with language models for natural language processing (NLP) tasks is known as prompt learning. We investigated the viability of prompt learning on clinically meaningful decision tasks and directly compared this with more traditional fine-tuning methods. Results show that prompt learning methods were able to match or surpass the performance of traditional fine-tuning with up to 1000 times fewer trainable parameters, less training time, less training data, and lower computation resource requirements. We argue that these characteristics make prompt learning a very desirable alternative to traditional fine-tuning for clinical tasks, where the computational resources of public health providers are limited, and where data can often not be made available or not be used for fine-tuning due to patient privacy concerns. The complementary code to reproduce the experiments presented in this work can be found at <uri>https://github.com/NtaylorOX/Public_Clinical_Prompt</uri>.
-AD  - Univ Oxford, Dept Psychiat, Oxford OX3 7JX, EnglandAD  - Univ Liverpool, Dept Primary Care & Mental Hlth, Liverpool L69 3GF, Merseyside, EnglandC3  - University of OxfordC3  - University of LiverpoolPU  - IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
-PI  - PISCATAWAY
-PA  - 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
-SN  - 2162-237X
-SN  - 2162-2388
-J9  - IEEE T NEUR NET LEAR
-JI  - IEEE Trans. Neural Netw. Learn. Syst.
-DA  - NOV
-PY  - 2024
-VL  - 35
-IS  - 11
-SP  - 16453
-EP  - 16463
-DO  - 10.1109/TNNLS.2023.3294633
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001346504100111
-N1  - Times Cited in Web of Science Core Collection:  10
-Total Times Cited:  10
-Cited Reference Count:  0
-ER  -
-
-TY  - JOUR
-AU  - Li, YM
-AU  - Tao, W
-AU  - Li, ZH
-AU  - Sun, ZA
-AU  - Li, F
-AU  - Fenton, S
-AU  - Xu, H
-AU  - Tao, C
-TI  - Artificial intelligence-powered pharmacovigilance: A review of machine and deep learning in clinical text-based adverse drug event detection for benchmark datasets
-T2  - JOURNAL OF BIOMEDICAL INFORMATICS
-LA  - English
-KW  - Pharmacovigilance
-KW  - Machine learning/Deep learning
-KW  - Adverse drug event (ADE) extraction
-KW  - named -entity recognition (NER)
-KW  - Relation extraction (RE)
-KW  - Natural language processing (NLP)
-KW  - COSTS
-AB  - Objective: The primary objective of this review is to investigate the effectiveness of machine learning and deep learning methodologies in the context of extracting adverse drug events (ADEs) from clinical benchmark datasets. We conduct an in-depth analysis, aiming to compare the merits and drawbacks of both machine learning and deep learning techniques, particularly within the framework of named-entity recognition (NER) and relation classification (RC) tasks related to ADE extraction. Additionally, our focus extends to the examination of specific features and their impact on the overall performance of these methodologies. In a broader perspective, our research extends to ADE extraction from various sources, including biomedical literature, social media data, and drug labels, removing the limitation to exclusively machine learning or deep learning methods. Methods: We conducted an extensive literature review on PubMed using the query "(((machine learning [Medical Subject Headings (MeSH) Terms]) OR (deep learning [MeSH Terms])) AND (adverse drug event [MeSH Terms])) AND (extraction)", and supplemented this with a snowballing approach to review 275 references sourced from retrieved articles. Results: In our analysis, we included twelve articles for review. For the NER task, deep learning models outperformed machine learning models. In the RC task, gradient Boosting, multilayer perceptron and random forest models excelled. The Bidirectional Encoder Representations from Transformers (BERT) model consistently achieved the best performance in the end-to-end task. Future efforts in the end-to-end task should prioritize improving NER accuracy, especially for 'ADE' and 'Reason'. Conclusion: These findings hold significant implications for advancing the field of ADE extraction and pharmacovigilance, ultimately contributing to improved drug safety monitoring and healthcare outcomes.
-AD  - Univ Texas Hlth Sci Ctr Houston, McWilliams Sch Biomed Informat, Houston, TX 77030 USAAD  - Univ Texas Hlth Sci Ctr Houston, Sch Publ Hlth, Dept Biostat & Data Sci, Houston, TX 77030 USAAD  - Mayo Clin, Dept Artificial Intelligence & Informat, Jacksonville, FL 32224 USAAD  - Yale Univ, Sch Med, Sect Biomed Informat & Data Sci, New Haven, CT 06510 USAAD  - 4500 San Pablo Rd, Jacksonville, FL 32224 USAC3  - University of Texas SystemC3  - University of Texas Health Science Center HoustonC3  - University of Texas SystemC3  - University of Texas Health Science Center HoustonC3  - University of Texas School Public HealthC3  - Mayo ClinicC3  - Yale UniversityFU  - National Institute of Al- lergy And Infectious Diseases of the National Institutes of Health, United States [R01AI130460, U24AI171008]
-FX  - <BOLD>Acknowledgments</BOLD> This article was partially supported by the National Institute of Al- lergy And Infectious Diseases of the National Institutes of Health, United States under Award Numbers R01AI130460 and U24AI171008. I would like to express my sincere appreciation to Irmgard Willcockson for her invaluable contributions as the editor of this publication.
-PU  - ACADEMIC PRESS INC ELSEVIER SCIENCE
-PI  - SAN DIEGO
-PA  - 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
-SN  - 1532-0464
-SN  - 1532-0480
-J9  - J BIOMED INFORM
-JI  - J. Biomed. Inform.
-DA  - APR
-PY  - 2024
-VL  - 152
-C7  - 104621
-DO  - 10.1016/j.jbi.2024.104621
-C6  - MAR 2024
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001211489400001
-N1  - Times Cited in Web of Science Core Collection:  9
-Total Times Cited:  9
-Cited Reference Count:  43
-ER  -
-
-TY  - JOUR
-AU  - Fields, J
-AU  - Chovanec, K
-AU  - Madiraju, P
-TI  - A Survey of Text Classification With Transformers: How Wide? How Large? How Long? How Accurate? How Expensive? How Safe?
-T2  - IEEE ACCESS
-LA  - English
-KW  - NLP
-KW  - text classification
-KW  - transformers
-KW  - survey
-KW  - ALGORITHMS
-KW  - MODEL
-AB  - Text classification in natural language processing (NLP) is evolving rapidly, particularly with the surge in transformer-based models, including large language models (LLM). This paper presents an in-depth survey of text classification techniques across diverse benchmarks, addressing applications from sentiment analysis to chatbot-driven question-answering. Methodologically, it utilizes NLP-facilitated approaches such as co-citation and bibliographic coupling alongside traditional research techniques. Because new use cases continue to emerge in this dynamic field, the study proposes an expanded taxonomy of text classification applications, extending the focus beyond unimodal (text-only) inputs to explore the emerging field of multimodal classification. While offering a comprehensive review of text classification with LLMs, this review highlights novel questions that arise when approaching the task with transformers: It evaluates the use of multimodal data, including text, numeric, and columnar data, and discusses the evolution of text input lengths (tokens) for long text classification; it covers the historical development of transformer-based models, emphasizing recent advancements in LLMs; it evaluates model accuracy on 358 datasets across 20 applications, with results challenging the assumption that LLMs are universally superior, revealing unexpected findings related to accuracy, cost, and safety; and it explores issues related to cost and access as models become increasingly expensive. Finally, the survey discusses new social and ethical implications raised when using LLMs for text classification, including bias and copyright. Throughout, the review emphasizes the importance of a nuanced understanding of model performance and a holistic approach to deploying transformer-based models in real-world applications.
-AD  - Concordia Univ Wisconsin Ann Arbor, Business Analyt, Mequon, WI 53097 USAAD  - Marquette Univ, Dept Comp Sci, Milwaukee, WI 53233 USAC3  - Marquette UniversityFU  - Northwestern Mutual Data Science Institute and NSF
-FX  - No Statement Available
-PU  - IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
-PI  - PISCATAWAY
-PA  - 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
-SN  - 2169-3536
-J9  - IEEE ACCESS
-JI  - IEEE Access
-PY  - 2024
-VL  - 12
-SP  - 6518
-EP  - 6531
-DO  - 10.1109/ACCESS.2024.3349952
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001142647500001
-N1  - Times Cited in Web of Science Core Collection:  8
-Total Times Cited:  8
-Cited Reference Count:  174
-ER  -
-
-TY  - JOUR
-AU  - Yeh, C
-AU  - Chen, Y
-AU  - Wu, A
-AU  - Chen, C
-AU  - Viégas, F
-AU  - Wattenberg, M
-TI  - AttentionViz: A Global View of Transformer Attention
-T2  - IEEE TRANSACTIONS ON VISUALIZATION AND COMPUTER GRAPHICS
-LA  - English
-KW  - Transformer
-KW  - Attention
-KW  - NLP
-KW  - Computer Vision
-KW  - Visual Analytics
-AB  - Transformer models are revolutionizing machine learning, but their inner workings remain mysterious. In this work, we present a new visualization technique designed to help researchers understand the self-attention mechanism in transformers that allows these models to learn rich, contextual relationships between elements of a sequence. The main idea behind our method is to visualize a joint embedding of the query and key vectors used by transformer models to compute attention. Unlike previous attention visualization techniques, our approach enables the analysis of global patterns across multiple input sequences. We create an interactive visualization tool, AttentionViz (demo: http://attentionviz.com), based on these joint query-key embeddings, and use it to study attention mechanisms in both language and vision transformers. We demonstrate the utility of our approach in improving model understanding and offering new insights about query-key interactions through several application scenarios and expert feedback.
-AD  - Harvard Univ, Cambridge, MA 02138 USAC3  - Harvard UniversityPU  - IEEE COMPUTER SOC
-PI  - LOS ALAMITOS
-PA  - 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
-SN  - 1077-2626
-SN  - 1941-0506
-J9  - IEEE T VIS COMPUT GR
-JI  - IEEE Trans. Vis. Comput. Graph.
-DA  - JAN
-PY  - 2024
-VL  - 30
-IS  - 1
-SP  - 262
-EP  - 272
-DO  - 10.1109/TVCG.2023.3327163
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001159106500105
-N1  - Times Cited in Web of Science Core Collection:  8
-Total Times Cited:  8
-Cited Reference Count:  62
-ER  -
-
-TY  - JOUR
-AU  - Zhang, HZ
-AU  - Shafiq, MO
-TI  - Survey of transformers and towards ensemble learning using transformers for natural language processing
-T2  - JOURNAL OF BIG DATA
-LA  - English
-KW  - Transformer model
-KW  - Natural language tasks
-KW  - Transformer-based model
-KW  - Ensemble learning
-AB  - The transformer model is a famous natural language processing model proposed by Google in 2017. Now, with the extensive development of deep learning, many natural language processing tasks can be solved by deep learning methods. After the BERT model was proposed, many pre-trained models such as the XLNet model, the RoBERTa model, and the ALBERT model were also proposed in the research community. These models perform very well in various natural language processing tasks. In this paper, we describe and compare these well-known models. In addition, we also apply several types of existing and well-known models which are the BERT model, the XLNet model, the RoBERTa model, the GPT2 model, and the ALBERT model to different existing and well-known natural language processing tasks, and analyze each model based on their performance. There are a few papers that comprehensively compare various transformer models. In our paper, we use six types of well-known tasks, such as sentiment analysis, question answering, text generation, text summarization, name entity recognition, and topic modeling tasks to compare the performance of various transformer models. In addition, using the existing models, we also propose ensemble learning models for the different natural language processing tasks. The results show that our ensemble learning models perform better than a single classifier on specific tasks.
-AD  - Carleton Univ, Sch Informat Technol, Ottawa, ON, CanadaC3  - Carleton UniversityFU  - Carleton University
-FX  - Not applicable.
-PU  - SPRINGERNATURE
-PI  - LONDON
-PA  - CAMPUS, 4 CRINAN ST, LONDON, N1 9XW, ENGLAND
-SN  - 2196-1115
-J9  - J BIG DATA-GER
-JI  - J. Big Data
-DA  - FEB 4
-PY  - 2024
-VL  - 11
-IS  - 1
-C7  - 25
-DO  - 10.1186/s40537-023-00842-0
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001156909400002
-N1  - Times Cited in Web of Science Core Collection:  7
-Total Times Cited:  7
-Cited Reference Count:  54
-ER  -
-
-TY  - JOUR
-AU  - Wang, JJ
-AU  - Huang, JX
-AU  - Tu, XH
-AU  - Wang, JM
-AU  - Huang, AJ
-AU  - Laskar, MTR
-AU  - Bhuiyan, A
-TI  - Utilizing BERT for Information Retrieval: Survey, Applications, Resources, and Challenges
-T2  - ACM COMPUTING SURVEYS
-LA  - English
-KW  - BERT
-KW  - information retrieval
-KW  - natural language processing
-KW  - artificial intelligence
-AB  - Recent years have witnessed a substantial increase in the use of deep learning to solve various natural language processing (NLP) problems. Early deep learning models were constrained by their sequential or unidirectional nature, such that they struggled to capture the contextual relationships across text inputs. The introduction of bidirectional encoder representations from transformers (BERT) leads to a robust encoder for the transformer model that can understand the broader context and deliver state-of-the-art performance across various NLP tasks. This has inspired researchers and practitioners to apply BERT to practical problems, such as information retrieval (IR). A survey that focuses on a comprehensive analysis of prevalent approaches that apply pretrained transformer encoders like BERT to IR can thus be useful for academia and the industry. In light of this, we revisit a variety of BERT-based methods in this survey, cover a wide range of techniques of IR, and group them into six high-level categories: (i) handling long documents, (ii) integrating semantic information, (iii) balancing effectiveness and efficiency, (iv) predicting the weights of terms, (v) query expansion, and (vi) document expansion. We also provide links to resources, including datasets and toolkits, for BERT-based IR systems. Additionally, we highlight the advantages of employing encoder-based BERT models in contrast to recent large language models like ChatGPT, which are decoder-based and demand extensive computational resources. Finally, we summarize the comprehensive outcomes of the survey and suggest directions for future research in the area.
-AD  - Henan Univ Technol, Sch Sci, Zhengzhou 450001, Henan, Peoples R ChinaAD  - York Univ, Informat Retrieval & Knowledge Management Res Lab, 4700 Keele St, Toronto, ON M3J 1P3, CanadaAD  - Cent China Normal Univ, Sch Comp Sci, Wuhan 430079, Hubei, Peoples R ChinaAD  - Hangzhou Dianzi Univ, Sch Comp, Hangzhou 310018, Peoples R ChinaAD  - York Univ, Lassonde Sch Engn, Toronto, ON M3J 2S5, CanadaAD  - York Univ, 4700 Keele St, Toronto, ON M3J 1P3, CanadaAD  - Dialpad Inc, 4700 Keele St, Toronto, ON M3J 1P3, CanadaC3  - Henan University of TechnologyC3  - York University - CanadaC3  - Central China Normal UniversityC3  - Hangzhou Dianzi UniversityC3  - York University - CanadaC3  - York University - CanadaC3  - York University - CanadaFU  - Natural Science and Engineering Research Council (NSERC) of Canada [RGPIN-2020-07157]; York Research Chairs (YRC) program; Ontario Research Fund-Research Excellence (ORF-RE) award from the BRAIN Alliance
-FX  - This research is supported by the research grant (RGPIN-2020-07157) from the Natural Science and Engineering Research Council (NSERC) of Canada, the York Research Chairs (YRC) program, and an Ontario Research Fund-Research Excellence (ORF-RE) award from the BRAIN Alliance.
-PU  - ASSOC COMPUTING MACHINERY
-PI  - NEW YORK
-PA  - 1601 Broadway, 10th Floor, NEW YORK, NY USA
-SN  - 0360-0300
-SN  - 1557-7341
-J9  - ACM COMPUT SURV
-JI  - ACM Comput. Surv.
-DA  - JUL
-PY  - 2024
-VL  - 56
-IS  - 7
-C7  - 185
-DO  - 10.1145/3648471
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001208811000024
-N1  - Times Cited in Web of Science Core Collection:  6
-Total Times Cited:  6
-Cited Reference Count:  155
-ER  -
-
-TY  - JOUR
-AU  - Sahoo, SS
-AU  - Plasek, JM
-AU  - Xu, H
-AU  - Uzuner, O
-AU  - Cohen, T
-AU  - Yetisgen, M
-AU  - Liu, HF
-AU  - Meystre, S
-AU  - Wang, YS
-TI  - Large language models for biomedicine: foundations, opportunities, challenges, and best practices
-T2  - JOURNAL OF THE AMERICAN MEDICAL INFORMATICS ASSOCIATION
-LA  - English
-KW  - clinical natural language processing
-KW  - large language models
-KW  - transformer neural networks
-KW  - transfer learning
-KW  - medical informatics applications
-AB  - Objectives Generative large language models (LLMs) are a subset of transformers-based neural network architecture models. LLMs have successfully leveraged a combination of an increased number of parameters, improvements in computational efficiency, and large pre-training datasets to perform a wide spectrum of natural language processing (NLP) tasks. Using a few examples (few-shot) or no examples (zero-shot) for prompt-tuning has enabled LLMs to achieve state-of-the-art performance in a broad range of NLP applications. This article by the American Medical Informatics Association (AMIA) NLP Working Group characterizes the opportunities, challenges, and best practices for our community to leverage and advance the integration of LLMs in downstream NLP applications effectively. This can be accomplished through a variety of approaches, including augmented prompting, instruction prompt tuning, and reinforcement learning from human feedback (RLHF).Target Audience Our focus is on making LLMs accessible to the broader biomedical informatics community, including clinicians and researchers who may be unfamiliar with NLP. Additionally, NLP practitioners may gain insight from the described best practices.Scope We focus on 3 broad categories of NLP tasks, namely natural language understanding, natural language inferencing, and natural language generation. We review the emerging trends in prompt tuning, instruction fine-tuning, and evaluation metrics used for LLMs while drawing attention to several issues that impact biomedical NLP applications, including falsehoods in generated text (confabulation/hallucinations), toxicity, and dataset contamination leading to overfitting. We also review potential approaches to address some of these current challenges in LLMs, such as chain of thought prompting, and the phenomena of emergent capabilities observed in LLMs that can be leveraged to address complex NLP challenge in biomedical applications.
-AD  - Case Western Reserve Univ, Sch Med, Dept Populat & Quantitat Hlth Sci, Wolstein Res Bldg, Cleveland, OH 44122 USAAD  - Harvard Med Sch, Brigham & Womens Hosp, Div Gen Internal Med & Primary Care, Cambridge, MA 02115 USAAD  - Yale Univ, Sch Med, Sect Biomed Informat & Data Sci, New Haven, CT 06510 USAAD  - George Mason Univ, Dept Informat Sci & Technol, Fairfax, VA 22030 USAAD  - Univ Washington, Dept Biomed Informat & Med Educ, Seattle, WA 98109 USAAD  - Univ Texas Hlth Sci Ctr Houston, Dept Hlth Data Sci & Artificial Intelligence, Houston, TX 77030 USAAD  - Univ Appl Sci & Arts Southern Switzerland, Inst Digital Technol Personalised Healthcare, Dipartimento Tecnol Innovat, CH-6962 Lugano, SwitzerlandAD  - Univ Pittsburgh, Dept Hlth Informat Management, Pittsburgh, PA 15260 USAAD  - Univ Pittsburgh, Dept Biomed Informat, Pittsburgh, PA 15206 USAC3  - University System of OhioC3  - Case Western Reserve UniversityC3  - Harvard UniversityC3  - Brigham & Women's HospitalC3  - Yale UniversityC3  - George Mason UniversityC3  - University of WashingtonC3  - University of Washington SeattleC3  - University of Texas SystemC3  - University of Texas Health Science Center HoustonC3  - Pennsylvania Commonwealth System of Higher Education (PCSHE)C3  - University of PittsburghC3  - Pennsylvania Commonwealth System of Higher Education (PCSHE)C3  - University of PittsburghFU  - US National Institutes of Health (NIH) [U24EB029005, R01DA053028]; US Department of Defense (DoD) [W81XWH2110859]; Dravet Syndrome Foundation; Clinical and Translational Science Collaborative of Cleveland - NIH, National Center for Advancing Translational Sciences, Clinical and Translational Science Award grant [UL1TR002548]; NIH [UL1TR001857, U24TR004111, R01LM014306, R21LM013934, R01LM014056, R01LM014056-S1]
-FX  - S.S.S. was funded in part by the grants from the US National Institutes of Health (NIH): U24EB029005, R01DA053028, the US Department of Defense (DoD) grant W81XWH2110859, the Dravet Syndrome Foundation, and the Clinical and Translational Science Collaborative of Cleveland, which is funded by the NIH, National Center for Advancing Translational Sciences, Clinical and Translational Science Award grant, UL1TR002548. The content is solely the responsibility of the authors and does not necessarily represent the official views of the NIH. Y.W. was funded in part by the NIH through grants UL1TR001857, U24TR004111, and R01LM014306. J.M.P. reports receiving personal fees from Credo Health unrelated to the submitted work. T.C. was funded in part by the NIH through grants R21LM013934, R01LM014056, and R01LM014056-S1.
-PU  - OXFORD UNIV PRESS
-PI  - OXFORD
-PA  - GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
-SN  - 1067-5027
-SN  - 1527-974X
-J9  - J AM MED INFORM ASSN
-JI  - J. Am. Med. Inf. Assoc.
-DA  - APR 24
-PY  - 2024
-VL  - 31
-IS  - 9
-SP  - 2114
-EP  - 2124
-DO  - 10.1093/jamia/ocae074
-C6  - APR 2024
-WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:001207398900001
-N1  - Times Cited in Web of Science Core Collection:  6
-Total Times Cited:  6
-Cited Reference Count:  55
-ER  -
-
-TY  - JOUR
-AU  - Chiang, CC
-AU  - Luo, M
-AU  - Dumkrieger, G
-AU  - Trivedi, S
-AU  - Chen, YC
-AU  - Chao, CJ
-AU  - Schwedt, TJ
-AU  - Sarker, A
-AU  - Banerjee, I
-TI  - A large language model-based generative natural language processing framework fine-tuned on clinical notes accurately extracts headache frequency from electronic health records
-T2  - HEADACHE
-LA  - English
-KW  - artificial intelligence
-KW  - headache frequency
-KW  - large language model
-KW  - migraine
-KW  - natural language processing
-KW  - MIGRAINE
-AB  - ObjectiveTo develop a natural language processing (NLP) algorithm that can accurately extract headache frequency from free-text clinical notes.BackgroundHeadache frequency, defined as the number of days with any headache in a month (or 4 weeks), remains a key parameter in the evaluation of treatment response to migraine preventive medications. However, due to the variations and inconsistencies in documentation by clinicians, significant challenges exist to accurately extract headache frequency from the electronic health record (EHR) by traditional NLP algorithms.MethodsThis was a retrospective cross-sectional study with patients identified from two tertiary headache referral centers, Mayo Clinic Arizona and Mayo Clinic Rochester. All neurology consultation notes written by 15 specialized clinicians (11 headache specialists and 4 nurse practitioners) between 2012 and 2022 were extracted and 1915 notes were used for model fine-tuning (90%) and testing (10%). We employed four different NLP frameworks: (1) ClinicalBERT (Bidirectional Encoder Representations from Transformers) regression model, (2) Generative Pre-Trained Transformer-2 (GPT-2) Question Answering (QA) model zero-shot, (3) GPT-2 QA model few-shot training fine-tuned on clinical notes, and (4) GPT-2 generative model few-shot training fine-tuned on clinical notes to generate the answer by considering the context of included text.ResultsThe mean (standard deviation) headache frequency of our training and testing datasets were 13.4 (10.9) and 14.4 (11.2), respectively. The GPT-2 generative model was the best-performing model with an accuracy of 0.92 (0.91, 0.93, 95% confidence interval [CI]) and R2 score of 0.89 (0.87, 0.90, 95% CI), and all GPT-2-based models outperformed the ClinicalBERT model in terms of exact matching accuracy. Although the ClinicalBERT regression model had the lowest accuracy of 0.27 (0.26, 0.28), it demonstrated a high R2 score of 0.88 (0.85, 0.89), suggesting the ClinicalBERT model can reasonably predict the headache frequency within a range of <= +/- 3 days, and the R2 score was higher than the GPT-2 QA zero-shot model or GPT-2 QA model few-shot training fine-tuned model.ConclusionWe developed a robust information extraction model based on a state-of-the-art large language model, a GPT-2 generative model that can extract headache frequency from EHR free-text clinical notes with high accuracy and R2 score. It overcame several challenges related to different ways clinicians document headache frequency that were not easily achieved by traditional NLP models. We also showed that GPT-2-based frameworks outperformed ClinicalBERT in terms of accuracy in extracting headache frequency from clinical notes. To facilitate research in the field, we released the GPT-2 generative model and inference code with open-source license of community use in GitHub. Additional fine-tuning of the algorithm might be required when applied to different health-care systems for various clinical use cases.
-   We developed a novel artificial intelligence program that can automatically and accurately extract headache frequency from doctors' notes. Figuring out how often someone gets headaches is important as it helps doctors see how bad the problem is and if treatments are working. Our method, using a powerful program called Generative Pre-Trained Transformer-2, worked better than older ways and could make big data migraine research easier.
-AD  - Mayo Clin, Dept Neurol, Rochester, MN 55905 USAAD  - Mayo Clin, Dept Radiol, Phoenix, AZ USAAD  - Mayo Clin, Dept Neurol, Phoenix, AZ USAAD  - Mayo Clin, Dept Pharm, Rochester, MN USAAD  - Mayo Clin, Dept Cardiol, Rochester, MN USAAD  - Emory Univ, Dept Biomed Informat, Sch Med, Atlanta, GA USAAD  - Arizona State Univ, Sch Comp & Augmented Intelligence, Tempe, AZ USAC3  - Mayo ClinicC3  - Mayo ClinicC3  - Mayo Clinic PhoenixC3  - Mayo ClinicC3  - Mayo Clinic PhoenixC3  - Mayo ClinicC3  - Mayo ClinicC3  - Emory UniversityC3  - Arizona State UniversityC3  - Arizona State University-TempeFU  - NIH/National Cancer Institute
-FX  - No Statement Available
-PU  - WILEY
-PI  - HOBOKEN
-PA  - 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
-SN  - 0017-8748
-SN  - 1526-4610
-J9  - HEADACHE
-JI  - Headache
-DA  - APR
-PY  - 2024
-VL  - 64
-IS  - 4
-SP  - 400
-EP  - 409
-DO  - 10.1111/head.14702
-C6  - MAR 2024
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001189935500001
-N1  - Times Cited in Web of Science Core Collection:  6
-Total Times Cited:  6
-Cited Reference Count:  20
-ER  -
-
-TY  - JOUR
-AU  - Al-Fraihat, D
-AU  - Sharrab, Y
-AU  - Alzyoud, F
-AU  - Qahmash, A
-AU  - Tarawneh, M
-AU  - Maaita, A
-TI  - Speech Recognition Utilizing Deep Learning: A Systematic Review of the Latest Developments
-T2  - HUMAN-CENTRIC COMPUTING AND INFORMATION SCIENCES
-LA  - English
-KW  - Speech Recognition Deep Learning (DL) Deep Neural Networks (DNNs) Natural Language Processing
-KW  - (NLP) Systematic Review
-KW  - NEURAL-NETWORKS
-KW  - LSTM
-KW  - ARCHITECTURE
-AB  - Speech recognition is a natural language processing task that involves the computerized transcription of spoken language in real time. Numerous studies have been conducted on the utilization of deep learning (DL) models for speech recognition. However, this field is advancing rapidly. This systematic review provides an in-depth and comprehensive examination of studies published from 2019 to 2022 on speech recognition utilizing DL techniques. Initially, 575 studies were retrieved and examined. After filtration and application of the inclusion and exclusion criteria, 94 were retained for further analysis. A literature survey revealed that 17% of the studies used stand-alone models, whereas 52% used hybrid models. This indicates a shift towards the adoption of hybrid models, which were proven to achieve better results. Furthermore, most of the studies employed public datasets (56%) and used the English language (46%), whereas their environments were neutral (81%). The word error rate was the most frequently used method of evaluation, while Mel -frequency cepstral coefficients were the most frequently employed method of feature extraction. Another observation was the lack of studies utilizing transformers, which were demonstrated to be powerful models that can facilitate fast learning speeds, allow parallelization and improve the performance of low -resource languages. The results also revealed potential and interesting areas of future research that had received scant attention in earlier studies.
-AD  - Isra Univ, Fac Informat Technol, Dept Software Engn, Amman 11622, JordanAD  - Isra Univ, Fac Informat Technol, Dept Data Sci & Artificial Intelligence, Amman 11622, JordanAD  - Isra Univ, Fac Informat Technol, Dept Comp Sci, Amman 11622, JordanAD  - King Khalid Univ, Coll Comp Sci, Dept Informat Syst, Abha, Saudi ArabiaAD  - Middle East Univ, Fac Informat Technol, Dept Software Engn, Amman, JordanC3  - Isra UniversityC3  - Isra UniversityC3  - Isra UniversityC3  - King Khalid UniversityC3  - Middle East UniversityFU  - Deanship of Scientific Research at King Khalid University [RGP.1/209/43]
-FX  - <BOLD>Funding</BOLD> This research has been funded by the Deanship of Scientific Research at King Khalid University (No. RGP.1/209/43) .
-PU  - Korea Computer Industry Assoc-KCIA
-PI  - Seoul
-PA  - C29, 7F, 11-9, Teheran-ro 77-gil, Gangnam-gu, Seoul, SOUTH KOREA
-SN  - 2192-1962
-J9  - HUM-CENT COMPUT INFO
-JI  - Human-centric Comput. Inf. Sci.
-DA  - MAR 15
-PY  - 2024
-VL  - 14
-C7  - 15
-DO  - 10.22967/HCIS.2024.14.015
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001156990100001
-N1  - Times Cited in Web of Science Core Collection:  6
-Total Times Cited:  6
-Cited Reference Count:  145
-ER  -
-

@@ -1,67 +1,0 @@
-﻿TY  - JOUR
-AU  - Mao, XL
-AU  - Jiang, J
-AU  - Zeng, YZ
-AU  - Peng, YA
-AU  - Zhang, SC
-AU  - Li, FF
-TI  - Generative named entity recognition framework for Chinese legal domain
-T2  - PEERJ COMPUTER SCIENCE
-LA  - English
-KW  - Named entity recognition
-KW  - Legal text
-KW  - Contrastive learning
-KW  - Multi-task training
-AB  - Named entity recognition (NER) is a crucial task in natural language processing, particularly challenging in the legal domain due to the intricate and lengthy nature of legal entities. Existing methods often struggle with accurately identifying entity boundaries and types in legal texts. To address these challenges, we propose a novel sequence-to-sequence framework designed specifically for the legal domain. This framework features an entity-type-aware module that leverages contrastive learning to enhance the prediction of entity types. Additionally, we incorporate a decoder with a copy mechanism that accurately identifies complex legal entities without the need for explicit tagging schemas. Our extensive experiments on two legal datasets show that our framework significantly outperforms state-of-the-art methods, achieving notable improvements in precision, recall, and F1 score. This demonstrates the effectiveness of our approach in improving entity recognition in legal texts, offering a promising direction for future research in legal NER.
-AD  - Hunan Univ Technol & Business, Sch Digital Media & Humanities, Changsha, Hunan, Peoples R ChinaAD  - Natl Univ Def Technol, Coll Syst Engn, Changsha, Hunan, Peoples R ChinaAD  - Cent South Univ, Sch Comp Sci & Engn, Changsha, Hunan, Peoples R ChinaC3  - Hunan University of Technology & BusinessC3  - National University of Defense Technology - ChinaC3  - Central South UniversityFU  - National Natural Science Foundation of China [62172449, 72374070]; Hunan Provincial Natural Science Foundation of China [2022JJ3021]; Training Program for Excellent Young Innovators of Changsha [kq2107004]; Science and technology innovation Program of Hunan Province [2022RC1105]; Industry-University-Research Innovation Fund of Chinese University [2021ITA01023]; High Performance Computing Center of Central South University
-FX  - This research was supported by the National Natural Science Foundation of China [62172449, 72374070] , Hunan Provincial Natural Science Foundation of China [2022JJ3021] , Training Program for Excellent Young Innovators of Changsha [kq2107004] , The science and technology innovation Program of Hunan Province [2022RC1105] , and Industry-University-Research Innovation Fund of Chinese University [2021ITA01023] . This work was supported by the High Performance Computing Center of Central South University. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript
-PU  - PEERJ INC
-PI  - LONDON
-PA  - 341-345 OLD ST, THIRD FLR, LONDON, EC1V 9LL, ENGLAND
-SN  - 2376-5992
-J9  - PEERJ COMPUT SCI
-JI  - PeerJ Comput. Sci.
-DA  - NOV 4
-PY  - 2024
-VL  - 10
-C7  - e2428
-DO  - 10.7717/peerj-cs.2428
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001349569600004
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  41
-ER  -
-
-TY  - JOUR
-AU  - Tóth, E
-AU  - Gal, Z
-TI  - Optimizing Text Clustering Efficiency through Flexible Latent Dirichlet Allocation Method: Exploring the Impact of Data Features and Threshold Modification
-T2  - INFOCOMMUNICATIONS JOURNAL
-LA  - English
-KW  - Multilabel classification
-KW  - Legal text clustering
-KW  - Latent Dirichlet Allocation
-KW  - Supervised learning
-KW  - Artificial Intelligence
-KW  - Natural Language Processing
-KW  - Quantitative linguistics
-AB  - A parallel corpus comprising Croatian EU legisla tive documents Automatically translated into English spans 28 years and is enriched with metadata, including creation year and hierarchical classifier tags denoting descriptors, document types, and fields. However, nearly two-thirds of the approxi- mately 1.5 thousand tests lack complete metadata, necessitating labor intensive manual efforts that pose challenges for human administration. This incompleteness issue can be observed in the case of official legal sites functioning as regular service provi- sioning databases. In response, this paper introduces an artifi cial cognitive and multilabel classification approach to expedite the tagging process with only a fraction of the manual effort. Leveraging the Latent Dirichlet Allocation (LDA) algorithm. our method assigns field values or tags to incompletely labeled documents. We Esplement a Flexible LDA variant, inco & gcy;& rcy;& ocy;- rating the influence of topics close to the most probable topic, regulated by a relative probability threshold (RPT). We evalu- ate the LDA prediction's de a's dependen & scy;& iecy; & ocy;n document prefiltering and RPT values. Furthermore, we investigate the dependence of quantitative linguistic properties on the type and speciality of pre-processing tasks. Our algorithm, built on error-correcting optimizing codes, successfully predicts a mixture of topic prob- abilities for these legal texts. This prediction is achieved. by cal- by cal culating the Hanming distance of binary feature vectors created using the legal fields of the EUROVOC multilingual thesaurus.
-AD  - Univ Debrecen, Fac Informat, Debrecen, HungaryC3  - University of DebrecenFU  - QoS-HPC-IoT Laboratory; University of Debrecen, Hungary [TKP2021-NKTA]; National Research, Development and Innovation Fund of Hungary [TKP2021-NKTA-34]
-FX  - This work has been supported by the QoS-HPC-IoT Laboratory and project TKP2021-NKTA of the University of Debrecen, Hungary. Project no. TKP2021-NKTA-34 has been implemented with the support provided from the National Research, Development and Innovation Fund of Hungary, financed under the TKP2021-NKTA funding scheme.
-PU  - SCIENTIFIC ASSOC INFOCOMMUNICATIONS
-PI  - BUDAPEST
-PA  - KOSSUTH LAJOS SQUARE 6-8, BUDAPEST, 1055, HUNGARY
-SN  - 2061-2079
-SN  - 2061-2125
-J9  - INFOCOMMUNICATIONS J
-JI  - Infocommunications J.
-PY  - 2024
-SP  - 58
-EP  - 66
-DO  - 10.36244/ICJ.2024.5.7
-WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001318875600008
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  25
-ER  -
-

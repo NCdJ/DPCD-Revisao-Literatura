@@ -1,109 +1,0 @@
-﻿TY  - JOUR
-AU  - Raghupathi, V
-AU  - Zhou, YL
-AU  - Raghupathi, W
-TI  - Legal Decision Support: Exploring Big Data Analytics Approach to Modeling Pharma Patent Validity Cases
-T2  - IEEE ACCESS
-LA  - English
-KW  - Big data analytics
-KW  - Hadoop MapReduce
-KW  - legal decision making
-KW  - machine learning
-KW  - pharma patent validity
-KW  - LAW
-KW  - AI
-AB  - This exploratory research examines the potential for applying a big data analytic framework to the modeling and analysis of cases in pharmaceutical patent validity brought before the U.S. Court of Appeals of the Federal Circuit. We start with two specific goals: one, to identify the key issues or reasons the Court uses to makes validity decisions and, two, to attempt to predict outcomes for new cases. The ultimate goal is to support legal decision-making with automation. The legal domain is a challenging one to tackle. However, current advances in analytic technologies and models hold the promise of success. Our application of Hadoop MapReduce in conjunction with a number of algorithms, such as clustering, classification, word count, word co-occurrence, and row similarity, is encouraging, in that the results are robust enough to suggest these approaches have promise and are worth pursuing. By utilizing larger case data sets and sample sizes and by using deep machine learning models in text analytics, more breakthroughs can be achieved to provide decision support to the legal domain. From an economic standpoint, the potential for litigation cost reduction is another objective of our study. Synergies are obtained in applying lessons to the computational field and vice versa, leading to acceleration in our understanding.
-AD  - CUNY Brooklyn Coll, Koppelman Sch Business, New York, NY 10031 USAAD  - Fordham Univ, Gabelli Sch Business, New York, NY 10458 USAC3  - City University of New York (CUNY) SystemC3  - Fordham UniversityPU  - IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
-PI  - PISCATAWAY
-PA  - 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
-SN  - 2169-3536
-J9  - IEEE ACCESS
-JI  - IEEE Access
-PY  - 2018
-VL  - 6
-SP  - 41518
-EP  - 41528
-DO  - 10.1109/ACCESS.2018.2859052
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000441868800102
-N1  - Times Cited in Web of Science Core Collection:  13
-Total Times Cited:  13
-Cited Reference Count:  66
-ER  -
-
-TY  - CPAPER
-AU  - Cumyn, M
-AU  - Hudon, M
-AU  - Mas, S
-AU  - Reiner, G
-ED  - Mouhoub, M
-ED  - Sadaoui, S
-ED  - Mohamed, OA
-ED  - Ali, M
-TI  - Towards a New Approach to Legal Indexing Using Facets
-T2  - RECENT TRENDS AND FUTURE TECHNOLOGY IN APPLIED INTELLIGENCE, IEA/AIE 2018
-LA  - English
-CP  - 31st International Conference on Industrial Engineering and Other Applications of Applied Intelligent Systems (IEA/AIE)
-KW  - Database
-KW  - Facet analysis
-KW  - Indexing
-KW  - Legal decision
-KW  - Document retrieval
-KW  - LAWYERS
-KW  - MODEL
-AB  - This paper presents work in progress to design and test a new model for indexing judicial decisions using facets. We have created a prototype database with a sample of 2 500 judicial decisions in the fields of administrative law, labor law and the law of obligations. The decisions are indexed using four facets (Person, Action, Thing, Context) and two classes (Legal category, Remedies and sanctions). We will test the prototype to compare its performance with that of a standard database. It is hoped that our model will support the full or partial automation of legal indexing and provide a structure for AI applications in the legal domain.
-AD  - Univ Laval, Quebec City, PQ, CanadaAD  - Univ Montreal, Montreal, PQ, CanadaAD  - Univ Bundeswehr, Hamburg, GermanyC3  - Laval UniversityC3  - Universite de MontrealC3  - Bundeswehr University MunichFU  - Social Sciences and Humanities Research Council of Canada
-FX  - This research program is funded by the Social Sciences and Humanities Research Council of Canada (2015-2020). We are grateful for the research assistance of Christophe Achdjian, Dominique Boulanger, Cecile Gaiffe, Marjorie Gauchier, Joanie Gosselin-Lepage, Beatrice Lecomte, Erin Sandberg, Forrest Wakarchuk and Iryna Zazulya. Thanks to Alexandre Fortier, our expert librarian, David Lesieur, our programmer and Charles Tremblay-Potvin, our project coordinator.
-PU  - SPRINGER INTERNATIONAL PUBLISHING AG
-PI  - CHAM
-PA  - GEWERBESTRASSE 11, CHAM, CH-6330, SWITZERLAND
-SN  - 0302-9743
-SN  - 1611-3349
-SN  - 978-3-319-92058-0
-SN  - 978-3-319-92057-3
-J9  - LECT NOTES ARTIF INT
-PY  - 2018
-VL  - 10868
-SP  - 881
-EP  - 888
-DO  - 10.1007/978-3-319-92058-0_84
-WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000552694300084
-N1  - Times Cited in Web of Science Core Collection:  1
-Total Times Cited:  1
-Cited Reference Count:  24
-ER  -
-
-TY  - CPAPER
-AU  - Al Hamar, J
-AU  - Chamieh, J
-AU  - AL-Mohannadi, H
-AU  - Al Hamar, M
-AU  - Al-Mutlaq, A
-AU  - Musa, A
-ED  - Awan, I
-ED  - Younas, M
-ED  - Portela, F
-TI  - Biometric of Intent: A New Approach Identifying Potential Threat in Highly Secured Facilities
-T2  - 2018 IEEE 6TH INTERNATIONAL CONFERENCE ON FUTURE INTERNET OF THINGS AND CLOUD WORKSHOPS (W-FICLOUD 2018)
-LA  - English
-CP  - 6th IEEE Int Conf on Future Internet of Things and Cloud (W-FiCloud) / 15th Int Conf on Mobile Web and Intelligent Information Systems (MobiWis) / 4th Int Conf on Big Data Innovations and Applications (Innovate-Data)
-KW  - behavioral biometric
-KW  - biometric of intent
-KW  - FACS
-KW  - facial expressions analysis
-KW  - basic emotions
-KW  - FACE
-AB  - Biometric of Intent (BoI) is a Computer Vision (CV) automation, using Artificial Intelligence (AI) techniques, which presents a new approach that extends the reach of the classic biometric identification process. It provides an efficient mechanism which deters the threats raised by unknown individuals who have deceitful intentions and who aim to deploy unlawful operations such as terrorist attacks. In this context, our proposed BoI model is based on a framework constructed upon an automated machine learning facial expression analysis system which can assist law enforcement agencies who intend to deploy a systematic preventive security approach that aims to reduce the risk of potential unlawful attacks by rogue individuals through the evaluation of their emotional state in relation to their malicious intent.
-AD  - Minist Interior, Doha, State Of Qatar, QatarAD  - Notre Dame Univ, Dept Media Studies, Zouk Mosbeh, LebanonAD  - Minist Foreign Affairs, Doha, State Of Qatar, QatarAD  - Univ Bradford, Sch Elect Engn & Comp Sci, Bradford, W Yorkshire, EnglandC3  - Notre Dame University LebanonC3  - University of BradfordPU  - IEEE
-PI  - NEW YORK
-PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
-SN  - 978-1-5386-7810-7
-PY  - 2018
-SP  - 193
-EP  - 197
-DO  - 10.1109/W-FiCloud.2018.00037
-WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000539151200031
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  1
-Cited Reference Count:  15
-ER  -
-

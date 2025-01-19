@@ -1,389 +1,0 @@
-﻿TY  - JOUR
-AU  - Esmaeilzadeh, P
-TI  - Challenges and strategies for wide-scale artificial intelligence (AI) deployment in healthcare practices: A perspective for healthcare organizations
-T2  - ARTIFICIAL INTELLIGENCE IN MEDICINE
-LA  - English
-KW  - Artificial intelligence
-KW  - AI
-KW  - Deployment challenges
-KW  - Healthcare
-KW  - Data
-KW  - Ethics
-KW  - Law
-KW  - OPPORTUNITIES
-KW  - SECURITY
-KW  - OUTCOMES
-KW  - PRIVACY
-KW  - STATE
-AB  - Healthcare organizations have realized that Artificial intelligence (AI) can provide a competitive edge through personalized patient experiences, improved patient outcomes, early diagnosis, augmented clinician capabilities, enhanced operational efficiencies, or improved medical service accessibility. However, deploying AI-driven tools in the healthcare ecosystem could be challenging. This paper categorizes AI applications in healthcare and comprehensively examines the challenges associated with deploying AI in medical practices at scale. As AI continues to make strides in healthcare, its integration presents various challenges, including production timelines, trust generation, privacy concerns, algorithmic biases, and data scarcity. The paper highlights that flawed business models and wrong workflows in healthcare practices cannot be rectified merely by deploying AI-driven tools. Healthcare organizations should re-evaluate root problems such as misaligned financial incentives (e.g., fee-for-service models), dysfunctional medical workflows (e.g., high rates of patient readmissions), poor care coordination between different providers, fragmented electronic health records systems, and inadequate patient education and engagement models in tandem with AI adoption. This study also explores the need for a cultural shift in viewing AI not as a threat but as an enabler that can enhance healthcare delivery and create new employment opportunities while emphasizing the importance of addressing underlying operational issues. The necessity of investments beyond finance is discussed, emphasizing the importance of human capital, continuous learning, and a supportive environment for AI integration. The paper also highlights the crucial role of clear regulations in building trust, ensuring safety, and guiding the ethical use of AI, calling for coherent frameworks addressing transparency, model accuracy, data quality control, liability, and ethics. Furthermore, this paper underscores the importance of advancing AI literacy within academia to prepare future healthcare professionals for an AI-driven landscape. Through careful navigation and proactive measures addressing these challenges, the healthcare community can harness AI's transformative power responsibly and effectively, revolutionizing healthcare delivery and patient care. The paper concludes with a vision and strategic suggestions for the future of healthcare with AI, emphasizing thoughtful, responsible, and innovative engagement as the pathway to realizing its full potential to unlock immense benefits for healthcare organizations, physicians, nurses, and patients while proactively mitigating risks.
-AD  - Florida Int Univ FIU, Coll Business, Dept Informat Syst & Business Analyt, Modesto A Maid Campus,11200 SW 8th St, Miami, FL 33199 USAC3  - State University System of FloridaC3  - Florida International UniversityPU  - ELSEVIER
-PI  - AMSTERDAM
-PA  - RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
-SN  - 0933-3657
-SN  - 1873-2860
-J9  - ARTIF INTELL MED
-JI  - Artif. Intell. Med.
-DA  - MAY
-PY  - 2024
-VL  - 151
-C7  - 102861
-DO  - 10.1016/j.artmed.2024.102861
-C6  - MAR 2024
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001216328100001
-N1  - Times Cited in Web of Science Core Collection:  16
-Total Times Cited:  16
-Cited Reference Count:  110
-ER  -
-
-TY  - JOUR
-AU  - Bayareh, M
-AU  - Baghoolizadeh, M
-TI  - An overview of the magnetic field effect on heat transfer and entropy generation in cavities: Application of the second law of thermodynamics and artificial intelligence
-T2  - INTERNATIONAL COMMUNICATIONS IN HEAT AND MASS TRANSFER
-LA  - English
-KW  - Natural convection
-KW  - Nanofluid
-KW  - Cavity
-KW  - Magnetic field
-KW  - Entropy generation
-KW  - Artificial intelligence
-KW  - LID-DRIVEN CAVITY
-KW  - TURBULENT NATURAL-CONVECTION
-KW  - NANOFLUID-FILLED CAVITY
-KW  - CU-WATER NANOFLUID
-KW  - MIXED CONVECTION
-KW  - SQUARE CAVITY
-KW  - RECTANGULAR CAVITY
-KW  - GAUSSIAN-PROCESSES
-KW  - 2ND-LAW ANALYSIS
-KW  - NEURAL-NETWORKS
-AB  - The presence of magnetic field results in a reduction in natural convective heat transfer and entropy generation in cavities. The use of nanofluids improves the performance of thermal systems. The present paper discusses the impact of uniform and non-uniform magnetic fields on the second-law performance of nanofluid-filled and porous cavities, introduces artificial intelligence (AI) approaches, and examines the applications of AI in optimizing heat transfer and entropy generated in these systems. The mathematical formulation is presented in terms of the entropy generation for natural convection in cavities. This paper demonstrates the influences of various important non-dimensional parameters on entropy generation in cavities. Besides, advances in the second-law performance of cavities and the role of AI techniques in the field are discussed and future directions are provided.
-AD  - Shahrekord Univ, Dept Mech Engn, Shahrekord, IranC3  - Shahrekord UniversityPU  - PERGAMON-ELSEVIER SCIENCE LTD
-PI  - OXFORD
-PA  - THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
-SN  - 0735-1933
-SN  - 1879-0178
-J9  - INT COMMUN HEAT MASS
-JI  - Int. Commun. Heat Mass Transf.
-DA  - FEB
-PY  - 2024
-VL  - 151
-C7  - 107238
-DO  - 10.1016/j.icheatmasstransfer.2023.107238
-C6  - JAN 2024
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001156136200001
-N1  - Times Cited in Web of Science Core Collection:  14
-Total Times Cited:  14
-Cited Reference Count:  204
-ER  -
-
-TY  - JOUR
-AU  - Bozkurt, A
-TI  - GenAI et al.: Cocreation, Authorship, Ownership, Academic Ethics and Integrity in a Time of Generative AI
-T2  - OPEN PRAXIS
-LA  - English
-KW  - Generative AI
-KW  - GenAI
-KW  - artificial intelligence
-KW  - AI
-KW  - AIEd
-KW  - chatbots
-KW  - conversational agents
-KW  - education
-KW  - teaching
-KW  - learning
-KW  - higher education
-KW  - educational technology
-KW  - GPT
-KW  - generative pre-trained transformer
-KW  - ChatGPT
-KW  - large language models
-KW  - LLMs
-KW  - natural language processing
-KW  - collaboration
-KW  - cocreating
-KW  - academic writing
-KW  - transparency in research
-KW  - authorship
-KW  - ownership
-KW  - ethics
-KW  - academic integrity
-KW  - CHATGPT
-AB  - This paper investigates the complex interplay between generative artificial intelligence (AI) and human intellect in academic writing and publishing. It examines the 'organic versus synthetic' paradox, emphasizing the implications of using generative AI tools in educational and academic integrity contexts. The paper critiques the prevalent 'publish or perish' culture in academia, highlighting the need for systemic reevaluation due to generative AI's emerging role in academic writing and reporting. It delves into the legal and ethical challenges of authorship and ownership, especially in relation to copyright laws and AI -generated content. The paper discusses generative AI's diverse roles and advocates for transparent reporting to uphold academic integrity. Additionally, it calls for a broader examination of generative AI tools and stresses the need for new mechanisms to identify generative AI use and ensure adherence to academic integrity and ethics. The implications of generative AI are also explored, suggesting the need for innovative AI -inclusive strategies in academia. The paper concludes by emphasizing the significance of generative AI in various informationprocessing domains, highlighting the urgency to adapt and transform academic practices in an era of rapid generative AI -driven change.
-AD  - Tripura Univ, Agartala, Tripura, IndiaC3  - Tripura UniversityFU  - Anadolu University [SBA -2023-1852]
-FX  - This paper is funded by Anadolu University with grant number SBA -2023-1852.
-PU  - INT COUNCIL OPEN & DISTANCE EDUCATION
-PI  - OSLO
-PA  - LILLEAKERVEIEN 23, OSLO, 0283, NORWAY
-SN  - 2304-070X
-J9  - OPEN PRAX
-JI  - Open Prax.
-PY  - 2024
-VL  - 16
-IS  - 1
-SP  - 1
-EP  - 10
-DO  - 10.55982/openpraxis.16.1.654
-WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001204361200009
-N1  - Times Cited in Web of Science Core Collection:  11
-Total Times Cited:  11
-Cited Reference Count:  59
-ER  -
-
-TY  - JOUR
-AU  - Gilbert, S
-TI  - The EU passes the AI Act and its implications for digital medicine are unclear
-T2  - NPJ DIGITAL MEDICINE
-LA  - English
-AB  - On 13 March 2024, the much-anticipated AI Act was passed by the EU parliament and will soon be adopted as EU law. It will apply new requirements for developers and deployers of AI-enabled digital health tools (DHTs), including for a defined class of high-risk AI systems and for general-purpose AI. Although the text of the law is available, complete in all but the final checks of legal wording much is still not known about how the AI Act will affect the digital health landscape in the EU and beyond. The wording of many aspects of the Act is ambiguous, and often high-level objectives are stated, with the detail to come later in associated guidance, standards, and member state law and policy. It is also uncertain how the Act will intersect with pre-existing sector-specific legislation for medical AI. There are future steps in the legislative process that can clarify ambiguity, including standards, guidelines, and implementing laws, and the author remains optimistic the EU will get the implementation right.
-AD  - TUD Dresden Univ Technol, Else Kroner Fresenius Ctr Digital Hlth, Dresden, GermanyPU  - NATURE PORTFOLIO
-PI  - BERLIN
-PA  - HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
-SN  - 2398-6352
-J9  - NPJ DIGIT MED
-JI  - npj Digit. Med.
-DA  - MAY 22
-PY  - 2024
-VL  - 7
-IS  - 1
-C7  - 135
-DO  - 10.1038/s41746-024-01116-6
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001229350400001
-N1  - Times Cited in Web of Science Core Collection:  10
-Total Times Cited:  10
-Cited Reference Count:  10
-ER  -
-
-TY  - JOUR
-AU  - Wang, YD
-AU  - Zong, GD
-AU  - Zhao, XD
-AU  - Yi, Y
-TI  - Adaptive practical fixed-time synchronized tracking control of ASV with prescribed performance☆
-T2  - AUTOMATICA
-LA  - English
-KW  - Autonomous surface vehicle
-KW  - Finite-time prescribed performance
-KW  - Practical fixed -time synchronized control
-KW  - Sliding mode control
-KW  - NONLINEAR-SYSTEMS
-KW  - MARINE VEHICLES
-AB  - This paper investigates the problem of adaptive practical fixed-time synchronized tracking control of autonomous surface vehicle (ASV) systems with model uncertainties and external disturbances. In order to force the tracking error to a required range, a piecewise continuous finite-time prescribed performance function (FTPPF) is employed. A sliding mode controller incorporating FTPPF is built based on the norm-normalized (NN) sign function to simultaneously follow the desired trajectory. A set of adaptive laws is proposed to estimate model uncertainties and external disturbances with the constructed sliding mode surface. Then, an adaptive sliding mode controller is designed to achieve prescribed dynamic convergence performance and tracking accuracy. Mathematically, the practical fixed-time stability of ASV systems is firmly proven and all the signals in the closed-loop system are bounded. Finally, simulations are performed utilizing Matlab/Simulink to show the availability of the acquired algorithm. (c) 2024 Elsevier Ltd. All rights are reserved, including those for text and data mining, AI training, and
-AD  - Tiangong Univ, Sch Control Sci & Engn, Tianjin 300387, Peoples R ChinaAD  - Dalian Univ Technol, Fac Elect Informat & Elect Engn, Dalian 116024, Peoples R ChinaAD  - Yangzhou Univ, Dept Informat Engn, Yangzhou 225127, Peoples R ChinaC3  - Tiangong UniversityC3  - Dalian University of TechnologyC3  - Yangzhou UniversityFU  - National Key R&D Program of China [2023YFB4706800]; Innovation Program for Quantum Science and Technology [2021ZD0300703]; National Natural Science Foundation of China [62273254, 62273199, 62071122]; Outstanding Youth Project of Guangdong Basic and Applied Basic Research Foundation [2023B1515020064]
-FX  - This work was supported in part by the National Key R&D Program of China under Grant 2023YFB4706800, in part by Innovation Program for Quantum Science and Technology under Grant 2021ZD0300703, in part by the National Natural Science Foundation of China under Grants 62273254, 62273199 and 62071122, and in part by Outstanding Youth Project of Guangdong Basic and Applied Basic Research Foundation under Grant 2023B1515020064.
-PU  - PERGAMON-ELSEVIER SCIENCE LTD
-PI  - OXFORD
-PA  - THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
-SN  - 0005-1098
-SN  - 1873-2836
-J9  - AUTOMATICA
-JI  - Automatica
-DA  - AUG
-PY  - 2024
-VL  - 166
-C7  - 111716
-DO  - 10.1016/j.automatica.2024.111716
-C6  - MAY 2024
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001243217200004
-N1  - Times Cited in Web of Science Core Collection:  10
-Total Times Cited:  10
-Cited Reference Count:  42
-ER  -
-
-TY  - JOUR
-AU  - Gholami, A
-AU  - Yao, ZW
-AU  - Kim, S
-AU  - Hooper, C
-AU  - Mahoney, MW
-AU  - Keutzer, K
-TI  - AI and Memory Wall
-T2  - IEEE MICRO
-LA  - English
-KW  - Computational modeling
-KW  - Training
-KW  - Transformers
-KW  - Bandwidth
-KW  - Arithmetic
-KW  - Hardware
-KW  - Data models
-AB  - The availability of unprecedented unsupervised training data, along with neural scaling laws, has resulted in an unprecedented surge in model size and compute requirements for serving/training large language models. However, the main performance bottleneck is increasingly shifting to memory bandwidth. Over the past 20 years, peak server hardware floating-point operations per second have been scaling at 3.0x per two years, outpacing the growth of dynamic random-access memory and interconnect bandwidth, which have only scaled at 1.6 and 1.4 times every two years, respectively. This disparity has made memory, rather than compute, the primary bottleneck in AI applications, particularly in serving. Here, we analyze encoder and decoder transformer models and show how memory bandwidth can become the dominant bottleneck for decoder models. We argue for a redesign in model architecture, training, and deployment strategies to overcome this memory limitation.
-AD  - Univ Calif Berkeley, Berkeley, CA 94720 USAAD  - Snowflake Inc, Bellevue, WA 98004 USAAD  - Univ Calif Berkeley, Dept Stat, Berkeley, CA 94720 USAAD  - Univ Calif Berkeley, Dept Elect Engn & Comp Sci, Berkeley AI Res Lab, Grad Sch, Berkeley, CA 94720 USAC3  - University of California SystemC3  - University of California BerkeleyC3  - University of California SystemC3  - University of California BerkeleyC3  - University of California SystemC3  - University of California BerkeleyPU  - IEEE COMPUTER SOC
-PI  - LOS ALAMITOS
-PA  - 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
-SN  - 0272-1732
-SN  - 1937-4143
-J9  - IEEE MICRO
-JI  - IEEE Micro
-DA  - MAY-JUN
-PY  - 2024
-VL  - 44
-IS  - 3
-SP  - 33
-EP  - 39
-DO  - 10.1109/MM.2024.3373763
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001253002000012
-N1  - Times Cited in Web of Science Core Collection:  9
-Total Times Cited:  9
-Cited Reference Count:  7
-ER  -
-
-TY  - JOUR
-AU  - Marcus, E
-AU  - Teuwen, J
-TI  - Artificial intelligence and explanation: How, why, and when to explain black boxes
-T2  - EUROPEAN JOURNAL OF RADIOLOGY
-LA  - English
-KW  - Explainable AI
-KW  - Explainability
-KW  - Black Box
-KW  - Radiology
-AB  - Artificial intelligence (AI) is infiltrating nearly all fields of science by storm. One notorious property that AI algorithms bring is their so-called black box character. In particular, they are said to be inherently unexplainable algorithms. Of course, such characteristics would pose a problem for the medical world, including radiology. The patient journey is filled with explanations along the way, from diagnoses to treatment, follow-up, and more. If we were to replace part of these steps with non-explanatory algorithms, we could lose grip on vital aspects such as finding mistakes, patient trust, and even the creation of new knowledge. In this article, we argue that, even for the darkest of black boxes, there is hope of understanding them. In particular, we compare the situation of understanding black box models to that of understanding the laws of nature in physics. In the case of physics, we are given a 'black box' law of nature, about which there is no upfront explanation. However, as current physical theories show, we can learn plenty about them. During this discussion, we present the process by which we make such explanations and the human role therein, keeping a solid focus on radiological AI situations. We will outline the AI developers' roles in this process, but also the critical role fulfilled by the practitioners, the radiologists, in providing a healthy system of continuous improvement of AI models. Furthermore, we explore the role of the explainable AI (XAI) research program in the broader context we describe.
-AD  - Netherlands Canc Inst, AI Oncol, Plesmanlaan 121, NL-1066 CX Amsterdam, NetherlandsAD  - Radboud Univ Nijmegen, Med Ctr, Dept Radiol & Nucl Med, POB 9101, NL-6500 HB Nijmegen, NetherlandsC3  - Netherlands Cancer InstituteC3  - Radboud University NijmegenFU  - Dutch Cancer Society; Dutch Ministry of Health, Welfare, and Sport
-FX  - We want to thank S. Kuypers, M. Velthoven, and C. Siemons for valuable discussions and feedback on the manuscript. Research at the Netherlands Cancer Institute is supported by institutional grants from the Dutch Cancer Society and the Dutch Ministry of Health, Welfare, and Sport.
-PU  - ELSEVIER IRELAND LTD
-PI  - CLARE
-PA  - ELSEVIER HOUSE, BROOKVALE PLAZA, EAST PARK SHANNON, CO, CLARE, 00000, IRELAND
-SN  - 0720-048X
-SN  - 1872-7727
-J9  - EUR J RADIOL
-JI  - Eur. J. Radiol.
-DA  - APR
-PY  - 2024
-VL  - 173
-C7  - 111393
-DO  - 10.1016/j.ejrad.2024.111393
-C6  - FEB 2024
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001195440600001
-N1  - Times Cited in Web of Science Core Collection:  9
-Total Times Cited:  9
-Cited Reference Count:  45
-ER  -
-
-TY  - JOUR
-AU  - Ionescu, S
-AU  - Delcea, C
-AU  - Chirita, N
-AU  - Nica, I
-TI  - Exploring the Use of Artificial Intelligence in Agent-Based Modeling Applications: A Bibliometric Study
-T2  - ALGORITHMS
-LA  - English
-KW  - bibliometric analysis
-KW  - agent-based modelling
-KW  - artificial intelligence
-KW  - complex systems
-KW  - RStudio
-KW  - VOSviewer
-KW  - Bibliometrix
-KW  - COMPLEX
-AB  - This research provides a comprehensive analysis of the dynamic interplay between agent-based modeling (ABM) and artificial intelligence (AI) through a meticulous bibliometric study. This study reveals a substantial increase in scholarly interest, particularly post-2006, peaking in 2021 and 2022, indicating a contemporary surge in research on the synergy between AI and ABM. Temporal trends and fluctuations prompt questions about influencing factors, potentially linked to technological advancements or shifts in research focus. The sustained increase in citations per document per year underscores the field's impact, with the 2021 peak suggesting cumulative influence. Reference Publication Year Spectroscopy (RPYS) reveals historical patterns, and the recent decline prompts exploration into shifts in research focus. Lotka's law is reflected in the author's contributions, supported by Pareto analysis. Journal diversity signals extensive exploration of AI applications in ABM. Identifying impactful journals and clustering them per Bradford's Law provides insights for researchers. Global scientific production dominance and regional collaboration maps emphasize the worldwide landscape. Despite acknowledging limitations, such as citation lag and interdisciplinary challenges, our study offers a global perspective with implications for future research and as a resource in the evolving AI and ABM landscape.
-AD  - Bucharest Univ Econ Studies, Dept Econ Informat & Cybernet, Bucharest 0105552, RomaniaC3  - Bucharest University of Economic StudiesFU  - Bucharest University of Economic Studies
-FX  - This paper was co-financed by the Bucharest University of Economic Studies during the Ph.D. program.
-PU  - MDPI
-PI  - BASEL
-PA  - ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
-SN  - 1999-4893
-J9  - ALGORITHMS
-JI  - Algorithms
-DA  - JAN
-PY  - 2024
-VL  - 17
-IS  - 1
-C7  - 21
-DO  - 10.3390/a17010021
-WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001148979300001
-N1  - Times Cited in Web of Science Core Collection:  9
-Total Times Cited:  9
-Cited Reference Count:  79
-ER  -
-
-TY  - JOUR
-AU  - Orusa, T
-AU  - Viani, A
-AU  - Borgogno-Mondino, E
-AU  - Suziedelyte-Visockiene, J
-TI  - Earth Observation Data and Geospatial Deep Learning AI to Assign Contributions to European Municipalities Sen4MUN: An Empirical Application in Aosta Valley (NW Italy)
-T2  - LAND
-LA  - English
-KW  - Sen4MUN
-KW  - geomatics for public administration
-KW  - Sentinel-1 & Sentinel-2
-KW  - AGEA orthophoto
-KW  - ArcGIS Pro
-KW  - land cover
-KW  - money assignment to local entities
-KW  - Europe
-KW  - Italy
-KW  - Alpine region
-KW  - LAND-COVER CHANGE
-KW  - CONVOLUTIONAL NEURAL-NETWORK
-KW  - BIG DATA APPLICATIONS
-KW  - CLIMATE-CHANGE
-KW  - ENGINE
-KW  - CHINA
-KW  - INFORMATION
-KW  - SENTINEL-1
-KW  - MISSIONS
-KW  - SUPPORT
-AB  - Nowadays, European program Copernicus' Sentinel missions have allowed the development of several application services. In this regard, to strengthen the use of free satellite data in ordinary administrative workflows, this work aims to evaluate the feasibility and prototypal development of a possible service called Sen4MUN for the distribution of contributions yearly allocated to local municipalities and scalable to all European regions. The analysis was focused on the Aosta Valley region, North West Italy. A comparison between the Ordinary Workflow (OW) and the suggested Sen4MUN approach was performed. OW is based on statistical survey and municipality declaration, while Sen4MUN is based on geospatial deep learning techniques on aerial imagery (to extract roads and buildings to get real estate units) and yearly Land Cover map components according to European EAGLE guidelines. Both methods are based on land cover components which represent the input on which the financial coefficients for assigning contributions are applied. In both approaches, buffers are applied onto urban class (LCb). This buffer was performed according to the EEA-ISPRA soil consumption guidelines to avoid underestimating some areas that are difficult to map. In the case of Sen4MUN, this is applied to overcome Sentinel sensor limits and spectral mixing issues, while in the case of OW, this is due to limits in the survey method itself. Finally, a validation was performed assuming as truth the approach defined by law as the standard, i.e., OW, although it has limitations. MAEs involving LCb, road lengths and real estate units demonstrate the effectiveness of Sen4MUN. The developed approach suggests a contribution system based on Geomatics and Remote sensing to the public administration.
-AD  - Univ Torino, Dept Agr Forest & Food Sci DISAFA, GEO4Agri DISAFA Lab, Largo Paolo Braccini 2, I-10095 Grugliasco, ItalyAD  - IN VA spa & Earth Observat Valle Daosta eoVdA, Local L Ile Blonde 5, I-11020 Brissogne, ItalyAD  - Natl Reference Ctr Wildlife Dis, Liguria Aosta Valley IZS PLV, Inst Piedmont, SC Valle Daosta CeRMAS, Local Amer 7 G, I-11020 Quart, ItalyC3  - University of TurinPU  - MDPI
-PI  - BASEL
-PA  - ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
-SN  - 2073-445X
-J9  - LAND-BASEL
-JI  - Land
-DA  - JAN
-PY  - 2024
-VL  - 13
-IS  - 1
-C7  - 80
-DO  - 10.3390/land13010080
-WE  - Social Science Citation Index (SSCI)AN  - WOS:001153003100001
-N1  - Times Cited in Web of Science Core Collection:  9
-Total Times Cited:  9
-Cited Reference Count:  96
-ER  -
-
-TY  - JOUR
-AU  - Wang, MY
-AU  - Li, X
-AU  - Tan, K
-AU  - Mango, J
-AU  - Pan, C
-AU  - Zhang, D
-TI  - Position-Aware Graph-CNN Fusion Network: An Integrated Approach Combining Geospatial Information and Graph Attention Network for Multiclass Change Detection
-T2  - IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING
-LA  - English
-KW  - Deep learning
-KW  - Geospatial analysis
-KW  - Semantics
-KW  - Remote sensing
-KW  - Convolutional neural networks
-KW  - Artificial intelligence
-KW  - Task analysis
-KW  - Geospatial artificial intelligence (GeoAI)
-KW  - graph attention network (GAT)
-KW  - multiclass change detection (MCD)
-KW  - position information encoding
-KW  - urban changes
-KW  - NET
-AB  - Urban change detection (CD) is crucial for informed decision-making but faces various challenges, including complex features, rapid changes, and extensive human interventions. These challenges underscore the urgent need for innovative multiclass CD (MCD) techniques that extensively incorporate deep learning (DL). Despite several successes achieved with the DL-based MCD methods, still certain shortcomings persist, including the disregard for spatial principles, which significantly hinders the seamless integration of geoscience-knowledge and artificial-intelligence. In this article, a novel DL model known as the position-aware graph-convolutional neural network (CNN) fusion network (PGCFN) is introduced, integrating spatial position encoding to effectively detect urban changes. The model's first part encodes geospatial positions following Tobler's first law (TFL) of geography. It then integrates encoded positions into an MCD model, combining a graph attention network (GAT) with a CNN to enhance performance. The model was tested on 0.5-m resolution remote sensing (RS) images, achieving an impressive minimum mean intersection over union (MIoU) score of 91.20%. Additionally, the model's position-aware graph attention module exhibited a strong emphasis on geographic proximity when evaluating connections between superpixels. Overall, these findings affirm that our model could effectively addresses urban CD challenges and significantly enhances the integration of geoscience knowledge and artificial intelligence (AI).
-AD  - East China Normal Univ, Key Lab Geog Informat Sci, Minist Educ, Shanghai 200241, Peoples R ChinaAD  - East China Normal Univ, Shanghai Key Lab Urban Ecol Proc & Ecorestorat, Shanghai 200241, Peoples R ChinaAD  - East China Normal Univ, Key Lab Spatial Temporal Big Data Anal & Applicat, Minist Nat Resources, Shanghai 200241, Peoples R ChinaAD  - Univ Dar Es Salaam, Dept Transportat & Geotech Engn, Dar Es Salaam, TanzaniaAD  - Shanghai Municipal Inst Surveying & Mapping, Shanghai 200063, Peoples R ChinaC3  - East China Normal UniversityC3  - East China Normal UniversityC3  - East China Normal UniversityC3  - Ministry of Natural Resources of the People's Republic of ChinaC3  - University of Dar es SalaamFU  - International Research Center of Big Data for Sustainable Development Goals
-FX  - No Statement Available
-PU  - IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
-PI  - PISCATAWAY
-PA  - 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
-SN  - 0196-2892
-SN  - 1558-0644
-J9  - IEEE T GEOSCI REMOTE
-JI  - IEEE Trans. Geosci. Remote Sensing
-PY  - 2024
-VL  - 62
-C7  - 4402016
-DO  - 10.1109/TGRS.2024.3350573
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001173248900001
-N1  - Times Cited in Web of Science Core Collection:  9
-Total Times Cited:  9
-Cited Reference Count:  50
-ER  -
-

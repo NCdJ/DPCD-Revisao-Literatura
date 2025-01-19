@@ -1,340 +1,0 @@
-﻿TY  - JOUR
-AU  - Ezrachi, A
-AU  - Stucke, ME
-TI  - ARTIFICIAL INTELLIGENCE & COLLUSION: WHEN COMPUTERS INHIBIT COMPETITION
-T2  - UNIVERSITY OF ILLINOIS LAW REVIEW
-LA  - English
-AB  - The development of self-learning and independent computers has long captured our imagination. The HAL 9000 computer, in the 1968 film, 2001: A Space Odyssey, for example, assured, "I am putting myself to the fullest possible use, which is all I think that any conscious entity can ever hope to do." Machine learning raises many challenging legal and ethical questions as to the relationship between man and machine, humans' control or lack of it over machines, and accountability for machine activities.
-   While these issues have long captivated our interest, few would envision the day when these developments (and the legal and ethical challenges raised by them) would become an antitrust issue. Sophisticated computers are central to the competitiveness of present and future markets. With the accelerating development of AI, they are set to change the competitive landscape and the nature of competitive restraints. As pricing mechanisms shift to computer pricing algorithms, so too will the types of collusion. We are shifting from the world where executives expressly collude in smoke-filled hotel rooms to a world where pricing algorithms continually monitor and adjust to each other's prices and market data.
-   Our paper addresses these developments and considers the application of competition law to an advanced "computerised trade environment." After discussing the way in which computerised technology is changing the competitive landscape, we explore four scenarios where AI can foster anticompetitive collusion and the legal and ethical challenges each scenario raises.
-AD  - Univ Oxford, Competit Law, Oxford, EnglandAD  - Univ Oxford, Ctr Competit Law & Policy, Oxford, EnglandAD  - Univ Tennessee, Coll Law, Knoxville, TN 37996 USAAD  - Data Competit Inst, Washington, DC USAC3  - University of OxfordC3  - University of OxfordC3  - University of Tennessee SystemC3  - University of Tennessee KnoxvillePU  - UNIV ILLINOIS
-PI  - CHAMPAIGN
-PA  - COLLEGE OF LAW-76 LAW BLDG 504 E PENNSYLVANIA AVE, CHAMPAIGN, IL 61820 USA
-SN  - 0276-9948
-SN  - 1942-9231
-J9  - U ILLINOIS LAW REV
-JI  - Univ. Ill. Law Rev.
-PY  - 2017
-IS  - 5
-SP  - 1775
-EP  - 1810
-WE  - Social Science Citation Index (SSCI)AN  - WOS:000415132900003
-N1  - Times Cited in Web of Science Core Collection:  70
-Total Times Cited:  75
-Cited Reference Count:  54
-ER  -
-
-TY  - JOUR
-AU  - Trzaska, Z
-AU  - Bonnefont, G
-AU  - Fantozzi, G
-AU  - Monchoux, JP
-TI  - Comparison of densification kinetics of a TiAl powder by spark plasma sintering and hot pressing
-T2  - ACTA MATERIALIA
-LA  - English
-KW  - Spark plasma sintering
-KW  - Hot pressing
-KW  - Plasticity
-KW  - Titanium aluminides
-KW  - LOW-TEMPERATURE SUPERPLASTICITY
-KW  - MECHANICAL-PROPERTIES
-KW  - ELECTRIC-FIELD
-KW  - ALLOY
-KW  - MICROSTRUCTURES
-KW  - BEHAVIOR
-KW  - CONSOLIDATION
-KW  - PRESSURE
-KW  - DIAGRAMS
-KW  - SYSTEM
-AB  - Densification kinetics by spark plasma sintering (SPS) and hot pressing (HP) have been compared, under isothermal conditions and with heating rates of 20 degrees C/min. Careful calibration of sample temperature has been carried out to obtain comparable results. In all cases, densification kinetics did not exhibit significant differences, ruling out any influence of the SPS current. The stress exponent n and the activation energy Q of the Norton law describing deformation at high temperature of the powder particles have been determined by isothermal experiments at different stresses and temperatures, respectively. The values obtained, n = 1.9 +/- 0.3 and Q = 308 +/- 20 kJ/mol for SPS, n = 1.5 +/- 0.3 and Q = 276 +/- 40 kJ/mol for HP, come close in both techniques. Using these values, anisothermal densification kinetics at heating rates of 20 degrees C/min and 100 degrees C/min, typical of the SPS, could be analytically reproduced, using literature models. The activation parameters suggest that SPS densification kinetics occurs by dislocation climb controlled by AI bulk diffusion, that is, by classical metallurgical mechanisms. (C) 2017 Acta Materialia Inc. Published by Elsevier Ltd. All rights reserved.
-AD  - CNRS, CEMES, BP 94347,29 Rue J Marvig, F-31055 Toulouse, FranceAD  - Univ Toulouse, UPS, F-31055 Toulouse, FranceAD  - INSA Lyon, MATEIS, 7 Ave J Capelle, F-69621 Villeurbanne, FranceC3  - Centre National de la Recherche Scientifique (CNRS)C3  - Universite de ToulouseC3  - Universite Toulouse III - Paul SabatierC3  - Institut National des Sciences Appliquees de Lyon - INSA LyonFU  - French Agence Nationale de la Recherche [MF2-ANR-2011-PBS09-020]
-FX  - This work has been financially supported by a grant within the framework of the MF2-ANR-2011-PBS09-020 project of the French Agence Nationale de la Recherche. SPS studies have been performed with the Sumitomo 2080 SPS machine of the Plateforme Nationale de Frittage Flash du CNRS (PNF2-CNRS, Paul Sabatier University, Toulouse, France).
-PU  - PERGAMON-ELSEVIER SCIENCE LTD
-PI  - OXFORD
-PA  - THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
-SN  - 1359-6454
-SN  - 1873-2453
-J9  - ACTA MATER
-JI  - Acta Mater.
-DA  - AUG 15
-PY  - 2017
-VL  - 135
-SP  - 1
-EP  - 13
-DO  - 10.1016/j.actamat.2017.06.004
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000407536800001
-N1  - Times Cited in Web of Science Core Collection:  45
-Total Times Cited:  47
-Cited Reference Count:  46
-ER  -
-
-TY  - JOUR
-AU  - Scalabrini, A
-AU  - Huang, Z
-AU  - Mucci, C
-AU  - Perrucci, MG
-AU  - Ferretti, A
-AU  - Fossati, A
-AU  - Romani, GL
-AU  - Northoff, G
-AU  - Ebisch, SJH
-TI  - How spontaneous brain activity and narcissistic features shape social interaction
-T2  - SCIENTIFIC REPORTS
-LA  - English
-KW  - RANGE TEMPORAL CORRELATIONS
-KW  - RESTING-STATE
-KW  - PERSONALITY-DISORDER
-KW  - DEFAULT-MODE
-KW  - CORTEX
-KW  - PREDICTION
-KW  - DYNAMICS
-KW  - EMPATHY
-KW  - REPRESENTATIONS
-KW  - VARIABILITY
-AB  - There is an increasing interest in how ongoing spontaneous brain activity and personality provide a predisposition for the processing of environmental demands. It further has been suggested that the brain has an inherent sensitivity to the social environment. Here we tested in healthy volunteers if spontaneous brain activity contributes to a predisposition for social behavior and how this is modulated by narcissistic personality features associated with poor interpersonal functioning. Functional magnetic resonance imaging included a resting state and an experimental paradigm focusing on the anticipation of actively touching an animate (human hand) versus an inanimate target (mannequin hand). The experimental task induced a significant modulation of neural activity in left postcentral gyrus (PostCG), right culmen and, co-varying with narcissistic features, in right anterior insula (AI). Neural activity in anticipation of the animate target significantly correlated with spontaneous activity during the resting state indexed by the Power Law Exponent (PLE) in PostCG and AI. Finally, the correlation between spontaneous and task-induced activity in AI was mediated by narcissistic features. These findings provide novel evidence for a relationship between intrinsic brain activity and social behavior and show how personality could contribute to individual differences in our predisposition to approach the animate world.
-AD  - G dAnnunzio Univ Chieti Pescara, Dept Neurosci Imaging & Clin Sci, Via Vestini 33, I-66013 Chieti, CH, ItalyAD  - G dAnnunzio Univ Chieti Pescara, Dept Psychol Hlth & Terr Sci DiSPuTer, Via Vestini 33, I-66013 Chieti, CH, ItalyAD  - Univ Michigan, Sch Med, Dept Anesthesiol, CPFRC, Domino Farms Lby M Ste 3100, Ann Arbor, MI USAAD  - Univ G dAnnunzio, Inst Adv Biomed Technol ITAB, Via Vestini 33, I-66013 Chieti, CH, ItalyAD  - Univ Vita Salute San Raffaele, Fac Psychol, Via Stamira DAncona 20, I-20127 Milan, MI, ItalyAD  - Univ Ottawa, Royals Inst Mental Hlth Res, 145 Carling Ave,Rm 6435, Ottawa, ON K1Z 7K4, CanadaAD  - Univ Ottawa, Brain & Mind Res Inst, Ctr Neural Dynam, Fac Med, 145 Carling Ave,Rm 6435, Ottawa, ON K1Z 7K4, CanadaC3  - G d'Annunzio University of Chieti-PescaraC3  - G d'Annunzio University of Chieti-PescaraC3  - University of Michigan SystemC3  - University of MichiganC3  - G d'Annunzio University of Chieti-PescaraC3  - Vita-Salute San Raffaele UniversityC3  - University of OttawaC3  - University of OttawaFU  - Canadian Institute of Health Research; Michael Smith Foundation; EJLB-Canadian Institute of Health Research; Canada Research Chair; National Natural Science Foundation of China [31271195]
-FX  - This work was supported by: Canadian Institute of Health Research, Michael Smith Foundation, EJLB-Canadian Institute of Health Research, Canada Research Chair to G. Northoff and by the National Natural Science Foundation of China (No. 31271195).
-PU  - NATURE PORTFOLIO
-PI  - BERLIN
-PA  - HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
-SN  - 2045-2322
-J9  - SCI REP-UK
-JI  - Sci Rep
-DA  - AUG 30
-PY  - 2017
-VL  - 7
-C7  - 9986
-DO  - 10.1038/s41598-017-10389-9
-WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:000408622400080
-N1  - Times Cited in Web of Science Core Collection:  38
-Total Times Cited:  39
-Cited Reference Count:  79
-ER  -
-
-TY  - CPAPER
-AU  - Pritt, M
-AU  - Chern, G
-A1  - IEEE
-TI  - Satellite Image Classification with Deep Learning
-T2  - 2017 IEEE APPLIED IMAGERY PATTERN RECOGNITION WORKSHOP (AIPR)
-LA  - English
-CP  - IEEE Applied Imagery Pattern Recognition Workshop (AIPR)
-KW  - artificial intelligence
-KW  - AI
-KW  - deep learning
-KW  - machine learning
-KW  - image understanding
-KW  - recognition
-KW  - classification
-KW  - satellite imagery
-AB  - Satellite imagery is important for many applications including disaster response, law enforcement, and environmental monitoring. These applications require the manual identification of objects and facilities in the imagery. Because the geographic expanses to be covered are great and the analysts available to conduct the searches are few, automation is required. Yet traditional object detection and classification algorithms are too inaccurate and unreliable to solve the problem. Deep learning is a family of machine learning algorithms that have shown promise for the automation of such tasks. It has achieved success in image understanding by means of convolutional neural networks. In this paper we apply them to the problem of object and facility recognition in high-resolution, multi-spectral satellite imagery. We describe a deep learning system for classifying objects and facilities from the IARPA Functional Map of the World (fMoW) dataset into 63 different classes. The system consists of an ensemble of convolutional neural networks and additional neural networks that integrate satellite metadata with image features. It is implemented in Python using the Keras and TensorFlow deep learning libraries and runs on a Linux server with an NVIDIA Titan X graphics card. At the time of writing the system is in 2nd place in the fMoW TopCoder competition. Its total accuracy is 83% the F-1 score is 0.797, and it classifies 15 of the classes with accuracies of 95% or better.
-AD  - Lockheed Martin Space, Gaithersburg, MD 20879 USAAD  - Lockheed Martin Space, Palo Alto, CA USAFU  - Mission Systems Capabilities Director at Lockheed Martin
-FX  - We would like to acknowledge our YellowSubmarine teammates in the fMoW challenge, Brian Gonzalez and Ryan Soldin. We would also like to thank Girard Andres, Mission Systems Capabilities Director at Lockheed Martin, for sponsoring the team.
-PU  - IEEE
-PI  - NEW YORK
-PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
-SN  - 1550-5219
-SN  - 978-1-5386-1235-4
-J9  - IEEE APP IMG PAT
-PY  - 2017
-WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000454739700035
-N1  - Times Cited in Web of Science Core Collection:  30
-Total Times Cited:  30
-Cited Reference Count:  28
-ER  -
-
-TY  - JOUR
-AU  - Hull, SC
-AU  - Wilson, DR
-TI  - Beyond Belmont: Ensuring Respect for AI/AN Communities Through Tribal IRBs, Laws, and Policies
-T2  - AMERICAN JOURNAL OF BIOETHICS
-LA  - English
-AD  - NIH, 10 Ctr Dr,Suite 1C118, Bethesda, MD 20892 USAC3  - National Institutes of Health (NIH) - USAFU  - Intramural NIH HHS [Z99 HG999999] Funding Source: Medline
-PU  - ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
-PI  - ABINGDON
-PA  - 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
-SN  - 1526-5161
-SN  - 1536-0075
-J9  - AM J BIOETHICS
-JI  - Am. J. Bioeth.
-PY  - 2017
-VL  - 17
-IS  - 7
-SP  - 60
-EP  - 62
-DO  - 10.1080/15265161.2017.1328531
-WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:000404444300020
-N1  - Times Cited in Web of Science Core Collection:  26
-Total Times Cited:  44
-Cited Reference Count:  9
-ER  -
-
-TY  - CPAPER
-AU  - Pagallo, U
-ED  - Sierra, C
-TI  - From Automation to Autonomous Systems: A Legal Phenomenology with Problems of Accountability
-T2  - PROCEEDINGS OF THE TWENTY-SIXTH INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE
-LA  - English
-CP  - 26th International Joint Conference on Artificial Intelligence (IJCAI)
-KW  - LAW
-AB  - Over the past decades a considerable amount of work has been devoted to the notion of autonomy and the intelligence of robots and of AI systems: depending on the application, several standards on the "levels of automation" have been proposed. Although current AI systems may have the intelligence of a fridge, or of a toaster, some of such autonomous systems have already challenged basic pillars of society and the law, e.g. whether lethal force should ever be permitted to be "fully automated." The aim of this paper is to show that the normative challenges of AI entail different types of accountability that go hand-in-hand with choices of technological dependence, delegation of cognitive tasks, and trust. The stronger the social cohesion is, the higher the risks that can be socially accepted through the normative assessment of the not fully predictable consequences of tasks and decisions entrusted to AI systems and artificial agents.
-AD  - Univ Turin, Law Sch, Turin, ItalyC3  - University of TurinPU  - IJCAI-INT JOINT CONF ARTIF INTELL
-PI  - FREIBURG
-PA  - ALBERT-LUDWIGS UNIV FREIBURG GEORGES-KOHLER-ALLEE, INST INFORMATIK, GEB 052, FREIBURG, D-79110, GERMANY
-SN  - 978-0-9992411-0-3
-PY  - 2017
-SP  - 17
-EP  - 23
-WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000764137500003
-N1  - Times Cited in Web of Science Core Collection:  16
-Total Times Cited:  17
-Cited Reference Count:  28
-ER  -
-
-TY  - CPAPER
-AU  - Persaud, P
-AU  - Varde, AS
-AU  - Robila, SA
-A1  - IEEE
-TI  - Enhancing Autonomous Vehicles with Commonsense <i>Smart Mobility in Smart Cities</i>
-T2  - 2017 IEEE 29TH INTERNATIONAL CONFERENCE ON TOOLS WITH ARTIFICIAL INTELLIGENCE (ICTAI 2017)
-LA  - English
-CP  - 29th Annual IEEE International Conference on Tools with Artificial Intelligence (ICTAI)
-KW  - Automated driving
-KW  - AI and Law
-KW  - Commonsense knowledge
-KW  - Domain KBs
-KW  - Object detection
-KW  - Smart mobility
-AB  - Recent advances in AI include a Law firm hiring a robot lawyer and companies developing autonomous vehicles with robot drivers. Findings from our study have gauged the current cognitive capacity of such systems, indicating areas for improvement. We focus on autonomous vehicles, i.e., those that conduct automated driving and need to make autonomous, i.e., independent decisions. We propose an approach enabled with commonsense knowledge (CSK) from worldwide repositories to simulate intuitive humanlike decision-making in autonomous vehicles. We consider the repository WebChild with a multitude of CSK concepts, properties and relations. We investigate this and related domain-specific knowledge bases (domain KBs) to harness them within our proposed approach. Accordingly we build a transportation domain KB incorporating CSK and the needs of autonomous vehicles. This would be useful in guiding automated driving and making the systems get closer to the thresholds of human cognition. This work thereby makes contributions to smart mobility in smart cities. The paper presents our vision with design, implementation, experiments, recommendations and a future roadmap. As a broader impact, it propels more joint work between AI, Law and related areas.
-AD  - Rutgers State Univ, Ctr Law & Justice, Newark, NJ 07102 USAAD  - Montclair State Univ, Dept Comp Sci, Montclair, NJ USAC3  - Rutgers University SystemC3  - Rutgers University New BrunswickC3  - Rutgers University NewarkC3  - Montclair State UniversityFU  - NSF's LSAMP; Faculty Scholarship Program at MSU
-FX  - Much of this research occurred when Priya Persaud was a BS CS student at Montclair State University (MSU) funded by NSF's LSAMP. We sincerely thank Niket Tandon from Allen Institute for Artificial Intelligence, Seattle, WA, for his valuable inputs and for access to relevant parts of the WebChild code. Early work on this started when Aparna Varde was visiting researcher at Max Planck Institute for Informatics, Saarbruecken, Germany. Stefan Robila's research is supported by a Faculty Scholarship Program at MSU.
-PU  - IEEE
-PI  - NEW YORK
-PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
-SN  - 1082-3409
-SN  - 978-1-5386-3876-7
-J9  - PROC INT C TOOLS ART
-PY  - 2017
-SP  - 1008
-EP  - 1012
-DO  - 10.1109/ICTAI.2017.00155
-WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000435294700144
-N1  - Times Cited in Web of Science Core Collection:  16
-Total Times Cited:  18
-Cited Reference Count:  21
-ER  -
-
-TY  - JOUR
-AU  - Liu, R
-AU  - Ding, Z
-TI  - Stability of viscous film flow coating the interior of a vertical tube with a porous wall
-T2  - PHYSICAL REVIEW E
-LA  - English
-KW  - DROP FORMATION
-KW  - FLUID-FLOW
-KW  - THIN-FILM
-KW  - BEADS
-AB  - The stability of the gravity-driven flow of a viscous film coating the inside of a tube with a porous wall is studied theoretically. We used Darcy's law to describe the motion of fluids in a porous medium. The Beaver-Joseph condition is used to describe the discontinuity of velocity at the porous-fluid interface. We derived an evolution equation for the film thickness using a long-wave approximation. The effect of velocity slip at the porous wall is identified by a parameter beta. We examine the effect of beta on the temporal stability, the absolute-convective instability (AI-CI), and the nonlinear evolution of the interface deformation. The results of the temporal stability reveal that the effect of velocity slip at the porous wall is destabilizing. The parameter beta plays an important role in determining the AI-CI behavior and the nonlinear evolution of the interface. The presence of the porous wall promotes the absolute instability and the formation of the plug in the tube.
-AD  - Gui Lin Univ Elect Technol, Sch Mech & Elect Engn, Guilin 541004, Peoples R ChinaAD  - Univ Bristol, Sch Math, Bristol BS8 1TW, Avon, EnglandC3  - Guilin University of Electronic TechnologyC3  - University of BristolFU  - National Natural Science Foundation of China [11102211]
-FX  - This work was supported by the National Natural Science Foundation of China (Grant No. 11102211).
-PU  - AMER PHYSICAL SOC
-PI  - COLLEGE PK
-PA  - ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
-SN  - 1539-3755
-SN  - 1550-2376
-J9  - PHYS REV E
-JI  - Phys. Rev. E
-DA  - MAY 1
-PY  - 2017
-VL  - 95
-IS  - 5
-C7  - 53101
-DO  - 10.1103/PhysRevE.95.053101
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000400671000005
-N1  - Times Cited in Web of Science Core Collection:  15
-Total Times Cited:  15
-Cited Reference Count:  35
-ER  -
-
-TY  - JOUR
-AU  - Niewczas, M
-AU  - Park, DY
-TI  - Flow stress and electrical resistivity in plastically deformed Al subjected to intermittent annealing
-T2  - MATERIALS SCIENCE AND ENGINEERING A-STRUCTURAL MATERIALS PROPERTIES MICROSTRUCTURE AND PROCESSING
-LA  - English
-KW  - Aluminum
-KW  - Plastic deformation
-KW  - Flow stress
-KW  - Electrical resistivity
-KW  - Dislocation density
-KW  - Constitutive relationship
-KW  - STACKING-FAULT TETRAHEDRON
-KW  - COPPER SINGLE-CRYSTALS
-KW  - ROOM-TEMPERATURE
-KW  - MICROSCOPY OBSERVATIONS
-KW  - MOLECULAR-DYNAMICS
-KW  - LARGE STRAINS
-KW  - PART I
-KW  - DEFORMATION
-KW  - SLIP
-KW  - DISLOCATIONS
-AB  - The behaviour of the flow stress and electrical resistivity has been studied in pure Al polycrystals deformed at 4 K with intermittent annealing at temperatures up to 298 K. Electrical resistivity measurements permit discrimination between regimes of plastic flow determined by dislocation-dislocation interactions and dislocation-debris interactions. Continued deformation at 4 K occurs under dynamic quasi-equilibrium controlled by dislocation-dislocation interactions. This regime is represented by a Taylor-type stress-dislocation density relationship, tau approximate to 0.2 mu b root rho. The onset of immediate post-yielding deformation in annealed samples is dominated by dislocation-debris interactions and is characterized by a high rate of dislocation production and a low rate of flow stress increase than determined by dislocation-forest interactions. Upon annealing to 298 K, AI shows two regimes of correlated stress and resistivity recovery, controlled by the amount of energy release during annealing. The relationship between flow stress and density of dislocations for the component of recoverable and unrecoverable defects has been assessed from the experimental measurement data for two different scaling laws. It is found that while Taylor-type equation, T proportional to root rho, gives good estimates of the flow stress for the density of dislocations determined from resistivity results in continuously deformed samples, it distorts considerably stress-dislocation density dependence in samples subjected to intermittent annealing.
-AD  - McMaster Univ, Mat Sci & Engn, Hamilton, ON, CanadaAD  - Nat Resources Canada, CanmetMAT, Calgary, AB, CanadaC3  - McMaster UniversityC3  - Natural Resources CanadaC3  - Innovation Energy & Technology Sector - Natural Resources CanadaC3  - CanmetMATERIALSFU  - Natural Sciences and Engineering Research Council of Canada; Initiative for Automotive Manufacturing Innovation at McMaster University
-FX  - The authors acknowledge Natural Sciences and Engineering Research Council of Canada under Discovery Grants Program "Plastic Deformation of Materials at Low Temperatures" and Initiative for Automotive Manufacturing Innovation at McMaster University for financial support.
-PU  - ELSEVIER SCIENCE SA
-PI  - LAUSANNE
-PA  - PO BOX 564, 1001 LAUSANNE, SWITZERLAND
-SN  - 0921-5093
-SN  - 1873-4936
-J9  - MAT SCI ENG A-STRUCT
-JI  - Mater. Sci. Eng. A-Struct. Mater. Prop. Microstruct. Process.
-DA  - OCT 26
-PY  - 2017
-VL  - 706
-SP  - 256
-EP  - 268
-DO  - 10.1016/j.msea.2017.09.003
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000413284400029
-N1  - Times Cited in Web of Science Core Collection:  12
-Total Times Cited:  12
-Cited Reference Count:  58
-ER  -
-
-TY  - JOUR
-AU  - Barratt, BB
-TI  - Opening to the otherwise: The discipline of listening and the necessity of free-association for psychoanalytic praxis
-T2  - INTERNATIONAL JOURNAL OF PSYCHOANALYSIS
-LA  - English
-KW  - repressed
-KW  - free-association
-KW  - other texts
-KW  - otherwise meaningfulness
-KW  - unconscious
-KW  - psychosynthetic methods
-KW  - INFERENCE
-AB  - Translations of summary It is argued that only free-association methodically opens the discourse of self-consciousness (the representations available to reflective awareness) to the voicing of the repressed. The method is key to Freud's originality and the sine qua non of any genuinely psychoanalytic process. Clinical procedures which do not prioritize a steadfast and ongoing commitment to this method (instead emphasizing either interpretative formulations, as decisive acts that appear to fix and finalize the meaning of a particular lived experience, or the vicissitudes of transference-countertransference in the immediate treatment situation) all too readily entrap the treatment, limiting its capacity to divulge the power of unconscious processes. Influenced by Laplanche, Freud's 1920 principles of lifefulness and deathfulness (the binding and unbinding of psychic energy in representations) facilitate an understanding of the unique significance of free-associative discourse in opening the representational textuality of self-consciousness to the voicing of that which is otherwise than representationality and reason. The otherwise' is intimated as the returning force of the repressed, as the unfathomable navel' of thing-presentations,' experienced and expressed within the text of awareness, yet not translatable into the law and order of its logical and rhetorical reflections. Free-associative discourse thus affects self-consciousness in a way that is radically different from other creative procedures (psychosynthetic' or integratively interpretive). In this respect, the status of free-associative praxis as necessary for a genuinely psychoanalytic process is justified.
-   S'ouvrir a l'autrement: la discipline de l'ecoute et la necessite de la libre association dans la pratique analytique L'auteur de cet article fait valoir que seule la libre association permet d'ouvrir methodiquement le discours de la conscience de soi (les representations accessibles a la conscience reflexive) a la voix du refoule. Cette methode est la clef de voute de l'originalite de Freud et la condition sine qua non de tout processus analytique veritable. Les protocoles cliniques qui ne donnent pas la priorite a un engagement inebranlable et constant en faveur de cette methode (et qui, en lieu et place, privilegient ou bien des formulations interpretatives, en tant qu'actes decisifs qui semblent fixer et finaliser le sens d'une experience vecue particuliere, ou bien les vicissitudes du transfert/contre-transfert dans l'immediatete de la situation therapeutique), prennent rapidement au piege le traitement, en limitant sa capacite de reveler le pouvoir des processus inconscients. Sous l'influence de Laplanche, les principes de vie et de mort theorises par Freud en 1920 (l'union et la desunion de l'energie psychique au sein des representations) favorisent la comprehension de l'importance unique du discours librement associatif, qui ouvre la textualite representationnelle de la conscience de soi a la voix de l'alterite, dans un au-dela de la representation et de la raison. Cet << autrement >> se donne a entendre comme la force du refoule qui fait retour, comme << l'ombilic insondable >> de la << representation de chose >>, qui est eprouvee et exprimee au sein du texte de la conscience, mais qui reste cependant intraduisible, la langue demeurant soumise a la loi et et a l'ordre de la logique et de la rhetorique reflexives. Le discours de la libre association affecte ainsi la conscience de soi d'une facon qui differe radicalement des autres traitements createurs (<< psychosynthetiques >> ou interpretatifs et integratifs). A cet egard, la position en faveur d'une pratique de la libre association comme condition necessaire pour un processus analytique veritable, est amplement justifiee.
-   Den Diskurs fur das anders Seiende offnen: Die Disziplin des Zuhorens und warum die freie Assoziation fur die psychoanalytische Praxis unabdingbar ist Der Autor vertritt die These, dass das Verdrangte nur durch die freie Assoziation in den Diskurs der Selbstbewusstheit (der dem reflexiven Gewahrsein zuganglichen Reprasentationen) einbezogen und in Worte gefasst werden kann. Die Methode ist fur Freuds Neuerung zentral und bildet das Sine qua non eines genuin psychoanalytischen Prozesses. Klinische Verfahren, die sich ihr nicht unverbruchlich verpflichtet sehen (und stattdessen entweder deutende Formulierungen, die die Bedeutung einer bestimmten gelebten Erfahrung ein fur alle Mal zu fixieren scheinen, als ausschlaggebend betonen oder aber die Schicksale der ubertragung und Gegenubertragung im Hier und Jetzt der Behandlungssituation), beschneiden das Potential der Behandlung, die Macht des unbewussten Prozesses offenzulegen. Mit Laplanche gelesen, erleichtern die von Freud 1920 beschriebenen Lebens- und Todeskrafte (die Bindung und Entbindung psychischer Energie in Reprasentationen) ein Verstandnis der einzigartigen Signifikanz des frei-assoziativen Diskurses, der die reprasentative Textualitat der Selbstbewusstheit fur die Auaerung dessen offnet, was anders ist als Reprasentationalitat und Vernunft. Dieses anders Seiende wird als wiederkehrende Kraft des Verdrangten, als unergrundlicher Nabel der Sachvorstellungen, gefurchtet. Es wird erlebt und ausgedruckt im Text des Gewahrseins, ist aber nicht ubersetzbar in das Gesetz und die Ordnung seiner logischen und rhetorischen Reflexionen. Daher wirkt der frei-assoziative Diskurs auf die Selbstbewusstsein in einer Weise ein, die sich radikal von anderen kreativen (psychosynthetischen oder integrativ deutenden) Verfahren unterscheidet. Unter diesem Blickwinkel betrachtet, ist der Status der frei-assoziativen Praxis als unabdingbare Voraussetzung eines genuin psychoanalytischen Prozesses gerechtfertigt.
-   Aprirsi a ci che e altro. La disciplina dell'ascolto e la necessita delle associazioni libere nella pratica analitica L'autore sostiene che solo il metodo delle associazioni libere consente di aprire il discorso della coscienza di se (ossia dell'insieme delle rappresentazioni disponibili alla consapevolezza riflessiva) all'espressione del rimosso. Questo specifico metodo costituisce peraltro uno dei pilastri dell'originalita di Freud, ed e condizione necessaria di qualsiasi processo autenticamente psicoanalitico. Gli orientamenti clinici per i quali il metodo associativo non rappresenta una priorita da mantenere con impegno saldo e costante (orientamenti che privilegiano di volta in volta le formulazioni interpretative come atti decisivi che sembrano fissare una volta per tutte il significato di un particolare vissuto, oppure le vicissitudini del transfert e del controtransfert nel qui e ora della situazione analitica) dimostrano infatti un'eccessiva propensita a imbrigliare il trattamento, limitandone in tal modo la capacita di rivelare la potenza dei processi inconsci. Osservati attraverso la filigrana di Laplanche, i principi del Freud degli Anni 20 di vitalita e apparenza della morte (principi che rinviano rispettivamente all'idea di un legame e di uno slegamento dell'energia psichica nelle rappresentazioni) aiutano a comprendere meglio la particolare importanza che il discorso delle associazioni libere riveste nell'aprire la testualita delle rappresentazioni legate alla coscienza di se all'espressione di ci che appartiene a un ambito altro da quello della rappresentabilita e della ragione. Questa intrinseca alterita e qui intesa come la forza del rimosso che ritorna, come l'insondabile ombelico di rappresentazioni di cosa esperite ed espresse all'interno del testo della consapevolezza ma al tempo stesso non traducibili nella legge e nell'ordine che di tale testo caratterizzano la logica e la retorica. Il discorso delle associazioni libere ha dunque sulla coscienza di se un impatto radicalmente diverso rispetto ad altri tipi di procedure creative (psicosintetiche o integrativo-interpretative). In questo senso, lo status delle associazioni libere, quello cioe di prassi necessaria ai fini di un processo autententicamente psicoanalitico, appare pienamente giustificato.
-   Abrirse a lo otro: La disciplina de la escucha y la necesidad de la asociacion libre en la practica psicoanalitica Se argumenta que solo la asociacion libre abre de manera metodica el discurso de la autoconciencia (las representaciones accesibles a la conciencia reflexiva) a la expresion de lo reprimido. El metodo es clave para la originalidad de Freud y el sine qua non de cualquier proceso genuinamente psicoanalitico. Los procedimientos clinicos que no priorizan el compromiso continuo y firme con este metodo (dando enfasis, en cambio, a formulaciones interpretativas, como actos decisivos que parecen fijar y concretar el significado de una experiencia vivida particular, o a vicisitudes de la transferencia-contratransferencia en la situacion inmediata del tratamiento), entrampan facilmente el tratamiento, lo cual limita su capacidad de divulgar el poder de los procesos inconscientes. Por influencia de Laplanche, los principios de vida y muerte de 1920 de Freud (ligazon y no ligazon de la energia psiquica en representaciones) facilitan la comprension de la importancia singular del discurso de la asociacion libre en la apertura de la textualidad representacional de la autoconciencia, para dar voz a aquello otro que es distinto a la representacionalidad y a la razon. Se da a entender que aquello otro es la fuerza del retorno de lo reprimido, el ombligo insondable de las presentaciones de cosa, experimentado y expresado dentro del texto de la conciencia, y sin embargo no traducible a la ley y el orden de sus reflexiones logicas y retoricas. Asi, el discurso de la asociacion libre afecta la autoconciencia de una manera radicalmente diferente de otros procesos creativos (psicosinteticos o interpretativos integradores). En este sentido, se justifica que, para que un proceso sea genuinamente psicoanalitico, se considere necesaria la practica de la asociacion libre.
-AD  - Univ Witwatersrand, Wits Inst Social & Econ Res, Heritage Stone House,122 Virginia Ave, ZA-2196 Johannesburg, South AfricaAD  - South African Psychoanalyt Assoc, Heritage Stone House,122 Virginia Ave, ZA-2196 Johannesburg, South AfricaC3  - University of WitwatersrandPU  - TAYLOR & FRANCIS LTD
-PI  - ABINGDON
-PA  - 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
-SN  - 0020-7578
-SN  - 1745-8315
-J9  - INT J PSYCHOANAL
-JI  - Int. J. Psychoanal.
-DA  - FEB
-PY  - 2017
-VL  - 98
-IS  - 1
-SP  - 39
-EP  - 53
-DO  - 10.1111/1745-8315.12563
-WE  - Social Science Citation Index (SSCI)AN  - WOS:000395039200005
-N1  - Times Cited in Web of Science Core Collection:  12
-Total Times Cited:  13
-Cited Reference Count:  69
-ER  -
-

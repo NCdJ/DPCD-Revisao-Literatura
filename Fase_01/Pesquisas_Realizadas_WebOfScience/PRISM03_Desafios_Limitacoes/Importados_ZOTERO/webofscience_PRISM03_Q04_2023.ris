@@ -1,400 +1,0 @@
-﻿TY  - JOUR
-AU  - Moshawrab, M
-AU  - Adda, M
-AU  - Bouzouane, A
-AU  - Ibrahim, H
-AU  - Raad, A
-TI  - Reviewing Federated Machine Learning and Its Use in Diseases Prediction
-T2  - SENSORS
-LA  - English
-KW  - federated machine learning
-KW  - federated learning
-KW  - privacy preservation
-KW  - aggregation algorithms
-KW  - diseases prediction
-KW  - cardiovascular diseases
-KW  - diabetes
-KW  - cancer
-KW  - smart wearables
-KW  - smart health
-KW  - CANCER-PATIENTS
-KW  - PRIVACY
-KW  - AGGREGATION
-KW  - CHALLENGES
-KW  - OUTCOMES
-KW  - GAME
-KW  - LAW
-KW  - GO
-AB  - Machine learning (ML) has succeeded in improving our daily routines by enabling automation and improved decision making in a variety of industries such as healthcare, finance, and transportation, resulting in increased efficiency and production. However, the development and widespread use of this technology has been significantly hampered by concerns about data privacy, confidentiality, and sensitivity, particularly in healthcare and finance. The "data hunger" of ML describes how additional data can increase performance and accuracy, which is why this question arises. Federated learning (FL) has emerged as a technology that helps solve the privacy problem by eliminating the need to send data to a primary server and collect it where it is processed and the model is trained. To maintain privacy and improve model performance, FL shares parameters rather than data during training, in contrast to the typical ML practice of sending user data during model development. Although FL is still in its infancy, there are already applications in various industries such as healthcare, finance, transportation, and others. In addition, 32% of companies have implemented or plan to implement federated learning in the next 12-24 months, according to the latest figures from KPMG, which forecasts an increase in investment in this area from USD 107 million in 2020 to USD 538 million in 2025. In this context, this article reviews federated learning, describes it technically, differentiates it from other technologies, and discusses current FL aggregation algorithms. It also discusses the use of FL in the diagnosis of cardiovascular disease, diabetes, and cancer. Finally, the problems hindering progress in this area and future strategies to overcome these limitations are discussed in detail.
-AD  - Univ Quebec Rimouski, Dept Math Informat & Genie, 300 Allee Ursulines, Rimouski, PQ G5L 3A1, CanadaAD  - Univ Quebec Chicoutimi, Dept Informat & Math, 555 Blvd Univ, Chicoutimi, PQ G7H 2B1, CanadaAD  - Inst Technol Maintenance Ind, 175 Rue Verendrye, Sept Iles, PQ G4R 5B7, CanadaAD  - Islamic Univ Lebanon, Fac Arts & Sci, POB 30014, Wardaniyeh 30014, LebanonC3  - University of QuebecC3  - Universite du Quebec a RimouskiC3  - University of QuebecC3  - University of Quebec ChicoutimiPU  - MDPI
-PI  - BASEL
-PA  - ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
-SN  - 1424-8220
-J9  - SENSORS-BASEL
-JI  - Sensors
-DA  - FEB
-PY  - 2023
-VL  - 23
-IS  - 4
-C7  - 2112
-DO  - 10.3390/s23042112
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000941392200001
-N1  - Times Cited in Web of Science Core Collection:  31
-Total Times Cited:  31
-Cited Reference Count:  150
-ER  -
-
-TY  - JOUR
-AU  - Wang, SC
-AU  - Li, Y
-AU  - Wang, DC
-AU  - Zhang, WY
-AU  - Chen, X
-AU  - Dong, DN
-AU  - Wang, SQ
-AU  - Zhang, XM
-AU  - Lin, P
-AU  - Gallicchio, C
-AU  - Xu, XX
-AU  - Liu, Q
-AU  - Cheng, KT
-AU  - Wang, ZR
-AU  - Shang, DS
-AU  - Liu, M
-TI  - Echo state graph neural networks with analogue random resistive memory arrays
-T2  - NATURE MACHINE INTELLIGENCE
-LA  - English
-KW  - CLASSIFICATION
-AB  - Recent years have witnessed a surge of interest in learning representations of graph-structured data, with applications from social networks to drug discovery. However, graph neural networks, the machine learning models for handling graph-structured data, face significant challenges when running on conventional digital hardware, including the slowdown of Moore's law due to transistor scaling limits and the von Neumann bottleneck incurred by physically separated memory and processing units, as well as a high training cost. Here we present a hardware-software co-design to address these challenges, by designing an echo state graph neural network based on random resistive memory arrays, which are built from low-cost, nanoscale and stackable resistors for efficient in-memory computing. This approach leverages the intrinsic stochasticity of dielectric breakdown in resistive switching to implement random projections in hardware for an echo state network that effectively minimizes the training complexity thanks to its fixed and random weights. The system demonstrates state-of-the-art performance on both graph classification using the MUTAG and COLLAB datasets and node classification using the CORA dataset, achieving 2.16x, 35.42x and 40.37x improvements in energy efficiency for a projected random resistive memory-based hybrid analogue-digital system over a state-of-the-art graphics processing unit and 99.35%, 99.99% and 91.40% reductions of backward pass complexity compared with conventional graph learning. The results point to a promising direction for next-generation artificial intelligence systems for graph learning.
-   Co-designing hardware platforms and neural network software can help improve the computational efficiency and training affordability of deep learning implementations. A new approach designed for graph learning with echo state neural networks makes use of in-memory computing with resistive memory and shows up to a 35 times improvement in the energy efficiency and 99% reduction in training cost for graph classification on large datasets.
-AD  - Univ Hong Kong, Dept Elect & Elect Engn, Hong Kong, Peoples R ChinaAD  - Chinese Acad Sci, Inst Microelect, Key Lab Microelect Devices & Integrated Technol, Beijing, Peoples R ChinaAD  - InnoHK Ctr, ACCESS AI Chip Ctr Emerging Smart Syst, Hong Kong, Peoples R ChinaAD  - Univ Chinese Acad Sci, Beijing, Peoples R ChinaAD  - Fudan Univ, Frontier Inst Chip & Syst, Shanghai, Peoples R ChinaAD  - Zhejiang Univ, Coll Comp Sci & Technol, Hangzhou, Zhejiang, Peoples R ChinaAD  - Univ Pisa, Dept Comp Sci, Pisa, ItalyAD  - Hong Kong Univ Sci & Technol, Dept Elect & Comp Engn, Hong Kong, Peoples R ChinaC3  - University of Hong KongC3  - Chinese Academy of SciencesC3  - Institute of Microelectronics, CASC3  - Chinese Academy of SciencesC3  - University of Chinese Academy of Sciences, CASC3  - Fudan UniversityC3  - Zhejiang UniversityC3  - University of PisaC3  - Hong Kong University of Science & TechnologyFU  - National Key R&D Program of China [2018YFA0701500]; National Natural Science Foundation of China [62122004, 61874138, 61888102, 61821091]; Strategic Priority Research Program of the Chinese Academy of Sciences [XDB44000000]; Beijing Natural Science Foundation [Z210006]; Hong Kong Research Grant Council [27206321, 17205922]; Innovation and Technology Commission of Hong Kong [MHP/066/20]; ACCESS - AI Chip Center for Emerging Smart Systems - Innovation and Technology Fund, Hong Kong SAR
-FX  - This research is supported by the National Key R&D Program of China (grant no. 2018YFA0701500), the National Natural Science Foundation of China (grant nos. 62122004, 61874138, 61888102 and 61821091), the Strategic Priority Research Program of the Chinese Academy of Sciences (grant no. XDB44000000), Beijing Natural Science Foundation (grant no. Z210006), the Hong Kong Research Grant Council (grant Nos. 27206321 and 17205922) and the Innovation and Technology Commission of Hong Kong (grant no. MHP/066/20). This research is also partially supported by ACCESS - AI Chip Center for Emerging Smart Systems, sponsored by Innovation and Technology Fund, Hong Kong SAR. We thank Y. Jiang, Y. Gao, Y. Ding, J. Chen and J. Yue for their kind help and advice.
-PU  - NATURE PORTFOLIO
-PI  - BERLIN
-PA  - HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
-SN  - 2522-5839
-J9  - NAT MACH INTELL
-JI  - Nat. Mach. Intell.
-DA  - FEB
-PY  - 2023
-VL  - 5
-IS  - 2
-SP  - 104
-EP  - +
-DO  - 10.1038/s42256-023-00609-5
-C6  - FEB 2023
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000930411100001
-N1  - Times Cited in Web of Science Core Collection:  29
-Total Times Cited:  32
-Cited Reference Count:  68
-ER  -
-
-TY  - JOUR
-AU  - Rokhshad, R
-AU  - Ducret, M
-AU  - Chaurasia, A
-AU  - Karteva, T
-AU  - Radenkovic, M
-AU  - Roganovic, J
-AU  - Hamdan, M
-AU  - Mohammad-Rahimi, H
-AU  - Krois, J
-AU  - Lahoud, P
-AU  - Schwendicke, F
-TI  - Ethical considerations on artificial intelligence in dentistry: A framework and checklist
-T2  - JOURNAL OF DENTISTRY
-LA  - English
-KW  - Artificial intelligence
-KW  - Bioethics
-KW  - Deep learning
-KW  - Dentistry
-KW  - Machine learning
-AB  - Objective: Artificial Intelligence (AI) refers to the ability of machines to perform cognitive and intellectual human tasks. In dentistry, AI offers the potential to enhance diagnostic accuracy, improve patient outcomes and streamline workflows. The present study provides a framework and a checklist to evaluate AI applications in dentistry from this perspective.Methods: Lending from existing guidance documents, an initial draft of the checklist and an explanatory paper were derived and discussed among the groups members.Results: The checklist was consented to in an anonymous voting process by 29 Topic Group Dental Diagnostics and Digital Dentistry, ITU/WHO Focus Group AI on Health's members. Overall, 11 principles were identified (diversity, transparency, wellness, privacy protection, solidarity, equity, prudence, law and governance, sustainable development, accountability, and responsibility, respect of autonomy, decision-making).Conclusions: Providers, patients, researchers, industry, and other stakeholders should consider these principles when developing, implementing, or receiving AI applications in dentistry.Clinical Significance: While AI has become increasingly commonplace in dentistry, there are ethical concerns around its usage, and users (providers, patients, and other stakeholders), as well as the industry should consider these when developing, implementing, or receiving AI applications based on comprehensive framework to address the associated ethical challenges.
-AD  - ITU WHO Focus Grp Hlth, Top Grp Dent Diagnost & Digital Dent, Berlin, GermanyAD  - Univ Lyon, Univ Claude Bernard Lyon, Fac Odontol, Lyon, FranceAD  - King Georges Med Univ, Dept Oral Med & Radiol, Lucknow, IndiaAD  - Univ Puthisashtra, Fac Dent, Phnom Penh, CambodiaAD  - Med Univ Plovdiv, Fac Dent Med, Dept Operat Dent & Endodont, Plovdiv, BulgariaAD  - Univ Belgrade, Fac Med, Dept Pharmacol Clin Pharmacol & Toxicol, Belgrade, SerbiaAD  - Univ Belgrade, Sch Dent Med, Dept Pharmacol Dent, Belgrade, SerbiaAD  - Marquette Univ, Gen Dent Sci Dept, Sch Dent, Milwaukee, WI USAAD  - Charite Univ Med Berlin, Dept Oral Diagnost, Digital Hlth & Hlth Serv Res, Berlin, GermanyAD  - Katholieke Univ Leuven, Dept Oral & MaxilloFacial Surg & Imaging & Pathol, OMFS IMPATH Res Grp, Leuven, BelgiumAD  - Katholieke Univ Leuven, Dept Oral Hlth Sci, Div Periodontol & Oral Microbiol, Leuven, BelgiumC3  - Universite Claude Bernard Lyon 1C3  - King George's Medical UniversityC3  - Medical University PlovdivC3  - University of BelgradeC3  - University of BelgradeC3  - Marquette UniversityC3  - Berlin Institute of HealthC3  - Free University of BerlinC3  - Humboldt University of BerlinC3  - Charite Universitatsmedizin BerlinC3  - KU LeuvenC3  - KU LeuvenPU  - ELSEVIER SCI LTD
-PI  - London
-PA  - 125 London Wall, London, ENGLAND
-SN  - 0300-5712
-SN  - 1879-176X
-J9  - J DENT
-JI  - J. Dent.
-DA  - AUG
-PY  - 2023
-VL  - 135
-C7  - 104593
-DO  - 10.1016/j.jdent.2023.104593
-C6  - JUL 2023
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001031874200001
-N1  - Times Cited in Web of Science Core Collection:  25
-Total Times Cited:  25
-Cited Reference Count:  49
-ER  -
-
-TY  - JOUR
-AU  - Brauneck, A
-AU  - Schmalhorst, L
-AU  - Majdabadi, MMK
-AU  - Bakhtiari, M
-AU  - Völker, U
-AU  - Baumbach, J
-AU  - Baumbach, L
-AU  - Buchholtz, G
-TI  - Federated Machine Learning, Privacy-Enhancing Technologies, and Data Protection Laws in Medical Research: Scoping Review
-T2  - JOURNAL OF MEDICAL INTERNET RESEARCH
-LA  - English
-KW  - federated learning
-KW  - data protection regulation
-KW  - data protection by design
-KW  - privacy protection
-KW  - General Data Protection Regulation compliance
-KW  - GDPR compliance
-KW  - privacy-preserving technologies
-KW  - differential privacy
-KW  - secure multiparty computation
-AB  - Background: The collection, storage, and analysis of large data sets are relevant in many sectors. Especially in the medical field, the processing of patient data promises great progress in personalized health care. However, it is strictly regulated, such as by the General Data Protection Regulation (GDPR). These regulations mandate strict data security and data protection and, thus, create major challenges for collecting and using large data sets. Technologies such as federated learning (FL), especially paired with differential privacy (DP) and secure multiparty computation (SMPC), aim to solve these challenges. Objective: This scoping review aimed to summarize the current discussion on the legal questions and concerns related to FL systems in medical research. We were particularly interested in whether and to what extent FL applications and training processes are compliant with the GDPR data protection law and whether the use of the aforementioned privacy-enhancing technologies (DP and SMPC) affects this legal compliance. We placed special emphasis on the consequences for medical research and development. Methods: We performed a scoping review according to the PRISMA-ScR (Preferred Reporting Items for Systematic Reviews and Meta-Analyses extension for Scoping Reviews). We reviewed articles on Beck-Online, SSRN, ScienceDirect, arXiv, and Google Scholar published in German or English between 2016 and 2022. We examined 4 questions: whether local and global models are "personal data" as per the GDPR; what the "roles" as defined by the GDPR of various parties in FL are; who controls the data at various stages of the training process; and how, if at all, the use of privacy-enhancing technologies affects these findings. Results: We identified and summarized the findings of 56 relevant publications on FL. Local and likely also global models constitute personal data according to the GDPR. FL strengthens data protection but is still vulnerable to a number of attacks and the possibility of data leakage. These concerns can be successfully addressed through the privacy-enhancing technologies SMPC Conclusions: Combining FL with SMPC and DP is necessary to fulfill the legal data protection requirements (GDPR) in medical research dealing with personal data. Even though some technical and legal challenges remain, for example, the possibility of successful attacks on the system, combining FL with SMPC and DP creates enough security to satisfy the legal requirements of the GDPR. This combination thereby provides an attractive technical solution for health institutions willing to collaborate without exposing their data to risk. From a legal perspective, the combination provides enough built-in security measures to satisfy data protection requirements, and from a technical perspective, the combination provides secure systems with comparable performance with centralized machine learning applications.
-AD  - Univ Hamburg, Hamburg Univ Fac Law, Hamburg, GermanyAD  - Univ Hamburg, Inst Computat Syst Biol, Hamburg, GermanyAD  - Univ Med Greifswald, Interfac Inst Genet & Funct Genom, Dept Funct Genom, Greifswald, GermanyAD  - Univ Southern Denmark, Computat Biomed lab, Odense, DenmarkAD  - Univ Med Ctr Hamburg Eppendorf, Dept Hlth Econ & Hlth Serv Res, Hamburg, GermanyC3  - University of HamburgC3  - University of HamburgC3  - Greifswald Medical SchoolC3  - University of Southern DenmarkC3  - University of HamburgC3  - University Medical Center Hamburg-EppendorfFU  - German Federal Ministry of Education and Research [16DTM100A, 16DTM100C]; European Union [826078]; Villum Young Investigator Grant [13154]
-FX  - This work was funded by the German Federal Ministry of Education and Research (grants 16DTM100A and 16DTM100C, TreuMed). Furthermore, our work received funding from the European Union Horizon 2020 research and innovation program under grant agreement 826078 (FeatureCloud). This publication reflects only the authors' views, and the European Commission is not responsible for any use that may be made of the information it contains. JB was partially funded by Villum Young Investigator Grant 13154.
-PU  - JMIR PUBLICATIONS, INC
-PI  - TORONTO
-PA  - 130 QUEENS QUAY East, Unit 1100, TORONTO, ON M5A 0P6, CANADA
-SN  - 1438-8871
-J9  - J MED INTERNET RES
-JI  - J. Med. Internet Res.
-DA  - MAR 30
-PY  - 2023
-VL  - 25
-C7  - e41588
-DO  - 10.2196/41588
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001006023100004
-N1  - Times Cited in Web of Science Core Collection:  18
-Total Times Cited:  18
-Cited Reference Count:  77
-ER  -
-
-TY  - JOUR
-AU  - Siccardi, S
-AU  - Villa, V
-TI  - Trends in Adopting BIM, IoT and DT for Facility Management: A Scientometric Analysis and Keyword Co-Occurrence Network Review
-T2  - BUILDINGS
-LA  - English
-KW  - BIM
-KW  - IoT
-KW  - facility management
-KW  - digital twin
-KW  - H-INDEX
-KW  - DIGITAL TWINS
-KW  - BRADFORD LAW
-KW  - BLOCKCHAIN
-KW  - CHALLENGES
-KW  - INDUSTRY
-AB  - Facility Management (FM) regards the management of buildings' assets and requires the administration of a large amount of data that must always be available, but today, they still consist of paper documents, which are susceptible to loss. This is one of the principal causes for costs increase in the Operation and Maintenance (O&M) phase, together with the lack of interoperability and communication. In recent years, the construction industry has been undergoing a process of digitalization, supported from the advent of new technologies that hit the market at low prices. This study aims to indagate the technologies introduced in in the FM sector, in addition the major authors and sources that are studying them. A bibliometric analysis is conducted on 220 documents belonging to the Scopus DB. The documents were analyzed using bibliometric analysis tools, such as Biblioshiny and VOSviewer. The results show how FM and the implementation of technologies in its practices, such as Building information modelling (BIM), Internet of Things (IoT) and Digital Twin (DT), are fields with exponential growth in recent years. Other technologies, such as blockchain, artificial intelligence (AI), machine learning (ML) and augmented reality (AR), emerged as part of digitalization in FM, which is part of the transition towards Construction 4.0.
-AD  - Politecn Torino, Dept Struct Geotech & Bldg Engn, I-10129 Turin, ItalyC3  - Polytechnic University of TurinFU  - Italian government
-FX  - This research was funded by the Italian government, through the PRIN2017 project of the Ministero dell'Istruzione, dell'Universita e della Ricerca (MIUR). The project entitled "Distributed Digital Collaboration Framework for Small and Medium-Sized Engineering and Construction Enterprises" is coordinated at the national level by Berardo Naticchia.
-PU  - MDPI
-PI  - BASEL
-PA  - ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
-SN  - 2075-5309
-J9  - BUILDINGS-BASEL
-JI  - BUILDINGS-BASEL
-DA  - JAN
-PY  - 2023
-VL  - 13
-IS  - 1
-C7  - 15
-DO  - 10.3390/buildings13010015
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000917077300001
-N1  - Times Cited in Web of Science Core Collection:  17
-Total Times Cited:  19
-Cited Reference Count:  77
-ER  -
-
-TY  - JOUR
-AU  - Torres, F
-AU  - Basaran, AC
-AU  - Schuller, IK
-TI  - Thermal Management in Neuromorphic Materials, Devices, and Networks
-T2  - ADVANCED MATERIALS
-LA  - English
-KW  - brain criticality
-KW  - neuromorphic computing
-KW  - thermal management
-KW  - thermoregulation
-KW  - RESISTIVE SWITCHING CHARACTERISTICS
-KW  - WIEDEMANN-FRANZ LAW
-KW  - PHASE-CHANGE MATERIALS
-KW  - BRAIN TEMPERATURE
-KW  - ELECTRICAL-CONDUCTIVITY
-KW  - INTEGRATED-CIRCUIT
-KW  - NEURAL COMPUTATION
-KW  - ACTION-POTENTIALS
-KW  - TANTALUM OXIDE
-KW  - THIN-FILMS
-AB  - Machine learning has experienced unprecedented growth in recent years, often referred to as an "artificial intelligence revolution." Biological systems inspire the fundamental approach for this new computing paradigm: using neural networks to classify large amounts of data into sorting categories. Current machine-learning schemes implement simulated neurons and synapses on standard computers based on a von Neumann architecture. This approach is inefficient in energy consumption, and thermal management, motivating the search for hardware-based systems that imitate the brain. Here, the present state of thermal management of neuromorphic computing technology and the challenges and opportunities of the energy-efficient implementation of neuromorphic devices are considered. The main features of brain-inspired computing and quantum materials for implementing neuromorphic devices are briefly described, the brain criticality and resistive switching-based neuromorphic devices are discussed, the energy and electrical considerations for spiking-based computation are presented, the fundamental features of the brain's thermal regulation are addressed, the physical mechanisms for thermal management and thermoelectric control of materials and neuromorphic devices are analyzed, and challenges and new avenues for implementing energy-efficient computing are described.
-AD  - Univ Chile, Fac Sci, Phys Dept, 653, Santiago 7800024, ChileAD  - Ctr Nanosci & Nanotechnol CEDENNA, Ave Ecuador 3493, Santiago 9170124, ChileAD  - Univ Calif San Diego, Dept Phys, La Jolla, CA 92093 USAAD  - Univ Calif San Diego, Ctr Adv Nanosci, La Jolla, CA 92093 USAC3  - Universidad de ChileC3  - University of California SystemC3  - University of California San DiegoC3  - University of California SystemC3  - University of California San DiegoFU  - Fondo Nacional de Investigaciones Cientificas y Tecnologicas (FONDECYT, Chile) [1211902]; U.S. Funding Agency, Air Force Office of Scientific Research (AFOSR); Air Force Office of Scientific Research [FA9550-22-1-0135]
-FX  - The authors thank two anonymous referees who have critically reviewed the manuscript and have given very useful comments. This has considerably improved this manuscript. F.T. thanks the support of Fondo Nacional de Investigaciones Cientificas y Tecnologicas (FONDECYT, Chile) under grants 1211902 and the U.S. Funding Agency, Air Force Office of Scientific Research (AFOSR). This material is based upon work supported by the Air Force Office of Scientific Research under award number FA9550-22-1-0135.
-PU  - WILEY-V C H VERLAG GMBH
-PI  - WEINHEIM
-PA  - POSTFACH 101161, 69451 WEINHEIM, GERMANY
-SN  - 0935-9648
-SN  - 1521-4095
-J9  - ADV MATER
-JI  - Adv. Mater.
-DA  - SEP
-PY  - 2023
-VL  - 35
-IS  - 37
-DO  - 10.1002/adma.202205098
-C6  - MAR 2023
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000961597500001
-N1  - Times Cited in Web of Science Core Collection:  14
-Total Times Cited:  14
-Cited Reference Count:  272
-ER  -
-
-TY  - JOUR
-AU  - Qin, JC
-AU  - Liu, ZF
-AU  - Ma, MS
-AU  - Li, YX
-TI  - Optimizing and extending ion dielectric polarizability database for microwave frequencies using machine learning methods
-T2  - NPJ COMPUTATIONAL MATERIALS
-LA  - English
-KW  - CRYSTAL-STRUCTURE
-KW  - CERAMICS
-KW  - ALKALI
-KW  - CONSTANTS
-KW  - SPECTROSCOPY
-KW  - OXIDES
-AB  - Permittivity at microwave frequencies determines the practical applications of microwave dielectric ceramics. The accuracy and universality of the permittivity prediction by Clausius-Mossotti equation depends on the dielectric polarizability (alpha(D)) database. The most influential alpha(D) database put forward by Shannon is facing three challenges in the 5 G era: (1) Few data, (2) Simplistic relation and (3) Low frequency (kHz-MHz) oriented. Here, we optimized and extended the Shannon's database for microwave frequencies by the four-stage multiple linear regression and support vector machine model. In comparison with the conventional database, the optimized and extended databases achieved higher accuracy and expanded the amount of data from 60 to more than 900. Besides, we analyzed the relationships between alpha(D) and ion characteristics, including ionic radius (IR), atomic number (N), valence state (V) and coordination number (CN). We found that the positive cubic law of "alpha(D) similar to IR3" discussed in Shannon's work was valid for the IR changed by the N, but invalid for the change caused by the CN.
-AD  - Chinese Acad Sci, Shanghai Inst Ceram, CAS Key Lab Inorgan Funct Mat & Devices, Shanghai 201899, Peoples R ChinaAD  - Univ Chinese Acad Sci, Ctr Mat Sci & Optoelect Engn, Beijing 100049, Peoples R ChinaC3  - Chinese Academy of SciencesC3  - Shanghai Institute of Ceramics, CASC3  - Chinese Academy of SciencesC3  - University of Chinese Academy of Sciences, CASFU  - National Natural Science Foundation of China [61871369]; Youth Innovation Promotion Association of CAS; Shanghai Rising-Star Program [20QA1410200]
-FX  - The authors would like to acknowledge the support from the National Natural Science Foundation of China (61871369). M.M. acknowledges the Youth Innovation Promotion Association of CAS and Shanghai Rising-Star Program (20QA1410200).
-PU  - NATURE PORTFOLIO
-PI  - BERLIN
-PA  - HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
-SN  - 2057-3960
-J9  - NPJ COMPUT MATER
-JI  - npj Comput. Mater.
-DA  - JUL 28
-PY  - 2023
-VL  - 9
-IS  - 1
-C7  - 132
-DO  - 10.1038/s41524-023-01093-6
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001039572600001
-N1  - Times Cited in Web of Science Core Collection:  13
-Total Times Cited:  13
-Cited Reference Count:  51
-ER  -
-
-TY  - JOUR
-AU  - Rupani, MP
-TI  - Challenges and opportunities for silicosis prevention and control: need for a national health program on silicosis in India
-T2  - JOURNAL OF OCCUPATIONAL MEDICINE AND TOXICOLOGY
-LA  - English
-KW  - Silica dust control
-KW  - Awareness
-KW  - Statutory provisions
-KW  - Surveillance
-KW  - Law enforcement
-KW  - India
-KW  - SLATE PENCIL WORKERS
-KW  - OCCUPATIONAL-HEALTH
-KW  - NONTUBERCULOUS MYCOBACTERIA
-KW  - CLINICAL-SIGNIFICANCE
-KW  - PARTICULATE MATTER
-KW  - TREATMENT OUTCOMES
-KW  - RISK-FACTORS
-KW  - TUBERCULOSIS
-KW  - RAJASTHAN
-KW  - EXPOSURE
-AB  - BackgroundSilicosis has been one of the most serious occupational public health problems worldwide for many decades. The global burden of silicosis is largely unknown, although it is thought to be more prevalent in low and medium-income countries. Individual studies among workers exposed to silica dust in various industries, however, reveal a high prevalence of silicosis in India. This paper is an updated review of the novel challenges and opportunities for silicosis prevention and control in India.Main bodyThe unregulated informal sector employs workers on contractual appointment thereby insulating the employers from legislative provisions. Due to a lack of awareness of the serious health risks and low-income levels, symptomatic workers tend to disregard the symptoms and continue working in dusty environments. To prevent any future dust exposure, the workers must be moved to an alternative job in the same factory where they will not be exposed to silica dust. Government regulatory bodies, on the other hand, must guarantee that factory owners relocate workers to another vocation as soon as they exhibit signs of silicosis. Technological advances such as artificial intelligence and machine learning might assist industries in implementing effective and cost-saving dust control measures. A surveillance system needs to be established for the early detection and tracking of all patients with silicosis. A pneumoconiosis elimination program encompassing health promotion, personal protection, diagnostic criteria, preventive measures, symptomatic management, prevention of silica dust exposure, treatment, and rehabilitation is felt important for wider adoption.ConclusionSilica dust exposure and its consequences are fully preventable, with the benefits of prevention considerably outweighing the benefits of treating patients with silicosis. A comprehensive national health program on silicosis within the public health system would strengthen surveillance, notification, and management of workers exposed to silica dust in India.
-AD  - ICMR Natl Inst Occupat Hlth NIOH, Indian Council Med Res, Div Hlth Sci, Clin Epidemiol, Ahmadabad 380016, Gujarat, IndiaC3  - Indian Council of Medical Research (ICMR)C3  - ICMR - National Institute of Occupational Health (NIOH)PU  - BMC
-PI  - LONDON
-PA  - CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
-SN  - 1745-6673
-J9  - J OCCUP MED TOXICOL
-JI  - J. Occup. Med. Toxicol.
-DA  - JUL 11
-PY  - 2023
-VL  - 18
-IS  - 1
-C7  - 11
-DO  - 10.1186/s12995-023-00379-1
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001026461100001
-N1  - Times Cited in Web of Science Core Collection:  13
-Total Times Cited:  13
-Cited Reference Count:  100
-ER  -
-
-TY  - JOUR
-AU  - Xu, XY
-AU  - Jin, XM
-TI  - Integrated Photonic Computing beyond the von Neumann Architecture
-T2  - ACS PHOTONICS
-LA  - English
-KW  - photonic computing
-KW  - integrated photonics
-KW  - NP-hard problem
-KW  - quantum technology
-KW  - time-of-flight storage
-KW  - QUANTUM COMPUTATIONAL ADVANTAGE
-KW  - INVERSE DESIGN
-AB  - In the context of a doomed end of the Moore's law, various new types of computing architectures have been emerging, aiming to meet the demands of intractable computation and artificial intelligence. Photonic computing is a competitive candidate, in light of the inherent properties of photons, including high propagation speed, strong robustness, and multiple degrees of freedom to encode information. Also, the progress of integrated photonics continues to provide novel possibilities, apart from boosting the scalability and stability of photonic computing architectures. Moreover, an introduction of quantum technology might open a new chapter for photonic computing, from the view of single photons. In this Perspective, we highlight the unique features and advances of integrated photonic platforms, whose roles in constructing a non-von Neumann computing architecture are also outlined. We show their potential in solving problems beyond the reach of traditional computers and in machine learning and further discuss the conceivable challenges and opportunities.
-AD  - Shanghai Jiao Tong Univ, Ctr Integrated Quantum Informat Technol IQIT, Sch Phys & Astron, Shanghai 200240, Peoples R ChinaAD  - Shanghai Jiao Tong Univ, State Key Lab Adv Opt Commun Syst & Networks, Shanghai 200240, Peoples R ChinaAD  - Hefei Natl Lab, Hefei 230088, Peoples R ChinaAD  - Turing Q Co Ltd, Shanghai 200240, Peoples R ChinaAD  - Shanghai Jiao Tong Univ, Chip Hub Integrated Photon Xplore CHIPX, Wuxi 214000, Peoples R ChinaC3  - Shanghai Jiao Tong UniversityC3  - Shanghai Jiao Tong UniversityC3  - Hefei National LaboratoryC3  - Shanghai Jiao Tong UniversityFU  - National Key R&D Program of China [2019YFA0308700, 2019YFA0706302, 2017YFA0303700]; National Natural Science Foundation of China (NSFC) [12104299, 61734005, 11761141014, 11690033]; Science and Technology Commission of Shanghai Municipality (STCSM) [20JC1416300, 2019SHZDZX01]; Shanghai Municipal Education Commission (SMEC) [2017-01-07-00-02-E00049]; China Postdoctoral Science Foundation [2021M692094, 2022T150415]; Shanghai talent program; Zhiyuan Innovative Research Center of Shanghai Jiao Tong University
-FX  - This research is supported by the National Key R&D Program of China (2019YFA0308700, 2019YFA0706302, and 2017YFA0303700) ; National Natural Science Foundation of China (NSFC; 12104299, 61734005, 11761141014, 11690033) ; Science and Technology Commission of Shanghai Municipality (STCSM; 20JC1416300, 2019SHZDZX01) ; Shanghai Municipal Education Commission (SMEC; 2017-01-07-00-02-E00049) ; China Postdoctoral Science Foundation (2021M692094, 2022T150415) . X.-M.J. acknowledges addi-tional support from a Shanghai talent program and support from Zhiyuan Innovative Research Center of Shanghai Jiao Tong University.
-PU  - AMER CHEMICAL SOC
-PI  - WASHINGTON
-PA  - 1155 16TH ST, NW, WASHINGTON, DC 20036 USA
-SN  - 2330-4022
-J9  - ACS PHOTONICS
-JI  - ACS Photonics
-DA  - APR 19
-PY  - 2023
-VL  - 10
-IS  - 4
-SP  - 1027
-EP  - 1036
-DO  - 10.1021/acsphotonics.2c01543
-C6  - FEB 2023
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000942352600001
-N1  - Times Cited in Web of Science Core Collection:  13
-Total Times Cited:  13
-Cited Reference Count:  79
-ER  -
-
-TY  - JOUR
-AU  - Drabiak, K
-AU  - Kyzer, S
-AU  - Nemov, V
-AU  - El Naqa, I
-TI  - AI and machine learning ethics, law, diversity, and global impact
-T2  - BRITISH JOURNAL OF RADIOLOGY
-LA  - English
-KW  - CLINICAL DECISION-SUPPORT
-KW  - COMPUTER-AIDED DETECTION
-KW  - ARTIFICIAL-INTELLIGENCE
-KW  - CANCER
-KW  - PREDICTION
-KW  - DIAGNOSIS
-KW  - SELECTION
-AB  - Artificial intelligence (AI) and its machine learning (ML) algorithms are offering new promise for personalized biomedicine and more cost-effective healthcare with impressive technical capability to mimic human cognitive capabilities. However, widespread application of this promising technology has been limited in the medical domain and expectations have been tampered by ethical challenges and concerns regarding patient privacy, legal responsibility, trustworthiness, and fairness. To balance technical innovation with ethical applications of AI/ML, developers must demonstrate the AI functions as intended and adopt strategies to minimize the risks for failure or bias. This review describes the new ethical challenges created by AI/ML for clinical care and identifies specific considerations for its practice in medicine. We provide an overview of regulatory and legal issues applicable in Europe and the United States, a description of technical aspects to consider, and present recommendations for trustworthy AI/ML that promote transparency, minimize risks of bias or error, and protect the patient well-being.
-AD  - Univ S Florida, Coll Publ Hlth & Med, Tampa, FL USAAD  - H Lee Moffitt Canc Ctr & Res Inst, Dept Machine Learning, Tampa, FL 33612 USAC3  - State University System of FloridaC3  - University of South FloridaC3  - H Lee Moffitt Cancer Center & Research InstituteFU  - National Institute of Health (NIH) [R37- CA222215, R01- CA266803, R01- CA233487]; Department of Defense (DoD) [W81XWH2210277]; RISE Summer Scholars Program at the University of South Florida Morsani College of Medicine
-FX  - IEN acknowledges support from National Institute of Health (NIH) grants R37- CA222215, R01- CA266803 and R01- CA233487 and Department of Defense (DoD) W81XWH2210277. VN acknowledges support from the RISE Summer Scholars Program at the University of South Florida Morsani College of Medicine.
-PU  - OXFORD UNIV PRESS
-PI  - OXFORD
-PA  - GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
-SN  - 0007-1285
-SN  - 1748-880X
-J9  - BRIT J RADIOL
-JI  - Br. J. Radiol.
-DA  - OCT 1
-PY  - 2023
-VL  - 96
-IS  - 1150
-C7  - 20220934
-DO  - 10.1259/bjr.20220934
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001133124000018
-N1  - Times Cited in Web of Science Core Collection:  11
-Total Times Cited:  11
-Cited Reference Count:  85
-ER  -
-

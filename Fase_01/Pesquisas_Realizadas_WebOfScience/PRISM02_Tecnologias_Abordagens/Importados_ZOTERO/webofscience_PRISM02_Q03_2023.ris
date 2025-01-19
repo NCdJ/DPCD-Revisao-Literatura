@@ -1,331 +1,0 @@
-﻿TY  - JOUR
-AU  - Budler, LC
-AU  - Gosak, L
-AU  - Stiglic, G
-TI  - Review of artificial intelligence-based question-answering systems in healthcare
-T2  - WILEY INTERDISCIPLINARY REVIEWS-DATA MINING AND KNOWLEDGE DISCOVERY
-LA  - English
-KW  - artificial intelligence
-KW  - conversational agents
-KW  - ChatGPT
-KW  - health care
-KW  - machine learning
-KW  - EMBODIED CONVERSATIONAL AGENT
-KW  - ASSISTANT
-KW  - CHATBOT
-KW  - FEASIBILITY
-AB  - Use of conversational agents, like chatbots, avatars, and robots is increasing worldwide. Yet, their effectiveness in health care is largely unknown. The aim of this advanced review was to assess the use and effectiveness of conversational agents in various fields of health care. A literature search, analysis, and synthesis were conducted in February 2022 in PubMed and CINAHL. The included evidence was analyzed narratively by employing the principles of thematic analysis. We reviewed articles on artificial intelligence-based question-answering systems in health care. Most of the identified articles report its effectiveness; less is known about its use. We outlined study findings and explored directions of future research, to provide evidence-based knowledge about artificial intelligence-based question-answering systems.This article is categorized under:Fundamental Concepts of Data and Knowledge > Human Centricity and User InteractionApplication Areas > Health CareTechnologies > Artificial Intelligence
-AD  - Univ Maribor, Fac Hlth Sci, Maribor, SloveniaAD  - Univ Maribor, Fac Elect Engn & Comp Sci, Maribor, SloveniaAD  - Univ Edinburgh, Usher Inst, Edinburgh, ScotlandAD  - Univ Maribor, Fac Hlth Sci, Zitna Ul 15, Maribor 2000, SloveniaC3  - University of MariborC3  - University of MariborC3  - University of EdinburghC3  - University of MariborPU  - WILEY PERIODICALS, INC
-PI  - SAN FRANCISCO
-PA  - ONE MONTGOMERY ST, SUITE 1200, SAN FRANCISCO, CA 94104 USA
-SN  - 1942-4787
-SN  - 1942-4795
-J9  - WIRES DATA MIN KNOWL
-JI  - Wiley Interdiscip. Rev.-Data Mining Knowl. Discov.
-DA  - MAR
-PY  - 2023
-VL  - 13
-IS  - 2
-DO  - 10.1002/widm.1487
-C6  - JAN 2023
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000909897600001
-N1  - Times Cited in Web of Science Core Collection:  19
-Total Times Cited:  19
-Cited Reference Count:  86
-ER  -
-
-TY  - JOUR
-AU  - Tohma, K
-AU  - Okur, HI
-AU  - Kutlu, Y
-AU  - Sertbas, A
-TI  - Sentiment Analysis in Turkish Question Answering Systems: An Application of Human-Robot Interaction
-T2  - IEEE ACCESS
-LA  - English
-KW  - Artificial intelligence
-KW  - natural language processing
-KW  - question answering
-KW  - sentiment analysis
-AB  - The use of the sentiment analysis technique, which aims to extract emotions and thoughts from texts, has become a remarkable research topic today, where the importance of human-robot interaction is gradually increasing. In this study, a new hybrid sentiment analysis model is proposed using machine learning algorithms to increase emotional performance for Turkish question and answer systems. In this context, as a first, we apply text preprocessing steps to the Turkish question-answer-emotion dataset. Subsequently, we convert the preprocessed question and answer texts into text vector form using Pretrained Turkish BERT Model and two different word representation methods, TF-IDF and word2vec. Additionally, we incorporate pre-determined polarity vectors containing the positive and negative scores of words into the question-answer text vector. As a result of this study, we propose a new hybrid sentiment analysis model. We separate vectorized and expanded question-answer text vectors into training and testing data and train and test them with machine learning algorithms. By employing this previously unused method in Turkish question-answering systems, we achieve an accuracy value of up to 91.05% in sentiment analysis. Consequently, this study contributes to making human-robot interactions in Turkish more realistic and sensitive.
-AD  - Iskenderun Tech Univ, Dept Comp Engn, TR-31200 Iskenderun, TurkiyeAD  - Istanbul Univ Cerrahpasa, Dept Comp Engn, TR-34452 Istanbul, TurkiyeC3  - Iskenderun Technical UniversityC3  - Istanbul University - CerrahpasaPU  - IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
-PI  - PISCATAWAY
-PA  - 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
-SN  - 2169-3536
-J9  - IEEE ACCESS
-JI  - IEEE Access
-PY  - 2023
-VL  - 11
-SP  - 66522
-EP  - 66534
-DO  - 10.1109/ACCESS.2023.3291592
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001028871500001
-N1  - Times Cited in Web of Science Core Collection:  5
-Total Times Cited:  5
-Cited Reference Count:  61
-ER  -
-
-TY  - JOUR
-AU  - Chen, ZY
-AU  - Xie, FK
-AU  - Wan, M
-AU  - Yuan, Y
-AU  - Liu, M
-AU  - Wang, ZG
-AU  - Meng, S
-AU  - Wang, YG
-TI  - MatChat: A large language model and application service platform for materials science
-T2  - CHINESE PHYSICS B
-LA  - English
-KW  - MatChat
-KW  - materials science
-KW  - generative artificial intelligence
-KW  - 81.05.Zx
-KW  - 01.50.hv
-KW  - 81.16.Be
-AB  - The prediction of chemical synthesis pathways plays a pivotal role in materials science research. Challenges, such as the complexity of synthesis pathways and the lack of comprehensive datasets, currently hinder our ability to predict these chemical processes accurately. However, recent advancements in generative artificial intelligence (GAI), including automated text generation and question-answering systems, coupled with fine-tuning techniques, have facilitated the deployment of large-scale AI models tailored to specific domains. In this study, we harness the power of the LLaMA2-7B model and enhance it through a learning process that incorporates 13878 pieces of structured material knowledge data. This specialized AI model, named MatChat, focuses on predicting inorganic material synthesis pathways. MatChat exhibits remarkable proficiency in generating and reasoning with knowledge in materials science. Although MatChat requires further refinement to meet the diverse material design needs, this research undeniably highlights its impressive reasoning capabilities and innovative potential in materials science. MatChat is now accessible online and open for use, with both the model and its application framework available as open source. This study establishes a robust foundation for collaborative innovation in the integration of generative AI in materials science.
-AD  - Chinese Acad Sci, Comp Network Informat Ctr, Beijing 100083, Peoples R ChinaAD  - Univ Chinese Acad Sci, Beijing 100049, Peoples R ChinaAD  - Chinese Acad Sci, Inst Phys, Beijing 100190, Peoples R ChinaAD  - Univ Chinese Acad Sci, Sch Phys Sci, Beijing 100190, Peoples R ChinaAD  - Songshan Lake Mat Lab, Dongguan 523808, Peoples R ChinaAD  - Univ Chinese Acad Sci, Ctr Mat Sci & Optoelect Engn, Beijing 100049, Peoples R ChinaC3  - Chinese Academy of SciencesC3  - Computer Network Information Center, CASC3  - Chinese Academy of SciencesC3  - University of Chinese Academy of Sciences, CASC3  - Chinese Academy of SciencesC3  - Institute of Physics, CASC3  - Chinese Academy of SciencesC3  - University of Chinese Academy of Sciences, CASC3  - Songshan Lake Materials LaboratoryC3  - Chinese Academy of SciencesC3  - University of Chinese Academy of Sciences, CASFU  - Informatization Plan of the Chinese Academy of Sciences [CAS-WX2023SF-0101]; Key Research Program of Frontier Sciences, CAS [ZDBS-LY-7025]; Youth Innovation Promotion Association CAS [2021167]; Strategic Priority Research Program of Chinese Academy of Sciences [XDB33020000]
-FX  - This work was supported by the Informatization Plan of the Chinese Academy of Sciences (Grant No. CAS-WX2023SF-0101), the Key Research Program of Frontier Sciences, CAS (Grant No. ZDBS-LY-7025), the Youth Innovation Promotion Association CAS (Grant No. 2021167), and the Strategic Priority Research Program of Chinese Academy of Sciences (Grant No. XDB33020000).
-PU  - IOP Publishing Ltd
-PI  - BRISTOL
-PA  - TEMPLE CIRCUS, TEMPLE WAY, BRISTOL BS1 6BE, ENGLAND
-SN  - 1674-1056
-SN  - 2058-3834
-J9  - CHINESE PHYS B
-JI  - Chin. Phys. B
-DA  - NOV 1
-PY  - 2023
-VL  - 32
-IS  - 11
-C7  - 118104
-DO  - 10.1088/1674-1056/ad04cb
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001121059200001
-N1  - Times Cited in Web of Science Core Collection:  4
-Total Times Cited:  5
-Cited Reference Count:  33
-ER  -
-
-TY  - JOUR
-AU  - Alrayzah, A
-AU  - Alsolami, F
-AU  - Saleh, M
-TI  - Challenges and opportunities for Arabic question-answering systems: current techniques and future directions
-T2  - PEERJ COMPUTER SCIENCE
-LA  - English
-KW  - Arabic question answering
-KW  - Arabic question answering dataset
-KW  - Transformer models
-KW  - Information retrieval
-KW  - Answer extraction
-AB  - Artificial intelligence-based question-answering (QA) systems can expedite the performance of various tasks. These systems either read passages and answer questions given in natural languages or if a question is given, they extract the most accurate answer from documents retrieved from the internet. Arabic is spoken by Arabs and Muslims and is located in the middle of the Arab world, which encompasses the Middle East and North Africa. It is difficult to use natural language processing techniques to process modern Arabic owing to the language's complex morphology, orthographic ambiguity, regional variations in spoken Arabic, and limited linguistic and technological resources. Only a few Arabic QA experiments and systems have been designed on small datasets, some of which are yet to be made available. Although several reviews of Arabic QA studies have been conducted, the number of studies covered has been limited and recent trends have not been included. To the best of our knowledge, only two systematic reviews focused on Arabic QA have been published to date. One covered only 26 primary studies without considering recent techniques, while the other covered only nine studies conducted for Holy Qur'an QA systems. Here, the included studies were analyzed in terms of the datasets used, domains covered, types of Arabic questions asked, information retrieved, the mechanism used to extract answers, and the techniques used. Based on the results of the analysis, several limitations, concerns, and recommendations for future research were identified. Additionally, a novel taxonomy was developed to categorize the techniques used based on the domains and approaches of the QA system.
-AD  - King Abdulaziz Univ, Fac Comp & Informat Technol, Jeddah, Makkah, Saudi ArabiaAD  - Najran Univ, Coll Comp Sci & Informat Syst, Najran, Saudi ArabiaC3  - King Abdulaziz UniversityC3  - Najran UniversityPU  - PEERJ INC
-PI  - LONDON
-PA  - 341-345 OLD ST, THIRD FLR, LONDON, EC1V 9LL, ENGLAND
-SN  - 2376-5992
-J9  - PEERJ COMPUT SCI
-JI  - PeerJ Comput. Sci.
-DA  - OCT 20
-PY  - 2023
-VL  - 9
-C7  - e1633
-DO  - 10.7717/peerj-cs.1633
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001087568300001
-N1  - Times Cited in Web of Science Core Collection:  1
-Total Times Cited:  1
-Cited Reference Count:  127
-ER  -
-
-TY  - JOUR
-AU  - Saoudi, Y
-AU  - Gammoudi, MM
-TI  - TRENDS AND CHALLENGES OF ARABIC CHATBOTS: LITERATURE REVIEW
-T2  - JORDANIAN JOURNAL OF COMPUTERS AND INFORMATION TECHNOLOGY
-LA  - English
-KW  - Chatbot
-KW  - LLMs
-KW  - Arabic conversational AI challenges
-KW  - Generative artificial intelligence
-KW  - Arabic question answering systems
-KW  - Taxonomy
-KW  - Performance evaluation
-AB  - Conversational systems have recently garnered increased attention due to advancements in Large Language Models (LLMs) and Language Models for Dialogue Applications (LaMDA). However, conversational Artificial Intelligence (AI) research focuses primarily on English. Despite Arabic being one of the most widely used languages on the Internet, only a few studies have concentrated on Arabic conversational dialogue systems thus far. This study presents a comprehensive qualitative analysis of critical research works in this domain to examine the strengths and limitations of existing approaches. The analysis begins with an overview of chatbot history and classification, then explores the language challenges encountered when developing Generative Arabic Conversational AI. Rule-based/Retrieval-based and deep learning-based approaches for Arabic chatbots are also examined. Furthermore, the study investigates the evolution of Generative Conversational AI with the advancements in deep-learning techniques. It also comprehensively reviews various metrics used to assess conversational systems.
-AD  - Univ Tunis El Manar, Tunis, TunisiaAD  - ISAM Manouba Univ, Manouba, TunisiaC3  - Universite de Tunis-El-ManarPU  - Princess Sumaya Univ & SRSF
-PI  - Amman
-PA  - Princess Sumaya University for Technology (PSUT), Khalil Saket Street 118, Amman, JORDAN
-SN  - 2413-9351
-SN  - 2415-1076
-J9  - JORDAN J COMPUT INFO
-JI  - Jordanian J. Comput. Info. Technol.
-DA  - SEP
-PY  - 2023
-VL  - 9
-IS  - 3
-SP  - 261
-EP  - 286
-WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001088472900006
-N1  - Times Cited in Web of Science Core Collection:  1
-Total Times Cited:  1
-Cited Reference Count:  147
-ER  -
-
-TY  - JOUR
-AU  - Yang, ZG
-AU  - Ligeti-Nagy, N
-TI  - Building machine reading comprehension model from scratch
-T2  - ANNALES MATHEMATICAE ET INFORMATICAE
-LA  - English
-AB  - In this paper, we introduce a machine reading comprehension model and how we built this model from scratch. Reading comprehension is a crucial requisite for artificial intelligence applications, such as Question-Answering systems, chatbots, virtual assistants etc. Reading comprehension task requires the highest complexity of natural language processing methods. In recent years, the transformer neural architecture could achieve the ability to solve high complexity tasks. To make these applications available in Hungarian as well it is inevitable to design a Hungarian corpus of reading comprehension so that the pretrained models can be fine-tuned on this dataset.
-   In our research, we have created the HuRC (Hungarian Reading Comprehension) corpus, which is the first dataset in Hungarian aiming to train, test and evaluate language models on a reading comprehension task. We built such a dataset based on the English ReCoRD corpus. This is a dataset of 120,000 examples consisting of news articles containing a passage and a close-style query, where a named entity is masked and the reference answer has to be found in a list.
-   Using the evaluated dataset and transformers' question-answering library, we have built the first neural machine reading comprehension models in commonsense reasoning task for Hungarian.
-AD  - Hungarian Res Ctr Linguist, Budapest, HungaryPU  - E K F LICEUM KIADO
-PI  - EGER
-PA  - ESZTERHAZY TER 1, EGER, 3300, HUNGARY
-SN  - 1787-5021
-SN  - 1787-6117
-J9  - ANN MATH INFORM
-JI  - Ann. Math. Inform.
-PY  - 2023
-VL  - 57
-SP  - 107
-EP  - 123
-DO  - 10.33039/ami.2023.03.001
-WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001081200200008
-N1  - Times Cited in Web of Science Core Collection:  1
-Total Times Cited:  1
-Cited Reference Count:  27
-ER  -
-
-TY  - CPAPER
-AU  - Chen, GB
-AU  - Luo, XD
-AU  - Zhu, JL
-ED  - Jin, Z
-ED  - Jiang, Y
-ED  - Buchmann, RA
-ED  - Bi, Y
-ED  - Ghiran, AM
-ED  - Ma, W
-TI  - A Legal Multi-Choice Question Answering Model Based on BERT and Attention
-T2  - KNOWLEDGE SCIENCE, ENGINEERING AND MANAGEMENT, PT IV, KSEM 2023
-LA  - English
-CP  - 16th International Conference on Knowledge Science, Engineering and Management (KSEM)
-KW  - Question answering
-KW  - Legal intelligence
-KW  - Attention mechanism
-KW  - Binary classification
-KW  - Pre-trained language model
-AB  - Legal question answering is one of the critical topics in the field of legal intelligence, and the judicial examination is a multi-choice question-answering task. However, previous scoring-based methods for the multi-choice task suffer from the classification bias problem and can not fully exploit the relationship between reference books, questions, and multi-choice answers. To address the issues, in this paper, we propose a BERT and attention based model for the judicial examination task. Specifically, we first use the BM25 algorithm to retrieve articles in the reference law books to provide certain information to answer a given question. Second, we input a question, its multi-choice answers, and the retrieved relevant articles to BERT for encoding. Third, we input the encoded information to the module of information fuse and match through attention mechanism to find deep relationships in articles, questions, and multi-choice answers. Finally, we concatenate the output of the attention mechanism and input it to a binary classifier to determine whether an answer option to the question is correct. We have done extensive experiments to show that our model significantly outperforms the baselines in accuracy. We also experimentally demonstrate the effectiveness of some components of our model. Moreover, we applied our method in the Challenge of AI in Law 2022 (CAIL 2022) and won the third prize in the judicial examination task in this competition.
-AD  - Guangxi Normal Univ, Sch Comp Sci & Engn, Guangxi Key Lab Multisource Informat Min & Secur, Guilin, Peoples R ChinaC3  - Guangxi Normal UniversityFU  - Research Fund of Guangxi Key Lab of Multi-source Information Mining Security [22-A-01-02]; Graduate Student Innovation Project of School of Computer Science and Engineering, Guangxi Normal University [JXXYYJSCXXM-2021-001]
-FX  - This work was partially supported by a Research Fund of Guangxi Key Lab of Multi-source Information Mining Security (22-A-01-02) and a Graduate Student Innovation Project of School of Computer Science and Engineering, Guangxi Normal University (JXXYYJSCXXM-2021-001).
-PU  - SPRINGER INTERNATIONAL PUBLISHING AG
-PI  - CHAM
-PA  - GEWERBESTRASSE 11, CHAM, CH-6330, SWITZERLAND
-SN  - 2945-9133
-SN  - 1611-3349
-SN  - 978-3-031-40291-3
-SN  - 978-3-031-40292-0
-J9  - LECT NOTES ARTIF INT
-PY  - 2023
-VL  - 14120
-SP  - 250
-EP  - 266
-DO  - 10.1007/978-3-031-40292-0_21
-WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:001295192800021
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  26
-ER  -
-
-TY  - JOUR
-AU  - Khensous, G
-AU  - Labed, K
-AU  - Labed, Z
-TI  - Exploring the evolution and applications of natural language processing in education
-T2  - ROMANIAN JOURNAL OF INFORMATION TECHNOLOGY AND AUTOMATIC CONTROL-REVISTA ROMANA DE INFORMATICA SI AUTOMATICA
-LA  - English
-KW  - NLP
-KW  - Education
-KW  - AI
-KW  - Deep Learning
-AB  - Natural Language Processing (NLP) is a branch of computer science, artificial intelligence, information engineering, and linguistics that focuses on enabling machines to understand, interpret, and generate human language. Machine translation, sentiment analysis, speech recognition, and question-answering systems are just a few examples of NLP applications. NLP has advanced rapidly in recent years, owing to the availability of large amounts of text data and the development of deep learning models, which has resulted in increased accuracy and efficiency in NLP tasks. This paper tackles the state of the art of NLP, its methodology and techniques, and its applications in different fields. The paper also discusses the role of NLP to improve education.
-AD  - Ecole Normale Super Oran ENS Oran AMMOUR Ahmed, Oran, AlgeriaPU  - INST NATL CERCETARE-DEZVOLTARE INFORMATICA-ICI
-PI  - BUCHAREST
-PA  - 8-10 MARESAL A AVERESCU AV, SECTOR 1, BUCHAREST, 011455, ROMANIA
-SN  - 1220-1758
-SN  - 1841-4303
-J9  - ROM J INF TECH AUT C
-JI  - Rom. J. Infor. Tech. Autom. Control
-PY  - 2023
-VL  - 33
-IS  - 2
-SP  - 61
-EP  - 74
-DO  - 10.33436/v33i2y202305
-WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001072199300005
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  41
-ER  -
-
-TY  - CPAPER
-AU  - Li, WQ
-AU  - Qi, XM
-AU  - Zhao, Q
-AU  - Wang, C
-AU  - Wu, QY
-AU  - Tang, XS
-A1  - ASSOC COMPUTING MACHINERY
-TI  - Knowledge Graph-Based Credibility Evaluation Method for Electric Grid Large Language Model Knowledge Question-Answering
-T2  - PROCEEDINGS OF 2023 7TH INTERNATIONAL CONFERENCE ON ELECTRONIC INFORMATION TECHNOLOGY AND COMPUTER ENGINEERING, EITCE 2023
-LA  - English
-CP  - 7th International Conference on Electronic Information Technology and Computer Engineering (EITCE)
-KW  - Knowledge Graph
-KW  - Large Language Models
-KW  - Electrical Engineering
-AB  - In the field of electricity, specialized terminology is often intricate and complex, making it challenging for non-experts to comprehend. However, with the advancement of artificial intelligence technology, the emergence of large language models provides a new technological solution to address this issue. Large language models, based on deep learning techniques, have the capability to quickly understand and interpret specialized terminology in the electricity domain through learning from a vast corpus of professional literature and data. They can then be applied to various domains, including question-answering systems. However, existing large language models still face issues of unreliable outputs, necessitating a method to evaluate their results and improve the quality of their applications. We propose a knowledge graph-based credibility evaluation method for electric grid large language model knowledge question-answering. This method aligns the answers generated by large language models with the knowledge graph of a local knowledge base and calculates their cosine similarity and Pearson correlation coefficient. We batch-process the answers from the large language model into an electricity dataset and validate them using this method. Experimental results demonstrate that this method can accurately and efficiently reflect the relevance between texts, providing a reliable scoring basis for question-answering by large models in vertical domains. Future research can focus on exploring other embedding methods that can better extract semantic relationships between texts and validating the feasibility of this method in vertical domains other than electricity.
-AD  - State Grid Shanghai Municipal Elect Power Co, Shanghai, Peoples R ChinaAD  - Donghua Univ, Shanghai, Peoples R ChinaC3  - China Southern Power GridC3  - Donghua UniversityFU  - State Grid Shanghai Municipal Electric Power Company [SGSHDK00HZQT2310224]
-FX  - This work is supported by the State Grid Shanghai Municipal Electric Power Company (No. SGSHDK00HZQT2310224)
-PU  - ASSOC COMPUTING MACHINERY
-PI  - NEW YORK
-PA  - 1601 Broadway, 10th Floor, NEW YORK, NY, UNITED STATES
-SN  - 979-8-4007-0830-5
-PY  - 2023
-SP  - 754
-EP  - 759
-DO  - 10.1145/3650400.3650526
-WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:001283896700126
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  20
-ER  -
-
-TY  - CPAPER
-AU  - Ma, DH
-AU  - Chang, KCC
-AU  - Chen, YG
-AU  - Lv, XQ
-AU  - Shen, L
-A1  - ACM
-TI  - A Principled Decomposition of Pointwise Mutual Information for Intention Template Discovery
-T2  - PROCEEDINGS OF THE 32ND ACM INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT, CIKM 2023
-LA  - English
-CP  - 32nd ACM International Conference on Information and Knowledge Management (CIKM)
-KW  - Pointwise mutual information
-KW  - Bayesian inference
-KW  - Paraphrasing
-AB  - With the rise of Artificial Intelligence (AI), question answering systems have become common for users to interact with computers, e.g., ChatGPT and Siri. These systems require a substantial amount of labeled data to train their models. However, the labeled data is scarce and challenging to be constructed. The construction process typically involves two stages: discovering potential sample candidates and manually labeling these candidates. To discover high-quality candidate samples, we study the intention paraphrase template discovery task: Given some seed questions or templates of an intention, discover new paraphrase templates that describe the intention and are diverse to the seeds enough in text. As the first exploration of the task, we identify the new quality requirements, i.e., relevance, divergence and popularity, and identify the new challenges, i.e., the paradox of divergent yet relevant paraphrases, and the conflict of popular yet relevant paraphrases. To untangle the paradox of divergent yet relevant paraphrases, in which the traditional bag of words falls short, we develop usage-centric modeling, which represents a question/template/answer as a bag of usages that users engaged (e.g., up-votes), and uses a usage-flow graph to interrelate templates, questions and answers. To balance the conflict of popular yet relevant paraphrases, we propose a new and principled decomposition for the well-known Pointwise Mutual Information from the usage perspective (usage-PMI), and then develop a Bayesian inference framework over the usage-flow graph to estimate the usage-PMI. Extensive experiments over three large CQA corpora show strong performance advantage over the baselines adopted from paraphrase identification task. We release 885, 000 paraphrase templates of high quality discovered by our proposed PMI decomposition model, and the data is available in site https://github.com/Para-Questions/Intention_template_discovery.
-AD  - Beijing Informat Sci & Technol Univ, Beijing, Peoples R ChinaAD  - Univ Illinois, Urbana, IL USAAD  - Renmin Univ China, Beijing, Peoples R ChinaAD  - Meituan Beijing, Beijing, Peoples R ChinaC3  - Beijing Information Science & Technology UniversityC3  - University of Illinois SystemC3  - University of Illinois Urbana-ChampaignC3  - Renmin University of ChinaFU  - National Key Research and Development Program [2020YFB1710004]; National Natural Science Foundation of China [62171043]; Natural Science Foundation of Beijing [4212020]; National Language Commission project [ZDI145-10, YB145-3]; National Science Foundation of China [62272466]
-FX  - This work is supported by National Key Research and Development Program (No. 2020YFB1710004), National Natural Science Foundation of China (62171043), Natural Science Foundation of Beijing (4212020), National Language Commission project (ZDI145-10, YB145-3), and the National Science Foundation of China under the grant 62272466.
-PU  - ASSOC COMPUTING MACHINERY
-PI  - NEW YORK
-PA  - 1601 Broadway, 10th Floor, NEW YORK, NY, UNITED STATES
-SN  - 979-8-4007-0124-5
-PY  - 2023
-SP  - 1746
-EP  - 1755
-DO  - 10.1145/3583780.3614767
-WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:001161549501082
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  38
-ER  -
-

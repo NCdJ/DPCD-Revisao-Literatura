@@ -1,428 +1,0 @@
-﻿TY  - JOUR
-AU  - Deng, L
-AU  - Li, GQ
-AU  - Han, S
-AU  - Shi, LP
-AU  - Xie, Y
-TI  - Model Compression and Hardware Acceleration for Neural Networks: A Comprehensive Survey
-T2  - PROCEEDINGS OF THE IEEE
-LA  - English
-KW  - Neural networks
-KW  - Tensor decomposition
-KW  - Data quantization
-KW  - Acceleration
-KW  - Program processors
-KW  - Machine learning
-KW  - Task analysis
-KW  - Compact neural network
-KW  - data quantization
-KW  - neural network acceleration
-KW  - neural network compression
-KW  - sparse neural network
-KW  - tensor decomposition
-KW  - SINGULAR-VALUE DECOMPOSITION
-KW  - TENSOR DECOMPOSITIONS
-KW  - MEMORY
-KW  - TRAIN
-KW  - COMPUTATION
-KW  - ENERGY
-KW  - ARCHITECTURES
-KW  - PREDICTION
-KW  - ACCURACY
-KW  - CNN
-AB  - Domain-specific hardware is becoming a promising topic in the backdrop of improvement slow down for general-purpose processors due to the foreseeable end of Moore's Law. Machine learning, especially deep neural networks (DNNs), has become the most dazzling domain witnessing successful applications in a wide spectrum of artificial intelligence (AI) tasks. The incomparable accuracy of DNNs is achieved by paying the cost of hungry memory consumption and high computational complexity, which greatly impedes their deployment in embedded systems. Therefore, the DNN compression concept was naturally proposed and widely used for memory saving and compute acceleration. In the past few years, a tremendous number of compression techniques have sprung up to pursue a satisfactory tradeoff between processing efficiency and application accuracy. Recently, this wave has spread to the design of neural network accelerators for gaining extremely high performance. However, the amount of related works is incredibly huge and the reported approaches are quite divergent. This research chaos motivates us to provide a comprehensive survey on the recent advances toward the goal of efficient compression and execution of DNNs without significantly compromising accuracy, involving both the high-level algorithms and their applications in hardware design. In this article, we review the mainstream compression approaches such as compact model, tensor decomposition, data quantization, and network sparsification. We explain their compression principles, evaluation metrics, sensitivity analysis, and joint-way use. Then, we answer the question of how to leverage these methods in the design of neural network accelerators and present the state-of-the-art hardware architectures. In the end, we discuss several existing issues such as fair comparison, testing workloads, automatic compression, influence on security, and framework/hardware-level support, and give promising topics in this field and the possible challenges as well. This article attempts to enable readers to quickly build up a big picture of neural network compression and acceleration, clearly evaluate various methods, and confidently get started in the right way.
-AD  - Tsinghua Univ, Ctr Brain Inspired Comp Res, Dept Precis Instrument, Beijing 100084, Peoples R ChinaAD  - Univ Calif Santa Barbara, Dept Elect & Comp Engn, Santa Barbara, CA 93106 USAAD  - Tsinghua Univ, Beijing Innovat Ctr Future Chip, Beijing 100084, Peoples R ChinaAD  - MIT, Dept Elect Engn & Comp Sci, Cambridge, MA 02139 USAC3  - Tsinghua UniversityC3  - University of California SystemC3  - University of California Santa BarbaraC3  - Tsinghua UniversityC3  - Massachusetts Institute of Technology (MIT)FU  - National Science Foundation [1725447]; Beijing Academy of Artificial Intelligence (BAAI), Tsinghua University Initiative Scientific Research Program; Institute for Guo Qiang, Tsinghua University; Division of Computing and Communication Foundations; Direct For Computer & Info Scie & Enginr [1725447] Funding Source: National Science Foundation
-FX  - This work was supported in part by the National Science Foundation under Grant 1725447; in part by the Beijing Academy of Artificial Intelligence (BAAI), Tsinghua University Initiative Scientific Research Program; and in part by the grant from the Institute for Guo Qiang, Tsinghua University.
-PU  - IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
-PI  - PISCATAWAY
-PA  - 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
-SN  - 0018-9219
-SN  - 1558-2256
-J9  - P IEEE
-JI  - Proc. IEEE
-DA  - APR
-PY  - 2020
-VL  - 108
-IS  - 4
-SP  - 485
-EP  - 532
-DO  - 10.1109/JPROC.2020.2976475
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000528671200003
-N1  - Times Cited in Web of Science Core Collection:  509
-Total Times Cited:  559
-Cited Reference Count:  307
-ER  -
-
-TY  - JOUR
-AU  - Liu, KL
-AU  - Ashwin, TR
-AU  - Hu, XS
-AU  - Lucu, M
-AU  - Widanage, WD
-TI  - An evaluation study of different modelling techniques for calendar ageing prediction of lithium-ion batteries
-T2  - RENEWABLE & SUSTAINABLE ENERGY REVIEWS
-LA  - English
-KW  - Lithium-ion battery
-KW  - Calendar ageing prediction
-KW  - Electrochemical model
-KW  - Semi-empirical model
-KW  - Data-driven model
-KW  - Electric vehicle
-KW  - REMAINING USEFUL LIFE
-KW  - OF-HEALTH ESTIMATION
-KW  - GAUSSIAN PROCESS REGRESSION
-KW  - CAPACITY FADE
-KW  - STATE
-KW  - PROGNOSTICS
-KW  - CELLS
-KW  - COMBINATION
-KW  - ENERGY
-KW  - IMPACT
-AB  - Prediction of battery calendar ageing is a key but challenging issue in the development of durable electric vehicles. This paper simultaneously evaluates three mainstream types of modelling techniques for calendar ageing prediction of Lithium-ion (Li-ion) batteries. They are the pseudo two dimensional (P2D)-based electrochemical model, Arrhenius law-based semi-empirical model, and Gaussian process regression (GPR)-based data-driven model. Specifically, both the electrochemical and semi-empirical models are consciously developed or selected from the state-of-the-art modelling literature. For the data-driven model, due to the limited research in the existing publications, a machine learning-enabled GPR model is derived and applied for calendar ageing prediction. An experimental setup is developed to load the commercial Panasonic NCR18650BD batteries and to collect the experimental calendar ageing data under different storage temperature and SOC levels over 435 days. Based upon this well-rounded database, each model is well trained through using its corresponding training solution. Then the prediction performances of these models are studied and evaluated in terms of the model accuracy, generalization ability and uncertainty management. Both the challenges and future prospects of each model type are highlighted to assist the industrial and academic research communities, thus boosting the progress of designing advanced modelling techniques in battery calendar ageing prediction domain.
-AD  - Univ Warwick, WMG, Coventry CV4 7AL, EnglandAD  - Chongqing Univ, Dept Automot Engn, Chongqing 400044, Peoples R ChinaAD  - Ikerlan Technol Res Ctr, Energy Storage & Management Area P JM Arizmendiar, Arrasate Mondragon 220500, SpainC3  - University of WarwickC3  - Chongqing UniversityFU  - European Union Horizon 2020 research and innovation programme "Silicon based materials and new processing technologies for improved lithium-ion batteries (Sintbat)" [685716]; Innovate UK through the WMG centre High Value Manufacturing (HVM) Catapult; National Natural Science Foundation of China [51875054]; Jaguar Land Rover
-FX  - This work was financially supported by the European Union Horizon 2020 research and innovation programme "Silicon based materials and new processing technologies for improved lithium-ion batteries (Sintbat)" No. 685716, the Innovate UK through the WMG centre High Value Manufacturing (HVM) Catapult in collaboration with Jaguar Land Rover, and National Natural Science Foundation of China (Grant No. 51875054).
-PU  - PERGAMON-ELSEVIER SCIENCE LTD
-PI  - OXFORD
-PA  - THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
-SN  - 1364-0321
-SN  - 1879-0690
-J9  - RENEW SUST ENERG REV
-JI  - Renew. Sust. Energ. Rev.
-DA  - OCT
-PY  - 2020
-VL  - 131
-C7  - 110017
-DO  - 10.1016/j.rser.2020.110017
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000565621800003
-N1  - Times Cited in Web of Science Core Collection:  92
-Total Times Cited:  92
-Cited Reference Count:  78
-ER  -
-
-TY  - JOUR
-AU  - Lee, SH
-AU  - Zhu, XJ
-AU  - Lu, WD
-TI  - Nanoscale resistive switching devices for memory and computing applications
-T2  - NANO RESEARCH
-LA  - English
-KW  - resistive switching
-KW  - oxygen vacancy
-KW  - metal cation
-KW  - memory application
-KW  - in-memory computing
-KW  - bio-inspired application
-KW  - MEMRISTIVE DEVICES
-KW  - FILAMENT GROWTH
-KW  - NEURAL-NETWORK
-KW  - LOGIC OPERATIONS
-KW  - CROSSBAR ARRAYS
-KW  - DYNAMICS
-KW  - CLASSIFICATION
-KW  - EFFICIENT
-KW  - STORAGE
-KW  - SYSTEM
-AB  - With the slowing down of the Moore's law and fundamental limitations due to the von-Neumann bottleneck, continued improvements in computing hardware performance become increasingly more challenging. Resistive switching (RS) devices are being extensively studied as promising candidates for next generation memory and computing applications due to their fast switching speed, excellent endurance and retention, and scaling and three-dimensional (3D) stacking capability. In particular, RS devices offer the potential to natively emulate the functions and structures of synapses and neurons, allowing them to efficiently implement neural networks (NNs) and other in-memory computing systems for data intensive applications such as machine learning tasks. In this review, we will examine the mechanisms of RS effects and discuss recent progresses in the application of RS devices for memory, deep learning accelerator, and more faithful brain-inspired computing tasks. Challenges and possible solutions at the device, algorithm, and system levels will also be discussed.
-AD  - Univ Michigan, Dept Elect Engn & Comp Sci, Ann Arbor, MI 48109 USAC3  - University of Michigan SystemC3  - University of MichiganFU  - National Science Foundation [CCF-1900675, DMR-1810119]
-FX  - The authors thank insightful discussions with Dr. M. A. Zidan and J. Moon. This work was supported by in part by the National Science Foundation through awards CCF-1900675 and DMR-1810119. W. D. L. would like to thank Charlie for his tremendous support during his stay as a postdoc in the Lieber group from 2003-2005, and for his advice that led to the conception of the initial concept of metal-ion based RS devices.
-PU  - TSINGHUA UNIV PRESS
-PI  - BEIJING
-PA  - B605D, XUE YAN BUILDING, BEIJING, 100084, PEOPLES R CHINA
-SN  - 1998-0124
-SN  - 1998-0000
-J9  - NANO RES
-JI  - Nano Res.
-DA  - MAY
-PY  - 2020
-VL  - 13
-IS  - 5
-SP  - 1228
-EP  - 1243
-DO  - 10.1007/s12274-020-2616-0
-C6  - JAN 2020
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000507801500006
-N1  - Times Cited in Web of Science Core Collection:  92
-Total Times Cited:  96
-Cited Reference Count:  138
-ER  -
-
-TY  - JOUR
-AU  - Sirignano, J
-AU  - Spiliopoulos, K
-TI  - MEAN FIELD ANALYSIS OF NEURAL NETWORKS: A LAW OF LARGE NUMBERS
-T2  - SIAM JOURNAL ON APPLIED MATHEMATICS
-LA  - English
-KW  - stochastic analysis
-KW  - weak convergence
-KW  - machine learning
-KW  - APPROXIMATION
-AB  - Machine learning, and in particular neural network models, have revolutionized fields such as image, text, and speech recognition. Today, many important real-world applications in these areas are driven by neural networks. There are also growing applications in engineering, robotics, medicine, and finance. Despite their immense success in practice, there is limited mathematical understanding of neural networks. This paper illustrates how neural networks can be studied via stochastic analysis and develops approaches for addressing some of the technical challenges which arise. We analyze one-layer neural networks in the asymptotic regime of simultaneously (a) large network sizes and (b) large numbers of stochastic gradient descent training iterations. We rigorously prove that the empirical distribution of the neural network parameters converges to the solution of a nonlinear partial differential equation. This result can be considered a law of large numbers for neural networks. In addition, a consequence of our analysis is that the trained parameters of the neural network asymptotically become independent, a property which is commonly called "propagation of chaos."
-AD  - Univ Illinois, Dept Ind & Syst Engn, Champaign, IL 61820 USAAD  - Boston Univ, Dept Math & Stat, Boston, MA 02215 USAC3  - University of Illinois SystemC3  - University of Illinois Urbana-ChampaignC3  - Boston UniversityFU  - National Science Foundation [DMS 1550918]
-FX  - The work of the second author was partially supported by the National Science Foundation through grant DMS 1550918.
-PU  - SIAM PUBLICATIONS
-PI  - PHILADELPHIA
-PA  - 3600 UNIV CITY SCIENCE CENTER, PHILADELPHIA, PA 19104-2688 USA
-SN  - 0036-1399
-SN  - 1095-712X
-J9  - SIAM J APPL MATH
-JI  - SIAM J. Appl. Math.
-PY  - 2020
-VL  - 80
-IS  - 2
-SP  - 725
-EP  - 752
-DO  - 10.1137/18M1192184
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000546834100004
-N1  - Times Cited in Web of Science Core Collection:  73
-Total Times Cited:  80
-Cited Reference Count:  56
-ER  -
-
-TY  - JOUR
-AU  - Champion, K
-AU  - Zheng, P
-AU  - Aravkin, AY
-AU  - Brunton, SL
-AU  - Kutz, JN
-TI  - A Unified Sparse Optimization Framework to Learn Parsimonious Physics-Informed Models From Data
-T2  - IEEE ACCESS
-LA  - English
-KW  - Sparse regression
-KW  - systems identification
-KW  - outlier removal
-KW  - nonconvex optimization
-KW  - IDENTIFICATION
-KW  - SYSTEMS
-AB  - Machine learning (ML) is redefining what is possible in data-intensive fields of science and engineering. However, applying ML to problems in the physical sciences comes with a unique set of challenges: scientists want physically interpretable models that can (i) generalize to predict previously unobserved behaviors, (ii) provide effective forecasting predictions (extrapolation), and (iii) be certifiable. Autonomous systems will necessarily interact with changing and uncertain environments, motivating the need for models that can accurately extrapolate based on physical principles (e.g. Newton's universal second law for classical mechanics, F=ma). Standard ML approaches have shown impressive performance for predicting dynamics in an interpolatory regime, but the resulting models often lack interpretability and fail to generalize. We build on a sparse regression framework that discovers governing dynamical systems models from data, selecting relevant terms in the dynamics from a library of possible functions. Our critically enabling innovation introduces a relaxed version of a sparse optimization framework that allows the use of non-convex sparsity promoting regularization functions and addresses three open challenges in scientific problems and data sets: (i) robust handling of outliers and corrupt data within noisy sensor measurements, (ii) parametric dependencies in candidate library functions, and (iii) the imposition of physical constraints. By explicitly addressing these open challenges, the integrated and unified algorithm developed provides a significant advancement over current state-of-the-art sparse model discovery methods. We show that the approach discovers parsimonious dynamical models on several example systems. This flexible approach can be tailored to the unique challenges associated with a wide range of applications and data sets, providing a powerful ML-based framework for learning governing models for physical systems from data.
-AD  - Univ Washington, Dept Appl Math, Seattle, WA 98195 USAAD  - Univ Washington, Dept Mech Engn, Seattle, WA 98195 USAC3  - University of WashingtonC3  - University of Washington SeattleC3  - University of WashingtonC3  - University of Washington SeattleFU  - National Science Foundation Graduate Research Fellowship [DGE-1256082]; Washington Research Foundation Data Science Professorship; Army Research Office [W911NF-19-1-0045]; Air Force Office of Scientific Research [FA9550-17-1-0329]
-FX  - This work was supported by the National Science Foundation Graduate Research Fellowship under Grant DGE-1256082. The work of Aleksandr Y. Aravkin was supported by the Washington Research Foundation Data Science Professorship. The work of Steven L. Brunton was supported by the Army Research Of~ce under Grant W911NF-19-1-0045. The work of J. Nathan Kutz was supported by the Air Force Of~ce of Scienti~c Research under Grant FA9550-17-1-0329.
-PU  - IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
-PI  - PISCATAWAY
-PA  - 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
-SN  - 2169-3536
-J9  - IEEE ACCESS
-JI  - IEEE Access
-PY  - 2020
-VL  - 8
-SP  - 169259
-EP  - 169271
-DO  - 10.1109/ACCESS.2020.3023625
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000572891800001
-N1  - Times Cited in Web of Science Core Collection:  72
-Total Times Cited:  83
-Cited Reference Count:  45
-ER  -
-
-TY  - JOUR
-AU  - Win, KN
-AU  - Li, KL
-AU  - Chen, JG
-AU  - Viger, PF
-AU  - Li, KQ
-TI  - Fingerprint classification and identification algorithms for criminal investigation: A survey
-T2  - FUTURE GENERATION COMPUTER SYSTEMS-THE INTERNATIONAL JOURNAL OF ESCIENCE
-LA  - English
-KW  - Classification
-KW  - Clustering
-KW  - Criminal investigation
-KW  - Deep learning
-KW  - Fingerprint
-KW  - Machine learning
-KW  - MINUTIAE
-KW  - ENHANCEMENT
-KW  - FEATURES
-KW  - FUSION
-KW  - VEIN
-AB  - Fingerprint plays a fundamental role in community security and criminal investigation, such as forensic investigation, law enforcement, customs access and public security organs. This can also help to provide a more enjoyable and secure life to people. Various machine learning and neural network approaches have been proposed for fingerprint acquisition, detection, classification, and analysis. In this survey, we present an up-to-date literature evaluation of fingerprint classification algorithms and fingerprint application in the area of criminal investigation. Firstly, we discuss the characteristics of fingerprint and the application in criminal investigation. In addition, we analyze and compare machine learning algorithms of fingerprint in terms of classification, matching, feature extraction, fingerprint and fingervein recognition, and spoof detection. Finally, we highlight the challenges in the fingerprint analysis and discuss the future directions. (C) 2019 Elsevier B.V. All rights reserved.
-AD  - Hunan Univ, Coll Comp Sci & Elect Engn, Changsha 410082, Peoples R ChinaAD  - Natl Supercomp Ctr Changsha, Changsha 410082, Peoples R ChinaAD  - Harbin Inst Technol, Shenzhen 518055, Peoples R ChinaAD  - SUNY Coll New Paltz, Dept Comp Sci, New Paltz, NY 12561 USAC3  - Hunan UniversityC3  - Harbin Institute of TechnologyC3  - State University of New York (SUNY) SystemC3  - SUNY New PaltzFU  - Key R&D Program of Hunan Province [2018GK2051]; Leading Talent Program of Science and Technology of Hunan Province [2017RS3025]; China Scholarship Council [201706310080]; International Postdoctoral Exchange Fellowship Program of China Postdoctoral Council [OCPC20180024]
-FX  - The authors would like to thank the anonymous reviewers for their comments and suggestions on improving the manuscript. The research was partially supported by the Key R&D Program of Hunan Province (Grant No. 2018GK2051), the Leading Talent Program of Science and Technology of Hunan Province (Grant No. 2017RS3025), the China Scholarship Council (Grant No. 201706310080), and the International Postdoctoral Exchange Fellowship Program of China Postdoctoral Council (Grant No. OCPC20180024).
-PU  - ELSEVIER
-PI  - AMSTERDAM
-PA  - RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
-SN  - 0167-739X
-SN  - 1872-7115
-J9  - FUTURE GENER COMP SY
-JI  - Futur. Gener. Comp. Syst.
-DA  - SEP
-PY  - 2020
-VL  - 110
-SP  - 758
-EP  - 771
-DO  - 10.1016/j.future.2019.10.019
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000541153400064
-N1  - Times Cited in Web of Science Core Collection:  57
-Total Times Cited:  60
-Cited Reference Count:  73
-ER  -
-
-TY  - JOUR
-AU  - Hacker, P
-AU  - Krestel, R
-AU  - Grundmann, S
-AU  - Naumann, F
-TI  - Explainable AI under contract and tort law: legal incentives and technical challenges
-T2  - ARTIFICIAL INTELLIGENCE AND LAW
-LA  - English
-KW  - Explainability
-KW  - Explainable AI
-KW  - Interpretable machine learning
-KW  - Contract law
-KW  - Tort law
-KW  - Explainability-accuracy trade-off
-KW  - Medical malpractice
-KW  - Corporate takeovers
-KW  - AUTOMATED DECISION-MAKING
-KW  - MACHINE
-KW  - INTERPRETABILITY
-KW  - MEDICINE
-AB  - This paper shows that the law, in subtle ways, may set hitherto unrecognized incentives for the adoption of explainable machine learning applications. In doing so, we make two novel contributions. First, on the legal side, we show that to avoid liability, professional actors, such as doctors and managers, may soon be legally compelled to use explainable ML models. We argue that the importance of explainability reaches far beyond data protection law, and crucially influences questions of contractual and tort liability for the use of ML models. To this effect, we conduct two legal case studies, in medical and corporate merger applications of ML. As a second contribution, we discuss the (legally required) trade-off between accuracy and explainability and demonstrate the effect in a technical case study in the context of spam classification.
-AD  - Humboldt Univ, Law Dept, Unter Linden 6, D-10099 Berlin, GermanyAD  - Univ Potsdam, Hasso Plattner Inst, Prof Dr Helmert Str 2-3, D-14482 Potsdam, GermanyC3  - Humboldt University of BerlinC3  - University of PotsdamFU  - AXA Postdoctoral Scholarship; AXA Research Fund
-FX  - The research for this article was in part (Philipp Hacker) supported by an AXA Postdoctoral Scholarship awarded by the AXA Research Fund.
-PU  - SPRINGER
-PI  - DORDRECHT
-PA  - VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
-SN  - 0924-8463
-SN  - 1572-8382
-J9  - ARTIF INTELL LAW
-JI  - Artif. Intell. Law
-DA  - DEC
-PY  - 2020
-VL  - 28
-IS  - 4
-SP  - 415
-EP  - 439
-DO  - 10.1007/s10506-020-09260-6
-C6  - JAN 2020
-WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:000507944700001
-N1  - Times Cited in Web of Science Core Collection:  47
-Total Times Cited:  49
-Cited Reference Count:  69
-ER  -
-
-TY  - JOUR
-AU  - Shah, SM
-AU  - Khan, RA
-TI  - Secondary Use of Electronic Health Record: Opportunities and Challenges
-T2  - IEEE ACCESS
-LA  - English
-KW  - Medical services
-KW  - Standards
-KW  - Data privacy
-KW  - Medical diagnostic imaging
-KW  - Electronic health records (EHR)
-KW  - ethical concerns
-KW  - general data protection regulation (GDPR)
-KW  - privacy
-KW  - secondary uses of EHR
-KW  - CLINICAL DECISION-SUPPORT
-KW  - OUTCOMES RESEARCH
-KW  - DENGUE OUTBREAK
-KW  - MENTAL-ILLNESS
-KW  - PRIVACY ISSUES
-KW  - PUBLIC-HEALTH
-KW  - MOBILE HEALTH
-KW  - DATA BREACHES
-KW  - BIG DATA
-KW  - CARE
-AB  - In the present technological era, healthcare providers generate huge amounts of clinical data on a daily basis. Generated clinical data is stored digitally in the form of Electronic Health Record (EHR) as a central data repository of hospitals. Data contained in EHR is not only used for the patients' primary care but also for various secondary purposes such as clinical research, automated disease surveillance and clinical audits for quality enhancement. Using EHR data for secondary purposes without consent or in some cases even with consent creates privacy issues. Secondly, EHR data is also made accessible to various stakeholders including different government agencies at various geographical sites through wired or wireless networks. Sharing of EHR across multiple agencies makes it vulnerable to cyber attacks and also makes it difficult to implement strict privacy laws as in some cases data is shared with organization that is governed by specific regional law. Privacy of individuals could be severely affected when their sensitive private information contained in EHR is leaked or exposed to the public. Data leaks can cause financial losses or an individual may encounter social boycott if his / her medical condition is exposed in public. To protect patients personal data from such threats, there exists different privacy regulations such as General Data Protection Regulation (GDPR), Health Insurance Portability and Accountability Act (HIPAA) and My Health Record (MHR). However, continually evolving state-of-the-art techniques in Machine Learning (ML), Data Analytics (DA) and hacking are making it even more difficult to completely protect an individual's/patient's privacy. In this article, we have systematically examined various secondary uses of EHR with the aim to highlight how these secondary uses affect patients' privacy. Secondly, we have critically analyzed GDPR & HIPAA regulations and highlighted their possible areas of improvement, considering escalating use of technology and different secondary uses of EHR.
-AD  - Barrett Hodgson Univ, Fac Informat Technol, Karachi 74900, PakistanPU  - IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
-PI  - PISCATAWAY
-PA  - 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
-SN  - 2169-3536
-J9  - IEEE ACCESS
-JI  - IEEE Access
-PY  - 2020
-VL  - 8
-SP  - 136947
-EP  - 136965
-DO  - 10.1109/ACCESS.2020.3011099
-WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:000558143200001
-N1  - Times Cited in Web of Science Core Collection:  42
-Total Times Cited:  49
-Cited Reference Count:  164
-ER  -
-
-TY  - JOUR
-AU  - Coppey, F
-AU  - Bécue, A
-AU  - Sacré, PY
-AU  - Ziemons, EM
-AU  - Hubert, P
-AU  - Esseiva, P
-TI  - Providing illicit drugs results in five seconds using ultra-portable NIR technology: An opportunity for forensic laboratories to cope with the trend toward the decentralization of forensic capabilities
-T2  - FORENSIC SCIENCE INTERNATIONAL
-LA  - English
-KW  - Forensic science
-KW  - Cocaine
-KW  - Heroin
-KW  - Cannabis
-KW  - Big data
-KW  - Machine learning
-KW  - Near infrared
-KW  - Statistical model
-KW  - Validation
-KW  - QUANTITATIVE-ANALYSIS
-KW  - HEROIN SEIZURES
-KW  - COCAINE
-KW  - SPECTROSCOPY
-KW  - SAMPLES
-AB  - The analysis of illicit drugs faces many challenges, mainly regarding the production of timely and reliable results and the production of added value from the generated data. It is essential to rethink the way this analysis is operationalised, in order to cope with the trend toward the decentralization of forensic applications. This paper describes the deployment of an ultra-portable near-infrared detector connected to a mobile application. This allows analysis and display of results to end users within 5 s. The development of prediction models and their validation, as well as strategies for deployment within law enforcement organizations and forensic laboratories are discussed. (C) 2020 Elsevier B.V. All rights reserved.
-AD  - Univ Lausanne, Sch Criminal Justice, Ecole Sci Criminelles, Bldg Batochime, CH-1015 Lausanne, SwitzerlandAD  - Univ Liege ULiege, CIRM, Vibra Sante HUB, Dept Pharm,Lab Pharmaceut Analyt Chem,CHU, Ave Hippocrate 15,B36, B-4000 Liege, BelgiumC3  - University of LausanneC3  - University of LiegeFU  - fond InnoTREK of the Technology Transfer Office of the University of Lausanne
-FX  - The authors want to thanks the support of the fond InnoTREK of the Technology Transfer Office of the University of Lausanne. We also want to thanks the illicit drugs unit of the ESC for providing the majority results of the NIR and GC-MS data.
-PU  - ELSEVIER IRELAND LTD
-PI  - CLARE
-PA  - ELSEVIER HOUSE, BROOKVALE PLAZA, EAST PARK SHANNON, CO, CLARE, 00000, IRELAND
-SN  - 0379-0738
-SN  - 1872-6283
-J9  - FORENSIC SCI INT
-JI  - Forensic Sci.Int.
-DA  - DEC
-PY  - 2020
-VL  - 317
-C7  - 110498
-DO  - 10.1016/j.forsciint.2020.110498
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000695530000006
-N1  - Times Cited in Web of Science Core Collection:  38
-Total Times Cited:  39
-Cited Reference Count:  28
-ER  -
-
-TY  - JOUR
-AU  - Xiao, M
-AU  - Yi, HB
-TI  - Building an efficient artificial intelligence model for personalized training in colleges and universities
-T2  - COMPUTER APPLICATIONS IN ENGINEERING EDUCATION
-LA  - English
-KW  - artificial intelligence
-KW  - higher education
-KW  - machine learning
-KW  - personalized training
-KW  - EDUCATION
-KW  - PERFORMANCE
-KW  - CHALLENGES
-KW  - COURSES
-KW  - IMPACT
-AB  - Higher education provides a common educational pattern to all students in colleges and universities. However, under the general law of higher education, the teaching and education of a certain category or subject has its special regularity. Besides, students in colleges and universities have different demands of education. To address the challenges in higher education, it is very important to carry out higher education reform in colleges and universities. Personalized education has been considered to be a new educational model that is a result of the individual desire of students and the development of society. Traditional methodologies of teaching in colleges and universities cannot fulfill the implementation of personalized training. Hence, it is very urgent to develop new methodologies for personalized training. Among the methodologies of realization of personalized training, artificial intelligence is one of the most important methodologies. We exploit artificial intelligence for personalize education reform. First, we analyze the information of students before entering the colleges and universities. Then, we propose a method to extract modeling features of the student information. Second, we propose a method to build a personalized training model based on artificial intelligence. Third, we propose a method to predict the development track of students based on the personalized training model. On the basis of above designs, we design personalized training for students in colleges and universities. Furthermore, we implement our design by using artificial intelligence. Besides, our design can be applied to the career planning or related areas.
-AD  - Shenzhen Polytech, Dept Logist Management, Sch Management, Shenzhen, Peoples R ChinaAD  - Shenzhen Polytech, Dept Cloud Comp Technol & Applicat, Sch Artificial Intelligence, Shenzhen 518055, Peoples R ChinaC3  - Shenzhen Polytechnic UniversityC3  - Shenzhen Polytechnic UniversityFU  - Natural Science Foundation of Guangdong Province, China [2018A030310030]; Foundation for Distinguished Young Talents in Higher Education of Guangdong, China [2017GkQNCX059]; Teaching Research and Practice Project of Guangdong Province [GDJG2019403]; special funds for Shenzhen Strategic Emerging Industries and Future Industrial Development [20170502142224600]; Teaching Research and Practice Project of Shenzhen Polytechnic [7019310019J]
-FX  - This study was supported by the Natural Science Foundation of Guangdong Province, China (No. 2018A030310030), the Foundation for Distinguished Young Talents in Higher Education of Guangdong, China (No. 2017GkQNCX059), the Teaching Research and Practice Project of Guangdong Province (No. GDJG2019403), special funds for Shenzhen Strategic Emerging Industries and Future Industrial Development (No. 20170502142224600), and the Teaching Research and Practice Project of Shenzhen Polytechnic (No. 7019310019J).
-PU  - WILEY
-PI  - HOBOKEN
-PA  - 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
-SN  - 1061-3773
-SN  - 1099-0542
-J9  - COMPUT APPL ENG EDUC
-JI  - Comput. Appl. Eng. Educ.
-DA  - MAR
-PY  - 2021
-VL  - 29
-IS  - 2
-SP  - 350
-EP  - 358
-DO  - 10.1002/cae.22235
-C6  - MAR 2020
-WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:000522302300001
-N1  - Times Cited in Web of Science Core Collection:  29
-Total Times Cited:  30
-Cited Reference Count:  33
-ER  -
-

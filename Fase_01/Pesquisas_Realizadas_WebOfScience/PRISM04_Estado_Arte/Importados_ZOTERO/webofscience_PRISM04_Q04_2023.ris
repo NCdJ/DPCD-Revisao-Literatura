@@ -1,350 +1,0 @@
-﻿TY  - JOUR
-AU  - Hacker, P
-AU  - Cordes, J
-AU  - Rochon, J
-TI  - Regulating Gatekeeper Artificial Intelligence and Data: Transparency, Access and Fairness under the Digital Markets Act, the General Data Protection Regulation and Beyond
-T2  - EUROPEAN JOURNAL OF RISK REGULATION
-LA  - English
-KW  - AI
-KW  - data
-KW  - DMA
-KW  - AUTOMATED DECISION-MAKING
-KW  - TRADE SECRETS
-KW  - INNOVATION EVIDENCE
-KW  - DISCRIMINATION
-AB  - Artificial intelligence (AI) is not only increasingly being used in business and administration contexts, but a race for its regulation is also underway, with the European Union (EU) spearheading the efforts. Contrary to existing literature, this article suggests that the most far-reaching and effective EU rules for AI applications in the digital economy will not be contained in the proposed AI Act, but in the Digital Markets Act (DMA). We analyse the impact of the DMA and related EU acts on AI models and underlying data across four key areas: disclosure requirements; the regulation of AI training data; access rules; and the regime for fair rankings. We demonstrate that fairness, under the DMA, goes beyond traditionally protected categories of non-discrimination law on which scholarship at the intersection of AI and law has focused on. Rather, we draw on competition law and the FRAND criteria known from intellectual property law to interpret and refine the DMA provisions on fair rankings. Moreover, we show how, based on Court of Justice of the European Union jurisprudence, a coherent interpretation of the concept of non-discrimination in both traditional non-discrimination and competition law may be found. The final section sketches out proposals for a comprehensive framework of transparency, access and fairness under the DMA and beyond.
-AD  - European Univ Viadrina, Chair Law & Eth Digital Soc, European New Sch Digital Studies, Frankfurt, GermanyC3  - European University Viadrina Frankfurt OderPU  - CAMBRIDGE UNIV PRESS
-PI  - CAMBRIDGE
-PA  - EDINBURGH BLDG, SHAFTESBURY RD, CB2 8RU CAMBRIDGE, ENGLAND
-SN  - 1867-299X
-SN  - 2190-8249
-J9  - EUR J RISK REGUL
-JI  - Eur. J. Risk Regul.
-DA  - MAR
-PY  - 2024
-VL  - 15
-IS  - 1
-SP  - 49
-EP  - 86
-DO  - 10.1017/err.2023.81
-C6  - DEC 2023
-WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001125220300001
-N1  - Times Cited in Web of Science Core Collection:  5
-Total Times Cited:  5
-Cited Reference Count:  221
-ER  -
-
-TY  - JOUR
-AU  - Ferreira, DB
-AU  - Gromova, EA
-TI  - Hyperrealistic Jurisprudence: The Digital Age and the (Un)Certainty of Judge Analytics
-T2  - INTERNATIONAL JOURNAL FOR THE SEMIOTICS OF LAW-REVUE INTERNATIONALE DE SEMIOTIQUE JURIDIQUE
-LA  - English
-KW  - Hyperrealism
-KW  - Legal realism
-KW  - Data analytics
-KW  - Judge analytics
-KW  - Legal decision making
-KW  - LEGAL REALISM
-KW  - JURIMETRICS
-KW  - CONCEPTIONS
-KW  - LAW
-KW  - AI
-AB  - This article is the first attempt to justify the "next" milestone in the development of legal realism: hyperrealism. The implications of digitalization have become the new fuel for the legal realist's jurisprudence prediction theory, that is, empirical research to predict the judge's or the court's decision. Indeed, that was impossible for American realists in the early twentieth century, and all the attempts failed. Therefore, tools such as Judicial Analytics allow us to prove that personal motives and prejudices affect a dispute's resolution. Based on a systemic, comparative, and interdisciplinary analysis that intermingles legal theory, data analytics and digital technologies, the article substantiates the concept of hyperrealism itself. It evaluates the advantages and disadvantages of its primary tool-judicial analytics. The authors state the necessity of creating regulatory mechanisms of "curbing" to use them to improve justice and minimize the risk of rights violations. They propose using tools of expert evaluation, standardization, and ethical regulation of forensic analysis.
-AD  - Brazilian Ctr Mediat & Arbitrat CBMA, Rio De Janeiro, BrazilAD  - South Ural State Univ, Natl Res Univ, Dept Business Law, Int Cooperat, Chelyabinsk, RussiaC3  - South Ural State UniversityPU  - SPRINGER
-PI  - DORDRECHT
-PA  - VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
-SN  - 0952-8059
-SN  - 1572-8722
-J9  - INT J SEMIOTIC LAW
-JI  - Int. J. Semiotics Law
-DA  - DEC
-PY  - 2023
-VL  - 36
-IS  - 6
-SP  - 2261
-EP  - 2281
-DO  - 10.1007/s11196-023-10015-0
-C6  - MAY 2023
-WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:000992332200001
-N1  - Times Cited in Web of Science Core Collection:  4
-Total Times Cited:  4
-Cited Reference Count:  94
-ER  -
-
-TY  - JOUR
-AU  - Chin, AHB
-AU  - Al-Balas, Q
-AU  - Ahmad, MF
-AU  - Alsomali, N
-AU  - Ghaly, M
-TI  - Islamic Perspectives on Polygenic Testing and Selection of IVF Embryos (PGT-P) for Optimal Intelligence and Other Non-Disease-Related Socially Desirable Traits
-T2  - JOURNAL OF BIOETHICAL INQUIRY
-LA  - English
-KW  - Fatwa
-KW  - Islam
-KW  - Muslims
-KW  - Polygenic Risk Scores
-KW  - Preimplantation genetic testing
-AB  - In recent years, the genetic testing and selection of IVF embryos, known as preimplantation genetic testing (PGT), has gained much traction in clinical assisted reproduction for preventing transmission of genetic defects. However, a more recent ethically and morally controversial development in PGT is its possible use in selecting IVF embryos for optimal intelligence quotient (IQ) and other non-disease-related socially desirable traits, such as tallness, fair complexion, athletic ability, and eye and hair colour, based on polygenic risk scores (PRS), in what is referred to as PGT-P. Artificial intelligence (AI) and machine learning-based analysis of big data sets collated from genome sequencing of specific human ethnic populations can be used to estimate an individual embryo's likelihood of developing such multifactorial traits by analysing the combination of specific genetic variants within its genome. Superficially, this technique appears compliant with Islamic principles and ethics. Because there is no modification of the human genome, there is no tampering with Allah's creation (taghyir khalq Allah). Nevertheless, a more critical analysis based on the five maxims of Islamic jurisprudence (qawa'id fiqhiyyah) that are often utilized in discourses on Islamic bioethics, namely qas.d (intention), yaqin (certainty), d.arar (injury), d.arura (necessity), and `urf (custom), would instead reveal some major ethical and moral flaws of this new medical technology in the selection of non-disease-related socially desirable traits, and its non-compliance with the spirit and essence of Islamic law (shariah). Muslim scholars, jurists, doctors, and biomedical scientists should debate this further and issue a fatwa on this new medical technology platform.
-AD  - Singapore Fertil & IVF Consultancy Pvt Ltd, Hong Lim Complex,531A Upper Cross St, Singapore, SingaporeAD  - Jordan Univ Sci & Technol, Fac Pharm, Dept Med Chem & Pharmacognosy, Irbid, JordanAD  - Univ Kebangsaan Malaysia, Fac Med, Dept Obstet & Gynecol, Adv Reprod Ctr ARC, Jalan Yaacob Latif, Kuala Lumpur, MalaysiaAD  - King Fahad Med City, Neurosci Res Dept, Res Ctr, Riyadh, Saudi ArabiaAD  - Hamad Bin Khalifa Univ, Coll Islamic Studies, Res Ctr Islamic Legislat & Eth CILE, Ar Rayyan, QatarC3  - Jordan University of Science & TechnologyC3  - Universiti Kebangsaan MalaysiaC3  - King Fahad Medical CityC3  - Qatar Foundation (QF)C3  - Hamad Bin Khalifa University-QatarFU  - Hamad bin Khalifa University
-FX  - No Statement Available
-PU  - SPRINGER
-PI  - NEW YORK
-PA  - ONE NEW YORK PLAZA, SUITE 4600, NEW YORK, NY, UNITED STATES
-SN  - 1176-7529
-SN  - 1872-4353
-J9  - J BIOETHIC INQ
-JI  - J. Bioethical Inq.
-DA  - DEC
-PY  - 2023
-VL  - 20
-IS  - 4
-SP  - 685
-EP  - 693
-DO  - 10.1007/s11673-023-10293-0
-C6  - DEC 2023
-WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:001119264800001
-N1  - Times Cited in Web of Science Core Collection:  3
-Total Times Cited:  3
-Cited Reference Count:  35
-ER  -
-
-TY  - JOUR
-AU  - El Moussaoui, T
-AU  - Chakir, L
-AU  - Boumhidi, J
-TI  - Preserving Privacy in Arabic Judgments: AI-Powered Anonymization for Enhanced Legal Data Privacy
-T2  - IEEE ACCESS
-LA  - English
-KW  - Anonymous judgments
-KW  - jurisprudence
-KW  - personal data
-KW  - Arabic named entity recognition
-KW  - ANERCorp
-KW  - NAMED-ENTITY RECOGNITION
-AB  - Jurisprudence involves studying, interpreting, and applying the law to comprehend its societal impact. Judges annually review cases to ensure accurate law application, which raises privacy concerns when accessing files from other courts. While the legal field has garnered interest from the research community, the challenge of masking personal data, particularly in the Arabic language with limited resources, remains in its early stages. To address this research gap, we develop a two-component system for generating anonymous Arabic judgments. The first component, a personal data extractor model, utilizes Named Entity Recognition (NER) to identify key individual entities like names, addresses, birthdays, case numbers, and national identity codes. We train this model on a purpose-built Arabic legal corpus. The second component involves a Python module designed to mask the personal entities extracted by the first component. Together, these components enable the generation of anonymous judgments. Our model achieves an F1-score of 96.14% when detecting entities in the created Arabic Legal corpus. Additionally, experiments on the ANERCorp corpus, with training and testing splits of 70%-30% and 90%-10%, yield F1-scores of 93.78% and 95.77%, respectively. With these results, our proposed system demonstrates the promising potential for generating anonymous Arabic judgments. Furthermore, the built Arabic legal corpus provides a valuable resource for researchers aiming to enhance domain-specific NER models in Arabic text.
-AD  - Sidi Mohamed Ben Abdellah Univ, Fac Sci Dhar Mahraz, LISAC Lab, Fes 30003, MoroccoC3  - Sidi Mohamed Ben Abdellah University of FezFU  - Ministry of Higher Education; Scientific Research and Innovation; Digital Development Agency (DDA); Moroccan National Center for Scientific and Technical Research [Alkhawarizmi/2020/36]
-FX  - This work was supported in part by the Ministry of Higher Education, in part by the Scientific Research and Innovation, in part by the Digital Development Agency (DDA), and in part by the Moroccan National Center for Scientific and Technical Research under Grant Alkhawarizmi/2020/36.
-PU  - IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
-PI  - PISCATAWAY
-PA  - 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
-SN  - 2169-3536
-J9  - IEEE ACCESS
-JI  - IEEE Access
-PY  - 2023
-VL  - 11
-SP  - 117851
-EP  - 117864
-DO  - 10.1109/ACCESS.2023.3324288
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001097542100001
-N1  - Times Cited in Web of Science Core Collection:  2
-Total Times Cited:  2
-Cited Reference Count:  31
-ER  -
-
-TY  - JOUR
-AU  - Khan, A
-AU  - Jiliani, MAHS
-TI  - EXPANDING THE BOUNDARIES OF JURISPRUDENCE IN THE ERA OF TECHNOLOGICAL ADVANCEMENTS
-T2  - IIUM LAW JOURNAL
-LA  - English
-KW  - New Technology Era
-KW  - Artificial Intelligence
-KW  - Big Data Basic
-KW  - Scope of Jurisprudence
-KW  - Jurisprudence Response
-KW  - ARTIFICIAL-INTELLIGENCE
-KW  - LAW
-KW  - INFORMATION
-KW  - TRANSFORMATION
-KW  - PARTICIPATION
-KW  - SOCIOLOGY
-KW  - PROPERTY
-KW  - JUDGES
-KW  - ETHICS
-KW  - NORMS
-AB  - In the current era of advanced technology, the convergence of artificial intelligence (AI) and big data presents intricate challenges in the technical and doctrinal aspects of law and the fundamental principles of jurisprudence. Addressing this challenge entails three potential approaches: reevaluating the independent status of specific foundational categories, reconfiguring the interpretation of such categories, or steadfastly defending and enhancing our understanding of specific classifications. The reconstruction of the essential concept of "law" remains uncertain and necessitates further deliberation. Although the new technological era has not introduced entirely novel jurisprudential dilemmas, it has reconsidered existing perspectives. Swiftly and effectively responding to these challenges becomes paramount in seizing fresh opportunities for the independent advancement of Chinese jurisprudence. The purpose of the study is to push the boundaries of jurisprudence by exploring and addressing legal issues arising in the era of technological advancements. The qualitative research methodology has been applied in this article.
-AD  - Univ Sialkot, Dept Law, Sialkot, PakistanAD  - Zhengzhou Univ, Sch Law, Zhengzhou, Peoples R ChinaC3  - Zhengzhou UniversityPU  - INT ISLAMIC UNIV MALAYSIA, PRESS RESEARCH MANAGEMENT CENTER
-PI  - KUALA LUMPUR
-PA  - PO BOX 10, KUALA LUMPUR, 50728, MALAYSIA
-SN  - 0128-2530
-SN  - 2289-7852
-J9  - IIUM LAW J
-JI  - IIUM Law J.
-PY  - 2023
-VL  - 31
-IS  - 2
-SP  - 393
-EP  - 426
-WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001125185300014
-N1  - Times Cited in Web of Science Core Collection:  1
-Total Times Cited:  1
-Cited Reference Count:  177
-ER  -
-
-TY  - JOUR
-AU  - Romano, A
-TI  - Credibility and law: the role of technology in the evaluation of international protection applications. The German asylum law case
-T2  - IDP-INTERNET LAW AND POLITICS
-LA  - English
-KW  - algorithms
-KW  - artificial intelligence
-KW  - international protection
-KW  - fundamental rights
-AB  - The article examines the introduction of automated systems and artificial intelligence (AI) in determining the credibility of applicants for international protection in Germany. To this end, it focuses on the examina-tion of two instruments, namely the extraction and evaluation of data contained in the electronic devices of asylum seekers, and the linguistic analysis performed by a piece of software capable of establishing the most likely country of origin of the applicant. Addressing German doctrine and jurisprudence, the article may serve the purpose of exploring, from the standpoint of asylum law, the tension between objectivity and efficiency of decisions in the public sector and the protection of fundamental rights.
-AD  - Univ Barcelona, Dept Ciencia Polit Derecho Constituc & Filosofia, Barcelona, SpainC3  - University of BarcelonaPU  - UNIV OBERTA CATALUNYA
-PI  - BARCELONA
-PA  - AV TIBIDABO 39-43, BARCELONA, 08035, SPAIN
-SN  - 1699-8154
-J9  - IDP-INTERNET LAW POL
-JI  - IDP-Internet Law Politics
-DA  - NOV
-PY  - 2023
-IS  - 39
-C7  - 417280
-DO  - 10.7238/idp.v0i39.417280
-WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001110825800006
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  33
-ER  -
-
-TY  - JOUR
-AU  - Davydova, I
-AU  - Andronov, I
-AU  - Zhurylo, S
-AU  - Zubar, V
-AU  - Iliopol, I
-TI  - Prospects for the use of artificial intelligence in jurisprudence: from the educational process to legal practice. The experience of China
-T2  - EDUWEB-REVISTA DE TECNOLOGIA DE INFORMACION Y COMUNICACION EN EDUCACION
-LA  - English
-KW  - jurisprudence
-KW  - educational process
-KW  - artificial intelligence
-KW  - judiciary
-KW  - innovative technologies
-AB  - Information technologies are gradually becoming an indispensable attribute of all spheres of human existence. Jurisprudence is no exception. We are on the way to the introduction of modern innovative technologies in all fields of jurisprudence. The main direction of such activity is the introduction of artificial intelligence technology even at the stage of obtaining legal education. The purpose of the work is to study the peculiarities of the involvement of artificial intelligence in the field of jurisprudence, starting from the stage of obtaining legal education and up to their professional activities, in particular, the administration of justice on the example of the PRC. The object of the study is the legal acts and judicial practice of the PRC, as well as other foreign countries, in the field of involving AI into the legal process. The subject of the study is social relations related to the involvement of artificial intelligence in the field of jurisprudence. Research methodology includes: comparative legal, analysis, synthesis and formal legal method. The authors of the article sum up that AI significantly simplifies and improves the quality of legal activity, including the educational process, as it allows to collect and analyze quickly great amount of legal content.
-AD  - Natl Univ Odesa Law Acad, Civil Law Dept, Odesa, UkraineAD  - Natl Univ Odesa Law Acad, Dept Civil Procedure, Odesa, UkraineAD  - Odesa City Council, State Registrat Dept, Legal Dept, Odesa, UkraineC3  - Ministry of Education & Science of UkraineC3  - National University Odesa Law AcademyC3  - Ministry of Education & Science of UkraineC3  - National University Odesa Law AcademyPU  - UNIV CARABOBO
-PI  - CARABOBO
-PA  - FAC CIENCIAS SALUD, CARABOBO, 00000, VENEZUELA
-SN  - 1856-7576
-J9  - EDUWEB-REV TECNOL IN
-JI  - Eduweb-Rev. Tecnol. Inf. Comun. Educ.
-DA  - OCT-DEC
-PY  - 2023
-VL  - 17
-IS  - 4
-SP  - 87
-EP  - 95
-DO  - 10.46502/issn.1856-7576/2023.17.04.9
-WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001124484100003
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  23
-ER  -
-
-TY  - JOUR
-AU  - Crespo, CS
-TI  - Artificial Intelligence and judicial decisions: chronicle of an announced transformation
-T2  - SCIRE-REPRESENTACION Y ORGANIZACION DEL CONOCIMIENTO
-LA  - English
-KW  - Artificial Intelligence
-KW  - Judicial decisions
-KW  - Robot judge
-KW  - Judicial decisions motivations
-KW  - Judicial in- dependence
-KW  - Judicial impartiality
-AB  - The penetration of AI (artificial intelligence) in our daily lives is becoming increasingly apparent. Its presence is subtly but unstoppably gaining ground. Our justice system cannot remain unaware of this reality. While there are weak versions of AI that pose hardly any legal or ethical problems by simply making our lives easier, strong AI, capable of making decisions on its own, causes suspicion and animosity in equal proportion. Two fundamental questions stem from this perspec-tive. First, whether it is possible that in a nearby future a robot judge will be able to decide on our wealth and/or freedom. Second if it is convenient and safe for it to do so. This article aims to answer both questions. To do so, we use the traditional methodology in law, consisting in consulting a significant number of biblio-graphical sources and applicable regulations (still work in progress) to formulate our particular approach to the subject. No jurisprudence was consulted for obvious reasons. The article closes with a reflection looking to the future, containing conclusions and lege ferenda's recommendations for a future regulation of AI in our le-gal system.
-AD  - Univ Valencia, Valencia, SpainC3  - University of ValenciaPU  - UNIV ZARAGOZA
-PI  - ZARAGOZA
-PA  - C/PEDRO CERBUNA 12, ZARAGOZA, 50009, SPAIN
-SN  - 1135-3716
-SN  - 2340-7042
-J9  - SCIRE
-JI  - Scire
-DA  - JUL-DEC
-PY  - 2023
-VL  - 29
-IS  - 2
-SP  - 65
-EP  - 84
-WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001115071400001
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  27
-ER  -
-
-TY  - JOUR
-AU  - Daly, E
-TI  - <i>AlphaZero</i> beats <i>Stockfish</i> 28 to 0. Artificial Intelligence, chess game and strategic choices.
-T2  - RIVISTA DI FILOSOFIA DEL DIRITTO-JOURNAL OF LEGAL PHILOSOPHY
-LA  - Italian
-KW  - Artificial Intelligence
-KW  - Neural Network
-KW  - Chess
-KW  - AlphaZero
-KW  - Bias
-AB  - The essay discusses the subject of Artificial Intelligence (AI) algorithms and the legal principles governing this matter. The functioning of the algorithms Turochamp, Stockfish, AlphaZero, used in the game of chess, is described in detail. Based on these examples, the differences between deterministic, non-strictly deterministic algorithms and self-training AI algorithms are analysed, up to the topic of opacity and black box, typical of deep-learning systems. Finally, the issue of the transparency and explicability required by jurisprudence for the use of AI algorithms in the public sphere and the compatibility of these legal principles with the functioning of these new technologies are addressed.
-AD  - Univ Milano Bicocca, Dipartimento Giurisprudenza, Piazza Ateneo Nuovo 1, I-20126 Milan, ItalyC3  - University of Milano-BicoccaPU  - SOC ED IL MULINO
-PI  - BOLOGNA
-PA  - STRADA MAGGIORE 37, 40125 BOLOGNA, ITALY
-SN  - 2280-482X
-J9  - RIV FILOS DIRIT
-JI  - Riv. Filos. Dirit.
-DA  - JUN
-PY  - 2023
-VL  - 12
-IS  - 1
-SP  - 189
-EP  - 210
-WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001003215000015
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  21
-ER  -
-
-TY  - JOUR
-AU  - Chourasia, S
-AU  - Pandey, SM
-AU  - Keshri, AK
-TI  - Prospects and Challenges with Legal Informatics and Legal Metrology Framework in the Context of Industry 6.0
-T2  - MAPAN-JOURNAL OF METROLOGY SOCIETY OF INDIA
-LA  - English
-KW  - Legal informative
-KW  - Metrology
-KW  - Legal metrology
-KW  - Frame work
-KW  - Legal system
-KW  - Quantum computing
-KW  - AI
-KW  - Robot judges
-KW  - Robot lawyer
-KW  - Industrial revolution (IR)
-KW  - Machine learning (ML)
-KW  - I
-KW  - 6
-KW  - 0 (Industry 6)
-KW  - CLOUD
-AB  - Industry 6.0 is viewed as a futuristic industrial evolution. It aims to set the synergy between man and robot by providing the wealth affluence away from the trade, and customers solutions that would provide progress to the world in every field across all planetary boundaries. Industry 6.0 comprises numerous promising technology such as quantum computing, artificial intelligence, machine learning, cloud computing, and quantum artificial computing. These technologies have the massive capabilities to help the legal industry, metrology industry and many other organizations attain their goals by delivering excellent and best-suited insights. In the future, these technologies will assist the lawmaker and jurisprudence in improving the old law justice system into the advanced one. In this article, we first introduce a glimpse of industry 6.0 from the outlook of legal information, digital transformation in metrology, and strength, limitation, opportunities, and threat analysis in brief. Then we discuss key technologies of industry 6.0, framework of legal informative, a futuristic model for a legal informatics system based on quantum-based AI, machine learning, and digital legal metrology and its challenges in adoption in regard's Industry 6.0. In subsequent sections, we discussed requirements, challenges, and progress in developed countries, preparedness of academia and industry in India. Then, we brief challenges for legal metrology in the future, opportunities for legal metrology in future legal challenges faced by lawyers and legal metrology, limitations of the study, research implication, and conclusion. Finally, the finding shows that industry 6.0 technologies have enormous capabilities to bring a revolutionary change in the legal industry but are present in the new born growth stage.
-AD  - Delhi Technol Univ, Dept Mech Engn, Delhi, IndiaAD  - Natl Inst Technol, Dept Mech Engn, Patna, IndiaAD  - Indian Inst Technol, Dept Met & Mat Engn, Patna, IndiaC3  - Delhi Technological UniversityC3  - National Institute of Technology (NIT System)C3  - National Institute of Technology PatnaC3  - Indian Institute of Technology System (IIT System)C3  - Indian Institute of Technology (IIT) - PatnaPU  - METROLOGY SOC INDIA
-PI  - NEW DELHI
-PA  - NPL PREMISES, DR K S KRISHNAN MARG, NEW DELHI, 110 012, INDIA
-SN  - 0970-3950
-SN  - 0974-9853
-J9  - MAPAN-J METROL SOC I
-JI  - MAPAN-J. Metrol. Soc. India
-DA  - DEC
-PY  - 2023
-VL  - 38
-IS  - 4
-SP  - 1027
-EP  - 1052
-DO  - 10.1007/s12647-023-00664-8
-C6  - MAY 2023
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000994623900001
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  107
-ER  -
-
